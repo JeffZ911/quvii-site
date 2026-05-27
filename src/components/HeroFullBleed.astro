@@ -33,7 +33,7 @@ const {
 const alignClass = align === "center" ? "text-center mx-auto" : "text-left";
 ---
 
-<section class="relative isolate overflow-hidden bg-hero-floor">
+<section class={`relative isolate overflow-hidden ${image ? "bg-ink" : "bg-hero-floor"}`}>
   {image && (
     <>
       <img
@@ -43,9 +43,14 @@ const alignClass = align === "center" ? "text-center mx-auto" : "text-left";
         loading="eager"
         fetchpriority="high"
         decoding="async"
-        class="absolute inset-0 h-full w-full object-cover opacity-70"
+        class="absolute inset-0 h-full w-full object-cover"
+        style="filter: brightness(1.55) contrast(1.05) saturate(1.05);"
       />
-      <div class="absolute inset-0 bg-story-fade"></div>
+      {/* Apple/DJI-style readability scrim: dense on the left where
+          the headline sits, fully clear across the right 2/3 so the
+          brand image is unobstructed. */}
+      <div class="absolute inset-0 bg-gradient-to-r from-black/70 from-0% via-black/25 via-25% to-transparent to-50%"></div>
+      <div class="absolute inset-x-0 bottom-0 h-16 bg-gradient-to-t from-black/30 to-transparent"></div>
     </>
   )}
 
