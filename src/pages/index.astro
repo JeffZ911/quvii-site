@@ -80,13 +80,19 @@ const learnSample = learn.filter(ok).sort(
   (a, b) => Date.parse(b.data.published_at || "") - Date.parse(a.data.published_at || "")
 )[0];
 
-const reviewsBannerImage = reviewSample?.data.hero_image
-  || rest.find((e) => e.data.hero_image)?.data.hero_image;
-const guidesBannerImage = learnSample?.data.hero_image
-  || rest.find((e) => e.id !== featuredId && e.data.hero_image && e.data.hero_image !== reviewsBannerImage)?.data.hero_image;
+// Brand assets — dedicated photoreal fixtures in /public/brand/ that
+// do NOT depend on article content. Preferred over article hero_images
+// for the homepage hero + CategoryBanner blocks so the visual identity
+// stays stable across content cycles.
+const BRAND_HERO          = "/brand/hero.png";
+const BRAND_REVIEWS_IMG   = "/brand/reviews-banner.png";
+const BRAND_GUIDES_IMG    = "/brand/guides-banner.png";
+
+const reviewsBannerImage = BRAND_REVIEWS_IMG;
+const guidesBannerImage  = BRAND_GUIDES_IMG;
 
 const hrefFor = (e: Entry) => `/${e._kind}/${e.slug}/`;
-const heroBackdrop = featured?.data.hero_image || undefined;
+const heroBackdrop = BRAND_HERO;
 
 const siteJsonLd = {
   "@context": "https://schema.org",
