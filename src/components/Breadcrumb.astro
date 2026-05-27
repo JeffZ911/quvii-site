@@ -1,0 +1,36 @@
+---
+interface Crumb { href?: string; label: string }
+interface Props { crumbs: Crumb[] }
+const { crumbs } = Astro.props;
+
+// JSON-LD BreadcrumbList so Google renders breadcrumbs in SERP.
+const SITE = "https://quvii.com";
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  itemListElement: crumbs.map((c, i) => ({
+    "@type": "ListItem",
+    position: i + 1,
+    name: c.label,
+    ...(c.href ? { item: c.href.startsWith("http") ? c.href : SITE + c.href } : {}),
+  })),
+};
+---
+
+<nav aria-label="Breadcrumb" class="mb-4 text-sm text-body-muted">
+  <ol class="flex flex-wrap items-center gap-1.5 list-none p-0">
+    {crumbs.map((c, i) => (
+      <li class="flex items-center gap-1.5">
+        {c.href ? (
+          <a href={c.href} class="hover:text-primary-600 no-underline">{c.label}</a>
+        ) : (
+          <span class="text-ink font-medium">{c.label}</span>
+        )}
+        {i < crumbs.length - 1 && (
+          <span class="text-body-faint">/</span>
+        )}
+      </li>
+    ))}
+  </ol>
+</nav>
+<script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />

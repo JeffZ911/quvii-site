@@ -1,0 +1,24 @@
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Node / Astro
+node_modules/
+dist/
+.astro/
+*.log
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Astro
+.astro/
+node_modules/
+dist/
+package-lock.json
+
+# Local config
+.claude/

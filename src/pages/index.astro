@@ -1,0 +1,185 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../layouts/BaseLayout.astro";
+import ArticleCard from "../components/ArticleCard.astro";
+
+// Phase 0 homepage — products not live yet. Hero = pre-launch positioning
+// + email capture. Recent content sections prove the site is alive and
+// authoritative, helping convert Google traffic into email subscribers
+// before the store opens.
+
+const blog = await getCollection("blog");
+const learn = await getCollection("learn");
+const all = [
+  ...blog.map((e) => ({ ...e, _kind: "blog" as const })),
+  ...learn.map((e) => ({ ...e, _kind: "learn" as const })),
+].filter((e) => !(typeof e.data.qa_score === "number" && e.data.qa_score < 6.0))
+ .sort((a, b) => Date.parse(b.data.published_at || "") - Date.parse(a.data.published_at || ""));
+
+const recent = all.slice(0, 6);
+const buyingGuides = blog.filter((e) => e.data.article_type === "buying_guide" || e.data.article_type === "comparison")
+                         .slice(0, 3);
+
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  url: "https://quvii.com/",
+  name: "Quvii",
+  description:
+    "Security cameras for people who'd rather own than rent their data. See everything. Subscribe to nothing.",
+  inLanguage: "en-US",
+  publisher: { "@type": "Organization", name: "Quvii" },
+};
+---
+
+<BaseLayout
+  title="Quvii — See everything. Subscribe to nothing."
+  description="Local-first home security cameras built for people who'd rather own than rent their data. Engineering-grade specs, no monthly subscription, full data sovereignty."
+  jsonLd={jsonLd}
+>
+  <!-- ===================== HERO ===================== -->
+  <section class="not-prose -mt-8 overflow-hidden rounded-2xl bg-hero-gradient px-6 py-16 sm:px-12 sm:py-20 lg:py-24">
+    <div class="mx-auto max-w-3xl text-center">
+      <p class="inline-flex items-center gap-2 rounded-full border border-white/15 bg-white/5 px-3 py-1 text-xs font-semibold uppercase tracking-widest text-primary-200">
+        <span class="inline-block h-1.5 w-1.5 rounded-full bg-signal-400 animate-pulse"></span>
+        Coming soon · 2026
+      </p>
+      <h1 class="mt-5 text-4xl font-bold leading-tight text-white sm:text-6xl">
+        See everything.<br />
+        <span class="bg-gradient-to-r from-primary-300 to-primary-500 bg-clip-text text-transparent">
+          Subscribe to nothing.
+        </span>
+      </h1>
+      <p class="mx-auto mt-5 max-w-2xl text-lg text-white/70">
+        Quvii makes home security cameras for people who'd rather own than rent
+        their data. Engineering-grade specs, local recording by default, zero
+        monthly subscription required.
+      </p>
+
+      <form
+        id="notify"
+        action="https://buttondown.com/api/emails/embed-subscribe/quvii"
+        method="post"
+        target="popupwindow"
+        onsubmit="window.open('https://buttondown.com/quvii', 'popupwindow')"
+        class="mx-auto mt-8 flex max-w-md flex-col gap-2 sm:flex-row"
+      >
+        <input
+          type="email"
+          name="email"
+          required
+          placeholder="you@example.com"
+          class="flex-1 rounded-md border border-white/10 bg-white/5 px-4 py-2.5 text-white placeholder-white/40 focus:border-primary-400 focus:outline-none focus:ring-2 focus:ring-primary-500/40"
+        />
+        <button
+          type="submit"
+          class="rounded-md bg-primary-500 px-5 py-2.5 font-semibold text-white shadow-glow-primary hover:bg-primary-400"
+        >
+          Notify me at launch
+        </button>
+      </form>
+      <p class="mt-3 text-xs text-white/40">
+        Early subscribers get founding-customer pricing + first access.
+      </p>
+
+      <ul class="mx-auto mt-10 grid max-w-2xl grid-cols-1 gap-3 text-left text-sm text-white/70 sm:grid-cols-3 list-none p-0">
+        <li class="flex items-center gap-2">
+          <span class="inline-flex h-5 w-5 items-center justify-center rounded-full bg-signal-500/20 text-signal-400">✓</span>
+          No monthly subscription
+        </li>
+        <li class="flex items-center gap-2">
+          <span class="inline-flex h-5 w-5 items-center justify-center rounded-full bg-signal-500/20 text-signal-400">✓</span>
+          Local-first recording (microSD + NVR)
+        </li>
+        <li class="flex items-center gap-2">
+          <span class="inline-flex h-5 w-5 items-center justify-center rounded-full bg-signal-500/20 text-signal-400">✓</span>
+          Works without the cloud
+        </li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- ===================== Trust strip ===================== -->
+  <section class="mt-14 grid gap-6 sm:grid-cols-3">
+    <div class="rounded-xl border border-body-line bg-trust-card p-5">
+      <div class="text-2xl">🔒</div>
+      <h3 class="mt-2 text-sm font-semibold text-ink">Local-first by default</h3>
+      <p class="mt-1 text-xs text-body-muted">Footage stays on your microSD or NVR. Cloud is optional, not required.</p>
+    </div>
+    <div class="rounded-xl border border-body-line bg-trust-card p-5">
+      <div class="text-2xl">🛡️</div>
+      <h3 class="mt-2 text-sm font-semibold text-ink">No data sharing</h3>
+      <p class="mt-1 text-xs text-body-muted">We don't sell your video, don't share with police without a warrant, don't analyze your footage.</p>
+    </div>
+    <div class="rounded-xl border border-body-line bg-trust-card p-5">
+      <div class="text-2xl">⚙️</div>
+      <h3 class="mt-2 text-sm font-semibold text-ink">Engineering-grade specs</h3>
+      <p class="mt-1 text-xs text-body-muted">PoE, ONVIF, RTSP, dual-band Wi-Fi — open standards, not lock-in.</p>
+    </div>
+  </section>
+
+  <!-- ===================== Buying guides funnel ===================== -->
+  {buyingGuides.length > 0 && (
+    <section class="mt-16">
+      <div class="flex items-end justify-between">
+        <div>
+          <p class="text-xs font-semibold uppercase tracking-widest text-primary-600">Independent reviews</p>
+          <h2 class="mt-1 text-2xl font-bold text-ink">Camera buying guides</h2>
+        </div>
+        <a href="/blog/buying-guides/" class="text-sm text-primary-600 no-underline hover:underline">All guides →</a>
+      </div>
+      <div class="mt-5 grid gap-4 md:grid-cols-3">
+        {buyingGuides.map((e) => (
+          <ArticleCard
+            href={`/blog/${e.slug}/`}
+            title={e.data.title}
+            articleType={e.data.article_type}
+            wordCount={e.data.word_count}
+            publishedAt={e.data.published_at}
+            heroImage={e.data.hero_image}
+          />
+        ))}
+      </div>
+    </section>
+  )}
+
+  <!-- ===================== Recent content ===================== -->
+  {recent.length > 0 && (
+    <section class="mt-16">
+      <div class="flex items-end justify-between">
+        <div>
+          <p class="text-xs font-semibold uppercase tracking-widest text-primary-600">Knowledge base</p>
+          <h2 class="mt-1 text-2xl font-bold text-ink">Recent articles</h2>
+        </div>
+        <a href="/blog/" class="text-sm text-primary-600 no-underline hover:underline">All articles →</a>
+      </div>
+      <div class="mt-5 grid gap-4 md:grid-cols-2 lg:grid-cols-3">
+        {recent.map((e) => (
+          <ArticleCard
+            href={`/${e._kind}/${e.slug}/`}
+            title={e.data.title}
+            articleType={e.data.article_type}
+            wordCount={e.data.word_count}
+            publishedAt={e.data.published_at}
+            heroImage={e.data.hero_image}
+          />
+        ))}
+      </div>
+    </section>
+  )}
+
+  <!-- ===================== Bottom email reminder ===================== -->
+  <section class="mt-20 mb-8 rounded-2xl border border-primary-200 bg-primary-50 p-8 text-center">
+    <h2 class="text-2xl font-bold text-ink">First access. Founding price.</h2>
+    <p class="mx-auto mt-2 max-w-xl text-sm text-body-muted">
+      Sign up early and we'll send you the spec sheets, FCC test results, and
+      a founding-customer discount the day Quvii ships.
+    </p>
+    <a
+      href="#notify"
+      class="mt-4 inline-flex items-center rounded-md bg-primary-500 px-5 py-2.5 font-semibold text-white no-underline hover:bg-primary-600"
+    >
+      Get notified →
+    </a>
+  </section>
+</BaseLayout>

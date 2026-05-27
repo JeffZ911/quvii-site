@@ -1,0 +1,78 @@
+---
+// TableOfContents — sticky right-side index on xl+ screens. Ported from
+// ntecodex-site; color tokens swapped for quvii's light theme.
+// Hidden on mobile/tablet and on articles with fewer than 3 h2 headings.
+
+interface Heading { depth: number; slug: string; text: string }
+interface Props { headings: Heading[] }
+
+const { headings } = Astro.props;
+
+const items = (headings || []).filter(
+  (h) => (h.depth === 2 || h.depth === 3) && h.text && h.slug
+);
+const visible = items.filter((h) => h.depth === 2).length >= 3;
+---
+
+{visible && (
+  <aside aria-label="Article contents" class="toc hidden xl:block w-56 shrink-0">
+    <div class="sticky top-20">
+      <p class="m-0 text-xs font-semibold uppercase tracking-wider text-primary-600">
+        Contents
+      </p>
+      <nav class="mt-3 max-h-[calc(100vh-8rem)] overflow-y-auto pr-2">
+        <ul class="m-0 list-none space-y-1 p-0 text-sm">
+          {items.map((h) => (
+            <li class={h.depth === 3 ? "ml-3" : ""}>
+              <a
+                href={`#${h.slug}`}
+                data-toc-link
+                data-target={h.slug}
+                class={`block rounded px-2 py-1 leading-snug no-underline transition-colors ${
+                  h.depth === 3
+                    ? "text-body-faint hover:text-body-muted"
+                    : "text-body-muted hover:text-ink"
+                }`}
+              >
+                {h.text}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </nav>
+    </div>
+  </aside>
+)}
+
+<script is:inline>
+  (function () {
+    const links = document.querySelectorAll("[data-toc-link]");
+    if (!links.length) return;
+    const linkBySlug = new Map();
+    links.forEach((l) => linkBySlug.set(l.dataset.target, l));
+    const headingEls = Array.from(linkBySlug.keys())
+      .map((slug) => document.getElementById(slug))
+      .filter(Boolean);
+    if (!headingEls.length) return;
+    let active = null;
+    function setActive(slug) {
+      if (active === slug) return;
+      if (active) {
+        const prev = linkBySlug.get(active);
+        if (prev) prev.classList.remove("text-primary-700", "bg-primary-50", "font-semibold");
+      }
+      active = slug;
+      const cur = linkBySlug.get(slug);
+      if (cur) cur.classList.add("text-primary-700", "bg-primary-50", "font-semibold");
+    }
+    const io = new IntersectionObserver(
+      (entries) => {
+        const inView = entries.filter((e) => e.isIntersecting)
+          .sort((a, b) => a.boundingClientRect.top - b.boundingClientRect.top);
+        if (inView.length) setActive(inView[0].target.id);
+      },
+      { rootMargin: "-80px 0px -70% 0px", threshold: 0 }
+    );
+    headingEls.forEach((h) => io.observe(h));
+  })();
+</script>

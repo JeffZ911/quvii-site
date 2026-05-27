@@ -1,0 +1,40 @@
+---
+import { getCollection, type CollectionEntry } from "astro:content";
+import ArticleLayout from "../../layouts/ArticleLayout.astro";
+import ProductRoundup from "../../components/ProductRoundup.astro";
+
+export async function getStaticPaths() {
+  const all = await getCollection("blog");
+  return all.map((entry) => ({ params: { slug: entry.slug }, props: { entry } }));
+}
+
+interface Props { entry: CollectionEntry<"blog"> }
+const { entry } = Astro.props;
+const { Content, headings } = await entry.render();
+
+const crumbs = [
+  { href: "/", label: "Home" },
+  { href: "/blog/", label: "Blog" },
+  { label: entry.data.title },
+];
+---
+
+<ArticleLayout
+  title={entry.data.title}
+  publishedAt={entry.data.published_at}
+  qaScore={entry.data.qa_score}
+  wordCount={entry.data.word_count}
+  articleType={entry.data.article_type}
+  heroImage={entry.data.hero_image}
+  sources={entry.data.sources}
+  slug={entry.slug}
+  crumbs={crumbs}
+  headings={headings}
+  quickAnswer={entry.data.quick_answer}
+  affiliate={entry.data.affiliate}
+>
+  {entry.data.products && entry.data.products.length > 0 && (
+    <ProductRoundup products={entry.data.products} />
+  )}
+  <Content />
+</ArticleLayout>

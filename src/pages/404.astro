@@ -1,0 +1,39 @@
+---
+// P0 fix (inherited from ntecodex 2026-05-13): explicit 404 page so
+// Cloudflare Pages stops serving the homepage HTML for missing routes.
+// Astro builds this to dist/404.html — CF Pages serves it with a real
+// 404 status for any path that isn't a built static asset.
+
+import BaseLayout from "../layouts/BaseLayout.astro";
+---
+<BaseLayout
+  title="Not found — Quvii Blog"
+  description="The page you were looking for doesn't exist."
+  noindex={true}
+>
+  <section class="mx-auto max-w-2xl px-4 py-16 text-center">
+    <p class="text-sm uppercase tracking-wider text-body-faint">404</p>
+    <h1 class="mt-2 text-3xl font-semibold text-ink">
+      That page hasn't shipped yet.
+    </h1>
+    <p class="mt-4 text-body-muted">
+      The URL you opened doesn't match any article on the Quvii blog.
+      It may have been renamed, or the article hasn't been generated yet —
+      our pipeline ships new content every hour.
+    </p>
+    <div class="mt-8 flex justify-center gap-3">
+      <a
+        href="/"
+        class="rounded-md bg-primary-500 px-4 py-2 text-white no-underline hover:bg-primary-600"
+      >
+        Blog home
+      </a>
+      <a
+        href="/learn/"
+        class="rounded-md border border-body-line px-4 py-2 text-ink no-underline hover:bg-primary-50"
+      >
+        All guides
+      </a>
+    </div>
+  </section>
+</BaseLayout>

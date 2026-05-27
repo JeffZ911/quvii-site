@@ -1,0 +1,89 @@
+---
+import { getCollection } from "astro:content";
+import { findRelated } from "../lib/related-articles";
+
+interface Props {
+  /** Astro entry slug of the current article (collection-relative). */
+  currentSlug: string;
+  /** article_type from frontmatter — used to infer the source collection. */
+  articleType: string;
+}
+const { currentSlug, articleType } = Astro.props;
+
+// article_type → content collection
+const COLLECTION_BY_TYPE: Record<string, "guides" | "boss" | "characters"> = {
+  build: "guides",
+  comparison: "guides",
+  reroll: "guides",
+  boss_guide: "boss",
+  character_db: "characters",
+};
+const currentCollection = COLLECTION_BY_TYPE[articleType] || "guides";
+
+// Pull every long-form article so the algorithm can score across all of
+// them. Tier-list-source / faq-source are excluded because they don't
+// have their own canonical URL.
+const [guides, boss, characters] = await Promise.all([
+  getCollection("guides"),
+  getCollection("boss"),
+  getCollection("characters"),
+]);
+
+const pool = [
+  ...guides.map((e) => ({ ...e, collection: "guides" as const })),
+  ...boss.map((e) => ({ ...e, collection: "boss" as const })),
+  ...characters.map((e) => ({ ...e, collection: "characters" as const })),
+];
+
+const current = pool.find(
+  (e) => e.slug === currentSlug && e.collection === currentCollection
+);
+
+const characterNames = characters
+  .map((c) => c.data.title.split(/[:|–—]/)[0].trim())
+  .filter(Boolean);
+
+const related = current
+  ? findRelated(current as any, pool as any, characterNames, 8)
+  : [];
+---
+
+{related.length > 0 && (
+  <section class="mt-12 border-t border-white/5 pt-8">
+    <h2 class="mt-0 text-xl">Related Guides</h2>
+    <div class="mt-4 grid gap-3 sm:grid-cols-2">
+      {related.map((r) => (
+        <a href={r.href.endsWith("/") ? r.href : r.href + "/"} class="block no-underline group">
+          <article class="card h-full">
+            <div class="flex gap-3">
+              {r.heroImage && (
+                <img
+                  src={r.heroImage}
+                  alt=""
+                  width="80"
+                  height="80"
+                  loading="lazy"
+                  decoding="async"
+                  class="h-20 w-20 flex-shrink-0 rounded-lg object-cover"
+                />
+              )}
+              <div class="min-w-0 flex-1">
+                <div class="flex items-center gap-2 text-xs">
+                  <span class="rounded bg-primary-700/30 px-1.5 py-0.5 capitalize text-primary-100">
+                    {r.articleType.replace("_", " ")}
+                  </span>
+                  {r.qaScore != null && (
+                    <span class="text-gold">{r.qaScore.toFixed(1)}</span>
+                  )}
+                </div>
+                <h3 class="mt-1 mb-0 text-sm font-semibold text-white group-hover:text-primary-200">
+                  {r.title}
+                </h3>
+              </div>
+            </div>
+          </article>
+        </a>
+      ))}
+    </div>
+  </section>
+)}

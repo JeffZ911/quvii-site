@@ -1,0 +1,47 @@
+---
+interface Props {
+  href: string;
+  title: string;
+  articleType: string;
+  qaScore?: number;
+  wordCount?: number;
+  publishedAt?: string;
+  heroImage?: string;
+}
+const { href, title, articleType, qaScore, wordCount, publishedAt, heroImage } = Astro.props;
+
+const typeBadge: Record<string, string> = {
+  build: "bg-primary-700/30 text-primary-100",
+  tier_list: "bg-gold/20 text-gold",
+  boss_guide: "bg-red-500/20 text-red-300",
+  reroll: "bg-emerald-500/20 text-emerald-300",
+  character_db: "bg-pink-500/20 text-pink-300",
+  weapon_db: "bg-amber-500/20 text-amber-300",
+  news: "bg-blue-500/20 text-blue-300",
+  faq: "bg-violet-500/20 text-violet-300",
+  comparison: "bg-cyan-500/20 text-cyan-300",
+};
+const badgeCls = typeBadge[articleType] ?? "bg-white/10 text-gray-300";
+const dateStr = publishedAt ? new Date(publishedAt).toISOString().slice(0, 10) : "";
+---
+
+<a href={href} class="block no-underline group h-full">
+  <article class="card h-full flex flex-col">
+    {heroImage && (
+      <img src={heroImage} alt=""
+           width="640" height="360"
+           loading="lazy" decoding="async"
+           class="aspect-video w-full rounded-lg object-cover mb-3 -mt-1" />
+    )}
+    <div class="flex items-center gap-2 text-xs">
+      <span class={`badge ${badgeCls} capitalize`}>{articleType.replace("_", " ")}</span>
+      {dateStr && <span class="text-gray-500">{dateStr}</span>}
+    </div>
+    <h3 class="mt-2 mb-0 text-base font-semibold text-white group-hover:text-primary-200">
+      {title}
+    </h3>
+    <div class="mt-auto pt-3 flex items-center gap-3 text-xs text-gray-500">
+      {wordCount != null && <span>{wordCount.toLocaleString()} words</span>}
+    </div>
+  </article>
+</a>

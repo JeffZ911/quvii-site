@@ -1,0 +1,85 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+---
+
+<BaseLayout
+  title="Editorial Policy — Quvii"
+  description="How Quvii sources, drafts, fact-checks and publishes its security-camera buying guides, comparisons and reviews."
+>
+  <h1 class="text-3xl font-bold text-ink">Editorial Policy</h1>
+  <p class="text-sm text-body-faint">Last updated: 2026-05-27</p>
+
+  <div class="prose-pm max-w-prose">
+    <p class="lead">
+      Quvii is a security-camera D2C brand. This blog exists to help shoppers
+      make informed decisions — including, sometimes, picking a competitor.
+      This page explains how an article gets onto Quvii: sourcing, drafting,
+      fact-checking, and corrections.
+    </p>
+
+    <h2>Sourcing</h2>
+    <p>Every factual claim must trace to one of three source types:</p>
+    <ul>
+      <li><strong>Manufacturer documentation</strong> — official spec sheets,
+        FCC filings, support docs, firmware changelogs. Canonical truth for
+        hardware claims.</li>
+      <li><strong>Independent reviewers</strong> — RTINGS, Wirecutter,
+        Tom's Guide, The Verge, CNET. Cross-referenced against community
+        consensus.</li>
+      <li><strong>User community</strong> — r/HomeSecurity, r/homedefense,
+        r/AmazonRing, established forums. We never quote individual reviews
+        without aggregating; we cite the thread or wiki.</li>
+    </ul>
+
+    <h2>How content is produced</h2>
+    <p>
+      Quvii articles are <strong>AI-assisted and human-reviewed</strong>.
+      We disclose this clearly because Google's guidance is unambiguous:
+      AI-assisted content is fine if it's useful, original, and transparently
+      produced. Hiding it is what hurts trust.
+    </p>
+    <ol>
+      <li>Our keyword pipeline picks topics from a curated pool of
+        camera-shopper search queries.</li>
+      <li>An outline agent drafts the structure using Google Search
+        grounding — every section must cite ≥1 source URL.</li>
+      <li>A writer agent expands sections to prose with strict noun-binding
+        (named products/specs come from cited sources, not invention).</li>
+      <li>A QA agent scores the draft on six dimensions including a hard
+        factual-accuracy gate (unverifiable product names or specs = auto-reject).</li>
+      <li>Only articles scoring ≥ 6.0/10 publish; articles &lt; 6.0 are
+        noindex'd and excluded from sitemap.</li>
+    </ol>
+
+    <h2>Independence + conflicts of interest</h2>
+    <p>
+      Quvii sells security cameras. We <em>do</em> mention Quvii in articles
+      about cameras — that's our category and our team has direct experience.
+      We mark this transparently:
+    </p>
+    <ul>
+      <li>Every comparison article that includes Quvii is labelled inline.</li>
+      <li>Our commission rate from Amazon Associates is the same percentage
+        across compared products in a category — we have <em>no financial
+        incentive</em> to recommend Product A over Product B.</li>
+      <li>We decline paid placement offers and log declined offers publicly
+        on request.</li>
+    </ul>
+
+    <h2>What we won't do</h2>
+    <ul>
+      <li>Recommend a product we wouldn't use ourselves.</li>
+      <li>Hide a product's cons. Every product gets cons.</li>
+      <li>Re-order rankings in exchange for higher commission.</li>
+      <li>Publish vendor press releases as our own reporting.</li>
+    </ul>
+
+    <h2>Corrections</h2>
+    <p>
+      Spotted an error? Email <strong>hello@quvii.com</strong> with the
+      article URL and what's wrong. We respond within 3 business days.
+      Material corrections get a "Corrected on YYYY-MM-DD" line at the top
+      of the affected article.
+    </p>
+  </div>
+</BaseLayout>
