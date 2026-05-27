@@ -1,84 +1,71 @@
 ---
-// Quvii footer — 5-column nav + bottom legal/disclosure bar.
-//
-// Phase 0: all paths are Astro. Phase 1+ /products /cart become Shopify
-// but the links don't change (CF Worker handles routing).
+// Quvii global footer — brand-tech outpost voice, not publication.
+// 5-column nav + bottom legal/disclosure bar.
 ---
 
-<footer class="mt-24 border-t border-body-line bg-ink text-white">
-  <div class="mx-auto max-w-7xl px-6 py-12">
-    <div class="grid gap-10 md:grid-cols-6">
-      <div class="md:col-span-1">
+<footer class="mt-0 bg-ink text-white">
+  <div class="container-wide py-16 lg:py-20">
+    <div class="grid gap-12 md:grid-cols-6">
+      <div class="md:col-span-2">
         <a href="/" class="flex items-center gap-2 no-underline text-white">
           <span class="inline-flex h-8 w-8 items-center justify-center rounded-md bg-primary-500 text-white text-sm font-bold">Q</span>
-          <span class="font-display text-lg font-semibold">Quvii</span>
+          <span class="font-display text-lg font-semibold tracking-tight">Quvii</span>
         </a>
-        <p class="mt-3 text-sm text-white/60 leading-relaxed">
-          See everything. Subscribe to nothing. Local-first home security
-          cameras for people who'd rather own than rent their data.
+        <p class="mt-4 text-sm text-white/60 leading-relaxed max-w-sm">
+          A US-headquartered connected-security technology brand. Field-level
+          research on the cameras, sensors, and software shaping the modern home.
         </p>
       </div>
 
       <div>
-        <h3 class="text-xs font-semibold uppercase tracking-wider text-white mt-0">Shop</h3>
-        <ul class="mt-3 space-y-2 list-none p-0">
-          <li><a href="/products/" class="text-sm text-white/60 hover:text-white no-underline">All cameras</a></li>
-          <li><a href="/collections/indoor/" class="text-sm text-white/60 hover:text-white no-underline">Indoor</a></li>
-          <li><a href="/collections/outdoor/" class="text-sm text-white/60 hover:text-white no-underline">Outdoor</a></li>
-          <li><a href="/collections/wireless/" class="text-sm text-white/60 hover:text-white no-underline">Wireless</a></li>
+        <h3 class="text-xs font-semibold uppercase tracking-[0.18em] text-white/90 mt-0">Work</h3>
+        <ul class="mt-4 space-y-3 list-none p-0">
+          <li><a href="/reviews/" class="text-sm text-white/60 hover:text-white no-underline transition-colors">Reviews</a></li>
+          <li><a href="/learn/" class="text-sm text-white/60 hover:text-white no-underline transition-colors">Guides</a></li>
+          <li><a href="/blog/" class="text-sm text-white/60 hover:text-white no-underline transition-colors">Insights</a></li>
         </ul>
       </div>
 
       <div>
-        <h3 class="text-xs font-semibold uppercase tracking-wider text-white mt-0">Learn</h3>
-        <ul class="mt-3 space-y-2 list-none p-0">
-          <li><a href="/blog/" class="text-sm text-white/60 hover:text-white no-underline">Blog</a></li>
-          <li><a href="/blog/buying-guides/" class="text-sm text-white/60 hover:text-white no-underline">Buying guides</a></li>
-          <li><a href="/blog/comparisons/" class="text-sm text-white/60 hover:text-white no-underline">Comparisons</a></li>
-          <li><a href="/learn/" class="text-sm text-white/60 hover:text-white no-underline">Knowledge base</a></li>
-          <li><a href="/reviews/" class="text-sm text-white/60 hover:text-white no-underline">Reviews</a></li>
+        <h3 class="text-xs font-semibold uppercase tracking-[0.18em] text-white/90 mt-0">Company</h3>
+        <ul class="mt-4 space-y-3 list-none p-0">
+          <li><a href="/about/" class="text-sm text-white/60 hover:text-white no-underline transition-colors">About</a></li>
+          <li><a href="/editorial-policy/" class="text-sm text-white/60 hover:text-white no-underline transition-colors">Standards</a></li>
+          <li><a href="mailto:hello@quvii.com" class="text-sm text-white/60 hover:text-white no-underline transition-colors">Contact</a></li>
         </ul>
       </div>
 
       <div>
-        <h3 class="text-xs font-semibold uppercase tracking-wider text-white mt-0">Support</h3>
-        <ul class="mt-3 space-y-2 list-none p-0">
-          <li><a href="/support/" class="text-sm text-white/60 hover:text-white no-underline">Help center</a></li>
-          <li><a href="/support/setup/" class="text-sm text-white/60 hover:text-white no-underline">Setup guides</a></li>
-          <li><a href="/support/troubleshooting/" class="text-sm text-white/60 hover:text-white no-underline">Troubleshooting</a></li>
-          <li><a href="/support/firmware/" class="text-sm text-white/60 hover:text-white no-underline">Firmware</a></li>
-          <li><a href="/support/contact/" class="text-sm text-white/60 hover:text-white no-underline">Contact</a></li>
+        <h3 class="text-xs font-semibold uppercase tracking-[0.18em] text-white/90 mt-0">Legal</h3>
+        <ul class="mt-4 space-y-3 list-none p-0">
+          <li><a href="/affiliate-disclosure/" class="text-sm text-white/60 hover:text-white no-underline transition-colors">Affiliate disclosure</a></li>
+          <li><a href="/privacy/" class="text-sm text-white/60 hover:text-white no-underline transition-colors">Privacy</a></li>
+          <li><a href="/terms/" class="text-sm text-white/60 hover:text-white no-underline transition-colors">Terms</a></li>
         </ul>
       </div>
 
       <div>
-        <h3 class="text-xs font-semibold uppercase tracking-wider text-white mt-0">Company</h3>
-        <ul class="mt-3 space-y-2 list-none p-0">
-          <li><a href="/about/" class="text-sm text-white/60 hover:text-white no-underline">About</a></li>
-          <li><a href="/warranty/" class="text-sm text-white/60 hover:text-white no-underline">Warranty</a></li>
-          <li><a href="/shipping/" class="text-sm text-white/60 hover:text-white no-underline">Shipping</a></li>
-          <li><a href="/contact/" class="text-sm text-white/60 hover:text-white no-underline">Contact</a></li>
-        </ul>
-      </div>
-
-      <div>
-        <h3 class="text-xs font-semibold uppercase tracking-wider text-white mt-0">Legal</h3>
-        <ul class="mt-3 space-y-2 list-none p-0">
-          <li><a href="/editorial-policy/" class="text-sm text-white/60 hover:text-white no-underline">Editorial policy</a></li>
-          <li><a href="/affiliate-disclosure/" class="text-sm text-white/60 hover:text-white no-underline">Affiliate disclosure</a></li>
-          <li><a href="/privacy/" class="text-sm text-white/60 hover:text-white no-underline">Privacy</a></li>
-          <li><a href="/terms/" class="text-sm text-white/60 hover:text-white no-underline">Terms</a></li>
-        </ul>
+        <h3 class="text-xs font-semibold uppercase tracking-[0.18em] text-white/90 mt-0">Stay in touch</h3>
+        <p class="mt-4 text-sm text-white/60 leading-relaxed">
+          One brief, every week. Field reports + analysis.
+        </p>
+        <a
+          href="https://buttondown.com/quvii"
+          target="_blank"
+          rel="noopener"
+          class="mt-4 inline-flex items-center gap-1 text-sm font-medium text-white hover:text-primary-300 no-underline transition-colors"
+        >
+          Subscribe <span aria-hidden="true">›</span>
+        </a>
       </div>
     </div>
 
-    <div class="mt-10 flex flex-col items-start justify-between gap-3 border-t border-white/10 pt-6 text-xs text-white/50 md:flex-row">
-      <p>© {new Date().getFullYear()} Quvii. All rights reserved.</p>
+    <div class="mt-12 flex flex-col items-start justify-between gap-3 border-t border-white/10 pt-8 text-xs text-white/45 md:flex-row md:items-center">
+      <p>© {new Date().getFullYear()} Quvii Inc. All rights reserved.</p>
       <p>
-        Reviews are AI-assisted + human-reviewed —
-        <a href="/editorial-policy/" class="underline hover:text-white">methodology</a>.
-        As an Amazon Associate we earn from qualifying purchases —
-        <a href="/affiliate-disclosure/" class="underline hover:text-white">disclosure</a>.
+        Methodology — <a href="/editorial-policy/" class="underline decoration-white/30 hover:text-white hover:decoration-white transition-colors">Standards</a>
+        · As an Amazon Associate, Quvii earns from qualifying purchases —
+        <a href="/affiliate-disclosure/" class="underline decoration-white/30 hover:text-white hover:decoration-white transition-colors">Disclosure</a>.
       </p>
     </div>
   </div>

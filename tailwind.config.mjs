@@ -1,12 +1,8 @@
 /** @type {import('tailwindcss').Config} */
 //
-// Quvii palette — technical/professional security camera brand.
-// Mood: trust, precision, dark calm (cameras observe quietly).
-//   • Deep navy hero — gravity of professional security gear
-//   • White content surfaces with cool-gray text — engineering-doc feel
-//   • Cobalt/electric primary — quality + tech, distinct from Ring's
-//     teal and Amazon's orange
-//   • Safety green as status accent (recording-dot vibe)
+// Quvii design tokens — aligned with Apple / DJI premium tech-brand
+// aesthetics. Near-black + true-white surfaces, single accent reserved
+// for CTAs / links. Generous spacing scale. Tight display tracking.
 //
 export default {
   content: ["./src/**/*.{astro,html,js,jsx,md,mdx,ts,tsx}"],
@@ -14,19 +10,19 @@ export default {
     extend: {
       colors: {
         ink: {
-          DEFAULT: "#0a1628",
-          deep:    "#06101e",
-          soft:    "#162338",
+          DEFAULT: "#0a0a0a",   // primary text + dark surfaces
+          deep:    "#000000",   // hero gradient floor
+          soft:    "#1c1c1e",   // dark card surfaces (Apple-grade)
         },
-        // Quvii brand primary — #0387E5 (electric cobalt, signals clarity
-        // + signal + precision). Generated 50-900 scale around the 500 anchor.
+        // Primary kept at #0387E5 — used ONLY for interactive accents
+        // (CTAs, link hover). NEVER as a large background.
         primary: {
           50:  "#e6f3fd",
           100: "#c5e3fb",
           200: "#90c8f6",
           300: "#54a8f0",
           400: "#1e8aea",
-          500: "#0387e5",   // ← brand color
+          500: "#0387e5",
           600: "#026fbb",
           700: "#025894",
           800: "#03467a",
@@ -38,15 +34,14 @@ export default {
           600: "#059669",
         },
         body: {
-          DEFAULT: "#0f172a",
-          muted:   "#475569",
-          faint:   "#94a3b8",
-          line:    "#e2e8f0",
+          DEFAULT: "#1d1d1f",   // Apple body text
+          muted:   "#6e6e73",   // Apple secondary text
+          faint:   "#86868b",   // Apple tertiary text
+          line:    "#d2d2d7",   // Apple hairline divider
         },
-        trust: {
-          warranty: "#0ea5e9",
-          privacy:  "#10b981",
-          local:    "#f59e0b",
+        surface: {
+          DEFAULT: "#ffffff",
+          alt:     "#f5f5f7",   // Apple section alt background
         },
       },
       fontFamily: {
@@ -55,22 +50,38 @@ export default {
           "ui-sans-serif", "system-ui", "-apple-system", "BlinkMacSystemFont",
           '"Segoe UI"', "Roboto", '"Helvetica Neue"', "Arial", "sans-serif",
         ],
-        display: ['"Inter"', "ui-sans-serif", "system-ui", "sans-serif"],
+        display: [
+          "Inter",
+          "ui-sans-serif", "system-ui", "-apple-system", "BlinkMacSystemFont",
+          "sans-serif",
+        ],
         mono: ["JetBrains Mono", "ui-monospace", "Menlo", "monospace"],
       },
+      letterSpacing: {
+        "display": "-0.035em",   // tight Apple display tracking
+        "tightest": "-0.05em",
+      },
+      fontSize: {
+        // Apple-grade display scale (clamp-able via classes)
+        "display-sm": ["2.5rem",  { lineHeight: "1.08", letterSpacing: "-0.025em", fontWeight: "600" }],
+        "display":    ["3.5rem",  { lineHeight: "1.05", letterSpacing: "-0.03em",  fontWeight: "600" }],
+        "display-lg": ["5rem",    { lineHeight: "1.02", letterSpacing: "-0.035em", fontWeight: "600" }],
+        "display-xl": ["6.5rem",  { lineHeight: "0.98", letterSpacing: "-0.04em",  fontWeight: "600" }],
+      },
       backgroundImage: {
-        "hero-gradient":
-          "radial-gradient(ellipse at 15% 0%, rgba(3,135,229,0.32), transparent 55%), linear-gradient(180deg, #0a1628 0%, #06101e 100%)",
-        "trust-card":
-          "linear-gradient(135deg, rgba(3,135,229,0.07), rgba(255,255,255,0.6))",
+        "hero-floor":
+          "radial-gradient(ellipse 80% 60% at 50% 0%, rgba(255,255,255,0.06), transparent 60%), linear-gradient(180deg, #0a0a0a 0%, #000000 100%)",
+        "story-fade":
+          "linear-gradient(180deg, transparent 0%, transparent 40%, rgba(0,0,0,0.55) 75%, rgba(0,0,0,0.85) 100%)",
       },
       boxShadow: {
-        "glow-primary": "0 0 32px rgba(3,135,229,0.45)",
-        "card":         "0 1px 2px rgba(10,22,40,0.06), 0 8px 24px -8px rgba(10,22,40,0.12)",
-        "ring-focus":   "0 0 0 3px rgba(58,100,236,0.30)",
+        "card":       "0 1px 2px rgba(0,0,0,0.04), 0 12px 32px -16px rgba(0,0,0,0.12)",
+        "ring-focus": "0 0 0 3px rgba(3,135,229,0.30)",
       },
       maxWidth: {
-        prose: "72ch",
+        prose: "68ch",
+        page:  "1280px",
+        wide:  "1440px",
       },
     },
   },

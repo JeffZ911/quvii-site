@@ -126,9 +126,9 @@ const gaId = import.meta.env.PUBLIC_GA_MEASUREMENT_ID || "";
       `}></script>
     ) : null}
   </head>
-  <body class="font-sans antialiased">
+  <body class="font-sans antialiased bg-surface text-body">
     <Header />
-    <main class="container-page py-8">
+    <main>
       <slot />
     </main>
     <Footer />

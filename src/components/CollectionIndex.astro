@@ -1,0 +1,100 @@
+---
+import ArticleTile from "./ArticleTile.astro";
+
+interface Entry {
+  slug: string;
+  data: {
+    title: string;
+    description?: string;
+    hero_image?: string;
+    published_at?: string;
+    word_count?: number;
+    qa_score?: number;
+  };
+}
+
+interface Props {
+  eyebrow: string;
+  headline: string;
+  dek?: string;
+  kind: "blog" | "learn" | "reviews" | "support";
+  entries: Entry[];
+}
+
+const { eyebrow, headline, dek, kind, entries } = Astro.props;
+
+const NOINDEX_BELOW = 6.0;
+const visible = entries
+  .filter((e) => !(typeof e.data.qa_score === "number" && e.data.qa_score < NOINDEX_BELOW))
+  .sort((a, b) => Date.parse(b.data.published_at || "") - Date.parse(a.data.published_at || ""));
+
+const featured = visible[0];
+const rest = visible.slice(1);
+---
+
+<div class="container-page py-14 lg:py-20">
+  <div class="max-w-3xl">
+    <p class="text-xs font-medium uppercase tracking-[0.18em] text-primary-600">{eyebrow}</p>
+    <h1 class="mt-4 font-display text-display-sm sm:text-display tracking-display text-ink leading-[1.05]">
+      {headline}
+    </h1>
+    {dek && (
+      <p class="mt-6 text-lg text-body-muted leading-relaxed max-w-2xl">{dek}</p>
+    )}
+  </div>
+
+  {featured && (
+    <div class="mt-14 lg:mt-20">
+      <a href={`/${kind}/${featured.slug}/`} class="group grid items-center gap-10 lg:gap-16 lg:grid-cols-[1.1fr_1fr]">
+        <div class="relative overflow-hidden rounded-2xl bg-surface-alt aspect-[4/3]">
+          {featured.data.hero_image ? (
+            <img
+              src={featured.data.hero_image}
+              alt=""
+              loading="lazy"
+              decoding="async"
+              class="h-full w-full object-cover transition-transform duration-500 group-hover:scale-[1.02]"
+            />
+          ) : (
+            <div class="h-full w-full bg-gradient-to-br from-ink-soft to-ink-deep"></div>
+          )}
+        </div>
+        <div>
+          <h2 class="font-display text-2xl sm:text-3xl lg:text-4xl font-semibold tracking-display text-ink leading-[1.1]">
+            {featured.data.title}
+          </h2>
+          {featured.data.description && (
+            <p class="mt-4 text-base text-body-muted leading-relaxed max-w-xl">{featured.data.description}</p>
+          )}
+          <span class="mt-6 inline-flex items-center gap-1 text-sm font-medium text-primary-600 group-hover:text-primary-700">
+            Read story <span aria-hidden="true">›</span>
+          </span>
+        </div>
+      </a>
+    </div>
+  )}
+
+  {rest.length > 0 && (
+    <div class="mt-20 lg:mt-28">
+      <div class="grid gap-x-8 gap-y-12 sm:grid-cols-2 lg:grid-cols-3">
+        {rest.map((e) => (
+          <ArticleTile
+            href={`/${kind}/${e.slug}/`}
+            title={e.data.title}
+            dek={e.data.description}
+            image={e.data.hero_image}
+            publishedAt={e.data.published_at}
+            wordCount={e.data.word_count}
+            aspect="4/3"
+          />
+        ))}
+      </div>
+    </div>
+  )}
+
+  {visible.length === 0 && (
+    <div class="mt-14 text-body-muted">
+      Nothing published in this stream yet — check back soon.
+    </div>
+  )}
+</div>

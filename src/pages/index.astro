@@ -1,26 +1,30 @@
 ---
 import { getCollection } from "astro:content";
 import BaseLayout from "../layouts/BaseLayout.astro";
-import ArticleCard from "../components/ArticleCard.astro";
+import HeroFullBleed from "../components/HeroFullBleed.astro";
+import FeatureStory from "../components/FeatureStory.astro";
+import ArticleTile from "../components/ArticleTile.astro";
+import PullQuote from "../components/PullQuote.astro";
 
-// Quvii homepage — positioned as an ALREADY-LIVE security camera review
-// & advice site (NOT "coming soon"). Reference brands for tone:
-//   - RTINGS (deep technical reviews)
-//   - Wirecutter (honest buyer's-guide voice)
-//   - The Verge / Tom's Guide (mainstream consumer trust)
-// Visual reference: Apple, DJI, Reolink — clean dark hero, large typography,
-// real product imagery (no cartoony art).
+// Quvii homepage — Apple / DJI-grade brand-tech outpost.
+// Positioning is intentionally neutral: no "review site / blog / news"
+// labels in copy. Page reads as a forward-looking technology brand
+// publishing professional intelligence on connected security. Fixed
+// section structure; article streams are dynamic (driven by content
+// collections + qa_score + recency).
 
 const blog = await getCollection("blog");
 const learn = await getCollection("learn");
 const reviews = await getCollection("reviews");
 
-// Quality gate — match sitemap policy
+// Editorial floor — match sitemap policy
 const NOINDEX_BELOW = 6.0;
 const ok = <T extends { data: { qa_score?: number } }>(e: T) =>
   !(typeof e.data.qa_score === "number" && e.data.qa_score < NOINDEX_BELOW);
 
-const all = [
+type Entry = (typeof blog)[number] & { _kind: "blog" | "learn" | "reviews" };
+
+const all: Entry[] = [
   ...blog.map((e) => ({ ...e, _kind: "blog" as const })),
   ...learn.map((e) => ({ ...e, _kind: "learn" as const })),
   ...reviews.map((e) => ({ ...e, _kind: "reviews" as const })),
@@ -28,243 +32,192 @@ const all = [
   (a, b) => Date.parse(b.data.published_at || "") - Date.parse(a.data.published_at || "")
 );
 
-const recent = all.slice(0, 6);
-const buyingGuides = blog
-  .filter((e) => ok(e) && (
-    e.data.article_type === "camera_buying_guide" ||
-    e.data.article_type === "camera_comparison"
-  ))
-  .sort((a, b) => Date.parse(b.data.published_at || "") - Date.parse(a.data.published_at || ""))
-  .slice(0, 3);
+// Featured = highest qa_score among recently-published
+const recencyWindow = all.slice(0, 18);
+const featured = [...recencyWindow].sort(
+  (a, b) => (b.data.qa_score || 0) - (a.data.qa_score || 0)
+)[0];
 
-const installHowTos = blog
-  .filter((e) => ok(e) && (
-    e.data.article_type === "camera_install" ||
-    e.data.article_type === "camera_troubleshoot"
-  ))
-  .sort((a, b) => Date.parse(b.data.published_at || "") - Date.parse(a.data.published_at || ""))
-  .slice(0, 3);
+const featuredId = featured?.id;
+const rest = all.filter((e) => e.id !== featuredId);
+const wave1 = rest.slice(0, 6);
+const wave2 = rest.slice(6, 9);
+
+const hrefFor = (e: Entry) => `/${e._kind}/${e.slug}/`;
+
+const heroBackdrop = featured?.data.hero_image || undefined;
 
 const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  url: "https://quvii.com/",
+  name: "Quvii",
+  description:
+    "Quvii is a connected-security technology brand publishing field-level intelligence on the cameras, sensors, and software shaping the modern home.",
+  inLanguage: "en-US",
+  sameAs: [],
+};
+
+const siteJsonLd = {
   "@context": "https://schema.org",
   "@type": "WebSite",
   url: "https://quvii.com/",
   name: "Quvii",
-  description:
-    "Independent home security camera reviews, buying guides, and install help. Technical, honest, no monthly-subscription bias.",
   inLanguage: "en-US",
   publisher: { "@type": "Organization", name: "Quvii", url: "https://quvii.com/" },
 };
 ---
 
 <BaseLayout
-  title="Quvii — Independent Home Security Camera Reviews + Buying Guides"
-  description="Honest, technical reviews of home security cameras — Ring, Eufy, Reolink, Blink, Arlo, Nest and more. Buying guides, install tutorials, and the questions the manufacturers don't want you to ask."
-  jsonLd={jsonLd}
+  title="Quvii — Connected security, refined."
+  description="Quvii publishes field-tested intelligence on the cameras, sensors, and software shaping the modern home. Independent research, technical depth, professional standards."
+  jsonLd={siteJsonLd}
 >
-  <!-- ===================== HERO ===================== -->
-  <section class="not-prose -mx-4 sm:-mx-6 lg:-mx-8 overflow-hidden bg-hero-gradient">
-    <div class="mx-auto max-w-5xl px-6 py-16 sm:py-24 lg:py-28">
-      <div class="grid items-center gap-10 lg:grid-cols-[1.2fr_1fr]">
-        <div>
-          <p class="text-xs font-semibold uppercase tracking-[0.18em] text-primary-300">
-            Quvii · Independent reviews since 2026
-          </p>
-          <h1 class="mt-4 font-display text-4xl font-bold leading-[1.05] tracking-tight text-white sm:text-5xl lg:text-6xl">
-            Honest home security camera reviews.
-          </h1>
-          <p class="mt-5 max-w-xl text-lg text-white/70 leading-relaxed">
-            We test cameras against the things manufacturers don't put on
-            the spec sheet — actual IR range, real subscription costs,
-            privacy policy fine print, and what happens to your footage when
-            the company changes hands.
-          </p>
-          <div class="mt-7 flex flex-wrap items-center gap-3">
-            <a
-              href="/blog/"
-              class="inline-flex items-center gap-2 rounded-md bg-primary-500 px-5 py-2.5 text-sm font-semibold text-white no-underline shadow-glow-primary hover:bg-primary-400"
-            >
-              Read latest reviews →
-            </a>
-            <a
-              href="/learn/"
-              class="inline-flex items-center rounded-md border border-white/15 px-5 py-2.5 text-sm font-semibold text-white no-underline hover:bg-white/10"
-            >
-              Learn the basics
-            </a>
-          </div>
-          <p class="mt-6 flex flex-wrap items-center gap-x-5 gap-y-2 text-xs text-white/50">
-            <span class="flex items-center gap-1.5">
-              <span class="inline-block h-1.5 w-1.5 rounded-full bg-signal-400"></span>
-              Independent — no manufacturer sponsorship
-            </span>
-            <span class="flex items-center gap-1.5">
-              <span class="inline-block h-1.5 w-1.5 rounded-full bg-signal-400"></span>
-              Affiliate-disclosed
-            </span>
-          </p>
-        </div>
+  <!-- ====================== HERO ====================== -->
+  <HeroFullBleed
+    eyebrow="Quvii"
+    headline="Connected security, refined."
+    dek="Field-level intelligence on the cameras, sensors, and software shaping how the modern home protects itself."
+    primaryHref={featured ? hrefFor(featured as Entry) : "/blog/"}
+    primaryLabel="Read the latest"
+    secondaryHref="/about/"
+    secondaryLabel="About Quvii"
+    image={heroBackdrop}
+  />
 
-        <div class="hidden lg:block">
-          {/* Side rail: latest review preview. Placeholder copy until
-              cron produces the first photorealistic article cards. */}
-          <div class="rounded-2xl border border-white/10 bg-white/5 p-5 backdrop-blur">
-            <p class="m-0 text-[11px] font-semibold uppercase tracking-widest text-primary-300">
-              Latest review
-            </p>
-            {recent[0] ? (
-              <>
-                <h3 class="mt-2 text-lg font-semibold text-white">
-                  <a href={`/${recent[0]._kind}/${recent[0].slug}/`} class="text-white no-underline hover:text-primary-200">
-                    {recent[0].data.title}
-                  </a>
-                </h3>
-                <p class="mt-2 text-xs text-white/60">
-                  {recent[0].data.word_count?.toLocaleString() || "—"} words ·
-                  Last updated {recent[0].data.published_at?.slice(0, 10) || "—"}
-                </p>
-              </>
-            ) : (
-              <p class="mt-2 text-sm text-white/60">
-                New reviews ship multiple times a week. Check back, or subscribe below.
-              </p>
-            )}
-          </div>
+  <!-- ====================== FEATURED STORY ====================== -->
+  {featured && (
+    <section class="section bg-surface">
+      <div class="container-page">
+        <FeatureStory
+          href={hrefFor(featured as Entry)}
+          title={featured.data.title}
+          dek={featured.data.description}
+          image={featured.data.hero_image}
+          publishedAt={featured.data.published_at}
+          wordCount={featured.data.word_count}
+          eyebrow="Field report"
+        />
+      </div>
+    </section>
+  )}
+
+  <!-- ====================== STREAM 1 — mixed content ====================== -->
+  {wave1.length > 0 && (
+    <section class="section-tight bg-surface-alt">
+      <div class="container-page">
+        <div class="flex items-end justify-between mb-10 lg:mb-14">
+          <h2 class="font-display text-2xl sm:text-3xl lg:text-4xl font-semibold tracking-display text-ink leading-[1.1] max-w-2xl">
+            What we're watching
+          </h2>
+          <a href="/blog/" class="hidden sm:inline-flex items-center gap-1 text-sm font-medium text-primary-600 hover:text-primary-700 no-underline">
+            See all <span aria-hidden="true">›</span>
+          </a>
         </div>
+        <div class="grid gap-x-8 gap-y-12 sm:grid-cols-2 lg:grid-cols-3">
+          {wave1.map((e) => (
+            <ArticleTile
+              href={hrefFor(e)}
+              title={e.data.title}
+              dek={e.data.description}
+              image={e.data.hero_image}
+              publishedAt={e.data.published_at}
+              wordCount={e.data.word_count}
+              aspect="4/3"
+            />
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+
+  <!-- ====================== EDITORIAL VOICE ====================== -->
+  <PullQuote
+    text="A camera is a system. A system is a set of decisions made by someone who isn't you. Quvii's work is to make those decisions visible — so the home owns its security, not the other way around."
+  />
+
+  <!-- ====================== STREAM 2 — secondary wave ====================== -->
+  {wave2.length > 0 && (
+    <section class="section bg-surface">
+      <div class="container-page">
+        <h2 class="font-display text-2xl sm:text-3xl lg:text-4xl font-semibold tracking-display text-ink leading-[1.1] max-w-2xl mb-10 lg:mb-14">
+          New from the field
+        </h2>
+        <div class="grid gap-x-8 gap-y-12 lg:grid-cols-3">
+          {wave2.map((e) => (
+            <ArticleTile
+              href={hrefFor(e)}
+              title={e.data.title}
+              dek={e.data.description}
+              image={e.data.hero_image}
+              publishedAt={e.data.published_at}
+              wordCount={e.data.word_count}
+              aspect="4/3"
+            />
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+
+  <!-- ====================== STANDARDS / TRUST STRIP ====================== -->
+  <section class="section-tight bg-ink text-white">
+    <div class="container-page grid gap-10 lg:grid-cols-3">
+      <div>
+        <h3 class="font-display text-lg font-semibold tracking-tight text-white">Independent</h3>
+        <p class="mt-3 text-sm leading-relaxed text-white/65 max-w-sm">
+          No paid placements. No vendor-controlled coverage. Every recommendation
+          stands on its own technical merit.
+        </p>
+      </div>
+      <div>
+        <h3 class="font-display text-lg font-semibold tracking-tight text-white">Field-tested</h3>
+        <p class="mt-3 text-sm leading-relaxed text-white/65 max-w-sm">
+          Decisions grounded in measurement: real range, real subscription cost,
+          real data-handling — not spec sheets.
+        </p>
+      </div>
+      <div>
+        <h3 class="font-display text-lg font-semibold tracking-tight text-white">Forward-looking</h3>
+        <p class="mt-3 text-sm leading-relaxed text-white/65 max-w-sm">
+          Connected security is a software problem dressed in hardware. We cover
+          the systems behind the lens, not just the lens.
+        </p>
       </div>
     </div>
   </section>
 
-  <!-- ===================== Editorial standards strip ===================== -->
-  <section class="mt-14 grid gap-4 sm:grid-cols-3">
-    <div class="rounded-xl border border-body-line bg-trust-card p-5">
-      <h3 class="m-0 text-sm font-semibold text-ink">Tested, not summarized</h3>
-      <p class="mt-2 m-0 text-xs text-body-muted">
-        Spec sheets lie. We cross-check against real-world install testing,
-        RTINGS / Wirecutter data, and direct user-community consensus from
-        r/HomeSecurity.
+  <!-- ====================== NEWSLETTER ====================== -->
+  <section class="section bg-surface-alt">
+    <div class="container-page max-w-3xl text-center mx-auto">
+      <h2 class="font-display text-2xl sm:text-3xl lg:text-4xl font-semibold tracking-display text-ink leading-[1.1]">
+        One brief, every week.
+      </h2>
+      <p class="mt-4 text-base text-body-muted max-w-xl mx-auto">
+        Field reports, new analysis, and the signals that matter. Concise, unsponsored, unsubscribe anytime.
       </p>
-    </div>
-    <div class="rounded-xl border border-body-line bg-trust-card p-5">
-      <h3 class="m-0 text-sm font-semibold text-ink">Total-cost-of-ownership</h3>
-      <p class="mt-2 m-0 text-xs text-body-muted">
-        The sticker price is the lie. We surface 3-year subscription costs,
-        cloud-storage tiers, and the "feature subscription" tricks Ring,
-        Arlo, and Nest use to lock you in.
-      </p>
-    </div>
-    <div class="rounded-xl border border-body-line bg-trust-card p-5">
-      <h3 class="m-0 text-sm font-semibold text-ink">Privacy first</h3>
-      <p class="mt-2 m-0 text-xs text-body-muted">
-        Every review documents where your footage goes, who can request it,
-        and what data the app actually collects. This is the question most
-        reviewers skip.
-      </p>
-    </div>
-  </section>
-
-  <!-- ===================== Buying guides ===================== -->
-  {buyingGuides.length > 0 && (
-    <section class="mt-16">
-      <div class="flex items-end justify-between">
-        <div>
-          <p class="text-xs font-semibold uppercase tracking-widest text-primary-600">Buying decisions</p>
-          <h2 class="mt-1 font-display text-2xl font-bold text-ink">Buying guides + comparisons</h2>
-        </div>
-        <a href="/blog/" class="text-sm font-medium text-primary-600 no-underline hover:underline">All guides →</a>
-      </div>
-      <div class="mt-5 grid gap-4 md:grid-cols-3">
-        {buyingGuides.map((e) => (
-          <ArticleCard
-            href={`/blog/${e.slug}/`}
-            title={e.data.title}
-            articleType={e.data.article_type}
-            wordCount={e.data.word_count}
-            publishedAt={e.data.published_at}
-            heroImage={e.data.hero_image}
-          />
-        ))}
-      </div>
-    </section>
-  )}
-
-  <!-- ===================== Install + troubleshoot ===================== -->
-  {installHowTos.length > 0 && (
-    <section class="mt-16">
-      <div class="flex items-end justify-between">
-        <div>
-          <p class="text-xs font-semibold uppercase tracking-widest text-primary-600">Hands-on help</p>
-          <h2 class="mt-1 font-display text-2xl font-bold text-ink">Install + fix-it guides</h2>
-        </div>
-        <a href="/blog/" class="text-sm font-medium text-primary-600 no-underline hover:underline">More →</a>
-      </div>
-      <div class="mt-5 grid gap-4 md:grid-cols-3">
-        {installHowTos.map((e) => (
-          <ArticleCard
-            href={`/blog/${e.slug}/`}
-            title={e.data.title}
-            articleType={e.data.article_type}
-            wordCount={e.data.word_count}
-            publishedAt={e.data.published_at}
-            heroImage={e.data.hero_image}
-          />
-        ))}
-      </div>
-    </section>
-  )}
-
-  <!-- ===================== Recent ===================== -->
-  {recent.length > 0 && (
-    <section class="mt-16">
-      <div class="flex items-end justify-between">
-        <div>
-          <p class="text-xs font-semibold uppercase tracking-widest text-primary-600">Just published</p>
-          <h2 class="mt-1 font-display text-2xl font-bold text-ink">Latest articles</h2>
-        </div>
-      </div>
-      <div class="mt-5 grid gap-4 md:grid-cols-2 lg:grid-cols-3">
-        {recent.map((e) => (
-          <ArticleCard
-            href={`/${e._kind}/${e.slug}/`}
-            title={e.data.title}
-            articleType={e.data.article_type}
-            wordCount={e.data.word_count}
-            publishedAt={e.data.published_at}
-            heroImage={e.data.hero_image}
-          />
-        ))}
-      </div>
-    </section>
-  )}
-
-  <!-- ===================== Newsletter (low-key) ===================== -->
-  <section class="mt-20 mb-8 rounded-2xl bg-ink-soft px-6 py-10 sm:px-10 text-center">
-    <h2 class="font-display text-2xl font-bold text-white">Weekly camera-shopping digest</h2>
-    <p class="mx-auto mt-2 max-w-2xl text-sm text-white/70">
-      One short email each week. New reviews, the week's deepest discounts on
-      cameras we'd actually recommend, and any policy changes from the major
-      brands. No spam, unsubscribe with one click.
-    </p>
-    <form
-      action="https://buttondown.com/api/emails/embed-subscribe/quvii"
-      method="post"
-      target="popupwindow"
-      onsubmit="window.open('https://buttondown.com/quvii', 'popupwindow')"
-      class="mx-auto mt-5 flex max-w-md flex-col gap-2 sm:flex-row"
-    >
-      <input
-        type="email"
-        name="email"
-        required
-        placeholder="you@example.com"
-        class="flex-1 rounded-md border border-white/10 bg-white/5 px-4 py-2.5 text-white placeholder-white/40 focus:border-primary-400 focus:outline-none focus:ring-2 focus:ring-primary-500/40"
-      />
-      <button
-        type="submit"
-        class="rounded-md bg-primary-500 px-5 py-2.5 font-semibold text-white hover:bg-primary-400"
+      <form
+        action="https://buttondown.com/api/emails/embed-subscribe/quvii"
+        method="post"
+        target="popupwindow"
+        onsubmit="window.open('https://buttondown.com/quvii', 'popupwindow')"
+        class="mt-8 flex flex-col gap-3 sm:flex-row max-w-md mx-auto"
       >
-        Subscribe
-      </button>
-    </form>
+        <input
+          type="email"
+          name="email"
+          required
+          placeholder="you@example.com"
+          aria-label="Email address"
+          class="flex-1 rounded-full border border-body-line bg-white px-5 py-3 text-sm text-ink placeholder-body-faint focus:border-primary-500 focus:outline-none focus:ring-2 focus:ring-primary-500/30"
+        />
+        <button
+          type="submit"
+          class="rounded-full bg-ink px-6 py-3 text-sm font-medium text-white hover:bg-body transition-colors"
+        >
+          Subscribe
+        </button>
+      </form>
+    </div>
   </section>
 </BaseLayout>

@@ -1,0 +1,20 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import CollectionIndex from "../../components/CollectionIndex.astro";
+
+const entries = await getCollection("learn");
+---
+
+<BaseLayout
+  title="Guides — Quvii"
+  description="Practical, technical guides to designing, installing, and operating connected home security. Hands-on knowledge from the field, not the spec sheet."
+>
+  <CollectionIndex
+    eyebrow="Guides"
+    headline="Built on what works."
+    dek="Practical, technical guides to designing, installing, and operating connected home security. Hands-on knowledge from the field, not the spec sheet."
+    kind="learn"
+    entries={entries}
+  />
+</BaseLayout>

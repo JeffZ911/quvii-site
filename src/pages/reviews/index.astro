@@ -1,0 +1,20 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import CollectionIndex from "../../components/CollectionIndex.astro";
+
+const entries = await getCollection("reviews");
+---
+
+<BaseLayout
+  title="Reviews — Quvii"
+  description="In-depth technical analysis of connected security hardware. Measurement-grounded conclusions, total-cost-of-ownership math, and the trade-offs the spec sheet won't show you."
+>
+  <CollectionIndex
+    eyebrow="Reviews"
+    headline="Measured, not marketed."
+    dek="In-depth technical analysis of connected security hardware. Measurement-grounded conclusions and the trade-offs the spec sheet won't show you."
+    kind="reviews"
+    entries={entries}
+  />
+</BaseLayout>

@@ -1,0 +1,62 @@
+---
+// Magazine-style split: large image left, large headline + dek + read link right.
+// Reverses to image-right when `flip=true`. Stacks on mobile (image first).
+// No type badge. No "read more" button — clean headline link.
+
+interface Props {
+  href: string;
+  title: string;
+  dek?: string;
+  image?: string;
+  publishedAt?: string;
+  wordCount?: number;
+  flip?: boolean;
+  eyebrow?: string;
+}
+
+const {
+  href, title, dek, image, publishedAt, wordCount, flip = false, eyebrow,
+} = Astro.props;
+
+const readMinutes = wordCount ? Math.max(1, Math.round(wordCount / 220)) : null;
+const dateStr = publishedAt ? new Date(publishedAt).toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric" }) : null;
+---
+
+<a
+  href={href}
+  class={`group grid items-center gap-10 lg:gap-16 ${flip ? "lg:grid-cols-[1fr_1.1fr]" : "lg:grid-cols-[1.1fr_1fr]"}`}
+>
+  <div class={`relative overflow-hidden rounded-2xl bg-surface-alt aspect-[4/3] ${flip ? "lg:order-2" : ""}`}>
+    {image ? (
+      <img
+        src={image}
+        alt=""
+        loading="lazy"
+        decoding="async"
+        class="h-full w-full object-cover transition-transform duration-500 group-hover:scale-[1.02]"
+      />
+    ) : (
+      <div class="h-full w-full bg-gradient-to-br from-ink-soft to-ink-deep"></div>
+    )}
+  </div>
+
+  <div>
+    {eyebrow && (
+      <p class="text-xs font-medium uppercase tracking-[0.18em] text-primary-600">{eyebrow}</p>
+    )}
+    <h2 class="mt-3 font-display text-2xl sm:text-3xl lg:text-4xl font-semibold tracking-display text-ink leading-[1.1]">
+      {title}
+    </h2>
+    {dek && (
+      <p class="mt-4 text-base text-body-muted leading-relaxed max-w-xl">{dek}</p>
+    )}
+    <div class="mt-5 flex items-center gap-3 text-xs text-body-faint">
+      {dateStr && <span>{dateStr}</span>}
+      {dateStr && readMinutes && <span aria-hidden="true">·</span>}
+      {readMinutes && <span>{readMinutes} min read</span>}
+    </div>
+    <span class="mt-6 inline-flex items-center gap-1 text-sm font-medium text-primary-600 group-hover:text-primary-700">
+      Read story <span aria-hidden="true" class="transition-transform group-hover:translate-x-0.5">›</span>
+    </span>
+  </div>
+</a>

@@ -3,9 +3,9 @@
 @tailwind utilities;
 
 /* ────────────────────────────────────────────────────────────────────
- * Quvii Blog — light theme with violet accents.
- * Hero blocks are dark navy (rendered with `bg-hero-gradient` utility);
- * the rest of the page is white-on-ink with primary-violet for accents.
+ * Quvii global styles — Apple / DJI-grade typography + spacing.
+ * Surfaces alternate white / surface-alt with generous vertical rhythm.
+ * H1–H4 hierarchy is strict (one H1 per page, semantic order preserved).
  * ──────────────────────────────────────────────────────────────────── */
 
 @layer base {
@@ -22,24 +22,37 @@
   }
 
   body {
-    @apply min-h-screen bg-white text-body;
+    @apply min-h-screen bg-surface text-body;
   }
 
   ::selection {
-    background: theme('colors.primary.200');
-    color: theme('colors.ink.DEFAULT');
+    background: theme('colors.ink.DEFAULT');
+    color: #ffffff;
   }
 
   a {
-    @apply text-primary-600 hover:text-primary-700 underline-offset-2;
+    @apply text-inherit no-underline;
     overflow-wrap: anywhere;
     word-break: break-word;
   }
 
-  /* Mobile-overflow guardrails for article body (inherited from
-     ntecodex's P0 2026-05-13 fix). Long unbroken tokens, wide tables,
-     and oversized images must NOT cause horizontal scroll on a 375px
-     viewport. Applied via `.prose-pm` (the renamed prose-game class). */
+  /* Tight Apple-style display headings — only applied to page H1/H2/H3
+     when used inside .prose-pm article body (markdown). Outside of
+     prose, components style their own headings explicitly. */
+  .prose-pm h1 {
+    @apply text-3xl md:text-4xl font-semibold tracking-display text-ink mt-0 mb-4;
+  }
+  .prose-pm h2 {
+    @apply text-2xl md:text-3xl font-semibold tracking-display text-ink mt-12 mb-4;
+  }
+  .prose-pm h3 {
+    @apply text-xl md:text-2xl font-semibold tracking-tight text-ink mt-8 mb-3;
+  }
+  .prose-pm h4 {
+    @apply text-lg font-semibold tracking-tight text-ink mt-6 mb-2;
+  }
+
+  /* Mobile-overflow guardrails for article body */
   .prose-pm table {
     @apply block max-w-full overflow-x-auto;
   }
@@ -59,37 +72,50 @@
     overflow-wrap: anywhere;
     word-break: break-word;
   }
-
-  h1 {
-    @apply text-4xl md:text-5xl font-extrabold tracking-tight text-ink;
-  }
-  h2 {
-    @apply text-2xl md:text-3xl font-bold tracking-tight mt-10 mb-4 text-ink;
-  }
-  h3 {
-    @apply text-xl md:text-2xl font-semibold mt-6 mb-3 text-ink;
-  }
 }
 
 @layer components {
   .container-page {
-    @apply max-w-6xl mx-auto px-4 sm:px-6 lg:px-8;
+    @apply max-w-page mx-auto px-6 sm:px-8 lg:px-10;
+  }
+  .container-wide {
+    @apply max-w-wide mx-auto px-6 sm:px-8 lg:px-10;
+  }
+  .container-prose {
+    @apply max-w-prose mx-auto px-6 sm:px-8;
   }
 
-  .card {
-    @apply rounded-xl border border-body-line bg-white p-5
-           hover:border-primary-300 hover:shadow-card
-           transition;
+  /* Section vertical rhythm — Apple/DJI use very generous spacing */
+  .section {
+    @apply py-20 sm:py-28 lg:py-36;
+  }
+  .section-tight {
+    @apply py-14 sm:py-20;
   }
 
-  .badge {
-    @apply inline-block px-2 py-0.5 rounded-md text-xs font-semibold;
+  /* Hairline link — Apple/DJI CTA pattern (text + chevron) */
+  .link-cta {
+    @apply inline-flex items-center gap-1 text-primary-600 hover:text-primary-700
+           font-medium transition-colors;
+  }
+  .link-cta::after {
+    content: "›";
+    @apply ml-0.5 transition-transform group-hover:translate-x-0.5;
   }
 
-  /* Markdown article body — renamed from prose-game → prose-pm so
-     publish-injected content (which the writer doesn't tag) doesn't
-     need to know about the rebrand. We aliased the class everywhere
-     in templates above. */
+  /* Solid CTA — used sparingly */
+  .btn-primary {
+    @apply inline-flex items-center gap-1.5 rounded-full bg-ink text-white
+           px-5 py-2.5 text-sm font-medium tracking-tight
+           hover:bg-body transition-colors;
+  }
+  .btn-secondary {
+    @apply inline-flex items-center gap-1.5 rounded-full border border-ink text-ink
+           px-5 py-2.5 text-sm font-medium tracking-tight
+           hover:bg-ink hover:text-white transition-colors;
+  }
+
+  /* Markdown article body — unchanged for content fidelity */
   .prose-pm {
     @apply text-body leading-relaxed;
   }
@@ -97,8 +123,6 @@
   .prose-pm ul { @apply list-disc pl-6 my-4 space-y-1; }
   .prose-pm ol { @apply list-decimal pl-6 my-4 space-y-1; }
 
-  /* Editorial-tier banner + CTA blockquote — keep them visually
-     distinct from generic <blockquote> by giving them a violet rail. */
   .prose-pm blockquote {
     @apply rounded-r-md border-l-4 border-primary-500 bg-primary-50/60
            pl-4 pr-3 py-2 my-5 text-body;
@@ -106,25 +130,25 @@
   .prose-pm blockquote p { @apply my-1; }
 
   .prose-pm code {
-    @apply bg-primary-50 px-1.5 py-0.5 rounded text-primary-700 text-sm;
+    @apply bg-surface-alt px-1.5 py-0.5 rounded text-ink text-sm;
   }
   .prose-pm pre {
-    @apply bg-ink-deep text-primary-50 p-4 rounded-lg overflow-x-auto my-4;
+    @apply bg-ink-soft text-white p-4 rounded-lg overflow-x-auto my-4;
   }
   .prose-pm pre code {
-    @apply bg-transparent p-0 text-primary-50;
+    @apply bg-transparent p-0 text-white;
   }
   .prose-pm a {
     @apply text-primary-600 hover:text-primary-700 underline decoration-primary-300 hover:decoration-primary-500;
   }
   .prose-pm strong { @apply text-ink font-semibold; }
-  .prose-pm em     { @apply text-primary-700 italic; }
+  .prose-pm em     { @apply text-body italic; }
 
   .prose-pm table {
     @apply w-full my-6 border-collapse;
   }
   .prose-pm thead {
-    @apply bg-primary-50 border-b-2 border-primary-200;
+    @apply border-b border-body-line;
   }
   .prose-pm th {
     @apply px-3 py-2 text-left text-sm font-semibold text-ink;
@@ -132,10 +156,7 @@
   .prose-pm td {
     @apply px-3 py-2 text-sm border-t border-body-line;
   }
-  .prose-pm tr:hover td {
-    @apply bg-primary-50/40;
-  }
   .prose-pm hr {
-    @apply my-8 border-body-line;
+    @apply my-10 border-body-line;
   }
 }

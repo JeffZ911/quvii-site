@@ -1,0 +1,22 @@
+---
+// Editorial pull-quote — Apple-style large-text statement on alt surface.
+// Used between content blocks to break rhythm. No quote marks; treat as
+// a manifesto line.
+
+interface Props {
+  text: string;
+  byline?: string;
+}
+const { text, byline } = Astro.props;
+---
+
+<section class="bg-surface-alt section-tight">
+  <div class="container-page">
+    <p class="font-display text-2xl sm:text-3xl lg:text-4xl font-semibold tracking-display text-ink leading-[1.2] max-w-4xl">
+      {text}
+    </p>
+    {byline && (
+      <p class="mt-6 text-sm text-body-muted">— {byline}</p>
+    )}
+  </div>
+</section>

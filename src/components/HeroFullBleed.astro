@@ -1,0 +1,92 @@
+---
+// Full-bleed hero — Apple/DJI flagship pattern.
+// Dark backdrop (image OR gradient), giant centered display headline,
+// single-line dek, optional pair of CTAs (text + chevron style).
+//
+// Accepts an optional `image` prop. If provided, image is used as
+// backdrop with dark gradient overlay. Otherwise, dark gradient floor.
+
+interface Props {
+  eyebrow?: string;
+  headline: string;
+  dek?: string;
+  primaryHref?: string;
+  primaryLabel?: string;
+  secondaryHref?: string;
+  secondaryLabel?: string;
+  image?: string;
+  align?: "left" | "center";
+}
+
+const {
+  eyebrow,
+  headline,
+  dek,
+  primaryHref,
+  primaryLabel,
+  secondaryHref,
+  secondaryLabel,
+  image,
+  align = "left",
+} = Astro.props;
+
+const alignClass = align === "center" ? "text-center mx-auto" : "text-left";
+---
+
+<section class="relative isolate overflow-hidden bg-hero-floor">
+  {image && (
+    <>
+      <img
+        src={image}
+        alt=""
+        aria-hidden="true"
+        loading="eager"
+        fetchpriority="high"
+        decoding="async"
+        class="absolute inset-0 h-full w-full object-cover opacity-70"
+      />
+      <div class="absolute inset-0 bg-story-fade"></div>
+    </>
+  )}
+
+  <div class="relative container-wide pt-32 pb-20 sm:pt-40 sm:pb-28 lg:pt-48 lg:pb-36">
+    <div class={`max-w-3xl ${alignClass}`}>
+      {eyebrow && (
+        <p class="text-xs font-medium uppercase tracking-[0.18em] text-white/60">
+          {eyebrow}
+        </p>
+      )}
+      <h1 class="mt-5 font-display text-display-sm sm:text-display lg:text-display-lg text-white">
+        {headline}
+      </h1>
+      {dek && (
+        <p class="mt-6 max-w-2xl text-base sm:text-lg text-white/75 leading-relaxed">
+          {dek}
+        </p>
+      )}
+
+      {(primaryHref || secondaryHref) && (
+        <div class="mt-10 flex flex-wrap items-center gap-4">
+          {primaryHref && primaryLabel && (
+            <a
+              href={primaryHref}
+              class="inline-flex items-center gap-1.5 rounded-full bg-white text-ink px-6 py-3 text-sm font-medium tracking-tight hover:bg-white/90 transition-colors"
+            >
+              {primaryLabel}
+              <span aria-hidden="true">›</span>
+            </a>
+          )}
+          {secondaryHref && secondaryLabel && (
+            <a
+              href={secondaryHref}
+              class="inline-flex items-center gap-1.5 text-sm font-medium text-white/90 hover:text-white transition-colors"
+            >
+              {secondaryLabel}
+              <span aria-hidden="true">›</span>
+            </a>
+          )}
+        </div>
+      )}
+    </div>
+  </div>
+</section>

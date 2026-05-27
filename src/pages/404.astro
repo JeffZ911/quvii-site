@@ -7,33 +7,21 @@
 import BaseLayout from "../layouts/BaseLayout.astro";
 ---
 <BaseLayout
-  title="Not found — Quvii Blog"
+  title="Not found — Quvii"
   description="The page you were looking for doesn't exist."
   noindex={true}
 >
-  <section class="mx-auto max-w-2xl px-4 py-16 text-center">
-    <p class="text-sm uppercase tracking-wider text-body-faint">404</p>
-    <h1 class="mt-2 text-3xl font-semibold text-ink">
-      That page hasn't shipped yet.
+  <section class="container-page py-24 lg:py-32 text-center">
+    <p class="text-xs font-medium uppercase tracking-[0.18em] text-primary-600">404</p>
+    <h1 class="mt-4 font-display text-display-sm sm:text-display tracking-display text-ink leading-[1.05]">
+      This page doesn't exist.
     </h1>
-    <p class="mt-4 text-body-muted">
-      The URL you opened doesn't match any article on the Quvii blog.
-      It may have been renamed, or the article hasn't been generated yet —
-      our pipeline ships new content every hour.
+    <p class="mt-6 text-base text-body-muted max-w-lg mx-auto leading-relaxed">
+      The URL you opened doesn't match anything on Quvii. The page may have been renamed, or hasn't been published yet.
     </p>
-    <div class="mt-8 flex justify-center gap-3">
-      <a
-        href="/"
-        class="rounded-md bg-primary-500 px-4 py-2 text-white no-underline hover:bg-primary-600"
-      >
-        Blog home
-      </a>
-      <a
-        href="/learn/"
-        class="rounded-md border border-body-line px-4 py-2 text-ink no-underline hover:bg-primary-50"
-      >
-        All guides
-      </a>
+    <div class="mt-10 flex flex-wrap justify-center gap-4">
+      <a href="/" class="btn-primary">Home <span aria-hidden="true">›</span></a>
+      <a href="/blog/" class="btn-secondary">All work <span aria-hidden="true">›</span></a>
     </div>
   </section>
 </BaseLayout>
