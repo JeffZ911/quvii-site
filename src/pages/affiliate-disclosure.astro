@@ -4,15 +4,15 @@ import BaseLayout from "../layouts/BaseLayout.astro";
 
 <BaseLayout
   title="Affiliate Disclosure — Quvii"
-  description="How Quvii uses affiliate links — primarily Amazon Associates for cross-referenced security camera recommendations. Editorial independence policy and how to spot an affiliate link."
+  description="How Quvii uses Amazon Associates affiliate links + AdSense advertising. Editorial independence policy and how to identify an affiliate link."
 >
-  <h1 class="text-3xl font-bold text-ink">Affiliate Disclosure</h1>
+  <h1 class="font-display text-3xl font-bold text-ink">Affiliate Disclosure</h1>
   <p class="text-sm text-body-faint">Last updated: 2026-05-27</p>
 
   <div class="prose-pm max-w-prose">
     <p class="lead">
-      Some links on Quvii's blog earn us a commission when you click through
-      and buy. This page tells you which programs we participate in, how to
+      Some links on Quvii earn us a commission when you click through and
+      buy. This page tells you which programs we participate in, how to
       identify an affiliate link, and how we keep recommendations honest.
     </p>
 
@@ -20,66 +20,85 @@ import BaseLayout from "../layouts/BaseLayout.astro";
     <ul>
       <li>
         <strong>Amazon Associates</strong> (Associate ID <code>jeffzen911-20</code>).
-        When we recommend a competitor camera (Eufy, Ring, Reolink, Blink, Arlo,
-        Wyze, etc.) in a comparison or buying guide, we link to it on Amazon.
-        If you buy after clicking, Amazon pays us a small percentage. The
-        price you pay is the same as if you'd gone to Amazon directly.
+        When we recommend a security camera in a review or buying guide, we
+        link to it on Amazon. If you buy through that link, Amazon pays
+        Quvii a small percentage. The price you pay is the same as if you'd
+        gone to Amazon directly.
       </li>
       <li>
-        <strong>Quvii own products</strong>. Links to Quvii's own cameras
-        on this site are first-party links to our own store, not affiliate
-        links. We make the margin on the product itself.
+        <strong>Google AdSense</strong> (Publisher ID <code>pub-5523706123080113</code>).
+        We run a small number of display ads on content pages. Ad placement
+        is automated by Google; we never sell direct ad inventory to
+        manufacturers covered on this site, which would create an obvious
+        conflict.
       </li>
     </ul>
     <p>
-      We don't currently participate in any other affiliate program. If that
-      changes, this page is updated and the change is logged in the
+      We do not currently participate in any other affiliate program. If
+      that changes, this page is updated and the change is logged in the
       "Last updated" date at the top.
     </p>
 
     <h2>How to spot an affiliate link</h2>
     <ol>
-      <li>The link tag carries <code>rel="sponsored noopener nofollow"</code>
-        — the FTC + Google standard for paid placements at the HTML level.</li>
-      <li>The URL contains our Amazon Associate ID
+      <li>
+        The link tag carries <code>rel="sponsored noopener nofollow"</code>
+        — the FTC + Google standard for paid placements at the HTML level.
+      </li>
+      <li>
+        The destination URL contains our Amazon Associate ID
         (<code>tag=jeffzen911-20</code>). Hover over any "Check on Amazon"
-        button and look at your browser's status bar.</li>
-      <li>Articles with affiliate links display a yellow "Affiliate disclosure"
-        banner at the top of the page (this same text, summarized).</li>
+        button and look at your browser's status bar before clicking.
+      </li>
+      <li>
+        Articles with affiliate links display a yellow "Affiliate disclosure"
+        banner at the top of the page (this same text, summarized).
+      </li>
     </ol>
 
     <h2>Editorial independence</h2>
     <p>
-      Our commission rate from Amazon (typically 1-4% of purchase price) is
-      the <em>same percentage</em> across compared products in a category.
-      That means we earn the same whether we put Product A or Product B at #1.
+      Our Amazon commission rate (typically 2–4% of purchase price) is the
+      same percentage across compared products within a category. That
+      means we earn the same whether we put Product A or Product B at #1.
       The ranking is editorial, not financial.
     </p>
     <p>What we won't do, regardless of commission rate:</p>
     <ul>
-      <li>Recommend a product we wouldn't use ourselves.</li>
-      <li>Hide cons. Every product gets weaknesses called out.</li>
-      <li>Re-order rankings in exchange for a higher rate.</li>
-      <li>Publish a press release as a review.</li>
+      <li>Recommend a product we wouldn't install in our own home.</li>
+      <li>Hide cons. Every recommended product gets specific weaknesses called out.</li>
+      <li>Re-order rankings in exchange for a higher commission tier.</li>
+      <li>Publish a manufacturer's press release as if it were a review.</li>
     </ul>
 
     <h2>What if I don't want to use an affiliate link?</h2>
     <p>
-      Go to amazon.com directly and search for the product name. The price
-      is identical, we don't earn anything, and you skip the cookie. We'd
-      still rather you came through us — the writing has to earn its keep —
-      but we won't penalize you for opting out.
+      Totally fine. Go to amazon.com directly and search for the product
+      name. The price is identical, you skip the cookie, and Quvii doesn't
+      earn anything from your purchase. We'd still rather you came through
+      us — the writing has to earn its keep — but we won't penalize you for
+      opting out.
+    </p>
+
+    <h2>AdSense + ads.txt</h2>
+    <p>
+      Our <code>ads.txt</code> file at <a href="/ads.txt"><code>/ads.txt</code></a>
+      lists every ad network we authorize to sell our display inventory.
+      This is the IAB standard for preventing ad fraud — manufacturers
+      can't impersonate us to push ad placement that benefits them. If you
+      ever see an ad on Quvii from a network NOT listed in our ads.txt,
+      let us know.
     </p>
 
     <h2>FTC required statement</h2>
     <p>
-      <em>"As an Amazon Associate I earn from qualifying purchases."</em>
+      <em>"As an Amazon Associate, Quvii earns from qualifying purchases."</em>
     </p>
 
     <h2>Contact</h2>
     <p>
-      Broken affiliate link, complaint, or partnership inquiry:
-      <strong>hello@quvii.com</strong>.
+      Broken affiliate link, advertising complaint, or partnership
+      inquiry: <strong>hello@quvii.com</strong>.
     </p>
   </div>
 </BaseLayout>

@@ -4,82 +4,119 @@ import BaseLayout from "../layouts/BaseLayout.astro";
 
 <BaseLayout
   title="Editorial Policy — Quvii"
-  description="How Quvii sources, drafts, fact-checks and publishes its security-camera buying guides, comparisons and reviews."
+  description="How Quvii sources, drafts, fact-checks and publishes its home security camera reviews and buying guides. Sourcing standards, AI methodology, quality gates, corrections process."
 >
-  <h1 class="text-3xl font-bold text-ink">Editorial Policy</h1>
+  <h1 class="font-display text-3xl font-bold text-ink">Editorial Policy</h1>
   <p class="text-sm text-body-faint">Last updated: 2026-05-27</p>
 
   <div class="prose-pm max-w-prose">
     <p class="lead">
-      Quvii is a security-camera D2C brand. This blog exists to help shoppers
-      make informed decisions — including, sometimes, picking a competitor.
-      This page explains how an article gets onto Quvii: sourcing, drafting,
-      fact-checking, and corrections.
+      This page documents exactly how an article gets onto Quvii — what we
+      use as sources, how we draft and fact-check, what passes our quality
+      gate vs. what gets cut, and how we handle mistakes when we make them.
     </p>
 
     <h2>Sourcing</h2>
-    <p>Every factual claim must trace to one of three source types:</p>
+    <p>Every factual claim in a Quvii article must trace to one of four source types:</p>
     <ul>
-      <li><strong>Manufacturer documentation</strong> — official spec sheets,
-        FCC filings, support docs, firmware changelogs. Canonical truth for
-        hardware claims.</li>
-      <li><strong>Independent reviewers</strong> — RTINGS, Wirecutter,
-        Tom's Guide, The Verge, CNET. Cross-referenced against community
-        consensus.</li>
-      <li><strong>User community</strong> — r/HomeSecurity, r/homedefense,
-        r/AmazonRing, established forums. We never quote individual reviews
-        without aggregating; we cite the thread or wiki.</li>
+      <li>
+        <strong>Manufacturer documentation</strong> — official spec sheets,
+        FCC filings, support docs, firmware changelogs, privacy policies.
+        Canonical truth for hardware + policy claims.
+      </li>
+      <li>
+        <strong>Independent reviewers</strong> — RTINGS, Wirecutter, Tom's
+        Guide, The Verge, CNET, Consumer Reports. Cross-referenced against
+        each other when conclusions diverge.
+      </li>
+      <li>
+        <strong>Verifiable community consensus</strong> — r/HomeSecurity,
+        r/homedefense, r/AmazonRing wiki + pinned threads. We cite the
+        thread URL, not individual unverifiable user claims.
+      </li>
+      <li>
+        <strong>Direct hands-on testing</strong> — for cameras we've
+        physically installed and tested. Each test article notes the test
+        duration + conditions so you can calibrate confidence.
+      </li>
     </ul>
+    <p>
+      What's <em>not</em> a source: manufacturer press releases (we treat
+      these as marketing, not reporting), Amazon product-detail pages (the
+      seller controls the copy), or YouTube reviewers whose
+      sponsorship-disclosure history we can't verify.
+    </p>
 
     <h2>How content is produced</h2>
     <p>
       Quvii articles are <strong>AI-assisted and human-reviewed</strong>.
-      We disclose this clearly because Google's guidance is unambiguous:
-      AI-assisted content is fine if it's useful, original, and transparently
-      produced. Hiding it is what hurts trust.
+      We disclose this transparently because Google's own guidance is clear:
+      AI-assisted content is fine when it's useful, accurate, and labeled.
+      Hiding it is the trust-loss risk we explicitly avoid.
     </p>
     <ol>
-      <li>Our keyword pipeline picks topics from a curated pool of
-        camera-shopper search queries.</li>
-      <li>An outline agent drafts the structure using Google Search
-        grounding — every section must cite ≥1 source URL.</li>
-      <li>A writer agent expands sections to prose with strict noun-binding
-        (named products/specs come from cited sources, not invention).</li>
-      <li>A QA agent scores the draft on six dimensions including a hard
-        factual-accuracy gate (unverifiable product names or specs = auto-reject).</li>
-      <li>Only articles scoring ≥ 6.0/10 publish; articles &lt; 6.0 are
-        noindex'd and excluded from sitemap.</li>
+      <li>
+        Our editorial pipeline picks topics from a curated pool of
+        camera-shopper search queries (real questions real buyers type).
+      </li>
+      <li>
+        An outline-generation step uses Google Search grounding to draft
+        section structure — every section must cite ≥1 source URL.
+      </li>
+      <li>
+        A drafting step expands sections to prose with strict noun-binding:
+        every named product, spec, or policy claim must come from a cited
+        source, never invented.
+      </li>
+      <li>
+        A QA step scores the draft on six dimensions including a hard
+        factual-accuracy gate: any unverifiable proper noun or spec auto-
+        rejects the article.
+      </li>
+      <li>
+        A human editor reviews every flagged article before publish. For
+        articles scoring ≥ 7.5/10 with zero fabricated claims, the
+        editorial review is a final spot-check.
+      </li>
+      <li>
+        Only articles passing the 6.0/10 floor publish. Articles scoring
+        6.0–7.5 publish with an "Editorial note" tier label. Below 6.0,
+        the article is noindex'd and excluded from sitemap.
+      </li>
     </ol>
+
+    <h2>Tier labels you'll see on articles</h2>
+    <ul>
+      <li><strong>(no label)</strong> — qa_score ≥ 7.5. Standard editorial confidence.</li>
+      <li><strong>Editorial note</strong> — qa_score 6.0–7.5. Published, but we flag the score-band so you can calibrate trust.</li>
+      <li><strong>noindex</strong> — qa_score &lt; 6.0. Page exists for completeness but not promoted to Google.</li>
+    </ul>
 
     <h2>Independence + conflicts of interest</h2>
     <p>
-      Quvii sells security cameras. We <em>do</em> mention Quvii in articles
-      about cameras — that's our category and our team has direct experience.
-      We mark this transparently:
+      Quvii is independent of every camera manufacturer. We:
     </p>
     <ul>
-      <li>Every comparison article that includes Quvii is labelled inline.</li>
-      <li>Our commission rate from Amazon Associates is the same percentage
-        across compared products in a category — we have <em>no financial
-        incentive</em> to recommend Product A over Product B.</li>
-      <li>We decline paid placement offers and log declined offers publicly
-        on request.</li>
-    </ul>
-
-    <h2>What we won't do</h2>
-    <ul>
-      <li>Recommend a product we wouldn't use ourselves.</li>
-      <li>Hide a product's cons. Every product gets cons.</li>
-      <li>Re-order rankings in exchange for higher commission.</li>
-      <li>Publish vendor press releases as our own reporting.</li>
+      <li>Take no payment, equipment, or trips from manufacturers in exchange for coverage.</li>
+      <li>Maintain a public log of declined paid-placement offers — available on request at <strong>hello@quvii.com</strong>.</li>
+      <li>Use Amazon Associates affiliate links for competitor cameras with the same commission percentage across products in a category — no incentive to rank Product A over Product B.</li>
     </ul>
 
     <h2>Corrections</h2>
     <p>
-      Spotted an error? Email <strong>hello@quvii.com</strong> with the
+      Found an error? Email <strong>corrections@quvii.com</strong> with the
       article URL and what's wrong. We respond within 3 business days.
       Material corrections get a "Corrected on YYYY-MM-DD" line at the top
-      of the affected article.
+      of the affected article + a changelog note at the bottom.
     </p>
+
+    <h2>What we won't do</h2>
+    <ul>
+      <li>Publish a "review" we didn't independently verify.</li>
+      <li>Re-order rankings in exchange for commission upgrades.</li>
+      <li>Publish vendor press releases as our own reporting.</li>
+      <li>Run clickbait headlines. Every title must describe what's in the article.</li>
+      <li>Take payment for "sponsored coverage" of any kind.</li>
+    </ul>
   </div>
 </BaseLayout>

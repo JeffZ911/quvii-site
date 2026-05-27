@@ -3,22 +3,47 @@ import { getCollection } from "astro:content";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import ArticleCard from "../components/ArticleCard.astro";
 
-// Phase 0 homepage — products not live yet. Hero = pre-launch positioning
-// + email capture. Recent content sections prove the site is alive and
-// authoritative, helping convert Google traffic into email subscribers
-// before the store opens.
+// Quvii homepage — positioned as an ALREADY-LIVE security camera review
+// & advice site (NOT "coming soon"). Reference brands for tone:
+//   - RTINGS (deep technical reviews)
+//   - Wirecutter (honest buyer's-guide voice)
+//   - The Verge / Tom's Guide (mainstream consumer trust)
+// Visual reference: Apple, DJI, Reolink — clean dark hero, large typography,
+// real product imagery (no cartoony art).
 
 const blog = await getCollection("blog");
 const learn = await getCollection("learn");
+const reviews = await getCollection("reviews");
+
+// Quality gate — match sitemap policy
+const NOINDEX_BELOW = 6.0;
+const ok = <T extends { data: { qa_score?: number } }>(e: T) =>
+  !(typeof e.data.qa_score === "number" && e.data.qa_score < NOINDEX_BELOW);
+
 const all = [
   ...blog.map((e) => ({ ...e, _kind: "blog" as const })),
   ...learn.map((e) => ({ ...e, _kind: "learn" as const })),
-].filter((e) => !(typeof e.data.qa_score === "number" && e.data.qa_score < 6.0))
- .sort((a, b) => Date.parse(b.data.published_at || "") - Date.parse(a.data.published_at || ""));
+  ...reviews.map((e) => ({ ...e, _kind: "reviews" as const })),
+].filter(ok).sort(
+  (a, b) => Date.parse(b.data.published_at || "") - Date.parse(a.data.published_at || "")
+);
 
 const recent = all.slice(0, 6);
-const buyingGuides = blog.filter((e) => e.data.article_type === "buying_guide" || e.data.article_type === "comparison")
-                         .slice(0, 3);
+const buyingGuides = blog
+  .filter((e) => ok(e) && (
+    e.data.article_type === "camera_buying_guide" ||
+    e.data.article_type === "camera_comparison"
+  ))
+  .sort((a, b) => Date.parse(b.data.published_at || "") - Date.parse(a.data.published_at || ""))
+  .slice(0, 3);
+
+const installHowTos = blog
+  .filter((e) => ok(e) && (
+    e.data.article_type === "camera_install" ||
+    e.data.article_type === "camera_troubleshoot"
+  ))
+  .sort((a, b) => Date.parse(b.data.published_at || "") - Date.parse(a.data.published_at || ""))
+  .slice(0, 3);
 
 const jsonLd = {
   "@context": "https://schema.org",
@@ -26,107 +51,127 @@ const jsonLd = {
   url: "https://quvii.com/",
   name: "Quvii",
   description:
-    "Security cameras for people who'd rather own than rent their data. See everything. Subscribe to nothing.",
+    "Independent home security camera reviews, buying guides, and install help. Technical, honest, no monthly-subscription bias.",
   inLanguage: "en-US",
-  publisher: { "@type": "Organization", name: "Quvii" },
+  publisher: { "@type": "Organization", name: "Quvii", url: "https://quvii.com/" },
 };
 ---
 
 <BaseLayout
-  title="Quvii — See everything. Subscribe to nothing."
-  description="Local-first home security cameras built for people who'd rather own than rent their data. Engineering-grade specs, no monthly subscription, full data sovereignty."
+  title="Quvii — Independent Home Security Camera Reviews + Buying Guides"
+  description="Honest, technical reviews of home security cameras — Ring, Eufy, Reolink, Blink, Arlo, Nest and more. Buying guides, install tutorials, and the questions the manufacturers don't want you to ask."
   jsonLd={jsonLd}
 >
   <!-- ===================== HERO ===================== -->
-  <section class="not-prose -mt-8 overflow-hidden rounded-2xl bg-hero-gradient px-6 py-16 sm:px-12 sm:py-20 lg:py-24">
-    <div class="mx-auto max-w-3xl text-center">
-      <p class="inline-flex items-center gap-2 rounded-full border border-white/15 bg-white/5 px-3 py-1 text-xs font-semibold uppercase tracking-widest text-primary-200">
-        <span class="inline-block h-1.5 w-1.5 rounded-full bg-signal-400 animate-pulse"></span>
-        Coming soon · 2026
-      </p>
-      <h1 class="mt-5 text-4xl font-bold leading-tight text-white sm:text-6xl">
-        See everything.<br />
-        <span class="bg-gradient-to-r from-primary-300 to-primary-500 bg-clip-text text-transparent">
-          Subscribe to nothing.
-        </span>
-      </h1>
-      <p class="mx-auto mt-5 max-w-2xl text-lg text-white/70">
-        Quvii makes home security cameras for people who'd rather own than rent
-        their data. Engineering-grade specs, local recording by default, zero
-        monthly subscription required.
-      </p>
+  <section class="not-prose -mx-4 sm:-mx-6 lg:-mx-8 overflow-hidden bg-hero-gradient">
+    <div class="mx-auto max-w-5xl px-6 py-16 sm:py-24 lg:py-28">
+      <div class="grid items-center gap-10 lg:grid-cols-[1.2fr_1fr]">
+        <div>
+          <p class="text-xs font-semibold uppercase tracking-[0.18em] text-primary-300">
+            Quvii · Independent reviews since 2026
+          </p>
+          <h1 class="mt-4 font-display text-4xl font-bold leading-[1.05] tracking-tight text-white sm:text-5xl lg:text-6xl">
+            Honest home security camera reviews.
+          </h1>
+          <p class="mt-5 max-w-xl text-lg text-white/70 leading-relaxed">
+            We test cameras against the things manufacturers don't put on
+            the spec sheet — actual IR range, real subscription costs,
+            privacy policy fine print, and what happens to your footage when
+            the company changes hands.
+          </p>
+          <div class="mt-7 flex flex-wrap items-center gap-3">
+            <a
+              href="/blog/"
+              class="inline-flex items-center gap-2 rounded-md bg-primary-500 px-5 py-2.5 text-sm font-semibold text-white no-underline shadow-glow-primary hover:bg-primary-400"
+            >
+              Read latest reviews →
+            </a>
+            <a
+              href="/learn/"
+              class="inline-flex items-center rounded-md border border-white/15 px-5 py-2.5 text-sm font-semibold text-white no-underline hover:bg-white/10"
+            >
+              Learn the basics
+            </a>
+          </div>
+          <p class="mt-6 flex flex-wrap items-center gap-x-5 gap-y-2 text-xs text-white/50">
+            <span class="flex items-center gap-1.5">
+              <span class="inline-block h-1.5 w-1.5 rounded-full bg-signal-400"></span>
+              Independent — no manufacturer sponsorship
+            </span>
+            <span class="flex items-center gap-1.5">
+              <span class="inline-block h-1.5 w-1.5 rounded-full bg-signal-400"></span>
+              Affiliate-disclosed
+            </span>
+          </p>
+        </div>
 
-      <form
-        id="notify"
-        action="https://buttondown.com/api/emails/embed-subscribe/quvii"
-        method="post"
-        target="popupwindow"
-        onsubmit="window.open('https://buttondown.com/quvii', 'popupwindow')"
-        class="mx-auto mt-8 flex max-w-md flex-col gap-2 sm:flex-row"
-      >
-        <input
-          type="email"
-          name="email"
-          required
-          placeholder="you@example.com"
-          class="flex-1 rounded-md border border-white/10 bg-white/5 px-4 py-2.5 text-white placeholder-white/40 focus:border-primary-400 focus:outline-none focus:ring-2 focus:ring-primary-500/40"
-        />
-        <button
-          type="submit"
-          class="rounded-md bg-primary-500 px-5 py-2.5 font-semibold text-white shadow-glow-primary hover:bg-primary-400"
-        >
-          Notify me at launch
-        </button>
-      </form>
-      <p class="mt-3 text-xs text-white/40">
-        Early subscribers get founding-customer pricing + first access.
-      </p>
-
-      <ul class="mx-auto mt-10 grid max-w-2xl grid-cols-1 gap-3 text-left text-sm text-white/70 sm:grid-cols-3 list-none p-0">
-        <li class="flex items-center gap-2">
-          <span class="inline-flex h-5 w-5 items-center justify-center rounded-full bg-signal-500/20 text-signal-400">✓</span>
-          No monthly subscription
-        </li>
-        <li class="flex items-center gap-2">
-          <span class="inline-flex h-5 w-5 items-center justify-center rounded-full bg-signal-500/20 text-signal-400">✓</span>
-          Local-first recording (microSD + NVR)
-        </li>
-        <li class="flex items-center gap-2">
-          <span class="inline-flex h-5 w-5 items-center justify-center rounded-full bg-signal-500/20 text-signal-400">✓</span>
-          Works without the cloud
-        </li>
-      </ul>
+        <div class="hidden lg:block">
+          {/* Side rail: latest review preview. Placeholder copy until
+              cron produces the first photorealistic article cards. */}
+          <div class="rounded-2xl border border-white/10 bg-white/5 p-5 backdrop-blur">
+            <p class="m-0 text-[11px] font-semibold uppercase tracking-widest text-primary-300">
+              Latest review
+            </p>
+            {recent[0] ? (
+              <>
+                <h3 class="mt-2 text-lg font-semibold text-white">
+                  <a href={`/${recent[0]._kind}/${recent[0].slug}/`} class="text-white no-underline hover:text-primary-200">
+                    {recent[0].data.title}
+                  </a>
+                </h3>
+                <p class="mt-2 text-xs text-white/60">
+                  {recent[0].data.word_count?.toLocaleString() || "—"} words ·
+                  Last updated {recent[0].data.published_at?.slice(0, 10) || "—"}
+                </p>
+              </>
+            ) : (
+              <p class="mt-2 text-sm text-white/60">
+                New reviews ship multiple times a week. Check back, or subscribe below.
+              </p>
+            )}
+          </div>
+        </div>
+      </div>
     </div>
   </section>
 
-  <!-- ===================== Trust strip ===================== -->
-  <section class="mt-14 grid gap-6 sm:grid-cols-3">
+  <!-- ===================== Editorial standards strip ===================== -->
+  <section class="mt-14 grid gap-4 sm:grid-cols-3">
     <div class="rounded-xl border border-body-line bg-trust-card p-5">
-      <div class="text-2xl">🔒</div>
-      <h3 class="mt-2 text-sm font-semibold text-ink">Local-first by default</h3>
-      <p class="mt-1 text-xs text-body-muted">Footage stays on your microSD or NVR. Cloud is optional, not required.</p>
+      <h3 class="m-0 text-sm font-semibold text-ink">Tested, not summarized</h3>
+      <p class="mt-2 m-0 text-xs text-body-muted">
+        Spec sheets lie. We cross-check against real-world install testing,
+        RTINGS / Wirecutter data, and direct user-community consensus from
+        r/HomeSecurity.
+      </p>
     </div>
     <div class="rounded-xl border border-body-line bg-trust-card p-5">
-      <div class="text-2xl">🛡️</div>
-      <h3 class="mt-2 text-sm font-semibold text-ink">No data sharing</h3>
-      <p class="mt-1 text-xs text-body-muted">We don't sell your video, don't share with police without a warrant, don't analyze your footage.</p>
+      <h3 class="m-0 text-sm font-semibold text-ink">Total-cost-of-ownership</h3>
+      <p class="mt-2 m-0 text-xs text-body-muted">
+        The sticker price is the lie. We surface 3-year subscription costs,
+        cloud-storage tiers, and the "feature subscription" tricks Ring,
+        Arlo, and Nest use to lock you in.
+      </p>
     </div>
     <div class="rounded-xl border border-body-line bg-trust-card p-5">
-      <div class="text-2xl">⚙️</div>
-      <h3 class="mt-2 text-sm font-semibold text-ink">Engineering-grade specs</h3>
-      <p class="mt-1 text-xs text-body-muted">PoE, ONVIF, RTSP, dual-band Wi-Fi — open standards, not lock-in.</p>
+      <h3 class="m-0 text-sm font-semibold text-ink">Privacy first</h3>
+      <p class="mt-2 m-0 text-xs text-body-muted">
+        Every review documents where your footage goes, who can request it,
+        and what data the app actually collects. This is the question most
+        reviewers skip.
+      </p>
     </div>
   </section>
 
-  <!-- ===================== Buying guides funnel ===================== -->
+  <!-- ===================== Buying guides ===================== -->
   {buyingGuides.length > 0 && (
     <section class="mt-16">
       <div class="flex items-end justify-between">
         <div>
-          <p class="text-xs font-semibold uppercase tracking-widest text-primary-600">Independent reviews</p>
-          <h2 class="mt-1 text-2xl font-bold text-ink">Camera buying guides</h2>
+          <p class="text-xs font-semibold uppercase tracking-widest text-primary-600">Buying decisions</p>
+          <h2 class="mt-1 font-display text-2xl font-bold text-ink">Buying guides + comparisons</h2>
         </div>
-        <a href="/blog/buying-guides/" class="text-sm text-primary-600 no-underline hover:underline">All guides →</a>
+        <a href="/blog/" class="text-sm font-medium text-primary-600 no-underline hover:underline">All guides →</a>
       </div>
       <div class="mt-5 grid gap-4 md:grid-cols-3">
         {buyingGuides.map((e) => (
@@ -143,15 +188,39 @@ const jsonLd = {
     </section>
   )}
 
-  <!-- ===================== Recent content ===================== -->
+  <!-- ===================== Install + troubleshoot ===================== -->
+  {installHowTos.length > 0 && (
+    <section class="mt-16">
+      <div class="flex items-end justify-between">
+        <div>
+          <p class="text-xs font-semibold uppercase tracking-widest text-primary-600">Hands-on help</p>
+          <h2 class="mt-1 font-display text-2xl font-bold text-ink">Install + fix-it guides</h2>
+        </div>
+        <a href="/blog/" class="text-sm font-medium text-primary-600 no-underline hover:underline">More →</a>
+      </div>
+      <div class="mt-5 grid gap-4 md:grid-cols-3">
+        {installHowTos.map((e) => (
+          <ArticleCard
+            href={`/blog/${e.slug}/`}
+            title={e.data.title}
+            articleType={e.data.article_type}
+            wordCount={e.data.word_count}
+            publishedAt={e.data.published_at}
+            heroImage={e.data.hero_image}
+          />
+        ))}
+      </div>
+    </section>
+  )}
+
+  <!-- ===================== Recent ===================== -->
   {recent.length > 0 && (
     <section class="mt-16">
       <div class="flex items-end justify-between">
         <div>
-          <p class="text-xs font-semibold uppercase tracking-widest text-primary-600">Knowledge base</p>
-          <h2 class="mt-1 text-2xl font-bold text-ink">Recent articles</h2>
+          <p class="text-xs font-semibold uppercase tracking-widest text-primary-600">Just published</p>
+          <h2 class="mt-1 font-display text-2xl font-bold text-ink">Latest articles</h2>
         </div>
-        <a href="/blog/" class="text-sm text-primary-600 no-underline hover:underline">All articles →</a>
       </div>
       <div class="mt-5 grid gap-4 md:grid-cols-2 lg:grid-cols-3">
         {recent.map((e) => (
@@ -168,18 +237,34 @@ const jsonLd = {
     </section>
   )}
 
-  <!-- ===================== Bottom email reminder ===================== -->
-  <section class="mt-20 mb-8 rounded-2xl border border-primary-200 bg-primary-50 p-8 text-center">
-    <h2 class="text-2xl font-bold text-ink">First access. Founding price.</h2>
-    <p class="mx-auto mt-2 max-w-xl text-sm text-body-muted">
-      Sign up early and we'll send you the spec sheets, FCC test results, and
-      a founding-customer discount the day Quvii ships.
+  <!-- ===================== Newsletter (low-key) ===================== -->
+  <section class="mt-20 mb-8 rounded-2xl bg-ink-soft px-6 py-10 sm:px-10 text-center">
+    <h2 class="font-display text-2xl font-bold text-white">Weekly camera-shopping digest</h2>
+    <p class="mx-auto mt-2 max-w-2xl text-sm text-white/70">
+      One short email each week. New reviews, the week's deepest discounts on
+      cameras we'd actually recommend, and any policy changes from the major
+      brands. No spam, unsubscribe with one click.
     </p>
-    <a
-      href="#notify"
-      class="mt-4 inline-flex items-center rounded-md bg-primary-500 px-5 py-2.5 font-semibold text-white no-underline hover:bg-primary-600"
+    <form
+      action="https://buttondown.com/api/emails/embed-subscribe/quvii"
+      method="post"
+      target="popupwindow"
+      onsubmit="window.open('https://buttondown.com/quvii', 'popupwindow')"
+      class="mx-auto mt-5 flex max-w-md flex-col gap-2 sm:flex-row"
     >
-      Get notified →
-    </a>
+      <input
+        type="email"
+        name="email"
+        required
+        placeholder="you@example.com"
+        class="flex-1 rounded-md border border-white/10 bg-white/5 px-4 py-2.5 text-white placeholder-white/40 focus:border-primary-400 focus:outline-none focus:ring-2 focus:ring-primary-500/40"
+      />
+      <button
+        type="submit"
+        class="rounded-md bg-primary-500 px-5 py-2.5 font-semibold text-white hover:bg-primary-400"
+      >
+        Subscribe
+      </button>
+    </form>
   </section>
 </BaseLayout>
