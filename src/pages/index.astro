@@ -2,22 +2,37 @@
 import { getCollection } from "astro:content";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import HeroFullBleed from "../components/HeroFullBleed.astro";
+import ValueStrip from "../components/ValueStrip.astro";
 import FeatureStory from "../components/FeatureStory.astro";
 import ArticleTile from "../components/ArticleTile.astro";
+import CategoryBanner from "../components/CategoryBanner.astro";
+import NewsRibbon from "../components/NewsRibbon.astro";
+import StandardsTeaser from "../components/StandardsTeaser.astro";
 import PullQuote from "../components/PullQuote.astro";
 
-// Quvii homepage — Apple / DJI-grade brand-tech outpost.
-// Positioning is intentionally neutral: no "review site / blog / news"
-// labels in copy. Page reads as a forward-looking technology brand
-// publishing professional intelligence on connected security. Fixed
-// section structure; article streams are dynamic (driven by content
-// collections + qa_score + recency).
+// Quvii homepage — densified Apple/DJI-grade sectional rhythm.
+//
+// Fixed section structure (Jeff's directive — frame is standardized,
+// content is dynamic):
+//   1.  Hero (full-bleed, dark)
+//   2.  ValueStrip — three lenses on connected security
+//   3.  Featured story (magazine split)
+//   4.  Wave 1 — six mixed-content tiles
+//   5.  CategoryBanner #1 (Reviews focus)
+//   6.  PullQuote — editorial voice
+//   7.  Wave 2 — three secondary-wave tiles
+//   8.  CategoryBanner #2 (Guides focus, dark tone)
+//   9.  NewsRibbon — four compact industry signals
+//   10. StandardsTeaser — credibility block
+//   11. Newsletter
+//   12. Footer
+//
+// All sections degrade gracefully when no content is available.
 
 const blog = await getCollection("blog");
 const learn = await getCollection("learn");
 const reviews = await getCollection("reviews");
 
-// Editorial floor — match sitemap policy
 const NOINDEX_BELOW = 6.0;
 const ok = <T extends { data: { qa_score?: number } }>(e: T) =>
   !(typeof e.data.qa_score === "number" && e.data.qa_score < NOINDEX_BELOW);
@@ -43,20 +58,35 @@ const rest = all.filter((e) => e.id !== featuredId);
 const wave1 = rest.slice(0, 6);
 const wave2 = rest.slice(6, 9);
 
+// News stream = article_type=camera_news from /blog/
+const NEWS_TYPES = new Set(["camera_news"]);
+const news = blog
+  .filter((e) => ok(e) && NEWS_TYPES.has(e.data.article_type))
+  .sort((a, b) => Date.parse(b.data.published_at || "") - Date.parse(a.data.published_at || ""))
+  .slice(0, 4)
+  .map((e) => ({
+    href: `/blog/${e.slug}/`,
+    title: e.data.title,
+    publishedAt: e.data.published_at,
+  }));
+
+// Visual banner imagery — prefer a recent review hero, then any
+// recent hero image. Otherwise the banner renders with its dark
+// gradient fallback (still on-brand).
+const reviewSample = reviews.filter(ok).sort(
+  (a, b) => Date.parse(b.data.published_at || "") - Date.parse(a.data.published_at || "")
+)[0];
+const learnSample = learn.filter(ok).sort(
+  (a, b) => Date.parse(b.data.published_at || "") - Date.parse(a.data.published_at || "")
+)[0];
+
+const reviewsBannerImage = reviewSample?.data.hero_image
+  || rest.find((e) => e.data.hero_image)?.data.hero_image;
+const guidesBannerImage = learnSample?.data.hero_image
+  || rest.find((e) => e.id !== featuredId && e.data.hero_image && e.data.hero_image !== reviewsBannerImage)?.data.hero_image;
+
 const hrefFor = (e: Entry) => `/${e._kind}/${e.slug}/`;
-
 const heroBackdrop = featured?.data.hero_image || undefined;
-
-const jsonLd = {
-  "@context": "https://schema.org",
-  "@type": "Organization",
-  url: "https://quvii.com/",
-  name: "Quvii",
-  description:
-    "Quvii is a connected-security technology brand publishing field-level intelligence on the cameras, sensors, and software shaping the modern home.",
-  inLanguage: "en-US",
-  sameAs: [],
-};
 
 const siteJsonLd = {
   "@context": "https://schema.org",
@@ -70,14 +100,14 @@ const siteJsonLd = {
 
 <BaseLayout
   title="Quvii — Connected security, refined."
-  description="Quvii publishes field-tested intelligence on the cameras, sensors, and software shaping the modern home. Independent research, technical depth, professional standards."
+  description="Industry signals, technical depth, and product intelligence across connected security. Independent research from a US-headquartered technology brand."
   jsonLd={siteJsonLd}
 >
-  <!-- ====================== HERO ====================== -->
+  <!-- 1. HERO -->
   <HeroFullBleed
     eyebrow="Quvii"
     headline="Connected security, refined."
-    dek="Field-level intelligence on the cameras, sensors, and software shaping how the modern home protects itself."
+    dek="Industry signals, technical depth, and product intelligence — the work that shapes how the modern home protects itself."
     primaryHref={featured ? hrefFor(featured as Entry) : "/blog/"}
     primaryLabel="Read the latest"
     secondaryHref="/about/"
@@ -85,10 +115,19 @@ const siteJsonLd = {
     image={heroBackdrop}
   />
 
-  <!-- ====================== FEATURED STORY ====================== -->
+  <!-- 2. VALUE POSITIONING STRIP -->
+  <ValueStrip />
+
+  <!-- 3. FEATURED STORY -->
   {featured && (
-    <section class="section bg-surface">
+    <section class="section bg-surface border-t border-body-line">
       <div class="container-page">
+        <div class="mb-12 lg:mb-16 max-w-2xl">
+          <p class="text-xs font-medium uppercase tracking-[0.18em] text-primary-600">Featured</p>
+          <h2 class="mt-3 font-display text-2xl sm:text-3xl lg:text-4xl font-semibold tracking-display text-ink leading-[1.1]">
+            This week's deep dive.
+          </h2>
+        </div>
         <FeatureStory
           href={hrefFor(featured as Entry)}
           title={featured.data.title}
@@ -102,19 +141,22 @@ const siteJsonLd = {
     </section>
   )}
 
-  <!-- ====================== STREAM 1 — mixed content ====================== -->
+  <!-- 4. WAVE 1 — mixed content -->
   {wave1.length > 0 && (
-    <section class="section-tight bg-surface-alt">
+    <section class="section bg-surface-alt">
       <div class="container-page">
-        <div class="flex items-end justify-between mb-10 lg:mb-14">
-          <h2 class="font-display text-2xl sm:text-3xl lg:text-4xl font-semibold tracking-display text-ink leading-[1.1] max-w-2xl">
-            What we're watching
-          </h2>
-          <a href="/blog/" class="hidden sm:inline-flex items-center gap-1 text-sm font-medium text-primary-600 hover:text-primary-700 no-underline">
-            See all <span aria-hidden="true">›</span>
+        <div class="flex items-end justify-between mb-10 lg:mb-14 flex-wrap gap-4">
+          <div>
+            <p class="text-xs font-medium uppercase tracking-[0.18em] text-primary-600">Currently tracking</p>
+            <h2 class="mt-3 font-display text-2xl sm:text-3xl lg:text-4xl font-semibold tracking-display text-ink leading-[1.1] max-w-2xl">
+              What we're watching.
+            </h2>
+          </div>
+          <a href="/blog/" class="inline-flex items-center gap-1 text-sm font-medium text-primary-600 hover:text-primary-700 no-underline">
+            All work <span aria-hidden="true">›</span>
           </a>
         </div>
-        <div class="grid gap-x-8 gap-y-12 sm:grid-cols-2 lg:grid-cols-3">
+        <div class="grid gap-x-8 gap-y-14 sm:grid-cols-2 lg:grid-cols-3">
           {wave1.map((e) => (
             <ArticleTile
               href={hrefFor(e)}
@@ -131,19 +173,33 @@ const siteJsonLd = {
     </section>
   )}
 
-  <!-- ====================== EDITORIAL VOICE ====================== -->
+  <!-- 5. CATEGORY BANNER — Reviews -->
+  <CategoryBanner
+    eyebrow="Reviews"
+    headline="Measured, not marketed."
+    body="In-depth technical analysis of connected security hardware. Real range, real subscription cost, real data-handling — the trade-offs the spec sheet won't show you."
+    href="/reviews/"
+    cta="Explore reviews"
+    image={reviewsBannerImage}
+    tone="light"
+  />
+
+  <!-- 6. EDITORIAL VOICE -->
   <PullQuote
     text="A camera is a system. A system is a set of decisions made by someone who isn't you. Quvii's work is to make those decisions visible — so the home owns its security, not the other way around."
   />
 
-  <!-- ====================== STREAM 2 — secondary wave ====================== -->
+  <!-- 7. WAVE 2 — secondary -->
   {wave2.length > 0 && (
     <section class="section bg-surface">
       <div class="container-page">
-        <h2 class="font-display text-2xl sm:text-3xl lg:text-4xl font-semibold tracking-display text-ink leading-[1.1] max-w-2xl mb-10 lg:mb-14">
-          New from the field
-        </h2>
-        <div class="grid gap-x-8 gap-y-12 lg:grid-cols-3">
+        <div class="mb-10 lg:mb-14 max-w-2xl">
+          <p class="text-xs font-medium uppercase tracking-[0.18em] text-primary-600">From the field</p>
+          <h2 class="mt-3 font-display text-2xl sm:text-3xl lg:text-4xl font-semibold tracking-display text-ink leading-[1.1]">
+            Newer dispatches.
+          </h2>
+        </div>
+        <div class="grid gap-x-8 gap-y-14 sm:grid-cols-2 lg:grid-cols-3">
           {wave2.map((e) => (
             <ArticleTile
               href={hrefFor(e)}
@@ -160,37 +216,35 @@ const siteJsonLd = {
     </section>
   )}
 
-  <!-- ====================== STANDARDS / TRUST STRIP ====================== -->
-  <section class="section-tight bg-ink text-white">
-    <div class="container-page grid gap-10 lg:grid-cols-3">
-      <div>
-        <h3 class="font-display text-lg font-semibold tracking-tight text-white">Independent</h3>
-        <p class="mt-3 text-sm leading-relaxed text-white/65 max-w-sm">
-          No paid placements. No vendor-controlled coverage. Every recommendation
-          stands on its own technical merit.
-        </p>
-      </div>
-      <div>
-        <h3 class="font-display text-lg font-semibold tracking-tight text-white">Field-tested</h3>
-        <p class="mt-3 text-sm leading-relaxed text-white/65 max-w-sm">
-          Decisions grounded in measurement: real range, real subscription cost,
-          real data-handling — not spec sheets.
-        </p>
-      </div>
-      <div>
-        <h3 class="font-display text-lg font-semibold tracking-tight text-white">Forward-looking</h3>
-        <p class="mt-3 text-sm leading-relaxed text-white/65 max-w-sm">
-          Connected security is a software problem dressed in hardware. We cover
-          the systems behind the lens, not just the lens.
-        </p>
-      </div>
-    </div>
-  </section>
+  <!-- 8. CATEGORY BANNER — Guides (dark tone) -->
+  <CategoryBanner
+    eyebrow="Guides"
+    headline="Built on what works."
+    body="Practical, technical guides to designing, installing, and operating connected home security. Hands-on knowledge from the field — not the spec sheet."
+    href="/learn/"
+    cta="Explore guides"
+    image={guidesBannerImage}
+    tone="dark"
+    flip={true}
+  />
 
-  <!-- ====================== NEWSLETTER ====================== -->
+  <!-- 9. NEWS RIBBON -->
+  <NewsRibbon
+    eyebrow="Signals"
+    headline="From the wire."
+    ctaHref="/news/"
+    ctaLabel="All news"
+    items={news}
+  />
+
+  <!-- 10. STANDARDS TEASER -->
+  <StandardsTeaser />
+
+  <!-- 11. NEWSLETTER -->
   <section class="section bg-surface-alt">
     <div class="container-page max-w-3xl text-center mx-auto">
-      <h2 class="font-display text-2xl sm:text-3xl lg:text-4xl font-semibold tracking-display text-ink leading-[1.1]">
+      <p class="text-xs font-medium uppercase tracking-[0.18em] text-primary-600">Brief</p>
+      <h2 class="mt-3 font-display text-2xl sm:text-3xl lg:text-4xl font-semibold tracking-display text-ink leading-[1.1]">
         One brief, every week.
       </h2>
       <p class="mt-4 text-base text-body-muted max-w-xl mx-auto">

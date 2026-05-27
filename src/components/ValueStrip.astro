@@ -1,0 +1,51 @@
+---
+// Brand value positioning band — opens the page below hero.
+// Three pillars stated as work-areas, not as a media-site section list.
+// Apple-grade restraint: hairline divider, fine eyebrow, large statements.
+
+interface Pillar {
+  eyebrow: string;
+  title: string;
+  body: string;
+}
+const pillars: Pillar[] = [
+  {
+    eyebrow: "01 · Industry signals",
+    title: "What's actually moving in connected security.",
+    body: "We track the launches, policy shifts, and platform decisions reshaping the category — separated from the marketing cycle that surrounds them.",
+  },
+  {
+    eyebrow: "02 · Technical depth",
+    title: "Beyond the spec sheet.",
+    body: "Hands-on measurement of the systems behind the lens: real range, real subscription cost, real data-handling — across every category and price point.",
+  },
+  {
+    eyebrow: "03 · Product intelligence",
+    title: "Decisions you can defend.",
+    body: "Buying analysis grounded in measurement, documentation, and long-running community evidence. No paid placements, no vendor-controlled narratives.",
+  },
+];
+---
+
+<section class="section-tight bg-surface">
+  <div class="container-page">
+    <div class="max-w-3xl">
+      <p class="text-xs font-medium uppercase tracking-[0.18em] text-primary-600">The work</p>
+      <h2 class="mt-4 font-display text-2xl sm:text-3xl lg:text-4xl font-semibold tracking-display text-ink leading-[1.1]">
+        Three lenses on connected security.
+      </h2>
+    </div>
+
+    <div class="mt-14 lg:mt-20 grid gap-12 lg:gap-16 lg:grid-cols-3">
+      {pillars.map((p) => (
+        <div class="border-t border-body-line pt-6">
+          <p class="text-[11px] font-medium uppercase tracking-[0.2em] text-body-faint">{p.eyebrow}</p>
+          <h3 class="mt-4 font-display text-xl sm:text-2xl font-semibold tracking-tight text-ink leading-[1.15]">
+            {p.title}
+          </h3>
+          <p class="mt-4 text-sm leading-relaxed text-body-muted">{p.body}</p>
+        </div>
+      ))}
+    </div>
+  </div>
+</section>

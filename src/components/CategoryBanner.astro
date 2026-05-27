@@ -1,0 +1,63 @@
+---
+// Large image-led category banner. Apple "Pro" / DJI series-launch
+// pattern: full-bleed image on one side, large statement + read link on
+// the other. Stacks on mobile (image first). Used to break up the
+// homepage with visual weight between content streams.
+
+interface Props {
+  eyebrow: string;
+  headline: string;
+  body: string;
+  href: string;
+  cta: string;
+  image?: string;
+  flip?: boolean;
+  tone?: "light" | "dark";
+}
+
+const {
+  eyebrow, headline, body, href, cta, image, flip = false, tone = "light",
+} = Astro.props;
+
+const bgClass = tone === "dark" ? "bg-ink text-white" : "bg-surface-alt text-ink";
+const eyebrowClass = tone === "dark" ? "text-primary-300" : "text-primary-600";
+const headlineClass = tone === "dark" ? "text-white" : "text-ink";
+const bodyClass = tone === "dark" ? "text-white/70" : "text-body-muted";
+const ctaClass = tone === "dark" ? "text-white hover:text-primary-300" : "text-primary-600 hover:text-primary-700";
+---
+
+<section class={`section ${bgClass}`}>
+  <div class="container-page">
+    <div class={`grid items-center gap-10 lg:gap-16 ${flip ? "lg:grid-cols-[1fr_1.15fr]" : "lg:grid-cols-[1.15fr_1fr]"}`}>
+      <div class={`relative overflow-hidden rounded-2xl bg-ink/5 aspect-[5/4] ${flip ? "lg:order-2" : ""}`}>
+        {image ? (
+          <img
+            src={image}
+            alt=""
+            loading="lazy"
+            decoding="async"
+            class="h-full w-full object-cover"
+          />
+        ) : (
+          <div class="h-full w-full bg-gradient-to-br from-ink-soft to-ink-deep"></div>
+        )}
+      </div>
+
+      <div>
+        <p class={`text-xs font-medium uppercase tracking-[0.18em] ${eyebrowClass}`}>{eyebrow}</p>
+        <h2 class={`mt-4 font-display text-3xl sm:text-4xl lg:text-5xl font-semibold tracking-display leading-[1.05] ${headlineClass}`}>
+          {headline}
+        </h2>
+        <p class={`mt-6 text-base sm:text-lg leading-relaxed max-w-xl ${bodyClass}`}>
+          {body}
+        </p>
+        <a
+          href={href}
+          class={`mt-8 inline-flex items-center gap-1 text-sm font-medium no-underline transition-colors ${ctaClass}`}
+        >
+          {cta} <span aria-hidden="true">›</span>
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
