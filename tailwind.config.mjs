@@ -18,17 +18,19 @@ export default {
           deep:    "#06101e",
           soft:    "#162338",
         },
+        // Quvii brand primary — #0387E5 (electric cobalt, signals clarity
+        // + signal + precision). Generated 50-900 scale around the 500 anchor.
         primary: {
-          50:  "#eef4ff",
-          100: "#d9e6ff",
-          200: "#b8cfff",
-          300: "#8db1ff",
-          400: "#5d8aff",
-          500: "#3a64ec",
-          600: "#2a4cd6",
-          700: "#233dab",
-          800: "#1f3486",
-          900: "#1d2e6b",
+          50:  "#e6f3fd",
+          100: "#c5e3fb",
+          200: "#90c8f6",
+          300: "#54a8f0",
+          400: "#1e8aea",
+          500: "#0387e5",   // ← brand color
+          600: "#026fbb",
+          700: "#025894",
+          800: "#03467a",
+          900: "#053a64",
         },
         signal: {
           400: "#34d399",
@@ -58,12 +60,12 @@ export default {
       },
       backgroundImage: {
         "hero-gradient":
-          "radial-gradient(ellipse at 15% 0%, rgba(58,100,236,0.30), transparent 55%), linear-gradient(180deg, #0a1628 0%, #06101e 100%)",
+          "radial-gradient(ellipse at 15% 0%, rgba(3,135,229,0.32), transparent 55%), linear-gradient(180deg, #0a1628 0%, #06101e 100%)",
         "trust-card":
-          "linear-gradient(135deg, rgba(58,100,236,0.06), rgba(255,255,255,0.6))",
+          "linear-gradient(135deg, rgba(3,135,229,0.07), rgba(255,255,255,0.6))",
       },
       boxShadow: {
-        "glow-primary": "0 0 32px rgba(58,100,236,0.40)",
+        "glow-primary": "0 0 32px rgba(3,135,229,0.45)",
         "card":         "0 1px 2px rgba(10,22,40,0.06), 0 8px 24px -8px rgba(10,22,40,0.12)",
         "ring-focus":   "0 0 0 3px rgba(58,100,236,0.30)",
       },
