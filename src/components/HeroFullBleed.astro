@@ -46,11 +46,19 @@ const alignClass = align === "center" ? "text-center mx-auto" : "text-left";
         class="absolute inset-0 h-full w-full object-cover"
         style="filter: brightness(1.55) contrast(1.05) saturate(1.05);"
       />
-      {/* Apple/DJI-style readability scrim: dense on the left where
-          the headline sits, fully clear across the right 2/3 so the
-          brand image is unobstructed. */}
-      <div class="absolute inset-0 bg-gradient-to-r from-black/70 from-0% via-black/25 via-25% to-transparent to-50%"></div>
-      <div class="absolute inset-x-0 bottom-0 h-16 bg-gradient-to-t from-black/30 to-transparent"></div>
+      {/* Readability scrim.
+          - Mobile/tablet (<lg): full-bleed horizontal AND vertical dark
+            wash. Text spans the whole width so a left-only side fade
+            won't help — drop a stronger bottom-up scrim plus a soft
+            full overlay so the headline is always readable against
+            whatever the image happens to show.
+          - Desktop (lg+): Apple/DJI-style — dense on the left third
+            where the headline sits, fully clear across the right 2/3
+            so the brand image is unobstructed. */}
+      <div class="absolute inset-0 bg-black/35 lg:hidden"></div>
+      <div class="absolute inset-x-0 bottom-0 h-2/3 bg-gradient-to-t from-black/75 via-black/35 to-transparent lg:hidden"></div>
+      <div class="absolute inset-0 hidden lg:block bg-gradient-to-r from-black/75 from-0% via-black/30 via-25% to-transparent to-55%"></div>
+      <div class="absolute inset-x-0 bottom-0 h-16 hidden lg:block bg-gradient-to-t from-black/35 to-transparent"></div>
     </>
   )}
 
@@ -61,11 +69,17 @@ const alignClass = align === "center" ? "text-center mx-auto" : "text-left";
           {eyebrow}
         </p>
       )}
-      <h1 class="mt-5 font-display text-display-sm sm:text-display lg:text-display-lg text-white">
+      <h1
+        class="mt-5 font-display text-display-sm sm:text-display lg:text-display-lg text-white"
+        style="text-shadow: 0 2px 24px rgba(0,0,0,0.55), 0 1px 2px rgba(0,0,0,0.35);"
+      >
         {headline}
       </h1>
       {dek && (
-        <p class="mt-6 max-w-2xl text-base sm:text-lg text-white/75 leading-relaxed">
+        <p
+          class="mt-6 max-w-2xl text-base sm:text-lg text-white/80 leading-relaxed"
+          style="text-shadow: 0 1px 12px rgba(0,0,0,0.45);"
+        >
           {dek}
         </p>
       )}
