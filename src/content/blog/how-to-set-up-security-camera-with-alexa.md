@@ -27,10 +27,8 @@ game: multi
 affiliate: true
 hero_image: /img/how-to-set-up-security-camera-with-alexa/hero.webp
 inline_images:
-  - /img/how-to-set-up-security-camera-with-alexa/inline-4.webp
   - /img/how-to-set-up-security-camera-with-alexa/inline-5.webp
 inline_image_sections:
-  - "Renter-friendly tips (no drilling)"
   - "Connecting to your home network"
 ---
 
@@ -112,8 +110,6 @@ Streaming 4K video to an older Echo Show 5 can cause significant buffering or ap
 
 ## Renter-friendly tips (no drilling)
 
-![Renter-friendly tips (no drilling)](/img/how-to-set-up-security-camera-with-alexa/inline-4.webp)
-
 
 For those in apartments or rental homes, mounting hardware can be a challenge. You can secure your cameras using non-permanent solutions that still provide optimal viewing angles.
 
@@ -132,6 +128,7 @@ For those in apartments or rental homes, mounting hardware can be a challenge. Y
 ## Connecting to your home network
 
 ![Connecting to your home network](/img/how-to-set-up-security-camera-with-alexa/inline-5.webp)
+
 
 
 A stable connection is the backbone of any security system. For 4K streaming, the Received Signal Strength Indicator (RSSI) must be optimized.
