@@ -1,4 +1,4 @@
---
+---
 title: How to Set Up a Security Camera with Alexa (2026 Guide)
 slug: how-to-set-up-security-camera-with-alexa
 article_type: camera_install
@@ -6,7 +6,7 @@ qa_score: 9.2
 word_count: 2072
 published_at: "2026-05-28T11:10:12.437839+00:00"
 published_url: /blog/how-to-set-up-security-camera-with-alexa
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKZi27TYsSYZFHCqJg5rL-ZSaHP7P6_ULQPWe0vd1t7E0NBknf9m5vc3h5RO94-3rcMsIOEVCFBrNS9VgD1UcNXdHOyeZuRthtRMEIdav2ZuJywv9vhL0qw3OOPcyvZYN_MgCAl3JL7yKdb0O2d0QlGvkTyH7adViW9bfXuLK6VsjVHBXTB50JcG4PjRXcy1wx"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvmq9HPlkLvhhw0EdAiFR0le7TL6SCQRQ4rnbC7luiD0NgVYxsQY4sQ4q4rpK60f1lLxvIV6UleL0LGbktId2ylExHofV41nHfABY0t8IuxpIainz0aAgXRRQEWXYoy-9svupaiHI4x-JWVAFX1ZYH1VAw7PHu5HawoT38qEvU1955QCIrlGNAPSwCvIgFQtNtQyWMtg=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRhTAUGIKRfDUQuf-4FLhmt-Jsm8VCJFsmUwZccAZnNkVi4yGG9doheNfcvpE3v3FCMfME_7Uux6XH605fnzNQuZGV_8akinRix2w_cVpqMy-yg3KjOgLaKrfz3iVMKBLWi2VeqvZocoP-nhMAYT7kOS0xEjPW855Ypajeq4hfRBD195SU-3KePTwm6Q=="
@@ -26,11 +26,11 @@ quick_answer: "To connect your camera, enable the manufacturer's Skill in the Al
 game: multi
 affiliate: true
 hero_image: /img/how-to-set-up-security-camera-with-alexa/hero.webp
-inline_images
+inline_images:
   - /img/how-to-set-up-security-camera-with-alexa/inline-5.webp
-inline_image_sections
+inline_image_sections:
   - "Connecting to your home network"
---
+---
 
 Integrating your home security system with Amazon’s ecosystem has evolved significantly with the arrival of AI-driven displays and standardized communication protocols.
 

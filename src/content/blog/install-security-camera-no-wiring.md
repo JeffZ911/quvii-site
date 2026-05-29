@@ -1,4 +1,4 @@
---
+---
 title: How to Install Security Cameras Without Existing Wiring (2026)
 slug: install-security-camera-no-wiring
 article_type: camera_install
@@ -10,17 +10,17 @@ sources: []
 quick_answer: To install a camera without wiring, use battery or solar-powered models like the Quvii Solo or EufyCam S340. Mount using heavy-duty outdoor adhesive or gutter clamps to avoid drilling. Ensure your Wi-Fi 6 signal reaches the site.
 game: multi
 hero_image: /img/install-security-camera-no-wiring/hero.webp
-inline_images
+inline_images:
   - /img/install-security-camera-no-wiring/inline-1.webp
   - /img/install-security-camera-no-wiring/inline-2.webp
   - /img/install-security-camera-no-wiring/inline-3.webp
   - /img/install-security-camera-no-wiring/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "What you'll need"
   - "Step-by-step installation"
   - "Common gotchas"
   - "Verifying it works"
---
+---
 
 Securing your home no longer requires tearing through drywall or hiring an expensive electrician to run coaxial or Ethernet cables. Modern advancements in battery density and wireless protocols have made professional-grade surveillance accessible to anyone with a ladder and a smartphone.
 

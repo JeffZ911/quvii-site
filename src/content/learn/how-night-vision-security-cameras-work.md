@@ -1,4 +1,4 @@
---
+---
 title: "How Night Vision Security Cameras Work: 2026 Tech Guide"
 slug: how-night-vision-security-cameras-work
 article_type: camera_learn
@@ -11,17 +11,17 @@ quick_answer: "Night vision cameras work by using invisible infrared (IR) light 
 game: multi
 affiliate: true
 hero_image: /img/how-night-vision-security-cameras-work/hero.webp
-inline_images
+inline_images:
   - /img/how-night-vision-security-cameras-work/inline-3.webp
   - /img/how-night-vision-security-cameras-work/inline-4.webp
   - /img/how-night-vision-security-cameras-work/inline-5.webp
   - /img/how-night-vision-security-cameras-work/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "How it works under the hood"
   - "Real-world implications"
   - "Common misconceptions"
   - "Further reading"
---
+---
 
 Seeing in total darkness was once the domain of military-grade hardware, but today’s security systems use advanced photonics to turn midnight into midday. Understanding how these sensors bridge the gap between invisible light and clear evidence is the first step in securing a modern home.
 
