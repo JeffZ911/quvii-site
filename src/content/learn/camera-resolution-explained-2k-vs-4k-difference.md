@@ -1,4 +1,4 @@
----
+--
 title: "2K vs. 4K Security Cameras: The Ultimate 2026 Resolution Guide"
 slug: camera-resolution-explained-2k-vs-4k-difference
 article_type: camera_learn
@@ -10,11 +10,11 @@ sources: []
 quick_answer: 4K (8MP) offers double the detail of 2K (4MP), enabling facial identification at 20+ feet. Choose 4K for driveways and 2K for indoor use to balance clarity with storage efficiency.
 game: multi
 hero_image: /img/camera-resolution-explained-2k-vs-4k-difference/hero.webp
-inline_images:
+inline_images
   - /img/camera-resolution-explained-2k-vs-4k-difference/inline-5.webp
-inline_image_sections:
+inline_image_sections
   - "Common misconceptions"
----
+--
 
 Choosing between a clear identification and a blurry silhouette often comes down to the number of pixels your system can capture.
 
@@ -57,7 +57,7 @@ Professional security installers use the DORI standard (Detect, Observe, Recogni
 *   **Recognize:** Is this someone I know?
 *   **Identify:** Can I provide a clear enough image for police to identify a stranger?
 
-Using a standard 2.8mm wide-angle lens, the "Identify" range differs significantly between 2K and 4K:
+Using a standard 2.8mm wide-angle lens, the "Identify" range differs significantly between 2K and 4K
 
 | Resolution | Detect (25 PPM) | Recognize (125 PPM) | Identify (250 PPM) |
 | :--- | :--- | :--- | :--- |
@@ -149,10 +149,10 @@ Quvii’s focus on local storage is a direct response to the data demands of 4K.
 ## Sources
 
 - B&H Photo Video — https://www.bhphotovideo.com/explora/video/tips-and-solutions/understanding-resolution-and-aspect-ratio
-- Digital Trends (2K) — https://www.digitaltrends.com/computing/what-is-2k-resolution/
-- Digital Trends (4K) — https://www.digitaltrends.com/home-theater/what-is-4k-resolution/
-- Axis Communications (DORI Standard) — https://www.axis.com/learning/technical-guide-to-network-video/dori-standard
+- Digital Trends (2K)
+- Digital Trends (4K)
+- Axis Communications (DORI Standard)
 - Reolink (Bandwidth Calculation) — https://reolink.com/blog/security-camera-bandwidth-calculation/
-- Security.org (H.265 vs H.264) — https://www.security.org/security-cameras/h265-vs-h264/
-- Hikvision (DarkFighter Technology) — https://www.hikvision.com/en/core-technologies/low-light-imaging/darkfighter/
-- Axis Communications (WDR) — https://www.axis.com/learning/technical-guide-to-network-video/wide-dynamic-range
+- Security.org (H.265 vs H.264)
+- Hikvision (DarkFighter Technology)
+- Axis Communications (WDR)

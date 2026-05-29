@@ -1,4 +1,4 @@
----
+--
 title: "How Night Vision Security Cameras Work: 2026 Tech Guide"
 slug: how-night-vision-security-cameras-work
 article_type: camera_learn
@@ -11,17 +11,17 @@ quick_answer: "Night vision cameras work by using invisible infrared (IR) light 
 game: multi
 affiliate: true
 hero_image: /img/how-night-vision-security-cameras-work/hero.webp
-inline_images:
+inline_images
   - /img/how-night-vision-security-cameras-work/inline-3.webp
   - /img/how-night-vision-security-cameras-work/inline-4.webp
   - /img/how-night-vision-security-cameras-work/inline-5.webp
   - /img/how-night-vision-security-cameras-work/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "How it works under the hood"
   - "Real-world implications"
   - "Common misconceptions"
   - "Further reading"
----
+--
 
 Seeing in total darkness was once the domain of military-grade hardware, but today’s security systems use advanced photonics to turn midnight into midday. Understanding how these sensors bridge the gap between invisible light and clear evidence is the first step in securing a modern home.
 
@@ -126,13 +126,13 @@ Adopting a "Subscribe to Nothing" philosophy is also vital for nighttime securit
 Looking forward, the future of consumer security lies in thermal imaging. While currently expensive, thermal sensors are beginning to appear in high-end consumer "hybrid" cameras, allowing for the detection of heat signatures through fog, heavy rain, and dense foliage where traditional IR and Starlight sensors fail.
 
 ## Sources
-- Network Webcams: Understanding Low Light Performance — https://www.networkwebcams.co.uk/blog/understanding-low-light-performance-in-ip-cameras/
-- Montavue: How Night Vision Cameras Work — https://www.montavue.com/blogs/news/how-do-night-vision-security-cameras-work
-- Sipko Security: IR vs Color Night Vision — https://www.sipkosecurity.com/how-do-night-vision-security-cameras-work/
+- Network Webcams: Understanding Low Light Performance
+- Montavue: How Night Vision Cameras Work
+- Sipko Security: IR vs Color Night Vision
 - Reolink: Color Night Vision Explained — https://reolink.com/blog/color-night-vision-security-camera/
 - Hikvision: Smart Hybrid Light Technology — https://www.hikvision.com/en/core-technologies/low-light-imaging/smart-hybrid-light/
-- Security.org: Burglary Statistics and Trends — https://www.security.org/resources/burglary-statistics/
-- All-Abouts: The Mechanics of Night Vision — https://www.all-abouts.com/how-do-night-vision-security-cameras-work/
-- Botslab: Image Signal Processors in Security — https://www.botslab.com/blog/how-do-night-vision-security-cameras-work
+- Security.org: Burglary Statistics and Trends
+- All-Abouts: The Mechanics of Night Vision
+- Botslab: Image Signal Processors in Security
 - Reolink: Sensor Size and Image Quality — https://reolink.com/blog/security-camera-sensor-size/
 - Hikvision: ColorVu Technology — https://www.hikvision.com/en/core-technologies/low-light-imaging/colorvu/

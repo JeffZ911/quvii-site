@@ -1,4 +1,4 @@
----
+--
 title: How to Set Up a Security Camera with Alexa (2026 Guide)
 slug: how-to-set-up-security-camera-with-alexa
 article_type: camera_install
@@ -6,7 +6,7 @@ qa_score: 9.2
 word_count: 2072
 published_at: "2026-05-28T11:10:12.437839+00:00"
 published_url: /blog/how-to-set-up-security-camera-with-alexa
-sources:
+sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKZi27TYsSYZFHCqJg5rL-ZSaHP7P6_ULQPWe0vd1t7E0NBknf9m5vc3h5RO94-3rcMsIOEVCFBrNS9VgD1UcNXdHOyeZuRthtRMEIdav2ZuJywv9vhL0qw3OOPcyvZYN_MgCAl3JL7yKdb0O2d0QlGvkTyH7adViW9bfXuLK6VsjVHBXTB50JcG4PjRXcy1wx"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvmq9HPlkLvhhw0EdAiFR0le7TL6SCQRQ4rnbC7luiD0NgVYxsQY4sQ4q4rpK60f1lLxvIV6UleL0LGbktId2ylExHofV41nHfABY0t8IuxpIainz0aAgXRRQEWXYoy-9svupaiHI4x-JWVAFX1ZYH1VAw7PHu5HawoT38qEvU1955QCIrlGNAPSwCvIgFQtNtQyWMtg=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRhTAUGIKRfDUQuf-4FLhmt-Jsm8VCJFsmUwZccAZnNkVi4yGG9doheNfcvpE3v3FCMfME_7Uux6XH605fnzNQuZGV_8akinRix2w_cVpqMy-yg3KjOgLaKrfz3iVMKBLWi2VeqvZocoP-nhMAYT7kOS0xEjPW855Ypajeq4hfRBD195SU-3KePTwm6Q=="
@@ -26,11 +26,11 @@ quick_answer: "To connect your camera, enable the manufacturer's Skill in the Al
 game: multi
 affiliate: true
 hero_image: /img/how-to-set-up-security-camera-with-alexa/hero.webp
-inline_images:
+inline_images
   - /img/how-to-set-up-security-camera-with-alexa/inline-5.webp
-inline_image_sections:
+inline_image_sections
   - "Connecting to your home network"
----
+--
 
 Integrating your home security system with Amazon’s ecosystem has evolved significantly with the arrival of AI-driven displays and standardized communication protocols.
 
@@ -173,18 +173,18 @@ Once setup is complete, perform a series of tests to ensure the integration is r
 ## Sources
 
 - matter-smarthome.de — https://www.matter-smarthome.de/en/standard/matter-1-5-arrives-bringing-long-awaited-cameras/
-- aboutamazon.com — https://www.aboutamazon.com/news/devices/echo-show-15-21-specs-features
-- aboutamazon.com — https://www.aboutamazon.com/news/devices/introducing-alexa-plus
+- aboutamazon.com
+- aboutamazon.com
 - pcmag.com — https://www.pcmag.com/reviews/amazon-echo-show-11-2025
-- matteralpha.com — https://www.matteralpha.com/news/matter-1-5-expands-smart-home-ecosystem-with-cameras-closures-and-energy-management
-- matteralpha.com — https://www.matteralpha.com/news/amazon-echo-show-21-information-specification-news-more
-- espressif.com — https://www.espressif.com/en/news/Introducing_Matter_Cameras
-- cnet.com — https://www.cnet.com/home/smart-home/alexa-settings-to-disable-for-privacy/
-- t3.com — https://www.t3.com/news/your-amazon-echo-smart-speakers-are-losing-key-privacy-feature-and-alexa-plus-is-to-blame
-- theweektoday.com — https://www.theweektoday.com/amazon-is-removing-a-key-privacy-feature-from-its-echo-smart-speakers-and-alexa-plus-is-to-blame/
-- novaedgedigitallabs.tech — https://www.novaedgedigitallabs.tech/amazon-alexa-plus-complete-guide-2026/
+- matteralpha.com
+- matteralpha.com
+- espressif.com
+- cnet.com
+- t3.com
+- theweektoday.com
+- novaedgedigitallabs.tech
 - command.com — https://www.command.com/3M/en_US/command/products/~/Command-Large-Refill-Strips/
 - command.com — https://www.command.com/3M/en_US/command/products/~/Command-Outdoor-Large-Refill-Strips/
-- safestreets.com — https://www.safestreets.com/blog/how-rssi-affects-your-home-security-system/
+- safestreets.com
 - simplisafe.com — https://www.simplisafe.com/support/home/what-is-wi-fi-strength-and-rssi
 - homedepot.com — https://www.homedepot.com/p/Command-Clear-Outdoor-Light-Clips-30-Clips-32-Command-Strips-17017CLRAW30NA/314997178
