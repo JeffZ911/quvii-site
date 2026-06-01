@@ -6,6 +6,7 @@ qa_score: 8.8
 word_count: 1901
 published_at: "2026-06-01T08:42:15.699453+00:00"
 published_url: /blog/wyze-camera-app-keeps-crashing-fixes
+hero_image: /img/wyze-camera-app-keeps-crashing-fixes/hero.webp
 sources: []
 quick_answer: Most 2026 Wyze app crashes are caused by a mismatch between App v3.14 and older firmware, or using a 32-bit device. Update to app v3.14.0.807 and firmware 4.52.9.6119 (for Cam v4) to resolve immediate crashing and group-viewing bugs.
 game: multi
