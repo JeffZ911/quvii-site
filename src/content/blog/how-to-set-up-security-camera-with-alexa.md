@@ -36,14 +36,14 @@ Integrating your home security system with Amazon’s ecosystem has evolved sign
 
 # How to Set Up a Security Camera with Alexa: The Complete 2026 Guide
 
-To connect your camera, enable the manufacturer's Skill in the Alexa app, link your accounts, and say "Alexa, discover my devices." For a subscription-free experience, use a local-storage camera like [Information not yet publicly available as of 2026-05-28] with your Echo Show. For the most modern setup, utilize the Matter 1.5 protocol to link compatible cameras directly to your Echo Show 21 or Echo Show 11 without requiring a third-party bridge.
+To connect your camera, enable the manufacturer's Skill in the Alexa app, link your accounts, and say "Alexa, discover my devices." For a subscription-free experience, use a local-storage camera like undisclosed with your Echo Show. For the most modern setup, utilize the Matter 1.5 protocol to link compatible cameras directly to your Echo Show 21 or Echo Show 11 without requiring a third-party bridge.
 
 ## What you'll need
 
 Before beginning the installation, ensure you have the correct hardware to support high-fidelity video streaming. The 2026 smart home landscape relies heavily on <a href="https://www.amazon.com/s?k=Wi-Fi+6E&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Wi-Fi 6E</a> and the AZ3 Pro chip for processing the conversational AI features of Alexa+.
 
 *   **An Alexa-enabled display:** Current flagship models like the <a href="https://www.amazon.com/s?k=Echo+Show+21&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Echo Show 21</a> or the Echo Show 11 are recommended for their superior resolution and spatial audio capabilities.
-*   **A compatible security camera:** Brands such as Reolink, Eufy, or [Information not yet publicly available as of 2026-05-28] offer local storage options that minimize monthly fees.
+*   **A compatible security camera:** Brands such as Reolink, Eufy, or undisclosed offer local storage options that minimize monthly fees.
 *   **Manufacturer’s Smartphone App:** You must have your camera fully configured and viewing live video in its native app (e.g., the Eufy Security or Reolink app) before attempting the Alexa link.
 *   **High-Speed Network:** A <a href="https://www.amazon.com/s?k=Wi-Fi+6+or+6E&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Wi-Fi 6 or 6E</a> connection is essential for streaming 4K video without significant latency.
 *   **Alexa App with Alexa+:** Ensure your Amazon Alexa app is updated to the latest version to access <a href="https://www.amazon.com/s?k=Alexa%2B+%28Alexa+Plus%29&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Alexa+ (Alexa Plus)</a>, which offers more conversational control over your smart home devices.
@@ -155,7 +155,7 @@ Once setup is complete, perform a series of tests to ensure the integration is r
 1.  **Test the Primary Command:** Say, "Alexa, show me the [Camera Name]." A successful link should display the video feed in under 3 seconds on an Echo Show 11 or 21.
 2.  **Set up an Alexa Routine:** In the Alexa app, go to **More > Routines**. Create a routine where "When [Camera] detects a person," the action is "Alexa, show [Camera] on [Echo Show Name]."
 3.  **Check Two-Way Talk:** Tap the **Mic** icon on your Echo Show's screen while viewing a live feed. Verify that you can hear audio from the camera and that your voice is audible through the camera's speaker.
-4.  **Verify Local Storage:** If you are using a setup like [Information not yet publicly available as of 2026-05-28], check your camera's native app to ensure that viewing the feed via Alexa hasn't triggered an unwanted cloud upload, preserving your privacy and bandwidth.
+4.  **Verify Local Storage:** If you are using a setup like undisclosed, check your camera's native app to ensure that viewing the feed via Alexa hasn't triggered an unwanted cloud upload, preserving your privacy and bandwidth.
 
 ### Essential Alexa Voice Commands for 2026
 
