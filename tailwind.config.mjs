@@ -10,23 +10,25 @@ export default {
     extend: {
       colors: {
         ink: {
-          DEFAULT: "#0a0a0a",   // primary text + dark surfaces
+          DEFAULT: "#15171A",   // QUVII Ink (brand kit)
           deep:    "#000000",   // hero gradient floor
-          soft:    "#1c1c1e",   // dark card surfaces (Apple-grade)
+          soft:    "#1c1f24",   // dark card surfaces
         },
-        // Primary kept at #0387E5 — used ONLY for interactive accents
-        // (CTAs, link hover). NEVER as a large background.
+        // QUVII brand accent (brand kit). primary-600 = QUVII Red #C40027,
+        // primary-700 = Deep Carmine #9A0020. Used ONLY for interactive
+        // accents (CTAs, links, eyebrow dots) — "red is an accent, not a
+        // flood: ~10% red, 90% neutral." NEVER a large background fill.
         primary: {
-          50:  "#e6f3fd",
-          100: "#c5e3fb",
-          200: "#90c8f6",
-          300: "#54a8f0",
-          400: "#1e8aea",
-          500: "#0387e5",
-          600: "#026fbb",
-          700: "#025894",
-          800: "#03467a",
-          900: "#053a64",
+          50:  "#fef2f3",
+          100: "#fde1e4",
+          200: "#fbc8cf",
+          300: "#f7a1ad",
+          400: "#ef6a80",
+          500: "#e23a57",
+          600: "#C40027",   // ← QUVII Red (brand anchor)
+          700: "#9A0020",   // ← Deep Carmine (brand kit)
+          800: "#81011f",
+          900: "#6d0820",
         },
         signal: {
           400: "#34d399",
@@ -46,14 +48,15 @@ export default {
         mist: "#fafafa",        // card inner-core surface (Double-Bezel)
       },
       fontFamily: {
-        // Soft-Structuralism type (DESIGN.md §3). Inter is BANNED.
+        // QUVII brand type (brand kit): Space Grotesk (display) + Manrope
+        // (text). Inter is BANNED.
         sans: [
-          '"Satoshi"',
+          '"Manrope"',
           "ui-sans-serif", "system-ui", "-apple-system", "BlinkMacSystemFont",
           '"Segoe UI"', '"Helvetica Neue"', "sans-serif",
         ],
         display: [
-          '"Clash Display"', '"Satoshi"',
+          '"Space Grotesk"', '"Manrope"',
           "ui-sans-serif", "system-ui", "-apple-system", "BlinkMacSystemFont",
           "sans-serif",
         ],

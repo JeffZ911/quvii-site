@@ -25,9 +25,12 @@ const nav: NavItem[] = [
   <nav
     class="qv-pill pointer-events-auto mx-auto flex w-max max-w-[calc(100vw-2rem)] items-center gap-1 rounded-full pl-5 pr-2 h-12 transition-[background-color,box-shadow,color] duration-500 ease-settle"
   >
-    <a href="/" class="flex items-center gap-2 no-underline mr-2">
-      <span class="qv-mark inline-flex h-7 w-7 items-center justify-center rounded-[0.6rem] text-sm font-bold transition-colors duration-500 ease-settle">Q</span>
-      <span class="qv-word font-display text-base font-semibold tracking-tight transition-colors duration-500 ease-settle">Quvii</span>
+    <a href="/" class="relative flex items-center no-underline mr-3" aria-label="Quvii — home">
+      <!-- Real QUVII wordmark; swaps white↔ink with the nav state. -->
+      <img src="/brand/wordmark-white.png" alt="Quvii" width="901" height="233"
+           class="qv-logo-white h-[18px] w-auto transition-opacity duration-500 ease-settle" />
+      <img src="/brand/wordmark-ink.png" alt="" aria-hidden="true" width="901" height="233"
+           class="qv-logo-ink absolute left-0 h-[18px] w-auto transition-opacity duration-500 ease-settle" />
     </a>
 
     <div class="hidden lg:flex items-center gap-1">
@@ -67,9 +70,8 @@ const nav: NavItem[] = [
   role="dialog" aria-modal="true" aria-label="Site menu"
 >
   <div class="container-wide flex items-center justify-between h-20">
-    <a href="/" class="flex items-center gap-2 no-underline text-white">
-      <span class="inline-flex h-7 w-7 items-center justify-center rounded-[0.6rem] bg-primary-500 text-white text-sm font-bold">Q</span>
-      <span class="font-display text-base font-semibold tracking-tight">Quvii</span>
+    <a href="/" class="flex items-center no-underline" aria-label="Quvii — home">
+      <img src="/brand/wordmark-white.png" alt="Quvii" width="901" height="233" class="h-5 w-auto" />
     </a>
     <button id="qv-mobile-close" type="button" aria-label="Close menu"
       class="inline-flex h-9 w-9 items-center justify-center rounded-full text-white hover:bg-white/10 transition-colors">
@@ -108,22 +110,23 @@ const nav: NavItem[] = [
                 0 2px 8px -2px rgba(16,24,40,0.06),
                 0 18px 40px -16px rgba(16,24,40,0.12);
   }
-  #qv-nav .qv-mark   { background:#0387e5; color:#fff; }
-  #qv-nav .qv-word,
+  /* Wordmark: ink by default (light pill). */
+  #qv-nav .qv-logo-white { opacity:0; }
+  #qv-nav .qv-logo-ink   { opacity:1; }
   #qv-nav .qv-link,
-  #qv-nav .qv-burger-btn { color:#1d1d1f; }
-  #qv-nav .qv-link:hover { color:#0387e5; background:rgba(3,135,229,0.07); }
-  #qv-nav .qv-cta { color:#0387e5; }
-  #qv-nav .qv-cta:hover { background:rgba(3,135,229,0.07); }
-  #qv-nav .qv-cta-icon { background:rgba(3,135,229,0.12); }
+  #qv-nav .qv-burger-btn { color:#15171A; }
+  #qv-nav .qv-link:hover { color:#C40027; background:rgba(196,0,39,0.07); }
+  #qv-nav .qv-cta { color:#C40027; }
+  #qv-nav .qv-cta:hover { background:rgba(196,0,39,0.07); }
+  #qv-nav .qv-cta-icon { background:rgba(196,0,39,0.12); }
 
   /* Home, NOT yet scrolled: dark glass over the hero, white text. */
   #qv-nav[data-home="1"]:not(.is-scrolled) .qv-pill {
     background-color: rgba(10,10,10,0.28);
     --ring: rgba(255,255,255,0.16);
   }
-  #qv-nav[data-home="1"]:not(.is-scrolled) .qv-mark { background:#fff; color:#0a0a0a; }
-  #qv-nav[data-home="1"]:not(.is-scrolled) .qv-word,
+  #qv-nav[data-home="1"]:not(.is-scrolled) .qv-logo-white { opacity:1; }
+  #qv-nav[data-home="1"]:not(.is-scrolled) .qv-logo-ink   { opacity:0; }
   #qv-nav[data-home="1"]:not(.is-scrolled) .qv-link,
   #qv-nav[data-home="1"]:not(.is-scrolled) .qv-cta,
   #qv-nav[data-home="1"]:not(.is-scrolled) .qv-burger-btn { color:rgba(255,255,255,0.95); }

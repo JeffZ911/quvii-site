@@ -42,7 +42,11 @@ const gaId = import.meta.env.PUBLIC_GA_MEASUREMENT_ID || "";
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="generator" content={Astro.generator} />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <!-- QUVII brand favicons (brand kit). -->
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png" />
+    <link rel="icon" type="image/png" sizes="80x80" href="/favicon-80.png" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <meta name="theme-color" content="#C40027" />
     <link rel="canonical" href={canonical} />
     {noindex && <meta name="robots" content="noindex, nofollow" />}
 
@@ -53,18 +57,17 @@ const gaId = import.meta.env.PUBLIC_GA_MEASUREMENT_ID || "";
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
     <meta property="og:url" content={canonical} />
-    {ogImage && <meta property="og:image" content={ogImage} />}
+    <meta property="og:image" content={ogImage || "/brand/og-default.png"} />
     <meta name="twitter:card" content="summary_large_image" />
 
-    <!-- Premium type (DESIGN.md §3): Clash Display (display) + Satoshi
-         (body), from Fontshare. Inter is BANNED by the design system.
-         Preconnect + a single stylesheet request; fonts are self-hosted
-         by Fontshare's CDN with display=swap so text paints immediately. -->
-    <link rel="preconnect" href="https://api.fontshare.com" crossorigin />
-    <link rel="preconnect" href="https://cdn.fontshare.com" crossorigin />
+    <!-- QUVII brand type (brand kit): Space Grotesk (display) + Manrope
+         (text), via Google Fonts. Inter is BANNED. display=swap so text
+         paints immediately. -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
       rel="stylesheet"
-      href="https://api.fontshare.com/v2/css?f[]=clash-display@600,700&f[]=satoshi@400,500,700&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap"
     />
 
     <!-- Preconnect to 3rd-party origins that *will* be hit by the deferred

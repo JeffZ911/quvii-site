@@ -17,19 +17,34 @@ brand. Voice: calm, technical, advisory. Never hypey, never brochure.
 ## 1. Atmosphere
 
 - Light, spacious, engineered. Surfaces feel like brushed glass plates
-  resting in soft trays (the Double-Bezel principle, §5).
+  resting in soft trays (the Double-Bezel principle, §6).
 - One dramatic dark moment (the hero). Everything after is bright, airy,
   editorial.
 - Motion has mass: things settle in with spring physics, never snap.
 
-## 2. Color
+## 2. Brand assets (QUVII Logo Kit)
+
+The official kit lives in `QUVII-Logo-Kit/`; the web-ready exports are in
+`public/brand/` + `public/favicon-*.png`.
+
+- **Wordmark:** `wordmark-white.png` (over dark), `wordmark-ink.png` (over
+  light), `wordmark-red.png` (rare, on white). Header swaps white↔ink with
+  nav state; footer + mobile overlay use white.
+- **Q symbol:** `q-white.png` / `q-red.png` — square/badge contexts only.
+- **Favicons:** `favicon-32.png`, `favicon-80.png`, `apple-touch-icon.png`.
+  `theme-color` = `#C40027`. OG fallback = `/brand/og-default.png`.
+- **Never** retype "Quvii" as live text where the mark belongs; always use
+  the PNG so weight/spacing stay exact.
+
+## 3. Color
 
 Tokens live in `tailwind.config.mjs`. Semantic roles:
 
 | Role | Value | Use |
 |---|---|---|
-| `ink` | `#0a0a0a` | Primary text, dark hero floor, dark sections |
-| `ink-soft` | `#1c1c1e` | Dark card surfaces |
+| `ink` | `#15171A` | QUVII Ink (brand kit). Primary text, dark sections |
+| `ink-deep` | `#000000` | Hero gradient floor only |
+| `ink-soft` | `#1c1f24` | Dark card surfaces |
 | `paper` / `surface` | `#ffffff` | Primary background |
 | `surface-alt` | `#f5f5f7` | Section alt background (Apple grey) |
 | `mist` | `#fafafa` | Card inner-core surface (lighter than alt) |
@@ -37,20 +52,26 @@ Tokens live in `tailwind.config.mjs`. Semantic roles:
 | `body-muted` | `#6e6e73` | Secondary text |
 | `body-faint` | `#86868b` | Tertiary text / eyebrow |
 | `hair` / `body-line` | `#e8e8ed` | Hairline dividers + bezel rings (NEVER a hard 1px gray) |
-| `primary-500` | `#0387e5` | THE accent. CTAs + link hover ONLY. Never a large fill. |
+| `primary-600` | `#C40027` | **QUVII Red** (brand anchor). THE accent — CTAs, link hover, eyebrows ONLY. |
+| `primary-700` | `#9A0020` | Deep Carmine (brand kit). Hover/pressed accent states. |
 
 Rules:
-- Exactly ONE accent (`primary`). It appears on CTAs, link hovers, and
-  tiny eyebrow dots — never as a section background.
+- Exactly ONE accent (`primary` = QUVII Red `#C40027`). It appears on CTAs,
+  link hovers, and tiny eyebrow tags — never as a section background.
+- **Brand kit law: "Red is an accent, not a flood — ~10% red, 90% neutral."**
+  Never a large red fill. The page reads near-black + true-white, with red
+  reserved for the moments that invite a click.
 - Backgrounds alternate `surface` ↔ `surface-alt` for rhythm. No third
   background color.
 - Dark sections (`ink`) are used sparingly: hero, StandardsTeaser, footer.
 
-## 3. Typography
+## 4. Typography
 
-- **Display (headings):** `Clash Display` — massive, bold grotesk. Tight
-  tracking (`-0.03em` to `-0.04em`). Weights 600/700.
-- **Body:** `Satoshi` — clean, warm-neutral. Weights 400/500.
+- **Display (headings):** `Space Grotesk` — geometric grotesk, brand-kit
+  display face. Tight tracking (`-0.03em` to `-0.04em`). Weights 500/600/700.
+- **Body:** `Manrope` — clean, modern sans, brand-kit text face. Weights
+  400/500/600/700. Also the fallback for display.
+- Loaded via Google Fonts in `BaseLayout.astro` (`display=swap`).
 - **BANNED:** Inter, Roboto, Arial, Helvetica, Open Sans. (Inter was the
   old default — fully removed.)
 
@@ -65,7 +86,7 @@ Rules:
   tracking-[0.2em] font-medium`, accent or faint color.
 - Body line-height generous (1.55+). Headings tight (1.0–1.1).
 
-## 4. Spacing & Layout
+## 5. Spacing & Layout
 
 - **Macro-whitespace:** sections are `py-24` → `py-40`. The layout
   breathes heavily. Never cramped.
@@ -77,7 +98,7 @@ Rules:
   single `w-full` column with `px-6 py-12`+ vertical gaps. Use
   `min-h-[100dvh]`, never `h-screen` (iOS Safari jump).
 
-## 5. The Double-Bezel (machined-hardware depth)
+## 6. The Double-Bezel (machined-hardware depth)
 
 NEVER place a premium card/image flat on the background. Nest it:
 
@@ -90,7 +111,7 @@ NEVER place a premium card/image flat on the background. Nest it:
 - Shadow is the soft-diffused `shadow-soft` token — never `shadow-md` or
   any `rgba(0,0,0,0.3)` hard drop.
 
-## 6. Buttons (Island / Button-in-Button)
+## 7. Buttons (Island / Button-in-Button)
 
 - Primary CTA: full pill `rounded-full`, generous `px-6 py-3`.
 - Trailing icon (↗ / ›) NEVER naked — nested in its own circle
@@ -100,7 +121,7 @@ NEVER place a premium card/image flat on the background. Nest it:
   `group-hover:translate-x-0.5 group-hover:-translate-y-[1px]
   group-hover:scale-105`. Always custom cubic-bezier, never linear.
 
-## 7. Navigation
+## 8. Navigation
 
 - Floating glass **island**, detached from the top (`mt-4 mx-auto w-max
   rounded-full`), `backdrop-blur-xl bg-white/70 ring-1 ring-body-line/60`.
@@ -111,7 +132,7 @@ NEVER place a premium card/image flat on the background. Nest it:
   Full-screen `backdrop-blur-3xl bg-ink/90` overlay; links **stagger** in
   (`translate-y-8 opacity-0` → settled, `delay-[Nms]`).
 
-## 8. Motion (MOTION_INTENSITY ≈ 4–5)
+## 9. Motion (MOTION_INTENSITY ≈ 4–5)
 
 - Easing: custom `cubic-bezier(0.32,0.72,0,1)` (the "settle"). Durations
   500–800ms. NO `linear` / `ease-in-out`.
@@ -124,7 +145,7 @@ NEVER place a premium card/image flat on the background. Nest it:
   (nav, overlays) — never on scrolling content. `prefers-reduced-motion`
   disables reveals.
 
-## 9. The "Absolute Zero" ban-list (instant-fail)
+## 10. The "Absolute Zero" ban-list (instant-fail)
 
 - Fonts: Inter, Roboto, Arial, Open Sans, Helvetica.
 - Borders/shadows: generic 1px solid gray border; `shadow-md`; any
@@ -135,10 +156,12 @@ NEVER place a premium card/image flat on the background. Nest it:
 - Motion: `linear`/`ease-in-out`; instant state changes; scroll-listener
   parallax.
 
-## 10. Pre-output checklist (last filter)
+## 11. Pre-output checklist (last filter)
 
-- [ ] No banned font / border / shadow / layout / motion from §9.
-- [ ] Clash Display headings, Satoshi body.
+- [ ] No banned font / border / shadow / layout / motion from §10.
+- [ ] Space Grotesk headings, Manrope body.
+- [ ] Accent is QUVII Red `#C40027` only — ≤10% of the surface, never a fill.
+- [ ] Real QUVII wordmark used (white over dark, ink over light) — never retype "Quvii" as text.
 - [ ] Major cards use Double-Bezel (outer shell + inner core, concentric radii, inner highlight).
 - [ ] CTAs use Button-in-Button trailing icon + hover physics.
 - [ ] Section padding ≥ `py-24`; layout breathes.
