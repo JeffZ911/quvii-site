@@ -1,6 +1,7 @@
 ---
 title: "Best Indoor Security Camera for Pet Monitoring: 2026 News"
 slug: best-indoor-security-camera-pet-monitoring
+hero_image: /img/best-indoor-security-camera-pet-monitoring/hero.webp
 article_type: camera_news
 qa_score: 9.6
 word_count: 1842

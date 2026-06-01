@@ -1,6 +1,7 @@
 ---
 title: Blink Camera Not Detecting Motion? 2026 Troubleshooting Guide
 slug: blink-camera-not-detecting-motion
+hero_image: /img/blink-camera-not-detecting-motion/hero.webp
 article_type: camera_learn
 qa_score: 7.5
 word_count: 2002

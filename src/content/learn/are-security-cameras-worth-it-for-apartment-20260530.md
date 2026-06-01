@@ -1,6 +1,7 @@
 ---
 title: "Are Security Cameras Worth It for Apartments? (2026 Renter's Guide)"
 slug: are-security-cameras-worth-it-for-apartment-20260530
+hero_image: /img/are-security-cameras-worth-it-for-apartment-20260530/hero.webp
 article_type: camera_learn
 qa_score: 8.8
 word_count: 1833
