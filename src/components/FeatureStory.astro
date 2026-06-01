@@ -26,18 +26,21 @@ const dateStr = publishedAt ? new Date(publishedAt).toLocaleDateString("en-US", 
   href={href}
   class={`group grid items-center gap-10 lg:gap-16 ${flip ? "lg:grid-cols-[1fr_1.1fr]" : "lg:grid-cols-[1.1fr_1fr]"}`}
 >
-  <div class={`relative overflow-hidden rounded-2xl bg-surface-alt aspect-[4/3] ${flip ? "lg:order-2" : ""}`}>
-    {image ? (
-      <img
-        src={image}
-        alt=""
-        loading="lazy"
-        decoding="async"
-        class="h-full w-full object-cover transition-transform duration-500 group-hover:scale-[1.02]"
-      />
-    ) : (
-      <div class="h-full w-full bg-gradient-to-br from-ink-soft to-ink-deep"></div>
-    )}
+  {/* Double-Bezel feature image (DESIGN.md §5) */}
+  <div class={`bezel ${flip ? "lg:order-2" : ""}`}>
+    <div class="bezel-core relative aspect-[4/3]">
+      {image ? (
+        <img
+          src={image}
+          alt=""
+          loading="lazy"
+          decoding="async"
+          class="h-full w-full object-cover transition-transform duration-700 ease-settle group-hover:scale-[1.03]"
+        />
+      ) : (
+        <div class="h-full w-full bg-gradient-to-br from-ink-soft to-ink-deep"></div>
+      )}
+    </div>
   </div>
 
   <div>

@@ -14,7 +14,7 @@
   }
 
   html {
-    font-family: theme('fontFamily.sans');
+    font-family: theme('fontFamily.sans');   /* Satoshi */
     background: #ffffff;
     color: theme('colors.body.DEFAULT');
     -webkit-font-smoothing: antialiased;
@@ -25,9 +25,38 @@
     @apply min-h-screen bg-surface text-body;
   }
 
+  /* Display family on every component heading by default (DESIGN.md §3). */
+  h1, h2, h3, .font-display {
+    font-family: theme('fontFamily.display');   /* Clash Display */
+  }
+
   ::selection {
     background: theme('colors.ink.DEFAULT');
     color: #ffffff;
+  }
+
+  /* ───── Scroll-reveal motion (DESIGN.md §8) ─────
+     Elements tagged data-reveal start hidden + blurred; the
+     IntersectionObserver in ScrollReveal.astro adds .is-visible when they
+     enter the viewport. transform+opacity+filter only (GPU-safe). */
+  [data-reveal] {
+    opacity: 0;
+    transform: translateY(2.5rem);
+    filter: blur(6px);
+    transition: opacity 0.7s theme('transitionTimingFunction.settle'),
+                transform 0.7s theme('transitionTimingFunction.settle'),
+                filter 0.7s theme('transitionTimingFunction.settle');
+    transition-delay: var(--reveal-delay, 0ms);
+    will-change: transform, opacity;
+  }
+  [data-reveal].is-visible {
+    opacity: 1;
+    transform: translateY(0);
+    filter: blur(0);
+  }
+  /* Respect reduced-motion: show everything immediately, no animation. */
+  @media (prefers-reduced-motion: reduce) {
+    [data-reveal] { opacity: 1; transform: none; filter: none; transition: none; }
   }
 
   a {
@@ -96,23 +125,63 @@
   /* Hairline link — Apple/DJI CTA pattern (text + chevron) */
   .link-cta {
     @apply inline-flex items-center gap-1 text-primary-600 hover:text-primary-700
-           font-medium transition-colors;
+           font-medium transition-colors duration-300 ease-settle;
   }
   .link-cta::after {
     content: "›";
-    @apply ml-0.5 transition-transform group-hover:translate-x-0.5;
+    @apply ml-0.5 transition-transform duration-300 ease-settle group-hover:translate-x-0.5;
   }
 
-  /* Solid CTA — used sparingly */
-  .btn-primary {
-    @apply inline-flex items-center gap-1.5 rounded-full bg-ink text-white
-           px-5 py-2.5 text-sm font-medium tracking-tight
-           hover:bg-body transition-colors;
+  /* ───── Button-in-Button island CTA (DESIGN.md §6) ─────
+     Use with: <a class="btn-island group">Label <span class="btn-icon">›</span></a>
+     The trailing icon sits in its own circle; the whole button presses on
+     active; the inner circle drifts on hover. */
+  /* NOTE: add the `group` class in the markup alongside .btn-island —
+     Tailwind forbids @apply group. */
+  .btn-island {
+    @apply inline-flex items-center gap-2 rounded-full bg-ink text-white
+           pl-6 pr-2 py-2 text-sm font-medium tracking-tight
+           transition-transform duration-300 ease-settle
+           hover:bg-body active:scale-[0.98] shadow-soft;
+  }
+  .btn-island .btn-icon {
+    @apply grid place-items-center w-8 h-8 rounded-full bg-white/15
+           transition-transform duration-300 ease-settle
+           group-hover:translate-x-0.5 group-hover:-translate-y-[1px] group-hover:scale-105;
+  }
+  /* Light variant (on dark hero) */
+  .btn-island-light {
+    @apply inline-flex items-center gap-2 rounded-full bg-white text-ink
+           pl-6 pr-2 py-2 text-sm font-medium tracking-tight
+           transition-transform duration-300 ease-settle
+           hover:bg-white/90 active:scale-[0.98] shadow-soft;
+  }
+  .btn-island-light .btn-icon {
+    @apply grid place-items-center w-8 h-8 rounded-full bg-black/5
+           transition-transform duration-300 ease-settle
+           group-hover:translate-x-0.5 group-hover:-translate-y-[1px] group-hover:scale-105;
   }
   .btn-secondary {
     @apply inline-flex items-center gap-1.5 rounded-full border border-ink text-ink
            px-5 py-2.5 text-sm font-medium tracking-tight
-           hover:bg-ink hover:text-white transition-colors;
+           hover:bg-ink hover:text-white transition-all duration-300 ease-settle
+           active:scale-[0.98];
+  }
+
+  /* ───── Double-Bezel card (DESIGN.md §5) ─────
+     Outer shell + inner core with concentric radii + inner highlight +
+     soft diffused shadow. Use:
+       <div class="bezel"><div class="bezel-core">…</div></div> */
+  .bezel {
+    @apply rounded-shell bg-surface-alt ring-1 ring-body-line/70 p-1.5 shadow-soft
+           transition-shadow duration-500 ease-settle hover:shadow-soft-lg;
+  }
+  .bezel-core {
+    @apply rounded-core bg-white shadow-bezel overflow-hidden;
+  }
+  /* Glass island (nav, overlays) — backdrop-blur only on fixed/sticky. */
+  .glass {
+    @apply backdrop-blur-xl bg-white/70 ring-1 ring-body-line/60;
   }
 
   /* Markdown article body — unchanged for content fidelity */

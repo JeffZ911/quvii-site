@@ -87,21 +87,18 @@ const alignClass = align === "center" ? "text-center mx-auto" : "text-left";
       {(primaryHref || secondaryHref) && (
         <div class="mt-10 flex flex-wrap items-center gap-4">
           {primaryHref && primaryLabel && (
-            <a
-              href={primaryHref}
-              class="inline-flex items-center gap-1.5 rounded-full bg-white text-ink px-6 py-3 text-sm font-medium tracking-tight hover:bg-white/90 transition-colors"
-            >
+            <a href={primaryHref} class="btn-island-light group">
               {primaryLabel}
-              <span aria-hidden="true">›</span>
+              <span class="btn-icon" aria-hidden="true">›</span>
             </a>
           )}
           {secondaryHref && secondaryLabel && (
             <a
               href={secondaryHref}
-              class="inline-flex items-center gap-1.5 text-sm font-medium text-white/90 hover:text-white transition-colors"
+              class="group inline-flex items-center gap-1.5 text-sm font-medium text-white/90 hover:text-white transition-colors duration-300 ease-settle"
             >
               {secondaryLabel}
-              <span aria-hidden="true">›</span>
+              <span class="transition-transform duration-300 ease-settle group-hover:translate-x-0.5" aria-hidden="true">›</span>
             </a>
           )}
         </div>

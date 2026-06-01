@@ -1,0 +1,22 @@
+---
+// ScrollReveal — wraps its slot in a [data-reveal] element. The global
+// IntersectionObserver in BaseLayout adds .is-visible when it enters the
+// viewport, triggering the CSS fade-up+de-blur (DESIGN.md §8).
+//
+// transform/opacity/filter only (GPU-safe). prefers-reduced-motion is
+// honored in global.css. Optional stagger via `delay` (ms).
+interface Props {
+  delay?: number;        // ms
+  as?: string;           // wrapper tag (default div)
+  class?: string;
+}
+const { delay = 0, as = "div", class: cls = "" } = Astro.props;
+const Tag = as as any;
+---
+<Tag
+  data-reveal
+  class={cls}
+  style={delay ? `--reveal-delay:${delay}ms` : undefined}
+>
+  <slot />
+</Tag>

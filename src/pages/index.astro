@@ -128,12 +128,13 @@ const siteJsonLd = {
   {featured && (
     <section class="section bg-surface border-t border-body-line">
       <div class="container-page">
-        <div class="mb-12 lg:mb-16 max-w-2xl">
+        <div data-reveal class="mb-12 lg:mb-16 max-w-2xl">
           <p class="text-xs font-medium uppercase tracking-[0.18em] text-primary-600">Featured</p>
           <h2 class="mt-3 font-display text-2xl sm:text-3xl lg:text-4xl font-semibold tracking-display text-ink leading-[1.1]">
             This week's deep dive.
           </h2>
         </div>
+        <div data-reveal style="--reveal-delay:100ms">
         <FeatureStory
           href={hrefFor(featured as Entry)}
           title={featured.data.title}
@@ -143,6 +144,7 @@ const siteJsonLd = {
           wordCount={featured.data.word_count}
           eyebrow="Field report"
         />
+        </div>
       </div>
     </section>
   )}
@@ -151,18 +153,18 @@ const siteJsonLd = {
   {wave1.length > 0 && (
     <section class="section bg-surface-alt">
       <div class="container-page">
-        <div class="flex items-end justify-between mb-10 lg:mb-14 flex-wrap gap-4">
+        <div data-reveal class="flex items-end justify-between mb-10 lg:mb-14 flex-wrap gap-4">
           <div>
             <p class="text-xs font-medium uppercase tracking-[0.18em] text-primary-600">Currently tracking</p>
             <h2 class="mt-3 font-display text-2xl sm:text-3xl lg:text-4xl font-semibold tracking-display text-ink leading-[1.1] max-w-2xl">
               What we're watching.
             </h2>
           </div>
-          <a href="/blog/" class="inline-flex items-center gap-1 text-sm font-medium text-primary-600 hover:text-primary-700 no-underline">
-            All work <span aria-hidden="true">›</span>
+          <a href="/blog/" class="group inline-flex items-center gap-1.5 text-sm font-medium text-primary-600 hover:text-primary-700 no-underline transition-colors duration-300 ease-settle">
+            All work <span class="transition-transform duration-300 ease-settle group-hover:translate-x-0.5" aria-hidden="true">›</span>
           </a>
         </div>
-        <div class="grid gap-x-8 gap-y-14 sm:grid-cols-2 lg:grid-cols-3">
+        <div data-reveal style="--reveal-delay:120ms" class="grid gap-x-8 gap-y-14 sm:grid-cols-2 lg:grid-cols-3">
           {wave1.map((e) => (
             <ArticleTile
               href={hrefFor(e)}
@@ -199,13 +201,13 @@ const siteJsonLd = {
   {wave2.length > 0 && (
     <section class="section bg-surface">
       <div class="container-page">
-        <div class="mb-10 lg:mb-14 max-w-2xl">
+        <div data-reveal class="mb-10 lg:mb-14 max-w-2xl">
           <p class="text-xs font-medium uppercase tracking-[0.18em] text-primary-600">From the field</p>
           <h2 class="mt-3 font-display text-2xl sm:text-3xl lg:text-4xl font-semibold tracking-display text-ink leading-[1.1]">
             Newer dispatches.
           </h2>
         </div>
-        <div class="grid gap-x-8 gap-y-14 sm:grid-cols-2 lg:grid-cols-3">
+        <div data-reveal style="--reveal-delay:120ms" class="grid gap-x-8 gap-y-14 sm:grid-cols-2 lg:grid-cols-3">
           {wave2.map((e) => (
             <ArticleTile
               href={hrefFor(e)}
@@ -248,7 +250,7 @@ const siteJsonLd = {
 
   <!-- 11. NEWSLETTER -->
   <section class="section bg-surface-alt">
-    <div class="container-page max-w-3xl text-center mx-auto">
+    <div data-reveal class="container-page max-w-3xl text-center mx-auto">
       <p class="text-xs font-medium uppercase tracking-[0.18em] text-primary-600">Brief</p>
       <h2 class="mt-3 font-display text-2xl sm:text-3xl lg:text-4xl font-semibold tracking-display text-ink leading-[1.1]">
         One brief, every week.
@@ -273,7 +275,7 @@ const siteJsonLd = {
         />
         <button
           type="submit"
-          class="rounded-full bg-ink px-6 py-3 text-sm font-medium text-white hover:bg-body transition-colors"
+          class="rounded-full bg-ink px-6 py-3 text-sm font-medium text-white hover:bg-body transition-all duration-300 ease-settle active:scale-[0.98] shadow-soft"
         >
           Subscribe
         </button>

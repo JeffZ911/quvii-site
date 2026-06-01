@@ -1,13 +1,10 @@
 ---
-// Quvii global header — Apple/DJI pattern.
-//   • Transparent over hero (white text/logo)
-//   • Solid white with hairline border on scroll OR non-home pages
-//   • Mobile (<lg) hamburger → full-screen overlay menu
-//
-// Detects home page via Astro.url.pathname === "/" so secondary pages
-// always render solid-white (no transparent state) — they don't have a
-// dark hero behind the header.
-
+// Quvii header — Floating glass ISLAND nav (DESIGN.md §7).
+//   • Detached pill, never edge-to-edge glued to top.
+//   • Home: floats over the dark hero (white text) → light glass on scroll.
+//   • Inner pages: always light glass.
+//   • Mobile hamburger morphs to an X; full-screen overlay with staggered
+//     link reveal.
 const isHome = Astro.url.pathname === "/";
 
 interface NavItem { href: string; label: string }
@@ -20,184 +17,172 @@ const nav: NavItem[] = [
 ];
 ---
 
-<header
+<div
+  id="qv-nav"
   data-home={isHome ? "1" : "0"}
-  class={`fixed top-0 inset-x-0 z-40 transition-colors duration-200 ${isHome ? "qv-header" : "bg-white/95 border-b border-body-line backdrop-blur"}`}
+  class="fixed top-4 inset-x-0 z-40 px-4 pointer-events-none"
 >
-  <div class="container-wide flex items-center justify-between h-14 lg:h-16">
-    <a href="/" class="flex items-center gap-2 no-underline qv-brand">
-      <span class="qv-logo-mark inline-flex h-7 w-7 items-center justify-center rounded-md text-sm font-bold transition-colors">Q</span>
-      <span class="qv-logo-text font-display text-lg font-semibold tracking-tight transition-colors">Quvii</span>
+  <nav
+    class="qv-pill pointer-events-auto mx-auto flex w-max max-w-[calc(100vw-2rem)] items-center gap-1 rounded-full pl-5 pr-2 h-12 transition-[background-color,box-shadow,color] duration-500 ease-settle"
+  >
+    <a href="/" class="flex items-center gap-2 no-underline mr-2">
+      <span class="qv-mark inline-flex h-7 w-7 items-center justify-center rounded-[0.6rem] text-sm font-bold transition-colors duration-500 ease-settle">Q</span>
+      <span class="qv-word font-display text-base font-semibold tracking-tight transition-colors duration-500 ease-settle">Quvii</span>
     </a>
 
-    <nav class="hidden lg:flex items-center gap-8 text-sm font-medium">
+    <div class="hidden lg:flex items-center gap-1">
       {nav.map((item) => (
-        <a href={item.href} class="qv-link transition-colors no-underline">{item.label}</a>
+        <a href={item.href}
+           class="qv-link rounded-full px-3 py-1.5 text-sm font-medium no-underline transition-colors duration-300 ease-settle">
+          {item.label}
+        </a>
       ))}
-    </nav>
-
-    <div class="hidden lg:flex items-center">
-      <a href="/blog/" class="qv-cta inline-flex items-center gap-1 text-sm font-medium transition-colors no-underline">
-        Latest <span aria-hidden="true">›</span>
+      <a href="/blog/" class="qv-cta group ml-1 inline-flex items-center gap-1.5 rounded-full pl-3.5 pr-1.5 py-1.5 text-sm font-medium no-underline transition-colors duration-300 ease-settle">
+        Latest
+        <span class="qv-cta-icon grid place-items-center w-6 h-6 rounded-full transition-transform duration-300 ease-settle group-hover:translate-x-0.5" aria-hidden="true">›</span>
       </a>
     </div>
 
     <button
-      id="qv-mobile-toggle"
+      id="qv-burger"
       type="button"
       aria-label="Open menu"
       aria-controls="qv-mobile-menu"
       aria-expanded="false"
-      class="qv-burger lg:hidden inline-flex h-9 w-9 items-center justify-center rounded-md transition-colors"
+      class="qv-burger-btn lg:hidden relative inline-flex h-9 w-9 items-center justify-center rounded-full transition-colors duration-300 ease-settle"
     >
-      <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
-        <line x1="3" y1="7" x2="21" y2="7" />
-        <line x1="3" y1="17" x2="21" y2="17" />
-      </svg>
+      <span class="qv-line qv-line-1 absolute h-[1.5px] w-4 rounded bg-current transition-all duration-300 ease-settle"></span>
+      <span class="qv-line qv-line-2 absolute h-[1.5px] w-4 rounded bg-current transition-all duration-300 ease-settle"></span>
     </button>
-  </div>
-</header>
+  </nav>
+</div>
 
-<!-- Spacer so non-home pages don't have content slide under the fixed header.
-     Home page hero handles its own top padding (pt-32+) so no spacer there. -->
-{!isHome && <div class="h-14 lg:h-16" aria-hidden="true"></div>}
+<!-- Spacer for inner pages (home hero handles its own top padding). -->
+{!isHome && <div class="h-20" aria-hidden="true"></div>}
 
-<!-- Full-screen mobile menu overlay -->
+<!-- Full-screen mobile overlay -->
 <div
   id="qv-mobile-menu"
-  class="fixed inset-0 z-50 hidden bg-ink text-white"
-  role="dialog"
-  aria-modal="true"
-  aria-label="Site menu"
+  class="fixed inset-0 z-50 hidden bg-ink/95 backdrop-blur-3xl text-white"
+  role="dialog" aria-modal="true" aria-label="Site menu"
 >
-  <div class="container-wide flex items-center justify-between h-14 lg:h-16">
+  <div class="container-wide flex items-center justify-between h-20">
     <a href="/" class="flex items-center gap-2 no-underline text-white">
-      <span class="inline-flex h-7 w-7 items-center justify-center rounded-md bg-primary-500 text-white text-sm font-bold">Q</span>
-      <span class="font-display text-lg font-semibold tracking-tight">Quvii</span>
+      <span class="inline-flex h-7 w-7 items-center justify-center rounded-[0.6rem] bg-primary-500 text-white text-sm font-bold">Q</span>
+      <span class="font-display text-base font-semibold tracking-tight">Quvii</span>
     </a>
-    <button
-      id="qv-mobile-close"
-      type="button"
-      aria-label="Close menu"
-      class="inline-flex h-9 w-9 items-center justify-center rounded-md text-white hover:bg-white/10"
-    >
-      <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
-        <line x1="6" y1="6" x2="18" y2="18" />
-        <line x1="6" y1="18" x2="18" y2="6" />
+    <button id="qv-mobile-close" type="button" aria-label="Close menu"
+      class="inline-flex h-9 w-9 items-center justify-center rounded-full text-white hover:bg-white/10 transition-colors">
+      <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+        <line x1="6" y1="6" x2="18" y2="18" /><line x1="6" y1="18" x2="18" y2="6" />
       </svg>
     </button>
   </div>
 
-  <nav class="container-wide mt-8 flex flex-col gap-1">
-    {nav.map((item) => (
-      <a
-        href={item.href}
-        class="block py-4 text-3xl font-semibold tracking-display text-white no-underline border-b border-white/10 hover:text-primary-300 transition-colors"
-      >
+  <nav class="container-wide mt-6 flex flex-col">
+    {nav.map((item, i) => (
+      <a href={item.href}
+         class="qv-m-link block py-4 font-display text-4xl font-semibold tracking-display text-white no-underline border-b border-white/10 hover:text-primary-300 transition-colors duration-300 ease-settle"
+         style={`--m-delay:${80 + i * 60}ms`}>
         {item.label}
       </a>
     ))}
   </nav>
 
-  <div class="container-wide mt-10 flex flex-col gap-3 text-sm text-white/60">
-    <a href="/editorial-policy/" class="no-underline hover:text-white">Standards</a>
-    <a href="/affiliate-disclosure/" class="no-underline hover:text-white">Disclosures</a>
-    <a href="/privacy/" class="no-underline hover:text-white">Privacy</a>
+  <div class="container-wide mt-10 flex flex-wrap gap-x-6 gap-y-2 text-sm text-white/55">
+    <a href="/editorial-policy/" class="no-underline hover:text-white transition-colors">Standards</a>
+    <a href="/affiliate-disclosure/" class="no-underline hover:text-white transition-colors">Disclosures</a>
+    <a href="/privacy/" class="no-underline hover:text-white transition-colors">Privacy</a>
   </div>
 </div>
 
 <style>
-  /* Home: transparent header, white text. After scroll → white bg + dark text. */
-  header.qv-header {
-    background-color: transparent;
-    border-bottom: 1px solid transparent;
+  /* Base pill: light glass. */
+  #qv-nav .qv-pill {
+    background-color: rgba(255,255,255,0.72);
+    backdrop-filter: blur(20px) saturate(1.4);
+    -webkit-backdrop-filter: blur(20px) saturate(1.4);
+    box-shadow: 0 2px 8px -2px rgba(16,24,40,0.06), 0 18px 40px -16px rgba(16,24,40,0.12);
+    --ring: rgba(232,232,237,0.7);
+    box-shadow: inset 0 0 0 1px var(--ring),
+                0 2px 8px -2px rgba(16,24,40,0.06),
+                0 18px 40px -16px rgba(16,24,40,0.12);
   }
-  header.qv-header .qv-link,
-  header.qv-header .qv-cta,
-  header.qv-header .qv-logo-text,
-  header.qv-header .qv-burger {
-    color: rgba(255,255,255,0.92);
-  }
-  header.qv-header .qv-link:hover,
-  header.qv-header .qv-cta:hover {
-    color: #ffffff;
-  }
-  header.qv-header .qv-logo-mark {
-    background-color: #ffffff;
-    color: theme('colors.ink.DEFAULT');
-  }
-  header.qv-header.is-scrolled {
-    background-color: rgba(255,255,255,0.95);
-    border-bottom-color: theme('colors.body.line');
-    backdrop-filter: blur(10px);
-  }
-  header.qv-header.is-scrolled .qv-link,
-  header.qv-header.is-scrolled .qv-logo-text,
-  header.qv-header.is-scrolled .qv-burger {
-    color: theme('colors.ink.DEFAULT');
-  }
-  header.qv-header.is-scrolled .qv-cta {
-    color: theme('colors.primary.600');
-  }
-  header.qv-header.is-scrolled .qv-logo-mark {
-    background-color: theme('colors.primary.500');
-    color: #ffffff;
-  }
+  #qv-nav .qv-mark   { background:#0387e5; color:#fff; }
+  #qv-nav .qv-word,
+  #qv-nav .qv-link,
+  #qv-nav .qv-burger-btn { color:#1d1d1f; }
+  #qv-nav .qv-link:hover { color:#0387e5; background:rgba(3,135,229,0.07); }
+  #qv-nav .qv-cta { color:#0387e5; }
+  #qv-nav .qv-cta:hover { background:rgba(3,135,229,0.07); }
+  #qv-nav .qv-cta-icon { background:rgba(3,135,229,0.12); }
 
-  /* Non-home (always solid white): brand mark is cobalt, links are ink. */
-  header:not(.qv-header) .qv-link,
-  header:not(.qv-header) .qv-logo-text,
-  header:not(.qv-header) .qv-burger {
-    color: theme('colors.ink.DEFAULT');
+  /* Home, NOT yet scrolled: dark glass over the hero, white text. */
+  #qv-nav[data-home="1"]:not(.is-scrolled) .qv-pill {
+    background-color: rgba(10,10,10,0.28);
+    --ring: rgba(255,255,255,0.16);
   }
-  header:not(.qv-header) .qv-link:hover {
-    color: theme('colors.primary.700');
-  }
-  header:not(.qv-header) .qv-cta {
-    color: theme('colors.primary.600');
-  }
-  header:not(.qv-header) .qv-logo-mark {
-    background-color: theme('colors.primary.500');
-    color: #ffffff;
+  #qv-nav[data-home="1"]:not(.is-scrolled) .qv-mark { background:#fff; color:#0a0a0a; }
+  #qv-nav[data-home="1"]:not(.is-scrolled) .qv-word,
+  #qv-nav[data-home="1"]:not(.is-scrolled) .qv-link,
+  #qv-nav[data-home="1"]:not(.is-scrolled) .qv-cta,
+  #qv-nav[data-home="1"]:not(.is-scrolled) .qv-burger-btn { color:rgba(255,255,255,0.95); }
+  #qv-nav[data-home="1"]:not(.is-scrolled) .qv-link:hover { color:#fff; background:rgba(255,255,255,0.12); }
+  #qv-nav[data-home="1"]:not(.is-scrolled) .qv-cta:hover { background:rgba(255,255,255,0.12); }
+  #qv-nav[data-home="1"]:not(.is-scrolled) .qv-cta-icon { background:rgba(255,255,255,0.18); }
+
+  /* Hamburger lines: stacked, morph to X on open. */
+  .qv-line-1 { transform: translateY(-3px); }
+  .qv-line-2 { transform: translateY(3px); }
+  #qv-burger[aria-expanded="true"] .qv-line-1 { transform: rotate(45deg); }
+  #qv-burger[aria-expanded="true"] .qv-line-2 { transform: rotate(-45deg); }
+
+  /* Mobile menu link stagger. */
+  #qv-mobile-menu .qv-m-link { opacity:0; transform:translateY(2rem);
+    transition: opacity .5s cubic-bezier(0.32,0.72,0,1), transform .5s cubic-bezier(0.32,0.72,0,1); }
+  #qv-mobile-menu.is-open .qv-m-link { opacity:1; transform:translateY(0);
+    transition-delay: var(--m-delay,0ms); }
+
+  @media (prefers-reduced-motion: reduce) {
+    #qv-mobile-menu .qv-m-link { opacity:1; transform:none; transition:none; }
   }
 </style>
 
 <script is:inline>
   (function () {
-    var hdr = document.querySelector('header[data-home="1"]');
-    if (hdr) {
+    var nav = document.getElementById('qv-nav');
+    if (nav && nav.getAttribute('data-home') === '1') {
       var onScroll = function () {
-        if (window.scrollY > 8) hdr.classList.add('is-scrolled');
-        else hdr.classList.remove('is-scrolled');
+        if (window.scrollY > 40) nav.classList.add('is-scrolled');
+        else nav.classList.remove('is-scrolled');
       };
       window.addEventListener('scroll', onScroll, { passive: true });
       onScroll();
     }
-
     var menu = document.getElementById('qv-mobile-menu');
-    var openBtn = document.getElementById('qv-mobile-toggle');
+    var openBtn = document.getElementById('qv-burger');
     var closeBtn = document.getElementById('qv-mobile-close');
     function open() {
       menu.classList.remove('hidden');
+      requestAnimationFrame(function(){ menu.classList.add('is-open'); });
       document.body.style.overflow = 'hidden';
       openBtn.setAttribute('aria-expanded', 'true');
     }
     function close() {
-      menu.classList.add('hidden');
-      document.body.style.overflow = '';
+      menu.classList.remove('is-open');
       openBtn.setAttribute('aria-expanded', 'false');
+      document.body.style.overflow = '';
+      setTimeout(function(){ menu.classList.add('hidden'); }, 250);
     }
-    if (openBtn) openBtn.addEventListener('click', open);
-    if (closeBtn) closeBtn.addEventListener('click', close);
-    // Close on Escape + when a nav link is clicked
-    document.addEventListener('keydown', function (e) {
-      if (e.key === 'Escape' && menu && !menu.classList.contains('hidden')) close();
+    if (openBtn) openBtn.addEventListener('click', function(){
+      menu.classList.contains('is-open') ? close() : open();
     });
-    if (menu) {
-      menu.addEventListener('click', function (e) {
-        var t = e.target;
-        if (t && t.tagName === 'A') close();
-      });
-    }
+    if (closeBtn) closeBtn.addEventListener('click', close);
+    document.addEventListener('keydown', function (e) {
+      if (e.key === 'Escape' && menu && menu.classList.contains('is-open')) close();
+    });
+    if (menu) menu.addEventListener('click', function (e) {
+      if (e.target && e.target.tagName === 'A') close();
+    });
   })();
 </script>

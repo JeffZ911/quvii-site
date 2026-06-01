@@ -29,18 +29,21 @@ const ctaClass = tone === "dark" ? "text-white hover:text-primary-300" : "text-p
 <section class={`section ${bgClass}`}>
   <div class="container-page">
     <div class={`grid items-center gap-10 lg:gap-16 ${flip ? "lg:grid-cols-[1fr_1.15fr]" : "lg:grid-cols-[1.15fr_1fr]"}`}>
-      <div class={`relative overflow-hidden rounded-2xl bg-ink/5 aspect-[5/4] ${flip ? "lg:order-2" : ""}`}>
-        {image ? (
-          <img
-            src={image}
-            alt=""
-            loading="lazy"
-            decoding="async"
-            class="h-full w-full object-cover"
-          />
-        ) : (
-          <div class="h-full w-full bg-gradient-to-br from-ink-soft to-ink-deep"></div>
-        )}
+      {/* Double-Bezel banner image (DESIGN.md §5) */}
+      <div class={`group/bz ${tone === "dark" ? "rounded-shell bg-white/5 ring-1 ring-white/10 p-1.5 shadow-soft-lg" : "bezel"} ${flip ? "lg:order-2" : ""}`}>
+        <div class={`${tone === "dark" ? "rounded-core shadow-bezel-dark" : "bezel-core"} relative aspect-[5/4] overflow-hidden`}>
+          {image ? (
+            <img
+              src={image}
+              alt=""
+              loading="lazy"
+              decoding="async"
+              class="h-full w-full object-cover transition-transform duration-700 ease-settle group-hover/bz:scale-[1.03]"
+            />
+          ) : (
+            <div class="h-full w-full bg-gradient-to-br from-ink-soft to-ink-deep"></div>
+          )}
+        </div>
       </div>
 
       <div>
@@ -53,9 +56,10 @@ const ctaClass = tone === "dark" ? "text-white hover:text-primary-300" : "text-p
         </p>
         <a
           href={href}
-          class={`mt-8 inline-flex items-center gap-1 text-sm font-medium no-underline transition-colors ${ctaClass}`}
+          class={`group mt-8 inline-flex items-center gap-1.5 text-sm font-medium no-underline transition-colors duration-300 ease-settle ${ctaClass}`}
         >
-          {cta} <span aria-hidden="true">›</span>
+          {cta}
+          <span class="transition-transform duration-300 ease-settle group-hover:translate-x-0.5" aria-hidden="true">›</span>
         </a>
       </div>
     </div>
