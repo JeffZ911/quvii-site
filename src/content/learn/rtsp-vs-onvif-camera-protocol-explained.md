@@ -11,6 +11,20 @@ quick_answer: "RTSP is the 'pipe' that carries video data, while ONVIF is the 'h
 game: multi
 affiliate: true
 hero_image: /img/rtsp-vs-onvif-camera-protocol-explained/hero.webp
+inline_images:
+  - /img/rtsp-vs-onvif-camera-protocol-explained/inline-1.webp
+  - /img/rtsp-vs-onvif-camera-protocol-explained/inline-2.webp
+  - /img/rtsp-vs-onvif-camera-protocol-explained/inline-3.webp
+  - /img/rtsp-vs-onvif-camera-protocol-explained/inline-4.webp
+  - /img/rtsp-vs-onvif-camera-protocol-explained/inline-5.webp
+  - /img/rtsp-vs-onvif-camera-protocol-explained/inline-6.webp
+inline_image_sections:
+  - "What it means"
+  - "Why it exists"
+  - "How it works under the hood"
+  - "Real-world implications"
+  - "Common misconceptions"
+  - "Further reading"
 ---
 
 Choosing a security camera often feels like a choice between a convenient "walled garden" and a complex DIY project. Understanding the relationship between RTSP and ONVIF is the first step toward reclaiming control over your video data and eliminating monthly fees.
@@ -20,6 +34,9 @@ Choosing a security camera often feels like a choice between a convenient "walle
 **Quick Answer:** RTSP is the "pipe" that carries video data, while ONVIF is the "handshake" that lets different brands work together. Use them to connect cameras from Reolink or Amcrest to local NVRs like Blue Iris without monthly fees.
 
 ## What it means
+
+![What it means](/img/rtsp-vs-onvif-camera-protocol-explained/inline-1.webp)
+
 
 To understand modern IP camera communication, one must distinguish between the act of sending video and the act of managing the device. In the consumer security market, RTSP and ONVIF are the two pillars that allow a camera from Manufacturer A to talk to software from Manufacturer B.
 
@@ -44,6 +61,9 @@ If RTSP is the language being spoken (the video), ONVIF is the formal introducti
 
 ## Why it exists
 
+![Why it exists](/img/rtsp-vs-onvif-camera-protocol-explained/inline-2.webp)
+
+
 The security camera industry has historically been plagued by proprietary ecosystems. Brands like Ring, Nest, and Arlo use "closed" protocols. This means a Ring camera will only work with the Ring app and Ring’s cloud servers. If those companies raise their subscription prices or shut down their servers, the hardware becomes a "brick."
 
 ### The Fight Against Vendor Lock-in
@@ -62,6 +82,9 @@ Key manufacturers that currently maintain robust ONVIF/RTSP support include:
 By using these protocols, if a manufacturer goes out of business or changes its privacy policy, your hardware continues to function because it does not rely on a "phone home" connection to a corporate server.
 
 ## How it works under the hood
+
+![How it works under the hood](/img/rtsp-vs-onvif-camera-protocol-explained/inline-3.webp)
+
 
 To implement a local security system, you must understand how to "call" the camera's stream and how the management software interprets the camera's capabilities.
 
@@ -96,6 +119,9 @@ If you change the ONVIF port in the camera's settings but don't update it in you
 
 ## Real-world implications
 
+![Real-world implications](/img/rtsp-vs-onvif-camera-protocol-explained/inline-4.webp)
+
+
 The primary reason to prioritize RTSP and ONVIF is the Total Cost of Ownership (TCO) and the preservation of digital privacy.
 
 ### Building a Subscription-Free System
@@ -121,6 +147,9 @@ For power users, RTSP is the "secret sauce" for high-speed smart home integratio
 
 ## Common misconceptions
 
+![Common misconceptions](/img/rtsp-vs-onvif-camera-protocol-explained/inline-5.webp)
+
+
 Despite their benefits, RTSP and ONVIF are frequently misunderstood, leading to frustration during setup.
 
 ### ONVIF is Not a Protocol
@@ -142,6 +171,9 @@ Modern cameras feature "AI" detection (Person, Vehicle, Pet). Many buyers assume
 *   **The Business Owner:** Prioritize **ONVIF Profile G and M**. You need "Edge Storage" (Profile G) so that if your network goes down, the cameras record to their internal SD cards and sync back to the NVR later.
 
 ## Further reading
+
+![Further reading](/img/rtsp-vs-onvif-camera-protocol-explained/inline-6.webp)
+
 
 Understanding protocols is only half the battle. To build a truly resilient system, you must consider where that data lives and how it is protected from outside interference.
 
