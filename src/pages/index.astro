@@ -33,18 +33,16 @@ import ExpandCards from "../components/ExpandCards.astro";
 
 const blog = await getCollection("blog");
 const learn = await getCollection("learn");
-const reviews = await getCollection("reviews");
 
 const NOINDEX_BELOW = 6.0;
 const ok = <T extends { data: { qa_score?: number } }>(e: T) =>
   !(typeof e.data.qa_score === "number" && e.data.qa_score < NOINDEX_BELOW);
 
-type Entry = (typeof blog)[number] & { _kind: "blog" | "learn" | "reviews" };
+type Entry = (typeof blog)[number] & { _kind: "blog" | "learn" };
 
 const all: Entry[] = [
   ...blog.map((e) => ({ ...e, _kind: "blog" as const })),
   ...learn.map((e) => ({ ...e, _kind: "learn" as const })),
-  ...reviews.map((e) => ({ ...e, _kind: "reviews" as const })),
 ].filter(ok).sort(
   (a, b) => Date.parse(b.data.published_at || "") - Date.parse(a.data.published_at || "")
 );
@@ -72,36 +70,24 @@ const news = blog
     publishedAt: e.data.published_at,
   }));
 
-// Visual banner imagery — prefer a recent review hero, then any
-// recent hero image. Otherwise the banner renders with its dark
-// gradient fallback (still on-brand).
-const reviewSample = reviews.filter(ok).sort(
-  (a, b) => Date.parse(b.data.published_at || "") - Date.parse(a.data.published_at || "")
-)[0];
-const learnSample = learn.filter(ok).sort(
-  (a, b) => Date.parse(b.data.published_at || "") - Date.parse(a.data.published_at || "")
-)[0];
-
 // Brand assets — dedicated photoreal fixtures in /public/brand/ that
 // do NOT depend on article content. Preferred over article hero_images
 // for the homepage hero + CategoryBanner blocks so the visual identity
 // stays stable across content cycles.
 const BRAND_HERO          = "/brand/hero.png";
-const BRAND_REVIEWS_IMG   = "/brand/reviews-banner.png";
 const BRAND_GUIDES_IMG    = "/brand/guides-banner.png";
 
-const reviewsBannerImage = BRAND_REVIEWS_IMG;
 const guidesBannerImage  = BRAND_GUIDES_IMG;
 
 const hrefFor = (e: Entry) => `/${e._kind}/${e.slug}/`;
 const heroBackdrop = BRAND_HERO;
 
-// Horizontal "Start here" gallery — top guides + reviews by qa_score.
-const galleryItems = [...learn.filter(ok), ...reviews.filter(ok)]
+// Horizontal "Start here" gallery — top guides by qa_score.
+const galleryItems = [...learn.filter(ok)]
   .sort((a, b) => (b.data.qa_score || 0) - (a.data.qa_score || 0))
   .slice(0, 7)
   .map((e) => ({
-    href: `/${learn.includes(e as any) ? "learn" : "reviews"}/${e.slug}/`,
+    href: `/learn/${e.slug}/`,
     title: e.data.title,
     eyebrow: (e.data.article_type || "Guide").replace(/_/g, " "),
     image: e.data.hero_image,
@@ -227,17 +213,6 @@ const siteJsonLd = {
       </div>
     </section>
   )}
-
-  <!-- 5. CATEGORY BANNER — Reviews -->
-  <CategoryBanner
-    eyebrow="Reviews"
-    headline="Measured, not marketed."
-    body="In-depth technical analysis of connected security hardware. Real range, real subscription cost, real data-handling — the trade-offs the spec sheet won't show you."
-    href="/reviews/"
-    cta="Explore reviews"
-    image={reviewsBannerImage}
-    tone="light"
-  />
 
   <!-- 6. EDITORIAL VOICE -->
   <PullQuote

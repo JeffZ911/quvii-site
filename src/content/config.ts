@@ -61,12 +61,10 @@ const baseFrontmatter = {
 // to URL prefixes (e.g. blog → /blog/<slug>/, learn → /learn/<slug>/).
 const blog = defineCollection({ type: "content", schema: z.object(baseFrontmatter) });
 const learn = defineCollection({ type: "content", schema: z.object(baseFrontmatter) });
-const reviews = defineCollection({ type: "content", schema: z.object(baseFrontmatter) });
 const support = defineCollection({ type: "content", schema: z.object(baseFrontmatter) });
 
 export const collections = {
   blog,
   learn,
-  reviews,
   support,
 };

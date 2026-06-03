@@ -11,7 +11,6 @@ const STATIC_PATHS = [
   "/",
   "/blog/",
   "/learn/",
-  "/reviews/",
   "/support/",
   "/about/",
   "/editorial-policy/",
@@ -32,10 +31,9 @@ type AnyEntry = {
 };
 
 export const GET: APIRoute = async () => {
-  const [blog, learn, reviews, support] = await Promise.all([
+  const [blog, learn, support] = await Promise.all([
     getCollection("blog"),
     getCollection("learn"),
-    getCollection("reviews"),
     getCollection("support"),
   ]);
 
@@ -47,7 +45,6 @@ export const GET: APIRoute = async () => {
   };
   for (const e of blog)    push("blog",    e as AnyEntry);
   for (const e of learn)   push("learn",   e as AnyEntry);
-  for (const e of reviews) push("reviews", e as AnyEntry);
   for (const e of support) push("support", e as AnyEntry);
 
   const today = new Date().toISOString().slice(0, 10);
