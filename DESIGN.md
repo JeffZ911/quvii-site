@@ -4,10 +4,12 @@ Machine-readable design system for quvii.com. Any AI agent (or human)
 touching the UI MUST read this first and stay inside these rails. The
 goal is a "$150k agency build", not "a template with nice fonts."
 
-Aesthetic: **Soft Structuralism** — clean white / silver-grey surfaces,
-massive bold grotesk typography, airy floating components with very soft,
-highly-diffused ambient shadows. Apple-/Linear-tier restraint. The dark
-hero is kept as a single dramatic moment; everything else breathes light.
+Aesthetic: **Soft Structuralism, Apple-aligned** (upgraded 2026-06-03 from
+the Sunaofe product-page reference) — clean white / silver-grey surfaces,
+**SF Pro** system typography on a fluid `clamp()` scale, airy floating
+components with very soft, highly-diffused ambient shadows. Apple-/Linear-tier
+restraint. The dark hero is kept as a single dramatic moment; everything else
+breathes light.
 
 Brand: Quvii — an independent, US-based connected-security technology
 brand. Voice: calm, technical, advisory. Never hypey, never brochure.
@@ -28,8 +30,8 @@ The official kit lives in `QUVII-Logo-Kit/`; the web-ready exports are in
 `public/brand/` + `public/favicon-*.png`.
 
 - **Wordmark:** `wordmark-white.png` (over dark), `wordmark-ink.png` (over
-  light), `wordmark-red.png` (rare, on white). Header swaps white↔ink with
-  nav state; footer + mobile overlay use white.
+  light), `wordmark-red.png` (rare, on white). The island nav uses the ink
+  wordmark (light-glass pill); footer + mobile overlay use white.
 - **Q symbol:** `q-white.png` / `q-red.png` — square/badge contexts only.
 - **Favicons:** `favicon-32.png`, `favicon-80.png`, `apple-touch-icon.png`.
   `theme-color` = `#C40027`. OG fallback = `/brand/og-default.png`.
@@ -65,26 +67,30 @@ Rules:
   background color.
 - Dark sections (`ink`) are used sparingly: hero, StandardsTeaser, footer.
 
-## 4. Typography
+## 4. Typography (Apple system, fluid)
 
-- **Display (headings):** `Space Grotesk` — geometric grotesk, brand-kit
-  display face. Tight tracking (`-0.03em` to `-0.04em`). Weights 500/600/700.
-- **Body:** `Manrope` — clean, modern sans, brand-kit text face. Weights
-  400/500/600/700. Also the fallback for display.
-- Loaded via Google Fonts in `BaseLayout.astro` (`display=swap`).
-- **BANNED:** Inter, Roboto, Arial, Helvetica, Open Sans. (Inter was the
-  old default — fully removed.)
+- **Both display + body:** the **Apple system stack** —
+  `-apple-system, BlinkMacSystemFont, "SF Pro Display"/"SF Pro Text",
+  "Helvetica Neue", "Manrope", …`. SF Pro renders natively on Apple devices;
+  **Manrope** is the cross-platform fallback (loaded via Google Fonts in
+  `BaseLayout.astro`, `display=swap`). No webfont on Apple devices = instant
+  paint. (Space Grotesk was retired 2026-06-03.)
+- **BANNED:** Inter, Roboto, Arial, Helvetica, Open Sans.
 
-Scale (Apple-grade, big jumps, few middle steps):
-- `text-display-xl` 6.5rem · `display-lg` 5rem · `display` 3.5rem ·
-  `display-sm` 2.5rem · then `text-2xl`/`xl` for sub-heads, `base`/`sm`
-  for body. Avoid the middle of the scale.
+**Fluid `clamp()` scale** — prefer these utility classes over fixed sizes so
+headings scale with the viewport (Sunaofe reference):
+- `.t-hero` `clamp(2.75rem, 7.4vw, 5.75rem)` · `.t-display`
+  `clamp(2.25rem, 4.6vw, 3.5rem)` · `.t-h2` `clamp(1.9rem, 3.4vw, 2.85rem)` ·
+  `.t-h3` `clamp(1.3rem, 2vw, 1.6rem)`. All tight tracking (−0.02 to −0.035em),
+  `text-wrap: balance` on headings.
+- `.eyebrow` — uppercase tracked label (`0.12em`) above a heading; faint or
+  red accent. `.lede` — one intro paragraph, `text-wrap: pretty`, ≤42ch.
+- `.text-gradient-red` — a single red-gradient accent moment (a hero stat).
 
 Rules:
 - H1/hero headings are HUGE and tight. Let them dominate.
-- Eyebrow tags precede major headings: pill, `text-[10px] uppercase
-  tracking-[0.2em] font-medium`, accent or faint color.
-- Body line-height generous (1.55+). Headings tight (1.0–1.1).
+- Section heads follow the eyebrow → `.t-h2` → `.lede` rhythm.
+- Body line-height generous (1.5+). Headings tight (1.0–1.1).
 
 ## 5. Spacing & Layout
 
@@ -121,29 +127,48 @@ NEVER place a premium card/image flat on the background. Nest it:
   `group-hover:translate-x-0.5 group-hover:-translate-y-[1px]
   group-hover:scale-105`. Always custom cubic-bezier, never linear.
 
-## 8. Navigation
+## 8. Navigation — the single island (`Island.astro`)
 
-- Floating glass **island**, detached from the top (`mt-4 mx-auto w-max
-  rounded-full`), `backdrop-blur-xl bg-white/70 ring-1 ring-body-line/60`.
-  NEVER edge-to-edge glued to `top-0`.
-- On home it floats over the dark hero (white text); on scroll + inner
-  pages it stays a light glass pill.
-- Mobile hamburger morphs to an X (rotate lines, don't swap icon).
-  Full-screen `backdrop-blur-3xl bg-ink/90` overlay; links **stagger** in
-  (`translate-y-8 opacity-0` → settled, `delay-[Nms]`).
+- **Exactly ONE** floating nav site-wide (the old always-on `Header.astro` +
+  the appear-after-hero pill were merged 2026-06-03 — two pills read as
+  cluttered). `Island.astro` is rendered once in `BaseLayout`.
+- Wide light-glass pill, detached from the top (`fixed top-3.5`, `mx-auto
+  w-[min(980px,…)] rounded-full`), `backdrop-filter: saturate(180%) blur(22px)`
+  on `rgba(251,251,253,.82)`. NEVER edge-to-edge glued to `top-0`.
+- **Always present** (not appear-after-hero — that left a nav-less gap at the
+  top). Gains a touch more elevation past 24px scroll (`.is-scrolled`).
+- Layout: ink wordmark (left) · nav links (center) · `Latest` CTA (right).
+- Mobile: compact pill (brand + hamburger). Hamburger morphs to an X (rotate
+  lines, don't swap icon) → full-screen `backdrop-blur-3xl bg-ink/95` overlay;
+  links **stagger** in (`translate-y` + opacity, `--m-delay`).
 
 ## 9. Motion (MOTION_INTENSITY ≈ 4–5)
 
-- Easing: custom `cubic-bezier(0.32,0.72,0,1)` (the "settle"). Durations
-  500–800ms. NO `linear` / `ease-in-out`.
-- **Scroll reveal:** elements enter with a gentle heavy fade-up +
-  de-blur: `translate-y-12 blur-sm opacity-0` → `0/0/1` over ~700ms.
-  Driven by `IntersectionObserver` (ScrollReveal.astro) — NEVER a
-  `scroll` listener.
-- **Performance (hard rules):** animate ONLY `transform` + `opacity`.
-  Never `top/left/width/height`. `backdrop-blur` only on fixed/sticky
-  (nav, overlays) — never on scrolling content. `prefers-reduced-motion`
-  disables reveals.
+- **Two easings, both Tailwind tokens:**
+  - `ease-apple` = `cubic-bezier(0.28,0.11,0.32,1)` — the primary, heavier
+    cinematic ease (Sunaofe reference). Use on scroll-reveal + the signature
+    components (gallery, expand cards, island).
+  - `ease-settle` = `cubic-bezier(0.32,0.72,0,1)` — the springier legacy ease,
+    still fine on small hover transitions.
+  - Durations 200–900ms. NO `linear` / `ease-in-out`.
+- **Scroll reveal** (`[data-reveal]`, observer in `BaseLayout`): elements enter
+  with a heavy fade-up + de-blur (`translateY(2rem) blur(8px) opacity-0` →
+  `0/0/1` over ~0.8–0.9s, `ease-apple`). `IntersectionObserver` only — NEVER a
+  `scroll` listener for reveals.
+- **Performance (hard rules):** animate ONLY `transform` + `opacity` (the one
+  exception: the curated `max-height` of expand cards). Never
+  `top/left/width/height`. `backdrop-blur` only on fixed/sticky (nav, overlays)
+  — never on scrolling content. `prefers-reduced-motion` disables reveals.
+
+## 9b. Signature components (Sunaofe-referenced)
+
+- **`ScrollGallery.astro`** — horizontal snap gallery (`.h-scroll`, scroll-snap
+  x mandatory, hidden scrollbar) of double-bezel image cards with prev/next
+  arrow buttons. Homepage "Start here" / by-category. Cards lift on hover.
+- **`ExpandCards.astro`** — a row of cards that expand in place; a `+` button
+  rotates 135° to an ×, `.expand-card__more` animates `max-height`. Used for
+  "How we test" / methodology (also reinforces E-E-A-T).
+- Both reveal with `[data-reveal]` and use `ease-apple`.
 
 ## 10. The "Absolute Zero" ban-list (instant-fail)
 
@@ -159,13 +184,15 @@ NEVER place a premium card/image flat on the background. Nest it:
 ## 11. Pre-output checklist (last filter)
 
 - [ ] No banned font / border / shadow / layout / motion from §10.
-- [ ] Space Grotesk headings, Manrope body.
+- [ ] SF Pro system stack (Manrope fallback); headings use the fluid `.t-*`
+      classes, not fixed sizes.
 - [ ] Accent is QUVII Red `#C40027` only — ≤10% of the surface, never a fill.
 - [ ] Real QUVII wordmark used (white over dark, ink over light) — never retype "Quvii" as text.
+- [ ] Exactly ONE nav (the single `Island`); no second floating pill.
 - [ ] Major cards use Double-Bezel (outer shell + inner core, concentric radii, inner highlight).
 - [ ] CTAs use Button-in-Button trailing icon + hover physics.
-- [ ] Section padding ≥ `py-24`; layout breathes.
-- [ ] All transitions custom cubic-bezier; scroll reveals present.
+- [ ] Section padding ≥ `py-24` (or `.section-fluid`); layout breathes.
+- [ ] Transitions use `ease-apple` (or `ease-settle`); scroll reveals present.
 - [ ] Collapses to single `w-full` column < 768px.
 - [ ] Animations use only transform/opacity; backdrop-blur only on fixed.
 - [ ] Reads as "$150k agency build", not "template with nice fonts."
