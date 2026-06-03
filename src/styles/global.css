@@ -41,11 +41,11 @@
      enter the viewport. transform+opacity+filter only (GPU-safe). */
   [data-reveal] {
     opacity: 0;
-    transform: translateY(2.5rem);
-    filter: blur(6px);
-    transition: opacity 0.7s theme('transitionTimingFunction.settle'),
-                transform 0.7s theme('transitionTimingFunction.settle'),
-                filter 0.7s theme('transitionTimingFunction.settle');
+    transform: translateY(2rem);
+    filter: blur(8px);
+    transition: opacity 0.8s theme('transitionTimingFunction.apple'),
+                transform 0.9s theme('transitionTimingFunction.apple'),
+                filter 0.8s theme('transitionTimingFunction.apple');
     transition-delay: var(--reveal-delay, 0ms);
     will-change: transform, opacity;
   }
@@ -103,7 +103,107 @@
   }
 }
 
+/* ════════════════════════════════════════════════════════════════════
+ * SUNAOFE-REFERENCED DESIGN LANGUAGE (2026-06-03)
+ * Apple product-page polish layered onto Quvii's Soft-Structuralism:
+ * fluid clamp() typography, eyebrow/lede patterns, section rhythm,
+ * gradient accent, and the signature components (island nav, horizontal
+ * gallery, expand cards). Brand stays: QUVII red is the single accent.
+ * ════════════════════════════════════════════════════════════════════ */
 @layer components {
+  /* ── Fluid display typography (clamp, viewport-responsive) ── */
+  .t-hero {
+    font-family: theme('fontFamily.display');
+    font-weight: 600;
+    font-size: clamp(2.75rem, 7.4vw, 5.75rem);
+    line-height: 1.0;
+    letter-spacing: -0.035em;
+    text-wrap: balance;
+  }
+  .t-display {
+    font-family: theme('fontFamily.display');
+    font-weight: 600;
+    font-size: clamp(2.25rem, 4.6vw, 3.5rem);
+    line-height: 1.04;
+    letter-spacing: -0.03em;
+    text-wrap: balance;
+  }
+  .t-h2 {
+    font-family: theme('fontFamily.display');
+    font-weight: 600;
+    font-size: clamp(1.9rem, 3.4vw, 2.85rem);
+    line-height: 1.06;
+    letter-spacing: -0.028em;
+    text-wrap: balance;
+  }
+  .t-h3 {
+    font-family: theme('fontFamily.display');
+    font-weight: 600;
+    font-size: clamp(1.3rem, 2vw, 1.6rem);
+    line-height: 1.12;
+    letter-spacing: -0.02em;
+  }
+  /* Eyebrow — uppercase tracked label above a heading */
+  .eyebrow {
+    @apply text-[12.5px] font-semibold uppercase text-body-faint;
+    letter-spacing: 0.12em;
+  }
+  /* Lede — one intro paragraph under a section head */
+  .lede {
+    font-size: clamp(1.05rem, 1.4vw, 1.3rem);
+    font-weight: 500;
+    line-height: 1.5;
+    color: theme('colors.body.muted');
+    max-width: 42ch;
+    text-wrap: pretty;
+  }
+  /* Red gradient text — for one hero stat / accent moment */
+  .text-gradient-red {
+    background: linear-gradient(105deg, #E8743B 0%, #C40027 45%, #9A0020 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    display: inline-block;
+  }
+
+  /* ── Section rhythm (fluid vertical padding) ── */
+  .section-fluid { padding-block: clamp(4.5rem, 8vw, 7.5rem); }
+  .head-gap { margin-bottom: clamp(2.25rem, 4vw, 3.25rem); }
+
+  /* ── Floating island nav: appear-after-hero (Sunaofe pattern) ── */
+  /* The pill starts hidden above the viewport and slides in once the page
+     has scrolled past the hero (#qv-island.show toggled by JS). */
+  #qv-island {
+    transform: translateX(-50%) translateY(-180%);
+    opacity: 0;
+    transition: transform 0.55s theme('transitionTimingFunction.apple'),
+                opacity 0.45s theme('transitionTimingFunction.apple');
+  }
+  #qv-island.show {
+    transform: translateX(-50%) translateY(0);
+    opacity: 1;
+  }
+
+  /* ── Horizontal snap gallery (scene-card pattern) ── */
+  .h-scroll {
+    @apply flex gap-5 sm:gap-6 overflow-x-auto pb-3;
+    scroll-snap-type: x mandatory;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+    scroll-padding-left: 1.5rem;
+  }
+  .h-scroll::-webkit-scrollbar { display: none; }
+  .h-scroll > * { scroll-snap-align: start; }
+
+  /* ── Expand card (WHY "+" pattern) ── */
+  .expand-card__more {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.55s theme('transitionTimingFunction.apple');
+  }
+  .expand-card__btn { transition: transform 0.35s theme('transitionTimingFunction.apple'); }
+  .expand-card.open .expand-card__btn { transform: rotate(135deg); }
+
   .container-page {
     @apply max-w-page mx-auto px-6 sm:px-8 lg:px-10;
   }

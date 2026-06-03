@@ -65,6 +65,9 @@ export default {
       transitionTimingFunction: {
         // The "settle" — spring-ish, used on every transition (DESIGN.md §8).
         settle: "cubic-bezier(0.32, 0.72, 0, 1)",
+        // Apple product-page easing (Sunaofe reference) — heavier, cinematic
+        // ease-out used on scroll-reveal + the signature components.
+        apple: "cubic-bezier(0.28, 0.11, 0.32, 1)",
       },
       borderRadius: {
         // Double-Bezel concentric radii (DESIGN.md §5).

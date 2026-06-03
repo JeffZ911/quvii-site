@@ -1,0 +1,89 @@
+---
+// Horizontal snap-scroll gallery (Sunaofe "scene-card" pattern).
+// Big image cards that scroll horizontally with snap + prev/next arrows.
+// Use on the homepage for featured guides / categories.
+interface Item {
+  href: string;
+  title: string;
+  eyebrow?: string;
+  image?: string;
+}
+interface Props {
+  eyebrow?: string;
+  heading: string;
+  items: Item[];
+  id?: string;
+}
+const { eyebrow, heading, items, id = "qv-gallery" } = Astro.props;
+---
+
+<section class="section-fluid bg-surface-alt overflow-hidden" data-reveal>
+  <div class="container-wide">
+    <div class="head-gap flex flex-wrap items-end justify-between gap-6">
+      <div>
+        {eyebrow && <p class="eyebrow mb-3">{eyebrow}</p>}
+        <h2 class="t-h2 text-ink">{heading}</h2>
+      </div>
+      <div class="hidden sm:flex gap-2.5" data-gallery-ctrls={id}>
+        <button type="button" data-gallery-prev
+          class="grid place-items-center w-11 h-11 rounded-full bg-white ring-1 ring-body-line/70 text-ink transition-[background,opacity] duration-300 ease-apple hover:bg-mist disabled:opacity-30"
+          aria-label="Previous">
+          <span aria-hidden="true">‹</span>
+        </button>
+        <button type="button" data-gallery-next
+          class="grid place-items-center w-11 h-11 rounded-full bg-white ring-1 ring-body-line/70 text-ink transition-[background,opacity] duration-300 ease-apple hover:bg-mist disabled:opacity-30"
+          aria-label="Next">
+          <span aria-hidden="true">›</span>
+        </button>
+      </div>
+    </div>
+
+    <div class="h-scroll" id={id}>
+      {items.map((it) => (
+        <a href={it.href}
+           class="group block flex-[0_0_clamp(260px,42vw,460px)] no-underline">
+          <div class="bezel transition-transform duration-500 ease-apple group-hover:-translate-y-1">
+            <div class="bezel-core relative aspect-[4/3]">
+              {it.image ? (
+                <img src={it.image} alt="" loading="lazy" decoding="async"
+                     class="h-full w-full object-cover transition-transform duration-700 ease-apple group-hover:scale-[1.04]" />
+              ) : (
+                <div class="grid h-full w-full place-items-center bg-surface-alt">
+                  <img src="/brand/q-red.png" alt="" aria-hidden="true" class="h-12 w-auto opacity-[0.10]" />
+                </div>
+              )}
+            </div>
+          </div>
+          {it.eyebrow && <p class="eyebrow mt-5">{it.eyebrow}</p>}
+          <h3 class="mt-2 t-h3 text-ink group-hover:text-primary-700 transition-colors duration-300 ease-apple">
+            {it.title}
+          </h3>
+        </a>
+      ))}
+    </div>
+  </div>
+</section>
+
+<script is:inline define:vars={{ id }}>
+  (function () {
+    var track = document.getElementById(id);
+    if (!track) return;
+    var wrap = document.querySelector('[data-gallery-ctrls="' + id + '"]');
+    if (!wrap) return;
+    var prev = wrap.querySelector("[data-gallery-prev]");
+    var next = wrap.querySelector("[data-gallery-next]");
+    function step() {
+      var card = track.querySelector("a");
+      return card ? card.offsetWidth + 24 : 360;
+    }
+    function sync() {
+      prev.disabled = track.scrollLeft <= 4;
+      next.disabled = track.scrollLeft + track.clientWidth >= track.scrollWidth - 4;
+    }
+    prev.addEventListener("click", function () { track.scrollBy({ left: -step(), behavior: "smooth" }); });
+    next.addEventListener("click", function () { track.scrollBy({ left: step(), behavior: "smooth" }); });
+    track.addEventListener("scroll", function () { requestAnimationFrame(sync); }, { passive: true });
+    window.addEventListener("resize", sync);
+    sync();
+  })();
+</script>

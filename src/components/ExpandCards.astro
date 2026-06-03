@@ -1,0 +1,65 @@
+---
+// Expand cards (Sunaofe "WHY +" pattern). A row of cards; each expands in
+// place with a rotating + button. Use for "what we test" / methodology / FAQ.
+interface Item {
+  lead?: string;
+  title: string;
+  summary: string;
+  detail: string;
+}
+interface Props {
+  eyebrow?: string;
+  heading: string;
+  items: Item[];
+}
+const { eyebrow, heading, items } = Astro.props;
+---
+
+<section class="section-fluid overflow-hidden" data-reveal>
+  <div class="container-wide">
+    <div class="head-gap">
+      {eyebrow && <p class="eyebrow mb-3">{eyebrow}</p>}
+      <h2 class="t-h2 text-ink">{heading}</h2>
+    </div>
+
+    <div class="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+      {items.map((it) => (
+        <div class="expand-card relative flex flex-col rounded-[1.5rem] border border-body-line bg-white p-7 pb-20 transition-shadow duration-300 ease-apple hover:shadow-soft">
+          {it.lead && (
+            <p class="text-xs font-semibold uppercase tracking-[0.06em] text-body-faint mb-3">{it.lead}</p>
+          )}
+          <h3 class="t-h3 text-ink">{it.title}</h3>
+          <p class="mt-3.5 text-[15px] leading-relaxed text-body-muted">{it.summary}</p>
+          <div class="expand-card__more">
+            <p class="pt-3.5 text-[14.5px] leading-relaxed text-body-muted">{it.detail}</p>
+          </div>
+          <button type="button"
+            class="expand-card__btn absolute left-7 bottom-6 grid h-9 w-9 place-items-center rounded-full bg-ink text-white"
+            aria-expanded="false" aria-label="Expand">
+            <span class="relative block h-3.5 w-3.5">
+              <span class="absolute left-0 top-1/2 h-[1.9px] w-3.5 -translate-y-1/2 rounded bg-white"></span>
+              <span class="expand-card__btn-v absolute left-1/2 top-0 h-3.5 w-[1.9px] -translate-x-1/2 rounded bg-white transition-opacity duration-300 ease-apple"></span>
+            </span>
+          </button>
+        </div>
+      ))}
+    </div>
+  </div>
+</section>
+
+<script is:inline>
+  (function () {
+    document.querySelectorAll(".expand-card").forEach(function (card) {
+      var btn = card.querySelector(".expand-card__btn");
+      var more = card.querySelector(".expand-card__more");
+      var vbar = card.querySelector(".expand-card__btn-v");
+      if (!btn || !more) return;
+      btn.addEventListener("click", function () {
+        var open = card.classList.toggle("open");
+        btn.setAttribute("aria-expanded", String(open));
+        more.style.maxHeight = open ? more.scrollHeight + "px" : "0px";
+        if (vbar) vbar.style.opacity = open ? "0" : "1";
+      });
+    });
+  })();
+</script>

@@ -9,6 +9,8 @@ import CategoryBanner from "../components/CategoryBanner.astro";
 import NewsRibbon from "../components/NewsRibbon.astro";
 import StandardsTeaser from "../components/StandardsTeaser.astro";
 import PullQuote from "../components/PullQuote.astro";
+import ScrollGallery from "../components/ScrollGallery.astro";
+import ExpandCards from "../components/ExpandCards.astro";
 
 // Quvii homepage — densified Apple/DJI-grade sectional rhythm.
 //
@@ -94,6 +96,42 @@ const guidesBannerImage  = BRAND_GUIDES_IMG;
 const hrefFor = (e: Entry) => `/${e._kind}/${e.slug}/`;
 const heroBackdrop = BRAND_HERO;
 
+// Horizontal "Start here" gallery — top guides + reviews by qa_score.
+const galleryItems = [...learn.filter(ok), ...reviews.filter(ok)]
+  .sort((a, b) => (b.data.qa_score || 0) - (a.data.qa_score || 0))
+  .slice(0, 7)
+  .map((e) => ({
+    href: `/${learn.includes(e as any) ? "learn" : "reviews"}/${e.slug}/`,
+    title: e.data.title,
+    eyebrow: (e.data.article_type || "Guide").replace(/_/g, " "),
+    image: e.data.hero_image,
+  }));
+
+// Methodology — static credibility cards (E-E-A-T). Quvii's editorial lens.
+const methodCards = [
+  {
+    lead: "01 — Reliability",
+    title: "It works when it matters.",
+    summary: "We test how gear behaves on a bad night, not a spec sheet.",
+    detail:
+      "Battery drain in the cold, Wi-Fi handshakes that drop, motion zones that miss the porch — we report the failure modes the marketing never mentions, because a camera that's offline at 2am isn't security.",
+  },
+  {
+    lead: "02 — Privacy",
+    title: "Your footage, your terms.",
+    summary: "Where the video lives, who can reach it, and for how long.",
+    detail:
+      "Local vs. cloud, end-to-end encryption, data-retention policies, and the account hygiene (2FA, unique passwords) that actually prevents the 'hacks' you read about. If a vendor is vague about data, we say so.",
+  },
+  {
+    lead: "03 — True cost",
+    title: "The price after the price.",
+    summary: "What the subscription quietly adds over three years.",
+    detail:
+      "A $40 camera that's useless without a $10/month plan isn't a $40 camera. We model the real multi-year cost — per camera, with and without the cloud plan — so the cheapest sticker doesn't become the most expensive system.",
+  },
+];
+
 const siteJsonLd = {
   "@context": "https://schema.org",
   "@type": "WebSite",
@@ -124,13 +162,22 @@ const siteJsonLd = {
   <!-- 2. VALUE POSITIONING STRIP -->
   <ValueStrip />
 
+  <!-- 2b. START-HERE GALLERY (horizontal snap) -->
+  {galleryItems.length >= 3 && (
+    <ScrollGallery
+      eyebrow="Start here"
+      heading="The work, by category."
+      items={galleryItems}
+    />
+  )}
+
   <!-- 3. FEATURED STORY -->
   {featured && (
     <section class="section bg-surface border-t border-body-line">
       <div class="container-page">
         <div data-reveal class="mb-12 lg:mb-16 max-w-2xl">
-          <p class="text-xs font-medium uppercase tracking-[0.18em] text-primary-600">Featured</p>
-          <h2 class="mt-3 font-display text-2xl sm:text-3xl lg:text-4xl font-semibold tracking-display text-ink leading-[1.1]">
+          <p class="eyebrow text-primary-600">Featured</p>
+          <h2 class="mt-3 t-h2 text-ink">
             This week's deep dive.
           </h2>
         </div>
@@ -155,8 +202,8 @@ const siteJsonLd = {
       <div class="container-page">
         <div data-reveal class="flex items-end justify-between mb-10 lg:mb-14 flex-wrap gap-4">
           <div>
-            <p class="text-xs font-medium uppercase tracking-[0.18em] text-primary-600">Currently tracking</p>
-            <h2 class="mt-3 font-display text-2xl sm:text-3xl lg:text-4xl font-semibold tracking-display text-ink leading-[1.1] max-w-2xl">
+            <p class="eyebrow text-primary-600">Currently tracking</p>
+            <h2 class="mt-3 t-h2 text-ink max-w-2xl">
               What we're watching.
             </h2>
           </div>
@@ -202,8 +249,8 @@ const siteJsonLd = {
     <section class="section bg-surface">
       <div class="container-page">
         <div data-reveal class="mb-10 lg:mb-14 max-w-2xl">
-          <p class="text-xs font-medium uppercase tracking-[0.18em] text-primary-600">From the field</p>
-          <h2 class="mt-3 font-display text-2xl sm:text-3xl lg:text-4xl font-semibold tracking-display text-ink leading-[1.1]">
+          <p class="eyebrow text-primary-600">From the field</p>
+          <h2 class="mt-3 t-h2 text-ink">
             Newer dispatches.
           </h2>
         </div>
@@ -245,14 +292,21 @@ const siteJsonLd = {
     items={news}
   />
 
+  <!-- 9b. METHODOLOGY — expand cards -->
+  <ExpandCards
+    eyebrow="How we test"
+    heading="Three questions behind every review."
+    items={methodCards}
+  />
+
   <!-- 10. STANDARDS TEASER -->
   <StandardsTeaser />
 
   <!-- 11. NEWSLETTER -->
   <section class="section bg-surface-alt">
     <div data-reveal class="container-page max-w-3xl text-center mx-auto">
-      <p class="text-xs font-medium uppercase tracking-[0.18em] text-primary-600">Brief</p>
-      <h2 class="mt-3 font-display text-2xl sm:text-3xl lg:text-4xl font-semibold tracking-display text-ink leading-[1.1]">
+      <p class="eyebrow text-primary-600">Brief</p>
+      <h2 class="mt-3 t-h2 text-ink">
         One brief, every week.
       </h2>
       <p class="mt-4 text-base text-body-muted max-w-xl mx-auto">
