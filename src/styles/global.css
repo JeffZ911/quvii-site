@@ -170,20 +170,6 @@
   .section-fluid { padding-block: clamp(4.5rem, 8vw, 7.5rem); }
   .head-gap { margin-bottom: clamp(2.25rem, 4vw, 3.25rem); }
 
-  /* ── Floating island nav: appear-after-hero (Sunaofe pattern) ── */
-  /* The pill starts hidden above the viewport and slides in once the page
-     has scrolled past the hero (#qv-island.show toggled by JS). */
-  #qv-island {
-    transform: translateX(-50%) translateY(-180%);
-    opacity: 0;
-    transition: transform 0.55s theme('transitionTimingFunction.apple'),
-                opacity 0.45s theme('transitionTimingFunction.apple');
-  }
-  #qv-island.show {
-    transform: translateX(-50%) translateY(0);
-    opacity: 1;
-  }
-
   /* ── Horizontal snap gallery (scene-card pattern) ── */
   .h-scroll {
     @apply flex gap-5 sm:gap-6 overflow-x-auto pb-3;

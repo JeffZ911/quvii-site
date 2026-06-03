@@ -1,84 +1,145 @@
 ---
-// Floating island nav (Sunaofe "appear-after-hero" pattern). The main
-// header sits at the very top; once the page scrolls past the hero, the
-// main nav fades out and this compact pill slides in — brand + quick links
-// + a persistent "Latest" CTA. One nav visible at a time, never both.
+// Quvii's single floating island nav (Sunaofe/Apple pattern). Replaces the
+// old always-on header pill — there is now exactly ONE floating island.
+//   • Desktop: a wide light-glass pill, always present, full nav + Latest CTA.
+//     Gains a touch more elevation once the page scrolls (.is-scrolled).
+//   • Mobile: a compact pill (brand + hamburger) → full-screen menu.
 interface NavItem { href: string; label: string }
 const nav: NavItem[] = [
   { href: "/reviews/", label: "Reviews" },
   { href: "/learn/",   label: "Guides"  },
   { href: "/blog/",    label: "Insights" },
+  { href: "/news/",    label: "News"    },
+  { href: "/about/",   label: "About"   },
 ];
 ---
 
-<div
-  id="qv-island"
-  class="fixed top-3.5 left-1/2 z-50 hidden lg:flex items-center justify-between gap-6 w-[min(960px,calc(100%-1.5rem))] rounded-full pl-6 pr-2 h-14 pointer-events-none"
-  aria-hidden="true"
->
-  <a href="/" class="island-brand pointer-events-auto flex items-center no-underline" aria-label="Quvii — home">
-    <img src="/brand/wordmark-ink.png" alt="Quvii" width="901" height="233" class="h-[17px] w-auto" />
-  </a>
-  <ul class="island-links pointer-events-auto flex items-center gap-7 list-none m-0 p-0">
-    {nav.map((item) => (
-      <li>
-        <a href={item.href}
-           class="text-sm font-medium text-body-muted hover:text-ink transition-colors duration-200 ease-apple no-underline">
-          {item.label}
-        </a>
-      </li>
+<div id="qv-island" class="fixed top-3.5 inset-x-0 z-50 px-3 pointer-events-none">
+  <nav class="qv-island-pill pointer-events-auto mx-auto flex items-center justify-between gap-5 w-[min(980px,100%)] rounded-full pl-6 pr-2.5 h-14">
+    <a href="/" class="flex items-center no-underline shrink-0" aria-label="Quvii — home">
+      <img src="/brand/wordmark-ink.png" alt="Quvii" width="901" height="233" class="h-[17px] w-auto" />
+    </a>
+
+    <ul class="hidden lg:flex items-center gap-7 list-none m-0 p-0">
+      {nav.map((item) => (
+        <li>
+          <a href={item.href}
+             class="text-sm font-medium text-body-muted hover:text-ink transition-colors duration-200 ease-apple no-underline">
+            {item.label}
+          </a>
+        </li>
+      ))}
+    </ul>
+
+    <div class="flex items-center gap-2">
+      <a href="/blog/"
+         class="hidden sm:inline-flex items-center gap-1.5 rounded-full bg-ink text-white pl-5 pr-4 py-2.5 text-sm font-semibold no-underline transition-transform duration-200 ease-apple hover:-translate-y-px">
+        Latest <span aria-hidden="true">›</span>
+      </a>
+      <button id="qv-burger" type="button" aria-label="Open menu"
+        aria-controls="qv-mobile-menu" aria-expanded="false"
+        class="lg:hidden relative inline-flex h-10 w-10 items-center justify-center rounded-full text-ink">
+        <span class="qv-line qv-line-1 absolute h-[1.5px] w-4 rounded bg-current transition-all duration-300 ease-apple"></span>
+        <span class="qv-line qv-line-2 absolute h-[1.5px] w-4 rounded bg-current transition-all duration-300 ease-apple"></span>
+      </button>
+    </div>
+  </nav>
+</div>
+
+<!-- Full-screen mobile menu -->
+<div id="qv-mobile-menu" class="fixed inset-0 z-[60] hidden bg-ink/95 backdrop-blur-3xl text-white"
+     role="dialog" aria-modal="true" aria-label="Site menu">
+  <div class="container-wide flex items-center justify-between h-20">
+    <a href="/" class="flex items-center no-underline" aria-label="Quvii — home">
+      <img src="/brand/wordmark-white.png" alt="Quvii" width="901" height="233" class="h-5 w-auto" />
+    </a>
+    <button id="qv-mobile-close" type="button" aria-label="Close menu"
+      class="inline-flex h-10 w-10 items-center justify-center rounded-full text-white hover:bg-white/10 transition-colors">
+      <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+        <line x1="6" y1="6" x2="18" y2="18" /><line x1="6" y1="18" x2="18" y2="6" />
+      </svg>
+    </button>
+  </div>
+  <nav class="container-wide mt-6 flex flex-col">
+    {nav.map((item, i) => (
+      <a href={item.href}
+         class="qv-m-link block py-4 t-h3 text-white no-underline border-b border-white/10 hover:text-primary-300 transition-colors duration-300 ease-apple"
+         style={`--m-delay:${80 + i * 60}ms`}>
+        {item.label}
+      </a>
     ))}
-  </ul>
-  <a href="/blog/"
-     class="island-cta pointer-events-auto inline-flex items-center gap-1.5 rounded-full bg-ink text-white pl-5 pr-4 py-2.5 text-sm font-semibold no-underline transition-transform duration-200 ease-apple hover:-translate-y-px">
-    Latest <span aria-hidden="true">›</span>
-  </a>
+  </nav>
+  <div class="container-wide mt-10">
+    <a href="/blog/" class="inline-flex items-center gap-2 rounded-full bg-white text-ink pl-6 pr-5 py-3 text-sm font-semibold no-underline">
+      Latest field reports <span aria-hidden="true">›</span>
+    </a>
+  </div>
 </div>
 
 <style>
-  /* Light-glass pill, matches the header's island language. */
-  #qv-island {
-    background: rgba(251,251,253,0.78);
+  .qv-island-pill {
+    background: rgba(251,251,253,0.82);
     backdrop-filter: saturate(180%) blur(22px);
     -webkit-backdrop-filter: saturate(180%) blur(22px);
-    box-shadow: inset 0 0 0 1px rgba(16,24,40,0.07),
-                0 10px 34px rgba(16,24,40,0.10), 0 2px 8px rgba(16,24,40,0.05);
+    box-shadow: inset 0 0 0 1px rgba(16,24,40,0.06),
+                0 6px 22px rgba(16,24,40,0.07), 0 2px 6px rgba(16,24,40,0.04);
+    transition: box-shadow .5s cubic-bezier(.28,.11,.32,1),
+                background-color .5s cubic-bezier(.28,.11,.32,1);
   }
-  /* When the island is shown, fade the main header pill out. */
-  #qv-nav.island-active .qv-pill {
-    opacity: 0;
-    transform: translateY(-12px);
-    pointer-events: none;
+  #qv-island.is-scrolled .qv-island-pill {
+    background: rgba(251,251,253,0.9);
+    box-shadow: inset 0 0 0 1px rgba(16,24,40,0.08),
+                0 12px 34px rgba(16,24,40,0.12), 0 2px 8px rgba(16,24,40,0.05);
   }
-  #qv-nav .qv-pill {
-    transition: opacity .4s cubic-bezier(.28,.11,.32,1),
-                transform .4s cubic-bezier(.28,.11,.32,1),
-                background-color .5s, box-shadow .5s, color .5s;
+  /* Hamburger lines morph to an X on open. */
+  .qv-line-1 { transform: translateY(-3px); }
+  .qv-line-2 { transform: translateY(3px); }
+  #qv-burger[aria-expanded="true"] .qv-line-1 { transform: rotate(45deg); }
+  #qv-burger[aria-expanded="true"] .qv-line-2 { transform: rotate(-45deg); }
+  /* Mobile menu link stagger. */
+  #qv-mobile-menu .qv-m-link { opacity:0; transform:translateY(1.5rem);
+    transition: opacity .5s cubic-bezier(.28,.11,.32,1), transform .5s cubic-bezier(.28,.11,.32,1); }
+  #qv-mobile-menu.is-open .qv-m-link { opacity:1; transform:translateY(0);
+    transition-delay: var(--m-delay,0ms); }
+  @media (prefers-reduced-motion: reduce) {
+    #qv-mobile-menu .qv-m-link { opacity:1; transform:none; transition:none; }
   }
 </style>
 
 <script is:inline>
   (function () {
     var island = document.getElementById("qv-island");
-    var mainNav = document.getElementById("qv-nav");
-    if (!island) return;
-    // Threshold = ~62% of the first section / hero, falls back to 520px.
-    var hero = document.querySelector("section");
-    function threshold() { return hero ? hero.offsetHeight * 0.62 : 520; }
-    var shown = false, ticking = false;
-    function check() {
-      ticking = false;
-      var past = window.scrollY > threshold();
-      if (past === shown) return;
-      shown = past;
-      island.classList.toggle("show", past);
-      island.setAttribute("aria-hidden", String(!past));
-      if (mainNav) mainNav.classList.toggle("island-active", past);
+    if (island) {
+      var onScroll = function () {
+        island.classList.toggle("is-scrolled", window.scrollY > 24);
+      };
+      window.addEventListener("scroll", onScroll, { passive: true });
+      onScroll();
     }
-    window.addEventListener("scroll", function () {
-      if (!ticking) { ticking = true; requestAnimationFrame(check); }
-    }, { passive: true });
-    window.addEventListener("resize", check);
-    check();
+    var menu = document.getElementById("qv-mobile-menu");
+    var openBtn = document.getElementById("qv-burger");
+    var closeBtn = document.getElementById("qv-mobile-close");
+    function open() {
+      menu.classList.remove("hidden");
+      requestAnimationFrame(function () { menu.classList.add("is-open"); });
+      document.body.style.overflow = "hidden";
+      openBtn.setAttribute("aria-expanded", "true");
+    }
+    function close() {
+      menu.classList.remove("is-open");
+      openBtn.setAttribute("aria-expanded", "false");
+      document.body.style.overflow = "";
+      setTimeout(function () { menu.classList.add("hidden"); }, 250);
+    }
+    if (openBtn) openBtn.addEventListener("click", function () {
+      menu.classList.contains("is-open") ? close() : open();
+    });
+    if (closeBtn) closeBtn.addEventListener("click", close);
+    document.addEventListener("keydown", function (e) {
+      if (e.key === "Escape" && menu && menu.classList.contains("is-open")) close();
+    });
+    if (menu) menu.addEventListener("click", function (e) {
+      if (e.target && e.target.tagName === "A") close();
+    });
   })();
 </script>

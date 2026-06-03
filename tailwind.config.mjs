@@ -48,17 +48,16 @@ export default {
         mist: "#fafafa",        // card inner-core surface (Double-Bezel)
       },
       fontFamily: {
-        // QUVII brand type (brand kit): Space Grotesk (display) + Manrope
-        // (text). Inter is BANNED.
+        // Apple-aligned system type (2026-06-03): SF Pro on Apple devices,
+        // Manrope as the cross-platform fallback so non-Apple users still get
+        // a clean modern sans. Matches the Sunaofe reference stack.
         sans: [
-          '"Manrope"',
-          "ui-sans-serif", "system-ui", "-apple-system", "BlinkMacSystemFont",
-          '"Segoe UI"', '"Helvetica Neue"', "sans-serif",
+          "-apple-system", "BlinkMacSystemFont", '"SF Pro Text"',
+          '"Helvetica Neue"', '"Manrope"', "Helvetica", "Arial", "sans-serif",
         ],
         display: [
-          '"Space Grotesk"', '"Manrope"',
-          "ui-sans-serif", "system-ui", "-apple-system", "BlinkMacSystemFont",
-          "sans-serif",
+          "-apple-system", "BlinkMacSystemFont", '"SF Pro Display"',
+          '"Helvetica Neue"', '"Manrope"', "Helvetica", "Arial", "sans-serif",
         ],
         mono: ["JetBrains Mono", "ui-monospace", "Menlo", "monospace"],
       },
