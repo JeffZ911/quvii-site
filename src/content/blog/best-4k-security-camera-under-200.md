@@ -156,5 +156,5 @@ As the market continues to evolve, Quvii tracks these trade-offs across the cate
 - TP-Link — <a href="https://www.amazon.com/s?k=Tapo+C465+Product+Page+and+AI+Features&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Tapo C465 Product Page and AI Features</a>
 - Lorex — 4K Spotlight Wi-Fi Camera (W482CAD) Support
 - RTINGS — Security Camera Resolution and PPI Benchmarks
-- TP-Link — Benefits of Wi-Fi 6 for Smart Home Devices
+- TP-Link — Benefits of Wi-Fi 6 for [Smart Home](https://quvii.com/blog/smart-home-security-privacy-trends-2026) Devices
 - Reddit — [r/HomeSecurity: Community Consensus on 4K Standalone Cameras](https://www.reddit.com/r/homesecurity/)
