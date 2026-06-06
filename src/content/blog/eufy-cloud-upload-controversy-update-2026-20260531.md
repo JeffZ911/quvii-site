@@ -150,7 +150,7 @@ While Eufy has a higher upfront cost for hardware, the lack of a subscription ma
 
 *Pricing based on standard market bands as of May 2026. Arlo and Ring costs include the required "Secure" or "Protect" plans to enable cloud recording/smart features.*
 
-The Eufy controversy has served as a wake-up call for the smart home industry. While the brand has made significant strides in technical security and transparency since 2022, the 2026 federal scrutiny suggests that the conversation around "where your data goes" is far from over. Quvii tracks these trade-offs across the category to help buyers navigate the line between convenience and true privacy.
+The Eufy controversy has served as a wake-up call for the [smart home](https://quvii.com/blog/smart-home-security-privacy-trends-2026) industry. While the brand has made significant strides in technical security and transparency since 2022, the 2026 federal scrutiny suggests that the conversation around "where your data goes" is far from over. Quvii tracks these trade-offs across the category to help buyers navigate the line between convenience and true privacy.
 
 ## Sources
 

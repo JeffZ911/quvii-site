@@ -147,7 +147,7 @@ By selecting a local-first system in 2026, you are not just saving money; you ar
 - <a href="https://www.amazon.com/s?k=Eufy+Security+%E2%80%94+Video+Doorbell+E340+Product+Page&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Eufy Security — Video Doorbell E340 Product Page</a>
 - <a href="https://www.amazon.com/s?k=Reolink+%E2%80%94+Video+Doorbell+PoE+Specs+and+NVR+Compatibility&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Reolink — Video Doorbell PoE Specs and NVR Compatibility</a>
 - Aqara — Smart Video Doorbell G4 Support and Firmware
-- The Verge — The Rising Cost of Home Security Subscriptions
+- The Verge — The Rising Cost of [Home Security](https://quvii.com/blog/smart-home-security-privacy-trends-2026) Subscriptions
 - RTINGS — Security Camera Latency and Performance Testing
 - Ubiquiti — UniFi Protect G4 Doorbell Pro Technical Specifications
 - [Reddit r/HomeSecurity — Community Wiki on Local Storage Options](https://www.reddit.com/r/homesecurity/wiki/index)
