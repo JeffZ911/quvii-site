@@ -13,7 +13,7 @@ game: multi
 affiliate: true
 ---
 
-For apartment dwellers in 2026, the value of a security camera has shifted from a luxury "smart home" add-on to a critical tool for documenting landlord disputes, package deliveries, and unauthorized maintenance entries.
+For apartment dwellers in 2026, the value of a security camera has shifted from a luxury "[smart home](https://quvii.com/blog/smart-home-security-privacy-trends-2026)" add-on to a critical tool for documenting landlord disputes, package deliveries, and unauthorized maintenance entries.
 
 # Are Security Cameras Worth It for Apartments? A 2026 Cost-Benefit Analysis
 

@@ -61,7 +61,7 @@ The following table compares the primary smart displays used for security monito
 
 ## Step-by-step installation
 
-The setup process involves bridging the gap between your camera's cloud server and Amazon's smart home API. In 2026, this is primarily done through "Skills" or the newer Matter 1.5 local standard.
+The setup process involves bridging the gap between your camera's cloud server and Amazon's [smart home](https://quvii.com/blog/smart-home-security-privacy-trends-2026) API. In 2026, this is primarily done through "Skills" or the newer Matter 1.5 local standard.
 
 ### Linking the Manufacturer Skill
 

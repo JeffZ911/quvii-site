@@ -37,7 +37,7 @@ The convenience of a wire-free security system vanishes the moment you find your
 
 ![What it means](/img/arlo-camera-battery-draining-fast/inline-1.webp)
 
-In the context of 2026 home security standards, "fast" battery drain is defined as any performance that falls significantly short of the manufacturer's operational window. Arlo typically advertises a 6-month battery life based on an average of 4,000 seconds of motion recording per year (roughly 5 minutes of video per day). If your camera requires a charge every 1–2 weeks, it is experiencing a critical drain.
+In the context of 2026 [home security](https://quvii.com/blog/smart-home-security-privacy-trends-2026) standards, "fast" battery drain is defined as any performance that falls significantly short of the manufacturer's operational window. Arlo typically advertises a 6-month battery life based on an average of 4,000 seconds of motion recording per year (roughly 5 minutes of video per day). If your camera requires a charge every 1–2 weeks, it is experiencing a critical drain.
 
 ### Symptoms of critical drain
 *   **The 10% Daily Drop:** A healthy Arlo camera in a low-traffic area should lose less than 1% per day. Seeing a double-digit drop daily indicates the camera is failing to enter "Deep Sleep" mode.
