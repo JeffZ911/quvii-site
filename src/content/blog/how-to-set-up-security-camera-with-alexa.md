@@ -46,7 +46,7 @@ Before beginning the installation, ensure you have the correct hardware to suppo
 *   **A compatible security camera:** Brands such as Reolink, Eufy, or undisclosed offer local storage options that minimize monthly fees.
 *   **Manufacturer’s Smartphone App:** You must have your camera fully configured and viewing live video in its native app (e.g., the Eufy Security or Reolink app) before attempting the Alexa link.
 *   **High-Speed Network:** A <a href="https://www.amazon.com/s?k=Wi-Fi+6+or+6E&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Wi-Fi 6 or 6E</a> connection is essential for streaming 4K video without significant latency.
-*   **Alexa App with Alexa+:** Ensure your Amazon Alexa app is updated to the latest version to access <a href="https://www.amazon.com/s?k=Alexa%2B+%28Alexa+Plus%29&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Alexa+ (Alexa Plus)</a>, which offers more conversational control over your smart home devices.
+*   **Alexa App with Alexa+:** Ensure your Amazon Alexa app is updated to the latest version to access <a href="https://www.amazon.com/s?k=Alexa%2B+%28Alexa+Plus%29&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Alexa+ (Alexa Plus)</a>, which offers more conversational control over your [smart home](https://quvii.com/blog/smart-home-security-privacy-trends-2026) devices.
 
 ### 2026 Echo Show Comparison Table
 
