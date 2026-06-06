@@ -113,7 +113,7 @@ If you live in an apartment or a managed community, you likely cannot drill hole
 
 ## Connecting to your home network
 
-A camera is only as good as its connection. In 2026, the transition to [Wi-Fi 6 and 6E](https://en.wikipedia.org/wiki/Wi-Fi_6) has changed how we manage smart home devices.
+A camera is only as good as its connection. In 2026, the transition to [Wi-Fi 6 and 6E](https://en.wikipedia.org/wiki/Wi-Fi_6) has changed how we manage [smart home](https://quvii.com/blog/smart-home-security-privacy-trends-2026) devices.
 
 ### Optimizing for Wi-Fi 6 and 6E
 While 5GHz and 6GHz bands offer incredible speeds, they have shorter range and struggle to penetrate thick exterior walls. For outdoor cameras, the 2.4GHz band remains the most reliable choice due to its superior range. If your router supports it, create a dedicated IoT (Internet of Things) SSID specifically for your cameras. This keeps your high-speed 6GHz band open for gaming and streaming while ensuring the cameras have a clear path on the 2.4GHz band.

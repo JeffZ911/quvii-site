@@ -32,7 +32,7 @@ inline_image_sections:
   - "Connecting to your home network"
 ---
 
-Integrating your home security system with Amazon’s ecosystem has evolved significantly with the arrival of AI-driven displays and standardized communication protocols.
+Integrating your [home security](https://quvii.com/blog/smart-home-security-privacy-trends-2026) system with Amazon’s ecosystem has evolved significantly with the arrival of AI-driven displays and standardized communication protocols.
 
 # How to Set Up a Security Camera with Alexa: The Complete 2026 Guide
 
@@ -40,7 +40,7 @@ To connect your camera, enable the manufacturer's Skill in the Alexa app, link y
 
 ## What you'll need
 
-Before beginning the installation, ensure you have the correct hardware to support high-fidelity video streaming. The 2026 smart home landscape relies heavily on <a href="https://www.amazon.com/s?k=Wi-Fi+6E&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Wi-Fi 6E</a> and the AZ3 Pro chip for processing the conversational AI features of Alexa+.
+Before beginning the installation, ensure you have the correct hardware to support high-fidelity video streaming. The 2026 [smart home](https://quvii.com/blog/smart-home-security-privacy-trends-2026) landscape relies heavily on <a href="https://www.amazon.com/s?k=Wi-Fi+6E&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Wi-Fi 6E</a> and the AZ3 Pro chip for processing the conversational AI features of Alexa+.
 
 *   **An Alexa-enabled display:** Current flagship models like the <a href="https://www.amazon.com/s?k=Echo+Show+21&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Echo Show 21</a> or the Echo Show 11 are recommended for their superior resolution and spatial audio capabilities.
 *   **A compatible security camera:** Brands such as Reolink, Eufy, or undisclosed offer local storage options that minimize monthly fees.

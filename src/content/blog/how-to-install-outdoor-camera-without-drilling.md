@@ -23,7 +23,7 @@ inline_image_sections:
   - "What to do now"
 ---
 
-Home security no longer requires a power drill or a permanent commitment to your home's exterior siding.
+[Home security](https://quvii.com/blog/smart-home-security-privacy-trends-2026) no longer requires a power drill or a permanent commitment to your home's exterior siding.
 
 # How to Install Outdoor Security Cameras Without Drilling: The 2026 Guide
 
