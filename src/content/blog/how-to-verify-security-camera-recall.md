@@ -29,14 +29,14 @@ Ensuring your home security system is a source of protection rather than a hazar
 > 📝 **Editorial Note:** This guide is AI-assisted and game data evolves rapidly. Please cross-reference with in-game information. _Updated: 2026-06-06._
 
 
-**Quick Answer:** To verify if your camera is recalled, search the CPSC.gov recall database using your device’s model and serial number. As of June 2026, Wyze has issued a major recall (Recall #26-524) for approximately 321,000 Solar Cam Pan units (Model WYZESCPWH) due to a fire hazard caused by incorrect assembly instructions that may lead to battery punctures.
+**Quick Answer:** To verify if your camera is recalled, search the CPSC.gov recall database using your device’s model and serial number. As of June 2026, Wyze has issued a major recall (Recall #26-524) for approximately 321,000 [Solar Cam Pan](https://quvii.com/blog/wyze-solar-cam-pan-recall-fire-hazard) units (Model WYZESCPWH) due to a [fire hazard](https://quvii.com/blog/wyze-solar-cam-pan-recall-fire-hazard) caused by incorrect assembly instructions that may lead to battery punctures.
 
 ## What happened
 
 ![What happened](/img/how-to-verify-security-camera-recall/inline-1.webp)
 
 
-On June 4, 2026, the Consumer Product Safety Commission (CPSC) announced a significant voluntary recall involving one of the most popular solar-powered outdoor cameras on the market. The recall, designated as #26-524, centers on the Wyze Solar Cam Pan, a device marketed for its "set-and-forget" wireless installation.
+On June 4, 2026, the Consumer Product Safety Commission (CPSC) announced a significant voluntary recall involving one of the most popular solar-powered outdoor cameras on the market. The recall, designated as #26-524, centers on the [Wyze Solar Cam](https://quvii.com/blog/wyze-solar-cam-pan-recall-fire-hazard) Pan, a device marketed for its "set-and-forget" wireless installation.
 
 The recall affects approximately 321,360 units sold in the United States and an additional 2,560 units sold in Canada. These cameras were primarily distributed through major online retailers and big-box stores between October 2025 and April 2026. According to the CPSC announcement, the hazard stems from a documentation error: the included printed instructions directed users to use a long, flat-head wood screw to secure the solar panel mount to the camera body in a way that can inadvertently puncture the internal lithium-ion battery.
 
@@ -51,7 +51,7 @@ This 2026 Wyze event mirrors the <a href="https://www.amazon.com/s?k=2020+Ring+V
 ### Digital 'Recalls': When Firmware is the Fix
 It is important to distinguish between a CPSC-mandated hardware recall and a "security recall" or vulnerability patch. In 2024 and 2025, several brands issued urgent firmware updates to patch "zero-day" exploits that allowed unauthorized remote viewing. While the media often calls these "recalls," they do not usually require returning the hardware. If your camera has a software flaw, the fix is a digital update; if it has a hardware recall like the current Wyze situation, the device must typically be decommissioned or physically modified.
 
-| Feature | Wyze Solar Cam Pan (Recalled) | Reolink Argus 4 Pro | Arlo Pro 5S 2K |
+| Feature | [Wyze Solar](https://quvii.com/blog/wyze-solar-cam-pan-recall-fire-hazard) [Cam Pan](https://quvii.com/blog/wyze-solar-cam-pan-recall-fire-hazard) (Recalled) | Reolink Argus 4 Pro | Arlo Pro 5S 2K |
 | :--- | :--- | :--- | :--- |
 | **Model Number** | WYZESCPWH | Argus 4 Pro | VMC4060A |
 | **Power Type** | Solar/Battery (Internal) | Solar/Battery (Removable) | Battery (Removable) |
@@ -68,7 +68,7 @@ It is important to distinguish between a CPSC-mandated hardware recall and a "se
 When a security camera is recalled, the implications extend beyond a simple product exchange. For homeowners and small business owners, a recalled device is a liability that compromises the very safety the camera was intended to provide.
 
 ### Safety Risks of Lithium-Ion Punctures
-Lithium-ion batteries store a significant amount of energy in a small space. When the internal structure is punctured—as is the case with the Wyze Solar Cam Pan—the positive and negative electrodes touch, creating a short circuit. This generates intense heat that cannot be extinguished by standard means. For a camera mounted on a wooden soffit or near vinyl siding, a battery fire can transition to a structure fire in minutes.
+Lithium-ion batteries store a significant amount of energy in a small space. When the internal structure is punctured—as is the case with the Wyze [Solar Cam](https://quvii.com/blog/wyze-solar-cam-pan-recall-fire-hazard) Pan—the positive and negative electrodes touch, creating a short circuit. This generates intense heat that cannot be extinguished by standard means. For a camera mounted on a wooden soffit or near vinyl siding, a battery fire can transition to a structure fire in minutes.
 
 ### The 'Grey Market' Problem: Buying Used Cameras in 2026
 One of the greatest risks to consumers in 2026 is the secondary market. When a major recall occurs, many owners choose to sell their units on platforms like eBay, Facebook Marketplace, or Mercari rather than going through the official refund process. These "grey market" units are often sold at "too good to be true" prices (e.g., $30 for a $100 camera). 
@@ -122,7 +122,7 @@ If you have confirmed your camera is part of a recall, follow these steps immedi
 Do not rely solely on news headlines. Visit the CPSC Recalls page and search for your brand (e.g., "Wyze", "Ring", "Arlo"). The CPSC provides the official "Recall Number," the exact number of units affected, and the specific remedy the manufacturer is legally required to provide.
 
 ### Step 2: Contacting the Manufacturer for Your Remedy
-For the Wyze Solar Cam Pan recall, the manufacturer has established a dedicated portal at `wyze.com/SCPrecall` [fictional 2026 link for context]. You will be asked to:
+For the Wyze Solar [Cam Pan recall](https://quvii.com/blog/wyze-solar-cam-pan-recall-fire-hazard), the manufacturer has established a dedicated portal at `wyze.com/SCPrecall` [fictional 2026 link for context]. You will be asked to:
 1.  Enter your Serial Number.
 2.  Upload a photo of the camera with the power cable cut (to ensure the defective unit is not resold).
 3.  Choose your remedy: Wyze is currently offering a **free replacement unit** (the updated Model WYZESCPWH-V2), a **full refund** in the original form of payment, or a **$100 gift card** to their web store.

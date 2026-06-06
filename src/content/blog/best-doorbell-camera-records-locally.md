@@ -34,7 +34,7 @@ For 2026, the Reolink Video Doorbell (PoE) and Eufy E340 are the top picks for l
 ![What happened](/img/best-doorbell-camera-records-locally/inline-1.webp)
 
 
-The landscape of home security shifted drastically between 2024 and 2026. What was once a market dominated by "cloud-first" giants like Ring and Nest has fractured, driven by consumer exhaustion over rising monthly costs and high-profile privacy concerns.
+The landscape of [home security](https://quvii.com/blog/smart-home-security-privacy-trends-2026) shifted drastically between 2024 and 2026. What was once a market dominated by "cloud-first" giants like Ring and Nest has fractured, driven by consumer exhaustion over rising monthly costs and high-profile privacy concerns.
 
 ### The 2025-2026 Subscription Price Hikes
 In what industry analysts have dubbed the "Great Subscription Migration," major incumbents implemented record-high price increases. Ring, following its 2024 price adjustments, raised its basic tier again in late 2025. Similarly, Google Nest Aware and Arlo Secure plans have seen compounding increases, with some multi-camera professional plans now reaching the $200/year threshold. For many users, the cost of the subscription over three years now exceeds the original price of the hardware itself.

@@ -56,7 +56,7 @@ The primary technical benefit of PoE is the simplification of the physical layer
 ### PoE vs. PoE+: Which does your 4K camera need?
 In 2026, most "standard" 4K and 12MP turret cameras operate comfortably within the 15.4W limit of 802.3af. However, as manufacturers like <a href="https://www.amazon.com/s?k=Reolink&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Reolink</a> and <a href="https://www.amazon.com/s?k=Lorex&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Lorex</a> integrate more powerful onboard AI processors and dual-lens arrays, the power draw is creeping upward. If your system includes "Active Deterrence" features—such as 1,000-lumen spotlights or 100dB sirens—you should prioritize an NVR or switch that supports the **802.3at (PoE+)** standard. Using an underpowered port can lead to "reboot loops" where the camera functions during the day but crashes the moment the power-hungry Infrared (IR) LEDs or spotlights activate at night.
 
-*Note: Always verify if your equipment uses "Active PoE" (standardized) or "Passive PoE." Active PoE performs a "handshake" to verify power needs, whereas Passive PoE sends raw voltage down the line, which can permanently damage non-PoE devices if plugged in accidentally.*
+*Note: Always [verify if](https://quvii.com/blog/how-to-verify-security-camera-recall) your equipment uses "Active PoE" (standardized) or "Passive PoE." Active PoE performs a "handshake" to verify power needs, whereas Passive PoE sends raw voltage down the line, which can permanently damage non-PoE devices if plugged in accidentally.*
 
 ## Why it exists
 

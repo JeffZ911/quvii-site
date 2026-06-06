@@ -53,7 +53,7 @@ In 2026, the "out of the box" experience for both cameras is significantly more 
 | **Motion Detection** | Pixel-based AI | 3D Motion Detection (Radar) |
 | **Battery Life** | Up to 8 Months | Up to 6 Months |
 | **Charging Port** | USB-C | USB-C |
-| **Smart Home** | HomeKit, Alexa, Google | Alexa (Native), Google (Limited) |
+| **[Smart Home](https://quvii.com/blog/smart-home-security-privacy-trends-2026)** | HomeKit, Alexa, Google | Alexa (Native), Google (Limited) |
 | **MSRP Band** | $200 - $250 range | $150 - $200 range |
 
 ## Why it matters for buyers

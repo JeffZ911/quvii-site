@@ -133,7 +133,7 @@ For those who need reliable security under $100, the Tapo C425 is the current va
 ### The 2026 'No-Sub' Buying Checklist
 Before you purchase, ensure the camera meets these three "future-proofing" criteria
 1.  **High Endurance microSD Support:** Ensure the camera supports at least 256GB (ideally 512GB). For 24/7 recording, always buy "High Endurance" cards specifically designed for video surveillance (e.g., SanDisk Max Endurance or Samsung PRO Endurance).
-2.  **Matter 1.4/1.5 Certification:** Matter is the new universal smart home standard. Cameras with Matter 1.4+ support can stream video directly to Apple Home, Google Home, or Amazon Alexa hubs locally, without needing the manufacturer's cloud bridge.
+2.  **Matter 1.4/1.5 Certification:** Matter is the new universal [smart home](https://quvii.com/blog/smart-home-security-privacy-trends-2026) standard. Cameras with Matter 1.4+ support can stream video directly to Apple Home, Google Home, or Amazon Alexa hubs locally, without needing the manufacturer's cloud bridge.
 3.  **Local AI Detection:** Verify that "Person/Vehicle Detection" is listed as an "on-device" or "local" feature. If the box says "AI available with [Brand] Cloud," put it back on the shelf.
 
 ### How to Set Up a Local Storage Hub
