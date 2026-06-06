@@ -104,7 +104,7 @@ Wyze has moved many of its most popular features, such as "Friendly Face" recogn
 
 ![What to do now](/img/blink-vs-wyze-outdoor-camera-2026-comparison/inline-4.webp)
 
-Choosing between these systems depends on your tolerance for maintenance and your existing smart home ecosystem.
+Choosing between these systems depends on your tolerance for maintenance and your existing [smart home](https://quvii.com/blog/smart-home-security-privacy-trends-2026) ecosystem.
 
 ### D2: Decision Framework
 

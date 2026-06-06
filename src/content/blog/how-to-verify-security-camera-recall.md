@@ -91,11 +91,11 @@ When considering a replacement for a recalled camera, buyers must look at the 3-
 ![Impact on existing owners](/img/how-to-verify-security-camera-recall/inline-3.webp)
 
 
-If you currently own a Wyze Solar Cam Pan or any solar-integrated camera, immediate identification is your first priority. 
+If you currently own a [Wyze Solar Cam](https://quvii.com/blog/wyze-solar-cam-pan-recall-fire-hazard) Pan or any solar-integrated camera, immediate identification is your first priority. 
 
 ### How to Find Your Camera's Model and Serial Number
 Most manufacturers place the model and serial number (S/N) in one of three places:
-1.  **The Rear Housing:** Look for a silver or white sticker on the back of the camera. For the Wyze Solar Cam Pan, the model **WYZESCPWH** is printed just above the QR code.
+1.  **The Rear Housing:** Look for a silver or white sticker on the back of the camera. For the Wyze [Solar Cam Pan](https://quvii.com/blog/wyze-solar-cam-pan-recall-fire-hazard), the model **WYZESCPWH** is printed just above the QR code.
 2.  **The App Settings:** Open your camera's app (e.g., Wyze App > Settings > Device Info). This is the safest way to check if the camera is already mounted high up.
 3.  **The Original Box:** If you kept the packaging, the model and S/N are located on the barcode sticker.
 
@@ -122,7 +122,7 @@ If you have confirmed your camera is part of a recall, follow these steps immedi
 Do not rely solely on news headlines. Visit the CPSC Recalls page and search for your brand (e.g., "Wyze", "Ring", "Arlo"). The CPSC provides the official "Recall Number," the exact number of units affected, and the specific remedy the manufacturer is legally required to provide.
 
 ### Step 2: Contacting the Manufacturer for Your Remedy
-For the Wyze Solar [Cam Pan recall](https://quvii.com/blog/wyze-solar-cam-pan-recall-fire-hazard), the manufacturer has established a dedicated portal at `wyze.com/SCPrecall` [fictional 2026 link for context]. You will be asked to:
+For the [Wyze Solar](https://quvii.com/blog/wyze-solar-cam-pan-recall-fire-hazard) [Cam Pan recall](https://quvii.com/blog/wyze-solar-cam-pan-recall-fire-hazard), the manufacturer has established a dedicated portal at `wyze.com/SCPrecall` [fictional 2026 link for context]. You will be asked to:
 1.  Enter your Serial Number.
 2.  Upload a photo of the camera with the power cable cut (to ensure the defective unit is not resold).
 3.  Choose your remedy: Wyze is currently offering a **free replacement unit** (the updated Model WYZESCPWH-V2), a **full refund** in the original form of payment, or a **$100 gift card** to their web store.
