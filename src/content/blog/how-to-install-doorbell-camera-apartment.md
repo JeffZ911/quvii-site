@@ -23,7 +23,7 @@ inline_image_sections:
   - "What to do now"
 ---
 
-Installing a doorbell camera in a rental unit used to require a compromise between home security and keeping your security deposit. By 2026, the industry has shifted toward non-destructive hardware that allows tenants to secure their front door without drilling a single hole.
+Installing a doorbell camera in a rental unit used to require a compromise between [home security](https://quvii.com/blog/smart-home-security-privacy-trends-2026) and keeping your security deposit. By 2026, the industry has shifted toward non-destructive hardware that allows tenants to secure their front door without drilling a single hole.
 
 # How to Install a Doorbell Camera in an Apartment: The 2026 Renter’s Guide
 
@@ -50,7 +50,7 @@ Recent legal shifts in 2025 and early 2026 across several US states have clarifi
 | :--- | :--- | :--- | :--- |
 | **Primary Mount** | Adhesive or Screw-in | Steel Tension Brackets | Higher theft resistance; zero damage. |
 | **Connectivity** | 2.4GHz Wi-Fi | Dual-Band (5GHz/6GHz) | Stable video in dense buildings. |
-| **Smart Home** | Proprietary Apps | Matter 1.4 / Local Hubs | Cross-brand compatibility; no lag. |
+| **[Smart Home](https://quvii.com/blog/smart-home-security-privacy-trends-2026)** | Proprietary Apps | Matter 1.4 / Local Hubs | Cross-brand compatibility; no lag. |
 | **Storage** | Cloud-heavy | Local NVR / Hub-based | No monthly fees; higher privacy. |
 | **Removal Time** | 5–10 minutes | < 60 seconds | Easier for moving or inspections. |
 
