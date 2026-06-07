@@ -27,7 +27,7 @@ inline_image_sections:
   - "Further reading"
 ---
 
-While Wi-Fi cameras offer convenience, professional-grade home security relies on a physical connection to ensure that critical footage is never lost to signal interference or jammed frequencies. 
+While Wi-Fi cameras offer convenience, professional-grade [home security](https://quvii.com/blog/smart-home-security-privacy-trends-2026) relies on a physical connection to ensure that critical footage is never lost to signal interference or jammed frequencies. 
 
 # How to Install PoE Security Cameras: A Step-by-Step DIY Guide
 
