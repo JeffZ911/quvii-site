@@ -102,7 +102,7 @@ The safety of your camera is also tied to your home router. Older WPA2 protocols
 
 ### Matter and Thread: 2026 Security Standards
 
-In 2026, the **Matter** protocol has become a cornerstone of security. Matter-certified cameras use a "local-first" approach, allowing the camera to talk to your smart home hub (like a HomePod or SmartThings station) without necessarily sending data to a manufacturer's cloud. This reduces the "attack surface" by keeping video traffic within your home network.
+In 2026, the **Matter** protocol has become a cornerstone of security. Matter-certified cameras use a "local-first" approach, allowing the camera to talk to your [smart home](https://quvii.com/blog/smart-home-security-privacy-trends-2026) hub (like a HomePod or SmartThings station) without necessarily sending data to a manufacturer's cloud. This reduces the "attack surface" by keeping video traffic within your home network.
 
 [Placeholder: A technical infographic showing the difference between 'In-Transit Encryption' and 'End-to-End Encryption' using a padlock metaphor.]
 
