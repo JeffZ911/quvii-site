@@ -31,14 +31,14 @@ Navigating the return process for budget-friendly hardware often requires more d
 
 # How to Claim a Wyze Cam v4 Refund: A Step-by-Step Guide
 
-**Quick Answer:** For a full refund, return your Wyze Cam v4 within 30 days of purchase via the Wyze Returns Portal. Beyond 30 days, you must file a warranty claim for a replacement or store credit if the device is defective.
+**Quick Answer:** For a full refund, return your [Wyze Cam v4](https://quvii.com/blog/cpsc-recall-wyze-cam-v4-power-adapter-status) within 30 days of purchase via the Wyze Returns Portal. Beyond 30 days, you must file a warranty claim for a replacement or store credit if the device is defective.
 
 ## What it means
 
 ![What it means](/img/how-to-claim-wyze-cam-v4-refund/inline-1.webp)
 
 
-The path to a refund for a Wyze Cam v4 is governed by two distinct policies: the Standard Return Policy and the Limited Warranty. Understanding which one applies to your situation is the difference between receiving cash back on your credit card or receiving a refurbished replacement unit.
+The path to a refund for a Wyze [Cam v4](https://quvii.com/blog/cpsc-recall-wyze-cam-v4-power-adapter-status) is governed by two distinct policies: the Standard Return Policy and the Limited Warranty. Understanding which one applies to your situation is the difference between receiving cash back on your credit card or receiving a refurbished replacement unit.
 
 ### The 30-Day 'No-Hassle' Window
 If you purchased your Wyze Cam v4 directly from <a href="https://www.amazon.com/s?k=wyze.com&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">wyze.com</a>, you have a 30-day window from the delivery date to initiate a return for any reason. This is often referred to as a "satisfaction guarantee." To qualify, the camera must be in its original packaging with all included accessories ([power adapter](https://quvii.com/blog/cpsc-recall-wyze-cam-v4-power-adapter-status), mounting plate, and screws). According to Wyze’s [official return policy](https://support.wyze.com/hc/en-us/articles/360031201912-Return-Policy), shipping fees are generally non-refundable, and the customer is responsible for return shipping costs unless the unit is dead on arrival (DOA).
