@@ -27,7 +27,7 @@ inline_image_sections:
 
 # How to Install Outdoor Security Cameras Without Drilling: The 2026 Guide
 
-**Quick Answer:** In 2026, you can install outdoor cameras without drilling using industrial adhesive mounts (Wyze Cam v4), magnetic bases (Reolink Argus MagiCam), or tool-free gutter and vinyl siding clips from brands like Wasserstein. For those in strict HOAs, interior-mounted window cameras like the ShowMo WinEye (2026) eliminate exterior hardware entirely by recording through glass.
+**Quick Answer:** In 2026, you can install outdoor cameras without drilling using industrial adhesive mounts ([Wyze Cam v4](https://quvii.com/blog/cpsc-recall-wyze-cam-v4-power-adapter-status)), magnetic bases (Reolink Argus MagiCam), or tool-free gutter and vinyl siding clips from brands like Wasserstein. For those in strict HOAs, interior-mounted window cameras like the ShowMo WinEye (2026) eliminate exterior hardware entirely by recording through glass.
 
 ## What happened
 
@@ -42,7 +42,7 @@ The standard out-of-the-box experience has evolved. In 2026, opening a flagship 
 ### New 2026 Hardware: Reolink MagiCam and Eufy S4 Options
 Two major releases in mid-2026 have redefined the weight-bearing capacity of no-drill mounts. The Reolink Argus MagiCam, released in June 2026, introduced a high-strength magnetic adhesive plate system. This system uses a thin, weather-treated metal disc that adheres to the mounting surface; the camera then snaps onto the disc with a neodymium magnetic array capable of supporting up to 2.6 lbs—well above the weight of the camera itself.
 
-Similarly, the Wyze Cam v4 has standardized a mounting system that utilizes a metal plate backed by 3M VHB (Very High Bond) adhesive. This allows the camera to be "stuck" to almost any flat surface, while the magnetic base of the camera allows for easy removal for charging. For those who cannot mount anything to the exterior at all, the ShowMo WinEye (2026) launched as a specialized 4K interior-mounted window camera. It uses a proprietary suction and light-seal technology to sit flush against the inside of a window pane, eliminating the glare issues that previously plagued interior cameras looking out.
+Similarly, the Wyze [Cam v4](https://quvii.com/blog/cpsc-recall-wyze-cam-v4-power-adapter-status) has standardized a mounting system that utilizes a metal plate backed by 3M VHB (Very High Bond) adhesive. This allows the camera to be "stuck" to almost any flat surface, while the magnetic base of the camera allows for easy removal for charging. For those who cannot mount anything to the exterior at all, the ShowMo WinEye (2026) launched as a specialized 4K interior-mounted window camera. It uses a proprietary suction and light-seal technology to sit flush against the inside of a window pane, eliminating the glare issues that previously plagued interior cameras looking out.
 
 **Table 1: 2026 'In-the-Box' Mounting Hardware Comparison**
 

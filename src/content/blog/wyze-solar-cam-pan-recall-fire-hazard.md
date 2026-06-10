@@ -44,7 +44,7 @@ The root cause of the hazard is an instructional error in the "Quick Start Guide
 | :--- | :--- |
 | **Product Name** | Wyze Solar Cam Pan |
 | **Model Number** | WYZESCPWH |
-| **CPSC Recall Number** | 26-524 |
+| **[CPSC Recall](https://quvii.com/blog/cpsc-recall-wyze-cam-v4-power-adapter-status) Number** | 26-524 |
 | **Units Affected** | ~321,360 (US), ~2,560 (Canada) |
 | **Sale Dates** | October 2025 – April 2026 |
 | **Hazard Type** | Fire, Explosion, and Burn Hazard |
