@@ -133,7 +133,7 @@ For any adhesive-based installation, 2026 best practices require a two-step prep
 *   **If you are a Renter in an Apartment:** Prioritize the **ShowMo WinEye** or a window-suction mount. These are 100% internal and cannot be contested by a landlord.
 *   **If you have Vinyl Siding:** Use **Wasserstein Siding Clips**. They require zero tools and can be moved in seconds.
 *   **If you need a Solar Setup:** Look for the **Eufy S4** or **Reolink MagiCam** with integrated solar, paired with a gutter mount to maximize sun exposure.
-*   **If you are on a Budget:** The **Wyze Cam v4** with its included adhesive plate remains the most cost-effective entry point into no-drill security.
+*   **If you are on a Budget:** The **[Wyze Cam v4](https://quvii.com/blog/cpsc-recall-wyze-cam-v4-power-adapter-status)** with its included adhesive plate remains the most cost-effective entry point into no-drill security.
 
 ### Total Cost of Ownership (3-Year Analysis)
 When choosing a no-drill camera, the "sticker price" is often misleading. Some brands include the no-drill hardware but lock essential recording features behind a subscription paywall.
@@ -142,7 +142,7 @@ When choosing a no-drill camera, the "sticker price" is often misleading. Some b
 
 | Camera Model | Hardware Price Band | 3-Year Sub Cost (Estimated) | Mount Cost | Total 3-Year Cost |
 | :--- | :--- | :--- | :--- | :--- |
-| **Wyze Cam v4** | Under $50 | ~$120 (Cam Plus) | $0 (Included) | **~$170** |
+| **Wyze [Cam v4](https://quvii.com/blog/cpsc-recall-wyze-cam-v4-power-adapter-status)** | Under $50 | ~$120 (Cam Plus) | $0 (Included) | **~$170** |
 | **Eufy S4** | $150–$200 | $0 (Local Storage) | $0 (Included) | **~$180** |
 | **Ring Stick Up** | Around $100 | ~$150 (Protect) | ~$20 (Adhesive) | **~$270** |
 | **Reolink MagiCam** | $150–$200 | $0 (SD Card) | $0 (Included) | **~$175** |

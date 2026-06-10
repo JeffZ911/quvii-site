@@ -84,7 +84,7 @@ Existing owners are currently navigating a landscape where features that worked 
 
 ### The MicroSD Playback Bug
 
-A significant number of Cam v3 and Cam v4 owners report that the app closes instantly when they slide the timeline to view local footage from a microSD card. This is specifically linked to the "Smart Focus" UI overlay—a feature that zooms in on detected motion. In the v3.14 app, the code that renders this zoom box on top of the H.265 video stream is poorly optimized for older GPUs, causing a "segmentation fault" that kills the app.
+A significant number of Cam v3 and [Cam v4](https://quvii.com/blog/cpsc-recall-wyze-cam-v4-power-adapter-status) owners report that the app closes instantly when they slide the timeline to view local footage from a microSD card. This is specifically linked to the "Smart Focus" UI overlay—a feature that zooms in on detected motion. In the v3.14 app, the code that renders this zoom box on top of the H.265 video stream is poorly optimized for older GPUs, causing a "segmentation fault" that kills the app.
 
 ### Android 16 and iOS 19 Compatibility Reports
 
@@ -146,7 +146,7 @@ If your app was stable until you updated the *camera* firmware, you may need to 
 
 When calculating the value of Wyze in 2026, you must account for more than the hardware price. Frequent app updates and the "feature paywall" change the math significantly.
 
-*   **Hardware (4x Wyze Cam v4):** Around $160-$200.
+*   **Hardware (4x [Wyze Cam v4](https://quvii.com/blog/cpsc-recall-wyze-cam-v4-power-adapter-status)):** Around $160-$200.
 *   **Subscription (Cam Unlimited Pro):** Around $100/year ($300 over 3 years).
 *   **MicroSD Cards (High Endurance):** Around $60 for four 128GB cards.
 *   **Hidden Cost (Mobile Hardware):** If your current phone is 32-bit, add $200+ for a compatible 64-bit device.
