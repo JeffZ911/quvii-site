@@ -1,0 +1,67 @@
+---
+// HTML sitemap ("Archive") — every article on one crawlable page, linked from
+// the footer of every page. Purpose: give crawlers a single 1-click hub that
+// reaches 100% of articles (young domain, crawl-budget constrained — the
+// denser and shallower the internal graph, the faster discovery happens).
+import { getCollection } from "astro:content";
+import BaseLayout from "../layouts/BaseLayout.astro";
+
+const collections = [
+  { name: "learn", label: "Guides", base: "/learn/" },
+  { name: "blog", label: "Insights", base: "/blog/" },
+  { name: "news", label: "News", base: "/news/" },
+  { name: "support", label: "Support", base: "/support/" },
+];
+
+const sections = [];
+for (const c of collections) {
+  let entries = [];
+  try {
+    entries = await getCollection(c.name);
+  } catch {
+    continue; // collection may not exist
+  }
+  const items = entries
+    .map((e) => ({
+      href: c.base + e.slug + "/",
+      title: e.data.title,
+      date: e.data.published_at || e.data.pubDate || null,
+    }))
+    .sort((a, b) => Date.parse(b.date || 0) - Date.parse(a.date || 0));
+  if (items.length) sections.push({ label: c.label, items });
+}
+const total = sections.reduce((s, x) => s + x.items.length, 0);
+---
+
+<BaseLayout
+  title="Article Archive — Every Quvii Guide & Report"
+  description={`The complete index of all ${total} Quvii articles — home-security guides, camera comparisons, news and troubleshooting, newest first.`}
+>
+  <section class="container-wide py-24">
+    <p class="eyebrow">Archive</p>
+    <h1 class="t-h2 mt-2 text-ink">All articles ({total})</h1>
+    <p class="lede mt-4 text-body-muted">
+      Every guide, comparison and report we've published — newest first.
+    </p>
+
+    {sections.map((sec) => (
+      <div class="mt-12">
+        <h2 class="t-h3 text-ink">{sec.label} ({sec.items.length})</h2>
+        <ul class="mt-4 space-y-2 list-none p-0">
+          {sec.items.map((it) => (
+            <li class="flex items-baseline gap-3">
+              {it.date && (
+                <span class="shrink-0 font-mono text-xs text-body-faint">
+                  {new Date(it.date).toISOString().slice(0, 10)}
+                </span>
+              )}
+              <a href={it.href} class="text-sm text-body hover:text-primary-600 transition-colors">
+                {it.title}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </div>
+    ))}
+  </section>
+</BaseLayout>
