@@ -48,7 +48,7 @@ Similarly, the Wyze [Cam v4](https://quvii.com/blog/cpsc-recall-wyze-cam-v4-powe
 
 | Brand / Model | Primary No-Drill Method | Max Weight Support | Surface Compatibility | Power Type |
 | :--- | :--- | :--- | :--- | :--- |
-| **Wyze Cam v4** | 3M VHB Adhesive Plate | 2.0 lbs | Smooth Siding, Metal, Glass | Wired (USB) |
+| **[Wyze Cam v4](https://quvii.com/blog/cpsc-recall-wyze-cam-v4-power-adapter-status)** | 3M VHB Adhesive Plate | 2.0 lbs | Smooth Siding, Metal, Glass | Wired (USB) |
 | **Reolink Argus MagiCam** | Magnetic Adhesive Plate | 2.6 lbs | Wood, Brick (Smooth), Metal | Battery/Solar |
 | **Eufy S4** | Multi-Surface Adhesive | 2.2 lbs | Vinyl, Stucco (Smooth), Wood | Battery (Solar Integrated) |
 | **Ring Stick Up Cam** | Optional Adhesive Mount* | 1.8 lbs | Smooth Surfaces Only | Battery/Plug-in |
@@ -109,7 +109,7 @@ Gutter mount compatibility has expanded significantly in 2026. Specialized manuf
 Before purchasing a new camera or an adhesive kit, you must perform a site audit to ensure the mounting method matches your home's physical environment.
 
 ### Step 1: The 3-Pound Weight Test
-Most 2026 adhesive mounts are rated for a maximum of 3 lbs. While most modern cameras (like the Wyze Cam v4) weigh less than 1 lb, larger battery-powered units with integrated floodlights can approach the limit. Weigh your camera with its battery pack included. If it exceeds 3 lbs, skip adhesives and move directly to gutter clamps or siding clips, which provide mechanical support rather than relying on chemical bonding.
+Most 2026 adhesive mounts are rated for a maximum of 3 lbs. While most modern cameras (like the Wyze [Cam v4](https://quvii.com/blog/cpsc-recall-wyze-cam-v4-power-adapter-status)) weigh less than 1 lb, larger battery-powered units with integrated floodlights can approach the limit. Weigh your camera with its battery pack included. If it exceeds 3 lbs, skip adhesives and move directly to gutter clamps or siding clips, which provide mechanical support rather than relying on chemical bonding.
 
 ### Step 2: Choosing the Right Clip or Adhesive
 Surface compatibility is the most common point of failure for no-drill installations. Use the following guide to match your surface to the correct hardware:

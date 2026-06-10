@@ -65,7 +65,7 @@ For those currently shopping for a security system, the recent Wyze stability is
 
 ### Budget Phone Compatibility Warnings
 
-New buyers often pair affordable cameras like the Wyze Cam v4 (usually found in the $35-$50 range) with budget Android devices, such as the Samsung Galaxy A-series or various Motorola Moto G models. However, the 2026 Wyze app is no longer a "lightweight" utility. It is a resource-intensive platform. If you are using a phone with a low-tier processor, you may experience "UI lag" where the app takes 5-10 seconds to open a live stream, or "thermal crashes" where the phone shuts the app down to prevent overheating during 2K streaming.
+New buyers often pair affordable cameras like the [Wyze Cam v4](https://quvii.com/blog/cpsc-recall-wyze-cam-v4-power-adapter-status) (usually found in the $35-$50 range) with budget Android devices, such as the Samsung Galaxy A-series or various Motorola Moto G models. However, the 2026 Wyze app is no longer a "lightweight" utility. It is a resource-intensive platform. If you are using a phone with a low-tier processor, you may experience "UI lag" where the app takes 5-10 seconds to open a live stream, or "thermal crashes" where the phone shuts the app down to prevent overheating during 2K streaming.
 
 ### The Hidden Cost of Frequent Firmware Updates
 
@@ -73,7 +73,7 @@ Unlike high-end systems from brands like Axis or Hanwha, which prioritize long-t
 
 ### Wyze Cam v4 Setup Stability
 
-The Wyze Cam v4, while praised in RTINGS reviews for its image quality, has shown a specific setup instability in the 2026 app versions. During the QR code scanning phase, the app must manage Bluetooth Low Energy (BLE) and Wi-Fi handshakes simultaneously. If the user hasn't granted "Precise Location" and "Nearby Devices" permissions—standard requirements in Android 15 and 16—the app will crash during the final handshake. This has led to a spike in "dead on arrival" (DOA) returns that are actually software-related.
+The Wyze [Cam v4](https://quvii.com/blog/cpsc-recall-wyze-cam-v4-power-adapter-status), while praised in RTINGS reviews for its image quality, has shown a specific setup instability in the 2026 app versions. During the QR code scanning phase, the app must manage Bluetooth Low Energy (BLE) and Wi-Fi handshakes simultaneously. If the user hasn't granted "Precise Location" and "Nearby Devices" permissions—standard requirements in Android 15 and 16—the app will crash during the final handshake. This has led to a spike in "dead on arrival" (DOA) returns that are actually software-related.
 
 ## Impact on existing owners
 
