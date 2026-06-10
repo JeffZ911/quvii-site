@@ -27,7 +27,7 @@ inline_image_sections:
   - "Further reading"
 ---
 
-Navigating the return process for budget-friendly hardware often requires more documentation than the initial purchase. For owners of the Wyze Cam v4, securing a refund depends entirely on your purchase date and the specific nature of the device's failure.
+Navigating the return process for budget-friendly hardware often requires more documentation than the initial purchase. For owners of the Wyze [Cam v4](https://quvii.com/blog/cpsc-recall-wyze-cam-v4-power-adapter-status), securing a refund depends entirely on your purchase date and the specific nature of the device's failure.
 
 # How to Claim a Wyze Cam v4 Refund: A Step-by-Step Guide
 

@@ -152,7 +152,7 @@ While the initial cost of a Eufy or Reolink unit is higher, their reliance on lo
 ## Sources
 
 *   <a href="https://www.amazon.com/s?k=Reolink+Official+Site+%E2%80%94+Argus+Series+Specifications&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Reolink Official Site — Argus Series Specifications</a>
-*   <a href="https://www.amazon.com/s?k=Wyze+Labs+%E2%80%94+Wyze+Cam+v4+Product+Page&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Wyze Labs — Wyze Cam v4 Product Page</a>
+*   <a href="https://www.amazon.com/s?k=Wyze+Labs+%E2%80%94+Wyze+Cam+v4+Product+Page&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Wyze Labs — [Wyze Cam v4](https://quvii.com/blog/cpsc-recall-wyze-cam-v4-power-adapter-status) Product Page</a>
 *   <a href="https://www.amazon.com/s?k=Eufy+Security+%E2%80%94+S4+Series+and+HomeBase+3+Technical+Support&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Eufy Security — S4 Series and HomeBase 3 Technical Support</a>
 *   3M Support — VHB Tape and Command Outdoor Weight Limits
 *   Wasserstein Home — No-Drill Mount Compatibility Guide

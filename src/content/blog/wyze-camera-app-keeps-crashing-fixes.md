@@ -163,7 +163,7 @@ However, if you are running an iPhone 8, an original iPhone SE, or a Galaxy Tab 
 ## Sources
 
 - Wyze Official Release Notes & Firmware History — https://support.wyze.com/hc/en-us/articles/360024852172-Release-Notes-Firmware
-- RTINGS Wyze Cam v4 Independent Lab Test
-- FCC ID Filing for Wyze Cam v4 (RF/Wi-Fi Specs) — https://fccid.io/2AUIU-WYZECV4
+- RTINGS [Wyze Cam v4](https://quvii.com/blog/cpsc-recall-wyze-cam-v4-power-adapter-status) Independent Lab Test
+- FCC ID Filing for Wyze [Cam v4](https://quvii.com/blog/cpsc-recall-wyze-cam-v4-power-adapter-status) (RF/Wi-Fi Specs) — https://fccid.io/2AUIU-WYZECV4
 - Android Developers: 64-bit Architecture Requirements — https://developer.android.com/distribute/best-practices/develop/64-bit
 - Wyze Privacy Policy and Data Handling (2026 Revision)
