@@ -78,10 +78,10 @@ Wyze’s refund and recall infrastructure is currently under heavy scrutiny. Fol
 ![How it works under the hood](/img/how-to-claim-wyze-cam-v4-refund/inline-3.webp)
 
 
-The process of getting a refund or replacement for a Wyze Cam v4 is highly automated but requires specific data points from the user to trigger an RMA (Return Merchandise Authorization).
+The process of getting a refund or replacement for a [Wyze Cam v4](https://quvii.com/blog/cpsc-recall-wyze-cam-v4-power-adapter-status) is highly automated but requires specific data points from the user to trigger an RMA (Return Merchandise Authorization).
 
 ### The Role of MAC Addresses in Verification
-Every Wyze Cam v4 has a unique Media Access Control (MAC) address. When you contact support, they use this ID to check the device’s activation date. If you claim the device is "new" but the MAC address shows it was activated 18 months ago, the system will automatically deny a warranty claim. 
+Every Wyze [Cam v4](https://quvii.com/blog/cpsc-recall-wyze-cam-v4-power-adapter-status) has a unique Media Access Control (MAC) address. When you contact support, they use this ID to check the device’s activation date. If you claim the device is "new" but the MAC address shows it was activated 18 months ago, the system will automatically deny a warranty claim. 
 
 ### Firmware Logs and 'Bricked' Device Diagnostics
 Before approving a refund for a defective unit, support will often ask for "App Logs." These logs are uploaded from the Wyze app to their servers. They tell the technician if the camera's failure was caused by a failed firmware update (which Wyze usually covers) or physical damage (which they do not). If the device is "bricked" (unresponsive), support may bypass the logs and move straight to the RMA.
