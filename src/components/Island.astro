@@ -76,17 +76,14 @@ const nav: NavItem[] = [
 </div>
 
 <style>
-  /* Appear-after-hero: hidden at the top of the page, slides in once the
-     reader has scrolled past the hero (.show toggled by JS). Returns to the
-     top → hides again so the hero stays clean. */
-  #qv-island {
-    transform: translateY(-160%);
-    opacity: 0;
-    transition: transform .55s cubic-bezier(.28,.11,.32,1),
-                opacity .4s cubic-bezier(.28,.11,.32,1);
+  /* Always visible (2026-06-11, owner request): the island shows at the very
+     top of the page too. Scrolling past ~24px adds a touch more elevation
+     (.is-scrolled) — no hide/appear gymnastics. */
+  #qv-island { transition: transform .3s cubic-bezier(.28,.11,.32,1); }
+  #qv-island.is-scrolled .qv-island-pill {
+    box-shadow: inset 0 0 0 1px rgba(16,24,40,0.08),
+                0 18px 44px rgba(16,24,40,0.16), 0 3px 10px rgba(16,24,40,0.07);
   }
-  #qv-island.show { transform: translateY(0); opacity: 1; }
-  #qv-island:not(.show) .qv-island-pill { pointer-events: none; }
 
   .qv-island-pill {
     background: rgba(251,251,253,0.9);
@@ -114,23 +111,15 @@ const nav: NavItem[] = [
   (function () {
     var island = document.getElementById("qv-island");
     if (island) {
-      // Show after scrolling past the hero on home (~60% of the viewport),
-      // or after a short scroll on inner pages (no tall hero). Hide again at
-      // the very top so the hero stays clean.
-      var isHome = location.pathname === "/";
-      var threshold = function () { return isHome ? window.innerHeight * 0.6 : 140; };
-      var shown = false, ticking = false;
+      // Always visible; just elevate slightly once scrolled.
+      var ticking = false;
       var check = function () {
         ticking = false;
-        var past = window.scrollY > threshold();
-        if (past === shown) return;
-        shown = past;
-        island.classList.toggle("show", past);
+        island.classList.toggle("is-scrolled", window.scrollY > 24);
       };
       window.addEventListener("scroll", function () {
         if (!ticking) { ticking = true; requestAnimationFrame(check); }
       }, { passive: true });
-      window.addEventListener("resize", check);
       check();
     }
     var menu = document.getElementById("qv-mobile-menu");

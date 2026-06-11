@@ -49,6 +49,9 @@ const all: Entry[] = [
 
 // Featured = highest qa_score among recently-published
 const recencyWindow = all.slice(0, 18);
+// Hero CTA "Read the latest" must point at the actual NEWEST article
+// (all[0] — date-sorted), not the featured (quality-sorted) pick.
+const newest = all[0];
 const featured = [...recencyWindow].sort(
   (a, b) => (b.data.qa_score || 0) - (a.data.qa_score || 0)
 )[0];
@@ -138,7 +141,7 @@ const siteJsonLd = {
     eyebrow="Quvii"
     headline="Connected security, refined."
     dek="Industry signals, technical depth, and product intelligence — the work that shapes how the modern home protects itself."
-    primaryHref={featured ? hrefFor(featured as Entry) : "/blog/"}
+    primaryHref={newest ? hrefFor(newest as Entry) : "/blog/"}
     primaryLabel="Read the latest"
     secondaryHref="/about/"
     secondaryLabel="About Quvii"
