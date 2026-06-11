@@ -50,7 +50,7 @@ The profile of your siding dictates which hardware you can use.
 
 ### The No-Drill Movement in 2026
 
-The surge in battery-powered and solar-integrated cameras, such as the <a href="https://www.amazon.com/s?k=Eufy+SoloCam+S340&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Eufy SoloCam S340</a> or the <a href="https://www.amazon.com/s?k=Reolink+Argus+series&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Reolink Argus series</a>, has popularized no-drill mounting. These cameras are light enough to be supported by the siding’s "butt lock"—the horizontal joint where two panels overlap. By using the J-channel (the trim around windows and doors) or the starter strip (the bottom-most attachment point), installers can secure cameras without a single permanent hole.
+The surge in battery-powered and solar-integrated cameras, such as the <a href="https://www.amazon.com/s?k=Eufy+SoloCam+S340&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Eufy SoloCam S340</a> or the <a href="https://www.amazon.com/s?k=Reolink+Argus+series&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">[Reolink Argus](https://quvii.com/blog/reolink-argus-4-pro-firmware-update-issues) series</a>, has popularized no-drill mounting. These cameras are light enough to be supported by the siding’s "butt lock"—the horizontal joint where two panels overlap. By using the J-channel (the trim around windows and doors) or the starter strip (the bottom-most attachment point), installers can secure cameras without a single permanent hole.
 
 **Table 1: 2026 Mounting Method Comparison**
 

@@ -58,8 +58,8 @@ The following table covers the standard LED behaviors for the 2026 lineup, inclu
 | **Altas PT Ultra** | Flashing Red | Wi-Fi connection failed / Incorrect password |
 | **Home Hub / Hub Pro** | Solid Red | No internet connection (WAN port disconnected) |
 | **Home Hub / Hub Pro** | Solid Blue | System normal and connected to Reolink servers |
-| **Argus 4 Pro** | Flashing Blue/Red | Firmware update in progress (Do not power off) |
-| **Argus 4 Pro** | No Light | Battery exhausted or LED disabled in settings |
+| **[Argus 4 Pro](https://quvii.com/blog/reolink-argus-4-pro-firmware-update-issues)** | Flashing Blue/Red | [Firmware update](https://quvii.com/blog/reolink-argus-4-pro-firmware-update-issues) in progress (Do not power off) |
+| **[Argus 4](https://quvii.com/blog/reolink-argus-4-pro-firmware-update-issues) Pro** | No Light | Battery exhausted or LED disabled in settings |
 
 <a href="https://www.amazon.com/s?k=Source%3A+Reolink+Support+-+LED+Indicator+Status+Guide&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Source: Reolink Support - LED Indicator Status Guide</a>
 
@@ -149,7 +149,7 @@ If you are concerned about the P2P relay servers mentioned earlier, you can disa
 
 ### 2026 Reolink Feature Comparison
 
-| Feature | Altas PT Ultra (Wi-Fi) | Argus 4 Pro (Wi-Fi) | RLC-811A (PoE) |
+| Feature | Altas PT Ultra (Wi-Fi) | Argus [4 Pro](https://quvii.com/blog/reolink-argus-4-pro-firmware-update-issues) (Wi-Fi) | RLC-811A (PoE) |
 | :--- | :--- | :--- | :--- |
 | **Resolution** | 4K (8MP) | 4K (8MP) | 4K (8MP) |
 | **Power Source** | Battery / Solar | Battery / Solar | PoE (802.3af) |
