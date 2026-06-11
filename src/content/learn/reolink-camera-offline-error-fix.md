@@ -134,7 +134,7 @@ The signal strength indicator in the Reolink App is a measure of RSSI (Received 
 2.  **Check the UID Status:** Go to Settings > Network > Advanced and ensure UID is toggled ON.
 3.  **Power Cycle the Router:** This clears the DHCP table and often resolves IP conflicts.
 4.  **Check Battery Temp:** If it's below freezing, the camera may have shut down to protect the battery.
-5.  **Manual Firmware Update:** Check the <a href="https://www.amazon.com/s?k=Reolink+Download+Center&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Reolink Download Center</a> via a PC; the app often says "latest version" even when it's not.
+5.  **Manual [Firmware Update](https://quvii.com/blog/reolink-argus-4-pro-firmware-update-issues):** Check the <a href="https://www.amazon.com/s?k=Reolink+Download+Center&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Reolink Download Center</a> via a PC; the app often says "latest version" even when it's not.
 
 ## Further reading
 
@@ -159,7 +159,7 @@ If you are concerned about the P2P relay servers mentioned earlier, you can disa
 
 ### Decision Framework: Which Reolink setup is right for you?
 
-*   **If you are a Renter:** Prioritize the **Argus 4 Pro**. It is completely wireless and easy to move, though you must be diligent about Wi-Fi signal strength.
+*   **If you are a Renter:** Prioritize the **[Argus 4 Pro](https://quvii.com/blog/reolink-argus-4-pro-firmware-update-issues)**. It is completely wireless and easy to move, though you must be diligent about Wi-Fi signal strength.
 *   **If you are a Homeowner (New Build):** Prioritize **PoE (RLC-series)**. If the walls are open, run Cat6 cable. It is the only way to guarantee 99.9% uptime.
 *   **If you have a Remote Property (No Wi-Fi):** Prioritize the **Reolink Go Ultra (4G LTE)**. It bypasses home network issues entirely by using cellular data.
 *   **If you want "Always On" Battery:** The **Altas PT Ultra** is the only choice in 2026 that supports continuous recording on battery, but it *requires* a strong 5GHz Wi-Fi signal to maintain that stream.
