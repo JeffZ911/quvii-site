@@ -52,7 +52,7 @@ Tokens live in `tailwind.config.mjs`. Semantic roles:
 | `mist` | `#fafafa` | Card inner-core surface (lighter than alt) |
 | `body` | `#1d1d1f` | Body text |
 | `body-muted` | `#6e6e73` | Secondary text |
-| `body-faint` | `#86868b` | Tertiary text / eyebrow |
+| `body-faint` | `#76767b (WCAG 4.5:1 compliant, was #86868b)` | Tertiary text / eyebrow |
 | `hair` / `body-line` | `#e8e8ed` | Hairline dividers + bezel rings (NEVER a hard 1px gray) |
 | `primary-600` | `#C40027` | **QUVII Red** (brand anchor). THE accent — CTAs, link hover, eyebrows ONLY. |
 | `primary-700` | `#9A0020` | Deep Carmine (brand kit). Hover/pressed accent states. |

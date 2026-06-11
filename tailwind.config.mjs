@@ -38,7 +38,7 @@ export default {
         body: {
           DEFAULT: "#1d1d1f",   // Apple body text
           muted:   "#6e6e73",   // Apple secondary text
-          faint:   "#86868b",   // Apple tertiary text
+          faint:   "#76767b",   // Apple tertiary text
           line:    "#e8e8ed",   // softer hairline (DESIGN.md: never hard 1px gray)
         },
         surface: {
