@@ -141,9 +141,9 @@ There is a community belief that if a firmware update "bricks" your camera, it i
 ### Refunds for Gifted Devices
 You cannot claim a cash refund for a Wyze [Cam v4](https://quvii.com/blog/cpsc-recall-wyze-cam-v4-power-adapter-status) received as a gift without the original order number. Wyze’s system is transaction-based. If you have the device but no proof of purchase, the best support can offer is a warranty replacement if the MAC address shows the device is less than a year old.
 
-**Fact-Check: Wyze Cam v4 vs. Solar Cam Pan (2026 Recall)**
+**Fact-Check: [Wyze Cam v4](https://quvii.com/blog/cpsc-recall-wyze-cam-v4-power-adapter-status) vs. Solar Cam Pan (2026 Recall)**
 
-| Detail | Wyze Cam v4 | Wyze Solar Cam Pan |
+| Detail | Wyze [Cam v4](https://quvii.com/blog/cpsc-recall-wyze-cam-v4-power-adapter-status) | Wyze Solar Cam Pan |
 | :--- | :--- | :--- |
 | **Model Number** | WYZECCV4 | WYZESCPWH |
 | **Power Source** | Hardwired (USB) | Battery / Solar |
