@@ -139,7 +139,7 @@ Wyze is offering three options for affected consumers: a full refund of the purc
 
 When deciding whether to take the refund or the replacement, consider the long-term costs. Wyze cameras are famous for their low entry price, but their ongoing costs have increased.
 
-| Expense Category | Wyze Solar Cam Pan (2026) | Reolink Argus PT (Alternative) |
+| Expense Category | Wyze Solar Cam Pan (2026) | [Reolink Argus](https://quvii.com/blog/reolink-argus-4-pro-firmware-update-issues) PT (Alternative) |
 | :--- | :--- | :--- |
 | **Hardware Band** | $80 - $110 | $120 - $160 |
 | **Subscription (1 Yr)** | ~$35 (Cam Plus) | $0 (Local SD) to ~$40 (Cloud) |

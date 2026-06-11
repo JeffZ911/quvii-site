@@ -49,7 +49,7 @@ Similarly, the Wyze [Cam v4](https://quvii.com/blog/cpsc-recall-wyze-cam-v4-powe
 | Brand / Model | Primary No-Drill Method | Max Weight Support | Surface Compatibility | Power Type |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Wyze Cam v4](https://quvii.com/blog/cpsc-recall-wyze-cam-v4-power-adapter-status)** | 3M VHB Adhesive Plate | 2.0 lbs | Smooth Siding, Metal, Glass | Wired (USB) |
-| **Reolink Argus MagiCam** | Magnetic Adhesive Plate | 2.6 lbs | Wood, Brick (Smooth), Metal | Battery/Solar |
+| **[Reolink Argus](https://quvii.com/blog/reolink-argus-4-pro-firmware-update-issues) MagiCam** | Magnetic Adhesive Plate | 2.6 lbs | Wood, Brick (Smooth), Metal | Battery/Solar |
 | **Eufy S4** | Multi-Surface Adhesive | 2.2 lbs | Vinyl, Stucco (Smooth), Wood | Battery (Solar Integrated) |
 | **Ring Stick Up Cam** | Optional Adhesive Mount* | 1.8 lbs | Smooth Surfaces Only | Battery/Plug-in |
 | **Nest Cam (Battery)** | Magnetic Base | 1.5 lbs | Metal Surfaces (Native) | Battery |
