@@ -106,7 +106,7 @@ A "full refund" is rarely a 100% recovery of costs. Users should be aware of the
 Many users purchase Wyze products through the "Buy with Prime" button on the Wyze website. This creates a hybrid support path. While Wyze handles the technical support, the actual financial transaction and shipping logistics are handled by Amazon. If you need a refund for a v4 purchased this way, you must often initiate it through your Amazon "Your Orders" page rather than the Wyze portal.
 
 ### Subscription Refund Realities (Cam Plus/Protect)
-A common pitfall is the "Subscription Trap." If you return your Wyze Cam v4, your Cam Plus or Cam Protect subscription **does not** automatically cancel or refund. These are billed separately. To get a prorated refund for the remaining months of your service, you must manually cancel the subscription in the Wyze Services portal or via the Apple/Google app stores, depending on where you signed up.
+A common pitfall is the "Subscription Trap." If you return your [Wyze Cam v4](https://quvii.com/blog/cpsc-recall-wyze-cam-v4-power-adapter-status), your Cam Plus or Cam Protect subscription **does not** automatically cancel or refund. These are billed separately. To get a prorated refund for the remaining months of your service, you must manually cancel the subscription in the Wyze Services portal or via the Apple/Google app stores, depending on where you signed up.
 
 ### Decision Framework: Return or Replace?
 
@@ -118,7 +118,7 @@ A common pitfall is the "Subscription Trap." If you return your Wyze Cam v4, you
     *   *Action:* Contact Wyze Business support immediately. DOA units are typically replaced with new (not refurbished) stock if reported within 7 days.
 
 ### Total Cost of Ownership (TCO) Analysis
-When calculating the value of a refund, consider the 3-year TCO of a Wyze Cam v4.
+When calculating the value of a refund, consider the 3-year TCO of a Wyze [Cam v4](https://quvii.com/blog/cpsc-recall-wyze-cam-v4-power-adapter-status).
 *   **Hardware:** Around $40 (one-time).
 *   **Subscription (Cam Plus):** ~$20/year (x3 = $60).
 *   **MicroSD Card:** ~$15 (one-time).
