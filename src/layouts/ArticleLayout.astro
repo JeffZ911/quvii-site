@@ -37,6 +37,8 @@ interface Props {
   /** Markdown headings from `entry.render().headings`. When passed,
    * renders sticky right-side TOC on xl+ (≥1280px). */
   headings?: Heading[];
+  /** Raw markdown body — used to derive FAQPage JSON-LD. */
+  body?: string;
   /** Affiliate product list — when set + ProductRoundup mounts above body. */
   products?: Product[];
 }
@@ -44,7 +46,7 @@ interface Props {
 const {
   title, description, publishedAt, qaScore, wordCount,
   articleType, platform, heroImage, sources = [], crumbs, slug,
-  quickAnswer, affiliate = false, headings = [], products,
+  quickAnswer, affiliate = false, headings = [], products, body = "",
 } = Astro.props;
 
 const dateStr = publishedAt
@@ -106,9 +108,25 @@ const jsonLd = {
   description: description,
   ...(heroImage ? { image: heroImage } : {}),
 };
+
+// FAQPage JSON-LD — parsed from the writer-emitted `## Frequently Asked
+// Questions` section. Rich-result eligibility alongside the Article object.
+const faqMatch = (body || "").match(/^##\s+Frequently Asked Questions\s*$([\s\S]*?)(?=^##\s|(?![\s\S]))/m);
+const faqEntities = [];
+if (faqMatch) {
+  const qa = [...faqMatch[1].matchAll(/^###\s+(.+)$([\s\S]*?)(?=^###\s|(?![\s\S]))/gm)];
+  for (const m of qa) {
+    const q = m[1].trim();
+    const a = m[2].replace(/\s+/g, " ").trim().slice(0, 600);
+    if (q && a) faqEntities.push({ "@type": "Question", name: q, acceptedAnswer: { "@type": "Answer", text: a } });
+  }
+}
+const jsonLdOut = faqEntities.length
+  ? [jsonLd, { "@context": "https://schema.org", "@type": "FAQPage", mainEntity: faqEntities }]
+  : jsonLd;
 ---
 
-<BaseLayout title={title} description={description} ogImage={heroImage} jsonLd={jsonLd} noindex={noindex}>
+<BaseLayout title={title} description={description} ogImage={heroImage} jsonLd={jsonLdOut} noindex={noindex}>
   <div class="container-page py-10 lg:py-14">
   <Breadcrumb crumbs={crumbs} />
 
@@ -119,7 +137,7 @@ const jsonLd = {
       {heroImage && (
         <img
           src={heroImage}
-          alt=""
+          alt={title}
           width="1280" height="720"
           fetchpriority="high"
           class="mb-6 aspect-video w-full max-h-[400px] rounded-xl object-cover"
