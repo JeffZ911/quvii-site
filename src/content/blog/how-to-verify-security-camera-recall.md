@@ -51,9 +51,9 @@ This 2026 Wyze event mirrors the <a href="https://www.amazon.com/s?k=2020+Ring+V
 ### Digital 'Recalls': When Firmware is the Fix
 It is important to distinguish between a CPSC-mandated hardware recall and a "security recall" or vulnerability patch. In 2024 and 2025, several brands issued urgent firmware updates to patch "zero-day" exploits that allowed unauthorized remote viewing. While the media often calls these "recalls," they do not usually require returning the hardware. If your camera has a software flaw, the fix is a digital update; if it has a hardware recall like the current Wyze situation, the device must typically be decommissioned or physically modified.
 
-| Feature | [Wyze Solar](https://quvii.com/blog/wyze-solar-cam-pan-recall-fire-hazard) [Cam Pan](https://quvii.com/blog/wyze-solar-cam-pan-recall-fire-hazard) (Recalled) | Reolink Argus 4 Pro | Arlo Pro 5S 2K |
+| Feature | [Wyze Solar](https://quvii.com/blog/wyze-solar-cam-pan-recall-fire-hazard) [Cam Pan](https://quvii.com/blog/wyze-solar-cam-pan-recall-fire-hazard) (Recalled) | [Reolink Argus 4](https://quvii.com/blog/reolink-argus-4-pro-firmware-update-issues) Pro | Arlo Pro 5S 2K |
 | :--- | :--- | :--- | :--- |
-| **Model Number** | WYZESCPWH | Argus 4 Pro | VMC4060A |
+| **Model Number** | WYZESCPWH | [Argus 4 Pro](https://quvii.com/blog/reolink-argus-4-pro-firmware-update-issues) | VMC4060A |
 | **Power Type** | Solar/Battery (Internal) | Solar/Battery (Removable) | Battery (Removable) |
 | **Resolution** | 2K Pan/Tilt | 4K Fixed | 2K Fixed |
 | **Recall Status** | **ACTIVE (June 2026)** | None | None |
@@ -109,7 +109,7 @@ For the June 2026 Wyze recall, the danger is specific to how the solar panel was
 *   An unusual "sweet" chemical smell (indicative of leaking electrolyte).
 
 ### Why You Can't Just 'Patch' a Hardware Recall
-It is a common misconception that a firmware update can fix a hardware recall. While Wyze has released a "Safety Firmware Update" that limits charging speeds to reduce heat, this does not fix the physical puncture caused by the mounting screw. If the battery's internal layers are breached, no amount of software can make the device safe. The only remedy for a hardware defect of this nature is physical replacement or professional repair.
+It is a common misconception that a [firmware update](https://quvii.com/blog/reolink-argus-4-pro-firmware-update-issues) can fix a hardware recall. While Wyze has released a "Safety Firmware Update" that limits charging speeds to reduce heat, this does not fix the physical puncture caused by the mounting screw. If the battery's internal layers are breached, no amount of software can make the device safe. The only remedy for a hardware defect of this nature is physical replacement or professional repair.
 
 ## What to do now
 
@@ -140,7 +140,7 @@ To avoid missing future alerts, homeowners should:
 ### Decision Framework: Replacing a Recalled Camera
 If you are currently affected by a recall, use this framework to choose your next step:
 
-*   **If you prioritize maximum safety:** Opt for a camera with a **removable battery** (like the Arlo Pro 5S or Reolink Argus 4 Pro). If a battery swells or fails, you can replace the cell without discarding the entire camera.
+*   **If you prioritize maximum safety:** Opt for a camera with a **removable battery** (like the Arlo Pro 5S or [Reolink Argus](https://quvii.com/blog/reolink-argus-4-pro-firmware-update-issues) [4 Pro](https://quvii.com/blog/reolink-argus-4-pro-firmware-update-issues)). If a battery swells or fails, you can replace the cell without discarding the entire camera.
 *   **If you are a renter:** Choose a camera with a "No-Drill" mount. Recalls like the 2026 Wyze event often stem from complex mounting requirements. Simplified mounts reduce the chance of user error.
 *   **If you are a business owner:** Prioritize **Power over Ethernet (PoE)** cameras. By removing the lithium-ion battery entirely and powering the camera via a data cable, you eliminate the fire risk associated with battery-operated units.
 

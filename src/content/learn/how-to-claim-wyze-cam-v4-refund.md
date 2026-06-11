@@ -167,5 +167,5 @@ For those looking to move away from the Wyze ecosystem due to these policy chang
 - Wyze Official Return Policy — https://support.wyze.com/hc/en-us/articles/360031201912-Return-Policy
 - Wyze Warranty Terms
 - CPSC Safety Recall Database (June 2026) — https://www.cpsc.gov/Recalls
-- RTINGS Wyze Cam v4 Review & Reliability Data
+- RTINGS [Wyze Cam v4](https://quvii.com/blog/cpsc-recall-wyze-cam-v4-power-adapter-status) Review & Reliability Data
 - Amazon "Buy with Prime" Terms of Service — https://www.amazon.com/gp/help/customer/display.html?nodeId=G76CQ7U699F96Y6Z
