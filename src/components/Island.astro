@@ -5,6 +5,7 @@
 //     Gains a touch more elevation once the page scrolls (.is-scrolled).
 //   • Mobile: a compact pill (brand + hamburger) → full-screen menu.
 interface NavItem { href: string; label: string }
+const isHome = Astro.url.pathname === "/";
 const nav: NavItem[] = [
   { href: "/learn/",   label: "Guides"  },
   { href: "/blog/",    label: "Insights" },
@@ -13,10 +14,11 @@ const nav: NavItem[] = [
 ];
 ---
 
-<div id="qv-island" class="fixed top-3.5 inset-x-0 z-50 px-3 pointer-events-none">
+<div id="qv-island" class:list={["fixed top-3.5 inset-x-0 z-50 px-3 pointer-events-none", isHome && "island-home"]}>
   <nav class="qv-island-pill pointer-events-auto mx-auto flex items-center justify-between gap-5 w-[min(980px,100%)] rounded-full pl-6 pr-2.5 h-14">
     <a href="/" class="flex items-center no-underline shrink-0" aria-label="Quvii — home">
-      <img src="/brand/wordmark-ink.png" alt="Quvii" width="901" height="233" class="h-[17px] w-auto" />
+      <img src="/brand/wordmark-ink.png" alt="Quvii" width="901" height="233" class="qv-mark-ink h-[17px] w-auto" />
+      <img src="/brand/wordmark-white.png" alt="" aria-hidden="true" width="901" height="233" class="qv-mark-white h-[17px] w-auto hidden" />
     </a>
 
     <ul class="hidden lg:flex items-center gap-7 list-none m-0 p-0">
@@ -32,7 +34,7 @@ const nav: NavItem[] = [
 
     <div class="flex items-center gap-2">
       <a href="/blog/"
-         class="hidden sm:inline-flex items-center gap-1.5 rounded-full bg-ink text-white pl-5 pr-4 py-2.5 text-sm font-semibold no-underline transition-transform duration-200 ease-apple hover:-translate-y-px">
+         class="qv-cta hidden sm:inline-flex items-center gap-1.5 rounded-full bg-ink text-white pl-5 pr-4 py-2.5 text-sm font-semibold no-underline transition-all duration-200 ease-apple hover:-translate-y-px">
         Latest <svg aria-hidden="true" viewBox="0 0 16 16" width="14" height="14" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="inline-block"><path d="M6 3.5 10.5 8 6 12.5"/></svg>
       </a>
       <button id="qv-burger" type="button" aria-label="Open menu"
@@ -76,10 +78,32 @@ const nav: NavItem[] = [
 </div>
 
 <style>
-  /* Always visible (2026-06-11, owner request): the island shows at the very
-     top of the page too. Scrolling past ~24px adds a touch more elevation
-     (.is-scrolled) — no hide/appear gymnastics. */
+  /* Always visible. AT THE TOP (not .is-scrolled): the pill goes fully
+     TRANSPARENT and melts into the banner — no glass, no shadow. Once
+     scrolled past 24px it morphs back into the light-glass pill. On the
+     home page (dark hero) the top state also flips text/wordmark to white. */
   #qv-island { transition: transform .3s cubic-bezier(.28,.11,.32,1); }
+  .qv-island-pill {
+    transition: background .35s cubic-bezier(.28,.11,.32,1),
+                box-shadow .35s cubic-bezier(.28,.11,.32,1),
+                backdrop-filter .35s cubic-bezier(.28,.11,.32,1);
+  }
+  #qv-island:not(.is-scrolled) .qv-island-pill {
+    background: transparent;
+    backdrop-filter: none;
+    -webkit-backdrop-filter: none;
+    box-shadow: none;
+  }
+  /* Home top state: dark hero behind → white wordmark + white nav/burger,
+     CTA inverts to white-on-hero. */
+  .island-home:not(.is-scrolled) .qv-mark-ink { display: none; }
+  .island-home:not(.is-scrolled) .qv-mark-white { display: block !important; }
+  .island-home:not(.is-scrolled) ul a { color: rgba(255,255,255,0.82); }
+  .island-home:not(.is-scrolled) ul a:hover { color: #ffffff; }
+  .island-home:not(.is-scrolled) #qv-burger { color: #ffffff; }
+  .island-home:not(.is-scrolled) .qv-cta {
+    background: rgba(255,255,255,0.92); color: #15171A;
+  }
   #qv-island.is-scrolled .qv-island-pill {
     box-shadow: inset 0 0 0 1px rgba(16,24,40,0.08),
                 0 18px 44px rgba(16,24,40,0.16), 0 3px 10px rgba(16,24,40,0.07);
