@@ -78,7 +78,7 @@ For wired models like the Ring Video Doorbell Pro 2, disconnections are often po
 *Data synthesized from <a href="https://www.amazon.com/s?k=Ring%27s+hardware+compatibility+guides&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Ring's hardware compatibility guides</a>.*
 
 ### Network Congestion and Firmware 'Stuck' States
-In 2026, the average home has over 30 connected devices. This "IoT bloat" causes packet collisions on the 2.4GHz band. If a Ring camera is mid-firmware update and the signal drops, it can enter a "reconnection loop" where it fails to handshake with the router until the power is physically cycled.
+In 2026, the average home has over 30 connected devices. This "IoT bloat" causes packet collisions on the 2.4GHz band. If a Ring camera is mid-[firmware update](https://quvii.com/blog/reolink-argus-4-pro-firmware-update-issues) and the signal drops, it can enter a "reconnection loop" where it fails to handshake with the router until the power is physically cycled.
 
 ## How it works under the hood
 
