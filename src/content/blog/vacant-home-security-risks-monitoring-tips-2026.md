@@ -252,7 +252,7 @@ Legally, you can typically place cameras to monitor your own property, especiall
 *   Backstreet Surveillance — End-to-End Encryption https://www.backstreet-surveillance.com/blog/end-to-end-encryption-for-security-cameras-what-it-is-and-why-it-matters/
 *   The Gadgeteer — eufy Security S330 eufyCam 3 review
 *   Zealous Advocate — Ring Camera Footage & Police https://www.zealousadvocate.com/legal-issues/ring-camera-footage-police/
-*   Reolink.com — Reolink Argus [4 Pro](https://quvii.com/blog/reolink-argus-4-pro-firmware-update-issues) [https://reolink.com/product/argus-4-pro/](https://reolink.com/product/argus-4-pro/)
+*   Reolink.com — [Reolink Argus](https://quvii.com/blog/reolink-argus-4-pro-firmware-update-issues) [4 Pro](https://quvii.com/blog/reolink-argus-4-pro-firmware-update-issues) [https://reolink.com/product/argus-4-pro/](https://reolink.com/product/argus-4-pro/)
 *   Wyze.com — Wyze Cam v4 [https://www.wyze.com/products/wyze-cam-v4](https://www.wyze.com/products/wyze-cam-v4)
 *   Wyze.com — Cam Plus Subscription
 *   CNET — Wyze Cam v4 Review
