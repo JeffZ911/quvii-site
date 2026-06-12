@@ -100,7 +100,7 @@ If you already own a security system, the news of 2026 requires a proactive audi
 
 ### Immediate Action for Vulnerable Cameras
 Owners of the **TP-Link Tapo C220 v1** and **C520WS v2** must take immediate action to mitigate the CVE-2026-1315 vulnerability.
-1.  **Check Firmware:** Open the Tapo app, go to Device Settings -> Firmware Update. Ensure you are on the latest version released after January 2026.
+1.  **Check Firmware:** Open the Tapo app, go to Device Settings -> [Firmware Update](https://quvii.com/blog/reolink-argus-4-pro-firmware-update-issues). Ensure you are on the latest version released after January 2026.
 2.  **Isolate the Device:** If an update is not yet available, consider moving these cameras to a "Guest Network" to prevent a local attacker from using the DoS flaw to move laterally into your main computers or phones.
 
 ### Physical Security and Tamper Prevention
