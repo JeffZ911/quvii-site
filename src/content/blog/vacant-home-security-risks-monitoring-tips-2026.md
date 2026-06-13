@@ -182,7 +182,7 @@ Implement a comprehensive security strategy that includes physical deterrents, u
 *   **Physical Deterrents:** Ensure all doors and windows are securely locked. Consider adding deadbolts, reinforced strike plates, and security film to vulnerable windows. Trim overgrown bushes and trees that could provide cover for intruders.
 *   **Exterior Maintenance:** Maintain the property's exterior to give the appearance of occupancy. This includes regular lawn care, mail collection (or forwarding), and snow removal.
 *   **Security Signage:** Clearly display "No Trespassing" signs and decals indicating the presence of a security system. This acts as a deterrent and can strengthen legal recourse if an incident occurs.
-*   **Updated Locks:** Replace old or easily picked locks with high-security options. Smart locks can also provide remote monitoring and control.
+*   **Updated Locks:** Replace old or easily picked locks with high-security options. [Smart locks](https://quvii.com/blog/smart-locks-magnetic-tools-vulnerability-threat) can also provide remote monitoring and control.
 
 ### Strategic Camera Placement for Maximum Coverage
 

@@ -27,7 +27,7 @@ Choosing a doorbell camera used to mean choosing a monthly bill, but a shift tow
 
 # The Best Doorbell Cameras That Record Locally: 2026 Buyer’s Guide
 
-For 2026, the Reolink Video Doorbell (PoE) and Eufy E340 are the top picks for local recording. They offer 2K+ resolution and store footage on microSD or home hubs, saving you up to $200/year in subscription fees.
+For 2026, the Reolink [Video Doorbell](https://quvii.com/learn/renter-friendly-wireless-video-doorbell-options-20260613) (PoE) and Eufy E340 are the top picks for local recording. They offer 2K+ resolution and store footage on microSD or home hubs, saving you up to $200/year in subscription fees.
 
 ## What happened
 

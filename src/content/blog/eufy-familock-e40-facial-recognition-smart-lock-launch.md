@@ -27,7 +27,7 @@ Eufy has expanded its smart lock portfolio with the FamiLock E40, a device that 
 
 # Eufy FamiLock E40: Facial Recognition Smart Lock with Built-in 2K Camera Launches
 
-The Eufy FamiLock E40 is a newly launched smart lock that integrates facial recognition, a 2K video doorbell, and a security camera into a single device, offering multiple unlocking methods, local data storage, and Matter compatibility without mandatory monthly subscriptions.
+The Eufy FamiLock E40 is a newly launched smart lock that integrates facial recognition, a 2K [video doorbell](https://quvii.com/learn/renter-friendly-wireless-video-doorbell-options-20260613), and a security camera into a single device, offering multiple unlocking methods, local data storage, and Matter compatibility without mandatory monthly subscriptions.
 
 ## What happened
 
@@ -41,7 +41,7 @@ In mid-June 2026, Eufy officially announced the launch of its FamiLock series, a
 
 The FamiLock E40 was released alongside two other models: the E35, which features palm vein recognition, and the E32, a more streamlined Matter-over-Thread lock. The E40 stands out as the premium offering, utilizing AI-powered facial recognition as its primary hands-free access method. This system is designed to recognize authorized users as they approach the door, unlocking the deadbolt before the user reaches for the handle.
 
-According to initial retail reports, the E40 was first made available at select The Home Depot locations between June 10 and June 12, 2026. A wider rollout across Eufy’s direct-to-consumer website and Amazon is scheduled for July 2026. The manufacturer’s suggested retail price (MSRP) for the FamiLock E40 is positioned in the "around $300" price band, placing it at the high end of the consumer smart lock market but competitive with standalone high-end video doorbells and smart locks purchased separately [tomsguide.com](https://www.tomsguide.com).
+According to initial retail reports, the E40 was first made available at select The Home Depot locations between June 10 and June 12, 2026. A wider rollout across Eufy’s direct-to-consumer website and Amazon is scheduled for July 2026. The manufacturer’s suggested retail price (MSRP) for the FamiLock E40 is positioned in the "around $300" price band, placing it at the high end of the consumer smart lock market but competitive with standalone high-end video doorbells and [smart locks](https://quvii.com/blog/smart-locks-magnetic-tools-vulnerability-threat) purchased separately [tomsguide.com](https://www.tomsguide.com).
 
 Key technical specifications for the E40 include a 2K resolution camera with a 135-degree head-to-toe field of view, designed to monitor both visitors and packages. The device also incorporates a 60GHz radar sensor for motion detection, which Eufy claims significantly reduces false alerts compared to traditional Passive Infrared (PIR) sensors by more accurately filtering out non-human movement like swaying trees or passing cars <a href="https://www.amazon.com/s?k=eufy.com&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">eufy.com</a>.
 

@@ -58,7 +58,7 @@ The technical landscape of 2026 has solved the two biggest hurdles for apartment
 In a building with 50 units, the 2.4GHz and 5GHz Wi-Fi bands are often saturated, leading to dropped frames and delayed alerts. Modern renter-focused cameras like the <a href="https://www.amazon.com/s?k=Tapo+C120&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Tapo C120</a> utilize Wi-Fi 6 and 6E. By tapping into the 6GHz band, these devices bypass the "traffic jam" of older routers, ensuring that a person-detection alert reaches your phone in under two seconds.
 
 ### The Matter Standard in 2026
-With the maturation of Matter 1.4 and 1.5, cameras are no longer silos. A renter can now buy an Aqara G3-series camera and have it natively trigger a Philips Hue light or a Yale smart lock without needing a proprietary bridge. This allows a "security scene" where your indoor lights turn on the moment the camera detects a "non-resident" face at the door.
+With the maturation of Matter 1.4 and 1.5, cameras are no longer silos. A renter can now buy an Aqara G3-series camera and have it natively trigger a Philips Hue light or a Yale [smart lock](https://quvii.com/blog/eufy-familock-e40-facial-recognition-smart-lock-launch) without needing a proprietary bridge. This allows a "security scene" where your indoor lights turn on the moment the camera detects a "non-resident" face at the door.
 
 ### Local Storage vs. Subscription Clouds
 To avoid the "digital tax" of monthly fees, 2026 hardware heavily favors Edge AI and local storage.
