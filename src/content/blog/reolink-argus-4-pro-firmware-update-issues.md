@@ -126,11 +126,11 @@ The requirement to email support@reolink.com creates a 24-48 hour turnaround. Fo
 ![What to do now](/img/reolink-argus-4-pro-firmware-update-issues/inline-4.webp)
 
 
-If you own an Argus 4 Pro and suspect you are running outdated or buggy firmware, follow these steps to stabilize your system.
+If you own an [Argus 4 Pro](https://quvii.com/blog/reolink-argus-4-pro-new-release-features-20260613) and suspect you are running outdated or buggy firmware, follow these steps to stabilize your system.
 
 ### 1. Verify Your Hardware and Version
 Navigate to **Device Settings > Device Info** in the Reolink App. Take a screenshot of this page. You need the following three pieces of data:
-*   **Model:** Argus 4 Pro
+*   **Model:** [Argus 4](https://quvii.com/blog/reolink-argus-4-pro-new-release-features-20260613) Pro
 *   **Hardware No.:** (e.g., IPC_566...) [Information unavailable for specific 2026 revisions]
 *   **Firmware Version:** (e.g., v3.0.0.4978)
 *   **UID:** Your 16-character unique code.
@@ -138,7 +138,7 @@ Navigate to **Device Settings > Device Info** in the Reolink App. Take a screens
 ### 2. How to Request a Firmware Push
 Do not wait for the app to find the update. If you are facing issues, use the following template to email `support@reolink.com`:
 
-> **Subject:** Firmware Push Request: Argus 4 Pro [Your UID]
+> **Subject:** Firmware Push Request: Argus [4 Pro](https://quvii.com/blog/reolink-argus-4-pro-new-release-features-20260613) [Your UID]
 > 
 > **Body:**
 > Hello, I am experiencing [Battery Drain / Wi-Fi Drops / Missing Menus] on my Argus 4 Pro. My current firmware is [Version] and my Hardware No. is [Hardware No.]. Please push the latest stable 2026 firmware to my UID: [Your UID]. I confirm the camera is currently powered on and connected to Wi-Fi.
