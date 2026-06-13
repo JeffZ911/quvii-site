@@ -88,7 +88,7 @@ Firmware directly dictates how the PIR sensor and the dual-image processors inte
 *   *Note: Real-world performance depends heavily on trigger frequency and "ColorX" usage at night.*
 
 ### Resale and Support
-The secondary market for security cameras is growing, but the Argus 4 Pro’s update model makes resale tricky. A second-hand buyer may inherit an "orphaned" unit that hasn't been updated in years. Without the original proof of purchase or access to the previous owner's support history, getting Reolink to push the latest AI detection improvements to a legacy UID can be a hurdle.
+The secondary market for security cameras is growing, but the [Argus 4 Pro](https://quvii.com/blog/reolink-argus-4-pro-new-release-features-20260613)’s update model makes resale tricky. A second-hand buyer may inherit an "orphaned" unit that hasn't been updated in years. Without the original proof of purchase or access to the previous owner's support history, getting Reolink to push the latest AI detection improvements to a legacy UID can be a hurdle.
 
 ### The Hidden Cost of 'No Subscription'
 While Reolink is a leader in [subscription-free security cameras](https://reolink.com), the trade-off is often a less polished software delivery system. Brands like Ring or Nest charge a monthly fee but offer seamless, background firmware updates. With Reolink, the user "pays" for the lack of a subscription with their time spent managing the device's software health.
@@ -98,10 +98,10 @@ While Reolink is a leader in [subscription-free security cameras](https://reolin
 ![Impact on existing owners](/img/reolink-argus-4-pro-firmware-update-issues/inline-3.webp)
 
 
-Existing owners of the Argus 4 Pro have reported specific technical conflicts in 2026 that go beyond simple "bugs."
+Existing owners of the [Argus 4](https://quvii.com/blog/reolink-argus-4-pro-new-release-features-20260613) Pro have reported specific technical conflicts in 2026 that go beyond simple "bugs."
 
 ### Home Assistant Integration Risks
-For smart home enthusiasts, the Reolink Home Assistant integration is a powerful tool. However, recent community reports on r/HomeAssistant suggest that certain 2026 firmware builds for the Argus 4 Pro react poorly to being polled by third-party software. Specifically, if "Manual Recording" entities are enabled in Home Assistant, the camera may fail to enter its deep-sleep state, leading to a 10-20% battery drop per day.
+For smart home enthusiasts, the Reolink Home Assistant integration is a powerful tool. However, recent community reports on r/HomeAssistant suggest that certain 2026 firmware builds for the Argus [4 Pro](https://quvii.com/blog/reolink-argus-4-pro-new-release-features-20260613) react poorly to being polled by third-party software. Specifically, if "Manual Recording" entities are enabled in Home Assistant, the camera may fail to enter its deep-sleep state, leading to a 10-20% battery drop per day.
 
 ### SD Card Controller Failures
 A small but vocal group of users has reported that manual firmware pushes have occasionally "bricked" the onboard SD card reader. The camera will report a "Not Formatted" error or "No SD Card Detected" even with high-end Endurance-rated cards. In these cases, the issue is rarely the card itself but a failure in the firmware's driver for the SD card controller, often requiring a second "fix" push from Reolink support.
