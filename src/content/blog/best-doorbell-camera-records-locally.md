@@ -102,7 +102,7 @@ Recent updates to the Aqara Home app (v6.1.5) briefly caused issues where local 
 If you are looking to secure your front door in 2026 without a subscription, your decision should be based on your home's wiring and your technical comfort level.
 
 ### Step 1: Evaluate Your Wiring (PoE vs. Battery)
-The most reliable local storage is achieved through a wired connection. If you can run an Ethernet cable to your door, the **Reolink Video Doorbell PoE (under $100)** is the gold standard. It allows for 24/7 continuous recording to a Reolink NVR or a microSD card, bypassing the limitations of motion-only recording. If you are a renter or cannot run wires, a battery-powered model with a dedicated hub is the next best option.
+The most reliable local storage is achieved through a wired connection. If you can run an Ethernet cable to your door, the **Reolink [Video Doorbell](https://quvii.com/learn/renter-friendly-wireless-video-doorbell-options-20260613) PoE (under $100)** is the gold standard. It allows for 24/7 continuous recording to a Reolink NVR or a microSD card, bypassing the limitations of motion-only recording. If you are a renter or cannot run wires, a battery-powered model with a dedicated hub is the next best option.
 
 ### Step 2: Select Your Storage Hardware
 There are three primary tiers of local storage:

@@ -50,7 +50,7 @@ A recurring issue in 2026 involves the "Smart Battery" management menu. In certa
 ### Manual Push Requirement
 Because Reolink does not typically host standalone firmware files for battery cameras on their Download Center, users are forced into a "Manual Push" workflow. This requires the user to find their unique 16-character UID (Unique ID) and contact support. Reolink then "whitelists" that specific UID to receive a specific firmware build.
 
-**Known Firmware Benchmarks (Argus 4 Pro)**
+**Known Firmware Benchmarks ([Argus 4 Pro](https://quvii.com/blog/reolink-argus-4-pro-new-release-features-20260613))**
 
 | Version | Status | Key Changes/Issues |
 | :--- | :--- | :--- |
@@ -63,7 +63,7 @@ Because Reolink does not typically host standalone firmware files for battery ca
 The bottleneck exists because battery-powered cameras are designed to stay in a "sleep" state to conserve power. Pushing a global update to millions of sleeping devices could lead to massive failure rates if the update is interrupted by a low battery or a dropped Wi-Fi signal. Consequently, Reolink limits OTA updates to small batches, leaving many users on older, buggier software unless they proactively intervene.
 
 ### Feature Disparity Between Hardware Batches
-Owners have noted that certain AI detection features, such as the precision of "Pet Detection," seem to perform differently across different hardware IDs. While Reolink maintains the "Argus 4 Pro" branding, internal component swaps (common in the electronics industry due to supply chain shifts) mean that a firmware fix for one unit may not be compatible with another, further complicating the update landscape.
+Owners have noted that certain AI detection features, such as the precision of "Pet Detection," seem to perform differently across different hardware IDs. While Reolink maintains the "[Argus 4](https://quvii.com/blog/reolink-argus-4-pro-new-release-features-20260613) Pro" branding, internal component swaps (common in the electronics industry due to supply chain shifts) mean that a firmware fix for one unit may not be compatible with another, further complicating the update landscape.
 
 ## Why it matters for buyers
 
@@ -76,7 +76,7 @@ For those considering a [Reolink Argus 4](https://quvii.com/blog/reolink-argus-4
 The primary draw of a battery-powered, [local storage camera](https://reolink.com) is the "set and forget" nature of the hardware. However, the need to manually monitor forums and email support for basic stability patches introduces significant maintenance overhead. Buyers who want a maintenance-free experience may find the Reolink ecosystem requires more technical "babysitting" than competitors like Eufy or Arlo.
 
 ### Wi-Fi 6 Stability
-The Argus 4 Pro's headline support for 802.11ax (Wi-Fi 6) is intended to provide better range and less congestion. However, Wi-Fi 6 is a complex protocol that requires a clean "handshake" between the camera and the router. Outdated firmware has been shown to cause "ghosting" where the camera appears offline in the app but is still physically powered on, a problem often solved only by firmware updates that refine the Wi-Fi sleep/wake cycles.
+The Argus [4 Pro](https://quvii.com/blog/reolink-argus-4-pro-new-release-features-20260613)'s headline support for 802.11ax (Wi-Fi 6) is intended to provide better range and less congestion. However, Wi-Fi 6 is a complex protocol that requires a clean "handshake" between the camera and the router. Outdated firmware has been shown to cause "ghosting" where the camera appears offline in the app but is still physically powered on, a problem often solved only by firmware updates that refine the Wi-Fi sleep/wake cycles.
 
 ### Battery Longevity
 Firmware directly dictates how the PIR sensor and the dual-image processors interact. If the firmware has a bug that causes the camera to wake up too frequently—or stay awake too long after a false trigger—the 5000mAh battery can drain in days rather than months. 
