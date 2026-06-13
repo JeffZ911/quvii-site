@@ -263,7 +263,7 @@ Legally, you can typically place cameras to monitor your own property, especiall
 *   Moen.com — Flo Smart Water Monitor and Shutoff https://www.moen.com/flo
 *   Govee.com — Govee Water Leak Detector
 *   Security.org — Smart Lighting Security
-*   Go Abode — Smart Locks https://goabode.com/smart-home-security/smart-locks/
+*   Go Abode — [Smart Locks](https://quvii.com/blog/smart-locks-magnetic-tools-vulnerability-threat) https://goabode.com/smart-home-security/smart-locks/
 *   Go Abode — Temperature Sensor https://goabode.com/smart-home-security/sensors/temperature-sensor/
 *   CNET — Ring Shares Videos With Police: What to Know
 *   Cm3inc.com — Physical Security https://www.cm3inc.com/blog/physical-security

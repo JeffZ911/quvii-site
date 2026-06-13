@@ -27,7 +27,7 @@ Installing a doorbell camera in a rental unit used to require a compromise betwe
 
 # How to Install a Doorbell Camera in an Apartment: The 2026 Renter’s Guide
 
-Install an apartment doorbell camera using a no-drill door mount or a peephole camera like the Ring Peephole Cam or Eufy Video Doorbell E340 with a renter-specific mounting kit. These options require zero drilling and leave no permanent damage to the door or frame.
+Install an apartment doorbell camera using a no-drill door mount or a peephole camera like the Ring Peephole Cam or Eufy [Video Doorbell](https://quvii.com/learn/renter-friendly-wireless-video-doorbell-options-20260613) E340 with a renter-specific mounting kit. These options require zero drilling and leave no permanent damage to the door or frame.
 
 ## What happened
 
