@@ -163,7 +163,7 @@ Once setup is complete, perform a series of tests to ensure the integration is r
 *   "Alexa, show the last motion event from the backyard."
 *   "Alexa, talk to the driveway."
 *   "Alexa, hide the camera."
-*   "Alexa, is the front door locked?" (If integrated with a smart lock).
+*   "Alexa, is the front door locked?" (If integrated with a [smart lock](https://quvii.com/blog/eufy-familock-e40-facial-recognition-smart-lock-launch)).
 *   "Alexa, zoom in on the porch." (Supported via Matter 1.5 PTZ controls).
 *   "Alexa, turn on the floodlight."
 *   "Alexa, show all my cameras."

@@ -158,7 +158,7 @@ For systems that are several years old, a hardware upgrade might be necessary to
 Consider integrating smart home devices like water leak sensors and smart lighting to enhance overall vacant home security beyond just cameras. Cameras provide visual surveillance, but smart sensors can detect other critical issues.
 *   **Water Leak Sensors:** Placed near water heaters, sinks, and toilets, these devices can send immediate alerts to your phone if a leak is detected, potentially preventing catastrophic water damage. Brands like Flo by Moen, Govee, and Aqara offer reliable leak detection solutions.
 *   **Smart Lighting:** Automated smart lights can be programmed to turn on and off at varying times, mimicking occupancy and deterring potential intruders. Many smart lighting systems can be integrated with security cameras or motion sensors for a more responsive deterrent.
-*   **Smart Locks:** While not directly camera-related, smart locks allow for remote access control and monitoring of entry, providing an additional layer of security and convenience for contractors or trusted visitors.
+*   **[Smart Locks](https://quvii.com/blog/smart-locks-magnetic-tools-vulnerability-threat):** While not directly camera-related, smart locks allow for remote access control and monitoring of entry, providing an additional layer of security and convenience for contractors or trusted visitors.
 *   **Temperature/Humidity Sensors:** These can alert you to extreme conditions that might indicate HVAC failure, preventing issues like frozen pipes in winter or mold growth in humid environments.
 
 Integrating these devices creates a layered defense, providing a more comprehensive security and monitoring solution for a vacant property.
