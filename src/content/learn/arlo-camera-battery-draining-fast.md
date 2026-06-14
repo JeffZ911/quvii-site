@@ -103,7 +103,7 @@ Arlo Secure 5.0 (the 2026 subscription tier) offloads the heavy lifting of AI an
 
 ![Real-world implications](/img/arlo-camera-battery-draining-fast/inline-4.webp)
 
-The impact of fast battery drain goes beyond mere annoyance; it creates a fundamental security vulnerability.
+The impact of fast [battery drain](https://quvii.com/blog/ring-doorbell-battery-drain-june-2026-update) goes beyond mere annoyance; it creates a fundamental security vulnerability.
 
 ### Security Gaps and "Ladder Fatigue"
 When a battery dies, the home is unprotected. "Ladder fatigue" is a documented phenomenon where users, tired of the constant maintenance, leave a camera dead for weeks at a time. This effectively turns a $200 security device into a plastic lawn ornament.

@@ -114,7 +114,7 @@ There are three primary tiers of local storage:
 
 | Model | Power | Storage Location | Max Capacity | Best For |
 | :--- | :--- | :--- | :--- | :--- |
-| **Eufy E340** | Battery/Wired | HomeBase 3 / SD | 16TB (Hub) | General Homeowners |
+| **Eufy E340** | Battery/Wired | [HomeBase 3](https://quvii.com/learn/eufycam-s330-homebase-3-firmware-sync-error) / SD | 16TB (Hub) | General Homeowners |
 | **Reolink PoE** | PoE (Ethernet) | NVR / SD | 256GB (SD) / 16TB+ (NVR) | Maximum Reliability |
 | **Aqara G4** | Battery/Wired | Chime Unit (SD) | 512GB | Apple HomeKit Users |
 | **Ubiquiti G4 Pro** | PoE / USB-C | UniFi NVR | Unlimited (NVR) | Prosumers/Business |

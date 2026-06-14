@@ -32,7 +32,7 @@ Detection is a hardware-level event. On an Outdoor 4, the Passive Infrared (PIR)
 Hardware degradation is rare but possible. If a camera that previously worked perfectly now ignores all movement regardless of settings, the PIR sensor may have physically failed. Signs include:
 *   **Log Gaps:** The camera logs "Connection Restored" events but never motion, even during a "Walk Test."
 *   **Status LED Issues:** On the Outdoor 4, the red LED usually flashes when recording (if enabled). If it never flashes during movement, the sensor isn't triggering.
-*   **Battery Drain without Clips:** If batteries die in weeks rather than months, but no clips are recorded, the sensor may be stuck in a "high" state, constantly trying to wake the camera.
+*   **[Battery Drain](https://quvii.com/blog/ring-doorbell-battery-drain-june-2026-update) without Clips:** If batteries die in weeks rather than months, but no clips are recorded, the sensor may be stuck in a "high" state, constantly trying to wake the camera.
 
 | Issue Type | Symptom | Primary Cause |
 | :--- | :--- | :--- |
@@ -80,7 +80,7 @@ The 1–10 sensitivity slider in the Blink app adjusts the voltage threshold req
 The technical limitations of Blink's motion detection create specific security vulnerabilities that owners must mitigate through strategic placement.
 
 ### The "Head-On" Security Gap
-The most common failure point for a Blink Video Doorbell or Outdoor 4 is being mounted at the end of a long, straight walkway. Because the PIR sensor struggles with "head-on" movement, a porch pirate walking directly toward the door may not be detected until they are within 2 or 3 feet of the lens. By the time the camera wakes up and records, the person may already be turning away, obscuring their face.
+The most common failure point for a Blink [Video Doorbell](https://quvii.com/learn/renter-friendly-wireless-video-doorbell-options-20260613) or Outdoor 4 is being mounted at the end of a long, straight walkway. Because the PIR sensor struggles with "head-on" movement, a porch pirate walking directly toward the door may not be detected until they are within 2 or 3 feet of the lens. By the time the camera wakes up and records, the person may already be turning away, obscuring their face.
 
 ### Optimizing Placement for the 'Walking Across' Rule
 To maximize detection, cameras should be mounted so that the expected path of an intruder crosses the field of view at an angle. 

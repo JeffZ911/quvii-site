@@ -140,7 +140,7 @@ Privacy remains a polarizing topic for both brands. Both Google and Ring have po
 
 **Privacy Policy Summary: Law Enforcement Data Sharing**
 
-| Policy Detail | Google Nest | Ring (Amazon) |
+| Policy Detail | [Google Nest](https://quvii.com/learn/google-nest-cam-battery-drain-june-2026-update-20260614) | Ring (Amazon) |
 | :--- | :--- | :--- |
 | **Warrant Required?** | Yes, for standard requests | Yes, for standard requests |
 | **Emergency Exception** | Yes (Life-safety/Emergency) | Yes (Life-safety/Emergency) |
@@ -188,7 +188,7 @@ Total cost of ownership (TCO) for a 3-camera setup over five years often exceeds
 
 ## Decision Framework: Which should you buy?
 
-*   **If you are a Renter:** Prioritize the **Google Nest Cam (Battery)**. Its 3-hour free video history means you aren't forced into a subscription immediately, and the magnetic mount is less invasive for temporary installs.
+*   **If you are a Renter:** Prioritize the **[Google Nest Cam](https://quvii.com/learn/google-nest-cam-battery-drain-june-2026-update-20260614) (Battery)**. Its 3-hour free video history means you aren't forced into a subscription immediately, and the magnetic mount is less invasive for temporary installs.
 *   **If you have a Large Property:** Prioritize the **Ring Stick Up Cam Pro**. The radar-based 3D Motion Detection is significantly better at filtering out "false positives" (like swaying trees or street traffic) over long distances compared to Nest's optical-based detection.
 *   **If you use Google Workspace/Android:** Prioritize the **Nest Cam**. The integration with Gemini allows you to search your video history using text commands on your phone or Nest Hub.
 *   **If you have a Ring Alarm System:** Prioritize the **Ring Stick Up Cam Pro**. Adding it to your existing Ring Protect plan costs nothing extra, and it can be integrated into your home's professional monitoring ecosystem.

@@ -27,7 +27,7 @@ If your Eufy security camera is producing milky, hazy, or out-of-focus footage a
 
 # Eufy Camera Night Vision Blurry? 2026 Firmware Fixes & Hardware Guide
 
-Blurry Eufy night vision is often caused by IR reflection or the Feb 2026 firmware bug (v3.8.2.0). Restart your HomeBase 3 and clean the lens. If haze persists on S340/S220 models, it may be UV lens degradation—contact Eufy for a warranty swap.
+Blurry Eufy [night vision](https://quvii.com/learn/wyze-cam-v4-night-vision-flickering-fix) is often caused by IR reflection or the Feb 2026 firmware bug (v3.8.2.0). Restart your HomeBase 3 and clean the lens. If haze persists on S340/S220 models, it may be UV lens degradation—contact Eufy for a warranty swap.
 
 ## What happened
 

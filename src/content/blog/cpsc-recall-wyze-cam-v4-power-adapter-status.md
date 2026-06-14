@@ -100,14 +100,14 @@ The total cost of ownership (TCO) for a [Wyze Cam v4](https://quvii.com/learn/wy
 ![Impact on existing owners](/img/cpsc-recall-wyze-cam-v4-power-adapter-status/inline-3.webp)
 
 
-If you currently own a Wyze Cam v4, the lack of an official recall doesn't mean you should ignore the health of your power supply. Electrical components can degrade over time, particularly if they are exposed to heat or power surges.
+If you currently own a [Wyze Cam v4](https://quvii.com/learn/wyze-cam-v4-night-vision-flickering-fix), the lack of an official recall doesn't mean you should ignore the health of your power supply. Electrical components can degrade over time, particularly if they are exposed to heat or power surges.
 
 ### How to Inspect Your v4 Power Adapter
 
 To ensure your hardware is safe, perform a physical inspection of the adapter and cable every six months. 
 
 1.  **Check Model Markings:** Look for the UL or ETL "circle" logo on the flat face of the power brick. If the brick only features a "CE" mark or has no regulatory markings at all, it was likely not intended for the US market or is a third-party replacement of unknown quality.
-2.  **Verify the Output:** The Wyze Cam v4 brick should specify an output of `5.0V == 2.0A`. Using an older 1A brick from a Wyze Cam v2 or v1 will result in underpowering the v4, leading to crashes when the spotlight or [night vision](https://quvii.com/learn/wyze-cam-v4-night-vision-flickering-fix) kicks in.
+2.  **Verify the Output:** The Wyze [Cam v4](https://quvii.com/learn/wyze-cam-v4-night-vision-flickering-fix) brick should specify an output of `5.0V == 2.0A`. Using an older 1A brick from a Wyze Cam v2 or v1 will result in underpowering the v4, leading to crashes when the spotlight or [night vision](https://quvii.com/learn/wyze-cam-v4-night-vision-flickering-fix) kicks in.
 3.  **Inspect the Port:** Unplug the micro-USB cable from the back of the camera and look for green or white crusting (corrosion), which indicates moisture has reached the pins.
 
 ### Troubleshooting Intermittent Power Issues
@@ -115,7 +115,7 @@ To ensure your hardware is safe, perform a physical inspection of the adapter an
 Many "failure" symptoms that users mistake for hardware defects are actually power-delivery issues. If your v4 is exhibiting the following behaviors, the adapter or cable is likely the culprit:
 *   **Coil Whine:** A high-pitched whistling or buzzing sound coming from the wall plug.
 *   **Frequent Reboots:** The camera goes offline and plays the "Ready to Connect" chime randomly.
-*   **Night Vision Failure:** The camera works during the day but reboots the moment the IR lights click on at dusk.
+*   **[Night Vision](https://quvii.com/learn/wyze-cam-v4-night-vision-flickering-fix) Failure:** The camera works during the day but reboots the moment the IR lights click on at dusk.
 *   **Image Artifacts:** Purple tinting or "rolling lines" on the video feed can indicate "dirty" power from a failing capacitor in the brick.
 
 ### Wyze Support Channels in 2026
