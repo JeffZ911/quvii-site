@@ -162,7 +162,7 @@ The transition to hardwired security isn't just about avoiding a dead battery; i
 ## Sources
 
 *   Ring Support: Cold Weather and Battery Powered Ring Devices — https://support.ring.com/hc/en-us/articles/115005939463-Cold-Weather-and-Battery-Powered-Ring-Devices
-*   Google Nest Support: How Nest Cam charges in cold weather
+*   [Google Nest](https://quvii.com/learn/google-nest-cam-battery-drain-june-2026-update-20260614) Support: How Nest Cam charges in cold weather
 *   Arlo Knowledge Base: How does cold weather affect my Arlo camera? — https://kb.arlo.com/000062861/How-does-cold-weather-affect-my-Arlo-camera
 *   Reolink Product Specs: RLC-823A Operating Temperatures — https://reolink.com/product/rlc-823a/#specifications
 *   Battery University: Charging at High and Low Temperatures — https://batteryuniversity.com/article/bu-410-charging-at-high-and-low-temperatures

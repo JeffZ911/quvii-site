@@ -149,6 +149,6 @@ Quvii tracks these safety trade-offs and documentation changes across the catego
 ## Sources
 - CPSC — Recalls Database: https://www.cpsc.gov/Recalls
 - Wyze — Official Support and Safety Notices: https://support.wyze.com/
-- Ring — 2020 Video Doorbell Recall Notice: https://www.cpsc.gov/Recalls/2021/Ring-Recalls-Video-Doorbells-Due-to-Fire-Hazard
+- Ring — 2020 [Video Doorbell](https://quvii.com/learn/renter-friendly-wireless-video-doorbell-options-20260613) Recall Notice: https://www.cpsc.gov/Recalls/2021/Ring-Recalls-Video-Doorbells-Due-to-Fire-Hazard
 - Call2Recycle — Battery Disposal Locator: https://www.call2recycle.org/locator/
 - RTINGS — Security Camera Reviews and Testing:

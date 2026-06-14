@@ -61,7 +61,7 @@ Integration is the primary driver of satisfaction for these devices. A Nest Cam'
 
 Both models are sold primarily as battery-powered units to appeal to renters and DIY homeowners who avoid drilling through exterior walls. However, both offer "plug-in" versions or solar panel accessories. The [Google Nest](https://quvii.com/learn/google-nest-cam-battery-drain-june-2026-update-20260614) Cam (Battery) uses a proprietary magnetic mount that allows for easy removal for charging, while the Ring Stick Up Cam Pro features a quick-release battery pack, allowing the camera housing to remain mounted while you swap in a fresh battery.
 
-[Image Spec: A side-by-side real-world installation: A Google Nest Cam (Battery) mounted on a white wooden porch pillar next to a Ring Stick Up Cam Pro mounted on grey siding, showing the size difference and mounting hardware. Aspect Ratio: 16:9]
+[Image Spec: A side-by-side real-world installation: A [Google Nest Cam](https://quvii.com/learn/google-nest-cam-battery-drain-june-2026-update-20260614) (Battery) mounted on a white wooden porch pillar next to a Ring Stick Up Cam Pro mounted on grey siding, showing the size difference and mounting hardware. Aspect Ratio: 16:9]
 
 ## Why it exists
 
@@ -76,7 +76,7 @@ The 2026 landscape is defined by the transition from "motion alerts" to "generat
 
 Based on 2025 industry reports and retail data:
 *   **Ring (Amazon):** ~35-40% (Maintains lead through aggressive pricing and Echo integration).
-*   **Google Nest:** ~15-20% (Strongest in "Pro-sumer" and Google Workspace-heavy households).
+*   **[Google Nest](https://quvii.com/learn/google-nest-cam-battery-drain-june-2026-update-20260614):** ~15-20% (Strongest in "Pro-sumer" and Google Workspace-heavy households).
 *   **Arlo:** ~10-12% (Focusing on high-resolution premium hardware).
 *   **Others (Eufy, Wyze, Reolink):** ~30% (Gaining ground in the no-subscription and local storage segments).
 

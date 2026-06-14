@@ -61,7 +61,7 @@ As of June 2026, searching "Wyze" on the CPSC portal yields no results for the [
 ![Why it matters for buyers](/img/cpsc-recall-wyze-cam-v4-power-adapter-status/inline-2.webp)
 
 
-For the consumer security market, the power adapter is the most common point of failure and the highest potential fire risk. While the Wyze Cam v4 itself is a low-voltage device, the "wall wart" adapter converts 120V AC house power into 5V DC. If this component is manufactured with thin margins or lacks proper certification, it can become a liability during 24/7 operation.
+For the consumer security market, the power adapter is the most common point of failure and the highest potential fire risk. While the [Wyze Cam v4](https://quvii.com/learn/wyze-cam-v4-night-vision-flickering-fix) itself is a low-voltage device, the "wall wart" adapter converts 120V AC house power into 5V DC. If this component is manufactured with thin margins or lacks proper certification, it can become a liability during 24/7 operation.
 
 ### The Cost of Budget Hardware
 
@@ -71,7 +71,7 @@ Compared to brands like Reolink or Eufy, which often bundle more robust, weather
 
 ### Electrical Safety in Constant-On Devices
 
-Security cameras are "constant-on" devices. Unlike a phone charger that you unplug when finished, a camera adapter is under load 24 hours a day, 365 days a year. The Wyze Cam v4 requires a 5V/2A (10-watt) power supply to function correctly, especially when the high-intensity IR LEDs or the integrated spotlight are active at night.
+Security cameras are "constant-on" devices. Unlike a phone charger that you unplug when finished, a camera adapter is under load 24 hours a day, 365 days a year. The Wyze [Cam v4](https://quvii.com/learn/wyze-cam-v4-night-vision-flickering-fix) requires a 5V/2A (10-watt) power supply to function correctly, especially when the high-intensity IR LEDs or the integrated spotlight are active at night.
 
 | Power Standard | Meaning for US Consumers | Safety Implication |
 | :--- | :--- | :--- |

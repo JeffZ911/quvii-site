@@ -23,7 +23,7 @@ inline_image_sections:
   - "What to do now"
 ---
 
-For many homeowners, the primary appeal of a battery-powered video doorbell is the "set it and forget it" convenience of a wireless installation. However, recent reports from the Ring user community suggest that this convenience is being compromised by a significant increase in power consumption.
+For many homeowners, the primary appeal of a battery-powered [video doorbell](https://quvii.com/learn/renter-friendly-wireless-video-doorbell-options-20260613) is the "set it and forget it" convenience of a wireless installation. However, recent reports from the Ring user community suggest that this convenience is being compromised by a significant increase in power consumption.
 
 # Ring Doorbell Battery Drain: Why the June 2026 Update is Killing Your Charge
 

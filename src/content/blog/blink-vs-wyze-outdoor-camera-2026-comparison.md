@@ -44,7 +44,7 @@ The landscape of budget security cameras shifted dramatically between late 2025 
 
 Simultaneously, Blink introduced the **Sync Module XR**, a new hub that supports microSD local storage and extends the wireless range of Outdoor 4 and 2K+ cameras up to 400 feet in "XR+" mode (<a href="https://www.amazon.com/s?k=Blink+Support&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Blink Support</a>).
 
-Wyze, meanwhile, broke the 4K barrier for budget cameras with the **Wyze [Cam Pan](https://quvii.com/blog/wyze-solar-cam-pan-recall-fire-hazard) v4** in August 2025 (Business Wire). While the **Wyze Battery Cam Pro** remains their flagship outdoor wireless option at 2.5K resolution, the brand has doubled down on "Starlight" sensor technology, providing vivid color night vision in near-total darkness.
+Wyze, meanwhile, broke the 4K barrier for budget cameras with the **Wyze [Cam Pan](https://quvii.com/blog/wyze-solar-cam-pan-recall-fire-hazard) v4** in August 2025 (Business Wire). While the **Wyze Battery Cam Pro** remains their flagship outdoor wireless option at 2.5K resolution, the brand has doubled down on "Starlight" sensor technology, providing vivid color [night vision](https://quvii.com/learn/wyze-cam-v4-night-vision-flickering-fix) in near-total darkness.
 
 ### D1: 2026 Spec Comparison Table
 

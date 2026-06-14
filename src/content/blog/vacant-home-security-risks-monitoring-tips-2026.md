@@ -83,7 +83,7 @@ It is crucial for buyers to review the privacy policies of camera brands before 
 
 ### **Camera Feature Comparison: Subscription-Free Models (2026)**
 
-| Feature                 | eufyCam S330 (eufyCam 3)               | [Reolink Argus 4](https://quvii.com/blog/reolink-argus-4-pro-firmware-update-issues) Pro                   | [Wyze Cam v4](https://quvii.com/learn/wyze-cam-v4-night-vision-flickering-fix)                         |
+| Feature                 | [eufyCam S330](https://quvii.com/learn/eufycam-s330-homebase-3-firmware-sync-error) (eufyCam 3)               | [Reolink Argus 4](https://quvii.com/blog/reolink-argus-4-pro-firmware-update-issues) Pro                   | [Wyze Cam v4](https://quvii.com/learn/wyze-cam-v4-night-vision-flickering-fix)                         |
 | :---------------------- | :------------------------------------- | :------------------------------------ | :---------------------------------- |
 | **Resolution**          | 4K (8MP)                               | 4K (8MP)                              | 2K (2560x1440)                      |
 | **Night Vision**        | Color Night Vision, Spotlight          | Color Night Vision (Dual-Lens)        | Color Night Vision                  |

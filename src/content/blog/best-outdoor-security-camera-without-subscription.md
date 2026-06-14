@@ -102,7 +102,7 @@ If you are shopping for an outdoor camera today, the market has three clear lead
 
 ### Top Pick (Performance): Reolink Altas PT Ultra
 The Altas PT Ultra represents the pinnacle of 2026 battery technology. It is a 4K Pan-Tilt camera that solves the two biggest complaints about battery cameras: low resolution and "missed" events.
-*   **Key Specs:** 4K UHD resolution, 20,000mAh battery, and Reolink’s **ColorX** technology, which provides full-color night vision in near-total darkness without needing visible spotlights.
+*   **Key Specs:** 4K UHD resolution, 20,000mAh battery, and Reolink’s **ColorX** technology, which provides full-color [night vision](https://quvii.com/learn/wyze-cam-v4-night-vision-flickering-fix) in near-total darkness without needing visible spotlights.
 *   **Storage:** Supports up to 512GB microSD cards for local recording or can link to the Reolink Home Hub.
 *   **Price Range:** Around $210.
 *   **Best For:** Homeowners who want 24/7 recording but cannot run power cables to their mounting locations.
