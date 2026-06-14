@@ -114,7 +114,7 @@ However, most US homes are pre-wired with a standard round junction box for a fl
 ### Installation Checklist for High-Resolution Cameras
 1. **Verify Upload Speed:** A 16MP stream requires at least 15–20 Mbps of *upload* bandwidth at the install site. Use a speed test app on your phone while standing on a ladder at the camera's intended location.
 2. **Storage Selection:** If using local storage, do not use standard "Value" SD cards. High-resolution 24/7 recording will burn through a standard card in months. Look for "High Endurance" or "Max Endurance" cards (e.g., SanDisk Max Endurance or Samsung PRO Endurance) rated for thousands of write hours.
-3. **Lighting Calibration:** 2026 floodlights are incredibly bright. Ensure you use the "Area Masking" feature in the app to prevent the floodlight from blinding your neighbors or reflecting off your own white gutters, which can "wash out" the camera's night vision.
+3. **Lighting Calibration:** 2026 floodlights are incredibly bright. Ensure you use the "Area Masking" feature in the app to prevent the floodlight from blinding your neighbors or reflecting off your own white gutters, which can "wash out" the camera's [night vision](https://quvii.com/learn/wyze-cam-v4-night-vision-flickering-fix).
 
 ### Decision Matrix: Which Camera is Right for You?
 

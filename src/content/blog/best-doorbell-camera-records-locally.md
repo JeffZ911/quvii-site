@@ -50,7 +50,7 @@ Furthermore, the hardware for storing this data has evolved. The Eufy [HomeBase 
 | :--- | :--- | :--- | :--- | :--- |
 | **Ring Battery Doorbell Pro** | Cloud Only | ~$60–$120 | $400–$550 | Cloud-processed |
 | **Nest Doorbell (Gen 2)** | Cloud Only | ~$80–$150 | $420–$630 | Cloud-processed |
-| **Eufy [Video Doorbell](https://quvii.com/learn/renter-friendly-wireless-video-doorbell-options-20260613) E340** | Local (HomeBase 3) | $0 | ~$180–$250 | On-device Edge AI |
+| **Eufy [Video Doorbell](https://quvii.com/learn/renter-friendly-wireless-video-doorbell-options-20260613) E340** | Local ([HomeBase 3](https://quvii.com/learn/eufycam-s330-homebase-3-firmware-sync-error)) | $0 | ~$180–$250 | On-device Edge AI |
 | **Reolink PoE Doorbell** | Local (NVR/SD) | $0 | ~$100–$350* | On-device Edge AI |
 | **Aqara G4** | Local (SD/HomeKit) | $0 | ~$120 | On-device Edge AI |
 
@@ -146,7 +146,7 @@ By selecting a local-first system in 2026, you are not just saving money; you ar
 
 - <a href="https://www.amazon.com/s?k=Eufy+Security+%E2%80%94+Video+Doorbell+E340+Product+Page&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Eufy Security — [Video Doorbell](https://quvii.com/learn/renter-friendly-wireless-video-doorbell-options-20260613) E340 Product Page</a>
 - <a href="https://www.amazon.com/s?k=Reolink+%E2%80%94+Video+Doorbell+PoE+Specs+and+NVR+Compatibility&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Reolink — [Video Doorbell](https://quvii.com/learn/renter-friendly-wireless-video-doorbell-options-20260613) PoE Specs and NVR Compatibility</a>
-- Aqara — Smart Video Doorbell G4 Support and Firmware
+- Aqara — Smart [Video Doorbell](https://quvii.com/learn/renter-friendly-wireless-video-doorbell-options-20260613) G4 Support and Firmware
 - The Verge — The Rising Cost of [Home Security](https://quvii.com/blog/smart-home-security-privacy-trends-2026) Subscriptions
 - RTINGS — Security Camera Latency and Performance Testing
 - Ubiquiti — UniFi Protect G4 Doorbell Pro Technical Specifications

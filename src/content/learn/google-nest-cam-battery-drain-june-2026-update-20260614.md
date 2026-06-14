@@ -66,7 +66,7 @@ It is easy to assume that a battery dying after two or three years is simply rea
 ![Why it exists](/img/google-nest-cam-battery-drain-june-2026-update-20260614/inline-2.webp)
 
 
-The battery drain is not a single bug but rather a confluence of three major features introduced or refined in the June 2026 update. Each of these features prioritizes speed and intelligence over power conservation.
+The battery drain is not a single bug but rather a confluence of three major features introduced or refined in the [June 2026 update](https://quvii.com/blog/ring-doorbell-battery-drain-june-2026-update). Each of these features prioritizes speed and intelligence over power conservation.
 
 ### The Gemini 3.1 overhead
 The integration of Gemini 3.1 "Scene Understanding" is the primary driver of the drain. Unlike traditional PIR (Passive Infrared) motion detection, which simply looks for heat signatures, Scene Understanding attempts to categorize the *context* of a movement (e.g., "a person carrying a package" vs. "a person walking a dog"). To do this, the camera must stay in a high-power state longer to capture and upload a high-quality buffer to the cloud for analysis. According to Google’s AI documentation, these advanced models require more frequent data transmissions to maintain accuracy.

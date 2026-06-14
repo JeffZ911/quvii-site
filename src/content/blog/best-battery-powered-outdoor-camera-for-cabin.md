@@ -56,7 +56,7 @@ Solar panels for security cameras have evolved from 2W or 3W trickles to 6W and 
 | **Recording Mode** | Continuous or Event | Event-Based | Event-Based |
 | **Battery Capacity** | 20,000 mAh | [Information unavailable] | [Information unavailable] |
 | **[Night Vision](https://quvii.com/learn/wyze-cam-v4-night-vision-flickering-fix)** | ColorX (No IR needed) | Color (via Spotlight) | Color (via Spotlight) |
-| **Primary Storage** | Local MicroSD (up to 512GB) | 8GB Local / HomeBase 3 | Cloud (Subscription req.) |
+| **Primary Storage** | Local MicroSD (up to 512GB) | 8GB Local / [HomeBase 3](https://quvii.com/learn/eufycam-s330-homebase-3-firmware-sync-error) | Cloud (Subscription req.) |
 | **Subscription** | Optional (Cloud backup) | None required | Required for AI/Cloud |
 | **Price Band** | Around $200 | $150–$200 range | $150–$200 range |
 
@@ -127,7 +127,7 @@ Check the "LTE Gap": If your cabin is off-grid, the Reolink Go Ultra is the reco
 | **Deep Ecosystem** | Ease of use/Cloud backup | **Arlo Pro 5S 2K** |
 
 ### Top Pick for Wi-Fi Cabins: Reolink Altas PT Ultra
-The Altas PT Ultra is the first battery camera that doesn't feel like a compromise. By offering a 20,000mAh battery, it solves the longevity issue, and by offering 4K continuous recording, it solves the security gap. For a cabin with a reliable Wi-Fi signal, it provides the most comprehensive coverage per dollar spent. Its ColorX technology is particularly useful in wooded areas where traditional IR night vision often reflects off leaves and branches, causing "white-out" in the image.
+The Altas PT Ultra is the first battery camera that doesn't feel like a compromise. By offering a 20,000mAh battery, it solves the longevity issue, and by offering 4K continuous recording, it solves the security gap. For a cabin with a reliable Wi-Fi signal, it provides the most comprehensive coverage per dollar spent. Its ColorX technology is particularly useful in wooded areas where traditional IR [night vision](https://quvii.com/learn/wyze-cam-v4-night-vision-flickering-fix) often reflects off leaves and branches, causing "white-out" in the image.
 
 ### Top Pick for No-Wi-Fi Cabins: Reolink Go Ultra
 The Go Ultra remains the benchmark for LTE security. It delivers true 4K resolution over a cellular connection. While it does require a data plan (usually around $10–$20 per month from a carrier), it is the only way to get real-time alerts from a property that lacks an internet backbone. It is compatible with the Reolink 6W solar panel, which is essential for maintaining the high power demands of 4K cellular transmission.

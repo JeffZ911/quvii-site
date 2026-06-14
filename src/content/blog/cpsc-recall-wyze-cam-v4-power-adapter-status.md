@@ -34,7 +34,7 @@ Safety concerns regarding home security hardware often spread faster than offici
 ![What happened](/img/cpsc-recall-wyze-cam-v4-power-adapter-status/inline-1.webp)
 
 
-As of June 10, 2026, the U.S. Consumer Product Safety Commission (CPSC) has not issued any recall or safety alert specifically targeting the Wyze [Cam v4](https://quvii.com/learn/wyze-cam-v4-night-vision-flickering-fix) or its included power adapter. The Wyze Cam v4, which launched as a successor to the popular v3, continues to be sold through major retailers without active safety restrictions. However, the surge in "recall" searches is not accidental; it is driven by a combination of historical brand issues, community-driven troubleshooting, and sophisticated phishing attempts targeting the Wyze user base.
+As of June 10, 2026, the U.S. Consumer Product Safety Commission (CPSC) has not issued any recall or safety alert specifically targeting the Wyze [Cam v4](https://quvii.com/learn/wyze-cam-v4-night-vision-flickering-fix) or its included power adapter. The [Wyze Cam v4](https://quvii.com/learn/wyze-cam-v4-night-vision-flickering-fix), which launched as a successor to the popular v3, continues to be sold through major retailers without active safety restrictions. However, the surge in "recall" searches is not accidental; it is driven by a combination of historical brand issues, community-driven troubleshooting, and sophisticated phishing attempts targeting the Wyze user base.
 
 Understanding the distinction between a formal government recall and a manufacturer "service advisory" or a community-reported bug is essential for maintaining a safe smart home environment.
 
@@ -54,7 +54,7 @@ While Wyze did not initiate a CPSC-mandated recall for these cables, they did ad
 
 To verify if a device is truly under recall, consumers should rely on the CPSC Recall Database rather than social media headlines. A formal recall involves a specific "Recall Number," a defined "Remedy" (such as a refund or replacement), and a public statement regarding the hazard (e.g., fire, shock, or injury). 
 
-As of June 2026, searching "Wyze" on the CPSC portal yields no results for the Cam v4 power adapter. Users should also be aware of a persistent phishing campaign reported on r/wyzecam throughout 2025 and 2026. These emails often use the subject line "Urgent Safety Recall Notice" and prompt users to log in to a fake portal to "claim a replacement adapter," with the goal of harvesting Wyze account credentials. Always verify recall news by visiting the manufacturer's official support site directly.
+As of June 2026, searching "Wyze" on the CPSC portal yields no results for the [Cam v4](https://quvii.com/learn/wyze-cam-v4-night-vision-flickering-fix) power adapter. Users should also be aware of a persistent phishing campaign reported on r/wyzecam throughout 2025 and 2026. These emails often use the subject line "Urgent Safety Recall Notice" and prompt users to log in to a fake portal to "claim a replacement adapter," with the goal of harvesting Wyze account credentials. Always verify recall news by visiting the manufacturer's official support site directly.
 
 ## Why it matters for buyers
 

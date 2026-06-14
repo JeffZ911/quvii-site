@@ -27,7 +27,7 @@ Owners of the [Reolink Argus 4](https://quvii.com/blog/reolink-argus-4-pro-new-r
 
 # Reolink Argus 4 Pro Firmware Update Issues: What Owners Need to Know in 2026
 
-**Quick Answer:** Many [Reolink Argus](https://quvii.com/blog/reolink-argus-4-pro-new-release-features-20260613) [4 Pro](https://quvii.com/blog/reolink-argus-4-pro-new-release-features-20260613) users report that the app incorrectly shows firmware as "up to date." To fix bugs like battery drain or missing "Smart Battery" menus, you must often email Reolink support to have the latest 2026 firmware (such as versions succeeding v3.0.0.4978) manually pushed to your device UID.
+**Quick Answer:** Many [Reolink Argus](https://quvii.com/blog/reolink-argus-4-pro-new-release-features-20260613) [4 Pro](https://quvii.com/blog/reolink-argus-4-pro-new-release-features-20260613) users report that the app incorrectly shows firmware as "up to date." To fix bugs like [battery drain](https://quvii.com/blog/ring-doorbell-battery-drain-june-2026-update) or missing "Smart Battery" menus, you must often email Reolink support to have the latest 2026 firmware (such as versions succeeding v3.0.0.4978) manually pushed to your device UID.
 
 ## What happened
 

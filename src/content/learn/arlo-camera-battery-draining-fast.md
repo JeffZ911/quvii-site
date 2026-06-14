@@ -31,7 +31,7 @@ The convenience of a wire-free security system vanishes the moment you find your
 
 # Why Your Arlo Camera Battery is Draining Fast: 2026 Troubleshooting Guide
 
-**Quick Answer:** Arlo battery drain is typically caused by high-traffic motion triggers, weak Wi-Fi signal (RSSI lower than -60dBm), or extreme cold. Reducing motion sensitivity, narrowing the Field of View (FOV) to exclude street traffic, and offloading the connection to an Arlo SmartHub can extend battery life from a few weeks to over six months.
+**Quick Answer:** Arlo [battery drain](https://quvii.com/blog/ring-doorbell-battery-drain-june-2026-update) is typically caused by high-traffic motion triggers, weak Wi-Fi signal (RSSI lower than -60dBm), or extreme cold. Reducing motion sensitivity, narrowing the Field of View (FOV) to exclude street traffic, and offloading the connection to an Arlo SmartHub can extend battery life from a few weeks to over six months.
 
 ## What it means
 

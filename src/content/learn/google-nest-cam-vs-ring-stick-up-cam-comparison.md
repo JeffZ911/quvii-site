@@ -48,7 +48,7 @@ Integration is the primary driver of satisfaction for these devices. A Nest Cam'
 
 **Ecosystem Compatibility Chart (2026)**
 
-| Feature | Google Nest Cam (Battery) | Ring Stick Up Cam Pro |
+| Feature | [Google Nest Cam](https://quvii.com/learn/google-nest-cam-battery-drain-june-2026-update-20260614) (Battery) | Ring Stick Up Cam Pro |
 | :--- | :--- | :--- |
 | **Primary App** | Google Home | Ring |
 | **Voice Assistant** | Google Assistant / Gemini | Amazon Alexa |
@@ -59,7 +59,7 @@ Integration is the primary driver of satisfaction for these devices. A Nest Cam'
 
 ### Hardware Versatility: Battery vs. Wired
 
-Both models are sold primarily as battery-powered units to appeal to renters and DIY homeowners who avoid drilling through exterior walls. However, both offer "plug-in" versions or solar panel accessories. The Google Nest Cam (Battery) uses a proprietary magnetic mount that allows for easy removal for charging, while the Ring Stick Up Cam Pro features a quick-release battery pack, allowing the camera housing to remain mounted while you swap in a fresh battery.
+Both models are sold primarily as battery-powered units to appeal to renters and DIY homeowners who avoid drilling through exterior walls. However, both offer "plug-in" versions or solar panel accessories. The [Google Nest](https://quvii.com/learn/google-nest-cam-battery-drain-june-2026-update-20260614) Cam (Battery) uses a proprietary magnetic mount that allows for easy removal for charging, while the Ring Stick Up Cam Pro features a quick-release battery pack, allowing the camera housing to remain mounted while you swap in a fresh battery.
 
 [Image Spec: A side-by-side real-world installation: A Google Nest Cam (Battery) mounted on a white wooden porch pillar next to a Ring Stick Up Cam Pro mounted on grey siding, showing the size difference and mounting hardware. Aspect Ratio: 16:9]
 

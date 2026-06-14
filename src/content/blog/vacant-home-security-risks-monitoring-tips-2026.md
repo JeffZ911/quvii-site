@@ -71,7 +71,7 @@ AI-powered detection is a critical feature for monitoring vacant properties, as 
 
 Long battery life and solar charging capabilities are essential for cameras in vacant homes, minimizing the need for frequent maintenance visits. Wired cameras require consistent power, which might not be practical or available in every vacant property scenario. Battery-powered cameras offer flexibility in placement but necessitate periodic recharging. The integration of solar panels, either built-in or as an accessory, transforms many battery cameras into self-sustaining units, providing continuous power without manual intervention.
 
-For instance, the eufyCam S330 (eufyCam 3) boasts a 13,400 mAh battery with an integrated solar panel that can provide "eternal power" with just 2 hours of direct sunlight per day. Reolink offers several solar-powered cameras, such as the Argus 3 Pro and [Argus 4 Pro](https://quvii.com/blog/reolink-argus-4-pro-firmware-update-issues), which can be paired with a Reolink Solar Panel for uninterrupted operation. This feature is particularly beneficial for properties that are remote or lack easily accessible power outlets.
+For instance, the [eufyCam S330](https://quvii.com/learn/eufycam-s330-homebase-3-firmware-sync-error) (eufyCam 3) boasts a 13,400 mAh battery with an integrated solar panel that can provide "eternal power" with just 2 hours of direct sunlight per day. Reolink offers several solar-powered cameras, such as the Argus 3 Pro and [Argus 4 Pro](https://quvii.com/blog/reolink-argus-4-pro-firmware-update-issues), which can be paired with a Reolink Solar Panel for uninterrupted operation. This feature is particularly beneficial for properties that are remote or lack easily accessible power outlets.
 
 Cellular connectivity options further extend monitoring capabilities to properties without reliable Wi-Fi, offering flexibility for remote locations or during internet service interruptions. Cameras like the Reolink Go series utilize 4G LTE cellular data to transmit footage, making them ideal for construction sites, cabins, or homes where traditional internet is unavailable. These typically require a separate data plan, which adds a recurring cost, but provides a vital link where no other option exists.
 
@@ -253,9 +253,9 @@ Legally, you can typically place cameras to monitor your own property, especiall
 *   The Gadgeteer — eufy Security S330 eufyCam 3 review
 *   Zealous Advocate — Ring Camera Footage & Police https://www.zealousadvocate.com/legal-issues/ring-camera-footage-police/
 *   Reolink.com — [Reolink Argus](https://quvii.com/blog/reolink-argus-4-pro-firmware-update-issues) [4 Pro](https://quvii.com/blog/reolink-argus-4-pro-firmware-update-issues) [https://reolink.com/product/argus-4-pro/](https://reolink.com/product/argus-4-pro/)
-*   Wyze.com — Wyze Cam v4 [https://www.wyze.com/products/wyze-cam-v4](https://www.wyze.com/products/wyze-cam-v4)
+*   Wyze.com — [Wyze Cam v4](https://quvii.com/learn/wyze-cam-v4-night-vision-flickering-fix) [https://www.wyze.com/products/wyze-cam-v4](https://www.wyze.com/products/wyze-cam-v4)
 *   Wyze.com — Cam Plus Subscription
-*   CNET — Wyze Cam v4 Review
+*   CNET — Wyze [Cam v4](https://quvii.com/learn/wyze-cam-v4-night-vision-flickering-fix) Review
 *   Wyze.com — Cam Plus Features [https://support.wyze.com/hc/en-us/articles/360037597112-What-is-Cam-Plus](https://support.wyze.com/hc/en-us/articles/360037597112-What-is-Cam-Plus)
 *   Arlo.com — Arlo Secure Plans [https://www.arlo.com/en-us/accessories/service-plans](https://www.arlo.com/en-us/accessories/service-plans)
 *   CCTV Camera World — Importance of Firmware Updates
