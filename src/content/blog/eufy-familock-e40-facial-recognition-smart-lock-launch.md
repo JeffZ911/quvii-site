@@ -81,7 +81,7 @@ By consolidating two devices into one and removing the "feature paywall," the E4
 Biometric data is a sensitive topic for many consumers. Eufy’s documentation specifies that facial, palm, and fingerprint data are processed and stored locally on the device’s encrypted chip. This data is not uploaded to the cloud, a policy designed to mitigate the risk of large-scale data breaches. Furthermore, the E40 uses AES-128 encryption for video transmissions, following standard industry protocols for local streaming natlawreview.com.
 
 ### Broad Smart Home Compatibility
-The inclusion of Matter support is a critical feature for 2026 buyers. Matter allows the E40 to communicate natively with Apple Home, Amazon Alexa, Google Home, and Samsung SmartThings. While the lock functionality (locking/unlocking) works seamlessly across these platforms via Matter, users should note that advanced video features and facial recognition management often still require the proprietary Eufy Security app, as the Matter 1.3 standard (and earlier) has limited support for complex camera AI configurations applehomeauthority.com.
+The inclusion of Matter support is a critical feature for 2026 buyers. Matter allows the E40 to communicate natively with Apple Home, Amazon Alexa, Google Home, and Samsung SmartThings. While the lock functionality (locking/unlocking) works seamlessly across these platforms via Matter, users should note that advanced video features and facial recognition management often still require the proprietary Eufy [Security app](https://quvii.com/blog/eufy-security-app-login-loop-june-2026-guide), as the Matter 1.3 standard (and earlier) has limited support for complex camera AI configurations applehomeauthority.com.
 
 ## Impact on existing owners
 

@@ -113,7 +113,7 @@ If you are a current Eufy owner or are considering the brand, follow these steps
 
 ### Step 1: Audit Your Notification Settings
 To prevent any images from being uploaded to Eufy’s servers:
-1.  Open the **Eufy Security App**.
+1.  Open the **[Eufy Security App](https://quvii.com/blog/eufy-security-app-login-loop-june-2026-guide)**.
 2.  Go to **Settings** > **Notifications**.
 3.  Select **Notification Content**.
 4.  Switch from "Include Thumbnail" to **"Most Efficient" (Text Only)**.

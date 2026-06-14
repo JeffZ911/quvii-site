@@ -114,7 +114,7 @@ Fixing blurry Eufy night vision requires a systematic approach to rule out softw
 
 ### The Software Fix: Firmware & App Updates
 1.  **Hard Restart:** Do not just "Restart" via the app. Physically unplug your HomeBase 3, wait 30 seconds, and plug it back in. For SoloCams, hold the sync button for 10 seconds until it beeps. This clears the v3.8.2.0 cache errors.
-2.  **Toggle Resolution:** In the Eufy Security App, go to **Settings > Video Quality**. Manually set "Streaming Quality" to "High" or "2K/4K" rather than "Auto." This forces the camera to bypass the emergency low-res mode triggered by the April bug.
+2.  **Toggle Resolution:** In the [Eufy Security App](https://quvii.com/blog/eufy-security-app-login-loop-june-2026-guide), go to **Settings > Video Quality**. Manually set "Streaming Quality" to "High" or "2K/4K" rather than "Auto." This forces the camera to bypass the emergency low-res mode triggered by the April bug.
 3.  **App Update:** Ensure your mobile app is version 4.8.x or higher. Older versions of the app struggle to render the new MaxColor Vision streams correctly, leading to a pixelated blur.
 
 ### The Hardware Fix: Cleaning & Condensation

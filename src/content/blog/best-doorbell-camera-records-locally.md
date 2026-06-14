@@ -86,7 +86,7 @@ Current owners of doorbell hardware are facing a diverging path depending on the
 Owners of older Ring and Nest hardware are finding their devices increasingly limited. As these companies push users toward higher-tier plans, features that were once free—such as basic person detection or longer clip storage—are being moved behind paywalls. This "feature creep" has left many legacy owners with hardware that is functional but hobbled by software restrictions.
 
 ### Firmware Watch: Eufy E340 and HomeBase 3
-For those already on local-storage platforms, firmware stability is the new frontier. In May 2026, Eufy released critical firmware (v3.2.5.2) for the E340 to address specific battery drain issues occurring when the unit was paired with the HomeBase 3. Owners who have not updated may experience significantly reduced battery life, as the camera's communication with the local hub was previously failing to enter a low-power state correctly.
+For those already on local-storage platforms, firmware stability is the new frontier. In May 2026, Eufy released critical firmware (v3.2.5.2) for the E340 to address specific [battery drain](https://quvii.com/blog/ring-doorbell-battery-drain-june-2026-update) issues occurring when the unit was paired with the HomeBase 3. Owners who have not updated may experience significantly reduced battery life, as the camera's communication with the local hub was previously failing to enter a low-power state correctly.
 
 ### The MicroSD "Wear and Tear" Reality
 Local storage users must also contend with hardware longevity. Recording 2K or 4K video streams to a microSD card is a high-intensity task. Standard "Value" cards often fail within 12 months due to the high number of write cycles. We recommend only "High Endurance" cards (such as the WD Purple or Samsung PRO Endurance) which are specifically rated for continuous video surveillance.
@@ -144,7 +144,7 @@ By selecting a local-first system in 2026, you are not just saving money; you ar
 
 ## Sources
 
-- <a href="https://www.amazon.com/s?k=Eufy+Security+%E2%80%94+Video+Doorbell+E340+Product+Page&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Eufy Security — Video Doorbell E340 Product Page</a>
+- <a href="https://www.amazon.com/s?k=Eufy+Security+%E2%80%94+Video+Doorbell+E340+Product+Page&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Eufy Security — [Video Doorbell](https://quvii.com/learn/renter-friendly-wireless-video-doorbell-options-20260613) E340 Product Page</a>
 - <a href="https://www.amazon.com/s?k=Reolink+%E2%80%94+Video+Doorbell+PoE+Specs+and+NVR+Compatibility&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Reolink — Video Doorbell PoE Specs and NVR Compatibility</a>
 - Aqara — Smart Video Doorbell G4 Support and Firmware
 - The Verge — The Rising Cost of [Home Security](https://quvii.com/blog/smart-home-security-privacy-trends-2026) Subscriptions

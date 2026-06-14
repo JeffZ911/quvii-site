@@ -127,7 +127,7 @@ Don't be fooled by the "sticker price." A cheaper camera with a mandatory subscr
 
 | Scenario | Recommended Model | Hardware Cost | Sub. Cost (3yr) | Total |
 | :--- | :--- | :--- | :--- | :--- |
-| **Strict Budget** | Blink Video Doorbell | Under $100 | $0 (Local Sync) | ~$100 |
+| **Strict Budget** | Blink [Video Doorbell](https://quvii.com/learn/renter-friendly-wireless-video-doorbell-options-20260613) | Under $100 | $0 (Local Sync) | ~$100 |
 | **Premium / Renter** | Ring Battery Pro | Around $230 | $120 ($3.99/mo) | ~$350 |
 | **Privacy / No-Sub** | Eufy E340 + Hub | Around $200 | $0 | ~$200 |
 | **High-Density Apt** | Reolink + Home Hub | Around $200 | $0 | ~$200 |
