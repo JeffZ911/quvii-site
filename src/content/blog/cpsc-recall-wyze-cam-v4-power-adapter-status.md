@@ -27,14 +27,14 @@ Safety concerns regarding home security hardware often spread faster than offici
 
 # Wyze Cam v4 Power Adapter Recall: 2026 Status and Safety Guide
 
-**Quick Answer:** As of June 2026, there is no official CPSC recall for the Wyze Cam v4 power adapter. Most queries refer to the 2022 Wyze Cam Outdoor recall or the Pan v3 cable replacement program. Always use UL-certified 5V/2A adapters.
+**Quick Answer:** As of June 2026, there is no official CPSC recall for the [Wyze Cam v4](https://quvii.com/learn/wyze-cam-v4-night-vision-flickering-fix) power adapter. Most queries refer to the 2022 Wyze Cam Outdoor recall or the Pan v3 cable replacement program. Always use UL-certified 5V/2A adapters.
 
 ## What happened
 
 ![What happened](/img/cpsc-recall-wyze-cam-v4-power-adapter-status/inline-1.webp)
 
 
-As of June 10, 2026, the U.S. Consumer Product Safety Commission (CPSC) has not issued any recall or safety alert specifically targeting the Wyze Cam v4 or its included power adapter. The Wyze Cam v4, which launched as a successor to the popular v3, continues to be sold through major retailers without active safety restrictions. However, the surge in "recall" searches is not accidental; it is driven by a combination of historical brand issues, community-driven troubleshooting, and sophisticated phishing attempts targeting the Wyze user base.
+As of June 10, 2026, the U.S. Consumer Product Safety Commission (CPSC) has not issued any recall or safety alert specifically targeting the Wyze [Cam v4](https://quvii.com/learn/wyze-cam-v4-night-vision-flickering-fix) or its included power adapter. The Wyze Cam v4, which launched as a successor to the popular v3, continues to be sold through major retailers without active safety restrictions. However, the surge in "recall" searches is not accidental; it is driven by a combination of historical brand issues, community-driven troubleshooting, and sophisticated phishing attempts targeting the Wyze user base.
 
 Understanding the distinction between a formal government recall and a manufacturer "service advisory" or a community-reported bug is essential for maintaining a safe smart home environment.
 

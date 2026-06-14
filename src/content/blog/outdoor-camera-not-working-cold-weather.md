@@ -73,7 +73,7 @@ For the average consumer, the appeal of a "no-wires" installation is high. Howev
 ### The Hidden Cost of Battery Convenience
 The "easy install" marketed by major brands often masks a higher Total Cost of Ownership (TCO). In cold climates, a battery that usually lasts six months may only last six weeks. 
 
-**Battery Drain Acceleration (Benchmark):**
+**[Battery Drain](https://quvii.com/blog/ring-doorbell-battery-drain-june-2026-update) Acceleration (Benchmark):**
 *   **70°F (21°C):** 100% Efficiency (Baseline)
 *   **32°F (0°C):** ~80% Efficiency
 *   **10°F (-12°C):** ~50% Efficiency

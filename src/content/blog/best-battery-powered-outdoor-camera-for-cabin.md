@@ -38,7 +38,7 @@ The "Battery Recording Gap" has officially closed in early 2026 with the mainstr
 
 Reolink's Altas PT Ultra has set a new industry benchmark, offering 4K resolution and the ability to record 24/7 for up to 14 days on a single charge (or indefinitely with a sufficiently sized solar panel). This is achieved through a massive 20,000mAh internal battery and the "ColorX" ultra-low-light sensor, which captures full-color video in near-total darkness without requiring power-hungry spotlights.
 
-Eufy has expanded its "Edge" ecosystem, allowing cabin owners to link remote solar cameras like the SoloCam S340 to a central HomeBase 3 for unified AI detection without monthly fees. This ecosystem approach allows for "Cross-Camera Tracking," where a person detected by one cabin camera is automatically followed by others in the network, creating a seamless security perimeter.
+Eufy has expanded its "Edge" ecosystem, allowing cabin owners to link remote solar cameras like the SoloCam S340 to a central [HomeBase 3](https://quvii.com/learn/eufycam-s330-homebase-3-firmware-sync-error) for unified AI detection without monthly fees. This ecosystem approach allows for "Cross-Camera Tracking," where a person detected by one cabin camera is automatically followed by others in the network, creating a seamless security perimeter.
 
 Furthermore, 4K resolution has moved from a premium feature to the baseline for outdoor battery cameras. In the rural context of a cabin, where an intruder or a vehicle might be 50 to 100 feet away, the pixel density of 4K is necessary for identifying license plates or facial features that 1080p sensors simply blur into noise.
 
@@ -55,7 +55,7 @@ Solar panels for security cameras have evolved from 2W or 3W trickles to 6W and 
 | **Resolution** | 4K (8MP) | Dual-Lens 3K/2K | 2K with HDR |
 | **Recording Mode** | Continuous or Event | Event-Based | Event-Based |
 | **Battery Capacity** | 20,000 mAh | [Information unavailable] | [Information unavailable] |
-| **Night Vision** | ColorX (No IR needed) | Color (via Spotlight) | Color (via Spotlight) |
+| **[Night Vision](https://quvii.com/learn/wyze-cam-v4-night-vision-flickering-fix)** | ColorX (No IR needed) | Color (via Spotlight) | Color (via Spotlight) |
 | **Primary Storage** | Local MicroSD (up to 512GB) | 8GB Local / HomeBase 3 | Cloud (Subscription req.) |
 | **Subscription** | Optional (Cloud backup) | None required | Required for AI/Cloud |
 | **Price Band** | Around $200 | $150–$200 range | $150–$200 range |

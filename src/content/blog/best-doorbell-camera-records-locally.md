@@ -37,12 +37,12 @@ For 2026, the Reolink [Video Doorbell](https://quvii.com/learn/renter-friendly-w
 The landscape of [home security](https://quvii.com/blog/smart-home-security-privacy-trends-2026) shifted drastically between 2024 and 2026. What was once a market dominated by "cloud-first" giants like Ring and Nest has fractured, driven by consumer exhaustion over rising monthly costs and high-profile privacy concerns.
 
 ### The 2025-2026 Subscription Price Hikes
-In what industry analysts have dubbed the "Great Subscription Migration," major incumbents implemented record-high price increases. Ring, following its 2024 price adjustments, raised its basic tier again in late 2025. Similarly, Google Nest Aware and Arlo Secure plans have seen compounding increases, with some multi-camera professional plans now reaching the $200/year threshold. For many users, the cost of the subscription over three years now exceeds the original price of the hardware itself.
+In what industry analysts have dubbed the "Great Subscription Migration," major incumbents implemented record-high price increases. Ring, following its 2024 price adjustments, raised its basic tier again in late 2025. Similarly, [Google Nest](https://quvii.com/learn/google-nest-cam-battery-drain-june-2026-update-20260614) Aware and Arlo Secure plans have seen compounding increases, with some multi-camera professional plans now reaching the $200/year threshold. For many users, the cost of the subscription over three years now exceeds the original price of the hardware itself.
 
 ### The Rise of Local Edge AI
 Technological limitations used to be the primary excuse for cloud-mandated systems. Processing video to identify a human versus a swaying tree required the heavy lifting of remote servers. However, 2026 models from brands like Eufy and Reolink now perform facial, pet, and package recognition entirely on-device (Edge AI). By moving the "brains" of the camera into the doorbell's own processor, these manufacturers have removed the last technical requirement for mandatory cloud processing.
 
-Furthermore, the hardware for storing this data has evolved. The Eufy HomeBase 3, which supports expandable storage up to 16TB via 2.5-inch SSDs, has made local storage more reliable and capacious than the fragile microSD cards of the past. Privacy has transitioned from a niche enthusiast requirement to a mainstream consumer demand following several 2025 cloud data breaches that exposed private front-porch footage to unauthorized third parties.
+Furthermore, the hardware for storing this data has evolved. The Eufy [HomeBase 3](https://quvii.com/learn/eufycam-s330-homebase-3-firmware-sync-error), which supports expandable storage up to 16TB via 2.5-inch SSDs, has made local storage more reliable and capacious than the fragile microSD cards of the past. Privacy has transitioned from a niche enthusiast requirement to a mainstream consumer demand following several 2025 cloud data breaches that exposed private front-porch footage to unauthorized third parties.
 
 **2026 Subscription Cost vs. Local Storage ROI**
 
@@ -145,7 +145,7 @@ By selecting a local-first system in 2026, you are not just saving money; you ar
 ## Sources
 
 - <a href="https://www.amazon.com/s?k=Eufy+Security+%E2%80%94+Video+Doorbell+E340+Product+Page&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Eufy Security — [Video Doorbell](https://quvii.com/learn/renter-friendly-wireless-video-doorbell-options-20260613) E340 Product Page</a>
-- <a href="https://www.amazon.com/s?k=Reolink+%E2%80%94+Video+Doorbell+PoE+Specs+and+NVR+Compatibility&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Reolink — Video Doorbell PoE Specs and NVR Compatibility</a>
+- <a href="https://www.amazon.com/s?k=Reolink+%E2%80%94+Video+Doorbell+PoE+Specs+and+NVR+Compatibility&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Reolink — [Video Doorbell](https://quvii.com/learn/renter-friendly-wireless-video-doorbell-options-20260613) PoE Specs and NVR Compatibility</a>
 - Aqara — Smart Video Doorbell G4 Support and Firmware
 - The Verge — The Rising Cost of [Home Security](https://quvii.com/blog/smart-home-security-privacy-trends-2026) Subscriptions
 - RTINGS — Security Camera Latency and Performance Testing

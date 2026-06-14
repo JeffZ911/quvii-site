@@ -45,7 +45,7 @@ When a eufyCam S330 (also known as the eufyCam 3) enters a "Syncing" loop, it ha
 
 ### Identifying the 'Syncing' Loop
 
-The most common symptom of this error is the eufy Security app displaying a persistent "Updating" status bar that never moves beyond a certain percentage—often 0% or 99%. In other cases, the camera may simply appear as "Offline," but upon tapping the device settings, the user is met with a "Syncing with HomeBase" message. 
+The most common symptom of this error is the eufy [Security app](https://quvii.com/blog/eufy-security-app-login-loop-june-2026-guide) displaying a persistent "Updating" status bar that never moves beyond a certain percentage—often 0% or 99%. In other cases, the camera may simply appear as "Offline," but upon tapping the device settings, the user is met with a "Syncing with HomeBase" message. 
 
 During this state, the camera is functionally paralyzed. It cannot trigger the PIR (Passive Infrared) sensor to detect motion, nor can it stream 4K video to the app. Users often report receiving "Error Code -11" (unstable network) or "Error Code -113" (camera is updating). According to <a href="https://www.amazon.com/s?k=eufy%27s+official+support+documentation&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">eufy's official support documentation</a>, -113 is a status indicator rather than a failure code, but if it persists for more than 20 minutes, the update process has stalled.
 

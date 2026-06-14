@@ -41,7 +41,7 @@ The June 2026 Nest Cam battery drain is linked to Firmware [information unavaila
 *Related: [Ring Doorbell Recording Neighbors? Understand Your Privacy Rights](/learn/ring-doorbell-recording-neighbors-privacy) · [Renter-Friendly Wireless Video Doorbells: No-Drill Security Options](/learn/renter-friendly-wireless-video-doorbell-options-20260613) · [Best Smart Home Security for Summer Travel: 2026 No-Subscription Guide](/learn/best-smart-home-security-summer-travel)*
 
 
-For owners of the Nest Cam (Battery) and Nest Doorbell (Battery), the June 2026 update has shifted the device's behavior from a "sleep-first" mentality to an "always-ready" state. This transition has resulted in a dramatic reduction in operational uptime between charges.
+For owners of the Nest Cam (Battery) and Nest Doorbell (Battery), the [June 2026 update](https://quvii.com/blog/ring-doorbell-battery-drain-june-2026-update) has shifted the device's behavior from a "sleep-first" mentality to an "always-ready" state. This transition has resulted in a dramatic reduction in operational uptime between charges.
 
 ### Key Observations
 *   **Rapid Depletion:** Users have reported battery life dropping from a standard 3–4 months down to less than 7 days following the latest software deployment.

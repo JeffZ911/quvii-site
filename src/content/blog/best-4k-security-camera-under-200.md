@@ -51,7 +51,7 @@ Finally, the industry-wide shift to **Wi-Fi 6 (802.11ax)** has solved the primar
 | **Resolution** | 4K (Dual-Lens) | 4K (Single-Lens) | 4K (Single-Lens) |
 | **Field of View** | 180° Horizontal | 110° Horizontal | 140° Diagonal |
 | **Power Source** | Battery / Solar | Battery / Solar | Plug-in (Wired Wi-Fi) |
-| **Night Vision** | ColorX (Low Light) | Color (Spotlight) | Color (Spotlight) |
+| **[Night Vision](https://quvii.com/learn/wyze-cam-v4-night-vision-flickering-fix)** | ColorX (Low Light) | Color (Spotlight) | Color (Spotlight) |
 | **Local Storage** | MicroSD (Up to 512GB) | MicroSD (Up to 512GB) | MicroSD (Up to 256GB) |
 | **Wi-Fi Gen** | Wi-Fi 6 (Dual-Band) | Wi-Fi 6 | Wi-Fi 6 |
 | **Price Band** | $180 - $200 | $140 - $160 | $130 - $150 |

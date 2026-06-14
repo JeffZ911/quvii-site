@@ -27,7 +27,7 @@ inline_image_sections:
   - "Further reading"
 ---
 
-Choosing between the Google Nest Cam (Battery) and the Ring Stick Up Cam Pro requires looking past the hardware to the software ecosystem and the long-term subscription costs that define the user experience in 2026. While both cameras offer 1080p HDR video, they diverge significantly in how they process motion alerts and how much they charge for access to your own video history.
+Choosing between the [Google Nest Cam](https://quvii.com/learn/google-nest-cam-battery-drain-june-2026-update-20260614) (Battery) and the Ring Stick Up Cam Pro requires looking past the hardware to the software ecosystem and the long-term subscription costs that define the user experience in 2026. While both cameras offer 1080p HDR video, they diverge significantly in how they process motion alerts and how much they charge for access to your own video history.
 
 # Google Nest Cam vs. Ring Stick Up Cam: Which Ecosystem Wins in 2026?
 

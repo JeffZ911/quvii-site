@@ -164,7 +164,7 @@ At Quvii, we track these trade-offs across the entire security category to help 
 
 ## Sources
 
-- Google Nest Cam Technical Specifications
+- [Google Nest Cam](https://quvii.com/learn/google-nest-cam-battery-drain-june-2026-update-20260614) Technical Specifications
 - [Google Home Premium Subscription Tiers (2026 Update)](https://store.google.com/magazine/google_home_premium)
 - RTINGS: Nest Cam (Battery) Review & Latency Testing
 - Google Transparency Report: Law Enforcement Requests

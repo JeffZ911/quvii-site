@@ -50,7 +50,7 @@ The April 27, 2026 update (v3.8.2.0) was intended to fix the February ghosting i
 | Model | Lens Material | Night Vision Tech | IR Range (Rated) | 2026 Reliability Rating |
 | :--- | :--- | :--- | :--- | :--- |
 | **SoloCam S340** | Polycarbonate | Dual IR LED | 25-30 ft | Low (UV Hazing) |
-| **EufyCam S330** | Glass | Dual IR + Spotlight | 33 ft | Medium (Firmware Lag) |
+| **[EufyCam S330](https://quvii.com/learn/eufycam-s330-homebase-3-firmware-sync-error)** | Glass | Dual IR + Spotlight | 33 ft | Medium (Firmware Lag) |
 | **EufyCam S3 Pro** | High-Transmittance Glass | MaxColor Vision | 40 ft+ | High (New Sensor) |
 | **SoloCam S220** | Polycarbonate | Single IR LED | 20 ft | Low (UV Hazing) |
 | **Indoor Cam C24** | Plastic | IR LED | 33 ft | High (Indoor Only) |

@@ -100,7 +100,7 @@ Because 2026 hardware focuses on non-destructive installation, the resale value 
 | **Ring** | Privacy Zones | Black out specific areas in FOV | All current models |
 | **Eufy** | Dual-Cam AI | Filters hallway traffic vs. door traffic | E340 / S330 |
 | **Reolink** | Privacy Masking | Localized pixel-blocking | All Matter models |
-| **Google Nest** | Activity Zones | Only alerts for specific door-front motion | Gen 2 / Gen 3 |
+| **[Google Nest](https://quvii.com/learn/google-nest-cam-battery-drain-june-2026-update-20260614)** | Activity Zones | Only alerts for specific door-front motion | Gen 2 / Gen 3 |
 
 ## What to do now
 
@@ -156,7 +156,7 @@ By following these steps, you can maintain a high level of security without risk
 ## Sources
 - Matter 1.4 Specification Update — https://csa-iot.org/all-solutions/matter/
 - Ring Battery Doorbell Pro Product Page — https://ring.com/products/battery-doorbell-pro
-- Eufy Video Doorbell E340 Official Specs
+- Eufy [Video Doorbell](https://quvii.com/learn/renter-friendly-wireless-video-doorbell-options-20260613) E340 Official Specs
 - Reolink Battery Doorbell & Home Hub Data — https://reolink.com/product/reolink-video-doorbell-battery/
 - Ring Peephole Cam Installation Guide
 - FCC ID Filing for Wi-Fi 6 Security Devices — https://www.fcc.gov/oet/ea/fccid

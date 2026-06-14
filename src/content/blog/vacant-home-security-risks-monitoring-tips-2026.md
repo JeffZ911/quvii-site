@@ -61,7 +61,7 @@ Subscription-free cameras with local storage are crucial for avoiding ongoing fe
 
 Local storage, typically via a microSD card in the camera or an integrated hub (like a eufy HomeBase), allows footage to be stored directly on-site, eliminating recurring cloud fees and ensuring continuous recording even during internet outages. This approach also grants the homeowner full control over their data, preventing footage from residing on third-party servers where it could be vulnerable to breaches or accessed without explicit consent.
 
-For example, the eufyCam S330 (eufyCam 3) offers 16GB of built-in eMMC local storage on its HomeBase 3, expandable up to 16TB via an external hard drive, with no monthly fees for basic features and local storage. Similarly, Reolink cameras often support microSD card storage, providing a robust subscription-free option.
+For example, the [eufyCam S330](https://quvii.com/learn/eufycam-s330-homebase-3-firmware-sync-error) (eufyCam 3) offers 16GB of built-in eMMC local storage on its HomeBase 3, expandable up to 16TB via an external hard drive, with no monthly fees for basic features and local storage. Similarly, Reolink cameras often support microSD card storage, providing a robust subscription-free option.
 
 ### Smart Detection for Real Threats, Not False Alarms
 
@@ -83,7 +83,7 @@ It is crucial for buyers to review the privacy policies of camera brands before 
 
 ### **Camera Feature Comparison: Subscription-Free Models (2026)**
 
-| Feature                 | eufyCam S330 (eufyCam 3)               | [Reolink Argus 4](https://quvii.com/blog/reolink-argus-4-pro-firmware-update-issues) Pro                   | Wyze Cam v4                         |
+| Feature                 | eufyCam S330 (eufyCam 3)               | [Reolink Argus 4](https://quvii.com/blog/reolink-argus-4-pro-firmware-update-issues) Pro                   | [Wyze Cam v4](https://quvii.com/learn/wyze-cam-v4-night-vision-flickering-fix)                         |
 | :---------------------- | :------------------------------------- | :------------------------------------ | :---------------------------------- |
 | **Resolution**          | 4K (8MP)                               | 4K (8MP)                              | 2K (2560x1440)                      |
 | **Night Vision**        | Color Night Vision, Spotlight          | Color Night Vision (Dual-Lens)        | Color Night Vision                  |
@@ -120,7 +120,7 @@ Considering the 3-year real cost of a security camera system for a vacant home g
 *   **Feature Paywall:** Advanced AI detection, rich notifications, and extended video history are often locked behind the subscription plan. Without it, functionality can be severely limited.
 *   **3-Year TCO Estimate:** $100-$150 (hardware) + $300-$360 (3 years of subscription) = Around $400-510 (for a single camera over three years). For a multi-camera setup, this cost escalates quickly.
 
-**Scenario 3: Hybrid System (e.g., Wyze Cam v4 with optional Cam Plus)**
+**Scenario 3: Hybrid System (e.g., Wyze [Cam v4](https://quvii.com/learn/wyze-cam-v4-night-vision-flickering-fix) with optional Cam Plus)**
 *   **Hardware Cost:** Under $50 per camera.
 *   **Subscription Fees:** Optional Cam Plus for advanced AI and longer cloud storage, around $20-60/year per camera or for a bundle.
 *   **Cloud Storage Fees:** Included with Cam Plus. Limited free cloud storage (12-second clips, 5-minute cooldown) without subscription.
