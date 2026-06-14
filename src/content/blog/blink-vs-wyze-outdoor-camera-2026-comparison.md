@@ -54,7 +54,7 @@ Wyze, meanwhile, broke the 4K barrier for budget cameras with the **Wyze [Cam Pa
 | **Power Source** | 2 AA Lithium (Non-rechargeable) | Removable Rechargeable Pack |
 | **Battery Life** | Up to 2 Years | 4–6 Months |
 | **Local Storage** | MicroSD (via Sync Module XR) | MicroSD (On-camera) |
-| **Night Vision** | IR (B&W) + Color (with light) | Starlight Color Night Vision |
+| **[Night Vision](https://quvii.com/learn/wyze-cam-v4-night-vision-flickering-fix)** | IR (B&W) + Color (with light) | Starlight Color Night Vision |
 | **Field of View** | 135° Diagonal | 116° Diagonal |
 | **Wi-Fi** | 2.4 GHz | Dual-Band (2.4 / 5 GHz) |
 | **Price Band** | $90–$120 (with Module) | $85–$100 |

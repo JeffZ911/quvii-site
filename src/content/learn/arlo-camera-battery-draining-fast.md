@@ -91,7 +91,7 @@ The "wake-up" sequence of an Arlo camera is a multi-stage process designed to sa
 4.  **Stage 4: Cloud Upload (Peak Power):** The camera encodes the video (H.265) and streams it to Arlo’s servers.
 
 ### The SmartHub Advantage
-Using a SmartHub (VMB5000 or VMB4540) instead of connecting directly to home Wi-Fi is the most effective way to solve battery drain. The SmartHub uses a proprietary low-power sub-GHz "heartbeat" to manage the cameras. This protocol is far more efficient than standard Wi-Fi polling. According to independent testing by Wirecutter, cameras connected via a hub can see a 20-30% improvement in battery longevity compared to those on direct Wi-Fi.
+Using a SmartHub (VMB5000 or VMB4540) instead of connecting directly to home Wi-Fi is the most effective way to solve [battery drain](https://quvii.com/blog/ring-doorbell-battery-drain-june-2026-update). The SmartHub uses a proprietary low-power sub-GHz "heartbeat" to manage the cameras. This protocol is far more efficient than standard Wi-Fi polling. According to independent testing by Wirecutter, cameras connected via a hub can see a 20-30% improvement in battery longevity compared to those on direct Wi-Fi.
 
 ### Cloud vs. Edge Processing
 Arlo Secure 5.0 (the 2026 subscription tier) offloads the heavy lifting of AI analysis (Person, Pet, Vehicle detection) to the cloud. This actually *saves* battery compared to cameras that attempt to do full AI processing on the local chip. However, this means the camera *must* upload the clip to the cloud to find out if it was important. If your "Activity Zones" are set incorrectly, the camera is still doing the work of uploading "junk" clips (like swaying trees) before the cloud tells it to stop.

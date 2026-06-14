@@ -59,7 +59,7 @@ With firmware cam-1.29.11000, the "wake time" per event has reportedly increased
 | :--- | :--- | :--- | :--- |
 | **Battery Doorbell Pro** | 30–45 days | 4–7 days | 25–35 days |
 | **Battery Doorbell Plus (2nd Gen)** | 25–40 days | 3–6 days | 20–30 days |
-| **Ring Video Doorbell (2020 Release)** | 60+ days | [N/A - Feature Unsupported] | 50–60 days |
+| **Ring [Video Doorbell](https://quvii.com/learn/renter-friendly-wireless-video-doorbell-options-20260613) (2020 Release)** | 60+ days | [N/A - Feature Unsupported] | 50–60 days |
 
 *Note: Estimates based on average traffic of 20 events per day. Actual performance varies significantly based on Wi-Fi signal strength (RSSI) and temperature.*
 

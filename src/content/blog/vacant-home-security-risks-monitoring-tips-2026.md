@@ -106,7 +106,7 @@ It is crucial for buyers to review the privacy policies of camera brands before 
 
 Considering the 3-year real cost of a security camera system for a vacant home goes beyond the initial sticker price. It encompasses hardware, potential subscription fees, and the value of features locked behind paywalls.
 
-**Scenario 1: Subscription-Free System (e.g., eufyCam S330 + HomeBase 3)**
+**Scenario 1: Subscription-Free System (e.g., [eufyCam S330](https://quvii.com/learn/eufycam-s330-homebase-3-firmware-sync-error) + HomeBase 3)**
 *   **Hardware Cost:** Around $500-700 (for a multi-camera kit and HomeBase)
 *   **Subscription Fees:** $0 (for local storage and core features)
 *   **Cloud Storage Fees:** $0 (if relying solely on local storage)

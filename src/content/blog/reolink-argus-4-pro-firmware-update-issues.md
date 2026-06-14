@@ -141,7 +141,7 @@ Do not wait for the app to find the update. If you are facing issues, use the fo
 > **Subject:** Firmware Push Request: Argus [4 Pro](https://quvii.com/blog/reolink-argus-4-pro-new-release-features-20260613) [Your UID]
 > 
 > **Body:**
-> Hello, I am experiencing [Battery Drain / Wi-Fi Drops / Missing Menus] on my [Argus 4 Pro](https://quvii.com/blog/reolink-argus-4-pro-new-release-features-20260613). My current firmware is [Version] and my Hardware No. is [Hardware No.]. Please push the latest stable 2026 firmware to my UID: [Your UID]. I confirm the camera is currently powered on and connected to Wi-Fi.
+> Hello, I am experiencing [[Battery Drain](https://quvii.com/blog/ring-doorbell-battery-drain-june-2026-update) / Wi-Fi Drops / Missing Menus] on my [Argus 4 Pro](https://quvii.com/blog/reolink-argus-4-pro-new-release-features-20260613). My current firmware is [Version] and my Hardware No. is [Hardware No.]. Please push the latest stable 2026 firmware to my UID: [Your UID]. I confirm the camera is currently powered on and connected to Wi-Fi.
 
 ### 3. Disable Auto-Update
 To avoid the "Smart Battery" menu bug or unintended calibration changes to the ColorX sensor, disable "Auto-Update" in the App settings. Only update when you have a specific problem to solve or when the <a href="https://www.amazon.com/s?k=Reolink+community&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Reolink community</a> confirms a build is stable.

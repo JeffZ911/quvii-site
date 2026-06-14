@@ -84,11 +84,11 @@ Using an adapter that lacks UL or ETL certification in a constant-on scenario is
 
 ### Subscription-Free vs. Hardware Longevity
 
-The total cost of ownership (TCO) for a Wyze Cam v4 is often higher than the sticker price suggests. While the hardware is affordable, the reliance on a micro-USB power system creates a "mechanical" expiration date. Micro-USB ports are prone to corrosion in humid environments and physical wear.
+The total cost of ownership (TCO) for a [Wyze Cam v4](https://quvii.com/learn/wyze-cam-v4-night-vision-flickering-fix) is often higher than the sticker price suggests. While the hardware is affordable, the reliance on a micro-USB power system creates a "mechanical" expiration date. Micro-USB ports are prone to corrosion in humid environments and physical wear.
 
 | Camera Model | Resolution | Power Type | Est. 3-Year TCO (Hardware + Sub) |
 | :--- | :--- | :--- | :--- |
-| **Wyze Cam v4** | 2.5K (QHD) | 5V/2A Micro-USB | ~$100 - $120 (with Cam Plus) |
+| **Wyze [Cam v4](https://quvii.com/learn/wyze-cam-v4-night-vision-flickering-fix)** | 2.5K (QHD) | 5V/2A Micro-USB | ~$100 - $120 (with Cam Plus) |
 | **Reolink E1 Pro** | 2K (QHD) | 5V/2A DC Barrel | ~$50 - $70 (No sub required) |
 | **Eufy OutdoorCam** | 2K | 5V/2A Micro-USB | ~$60 - $80 (No sub required) |
 | **Wyze Cam Pan v3** | 1080p | 5V/2A Micro-USB | ~$110 - $130 (with Cam Plus) |
@@ -107,7 +107,7 @@ If you currently own a Wyze Cam v4, the lack of an official recall doesn't mean 
 To ensure your hardware is safe, perform a physical inspection of the adapter and cable every six months. 
 
 1.  **Check Model Markings:** Look for the UL or ETL "circle" logo on the flat face of the power brick. If the brick only features a "CE" mark or has no regulatory markings at all, it was likely not intended for the US market or is a third-party replacement of unknown quality.
-2.  **Verify the Output:** The Wyze Cam v4 brick should specify an output of `5.0V == 2.0A`. Using an older 1A brick from a Wyze Cam v2 or v1 will result in underpowering the v4, leading to crashes when the spotlight or night vision kicks in.
+2.  **Verify the Output:** The Wyze Cam v4 brick should specify an output of `5.0V == 2.0A`. Using an older 1A brick from a Wyze Cam v2 or v1 will result in underpowering the v4, leading to crashes when the spotlight or [night vision](https://quvii.com/learn/wyze-cam-v4-night-vision-flickering-fix) kicks in.
 3.  **Inspect the Port:** Unplug the micro-USB cable from the back of the camera and look for green or white crusting (corrosion), which indicates moisture has reached the pins.
 
 ### Troubleshooting Intermittent Power Issues

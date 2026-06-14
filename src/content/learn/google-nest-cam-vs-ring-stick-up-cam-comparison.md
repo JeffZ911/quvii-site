@@ -101,13 +101,13 @@ Ring Stick Up Cam Pro relies on 3D Motion Detection. This uses radar sensors to 
 
 ### The Local Storage Safety Net
 
-A common weakness of cloud-based cameras is their reliance on an active internet connection. Google Nest Cam includes a local storage buffer that can hold up to 1 hour of event video history if the Wi-Fi goes down. Once the connection is restored, the clips are uploaded to the cloud. 
+A common weakness of cloud-based cameras is their reliance on an active internet connection. [Google Nest Cam](https://quvii.com/learn/google-nest-cam-battery-drain-june-2026-update-20260614) includes a local storage buffer that can hold up to 1 hour of event video history if the Wi-Fi goes down. Once the connection is restored, the clips are uploaded to the cloud. 
 
 Ring cameras generally do not have on-device storage. To get local storage with a Ring Stick Up Cam, users must purchase a Ring Alarm Pro base station and use "Ring Edge," which records footage to a microSD card inserted into the base station.
 
 **Hardware Spec Table: Nest vs. Ring (2026)**
 
-| Spec | Google Nest Cam (Battery) | Ring Stick Up Cam Pro |
+| Spec | [Google Nest](https://quvii.com/learn/google-nest-cam-battery-drain-june-2026-update-20260614) Cam (Battery) | Ring Stick Up Cam Pro |
 | :--- | :--- | :--- |
 | **Resolution** | 1080p HDR | 1080p HDR |
 | **Field of View** | 130° Diagonal | 155° Diagonal |
