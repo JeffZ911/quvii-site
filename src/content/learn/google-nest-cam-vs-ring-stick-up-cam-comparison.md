@@ -172,7 +172,7 @@ Total cost of ownership (TCO) for a 3-camera setup over five years often exceeds
 
 **Comparison of Free Tier Features (2026)**
 
-| Feature | Google Nest (Free) | Ring (Free) |
+| Feature | [Google Nest](https://quvii.com/blog/google-nest-community-forum-deletion-june-30) (Free) | Ring (Free) |
 | :--- | :--- | :--- |
 | **Live View** | Yes | Yes |
 | **Motion Alerts** | Yes | Yes |

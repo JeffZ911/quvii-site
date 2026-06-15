@@ -167,6 +167,6 @@ By staying informed and prioritizing UL-certified power components, you can enjo
 
 - Wyze [Cam v4](https://quvii.com/learn/wyze-cam-v4-night-vision-flickering-fix) Official Product Specs — https://www.wyze.com/products/wyze-cam-v4
 - CPSC Official Recall Database — https://www.cpsc.gov/Recalls
-- FCC ID Filing for Wyze Cam v4 (WYZEC4) — https://fccid.io/2AUIU-WYZEC4
+- FCC ID Filing for [Wyze Cam v4](https://quvii.com/learn/wyze-cam-v4-night-vision-flickering-fix) (WYZEC4) — https://fccid.io/2AUIU-WYZEC4
 - RTINGS Security Camera Reviews & Testing
 - UL Solutions: How to Identify a UL Listed Product

@@ -130,7 +130,7 @@ When troubleshooting battery issues, it is important to distinguish between soft
 A common piece of advice in support forums is to lower the video resolution from 1080p to 720p. While this reduces the data transmitted, it does *not* address the root cause of the June 2026 drain. The power is being consumed by the radio's "wake-up" frequency and the processor's inability to sleep, not the bitrate of the video itself. You can record in the lowest possible quality, but if the camera wakes up 1,000 times a day to check for a Gemini Scene update, the battery will still die.
 
 ### Why a Factory Reset rarely works for firmware bugs
-Users often perform a factory reset hoping to "clean" the system. While this may temporarily clear a hung process, the camera will immediately re-download the [information unavailable] firmware during the setup process. Until Google issues a server-side rollback or a new firmware patch, a factory reset is a temporary fix that often results in more battery drain due to the high-power demands of the initial setup and calibration.
+Users often perform a factory reset hoping to "clean" the system. While this may temporarily clear a hung process, the camera will immediately re-download the [information unavailable] firmware during the setup process. Until Google issues a server-side rollback or a new firmware patch, a factory reset is a temporary fix that often results in more [battery drain](https://quvii.com/blog/ring-doorbell-battery-drain-june-2026-update) due to the high-power demands of the initial setup and calibration.
 
 ### Misconception: "My battery is just old."
 If your camera was working perfectly on June 1st and began failing by June 10th, it is not a hardware failure. Hardware degradation is slow. Software-induced drain is instantaneous.
@@ -170,7 +170,7 @@ While cold weather naturally reduces lithium-ion efficiency, the June update dra
 Only if you use the official Google Weatherproof Cable. Standard USB-C cables do not create a seal at the charging port, and using them outdoors during rain can short-circuit the camera and void your warranty.
 
 ## Sources
-- Google Nest Help: Change Nest Cam battery settings
+- [Google Nest](https://quvii.com/blog/google-nest-community-forum-deletion-june-30) Help: Change Nest Cam battery settings
 - RTINGS: Google Nest Cam (Battery) Review and Power Testing
 - CSA-IoT: Matter 2.0 Specification and Device Requirements
 - <a href="https://www.amazon.com/s?k=Wasserstein+Home%3A+Solar+Panel+Specifications+for+Nest+Cam&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Wasserstein Home: Solar Panel Specifications for Nest Cam</a>

@@ -47,7 +47,7 @@ The April 27, 2026 update (v3.8.2.0) was intended to fix the February ghosting i
 
 **Table 1: Lens Durability & [Night Vision](https://quvii.com/learn/wyze-cam-v4-night-vision-flickering-fix) Hardware (2026 Standards)**
 
-| Model | Lens Material | Night Vision Tech | IR Range (Rated) | 2026 Reliability Rating |
+| Model | Lens Material | [Night Vision](https://quvii.com/learn/wyze-cam-v4-night-vision-flickering-fix) Tech | IR Range (Rated) | 2026 Reliability Rating |
 | :--- | :--- | :--- | :--- | :--- |
 | **SoloCam S340** | Polycarbonate | Dual IR LED | 25-30 ft | Low (UV Hazing) |
 | **[EufyCam S330](https://quvii.com/learn/eufycam-s330-homebase-3-firmware-sync-error)** | Glass | Dual IR + Spotlight | 33 ft | Medium (Firmware Lag) |

@@ -150,7 +150,7 @@ Protecting your neighbors' privacy while maintaining your home security is a bal
 To minimize recording beyond your property, effective use of your Ring app's privacy settings is essential.
 *   **Motion Zones:** Carefully draw custom motion zones to include only your property and exclude public pathways or neighboring yards. Test these zones thoroughly to ensure they are not triggered by unintended activity.
 *   **Privacy Zones:** Utilize privacy zones to black out specific areas within the camera's field of view that you absolutely do not want to record, such as a neighbor's window or backyard.
-*   **Audio Recording:** If not essential for your security needs, consider disabling audio recording in the device settings. This significantly reduces privacy risks, especially in "two-party consent" states.
+*   **Audio Recording:** If not essential for your security needs, consider disabling audio recording in the device settings. This significantly reduces [privacy risks](https://quvii.com/learn/smart-home-privacy-risks-ai-security-cameras), especially in "two-party consent" states.
 *   **End-to-End Encryption (E2EE):** If ultimate privacy from Ring and third parties is your priority, enable E2EE. Be aware of the features you will lose (e.g., shared users, pre-roll, smart display integration).
 
 Here's a comparison of some popular Ring doorbell models and their features, highlighting privacy considerations:

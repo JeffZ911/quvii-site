@@ -141,7 +141,7 @@ If the 2026 "subscription-plus-AI" model is too expensive or intrusive, several 
 | **Budget Conscious** | Low Total Cost of Ownership | **Switch.** The $150/year Google Home Premium cost makes Nest expensive over time. |
 
 ### Archive Your Data
-Before the [June 30](https://quvii.com/blog/google-nest-community-forum-deletion-june-30), 2026 deadline, use **Google Takeout** to download your Nest Community data and your historical camera footage. Once the forums are deleted, any custom troubleshooting guides or personal history stored there will be unrecoverable.
+Before the [June 30](https://quvii.com/blog/google-nest-community-forum-deletion-june-30), 2026 deadline, use **Google Takeout** to download your [Nest Community](https://quvii.com/blog/google-nest-community-forum-deletion-june-30) data and your historical camera footage. Once the forums are deleted, any custom troubleshooting guides or personal history stored there will be unrecoverable.
 
 Quvii tracks these trade-offs across the category to help you decide if the convenience of the Google ecosystem outweighs the rising costs and sunsetting hardware.
 

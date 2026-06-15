@@ -22,7 +22,7 @@ inline_image_sections:
   - "What to do now"
 ---
 
-The [Reolink Argus 4 Pro](/blog/reolink-argus-4-pro-firmware-update-issues) represents a shift in battery-powered security, combining a 180-degree panoramic view with high-sensitivity color night vision that doesn't rely on blinding spotlights. For buyers tired of monthly fees, it offers a high-resolution, wire-free alternative that prioritizes local processing and storage.
+The [Reolink Argus 4 Pro](/blog/reolink-argus-4-pro-firmware-update-issues) represents a shift in battery-powered security, combining a 180-degree panoramic view with high-sensitivity color [night vision](https://quvii.com/learn/wyze-cam-v4-night-vision-flickering-fix) that doesn't rely on blinding spotlights. For buyers tired of monthly fees, it offers a high-resolution, wire-free alternative that prioritizes local processing and storage.
 
 # Reolink Argus 4 Pro: New Release Features and Buyer's Guide
 
