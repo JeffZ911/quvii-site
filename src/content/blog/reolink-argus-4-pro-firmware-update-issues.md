@@ -34,7 +34,7 @@ Owners of the [Reolink Argus 4](https://quvii.com/blog/reolink-argus-4-pro-new-r
 ![What happened](/img/reolink-argus-4-pro-firmware-update-issues/inline-1.webp)
 
 
-The Reolink [Argus 4 Pro](https://quvii.com/blog/reolink-argus-4-pro-new-release-features-20260613) launched as a flagship battery-powered camera, featuring a dual-lens 180-degree field of view and the "ColorX" F/1.0 aperture for night vision. However, the software ecosystem supporting this hardware has faced significant hurdles in 2025 and 2026, primarily revolving around how updates are distributed and verified.
+The Reolink [Argus 4 Pro](https://quvii.com/blog/reolink-argus-4-pro-new-release-features-20260613) launched as a flagship battery-powered camera, featuring a dual-lens 180-degree field of view and the "ColorX" F/1.0 aperture for [night vision](https://quvii.com/learn/wyze-cam-v4-night-vision-flickering-fix). However, the software ecosystem supporting this hardware has faced significant hurdles in 2025 and 2026, primarily revolving around how updates are distributed and verified.
 
 ### The 'Up to Date' Fallacy
 The most common frustration among [Argus 4](https://quvii.com/blog/reolink-argus-4-pro-new-release-features-20260613) Pro owners is the Reolink app’s "Check for Update" button. Unlike Reolink’s PoE (Power over Ethernet) cameras, which can often pull updates directly from a global server or be manually updated via a downloaded `.pak` file, battery-powered cameras like the [Argus 4 Pro](https://quvii.com/blog/reolink-argus-4-pro-new-release-features-20260613) rely on a staged Over-the-Air (OTA) delivery system. 

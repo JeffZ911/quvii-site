@@ -161,11 +161,11 @@ PoE cameras, such as those from Reolink or Amcrest, receive both data and power 
 *   **If you are a homeowner:** Consider the v4 for "low-stakes" monitoring (e.g., watching a pet). For perimeter security or fire-sensitive areas, look toward a PoE system or a brand with higher-tier power certifications.
 *   **If you see a "Recall" email:** Do not click links. Go to `cpsc.gov` or `wyze.com` manually to check for updates.
 
-By staying informed and prioritizing UL-certified power components, you can enjoy the high-resolution benefits of the Wyze Cam v4 without compromising your home's electrical safety.
+By staying informed and prioritizing UL-certified power components, you can enjoy the high-resolution benefits of the [Wyze Cam v4](https://quvii.com/learn/wyze-cam-v4-night-vision-flickering-fix) without compromising your home's electrical safety.
 
 ## Sources
 
-- Wyze Cam v4 Official Product Specs — https://www.wyze.com/products/wyze-cam-v4
+- Wyze [Cam v4](https://quvii.com/learn/wyze-cam-v4-night-vision-flickering-fix) Official Product Specs — https://www.wyze.com/products/wyze-cam-v4
 - CPSC Official Recall Database — https://www.cpsc.gov/Recalls
 - FCC ID Filing for Wyze Cam v4 (WYZEC4) — https://fccid.io/2AUIU-WYZEC4
 - RTINGS Security Camera Reviews & Testing

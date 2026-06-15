@@ -95,7 +95,7 @@ The Nest Cam (Battery) utilizes a 2-megapixel sensor with HDR (High Dynamic Rang
 
 ### AI Processing: On-Device vs. Cloud
 
-Google has integrated its Tensor Processing Unit (TPU) directly into the Nest Cam. This allows the camera to perform person, animal, and vehicle detection on the device itself, reducing the latency of notifications and improving privacy by not sending every motion clip to the cloud for analysis. In 2026, this hardware enables "Gemini for Home," which can answer natural language questions about your footage (e.g., "Did the kids get home from school?").
+Google has integrated its Tensor Processing Unit (TPU) directly into the Nest Cam. This allows the camera to perform person, animal, and vehicle detection on the device itself, reducing the latency of notifications and improving privacy by not sending every motion clip to the cloud for analysis. In 2026, this hardware enables "Gemini for Home," which can answer natural language questions about your footage (e.g., "Did the kids get [home from](https://quvii.com/learn/secure-smart-home-ai-hacks-2026) school?").
 
 Ring Stick Up Cam Pro relies on 3D Motion Detection. This uses radar sensors to measure the distance and angle of an object in front of the camera. Users can set a specific "distance threshold," so the camera only triggers if someone steps within 10 feet of the door, ignoring cars on the street. This radar data powers "Bird’s Eye View," an aerial map overlay showing the exact path a visitor took.
 
@@ -153,7 +153,7 @@ Total cost of ownership (TCO) for a 3-camera setup over five years often exceeds
 
 **5-Year TCO Comparison (3-Camera Setup)**
 
-*   **Google Nest:**
+*   **[Google Nest](https://quvii.com/blog/google-nest-community-forum-deletion-june-30):**
     *   Hardware: ~$450-$500 (3 cameras @ ~$160 each)
     *   Subscription: $600 ($10/mo x 60 months)
     *   **Total: ~$1,100**

@@ -52,7 +52,7 @@ A final symbolic end to the era occurred with the scheduled permanent deletion o
 | **March 2025** | Nest Protect (All Gens) | Discontinued; Replaced by First Alert SC5 Partner |
 | **October 2025** | Nest Thermostat Gen 1 & 2 | Remote services terminated; Manual use only |
 | **April 2026** | Nest Cam IQ Series | Full migration to Google Home Public Preview required |
-| **June 2026** | Nest Community Forums | Permanently deleted |
+| **June 2026** | [Nest Community](https://quvii.com/blog/google-nest-community-forum-deletion-june-30) Forums | Permanently deleted |
 | **Ongoing** | Nest Aware Legacy Billing | Forced migration to Google Home billing tiers |
 
 ## Why it matters for buyers
@@ -66,7 +66,7 @@ For those currently shopping for security cameras or smart home gear, the 2026 l
 The secondary market (eBay, Facebook Marketplace) is currently flooded with 1st and 2nd Gen Nest Learning Thermostats and 1st Gen Nest Cams. **Buyers must exercise extreme caution.** A 2nd Gen Nest Thermostat may look like a bargain at under $50, but it is effectively a "dumb" manual dial with no app connectivity. Similarly, 1st Gen Nest Cams (the original drop-cam style) are increasingly difficult to set up on new accounts, as the legacy Nest app often fails to recognize the QR codes during the hand-off to the Google Home app.
 
 ### Gemini 3.1 and the AI Paywall
-The most significant change in 2026 is the introduction of Gemini 3.1 into the Google Home ecosystem. This AI upgrade allows users to "Ask Home" complex questions, such as "Did the kids get home from school yesterday?" or "Has the neighbor's dog been in my garden today?" However, these features are strictly locked behind the **Google Home Premium** subscription tier (formerly Nest Aware Plus). 
+The most significant change in 2026 is the introduction of Gemini 3.1 into the Google Home ecosystem. This AI upgrade allows users to "Ask Home" complex questions, such as "Did the kids get [home from](https://quvii.com/learn/secure-smart-home-ai-hacks-2026) school yesterday?" or "Has the neighbor's dog been in my garden today?" However, these features are strictly locked behind the **Google Home Premium** subscription tier (formerly Nest Aware Plus). 
 
 As noted by [RTINGS in their recent ecosystem review](https://www.rtings.com), these AI features are not processed locally on the camera; they require cloud-side processing, meaning that without a subscription, your high-end Nest Cam IQ is reduced to basic motion alerts and a live view.
 
@@ -141,7 +141,7 @@ If the 2026 "subscription-plus-AI" model is too expensive or intrusive, several 
 | **Budget Conscious** | Low Total Cost of Ownership | **Switch.** The $150/year Google Home Premium cost makes Nest expensive over time. |
 
 ### Archive Your Data
-Before the June 30, 2026 deadline, use **Google Takeout** to download your Nest Community data and your historical camera footage. Once the forums are deleted, any custom troubleshooting guides or personal history stored there will be unrecoverable.
+Before the [June 30](https://quvii.com/blog/google-nest-community-forum-deletion-june-30), 2026 deadline, use **Google Takeout** to download your Nest Community data and your historical camera footage. Once the forums are deleted, any custom troubleshooting guides or personal history stored there will be unrecoverable.
 
 Quvii tracks these trade-offs across the category to help you decide if the convenience of the Google ecosystem outweighs the rising costs and sunsetting hardware.
 

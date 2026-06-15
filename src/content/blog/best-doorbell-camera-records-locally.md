@@ -136,7 +136,7 @@ Local storage does not mean "offline." Most of these cameras still connect to yo
 **Decision Framework: Which Local Doorbell Should You Buy?**
 
 *   **If you are a renter:** Prioritize the **Aqara G4**. Its battery power and internal chime storage make it easy to install and remove without damaging the property.
-*   **If you want "Set it and Forget it":** Choose the **Eufy E340**. The app experience is polished, and the HomeBase 3 manages the storage automatically.
+*   **If you want "Set it and Forget it":** Choose the **Eufy E340**. The app experience is polished, and the [HomeBase 3](https://quvii.com/learn/eufycam-s330-homebase-3-firmware-sync-error) manages the storage automatically.
 *   **If you are building/renovating:** Install the **Reolink PoE**. Running Ethernet now will provide the most stable security foundation for the next decade.
 *   **If you already have a UniFi network:** The **Ubiquiti G4 Doorbell Pro** is the logical choice, keeping all your footage within the UniFi Protect ecosystem.
 

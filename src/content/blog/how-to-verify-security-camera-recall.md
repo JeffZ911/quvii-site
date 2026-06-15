@@ -65,7 +65,7 @@ It is important to distinguish between a CPSC-mandated hardware recall and a "se
 ![Why it matters for buyers](/img/how-to-verify-security-camera-recall/inline-2.webp)
 
 
-When a security camera is recalled, the implications extend beyond a simple product exchange. For homeowners and small business owners, a recalled device is a liability that compromises the very safety the camera was intended to provide.
+When a security [camera is recalled](https://quvii.com/blog/how-to-check-wyze-camera-recall-status-2026), the implications extend beyond a simple product exchange. For homeowners and small business owners, a recalled device is a liability that compromises the very safety the camera was intended to provide.
 
 ### Safety Risks of Lithium-Ion Punctures
 Lithium-ion batteries store a significant amount of energy in a small space. When the internal structure is punctured—as is the case with the Wyze [Solar Cam](https://quvii.com/blog/wyze-solar-cam-pan-recall-fire-hazard) Pan—the positive and negative electrodes touch, creating a short circuit. This generates intense heat that cannot be extinguished by standard means. For a camera mounted on a wooden soffit or near vinyl siding, a battery fire can transition to a structure fire in minutes.
@@ -96,7 +96,7 @@ If you currently own a [Wyze Solar Cam](https://quvii.com/blog/wyze-solar-cam-pa
 ### How to Find Your Camera's Model and Serial Number
 Most manufacturers place the model and serial number (S/N) in one of three places:
 1.  **The Rear Housing:** Look for a silver or white sticker on the back of the camera. For the Wyze [Solar Cam Pan](https://quvii.com/blog/wyze-solar-cam-pan-recall-fire-hazard), the model **WYZESCPWH** is printed just above the QR code.
-2.  **The App Settings:** Open your camera's app (e.g., Wyze App > Settings > Device Info). This is the safest way to check if the camera is already mounted high up.
+2.  **The App Settings:** Open your camera's app (e.g., Wyze App > Settings > Device Info). This is the safest way to [check if](https://quvii.com/blog/how-to-check-wyze-camera-recall-status-2026) the camera is already mounted high up.
 3.  **The Original Box:** If you kept the packaging, the model and S/N are located on the barcode sticker.
 
 ### The 'Screw Test': Warning Signs Your Battery Is Already Compromised

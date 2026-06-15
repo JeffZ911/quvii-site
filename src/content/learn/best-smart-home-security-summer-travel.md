@@ -27,7 +27,7 @@ inline_image_sections:
   - "Further reading"
 ---
 
-Reliable home security during a two-week summer vacation no longer requires a monthly line item in your budget or a reliance on corporate cloud servers. In 2026, the transition toward "Local-First" security architecture allows travelers to maintain high-definition oversight of their property with zero subscription fees and significantly reduced privacy risks.
+Reliable home security during a two-week summer vacation no longer requires a monthly line item in your budget or a reliance on corporate cloud servers. In 2026, the transition toward "Local-First" security architecture allows travelers to maintain high-definition oversight of their property with zero subscription fees and significantly reduced [privacy risks](https://quvii.com/learn/smart-home-privacy-risks-ai-security-cameras).
 
 # Best Smart Home Security for Summer Travel: The 2026 No-Subscription Guide
 

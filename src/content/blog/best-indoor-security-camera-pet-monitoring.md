@@ -74,7 +74,7 @@ Hardware specs have jumped significantly. In 2026, 4K is considered the standard
 The 2026 software updates have breathed new life into older hardware, while simultaneously highlighting the physical limitations of aging storage media.
 
 ### Firmware Updates: Teaching Old Cameras New Tricks
-Owners of the Eufy S350 and the older E220 models can now access the "Pet Diary" and improved tracking features via free firmware updates. However, these features are computationally heavy. Eufy’s documentation for v3.3.2.6 suggests that these AI features perform best when paired with HomeBase 3, which offloads the processing from the camera’s internal chipset to the hub's more powerful AI engine.
+Owners of the Eufy S350 and the older E220 models can now access the "Pet Diary" and improved tracking features via free firmware updates. However, these features are computationally heavy. Eufy’s documentation for v3.3.2.6 suggests that these AI features perform best when paired with [HomeBase 3](https://quvii.com/learn/eufycam-s330-homebase-3-firmware-sync-error), which offloads the processing from the camera’s internal chipset to the hub's more powerful AI engine.
 
 Reolink E1 Pro users also received a significant software refresh in March 2026. The update improved "Pet Tracking" accuracy by 30%, specifically reducing "false positives" caused by robotic vacuum cleaners or shadows. Furthermore, a new "Crying Detection" algorithm was added, designed to alert owners if a pet is in distress or barking excessively, which is a vital feature for apartment dwellers concerned about noise complaints.
 

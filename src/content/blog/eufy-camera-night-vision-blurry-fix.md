@@ -45,7 +45,7 @@ A more permanent "blur" has emerged as a significant hardware concern in 2026. O
 ### The v3.8.2.0 Storage & Resolution Glitch
 The April 27, 2026 update (v3.8.2.0) was intended to fix the February ghosting issues but introduced a new critical bug. Many users found their internal storage (BionicMind) was intermittently "dropping," causing the cameras to default to a low-resolution (640x480) emergency stream for night events. Because IR footage already lacks the detail of color video, this drop in resolution manifests as a severe lack of focus, making faces and license plates unidentifiable.
 
-**Table 1: Lens Durability & Night Vision Hardware (2026 Standards)**
+**Table 1: Lens Durability & [Night Vision](https://quvii.com/learn/wyze-cam-v4-night-vision-flickering-fix) Hardware (2026 Standards)**
 
 | Model | Lens Material | Night Vision Tech | IR Range (Rated) | 2026 Reliability Rating |
 | :--- | :--- | :--- | :--- | :--- |

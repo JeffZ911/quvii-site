@@ -27,7 +27,7 @@ The sight of a high-tech security camera obscured by a low-tech piece of silver 
 
 # Why Are People Covering Security Cameras with Tape? Latest 2026 News
 
-**Quick Answer:** People are covering security cameras with tape due to recent incidents like federal agents obstructing cameras, burglars physically tampering with devices, and ongoing concerns about hacking vulnerabilities (e.g., Tapo DoS flaw) and general privacy risks, prompting immediate physical measures.
+**Quick Answer:** People are covering security cameras with tape due to recent incidents like federal agents obstructing cameras, burglars physically tampering with devices, and ongoing concerns about hacking vulnerabilities (e.g., Tapo DoS flaw) and general [privacy risks](https://quvii.com/learn/smart-home-privacy-risks-ai-security-cameras), prompting immediate physical measures.
 
 ## What happened
 
