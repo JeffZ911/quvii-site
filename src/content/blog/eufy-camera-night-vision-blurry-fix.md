@@ -27,7 +27,7 @@ If your Eufy security camera is producing milky, hazy, or out-of-focus footage a
 
 # Eufy Camera Night Vision Blurry? 2026 Firmware Fixes & Hardware Guide
 
-Blurry Eufy [night vision](https://quvii.com/learn/wyze-cam-v4-night-vision-flickering-fix) is often caused by IR reflection or the Feb 2026 firmware bug (v3.8.2.0). Restart your HomeBase 3 and clean the lens. If haze persists on S340/S220 models, it may be UV lens degradation—contact Eufy for a warranty swap.
+Blurry Eufy [night vision](https://quvii.com/learn/wyze-cam-v4-night-vision-flickering-fix) is often caused by IR reflection or the Feb 2026 firmware bug (v3.8.2.0). Restart your [HomeBase 3](https://quvii.com/learn/eufycam-s330-homebase-3-firmware-sync-error) and clean the lens. If haze persists on S340/S220 models, it may be UV lens degradation—contact Eufy for a warranty swap.
 
 ## What happened
 
@@ -90,7 +90,7 @@ If you already own a Eufy system, the 2026 updates may have changed your camera�
 Post-v3.8.2.0, many SoloCam S340 (T8170) owners have noted that the IR illuminators (the red glow) fail to turn on when motion is detected. This results in "pitch black" recordings where only the center of the frame is visible, or the footage is so grainy that it looks out of focus. This is often a software conflict where the camera’s "[Night Vision](https://quvii.com/learn/wyze-cam-v4-night-vision-flickering-fix)" setting is stuck in an "Auto" loop, unable to decide between using the spotlight or the IR LEDs.
 
 ### Internal Condensation vs. External Fog
-Units purchased during the 2024-2025 launch window are now reaching the age where internal seals begin to fail. In 2026, there has been a spike in reports of internal condensation. Unlike external fog, which can be wiped away, internal condensation appears as a "bloom" in the center of the night vision feed that grows larger as the IR LEDs heat up the internal air. This is a hardware failure, not a software bug.
+Units purchased during the 2024-2025 launch window are now reaching the age where internal seals begin to fail. In 2026, there has been a spike in reports of internal condensation. Unlike external fog, which can be wiped away, internal condensation appears as a "bloom" in the center of the [night vision](https://quvii.com/learn/wyze-cam-v4-night-vision-flickering-fix) feed that grows larger as the IR LEDs heat up the internal air. This is a hardware failure, not a software bug.
 
 ### HomeBase 3 Sync Errors
 For those using the HomeBase 3 to expand storage (via 2.5-inch SSD/HDD), the April firmware bug caused a "sync lag." This lag creates a "smearing" effect on moving objects at night. If a person walks across the frame, they appear as a blurry smudge because the HomeBase 3 cannot write the high-bitrate data to the drive fast enough under the new firmware protocols.

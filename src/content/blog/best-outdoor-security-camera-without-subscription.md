@@ -110,7 +110,7 @@ The Altas PT Ultra represents the pinnacle of 2026 battery technology. It is a 4
 ### Top Pick (Ecosystem): Eufy SoloCam S340
 Eufy has perfected the "set it and forget it" outdoor camera. The S340 is a dual-lens system that offers both a wide-angle view and a telephoto lens for zooming in on license plates or faces.
 *   **Key Specs:** 3K resolution, 360° pan/tilt, and an integrated solar panel that is adjustable to catch the best angle of the sun.
-*   **AI:** Fully compatible with Eufy HomeBase 3, which offers "Self-Learning AI" that can recognize frequent visitors and ignore family members while alerting you to strangers.
+*   **AI:** Fully compatible with Eufy [HomeBase 3](https://quvii.com/learn/eufycam-s330-homebase-3-firmware-sync-error), which offers "Self-Learning AI" that can recognize frequent visitors and ignore family members while alerting you to strangers.
 *   **Price Range:** $150–$200.
 *   **Best For:** Users who want the smartest AI features and a cohesive app experience without a monthly fee.
 

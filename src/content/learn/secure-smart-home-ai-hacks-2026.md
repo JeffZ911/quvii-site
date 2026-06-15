@@ -119,7 +119,7 @@ In recent real-world tests of popular 2026 consumer cameras, researchers demonst
 
 ### Doorbell Deepfakes and Voice Cloning
 
-The "Grandchild in Trouble" scam has migrated to the front door. Attackers use cloned voices to bypass physical security trust. They may even use deepfake video in 2026 to appear on the screen of a smart display (like an Echo Show or Google Nest Hub), pretending to be a neighbor or a service provider.
+The "Grandchild in Trouble" scam has migrated to the front door. Attackers use cloned voices to bypass physical security trust. They may even use deepfake video in 2026 to appear on the screen of a smart display (like an Echo Show or [Google Nest](https://quvii.com/blog/google-nest-community-forum-deletion-june-30) Hub), pretending to be a neighbor or a service provider.
 
 ### Lateral Movement and the $10 Smart Plug
 
