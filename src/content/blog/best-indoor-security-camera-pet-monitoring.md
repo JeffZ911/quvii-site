@@ -41,7 +41,7 @@ In response, a "Privacy Pivot" has occurred. Brands like Reolink and TP-Link hav
 | **Pet AI Type** | Local (Edge) | Local (Edge) | Local (Edge) | Cloud-Based |
 | **Tracking** | 360° + 8x Zoom | 355° Pan / 50° Tilt | 360° Pan / Tilt | Fixed |
 | **Specialized AI** | Pet Diary / Tracking | Crying Detection | Litter Box Monitoring | Basic Motion |
-| **Storage** | MicroSD / HomeBase 3 | MicroSD / Reolink Hub | MicroSD / Tapo Care | Cloud Only (mostly) |
+| **Storage** | MicroSD / [HomeBase 3](https://quvii.com/learn/eufycam-s330-homebase-3-firmware-sync-error) | MicroSD / Reolink Hub | MicroSD / Tapo Care | Cloud Only (mostly) |
 | **Subscription** | Optional ($0 for AI) | Optional ($0 for AI) | Optional ($0 for AI) | Required for AI |
 
 ## Why it matters for buyers
@@ -56,7 +56,7 @@ By choosing a camera with local AI processing, owners gain two significant advan
 2. **Legal Safety Nets:** New 2026 state privacy laws in Indiana, Kentucky, and Rhode Island now classify indoor video as sensitive personal data. Small business owners (such as doggy daycares or grooming salons) using local-only storage are finding it easier to comply with these regulations, as they do not "share" or "process" data through third-party cloud providers.
 
 ### The 4K Detail Advantage for Health Monitoring
-Hardware specs have jumped significantly. In 2026, 4K is considered the standard for pet cameras because it enables "Digital Zoom with Clarity." Pet owners are no longer just looking to see if their dog is awake; they are using cameras for health monitoring. High-resolution sensors allow users to zoom in on a pet’s collar tags to check if they are caught, or even monitor subtle health indicators like breathing rates or the presence of small surgical sutures during post-operative recovery.
+Hardware specs have jumped significantly. In 2026, 4K is considered the standard for pet cameras because it enables "Digital Zoom with Clarity." Pet owners are no longer just looking to see if their dog is awake; they are using cameras for health monitoring. High-resolution sensors allow users to zoom in on a pet’s collar tags to [check if](https://quvii.com/blog/how-to-check-wyze-camera-recall-status-2026) they are caught, or even monitor subtle health indicators like breathing rates or the presence of small surgical sutures during post-operative recovery.
 
 ### Cost of Ownership: 3-Year Total (Estimated)
 

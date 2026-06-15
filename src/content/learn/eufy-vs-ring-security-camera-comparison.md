@@ -190,6 +190,6 @@ Quvii tracks these trade-offs across the category to ensure you don't get locked
 - <a href="https://www.amazon.com/s?k=Eufy+Security%3A+Privacy+Policy+and+Data+Encryption&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Eufy Security: Privacy Policy and Data Encryption</a>
 - <a href="https://www.amazon.com/s?k=Ring%3A+A+Message+from+Jamie+Siminoff+on+Police+Requests&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Ring: A Message from Jamie Siminoff on Police Requests</a>
 - [FCC ID Search: Anker/Eufy HomeBase 3 (2AOKB-S380)](https://apps.fcc.gov/oetcf/eas/reports/GenericSearch.cfm)
-- RTINGS: Ring Video Doorbell Pro 2 Review & Testing
+- RTINGS: Ring [Video Doorbell](https://quvii.com/learn/renter-friendly-wireless-video-doorbell-options-20260613) Pro 2 Review & Testing
 - The Verge: Eufy’s response to its security camera flaws
 - <a href="https://www.amazon.com/s?k=Ring%3A+Ring+Protect+Plan+Pricing+and+Tiers+2024-2026&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Ring: Ring Protect Plan Pricing and Tiers 2024-2026</a>

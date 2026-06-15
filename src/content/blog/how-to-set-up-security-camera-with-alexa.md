@@ -113,7 +113,7 @@ Streaming 4K video to an older Echo Show 5 can cause significant buffering or ap
 
 For those in apartments or rental homes, mounting hardware can be a challenge. You can secure your cameras using non-permanent solutions that still provide optimal viewing angles.
 
-*   **Suction Cup Mounts:** These are ideal for placing a camera against the inside of a window. Note that infrared (IR) night vision must be turned off to prevent glare against the glass.
+*   **Suction Cup Mounts:** These are ideal for placing a camera against the inside of a window. Note that infrared (IR) [night vision](https://quvii.com/learn/wyze-cam-v4-night-vision-flickering-fix) must be turned off to prevent glare against the glass.
 *   **Over-the-Door Brackets:** These metal clips hang over the top of a standard door frame, providing a secure mount for video doorbells or small cameras without needing screws.
 *   **Command Outdoor Adhesive Plates:** Using specialized outdoor strips is effective for lightweight cameras. Ensure the surface is cleaned with rubbing alcohol before application.
 

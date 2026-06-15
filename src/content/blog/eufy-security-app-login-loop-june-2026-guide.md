@@ -105,7 +105,7 @@ If you are experiencing the login loop as of June 2026, follow this sequence to 
 If the mobile app remains unresponsive, the Eufy Web Portal often functions independently of the mobile app's token manager.
 *   Navigate to <a href="https://www.amazon.com/s?k=mysecurity.eufylife.com&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">mysecurity.eufylife.com</a>.
 *   Log in with your credentials.
-*   Check if your cameras are visible and if you can view live streams. If the web portal works, the issue is strictly isolated to the mobile app's local authentication storage.
+*   [Check if](https://quvii.com/blog/how-to-check-wyze-camera-recall-status-2026) your cameras are visible and if you can view live streams. If the web portal works, the issue is strictly isolated to the mobile app's local authentication storage.
 
 ### Future-Proofing with RTSP
 

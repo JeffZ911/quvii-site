@@ -27,11 +27,11 @@ inline_image_sections:
   - "Further reading"
 ---
 
-Recent software updates are designed to make security cameras smarter, but for many Google Nest users, the June 2026 rollout has come at a significant cost to hardware endurance. If your camera is suddenly requiring a charge every few days rather than every few months, you are likely caught in a software-driven power cycle conflict.
+Recent software updates are designed to make security cameras smarter, but for many [Google Nest](https://quvii.com/blog/google-nest-community-forum-deletion-june-30) users, the June 2026 rollout has come at a significant cost to hardware endurance. If your camera is suddenly requiring a charge every few days rather than every few months, you are likely caught in a software-driven power cycle conflict.
 
 # Google Nest Cam Battery Draining After June 2026 Update: Causes and Fixes
 
-The June 2026 Nest Cam battery drain is linked to Firmware [information unavailable] and the Google Home v4.2 update. To fix it, disable 'Enhanced Previews' and 'Gemini Scene Understanding' in the Home app to stop the camera from over-polling.
+The June 2026 Nest Cam [battery drain](https://quvii.com/blog/ring-doorbell-battery-drain-june-2026-update) is linked to Firmware [information unavailable] and the Google Home v4.2 update. To fix it, disable 'Enhanced Previews' and 'Gemini Scene Understanding' in the Home app to stop the camera from over-polling.
 
 ## What it means
 

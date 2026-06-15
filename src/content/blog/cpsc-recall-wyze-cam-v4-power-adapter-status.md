@@ -142,7 +142,7 @@ If your stock adapter is showing signs of heat or noise, or if you simply want a
 
 ### Weatherproofing Your Power Connection
 
-The most common cause of "adapter failure" for the Wyze Cam v4 is not a manufacturing defect, but improper outdoor installation. The power brick itself is **not waterproof** and must be plugged into an indoor outlet or a weather-rated "in-use" cover.
+The most common cause of "adapter failure" for the [Wyze Cam v4](https://quvii.com/learn/wyze-cam-v4-night-vision-flickering-fix) is not a manufacturing defect, but improper outdoor installation. The power brick itself is **not waterproof** and must be plugged into an indoor outlet or a weather-rated "in-use" cover.
 
 When routing the cable outdoors:
 1.  **Use a Drip Loop:** Ensure the cable hangs lower than the entry point into the wall or the camera, so rainwater drips off the wire rather than running into the electronics.
@@ -157,7 +157,7 @@ PoE cameras, such as those from Reolink or Amcrest, receive both data and power 
 
 **Decision Framework: Should You Keep Your Wyze v4?**
 
-*   **If you are a renter:** The Wyze Cam v4 remains a top choice. Its plug-and-play nature is ideal for temporary setups. Just ensure the adapter is in a well-ventilated area and not tucked behind a heavy sofa where heat can build up.
+*   **If you are a renter:** The Wyze [Cam v4](https://quvii.com/learn/wyze-cam-v4-night-vision-flickering-fix) remains a top choice. Its plug-and-play nature is ideal for temporary setups. Just ensure the adapter is in a well-ventilated area and not tucked behind a heavy sofa where heat can build up.
 *   **If you are a homeowner:** Consider the v4 for "low-stakes" monitoring (e.g., watching a pet). For perimeter security or fire-sensitive areas, look toward a PoE system or a brand with higher-tier power certifications.
 *   **If you see a "Recall" email:** Do not click links. Go to `cpsc.gov` or `wyze.com` manually to check for updates.
 

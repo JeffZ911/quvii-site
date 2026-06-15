@@ -156,7 +156,7 @@ This TCO is now comparable to mid-range systems from brands like Eufy or Reolink
 
 ### When to Contact Wyze Support vs. Upgrading Hardware
 
-If you have performed a "Clean Reinstall" (Uninstall > Reboot Phone > Reinstall v3.14.0.807) and the app still crashes on a device running Android 12+ or iOS 17+, the issue is likely a specific account-level corruption. You should contact <a href="https://www.amazon.com/s?k=Wyze+Support&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Wyze Support</a> and provide your "Log ID" (found under Account > Wyze Support > Submit a Log). 
+If you have performed a "Clean Reinstall" (Uninstall > Reboot Phone > Reinstall v3.14.0.807) and the [app still](https://quvii.com/blog/is-google-nest-app-still-working-2026) crashes on a device running Android 12+ or iOS 17+, the issue is likely a specific account-level corruption. You should contact <a href="https://www.amazon.com/s?k=Wyze+Support&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Wyze Support</a> and provide your "Log ID" (found under Account > Wyze Support > Submit a Log). 
 
 However, if you are running an iPhone 8, an original iPhone SE, or a Galaxy Tab A from 2018, no amount of troubleshooting will resolve the crashing. The 2026 Wyze app suite has fundamentally outgrown that hardware. Quvii tracks these trade-offs across the category, and for users in this situation, the most sustainable path is often migrating to a "subscription-free" camera system that utilizes a dedicated local monitor rather than a high-performance smartphone app.
 

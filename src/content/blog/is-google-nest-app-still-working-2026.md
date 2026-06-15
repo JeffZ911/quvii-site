@@ -45,7 +45,7 @@ The most significant blow to long-term users occurred on October 25, 2025. On th
 As of April 2026, Google has finally closed the gap for its camera lineup. Previously, owners of the Nest Cam IQ Indoor and Outdoor models were forced to use the Nest app for professional-grade features like Close-up Tracking and Supersight. With the rollout of the Google Home "Public Preview" expansion, every Nest Cam released since 2015—including the original Nest Cam Indoor and the IQ series—is now compatible with the Google Home app. This migration is no longer optional for those who want to use the new Gemini 3.1 AI features, which provide descriptive video summaries rather than simple motion alerts.
 
 ### The Death of the Nest Community Forums
-A final symbolic end to the era occurred with the scheduled permanent deletion of the legacy Nest Community forums on June 30, 2026. For over a decade, these forums served as the primary repository for user-documented troubleshooting, custom scripts, and API workarounds. Google has moved all official support to the Google Home Help Center, but thousands of niche solutions for legacy hardware integrations have effectively vanished.
+A final symbolic end to the era occurred with the scheduled permanent deletion of the legacy [Nest Community](https://quvii.com/blog/google-nest-community-forum-deletion-june-30) forums on [June 30](https://quvii.com/blog/google-nest-community-forum-deletion-june-30), 2026. For over a decade, these forums served as the primary repository for user-documented troubleshooting, custom scripts, and API workarounds. Google has moved all official support to the Google Home Help Center, but thousands of niche solutions for legacy hardware integrations have effectively vanished.
 
 | Milestone Date | Affected Hardware/Service | Status in 2026 |
 | :--- | :--- | :--- |
@@ -163,5 +163,5 @@ No. Nest cameras are designed as cloud-first devices. While they have a small am
 - Google Store Support
 - RTINGS Security Camera Reviews
 - Google Privacy & Safety Center — https://safety.google/privacy/ads-and-data/
-- CNET: Google Nest Migration Guide
+- CNET: [Google Nest](https://quvii.com/blog/google-nest-community-forum-deletion-june-30) Migration Guide
 - The Verge: The State of Matter in 2026 — https://www.theverge.com/smart-home

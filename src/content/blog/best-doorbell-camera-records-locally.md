@@ -122,7 +122,7 @@ There are three primary tiers of local storage:
 ### Top Recommendations
 
 **Best Overall: Eufy [Video Doorbell](https://quvii.com/learn/renter-friendly-wireless-video-doorbell-options-20260613) E340 (around $180)**
-The E340 is the most versatile choice for most users. It features a unique dual-camera design: a 2K front-facing lens for visitors and a 1080p downward-facing lens for package tracking. When paired with the HomeBase 3, it offers massive storage potential and sophisticated AI that can recognize familiar faces.
+The E340 is the most versatile choice for most users. It features a unique dual-camera design: a 2K front-facing lens for visitors and a 1080p downward-facing lens for package tracking. When paired with the [HomeBase 3](https://quvii.com/learn/eufycam-s330-homebase-3-firmware-sync-error), it offers massive storage potential and sophisticated AI that can recognize familiar faces.
 
 **Best for Reliability: Reolink [Video Doorbell](https://quvii.com/learn/renter-friendly-wireless-video-doorbell-options-20260613) PoE (under $100)**
 For those who prioritize uptime, the Reolink PoE is unmatched. Because it uses a physical wire for both power and data, it is immune to Wi-Fi interference and jamming. It integrates seamlessly with most third-party Network Video Recorders (NVRs) via ONVIF, making it a favorite for the [r/HomeSecurity](https://www.reddit.com/r/homesecurity/) community.

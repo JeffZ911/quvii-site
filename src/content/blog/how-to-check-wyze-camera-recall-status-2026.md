@@ -130,7 +130,7 @@ Furthermore, owners should be aware of "VerifiedView," a security feature introd
 | :--- | :--- |
 | **A Renter** | **Switch.** Renters often lack the tools to safely remove damaged outdoor mounts. Opt for a refund and move to a simpler "no-drill" battery cam like the <a href="https://www.amazon.com/s?k=Eufy+SoloCam&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Eufy SoloCam</a>. |
 | **A Homeowner** | **Replace.** If you are already in the Wyze ecosystem (Cam Plus, etc.), take the free replacement. The new kit includes a redesigned mounting bracket that makes battery puncture impossible. |
-| **Privacy-Focused** | **Switch.** Use the refund toward a <a href="https://www.amazon.com/s?k=Reolink+Argus+4+Pro&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Reolink Argus 4 Pro</a>. It offers local storage and higher resolution without the recurring safety/privacy concerns associated with Wyze. |
+| **Privacy-Focused** | **Switch.** Use the refund toward a <a href="https://www.amazon.com/s?k=Reolink+Argus+4+Pro&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">[Reolink Argus 4](https://quvii.com/blog/reolink-argus-4-pro-new-release-features-20260613) Pro</a>. It offers local storage and higher resolution without the recurring safety/privacy concerns associated with Wyze. |
 | **On a Budget** | **Replace.** Wyze’s replacement offer is the most cost-effective way to maintain outdoor coverage without a new capital outlay. |
 
 ## What to do now

@@ -110,7 +110,7 @@ A common fear is that a $100 camera actually costs $400 over three years due to 
 
 ### Decision Framework: Which Camera Should You Buy?
 *   **If you are a Studio Renter:** Prioritize an indoor "hub" camera like the Aqara G3. It covers the only entry point and acts as a [smart home](https://quvii.com/blog/smart-home-security-privacy-trends-2026) controller.
-*   **If you have a Shared Hallway:** Prioritize a video doorbell with an over-the-door mount.
+*   **If you have a Shared Hallway:** Prioritize a [video doorbell](https://quvii.com/learn/renter-friendly-wireless-video-doorbell-options-20260613) with an over-the-door mount.
 *   **If you are on the Ground Floor:** Prioritize an outdoor battery camera with a built-in siren and spotlight to deter window entries.
 *   **If you have No Wi-Fi:** Look for "LTE" or "4G" cameras (like the <a href="https://www.amazon.com/s?k=Reolink+Go+series&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Reolink Go series</a>) that use a cellular SIM card.
 

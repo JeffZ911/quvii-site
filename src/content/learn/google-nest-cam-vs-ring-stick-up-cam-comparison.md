@@ -204,7 +204,7 @@ Total cost of ownership (TCO) for a 3-camera setup over five years often exceeds
 
 ## Sources
 
-- Google Nest Cam (Battery) Technical Specifications — [https://store.google.com/product/nest_cam_battery_specs](https://store.google.com/product/nest_cam_battery_specs)
+- [Google Nest Cam](https://quvii.com/learn/google-nest-cam-battery-drain-june-2026-update-20260614) (Battery) Technical Specifications — [https://store.google.com/product/nest_cam_battery_specs](https://store.google.com/product/nest_cam_battery_specs)
 - Ring Stick Up Cam Pro Product Page — [https://ring.com/products/stick-up-cam-pro-battery](https://ring.com/products/stick-up-cam-pro-battery)
 - Google Nest Subscription Plans (2026)
 - Ring Protect and Solo Plan Details — [https://support.ring.com/hc/en-us/articles/115001671383](https://support.ring.com/hc/en-us/articles/115001671383)

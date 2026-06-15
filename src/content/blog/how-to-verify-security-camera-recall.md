@@ -29,7 +29,7 @@ Ensuring your [home security](https://quvii.com/blog/smart-home-security-privacy
 > 📝 **Editorial Note:** This guide is AI-assisted and game data evolves rapidly. Please cross-reference with in-game information. _Updated: 2026-06-06._
 
 
-**Quick Answer:** To verify if your camera is recalled, search the CPSC.gov recall database using your device’s model and serial number. As of June 2026, Wyze has issued a major recall (Recall #26-524) for approximately 321,000 [Solar Cam Pan](https://quvii.com/blog/wyze-solar-cam-pan-recall-fire-hazard) units (Model WYZESCPWH) due to a [fire hazard](https://quvii.com/blog/wyze-solar-cam-pan-recall-fire-hazard) caused by incorrect assembly instructions that may lead to battery punctures.
+**Quick Answer:** To verify if your [camera is recalled](https://quvii.com/blog/how-to-check-wyze-camera-recall-status-2026), search the CPSC.gov recall database using your device’s model and serial number. As of June 2026, Wyze has issued a major recall (Recall #26-524) for approximately 321,000 [Solar Cam Pan](https://quvii.com/blog/wyze-solar-cam-pan-recall-fire-hazard) units (Model WYZESCPWH) due to a [fire hazard](https://quvii.com/blog/wyze-solar-cam-pan-recall-fire-hazard) caused by incorrect assembly instructions that may lead to battery punctures.
 
 ## What happened
 
