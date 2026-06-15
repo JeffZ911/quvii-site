@@ -50,7 +50,7 @@ The following table outlines the core technical specifications of the Argus 4 Pr
 | :--- | :--- |
 | **Resolution** | 4K UHD (3840 x 2160) at 15fps |
 | **Field of View** | 180° Horizontal, 50° Vertical |
-| **Night Vision** | ColorX (Full color without LEDs); IR available |
+| **[Night Vision](https://quvii.com/learn/wyze-cam-v4-night-vision-flickering-fix)** | ColorX (Full color without LEDs); IR available |
 | **Connectivity** | Dual-Band Wi-Fi 6 (2.4GHz / 5GHz) |
 | **Power Source** | 5000mAh Rechargeable Battery; Solar Compatible |
 | **Local Storage** | microSD Card (up to 512GB) |

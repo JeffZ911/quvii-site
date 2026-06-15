@@ -137,7 +137,7 @@ Before you purchase, ensure the camera meets these three "future-proofing" crite
 3.  **Local AI Detection:** Verify that "Person/Vehicle Detection" is listed as an "on-device" or "local" feature. If the box says "AI available with [Brand] Cloud," put it back on the shelf.
 
 ### How to Set Up a Local Storage Hub
-While microSD cards are convenient, the ultimate "no-subscription" setup involves a local hub. Systems like the **Eufy HomeBase 3** or **Reolink Home Hub** act as a central vault. If a thief steals your camera, you don't lose the footage—it is safely stored on the hub inside your house. These hubs also extend the Wi-Fi range of your cameras and consolidate all notifications into a single, unified interface.
+While microSD cards are convenient, the ultimate "no-subscription" setup involves a local hub. Systems like the **Eufy [HomeBase 3](https://quvii.com/learn/eufycam-s330-homebase-3-firmware-sync-error)** or **Reolink Home Hub** act as a central vault. If a thief steals your camera, you don't lose the footage—it is safely stored on the hub inside your house. These hubs also extend the Wi-Fi range of your cameras and consolidate all notifications into a single, unified interface.
 
 Quvii tracks these trade-offs across the category to ensure buyers aren't just looking at the sticker price, but the long-term cost and privacy implications of their security choices.
 

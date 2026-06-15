@@ -34,7 +34,7 @@ Blurry Eufy [night vision](https://quvii.com/learn/wyze-cam-v4-night-vision-flic
 ![What happened](/img/eufy-camera-night-vision-blurry-fix/inline-1.webp)
 
 
-The first half of 2026 has been a turbulent period for Eufy’s software ecosystem. While the brand remains a leader in the "no monthly fee" market, a series of rapid-fire firmware updates intended to integrate the new S3 Pro "MaxColor Vision" features into the older HomeBase 3 ecosystem has inadvertently degraded performance for legacy hardware.
+The first half of 2026 has been a turbulent period for Eufy’s software ecosystem. While the brand remains a leader in the "no monthly fee" market, a series of rapid-fire firmware updates intended to integrate the new S3 Pro "MaxColor Vision" features into the older [HomeBase 3](https://quvii.com/learn/eufycam-s330-homebase-3-firmware-sync-error) ecosystem has inadvertently degraded performance for legacy hardware.
 
 ### The February 2026 'Ghosting' Bug
 On February 27, 2026, Eufy pushed a mandatory backend update to HomeBase 3 units. Within hours, users on <a href="https://www.amazon.com/s?k=r%2FEufyCam&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">r/EufyCam</a> began reporting "ghosting"—a phenomenon where a semi-transparent frame from one camera would appear overlaid on another camera's live stream. This was particularly prevalent during [night vision](https://quvii.com/learn/wyze-cam-v4-night-vision-flickering-fix) mode, where the high-contrast infrared (IR) feed made the ghosted images more visible. Eufy later confirmed this was a caching error in the HomeBase 3’s local processing engine, which failed to clear video buffers when switching between multiple camera feeds.
@@ -110,7 +110,7 @@ For those using the HomeBase 3 to expand storage (via 2.5-inch SSD/HDD), the Apr
 ![What to do now](/img/eufy-camera-night-vision-blurry-fix/inline-4.webp)
 
 
-Fixing blurry Eufy night vision requires a systematic approach to rule out software bugs before assuming the hardware has failed.
+Fixing blurry Eufy [night vision](https://quvii.com/learn/wyze-cam-v4-night-vision-flickering-fix) requires a systematic approach to rule out software bugs before assuming the hardware has failed.
 
 ### The Software Fix: Firmware & App Updates
 1.  **Hard Restart:** Do not just "Restart" via the app. Physically unplug your HomeBase 3, wait 30 seconds, and plug it back in. For SoloCams, hold the sync button for 10 seconds until it beeps. This clears the v3.8.2.0 cache errors.
