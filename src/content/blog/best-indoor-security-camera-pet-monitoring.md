@@ -115,7 +115,7 @@ Before deploying any indoor camera for pet monitoring, perform a "Privacy Audit"
 *   **If you are a renter in a small apartment:** Prioritize the **Tapo C225**. The physical privacy shutter is essential for small spaces where the camera is always in view, and the "around $60" price point is budget-friendly.
 *   **If you have a large house with multiple pets:** Prioritize the **Eufy S350**. The dual-lens tracking ensures you don't lose sight of pets as they move between furniture, and the local AI avoids the high cost of multi-camera cloud subscriptions.
 *   **If you are monitoring a pet with health issues:** Prioritize the **Tapo C260** or **Reolink E1 Pro**. The 4K/5MP resolution is necessary to see small movements or changes in behavior that 1080p cameras will blur.
-*   **If you want a "Set it and Forget it" experience:** Ensure you use a **HomeBase 3 (Eufy)** or **Home Hub (Reolink)**. Centralized local storage is more reliable than individual SD cards and provides a single interface for all your AI alerts.
+*   **If you want a "Set it and Forget it" experience:** Ensure you use a **[HomeBase 3](https://quvii.com/learn/eufycam-s330-homebase-3-firmware-sync-error) (Eufy)** or **Home Hub (Reolink)**. Centralized local storage is more reliable than individual SD cards and provides a single interface for all your AI alerts.
 
 Quvii tracks these trade-offs across the category to help owners navigate the increasingly complex intersection of AI technology and [home privacy](https://quvii.com/learn/smart-home-privacy-risks-ai-security-cameras).
 

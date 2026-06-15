@@ -87,7 +87,7 @@ The February 2026 ghosting incident was not just a technical glitch; it was a pr
 If you already own a Eufy system, the 2026 updates may have changed your camera’s behavior overnight. The most common complaint is that the cameras no longer "see" as far as they did at launch.
 
 ### IR Trigger Failures
-Post-v3.8.2.0, many SoloCam S340 (T8170) owners have noted that the IR illuminators (the red glow) fail to turn on when motion is detected. This results in "pitch black" recordings where only the center of the frame is visible, or the footage is so grainy that it looks out of focus. This is often a software conflict where the camera’s "Night Vision" setting is stuck in an "Auto" loop, unable to decide between using the spotlight or the IR LEDs.
+Post-v3.8.2.0, many SoloCam S340 (T8170) owners have noted that the IR illuminators (the red glow) fail to turn on when motion is detected. This results in "pitch black" recordings where only the center of the frame is visible, or the footage is so grainy that it looks out of focus. This is often a software conflict where the camera’s "[Night Vision](https://quvii.com/learn/wyze-cam-v4-night-vision-flickering-fix)" setting is stuck in an "Auto" loop, unable to decide between using the spotlight or the IR LEDs.
 
 ### Internal Condensation vs. External Fog
 Units purchased during the 2024-2025 launch window are now reaching the age where internal seals begin to fail. In 2026, there has been a spike in reports of internal condensation. Unlike external fog, which can be wiped away, internal condensation appears as a "bloom" in the center of the night vision feed that grows larger as the IR LEDs heat up the internal air. This is a hardware failure, not a software bug.

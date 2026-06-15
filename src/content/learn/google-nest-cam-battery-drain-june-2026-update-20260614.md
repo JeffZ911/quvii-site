@@ -171,7 +171,7 @@ Only if you use the official Google Weatherproof Cable. Standard USB-C cables do
 
 ## Sources
 - [Google Nest](https://quvii.com/blog/google-nest-community-forum-deletion-june-30) Help: Change Nest Cam battery settings
-- RTINGS: Google Nest Cam (Battery) Review and Power Testing
+- RTINGS: [Google Nest](https://quvii.com/blog/google-nest-community-forum-deletion-june-30) Cam (Battery) Review and Power Testing
 - CSA-IoT: Matter 2.0 Specification and Device Requirements
 - <a href="https://www.amazon.com/s?k=Wasserstein+Home%3A+Solar+Panel+Specifications+for+Nest+Cam&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Wasserstein Home: Solar Panel Specifications for Nest Cam</a>
 - <a href="https://www.amazon.com/s?k=Google+Safety+Center%3A+Nest+Privacy+and+Data+Collection&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Google Safety Center: Nest Privacy and Data Collection</a>

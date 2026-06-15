@@ -26,7 +26,7 @@ The [Reolink Argus 4 Pro](/blog/reolink-argus-4-pro-firmware-update-issues) repr
 
 # Reolink Argus 4 Pro: New Release Features and Buyer's Guide
 
-The [Reolink Argus 4](https://quvii.com/blog/reolink-argus-4-pro-firmware-update-issues) Pro, released in June 2024, is a 4K wire-free security camera featuring a 180° panoramic view via dual lenses, ColorX full-color night vision without spotlights, dual-band Wi-Fi 6, and free on-device AI detection for people, vehicles, and animals, all without a mandatory subscription.
+The [Reolink Argus 4](https://quvii.com/blog/reolink-argus-4-pro-firmware-update-issues) Pro, released in June 2024, is a 4K wire-free security camera featuring a 180° panoramic view via dual lenses, ColorX full-color [night vision](https://quvii.com/learn/wyze-cam-v4-night-vision-flickering-fix) without spotlights, dual-band Wi-Fi 6, and free on-device AI detection for people, vehicles, and animals, all without a mandatory subscription.
 
 ## What happened
 
