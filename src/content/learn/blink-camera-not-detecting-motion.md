@@ -43,7 +43,7 @@ Hardware degradation is rare but possible. If a camera that previously worked pe
 
 ## Why it exists
 
-Blink's motion detection logic is governed by a "Battery-First" philosophy. Unlike wired systems that can analyze every pixel of a 4K stream in real-time, Blink cameras (specifically the battery-powered Outdoor 4 and Doorbell) spend 99% of their time in a low-power "sleep" state to achieve their advertised two-year battery life.
+Blink's motion detection logic is governed by a "Battery-First" philosophy. Unlike wired systems that can analyze every pixel of a 4K stream in real-time, Blink cameras (specifically the battery-powered [Outdoor 4](https://quvii.com/learn/blink-outdoor-4-battery-life-extreme-heat) and Doorbell) spend 99% of their time in a low-power "sleep" state to achieve their advertised two-year battery life.
 
 ### The Trade-off: Battery Life vs. Detection Speed
 To save power, the main image sensor is off until the PIR sensor detects a heat differential. This creates a "wake-up" delay. If a person is running or walking quickly toward the camera, they may pass out of the frame before the camera finishes its 500ms to 1.5s boot sequence. This is why many users find clips that only show the back of a person’s head.

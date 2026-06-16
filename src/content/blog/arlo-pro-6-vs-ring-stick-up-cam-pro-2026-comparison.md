@@ -134,7 +134,7 @@ If the 2026 price hikes and the gating of Activity Zones are dealbreakers, the m
 | **Urban/Busy Street** | False Alert Reduction (Radar) | Ring Stick Up Cam Pro |
 
 ### Installation Tip
-For those choosing the Arlo Pro 6, the 8-month battery life is a best-case scenario. To avoid the hassle of climbing a ladder to access the new USB-C port, ensure you use the 2026-spec <a href="https://www.amazon.com/s?k=Arlo+Solar+Panel+%28VMA5600%29&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Arlo Solar Panel (VMA5600)</a>. For Ring users, the Stick Up Cam Pro's "Bird's Eye View" works best when the camera is mounted between 8 and 10 feet high, allowing the radar to accurately map the ground plane.
+For those choosing the Arlo Pro 6, the 8-month [battery life](https://quvii.com/learn/blink-outdoor-4-battery-life-extreme-heat) is a best-case scenario. To avoid the hassle of climbing a ladder to access the new USB-C port, ensure you use the 2026-spec <a href="https://www.amazon.com/s?k=Arlo+Solar+Panel+%28VMA5600%29&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Arlo Solar Panel (VMA5600)</a>. For Ring users, the Stick Up Cam Pro's "Bird's Eye View" works best when the camera is mounted between 8 and 10 feet high, allowing the radar to accurately map the ground plane.
 
 Quvii tracks these trade-offs across the category to help buyers navigate an increasingly complex subscription landscape.
 

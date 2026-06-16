@@ -146,7 +146,7 @@ For those looking to delve deeper into optimizing their security camera setup in
 | **Advertised Battery Life** | Up to 2 years                                |   |
 | **IP Rating**        | IP65 (weather resistant)                         |      |
 | **Local Storage**    | Via Blink Sync Module 2 (USB drive, sold separately) |  |
-| **Cloud Storage**    | Optional Blink Subscription Plan (monthly/annual) |      |
+| **[Cloud Storage](https://quvii.com/blog/wyze-cam-v4-cloud-storage-subscription-changes-2026)**    | Optional Blink Subscription Plan (monthly/annual) |      |
 | **Two-Way Audio**    | Yes                                              |      |
 
 ---

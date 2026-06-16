@@ -131,7 +131,7 @@ Don't feel the need to replace every camera at once. Focus your budget on the en
 ### Choose your power path
 *   **For Wide Coverage:** Choose the **[Reolink Argus](https://quvii.com/blog/reolink-argus-4-pro-firmware-update-issues) [4 Pro](https://quvii.com/blog/reolink-argus-4-pro-firmware-update-issues)**. Its 180-degree view is unmatched in this price bracket, making it ideal for wide driveways or corner mounts.
 *   **For Reliability and Value:** Choose the **TP-Link Tapo C465**. Its integration with the Tapo ecosystem and robust solar performance makes it the best "set it and forget it" option.
-*   **For Continuous Recording:** Choose the **Lorex 4K Spotlight**. Because it is a plug-in unit, it is not limited by battery life and can record 24/7 to its internal SD card, which is a significant advantage for high-security areas.
+*   **For Continuous Recording:** Choose the **Lorex 4K Spotlight**. Because it is a plug-in unit, it is not limited by [battery life](https://quvii.com/learn/blink-outdoor-4-battery-life-extreme-heat) and can record 24/7 to its internal SD card, which is a significant advantage for high-security areas.
 
 ### Invest in "High Endurance" SD Cards
 4K video writing is an intensive process that can "burn out" standard SD cards used in cameras or phones. When buying a 4K camera, specifically look for cards labeled **"High Endurance"** or **"V30."** These are designed for the thousands of write/erase cycles required by security surveillance.

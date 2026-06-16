@@ -252,4 +252,4 @@ E2EE is available on many newer Ring doorbell models, but it is an optional feat
 *   Security.org — Do You Need a Ring Subscription?
 *   Theverge.com — Ring gave police user data without consent
 *   Ring.com — Why get a Ring Doorbell?
-*   Ring.com — Ring Battery Doorbell Plus
+*   Ring.com — Ring [Battery Doorbell Plus](https://quvii.com/learn/ring-battery-doorbell-plus-motion-zone-issues)

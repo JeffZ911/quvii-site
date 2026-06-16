@@ -109,13 +109,13 @@ Considering the 3-year real cost of a security camera system for a vacant home g
 **Scenario 1: Subscription-Free System (e.g., [eufyCam S330](https://quvii.com/learn/eufycam-s330-homebase-3-firmware-sync-error) + HomeBase 3)**
 *   **Hardware Cost:** Around $500-700 (for a multi-camera kit and HomeBase)
 *   **Subscription Fees:** $0 (for local storage and core features)
-*   **Cloud Storage Fees:** $0 (if relying solely on local storage)
+*   **[Cloud Storage](https://quvii.com/blog/wyze-cam-v4-cloud-storage-subscription-changes-2026) Fees:** $0 (if relying solely on local storage)
 *   **Feature Paywall:** Minimal to none, as AI detection and other advanced features are typically included with the hardware.
 *   **3-Year TCO Estimate:** Around $500-700
 
 **Scenario 2: Subscription-Based System (e.g., Arlo Essential Spotlight Camera)**
 *   **Hardware Cost:** Around $100-150 per camera (plus potential hub cost, depending on model)
-*   **Subscription Fees:** Arlo Secure plans typically range from around $5-15 per month per camera or for multiple cameras for basic features, or around $10-20 per month for unlimited cameras and advanced features. Let's estimate an average of $10/month for one camera, or $100-120/year.
+*   **Subscription Fees:** [Arlo Secure](https://quvii.com/blog/arlo-secure-app-6-26-0-firmware-issues) plans typically range from around $5-15 per month per camera or for multiple cameras for basic features, or around $10-20 per month for unlimited cameras and advanced features. Let's estimate an average of $10/month for one camera, or $100-120/year.
 *   **Cloud Storage Fees:** Included in the subscription, but often limited to a certain number of days or resolution unless on a higher tier.
 *   **Feature Paywall:** Advanced AI detection, rich notifications, and extended video history are often locked behind the subscription plan. Without it, functionality can be severely limited.
 *   **3-Year TCO Estimate:** $100-$150 (hardware) + $300-$360 (3 years of subscription) = Around $400-510 (for a single camera over three years). For a multi-camera setup, this cost escalates quickly.

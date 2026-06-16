@@ -97,7 +97,7 @@ During the day, the IR Cut Filter—a small piece of treated glass—sits betwee
 
 [Image Specification: Close-up macro shot of a security camera lens assembly showing the thin glass IR cut filter partially engaged. Aspect Ratio: 4:3]
 
-**Technical Spec: Wyze Cam v4 850nm IR LED Array**
+**Technical Spec: [Wyze Cam v4](https://quvii.com/blog/wyze-cam-v4-cloud-storage-subscription-changes-2026) 850nm IR LED Array**
 *   **LED Count:** 2-4 High-intensity SMD LEDs
 *   **Wavelength:** 850nm (visible as a faint red glow)
 *   **Power Draw (LEDs Only):** Approximately 1.2W to 1.8W when active.
@@ -107,7 +107,7 @@ During the day, the IR Cut Filter—a small piece of treated glass—sits betwee
 The camera's firmware uses a "High/Low" logic gate for night vision. For example, it may be programmed to turn IR *on* when ambient light hits 1 Lux and turn it *off* when light hits 3 Lux. This 2-Lux "Hysteresis Gap" is what prevents flickering. If a firmware update accidentally sets both the "on" and "off" points to 2 Lux, the camera has no "buffer zone" and will flicker at the slightest change in photon count.
 
 ### Sensor Gain vs. Shutter Speed
-The Wyze Cam v4 uses Pulse Width Modulation (PWM) to control the brightness of its IR LEDs. If the PWM frequency conflicts with the 60Hz frequency of your home’s outdoor lighting (or the 50Hz frequency in some international regions), the video will appear to pulse. This is often misidentified as a night vision failure when it is actually a frame-rate synchronization issue between the camera's shutter and the ambient light.
+The Wyze [Cam v4](https://quvii.com/blog/wyze-cam-v4-cloud-storage-subscription-changes-2026) uses Pulse Width Modulation (PWM) to control the brightness of its IR LEDs. If the PWM frequency conflicts with the 60Hz frequency of your home’s outdoor lighting (or the 50Hz frequency in some international regions), the video will appear to pulse. This is often misidentified as a night vision failure when it is actually a frame-rate synchronization issue between the camera's shutter and the ambient light.
 
 ## Real-world implications
 

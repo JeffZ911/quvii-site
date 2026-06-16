@@ -63,7 +63,7 @@ Manufacturers developed both Wi-Fi and PoE versions to cater to different priori
 
 ### Environmental Stressors: Heat and Humidity
 
-Outdoor electronics face significant environmental stressors, with summer bringing extreme heat, direct sunlight exposure, and sometimes increased humidity. These factors can severely impact camera components, degrade network signals, and affect power sources. High temperatures can stress internal circuits, potentially leading to performance degradation or even premature failure. Direct sunlight can cause devices to overheat, pushing them beyond their optimal operating ranges. For Wi-Fi, heat can indirectly affect signal stability by stressing networking equipment or by increasing overall network congestion from more people being home. Robust design and stable connections are therefore paramount to ensure sustained operation through the summer months.
+Outdoor electronics face significant environmental stressors, with summer bringing [extreme heat](https://quvii.com/learn/blink-outdoor-4-battery-life-extreme-heat), direct sunlight exposure, and sometimes increased humidity. These factors can severely impact camera components, degrade network signals, and affect power sources. High temperatures can stress internal circuits, potentially leading to performance degradation or even premature failure. Direct sunlight can cause devices to overheat, pushing them beyond their optimal operating ranges. For Wi-Fi, heat can indirectly affect signal stability by stressing networking equipment or by increasing overall network congestion from more people being home. Robust design and stable connections are therefore paramount to ensure sustained operation through the summer months.
 
 ## How it works under the hood
 
