@@ -73,7 +73,7 @@ The Wyze [Cam v4](https://quvii.com/blog/wyze-cam-v4-cloud-storage-subscription-
 When Wyze releases a firmware update, such as those in the [4.52.9.x branch](https://support.wyze.com/hc/en-us/articles/360024852172-Release-Notes-Firmware), they often tweak the "Hysteresis" logic. Hysteresis is the programmed lag that prevents the camera from switching modes too quickly. If a firmware update narrows this gap, a small reflection or a passing car's headlights can trigger an immediate and repetitive mode switch.
 
 ### The IR Reflection Trap
-Environmental factors play a massive role in flickering. IR light is invisible to the human eye but highly reflective off certain surfaces. If your Wyze Cam v4 is mounted too close to a white soffit, a brick wall, or a glass window, the IR light bounces off that surface and directly back into the lens. The camera "sees" this bright reflection, assumes it is daytime, and turns off the IR LEDs. Once the LEDs are off, the environment becomes dark again, and the camera turns the IR back on, starting the cycle anew.
+Environmental factors play a massive role in flickering. IR light is invisible to the human eye but highly reflective off certain surfaces. If your [Wyze Cam v4](https://quvii.com/blog/wyze-cam-v4-cloud-storage-subscription-changes-2026) is mounted too close to a white soffit, a brick wall, or a glass window, the IR light bounces off that surface and directly back into the lens. The camera "sees" this bright reflection, assumes it is daytime, and turns off the IR LEDs. Once the LEDs are off, the environment becomes dark again, and the camera turns the IR back on, starting the cycle anew.
 
 **Common IR-Reflective Materials:**
 *   White vinyl siding
@@ -83,7 +83,7 @@ Environmental factors play a massive role in flickering. IR light is invisible t
 *   Dust or spiderwebs directly on the lens cover
 
 ### Voltage Sag and IR Activation
-The Wyze Cam v4 requires a stable 5V/2A power supply. Activating the IR LED array increases the power draw of the device significantly. If you are using a third-party power adapter or an exceptionally long USB extension cable (over 20 feet), the camera may experience "voltage sag" the moment the LEDs kick in. This drop in power can cause the camera's processor to brown out or reset the image sensor, which looks like a flicker or a reboot loop.
+The Wyze [Cam v4](https://quvii.com/blog/wyze-cam-v4-cloud-storage-subscription-changes-2026) requires a stable 5V/2A power supply. Activating the IR LED array increases the power draw of the device significantly. If you are using a third-party power adapter or an exceptionally long USB extension cable (over 20 feet), the camera may experience "voltage sag" the moment the LEDs kick in. This drop in power can cause the camera's processor to brown out or reset the image sensor, which looks like a flicker or a reboot loop.
 
 ## How it works under the hood
 

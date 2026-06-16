@@ -31,7 +31,7 @@ Detection is a hardware-level event. On an [Outdoor 4](https://quvii.com/learn/b
 ### Signs Your Blink Sensor is Failing
 Hardware degradation is rare but possible. If a camera that previously worked perfectly now ignores all movement regardless of settings, the PIR sensor may have physically failed. Signs include:
 *   **Log Gaps:** The camera logs "Connection Restored" events but never motion, even during a "Walk Test."
-*   **Status LED Issues:** On the Outdoor 4, the red LED usually flashes when recording (if enabled). If it never flashes during movement, the sensor isn't triggering.
+*   **Status LED Issues:** On the [Outdoor 4](https://quvii.com/learn/blink-outdoor-4-battery-life-extreme-heat), the red LED usually flashes when recording (if enabled). If it never flashes during movement, the sensor isn't triggering.
 *   **[Battery Drain](https://quvii.com/blog/ring-doorbell-battery-drain-june-2026-update) without Clips:** If batteries die in weeks rather than months, but no clips are recorded, the sensor may be stuck in a "high" state, constantly trying to wake the camera.
 
 | Issue Type | Symptom | Primary Cause |
@@ -131,6 +131,6 @@ For more detailed guides on maximizing your system, see Quvii’s deep dives on 
 ## Sources
 - <a href="https://www.amazon.com/s?k=Blink+Support+%E2%80%94+Troubleshooting+Motion+Detection&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Blink Support — Troubleshooting Motion Detection</a>
 - <a href="https://www.amazon.com/s?k=Blink+Support+%E2%80%94+How+to+Placement+Your+Blink+Cameras&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Blink Support — How to Placement Your Blink Cameras</a>
-- RTINGS — Blink Outdoor 4 Review & Sensor Testing
+- RTINGS — [Blink Outdoor 4](https://quvii.com/learn/blink-outdoor-4-battery-life-extreme-heat) Review & Sensor Testing
 - <a href="https://www.amazon.com/s?k=Amazon+%E2%80%94+Blink+Subscription+Plan+Features&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Amazon — Blink Subscription Plan Features</a>
 - <a href="https://www.amazon.com/s?k=Blink+Support+%E2%80%94+Using+Activity+Zones&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Blink Support — Using Activity Zones</a>

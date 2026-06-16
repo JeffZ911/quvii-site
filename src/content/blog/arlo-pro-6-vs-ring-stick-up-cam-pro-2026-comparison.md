@@ -51,7 +51,7 @@ In 2026, the "out of the box" experience for both cameras is significantly more 
 | **Resolution** | 2K with HDR | Retinal 2K |
 | **Field of View (FOV)** | 160° Diagonal | 140° Diagonal |
 | **Motion Detection** | Pixel-based AI | 3D Motion Detection (Radar) |
-| **Battery Life** | Up to 8 Months | Up to 6 Months |
+| **[Battery Life](https://quvii.com/learn/blink-outdoor-4-battery-life-extreme-heat)** | Up to 8 Months | Up to 6 Months |
 | **Charging Port** | USB-C | USB-C |
 | **[Smart Home](https://quvii.com/blog/smart-home-security-privacy-trends-2026)** | HomeKit, Alexa, Google | Alexa (Native), Google (Limited) |
 | **MSRP Band** | $200 - $250 range | $150 - $200 range |
@@ -143,7 +143,7 @@ Quvii tracks these trade-offs across the category to help buyers navigate an inc
 - Arlo Technologies — <a href="https://www.amazon.com/s?k=Arlo+Pro+6+Official+Product+Page&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Arlo Pro 6 Official Product Page</a>
 - Ring (Amazon) — [Stick Up Cam Pro Specs and Retinal 2K Announcement](https://www.ring.com)
 - Ring (Amazon) — <a href="https://www.amazon.com/s?k=Ring+Home+Subscription+Tier+Details&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Ring Home Subscription Tier Details</a>
-- Arlo Technologies — <a href="https://www.amazon.com/s?k=Arlo+Secure+Plan+Pricing+and+Feature+Matrix&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Arlo Secure Plan Pricing and Feature Matrix</a>
+- Arlo Technologies — <a href="https://www.amazon.com/s?k=Arlo+Secure+Plan+Pricing+and+Feature+Matrix&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">[Arlo Secure](https://quvii.com/blog/arlo-secure-app-6-26-0-firmware-issues) Plan Pricing and Feature Matrix</a>
 - Federal Trade Commission — [FTC Settlement and Privacy Mandates for Ring](https://www.ftc.gov)
 - Arlo Technologies — <a href="https://www.amazon.com/s?k=Arlo+Privacy+Pledge+and+Data+Transparency+Report&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Arlo Privacy Pledge and Data Transparency Report</a>
 - Reddit r/HomeSecurity — [2026 Community Comparison: Arlo vs. Ring Subscription Hikes](https://www.reddit.com/r/homesecurity/)

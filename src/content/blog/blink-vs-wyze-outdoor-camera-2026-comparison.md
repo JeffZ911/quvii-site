@@ -48,7 +48,7 @@ Wyze, meanwhile, broke the 4K barrier for budget cameras with the **Wyze [Cam Pa
 
 ### D1: 2026 Spec Comparison Table
 
-| Feature | Blink Outdoor 2K+ | Wyze Battery Cam Pro |
+| Feature | [Blink Outdoor](https://quvii.com/learn/blink-outdoor-4-battery-life-extreme-heat) 2K+ | Wyze Battery Cam Pro |
 | :--- | :--- | :--- |
 | **Max Resolution** | 2K (2560 x 1440) | 2.5K (2560 x 1440) |
 | **Power Source** | 2 AA Lithium (Non-rechargeable) | Removable Rechargeable Pack |
