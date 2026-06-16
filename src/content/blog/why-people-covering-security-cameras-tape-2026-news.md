@@ -166,7 +166,7 @@ The shift away from subscriptions is a major trend in 2026. By choosing cameras 
 ### Total Cost of Ownership (TCO) Analysis (3-Year Estimate)
 When buying, the sticker price is often misleading.
 *   **Ring Battery Doorbell:** $100 (Hardware) + $180 (Ring Protect Basic @ $5/mo for 36 months) = **$280 Total.**
-*   **Arlo Essential Indoor:** $80 (Hardware) + $288 (Arlo Secure @ $8/mo for 36 months) = **$368 Total.**
+*   **Arlo Essential Indoor:** $80 (Hardware) + $288 ([Arlo Secure](https://quvii.com/blog/arlo-secure-app-6-26-0-firmware-issues) @ $8/mo for 36 months) = **$368 Total.**
 *   **Eufy Indoor Cam S350:** $190 (Hardware) + $0 (Local Storage) = **$190 Total.**
 
 The "tape trend" is more than just a meme; it is a signal that consumers are reclaiming control over their environments. Whether through a piece of adhesive or a sophisticated local-storage NVR, the goal remains the same: ensuring that your security system works for you, and only you.

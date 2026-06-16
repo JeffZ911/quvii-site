@@ -184,7 +184,7 @@ Understanding the total cost of ownership goes beyond the initial purchase price
     *   Optional Blink Weather Resistant Power Adapter: Around $15-25.
 
 2.  **Subscription Tier (Optional but Recommended for Full Features):**
-    *   Blink Basic Plan (single camera cloud storage): Around $3-5 per month or $30-40 annually.
+    *   Blink Basic Plan (single camera [cloud storage](https://quvii.com/blog/wyze-cam-v4-cloud-storage-subscription-changes-2026)): Around $3-5 per month or $30-40 annually.
     *   Blink Plus Plan (unlimited cameras, cloud storage, extended warranty): Around $10-12 per month or $100-120 annually.
     *   **3-Year Subscription Cost (Plus Plan example):** $300 - $360.
 

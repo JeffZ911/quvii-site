@@ -73,7 +73,7 @@ The single greatest "invisible" battery killer is a weak Wi-Fi signal. If your c
 
 ### Environmental Triggers
 Arlo cameras use PIR sensors that look for changes in heat. In 2026, while AI filtering has improved, the hardware still "wakes up" the moment it sees a heat change. 
-*   **The Driveway Trap:** If your camera faces a street, every passing car's hot engine can trigger the PIR sensor. Even if the Arlo Secure AI decides *not* to record the clip, the camera has already spent significant energy waking up the processor and checking the image.
+*   **The Driveway Trap:** If your camera faces a street, every passing car's hot engine can trigger the PIR sensor. Even if the [Arlo Secure](https://quvii.com/blog/arlo-secure-app-6-26-0-firmware-issues) AI decides *not* to record the clip, the camera has already spent significant energy waking up the processor and checking the image.
 *   **Reflective Surfaces:** Sunlight reflecting off a swimming pool or a car windshield can trick the PIR sensor into thinking there is motion, leading to "phantom" triggers.
 
 ### Wi-Fi 6 and Dual-Band Trade-offs

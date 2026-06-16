@@ -116,7 +116,7 @@ If you are considering the Eufy FamiLock E40, your next steps should focus on co
 | :--- | :--- | :--- |
 | The fastest hands-free entry | **FamiLock E40** | 3D Facial recognition works as you approach. |
 | High security without facial data | **FamiLock E35** | Palm vein recognition is highly secure but requires a gesture. |
-| Low profile and Matter-over-Thread | **FamiLock E32** | Smaller footprint, no camera, optimized for battery life. |
+| Low profile and Matter-over-Thread | **FamiLock E32** | Smaller footprint, no camera, optimized for [battery life](https://quvii.com/learn/blink-outdoor-4-battery-life-extreme-heat). |
 | To avoid all monthly fees | **Any FamiLock** | All support local storage and subscription-free AI. |
 
 ### Monitor Availability and Reviews

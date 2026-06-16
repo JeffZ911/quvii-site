@@ -186,7 +186,7 @@ The most effective way to stop flickering is to disable the camera's internal IR
 *   **If you are a Business:** Security is critical. **Fix:** Disable internal IR and install a high-powered external IR floodlight. This prevents the "blind spot" during switching and ensures 24/7 coverage.
 
 ### Total Cost of Ownership (3-Year Estimate)
-While the Wyze Cam v4 is an affordable entry point, maintaining a stable system involves more than the initial purchase.
+While the [Wyze Cam v4](https://quvii.com/blog/wyze-cam-v4-cloud-storage-subscription-changes-2026) is an affordable entry point, maintaining a stable system involves more than the initial purchase.
 *   **Hardware:** Around $35-$45 (Base unit).
 *   **Storage:** $15 (High-endurance 128GB MicroSD for high-bitrate flickering events).
 *   **Subscription:** $60 ($19.99/yr for 3 years of Cam Plus to manage "Motion Detected" storage).
@@ -208,7 +208,7 @@ While firmware doesn't "break" the glass, it can cause "accelerated wear." If a 
 A pink tint means the IR Cut Filter is stuck halfway. It is blocking some visible light but allowing IR light through, which the sensor interprets as pink/purple. This is often caused by the same logic loops that cause flickering, eventually leading to a mechanical jam.
 
 ## Sources
-- Wyze Cam v4 Official Specifications — [https://www.wyze.com/products/wyze-cam-v4](https://www.wyze.com/products/wyze-cam-v4)
+- Wyze [Cam v4](https://quvii.com/blog/wyze-cam-v4-cloud-storage-subscription-changes-2026) Official Specifications — [https://www.wyze.com/products/wyze-cam-v4](https://www.wyze.com/products/wyze-cam-v4)
 - Wyze Firmware Release Notes — [https://support.wyze.com/hc/en-us/articles/360024852172-Release-Notes-Firmware](https://support.wyze.com/hc/en-us/articles/360024852172-Release-Notes-Firmware)
 - RTINGS: Understanding Image Sensor Gain and Noise
 - FCC ID 2AUIU-WCV4 (Wyze Cam v4 Radio/Power Filings) — [https://apps.fcc.gov/oetcf/eas/reports/ViewExhibitReport.cfm?mode=Exhibits&RequestTimeout=500&calledFromFrame=N&application_id=f%2B8%2F%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B&fcc_id=2AUIU-WCV4](https://apps.fcc.gov/oetcf/eas/reports/ViewExhibitReport.cfm?mode=Exhibits&RequestTimeout=500&calledFromFrame=N&application_id=f%2B8%2F%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B&fcc_id=2AUIU-WCV4)
