@@ -27,7 +27,7 @@ inline_image_sections:
   - "Further reading"
 ---
 
-A flickering image at night can render a security camera useless, turning a clear 2.5K stream into a strobing mess of light and shadow. For Wyze Cam v4 owners, this issue often emerges immediately following a firmware update, where the camera’s logic for switching between color and infrared modes becomes unstable.
+A flickering image at night can render a security camera useless, turning a clear 2.5K stream into a strobing mess of light and shadow. For [Wyze Cam v4](https://quvii.com/blog/wyze-cam-v4-cloud-storage-subscription-changes-2026) owners, this issue often emerges immediately following a firmware update, where the camera’s logic for switching between color and infrared modes becomes unstable.
 
 # Wyze Cam v4 Night Vision Flickering After Update: Causes and Fixes
 
@@ -41,7 +41,7 @@ A flickering image at night can render a security camera useless, turning a clea
 *Related: [Fixing eufyCam S330 & HomeBase 3 Firmware Sync Errors](/learn/eufycam-s330-homebase-3-firmware-sync-error) · [Fixing Google Nest Cam Battery Drain After June 2026 Update](/learn/google-nest-cam-battery-drain-june-2026-update-20260614) · [Ring Doorbell Recording Neighbors? Understand Your Privacy Rights](/learn/ring-doorbell-recording-neighbors-privacy)*
 
 
-When a Wyze Cam v4 "flickers," users are generally describing one of two distinct technical failures: mechanical cycling or digital exposure hunting. Mechanical flickering is characterized by a physical "clicking" sound coming from the camera body, while digital flickering is a silent, rapid change in the brightness or color of the video feed.
+When a Wyze [Cam v4](https://quvii.com/blog/wyze-cam-v4-cloud-storage-subscription-changes-2026) "flickers," users are generally describing one of two distinct technical failures: mechanical cycling or digital exposure hunting. Mechanical flickering is characterized by a physical "clicking" sound coming from the camera body, while digital flickering is a silent, rapid change in the brightness or color of the video feed.
 
 The "twilight loop" is the most common manifestation. This occurs when the ambient light is exactly at the threshold where the camera's software thinks it should switch to Night Vision. As soon as the infrared (IR) LEDs turn on, the camera perceives the environment as "bright" again and switches back to color mode, creating an infinite loop of switching. This behavior has been increasingly reported following the 4.52.9.x firmware branches, which adjusted the sensitivity of the Starlight sensor.
 

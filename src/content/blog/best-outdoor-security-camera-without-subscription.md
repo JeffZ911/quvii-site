@@ -23,7 +23,7 @@ inline_image_sections:
   - "What to do now"
 ---
 
-The high cost of cloud storage has finally reached a breaking point for many homeowners, leading to a massive shift toward local-storage hardware that requires no monthly fees.
+The high cost of [cloud storage](https://quvii.com/blog/wyze-cam-v4-cloud-storage-subscription-changes-2026) has finally reached a breaking point for many homeowners, leading to a massive shift toward local-storage hardware that requires no monthly fees.
 
 # The Best Outdoor Security Cameras Without a Subscription in 2026
 

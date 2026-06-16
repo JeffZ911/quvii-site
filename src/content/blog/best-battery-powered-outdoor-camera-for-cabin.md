@@ -81,7 +81,7 @@ The "sticker price" of a camera is often a fraction of its lifetime cost. Arlo a
 
 **3-Year Total Cost of Ownership (TCO) Comparison:**
 *   **Reolink Altas PT Ultra:** ~$200 (Hardware) + $30 (High-endurance 256GB SD card) + $0 (Subscription) = **$230 Total.**
-*   **Arlo Pro 5S 2K:** ~$180 (Hardware) + $155/year (Arlo Secure Plus for 4K/2K Cloud) = **$645 Total.**
+*   **Arlo Pro 5S 2K:** ~$180 (Hardware) + $155/year ([Arlo Secure](https://quvii.com/blog/arlo-secure-app-6-26-0-firmware-issues) Plus for 4K/2K Cloud) = **$645 Total.**
 
 For a cabin owner, that $415 difference over three years could be better spent on a more robust solar array or additional hardware.
 
