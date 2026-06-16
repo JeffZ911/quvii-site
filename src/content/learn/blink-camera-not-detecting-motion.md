@@ -26,7 +26,7 @@ When a Blink camera fails to detect motion, the issue typically falls into one o
 A "False Negative" occurs when the camera is armed and the subject is clearly within the field of view, yet no alert is generated. This is distinct from a "Delayed Notification," where the camera records the event but the user doesn't receive the push alert for several minutes due to server latency or poor Wi-Fi signal.
 
 ### The Difference Between Detection and Recording
-Detection is a hardware-level event. On an Outdoor 4, the Passive Infrared (PIR) sensor must detect a heat signature change. Recording is a software and network event. If the PIR sensor triggers but the camera cannot hand off the data to the Sync Module 2 or the Blink Cloud, the event is lost. In the Blink app, you can often check the "Camera Usage" or "Event Log" to see if a motion event was "Ignored" due to Activity Zone settings—this confirms the sensor is working, but the software is filtering the result.
+Detection is a hardware-level event. On an [Outdoor 4](https://quvii.com/learn/blink-outdoor-4-battery-life-extreme-heat), the Passive Infrared (PIR) sensor must detect a heat signature change. Recording is a software and network event. If the PIR sensor triggers but the camera cannot hand off the data to the Sync Module 2 or the Blink Cloud, the event is lost. In the Blink app, you can often check the "Camera Usage" or "Event Log" to see if a motion event was "Ignored" due to Activity Zone settings—this confirms the sensor is working, but the software is filtering the result.
 
 ### Signs Your Blink Sensor is Failing
 Hardware degradation is rare but possible. If a camera that previously worked perfectly now ignores all movement regardless of settings, the PIR sensor may have physically failed. Signs include:
@@ -50,7 +50,7 @@ To save power, the main image sensor is off until the PIR sensor detects a heat 
 
 ### Physical Obstructions and PIR Limitations
 PIR sensors do not "see" motion; they detect changes in infrared radiation (heat). This leads to two major 2026 environmental challenges:
-1.  **The Glass Barrier:** PIR sensors cannot see through glass. If you place a Blink Outdoor 4 behind a window to monitor a driveway, it will never trigger. The glass blocks the infrared heat signatures the sensor needs.
+1.  **The Glass Barrier:** PIR sensors cannot see through glass. If you place a [Blink Outdoor 4](https://quvii.com/learn/blink-outdoor-4-battery-life-extreme-heat) behind a window to monitor a driveway, it will never trigger. The glass blocks the infrared heat signatures the sensor needs.
 2.  **Thermal Masking:** In 2026, as record-breaking heatwaves become more common, ambient temperatures often approach 98.6°F (37°C). When the outdoor temperature matches human body temperature, the PIR sensor struggles to distinguish a person from the background air, significantly reducing detection range.
 
 ### Retrigger Time Constraints
@@ -58,7 +58,7 @@ Blink implements a "Retrigger Time" (cool-down period) ranging from 10 to 60 sec
 
 ## How it works under the hood
 
-Understanding the difference between the **Blink Outdoor 4** and the **Blink Mini 2** is crucial, as they use entirely different detection technologies.
+Understanding the difference between the **[Blink Outdoor](https://quvii.com/learn/blink-outdoor-4-battery-life-extreme-heat) 4** and the **Blink Mini 2** is crucial, as they use entirely different detection technologies.
 
 ### PIR Sensor Physics: Why Side-to-Side is Best
 The Outdoor 4 uses a PIR sensor with a "honeycomb" Fresnel lens. This lens divides the world into several detection zones. Detection is most effective when a heat source moves *across* these zones (horizontally). When a person walks directly *toward* the camera, they stay within a single zone for a longer period, making it much harder for the sensor to detect a "change" in infrared energy.

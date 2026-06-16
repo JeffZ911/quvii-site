@@ -81,7 +81,7 @@ For small business owners, the stakes are higher. Operating a device that has be
 ### Total Cost of Ownership (TCO) & The "Feature Paywall"
 When considering a replacement for a recalled camera, buyers must look at the 3-year Total Cost of Ownership (TCO). A "cheap" replacement may end up costing more due to subscription fees.
 
-**3-Year Cost Comparison (Hardware + Minimum Required Cloud Storage):**
+**3-Year Cost Comparison (Hardware + Minimum Required [Cloud Storage](https://quvii.com/blog/wyze-cam-v4-cloud-storage-subscription-changes-2026)):**
 *   **Wyze (Cam Plus):** Hardware (around $80) + $36/year = **$188 total**
 *   **Ring (Protect Basic):** Hardware (around $100) + $50/year = **$250 total**
 *   **Reolink (Local Storage):** Hardware (around $160) + $0/year (SD Card) = **$160 total**

@@ -80,7 +80,7 @@ A "New in Box" Wyze Solar Cam Pan from 2025 is effectively a fire hazard waiting
 
 The Solar Cam Pan was marketed as an affordable, wire-free solution for those who didn't want to deal with monthly subscriptions or complex wiring. However, when evaluating the Total Cost of Ownership (TCO), the "Wyze Tax"—the time and effort spent managing recalls and security patches—must be factored in.
 
-When compared to competitors like Reolink or Eufy, Wyze typically offers a lower entry price but often locks essential features (like person detection or extended cloud storage) behind the Cam Plus subscription.
+When compared to competitors like Reolink or Eufy, Wyze typically offers a lower entry price but often locks essential features (like person detection or extended [cloud storage](https://quvii.com/blog/wyze-cam-v4-cloud-storage-subscription-changes-2026)) behind the Cam Plus subscription.
 
 **Total Cost of Ownership Comparison (3-Year Estimate)**
 

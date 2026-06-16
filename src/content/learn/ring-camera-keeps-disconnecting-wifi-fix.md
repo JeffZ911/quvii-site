@@ -72,7 +72,7 @@ For wired models like the Ring Video Doorbell Pro 2, disconnections are often po
 | :--- | :--- | :--- |
 | Video Doorbell Wired | 10-24 VAC | 10VA Minimum |
 | Video Doorbell Pro / Pro 2 | 16-24 VAC | 30VA (Recommended for stability) |
-| Video Doorbell Plus | 8-24 VAC | 10VA-20VA |
+| Video [Doorbell Plus](https://quvii.com/learn/ring-battery-doorbell-plus-motion-zone-issues) | 8-24 VAC | 10VA-20VA |
 | Battery Models (Hardwired) | 8-24 VAC | 10VA (Trickle charge only) |
 
 *Data synthesized from <a href="https://www.amazon.com/s?k=Ring%27s+hardware+compatibility+guides&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Ring's hardware compatibility guides</a>.*

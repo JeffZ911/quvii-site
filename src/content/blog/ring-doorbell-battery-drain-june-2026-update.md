@@ -27,7 +27,7 @@ For many homeowners, the primary appeal of a battery-powered [video doorbell](ht
 
 # Ring Doorbell Battery Drain: Why the June 2026 Update is Killing Your Charge
 
-**Quick Answer:** The June 2026 surge in battery drain reports is primarily linked to the widespread rollout of "Alexa+ Greetings" and "Video Descriptions" features within firmware version cam-1.29.11000. These AI-driven tools keep the camera’s processor active for significantly longer durations, reducing the battery life of the Ring Battery Doorbell Pro and Battery Doorbell Plus (2nd Gen) from several weeks to as little as 3–5 days.
+**Quick Answer:** The June 2026 surge in battery drain reports is primarily linked to the widespread rollout of "Alexa+ Greetings" and "Video Descriptions" features within firmware version cam-1.29.11000. These AI-driven tools keep the camera’s processor active for significantly longer durations, reducing the battery life of the Ring Battery Doorbell Pro and [Battery Doorbell Plus](https://quvii.com/learn/ring-battery-doorbell-plus-motion-zone-issues) (2nd Gen) from several weeks to as little as 3–5 days.
 
 The Ring ecosystem has long been the benchmark for consumer-grade video doorbells, balancing ease of use with a robust feature set. However, as Amazon-owned Ring pushes further into the realm of generative AI and advanced motion analysis, the hardware is facing a new challenge: the high energy cost of "smart" features. Since early June 2026, a growing number of users have reported that their flagship battery-powered units are requiring recharges twice a week, sparking a debate over the viability of high-end AI in wireless security devices.
 
@@ -58,7 +58,7 @@ With firmware cam-1.29.11000, the "wake time" per event has reportedly increased
 | Model | Pre-Update (Est. Days) | Post-Update (AI Enabled) | Post-Update (AI Disabled) |
 | :--- | :--- | :--- | :--- |
 | **Battery Doorbell Pro** | 30–45 days | 4–7 days | 25–35 days |
-| **Battery Doorbell Plus (2nd Gen)** | 25–40 days | 3–6 days | 20–30 days |
+| **Battery [Doorbell Plus](https://quvii.com/learn/ring-battery-doorbell-plus-motion-zone-issues) (2nd Gen)** | 25–40 days | 3–6 days | 20–30 days |
 | **Ring [Video Doorbell](https://quvii.com/learn/renter-friendly-wireless-video-doorbell-options-20260613) (2020 Release)** | 60+ days | [N/A - Feature Unsupported] | 50–60 days |
 
 *Note: Estimates based on average traffic of 20 events per day. Actual performance varies significantly based on Wi-Fi signal strength (RSSI) and temperature.*

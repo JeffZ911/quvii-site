@@ -83,7 +83,7 @@ In a 50-unit apartment building, the 2.4GHz spectrum is often unusable due to si
 ![Impact on existing owners](/img/how-to-install-doorbell-camera-apartment/inline-3.webp)
 
 
-If you already own a doorbell camera from 2023 or 2024, you may not need to buy new hardware to achieve a renter-friendly setup. Many 2026 no-drill mounts are backward compatible with older chassis designs. For example, a 3rd-party anti-theft mount for a Ring Battery Doorbell Plus will typically fit the 2026 "Pro" models due to standardized housing dimensions.
+If you already own a doorbell camera from 2023 or 2024, you may not need to buy new hardware to achieve a renter-friendly setup. Many 2026 no-drill mounts are backward compatible with older chassis designs. For example, a 3rd-party anti-theft mount for a Ring [Battery Doorbell Plus](https://quvii.com/learn/ring-battery-doorbell-plus-motion-zone-issues) will typically fit the 2026 "Pro" models due to standardized housing dimensions.
 
 However, legacy owners are facing a "feature gap." Older 2.4GHz-only models are increasingly struggling with the higher bitrates required for 4K streaming and AI-driven motion filtering. If your older camera frequently disconnects or fails to load live views, the issue is likely local Wi-Fi congestion rather than a hardware failure.
 

@@ -60,14 +60,14 @@ The audible click is the sound of the Solenoid-driven IR Cut Filter (ICR) physic
 | **Pink Tint** | Mechanical | Stuck IR Cut Filter | No |
 | **Static/Snow** | Digital | High Gain (ISO) noise | No |
 
-[Image Specification: A Wyze Cam v4 mounted on a white exterior wall at night, with its IR LEDs glowing faint red and a visible reflection on the nearby siding. Aspect Ratio: 16:9]
+[Image Specification: A [Wyze Cam v4](https://quvii.com/blog/wyze-cam-v4-cloud-storage-subscription-changes-2026) mounted on a white exterior wall at night, with its IR LEDs glowing faint red and a visible reflection on the nearby siding. Aspect Ratio: 16:9]
 
 ## Why it exists
 
 ![Why it exists](/img/wyze-cam-v4-night-vision-flickering-fix/inline-2.webp)
 
 
-The Wyze Cam v4 relies on a delicate balance between its Starlight sensor—which is designed to see color in extremely low light—and its traditional 850nm IR LEDs. Firmware updates often recalibrate the "lux thresholds," which are the specific light levels that trigger the transition between these modes.
+The Wyze [Cam v4](https://quvii.com/blog/wyze-cam-v4-cloud-storage-subscription-changes-2026) relies on a delicate balance between its Starlight sensor—which is designed to see color in extremely low light—and its traditional 850nm IR LEDs. Firmware updates often recalibrate the "lux thresholds," which are the specific light levels that trigger the transition between these modes.
 
 ### Firmware Threshold Shifts
 When Wyze releases a firmware update, such as those in the [4.52.9.x branch](https://support.wyze.com/hc/en-us/articles/360024852172-Release-Notes-Firmware), they often tweak the "Hysteresis" logic. Hysteresis is the programmed lag that prevents the camera from switching modes too quickly. If a firmware update narrows this gap, a small reflection or a passing car's headlights can trigger an immediate and repetitive mode switch.

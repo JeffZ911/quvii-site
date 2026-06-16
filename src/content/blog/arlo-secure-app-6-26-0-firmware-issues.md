@@ -27,7 +27,7 @@ When a security system "silently disarms" itself during a routine software updat
 
 # Arlo Secure App 6.26.0 Firmware Issues: What You Need to Know
 
-**Quick Answer:** The Arlo 6.26.0 update caused "Device Offline" errors and a "silent disarm" bug by renaming modes. To fix, manually select "Arm Away" on your dashboard and power cycle your SmartHub to restore connectivity and battery life.
+**Quick Answer:** The Arlo 6.26.0 update caused "Device Offline" errors and a "silent disarm" bug by renaming modes. To fix, manually select "Arm Away" on your dashboard and power cycle your SmartHub to restore connectivity and [battery life](https://quvii.com/learn/blink-outdoor-4-battery-life-extreme-heat).
 
 ## What happened
 
