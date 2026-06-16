@@ -164,7 +164,7 @@ When considering the Blink Outdoor 4 or any outdoor security camera in a hot cli
     *   **Consider:** Professional installation for discreet wiring if needed.
 
 *   **If you need continuous recording or advanced features (person detection, longer clips):**
-    *   **Prioritize:** A Blink Subscription Plan for cloud storage and enhanced features, combined with the Weather Resistant Power Adapter to ensure consistent power for higher usage.
+    *   **Prioritize:** A Blink Subscription Plan for [cloud storage](https://quvii.com/blog/wyze-cam-v4-cloud-storage-subscription-changes-2026) and enhanced features, combined with the Weather Resistant Power Adapter to ensure consistent power for higher usage.
     *   **Understand:** These features demand more power, making wired operation almost essential in hot conditions.
 
 *   **If budget is a primary concern but you live in a very hot climate:**

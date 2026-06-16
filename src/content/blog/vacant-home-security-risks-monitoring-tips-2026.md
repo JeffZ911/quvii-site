@@ -116,7 +116,7 @@ Considering the 3-year real cost of a security camera system for a vacant home g
 **Scenario 2: Subscription-Based System (e.g., Arlo Essential Spotlight Camera)**
 *   **Hardware Cost:** Around $100-150 per camera (plus potential hub cost, depending on model)
 *   **Subscription Fees:** [Arlo Secure](https://quvii.com/blog/arlo-secure-app-6-26-0-firmware-issues) plans typically range from around $5-15 per month per camera or for multiple cameras for basic features, or around $10-20 per month for unlimited cameras and advanced features. Let's estimate an average of $10/month for one camera, or $100-120/year.
-*   **Cloud Storage Fees:** Included in the subscription, but often limited to a certain number of days or resolution unless on a higher tier.
+*   **[Cloud Storage](https://quvii.com/blog/wyze-cam-v4-cloud-storage-subscription-changes-2026) Fees:** Included in the subscription, but often limited to a certain number of days or resolution unless on a higher tier.
 *   **Feature Paywall:** Advanced AI detection, rich notifications, and extended video history are often locked behind the subscription plan. Without it, functionality can be severely limited.
 *   **3-Year TCO Estimate:** $100-$150 (hardware) + $300-$360 (3 years of subscription) = Around $400-510 (for a single camera over three years). For a multi-camera setup, this cost escalates quickly.
 
@@ -257,7 +257,7 @@ Legally, you can typically place cameras to monitor your own property, especiall
 *   Wyze.com — Cam Plus Subscription
 *   CNET — Wyze [Cam v4](https://quvii.com/learn/wyze-cam-v4-night-vision-flickering-fix) Review
 *   Wyze.com — Cam Plus Features [https://support.wyze.com/hc/en-us/articles/360037597112-What-is-Cam-Plus](https://support.wyze.com/hc/en-us/articles/360037597112-What-is-Cam-Plus)
-*   Arlo.com — Arlo Secure Plans [https://www.arlo.com/en-us/accessories/service-plans](https://www.arlo.com/en-us/accessories/service-plans)
+*   Arlo.com — [Arlo Secure](https://quvii.com/blog/arlo-secure-app-6-26-0-firmware-issues) Plans [https://www.arlo.com/en-us/accessories/service-plans](https://www.arlo.com/en-us/accessories/service-plans)
 *   CCTV Camera World — Importance of Firmware Updates
 *   Site Armor Solutions — Why Upgrade Your Security Camera System
 *   Moen.com — Flo Smart Water Monitor and Shutoff https://www.moen.com/flo

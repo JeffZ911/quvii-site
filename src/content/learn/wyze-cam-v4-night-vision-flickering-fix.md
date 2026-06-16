@@ -138,7 +138,7 @@ Flickering creates "visual noise." Because video compression (H.264/H.265) works
 ![Common misconceptions](/img/wyze-cam-v4-night-vision-flickering-fix/inline-5.webp)
 
 
-When troubleshooting the Wyze Cam v4, many users head down the wrong path based on common myths about how these cameras operate.
+When troubleshooting the [Wyze Cam v4](https://quvii.com/blog/wyze-cam-v4-cloud-storage-subscription-changes-2026), many users head down the wrong path based on common myths about how these cameras operate.
 
 **Misconception: "The camera is broken and needs a replacement."**
 *   **Reality:** While hardware failures happen, 90% of flickering issues on the v4 are software-logic conflicts. If the camera works fine during the day, the hardware (sensor and lens) is functional. The issue is the *decision-making* software.
@@ -162,7 +162,7 @@ When troubleshooting the Wyze Cam v4, many users head down the wrong path based 
 ![Further reading](/img/wyze-cam-v4-night-vision-flickering-fix/inline-6.webp)
 
 
-If the basic "Auto" toggle doesn't solve your issue, you may need to take more advanced steps to stabilize your Wyze Cam v4.
+If the basic "Auto" toggle doesn't solve your issue, you may need to take more advanced steps to stabilize your Wyze [Cam v4](https://quvii.com/blog/wyze-cam-v4-cloud-storage-subscription-changes-2026).
 
 ### Manual Firmware Rollback Guide
 If a specific update broke your night vision, you can revert to a previous version. Unlike other brands, Wyze allows manual flashing via the MicroSD card.

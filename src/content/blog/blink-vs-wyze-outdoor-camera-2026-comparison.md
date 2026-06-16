@@ -52,7 +52,7 @@ Wyze, meanwhile, broke the 4K barrier for budget cameras with the **Wyze [Cam Pa
 | :--- | :--- | :--- |
 | **Max Resolution** | 2K (2560 x 1440) | 2.5K (2560 x 1440) |
 | **Power Source** | 2 AA Lithium (Non-rechargeable) | Removable Rechargeable Pack |
-| **Battery Life** | Up to 2 Years | 4–6 Months |
+| **[Battery Life](https://quvii.com/learn/blink-outdoor-4-battery-life-extreme-heat)** | Up to 2 Years | 4–6 Months |
 | **Local Storage** | MicroSD (via Sync Module XR) | MicroSD (On-camera) |
 | **[Night Vision](https://quvii.com/learn/wyze-cam-v4-night-vision-flickering-fix)** | IR (B&W) + Color (with light) | Starlight Color Night Vision |
 | **Field of View** | 135° Diagonal | 116° Diagonal |
@@ -125,7 +125,7 @@ Wyze is the best choice for **active monitoring**. If you want to see who is at 
 
 - Blink Support — [Sync Module XR FAQ](https://support.blinkforhome.com/en_US/sync-module-xr-support/sync-module-xr-faq)
 - Wyze Support — [Cam Plus Annual Price Update 2026](https://support.wyze.com/hc/en-us/articles/23321528624155-Important-Cam-Plus-Annual-Price-Update)
-- Tech Guide — <a href="https://www.amazon.com/s?k=Blink+Outdoor+2K%2B+Release+Specs&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Blink Outdoor 2K+ Release Specs</a>
+- Tech Guide — <a href="https://www.amazon.com/s?k=Blink+Outdoor+2K%2B+Release+Specs&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">[Blink Outdoor](https://quvii.com/learn/blink-outdoor-4-battery-life-extreme-heat) 2K+ Release Specs</a>
 - Business Wire — <a href="https://www.amazon.com/s?k=Wyze+Launches+First+4K+Camera+%28Pan+v4%29&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Wyze Launches First 4K Camera (Pan v4)</a>
 - ZDNET — <a href="https://www.amazon.com/s?k=Blink+Subscription+Price+Increase+Details&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Blink Subscription Price Increase Details</a>
 - PCWorld — <a href="https://www.amazon.com/s?k=Blink+Sync+Module+XR+Review&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Blink Sync Module XR Review</a>

@@ -190,7 +190,7 @@ Several misconceptions often arise when discussing Wi-Fi versus PoE doorbell cam
 
 ### Outdoor Cameras Are Not Immune to Weather
 
-**Misconception 4: Outdoor cameras are immune to weather.** Even cameras with high IP ratings (Ingress Protection ratings, indicating resistance to dust and water) have operating temperature limits. While they are designed to withstand exposure to elements, prolonged exposure to extreme heat, direct sunlight, or severe cold can impact their performance and longevity. Manufacturers provide these temperature ranges for a reason, and exceeding them consistently can lead to issues not covered by warranties. Protecting outdoor cameras from direct sun exposure with an overhang or shade can significantly extend their lifespan and ensure more stable operation.
+**Misconception 4: Outdoor cameras are immune to weather.** Even cameras with high IP ratings (Ingress Protection ratings, indicating resistance to dust and water) have operating temperature limits. While they are designed to withstand exposure to elements, prolonged exposure to [extreme heat](https://quvii.com/learn/blink-outdoor-4-battery-life-extreme-heat), direct sunlight, or severe cold can impact their performance and longevity. Manufacturers provide these temperature ranges for a reason, and exceeding them consistently can lead to issues not covered by warranties. Protecting outdoor cameras from direct sun exposure with an overhang or shade can significantly extend their lifespan and ensure more stable operation.
 
 ## Further reading
 

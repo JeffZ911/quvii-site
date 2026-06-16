@@ -61,7 +61,7 @@ Blink implements a "Retrigger Time" (cool-down period) ranging from 10 to 60 sec
 Understanding the difference between the **[Blink Outdoor](https://quvii.com/learn/blink-outdoor-4-battery-life-extreme-heat) 4** and the **Blink Mini 2** is crucial, as they use entirely different detection technologies.
 
 ### PIR Sensor Physics: Why Side-to-Side is Best
-The Outdoor 4 uses a PIR sensor with a "honeycomb" Fresnel lens. This lens divides the world into several detection zones. Detection is most effective when a heat source moves *across* these zones (horizontally). When a person walks directly *toward* the camera, they stay within a single zone for a longer period, making it much harder for the sensor to detect a "change" in infrared energy.
+The [Outdoor 4](https://quvii.com/learn/blink-outdoor-4-battery-life-extreme-heat) uses a PIR sensor with a "honeycomb" Fresnel lens. This lens divides the world into several detection zones. Detection is most effective when a heat source moves *across* these zones (horizontally). When a person walks directly *toward* the camera, they stay within a single zone for a longer period, making it much harder for the sensor to detect a "change" in infrared energy.
 
 ### The Role of the Sync Module 2 in Motion Processing
 While the camera handles the initial detection, the Sync Module 2 acts as the traffic controller. For systems using local storage, the camera must wake up, detect motion, and then establish a proprietary LFR (Low Frequency Radio) handshake with the Sync Module to begin writing to the USB drive. Any interference on the 2.4GHz band can interrupt this handshake, resulting in a "Motion Detected" notification but no actual video clip.

@@ -150,7 +150,7 @@ Even the best 2026 solar cameras fail if the panel is poorly positioned.
 | :--- | :--- | :--- | :--- |
 | **Reolink Go PT Ultra** | ~$230 | ~$180 (Prepaid SIM) | **~$410** |
 | **Eufy S330** | ~$250 | ~$180 (Prepaid SIM) | **~$430** |
-| **Arlo Go 2** | ~$200 | ~$540 (Data + Arlo Secure) | **~$740** |
+| **Arlo Go 2** | ~$200 | ~$540 (Data + [Arlo Secure](https://quvii.com/blog/arlo-secure-app-6-26-0-firmware-issues)) | **~$740** |
 | **Vosker V300 Ult.** | ~$450 | ~$360 (Vosker Plan) | **~$810** |
 
 While the Arlo Go 2 appears cheaper upfront, the "feature paywall" and mandatory subscription for 4K/AI features make it nearly double the cost of the Reolink or Eufy over a three-year period. For most users in 2026, the Reolink Go PT Ultra provides the best balance of high-end 4K performance and long-term fiscal sanity.
