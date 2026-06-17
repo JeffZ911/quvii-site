@@ -60,7 +60,7 @@ To understand where the E40 fits in the 2026 market, it is helpful to compare it
 
 | Feature | FamiLock E40 (Flagship) | FamiLock E35 | FamiLock E32 |
 | :--- | :--- | :--- | :--- |
-| **Primary Access** | Facial Recognition | Palm Vein Recognition | Fingerprint / Keypad |
+| **Primary Access** | [Facial Recognition](https://quvii.com/blog/ring-facial-recognition-lawsuit-impact-2026) | Palm Vein Recognition | Fingerprint / Keypad |
 | **Camera Res.** | 2K (2048 x 1080) | [Information Unavailable] | No Camera |
 | **Field of View** | 135° (Head-to-Toe) | — | — |
 | **Motion Sensor** | 60GHz Radar | PIR Sensor | — |
@@ -70,7 +70,7 @@ To understand where the E40 fits in the 2026 market, it is helpful to compare it
 | **Weather Rating** | IP65 | IP65 | IP65 |
 
 ### Total Cost of Ownership (TCO) Analysis
-When evaluating the E40, buyers should look beyond the initial "around $300" sticker price. In the smart lock and camera category, the 3-year TCO is the most accurate metric for value.
+When evaluating the E40, buyers should look beyond the initial "around $300" sticker price. In the [smart lock](https://quvii.com/learn/best-smart-locks-summer-rental-properties) and camera category, the 3-year TCO is the most accurate metric for value.
 
 *   **Eufy FamiLock E40**: Hardware (approx. $300) + $0 Subscription = **$300 total over 3 years.**
 *   **Major Brand Competitor (Lock + Doorbell)**: Hardware (approx. $250) + $10/month subscription for 36 months ($360) = **$610 total over 3 years.**

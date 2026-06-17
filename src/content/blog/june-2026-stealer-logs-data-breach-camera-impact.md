@@ -163,7 +163,7 @@ The June 2026 stealer logs data breach is a serious event, but proactive steps c
 1.  **Monitor Activity Logs:** Many security camera apps provide activity logs showing when the camera was accessed or when settings were changed. Regularly review these logs for any suspicious or unauthorized activity.
 2.  **Be Vigilant Against Phishing:** Stolen credentials and personal data can be used to craft highly convincing phishing attempts. Be extremely cautious of emails, text messages, or calls that appear to be from your camera manufacturer or other services, especially if they ask for login details or personal information. Always verify the sender and, if in doubt, navigate directly to the official website rather than clicking links.
 3.  **Re-evaluate Camera Placement:** Periodically review the physical placement of your cameras. Ensure they do not capture areas with a high expectation of privacy, such as bedrooms or bathrooms, which could further compromise your privacy if unauthorized access occurs.
-4.  **Consider Local Storage:** If your camera supports it, utilizing local storage (e.g., an SD card or Network Video Recorder) in conjunction with or instead of cloud storage can provide an additional layer of control over your footage, reducing reliance on external servers.
+4.  **Consider Local Storage:** If your camera supports it, utilizing local storage (e.g., an SD card or Network Video Recorder) in conjunction with or instead of [cloud storage](https://quvii.com/blog/wyze-cam-v4-cloud-storage-subscription-changes-2026) can provide an additional layer of control over your footage, reducing reliance on external servers.
 
 ### Frequently Asked Questions
 

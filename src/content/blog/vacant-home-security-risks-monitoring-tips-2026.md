@@ -90,7 +90,7 @@ It is crucial for buyers to review the privacy policies of camera brands before 
 | **Local Storage**       | HomeBase 3 (16GB eMMC, expandable to 16TB) | Up to 128GB microSD card | Up to 256GB microSD card |
 | **Subscription Cost/yr**| None (for local storage)               | None (for local storage)              | Optional Cam Plus (~$20-60/yr) |
 | **Power Type**          | Battery (13,400 mAh) + Solar Panel | Battery (5200mAh) + Optional Solar Panel | Wired (USB-C)            |
-| **AI Detection**        | Person, Vehicle, Pet, Facial Recognition | Person, Vehicle, Pet       | Person, Package (with Cam Plus) |
+| **AI Detection**        | Person, Vehicle, Pet, [Facial Recognition](https://quvii.com/blog/ring-facial-recognition-lawsuit-impact-2026) | Person, Vehicle, Pet       | Person, Package (with Cam Plus) |
 | **Field of View**       | 135°                                   | 180° (Dual-Lens)           | 115°                     |
 | **Two-Way Audio**       | Yes                                    | Yes                                   | Yes                                 |
 | **Cellular Option**     | No                                     | No (Reolink Go series offers cellular) | No                                  |
@@ -141,7 +141,7 @@ Existing owners of security camera systems for vacant homes face a different set
 Existing owners should assess their current camera systems for vulnerabilities, especially regarding local storage, AI detection capabilities, and battery performance. Questions to consider include:
 *   Does my system offer reliable local storage, or am I entirely reliant on cloud services?
 *   How old is my camera system, and does it have modern AI capabilities like person, vehicle, or pet detection?
-*   What is the real-world battery life of my wireless cameras, and is solar charging an option?
+*   What is the real-world battery life of my wireless cameras, and is [solar charging](https://quvii.com/learn/eufycam-s3-pro-solar-charging-efficiency-tips) an option?
 *   When was the last time I updated my camera's firmware?
 *   Am I aware of my camera brand's current privacy policy, especially regarding data sharing?
 
@@ -242,7 +242,7 @@ Legally, you can typically place cameras to monitor your own property, especiall
 *   ADT — How Smart Security Helps Deter Crime
 *   PCMag — The Best Home Security Cameras That Don't Require a Subscription
 *   SmartEye CCTV — Local Storage vs. [Cloud Storage](https://quvii.com/blog/wyze-cam-v4-cloud-storage-subscription-changes-2026)
-*   Modem Guides — Cloud Storage vs. Local Storage for Security Cameras
+*   Modem Guides — [Cloud Storage](https://quvii.com/blog/wyze-cam-v4-cloud-storage-subscription-changes-2026) vs. Local Storage for Security Cameras
 *   eufy.com — eufyCam 3 (S330)
 *   Reolink.com — [Reolink Argus](https://quvii.com/blog/reolink-argus-4-pro-firmware-update-issues) Series [https://reolink.com/product/argus-3-pro/](https://reolink.com/product/argus-3-pro/) (Used for general Reolink local storage, specific [Argus 4](https://quvii.com/blog/reolink-argus-4-pro-firmware-update-issues) Pro info might be on a newer page or review)
 *   Security.org — Best AI Security Cameras

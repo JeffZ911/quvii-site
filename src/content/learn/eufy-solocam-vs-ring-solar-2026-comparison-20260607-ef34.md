@@ -80,7 +80,7 @@ The second driver for this category is the "Subscription Rebellion." As cloud st
     *   Hardware: Around $200
     *   Subscription (60 months): $0
     *   **Total: Around $200**
-*   **Ring Spotlight Cam Pro Solar:**
+*   **Ring Spotlight Cam [Pro Solar](https://quvii.com/learn/eufycam-s3-pro-solar-charging-efficiency-tips):**
     *   Hardware: Around $230
     *   Subscription (60 months @ $4.99/mo): Around $300
     *   **Total: Around $530**
