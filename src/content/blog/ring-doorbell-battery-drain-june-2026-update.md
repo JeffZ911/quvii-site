@@ -53,7 +53,7 @@ Community reports on platforms like <a href="https://www.amazon.com/s?k=r%2FRing
 
 With firmware cam-1.29.11000, the "wake time" per event has reportedly increased by 40–60%. This is due to the additional metadata generation required for the new AI features. For a home with 20–30 motion events per day, this extra processing time compounds rapidly, leading to the severe depletion noted by users.
 
-**Table 1: Estimated Battery Life (Standard Settings vs. AI-Enabled)**
+**Table 1: Estimated [Battery Life](https://quvii.com/learn/blink-outdoor-4-battery-life-extreme-heat) (Standard Settings vs. AI-Enabled)**
 
 | Model | Pre-Update (Est. Days) | Post-Update (AI Enabled) | Post-Update (AI Disabled) |
 | :--- | :--- | :--- | :--- |

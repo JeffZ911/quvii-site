@@ -180,7 +180,7 @@ When purchasing a new security camera, prioritize models offering mandatory two-
 Yes, even with a strong password, a security camera account can be compromised if the password itself was exposed in a data breach (like stealer logs) or if there are unpatched vulnerabilities in the camera's firmware. This is why enabling two-factor authentication (2FA) is crucial, as it adds a second layer of defense, making unauthorized access significantly more difficult even if a password is stolen.
 
 ### Is local storage inherently more secure than cloud storage for security cameras?
-Local storage, such as an SD card or NVR, can offer greater control over your footage and reduce reliance on a manufacturer's cloud security. However, it's not foolproof; physical theft of the camera or storage device, or vulnerabilities in local network access, can still expose footage. Cloud storage, when implemented with strong encryption and 2FA, offers convenience and off-site backup, but relies on the provider's security practices. Many users find a hybrid approach, combining local and encrypted cloud storage, offers the best balance.
+Local storage, such as an SD card or NVR, can offer greater control over your footage and reduce reliance on a manufacturer's cloud security. However, it's not foolproof; physical theft of the camera or storage device, or vulnerabilities in local network access, can still expose footage. [Cloud storage](https://quvii.com/blog/wyze-cam-v4-cloud-storage-subscription-changes-2026), when implemented with strong encryption and 2FA, offers convenience and off-site backup, but relies on the provider's security practices. Many users find a hybrid approach, combining local and encrypted cloud storage, offers the best balance.
 
 ## Sources
 

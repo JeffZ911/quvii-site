@@ -38,7 +38,7 @@ The stability of the Wyze ecosystem took a significant hit in late May 2026, pri
 
 ### The May 2026 Update (v3.14) Breakdown
 
-On May 27, 2026, Wyze released App v3.14.0.807 for Android and v3.14.0.56 for iOS. This update was intended to integrate the new "Cam Unlimited Pro" features, including advanced AI-driven facial recognition and vehicle telemetry. However, the integration of these heavy background processes led to memory leaks on devices with less than 4GB of RAM. According to <a href="https://www.amazon.com/s?k=Wyze+Release+Notes&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Wyze Release Notes</a>, this version also introduced a new UI layer for the [Wyze Cam v4](https://quvii.com/blog/cpsc-recall-wyze-cam-v4-power-adapter-status) that conflicts with legacy GPU drivers on older smartphones.
+On May 27, 2026, Wyze released App v3.14.0.807 for Android and v3.14.0.56 for iOS. This update was intended to integrate the new "Cam Unlimited Pro" features, including advanced AI-driven [facial recognition](https://quvii.com/blog/ring-facial-recognition-lawsuit-impact-2026) and vehicle telemetry. However, the integration of these heavy background processes led to memory leaks on devices with less than 4GB of RAM. According to <a href="https://www.amazon.com/s?k=Wyze+Release+Notes&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Wyze Release Notes</a>, this version also introduced a new UI layer for the [Wyze Cam v4](https://quvii.com/blog/cpsc-recall-wyze-cam-v4-power-adapter-status) that conflicts with legacy GPU drivers on older smartphones.
 
 ### The 64-Bit Requirement: Why Older Tablets are Failing
 

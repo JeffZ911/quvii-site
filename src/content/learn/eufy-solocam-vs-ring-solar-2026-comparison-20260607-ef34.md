@@ -164,7 +164,7 @@ Quvii tracks these trade-offs across the category to ensure your security invest
 
 ## Sources
 - eufy SoloCam S340 Product Page — https://www.eufy.com/products/t81701w1
-- Ring Spotlight Cam Pro Solar Specifications — https://ring.com/products/spotlight-cam-pro-solar
+- Ring Spotlight Cam [Pro Solar](https://quvii.com/learn/eufycam-s3-pro-solar-charging-efficiency-tips) Specifications — https://ring.com/products/spotlight-cam-pro-solar
 - Ring Law Enforcement Guidelines
 - eufy Privacy Policy — https://www.eufy.com/privacy-policy
 - RTINGS: Best Outdoor Security Cameras 2024/2025

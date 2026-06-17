@@ -121,7 +121,7 @@ While 5GHz and 6GHz bands offer incredible speeds, they have shorter range and s
 Furthermore, ensure your network is using [WPA3 encryption](https://en.wikipedia.org/wiki/Wi-Fi_Protected_Access). WPA3 provides much stronger protection against "brute-force" attacks, which is critical for devices that are physically accessible on the outside of your home.
 
 ### Securing your local storage
-To avoid monthly subscription fees, many users opt for local storage. Ensure you use a High-Endurance microSD card (rated U3 or V30). Standard SD cards are not designed for the constant "overwrite" cycles of security footage and will likely fail within a year. If your camera supports it, look for Target Wake Time (TWT) settings in your router; enabling this can improve the battery life of Wi-Fi 6 cameras by up to 30% by reducing unnecessary radio check-ins.
+To avoid monthly subscription fees, many users opt for local storage. Ensure you use a High-Endurance microSD card (rated U3 or V30). Standard SD cards are not designed for the constant "overwrite" cycles of security footage and will likely fail within a year. If your camera supports it, look for Target Wake Time (TWT) settings in your router; enabling this can improve the [battery life](https://quvii.com/learn/blink-outdoor-4-battery-life-extreme-heat) of Wi-Fi 6 cameras by up to 30% by reducing unnecessary radio check-ins.
 
 ## Verifying it works
 
