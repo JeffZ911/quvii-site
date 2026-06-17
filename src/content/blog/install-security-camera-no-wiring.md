@@ -45,7 +45,7 @@ Setting up a wire-free security system in 2026 requires a shift in focus from "w
 
 ### Battery Life vs. Resolution Comparison
 
-| Camera Model | Resolution | Claimed Battery Life | Power Source |
+| Camera Model | Resolution | Claimed [Battery Life](https://quvii.com/learn/blink-outdoor-4-battery-life-extreme-heat) | Power Source |
 | :--- | :--- | :--- | :--- |
 | **EufyCam S340** | [3K (Dual Lens)](https://www.eufy.com/products/t81701w1) | [Solar-Integrated (Infinite)](https://www.eufy.com/products/t81701w1) | Solar / USB-C |
 | **Arlo Pro 5S 2K** | [2K HDR](https://www.arlo.com/en-us/cameras/pro/arlo-pro-5.html) | [Up to 8 Months](https://www.arlo.com/en-us/cameras/pro/arlo-pro-5.html) | Rechargeable Battery |

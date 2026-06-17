@@ -48,7 +48,7 @@ Ring’s modular system, seen in the <a href="https://www.amazon.com/s?k=Ring+Sp
 ### Defining the 2026 Flagship Models
 To compare these fairly, we look at the current top-tier solar offerings from both brands.
 
-| Feature | eufy SoloCam S340 | Ring Spotlight Cam Pro Solar |
+| Feature | eufy SoloCam S340 | Ring Spotlight Cam [Pro Solar](https://quvii.com/learn/eufycam-s3-pro-solar-charging-efficiency-tips) |
 | :--- | :--- | :--- |
 | **Resolution** | 3K (2880 x 1620) Dual-Lens | 1080p HDR |
 | **Field of View** | 360° Pan/Tilt (135° Vertical) | 140° Horizontal / 80° Vertical |

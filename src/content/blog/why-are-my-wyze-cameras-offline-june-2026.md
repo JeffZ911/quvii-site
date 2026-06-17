@@ -135,7 +135,7 @@ To prevent a total loss of footage during the next AWS outage, we recommend the 
 
 When comparing the "cheap" Wyze option to more expensive competitors, the 3-year TCO is the most accurate metric.
 
-*   **Wyze Cam v4:**
+*   **[Wyze Cam v4](https://quvii.com/blog/wyze-cam-v4-cloud-storage-subscription-changes-2026):**
     *   Hardware: ~$35
     *   Cam Plus Subscription ($3/mo): $108
     *   High-End 128GB SD Card: ~$20
@@ -167,5 +167,5 @@ The Wyze app v3.15.0 requires a 64-bit processor and a minimum of Android 10 or 
 - Wyze Official Support: 2026 Firmware & App Release Notes — [https://support.wyze.com/hc/en-us/articles/2026-update-notes](https://support.wyze.com/hc/en-us/articles/2026-update-notes)
 - AWS Health Dashboard: June 16 Service Disruption Summary — <a href="https://www.amazon.com/s?k=https%3A%2F%2Fhealth.aws.amazon.com%2Fhealth%2Fstatus&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">https://health.aws.amazon.com/health/status</a>
 - CPSC Recall Notice: Wyze Solar Cam Pan (WYZESCPWH) — https://www.cpsc.gov/recalls/2026/wyze-solar-cam-pan-recall
-- RTINGS: Wyze Cam v4 vs. The Competition (2026 Update)
+- RTINGS: Wyze [Cam v4](https://quvii.com/blog/wyze-cam-v4-cloud-storage-subscription-changes-2026) vs. The Competition (2026 Update)
 - Wyze Privacy Policy: VerifiedView Encryption Standards

@@ -98,7 +98,7 @@ It is crucial for buyers to review the privacy policies of camera brands before 
 ### **Decision Framework: Choosing the Right Camera for Your Vacant Home**
 
 *   **If you're a renter with limited modification options:** Prioritize wireless, battery-powered cameras with local storage (microSD) that are easy to install and remove. Look for models with strong Wi-Fi connectivity if available, or consider cellular cameras if Wi-Fi is not permitted or reliable.
-*   **If you're a homeowner with reliable Wi-Fi:** Focus on systems with a central hub offering expandable local storage (e.g., eufy HomeBase) and AI-powered cameras with solar charging for minimal maintenance. High-resolution cameras with wide fields of view are beneficial.
+*   **If you're a homeowner with reliable Wi-Fi:** Focus on systems with a central hub offering expandable local storage (e.g., eufy HomeBase) and AI-powered cameras with [solar charging](https://quvii.com/learn/eufycam-s3-pro-solar-charging-efficiency-tips) for minimal maintenance. High-resolution cameras with wide fields of view are beneficial.
 *   **If you're a homeowner without reliable Wi-Fi or have a remote property:** Cellular-enabled cameras (e.g., Reolink Go series) are essential. Factor in the ongoing data plan cost. Ensure the camera has robust battery life, ideally with solar panel compatibility.
 *   **If you're a budget-conscious buyer prioritizing privacy:** Seek out cameras with built-in microSD card slots and strong encryption. Be wary of systems that heavily rely on cloud services, as these often come with hidden subscription costs for full functionality.
 
@@ -241,7 +241,7 @@ Legally, you can typically place cameras to monitor your own property, especiall
 *   Coram AI — AI for Security Cameras
 *   ADT — How Smart Security Helps Deter Crime
 *   PCMag — The Best Home Security Cameras That Don't Require a Subscription
-*   SmartEye CCTV — Local Storage vs. Cloud Storage
+*   SmartEye CCTV — Local Storage vs. [Cloud Storage](https://quvii.com/blog/wyze-cam-v4-cloud-storage-subscription-changes-2026)
 *   Modem Guides — Cloud Storage vs. Local Storage for Security Cameras
 *   eufy.com — eufyCam 3 (S330)
 *   Reolink.com — [Reolink Argus](https://quvii.com/blog/reolink-argus-4-pro-firmware-update-issues) Series [https://reolink.com/product/argus-3-pro/](https://reolink.com/product/argus-3-pro/) (Used for general Reolink local storage, specific [Argus 4](https://quvii.com/blog/reolink-argus-4-pro-firmware-update-issues) Pro info might be on a newer page or review)

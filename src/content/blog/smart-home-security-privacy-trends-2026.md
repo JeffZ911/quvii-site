@@ -102,7 +102,7 @@ There is a growing "Legacy Hardware Gap." Cameras manufactured between 2020 and 
 Most major brands have transitioned to mandatory Two-Factor Authentication (2FA) and End-to-End Encryption (E2EE) as the default setting. In many cases, manufacturers are pushing firmware updates that require a full device reset to activate these hardened security protocols. If you haven't updated your camera's firmware in the last six months, you may find your remote access restricted until you comply with these new NIST-aligned security standards.
 
 ### Upgrading Your Local Storage
-As cameras move toward 4K and even 8K resolutions to improve facial recognition accuracy, the demands on local storage have surged. Owners are moving away from generic "Class 10" SD cards toward high-end cards with V30 or V60 ratings. These cards are designed for the high-bitrate, constant writing cycles required by modern local-first cameras. 
+As cameras move toward 4K and even 8K resolutions to improve [facial recognition](https://quvii.com/blog/ring-facial-recognition-lawsuit-impact-2026) accuracy, the demands on local storage have surged. Owners are moving away from generic "Class 10" SD cards toward high-end cards with V30 or V60 ratings. These cards are designed for the high-bitrate, constant writing cycles required by modern local-first cameras. 
 
 **Matter 1.4 Compatibility Checklist:**
 *   **Does the camera have a Thread radio?** (Required for low-power battery cameras).
