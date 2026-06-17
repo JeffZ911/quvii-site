@@ -27,7 +27,7 @@ Eufy has expanded its [smart lock](https://quvii.com/learn/best-smart-locks-summ
 
 # Eufy FamiLock E40: Facial Recognition Smart Lock with Built-in 2K Camera Launches
 
-The Eufy FamiLock E40 is a newly launched smart lock that integrates facial recognition, a 2K [video doorbell](https://quvii.com/learn/renter-friendly-wireless-video-doorbell-options-20260613), and a security camera into a single device, offering multiple unlocking methods, local data storage, and Matter compatibility without mandatory monthly subscriptions.
+The Eufy FamiLock E40 is a newly launched [smart lock](https://quvii.com/learn/best-smart-locks-summer-rental-properties) that integrates [facial recognition](https://quvii.com/blog/ring-facial-recognition-lawsuit-impact-2026), a 2K [video doorbell](https://quvii.com/learn/renter-friendly-wireless-video-doorbell-options-20260613), and a security camera into a single device, offering multiple unlocking methods, local data storage, and Matter compatibility without mandatory monthly subscriptions.
 
 ## What happened
 

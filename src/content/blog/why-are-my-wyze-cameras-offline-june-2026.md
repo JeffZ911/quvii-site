@@ -118,7 +118,7 @@ If you own the **Wyze Solar Cam Pan (Model WYZESCPWH)**, you should stop using i
 
 ### Future-Proofing Your Setup with Local Storage
 To prevent a total loss of footage during the next AWS outage, we recommend the following "Local-First" strategy:
-*   **Install High-End MicroSD Cards:** The Wyze Cam v4 supports up to 256GB cards. Ensure you use "High Endurance" cards (Class 10, U3, V30) designed for continuous video writing.
+*   **Install High-End MicroSD Cards:** The [Wyze Cam v4](https://quvii.com/blog/wyze-cam-v4-cloud-storage-subscription-changes-2026) supports up to 256GB cards. Ensure you use "High Endurance" cards (Class 10, U3, V30) designed for continuous video writing.
 *   **Enable 'Record to MicroSD':** In the camera settings, ensure "Continuous Recording" is toggled on. This ensures the camera keeps recording to the card even if the cloud connection is severed.
 *   **Consider an NVR:** For critical areas, consider a system that supports ONVIF or RTSP protocols, allowing you to record to a local Network Video Recorder (NVR) that doesn't require an internet connection to function.
 
@@ -129,7 +129,7 @@ To prevent a total loss of footage during the next AWS outage, we recommend the 
 | **Are a Renter on a Budget** | **Stay with Wyze.** The $35-40 entry price is unbeatable, and the June outage is a rare (though frustrating) event. Just ensure your phone is modern enough to run the latest app. |
 | **Need 100% Reliability** | **Switch to a Local NVR.** Look at brands like Reolink or Lorex. These systems record to a hard drive in your home and will work even if the internet is completely cut. |
 | **Want "Smart" without the Cloud** | **Switch to Eufy or Apple HomeKit.** These platforms do more "Edge AI" processing on the device or a local hub, reducing the dependency on giant cloud outages. |
-| **Own a Solar Cam Pan** | **Return it Immediately.** Do not risk a battery fire. Use the refund to transition to a wired Cam v4 or a different brand. |
+| **Own a Solar Cam Pan** | **Return it Immediately.** Do not risk a battery fire. Use the refund to transition to a wired [Cam v4](https://quvii.com/blog/wyze-cam-v4-cloud-storage-subscription-changes-2026) or a different brand. |
 
 ## Total Cost of Ownership (3-Year Estimate)
 

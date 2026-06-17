@@ -159,7 +159,7 @@ If you are currently facing fast battery depletion, follow this prioritization l
 
 *   **Guide to Arlo SmartHubs:** Understanding the range and battery benefits of the VMB5000 in 2026.
 *   **Solar Panel Compatibility:** Why the 2026 "Total Security" mounts require specific high-output panels.
-*   **Local Storage Deep Dive:** How to use the SmartHub's microSD slot to maintain recordings when your Arlo Secure subscription expires.
+*   **Local Storage Deep Dive:** How to use the SmartHub's microSD slot to maintain recordings when your [Arlo Secure](https://quvii.com/blog/arlo-secure-app-6-26-0-firmware-issues) subscription expires.
 
 ---
 

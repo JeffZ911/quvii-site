@@ -81,7 +81,7 @@ The Argus [4 Pro](https://quvii.com/blog/reolink-argus-4-pro-new-release-feature
 ### Battery Longevity
 Firmware directly dictates how the PIR sensor and the dual-image processors interact. If the firmware has a bug that causes the camera to wake up too frequently—or stay awake too long after a false trigger—the 5000mAh battery can drain in days rather than months. 
 
-**Estimated Battery Life by Firmware Optimization**
+**Estimated [Battery Life](https://quvii.com/learn/blink-outdoor-4-battery-life-extreme-heat) by Firmware Optimization**
 
 *   **Unoptimized (v3.0.0.3867):** 15–25 days (High traffic area, frequent Wi-Fi 6 drops).
 *   **Optimized (2026 Current):** 45–90 days (With solar assistance and refined PIR sensitivity).

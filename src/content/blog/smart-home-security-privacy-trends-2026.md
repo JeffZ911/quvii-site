@@ -45,7 +45,7 @@ The FCC’s [US Cyber Trust Mark](https://www.fcc.gov/cybersecurity-label-smart-
 The release and mass adoption of the Matter 1.4 and 1.5 protocols by the Connectivity Standards Alliance (CSA) has finally solved the "walled garden" problem. Previously, using a Nest camera required the Google Home cloud; using a Ring camera required Amazon’s servers. Matter 1.4 allows cameras to communicate directly with local smart hubs (like Apple HomePod, Home Assistant, or dedicated NVRs) over the local network. This means video streams can be viewed and recorded without ever "pinging" the manufacturer’s cloud, even across different brands.
 
 ### Eufy EdgeAgent and the Local AI Revolution
-In May 2026, Eufy launched "EdgeAgent," a local-first AI platform that leverages a new generation of Large Model AI chipsets. Unlike previous iterations of local AI that struggled with false positives from shadows or pets, EdgeAgent performs complex facial recognition and behavioral analysis entirely on-device. This move by a major consumer brand has effectively ended the "AI Tax"—the practice of locking advanced detection features behind a cloud subscription.
+In May 2026, Eufy launched "EdgeAgent," a local-first AI platform that leverages a new generation of Large Model AI chipsets. Unlike previous iterations of local AI that struggled with false positives from shadows or pets, EdgeAgent performs complex [facial recognition](https://quvii.com/blog/ring-facial-recognition-lawsuit-impact-2026) and behavioral analysis entirely on-device. This move by a major consumer brand has effectively ended the "AI Tax"—the practice of locking advanced detection features behind a cloud subscription.
 
 | Feature | Cloud-Only AI (Legacy) | Local-First AI (2026 Standard) |
 | :--- | :--- | :--- |
