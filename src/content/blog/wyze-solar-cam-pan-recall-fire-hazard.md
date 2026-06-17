@@ -87,7 +87,7 @@ Independent analysts, including those at [RTINGS](https://www.rtings.com) and [T
 When a lithium-ion battery is punctured, it experiences an internal short circuit. This causes the battery to release its stored energy as heat almost instantly—a process known as thermal runaway. In an outdoor security camera, this is particularly dangerous for several reasons:
 1.  **Plastic Housings:** Most budget cameras use polycarbonate or ABS plastic, which can melt and fuel the fire.
 2.  **Outdoor Mounting:** Cameras are often mounted to wooden fences, vinyl siding, or near roof eaves, providing ample fuel for a house fire.
-3.  **Solar Charging:** The solar panel continues to feed energy into a compromised system, potentially exacerbating the heat buildup.
+3.  **[Solar Charging](https://quvii.com/learn/eufycam-s3-pro-solar-charging-efficiency-tips):** The solar panel continues to feed energy into a compromised system, potentially exacerbating the heat buildup.
 
 For the security camera industry, this recall reinforces the need for "fool-proof" mechanical designs, such as keyed screws or physical barriers that prevent long fasteners from reaching sensitive electronics.
 

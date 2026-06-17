@@ -23,7 +23,7 @@ inline_image_sections:
   - "What to do now"
 ---
 
-Eufy has expanded its smart lock portfolio with the FamiLock E40, a device that aims to eliminate the need for separate doorbells and locks by integrating 3D facial recognition and 2K video into a single chassis.
+Eufy has expanded its [smart lock](https://quvii.com/learn/best-smart-locks-summer-rental-properties) portfolio with the FamiLock E40, a device that aims to eliminate the need for separate doorbells and locks by integrating 3D [facial recognition](https://quvii.com/blog/ring-facial-recognition-lawsuit-impact-2026) and 2K video into a single chassis.
 
 # Eufy FamiLock E40: Facial Recognition Smart Lock with Built-in 2K Camera Launches
 
@@ -137,7 +137,7 @@ The E40 features a dual-battery system. The main 15,000mAh battery powers the ca
 Yes, the E40 uses 3D structured light or dual-lens depth mapping (depending on the specific sensor revision) to ensure that a 2D photograph cannot trick the facial recognition system. This AI-driven depth perception is designed to require a living, three-dimensional subject to trigger an unlock.
 
 ### Is the 2K camera recording all the time?
-No, the E40 is a battery-powered device and uses a 60GHz radar sensor to "wake up" the camera when motion is detected. This preserves battery life. Users can adjust the detection sensitivity and "activity zones" within the Eufy app to determine exactly when the camera should record and send notifications.
+No, the E40 is a battery-powered device and uses a 60GHz radar sensor to "wake up" the camera when motion is detected. This preserves [battery life](https://quvii.com/learn/blink-outdoor-4-battery-life-extreme-heat). Users can adjust the detection sensitivity and "activity zones" within the Eufy app to determine exactly when the camera should record and send notifications.
 
 ## Sources
 - Eufy Official Product Page — https://www.eufy.com

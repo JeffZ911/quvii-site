@@ -72,7 +72,7 @@ Prospective buyers must decide if the $100-150 savings per camera is worth the r
 The June 2026 update has also highlighted a growing issue: "app-based obsolescence." The v3.15.0 update requires 64-bit architecture and modern operating systems (Android 10+ or iOS 15+). Users who use older tablets as dedicated security monitors have found their hardware suddenly incompatible. This means the "Total Cost of Ownership" (TCO) for a Wyze system may include the cost of upgrading your mobile devices every few years to maintain access to your cameras.
 
 ### Reliability Comparison: Cloud vs. Local
-| Feature | Wyze Cam v4 (Cloud-Dependent) | Reolink Altas PT (Local-First) | Eufy S220 (Hybrid) |
+| Feature | [Wyze Cam v4](https://quvii.com/blog/wyze-cam-v4-cloud-storage-subscription-changes-2026) (Cloud-Dependent) | Reolink Altas PT (Local-First) | Eufy S220 (Hybrid) |
 | :--- | :--- | :--- | :--- |
 | **Resolution** | 2.5K (QHD) | 4K (UHD) | 2K |
 | **Storage** | Cloud + MicroSD (limited) | Local NVR / MicroSD | HomeBase 3 (Local) |
@@ -94,7 +94,7 @@ Even users paying for "Cam Plus" or "Cam Unlimited" tiers reported a total loss 
 Community reports on <a href="https://www.amazon.com/s?k=r%2FWyze&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">r/Wyze</a> indicate that users with 32-bit Android devices or older tablets (common for budget "wall-mounted" dashboards) can no longer download the v3.15.0 app. This has created an "App Gap," where the camera is functioning and the firmware is updated, but the user has no way to view the feed. This move toward 64-bit exclusivity is a growing trend in 2026 as manufacturers prioritize security protocols like VerifiedView over backward compatibility.
 
 ### Safety Concerns and Automation Failures
-For those with smart home integrations, the outage was particularly disruptive. Wyze Rules—such as "Turn on porch light when Cam v4 detects motion"—failed to execute because the trigger requires a cloud handshake. This "single point of failure" meant that users who rely on their cameras for safety automations were left in the dark, literally and figuratively.
+For those with smart home integrations, the outage was particularly disruptive. Wyze Rules—such as "Turn on porch light when [Cam v4](https://quvii.com/blog/wyze-cam-v4-cloud-storage-subscription-changes-2026) detects motion"—failed to execute because the trigger requires a cloud handshake. This "single point of failure" meant that users who rely on their cameras for safety automations were left in the dark, literally and figuratively.
 
 ## What to do now
 

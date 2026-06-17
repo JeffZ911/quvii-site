@@ -169,7 +169,7 @@ Encryption scrambles data to prevent unauthorized access, making it unreadable w
 *   **Monitor Network Traffic (Advanced Users):** Use a network monitoring tool (e.g., Wireshark, Pi-hole) to see what data your camera sends to external servers when supposedly "local."
 *   **Disable Cloud Features:** Can you fully disable remote viewing, cloud backups, and AI features that require cloud processing?
 *   **Firmware Updates:** Are firmware updates delivered over the air (OTA) via the cloud, and can they be applied offline?
-*   **Subscription Requirements:** Are core "smart" features tied to a cloud subscription, indicating cloud processing? (e.g., Arlo Secure Plans)
+*   **Subscription Requirements:** Are core "smart" features tied to a cloud subscription, indicating cloud processing? (e.g., [Arlo Secure](https://quvii.com/blog/arlo-secure-app-6-26-0-firmware-issues) Plans)
 
 ## Further reading
 

@@ -71,7 +71,7 @@ In a 50-unit apartment building, the 2.4GHz spectrum is often unusable due to si
 
 **Table 2: 2026 [Battery Life](https://quvii.com/learn/blink-outdoor-4-battery-life-extreme-heat) & Performance Benchmarks**
 
-| Model | Resolution | Wi-Fi Band | Battery Life (Est.) | Storage Type |
+| Model | Resolution | Wi-Fi Band | [Battery Life](https://quvii.com/learn/blink-outdoor-4-battery-life-extreme-heat) (Est.) | Storage Type |
 | :--- | :--- | :--- | :--- | :--- |
 | **Ring Battery Doorbell Pro** | 1536p | 2.4 / 5.0 GHz | 4–6 Months | Cloud (Subscription) |
 | **Eufy [Video Doorbell](https://quvii.com/learn/renter-friendly-wireless-video-doorbell-options-20260613) E340** | 2K (Dual Cam) | 2.4 / 5.0 GHz | 3–6 Months | Local (HomeBase 3) |

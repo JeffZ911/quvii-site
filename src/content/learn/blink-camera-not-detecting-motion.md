@@ -118,7 +118,7 @@ For users who find Blink's PIR-based detection too limiting, the 2026 market off
 
 ### Total Cost of Ownership (3-Year Estimate)
 When troubleshooting Blink, it is helpful to consider the long-term investment. While the hardware is affordable, the "feature paywall" and maintenance add up.
-*   **Hardware (Outdoor 4):** ~$100 (one-time)
+*   **Hardware ([Outdoor 4](https://quvii.com/learn/blink-outdoor-4-battery-life-extreme-heat)):** ~$100 (one-time)
 *   **Subscription (Blink Basic, 3 Years):** ~$100–$120
 *   **Batteries (Lithium AA, 3 Years):** ~$40–$60
 *   **Total 3-Year Cost:** ~$240–$280 per camera.

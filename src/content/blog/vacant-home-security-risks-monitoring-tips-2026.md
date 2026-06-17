@@ -26,7 +26,7 @@ Leaving a home vacant, whether for an extended vacation, a seasonal stay, or dur
 
 # Vacant Home Security: 2026 Risks & Smart Camera Monitoring Tips
 
-**Quick Answer:** To secure a vacant home in 2026, prioritize subscription-free security cameras with local storage, AI-powered detection, and long battery life or solar charging. Consider systems like eufyCam S4 or [Reolink Argus 4 Pro](/blog/reolink-argus-4-pro-firmware-update-issues) for reliable, privacy-focused monitoring without monthly fees.
+**Quick Answer:** To secure a vacant home in 2026, prioritize subscription-free security cameras with local storage, AI-powered detection, and long battery life or [solar charging](https://quvii.com/learn/eufycam-s3-pro-solar-charging-efficiency-tips). Consider systems like eufyCam S4 or [Reolink Argus 4 Pro](/blog/reolink-argus-4-pro-firmware-update-issues) for reliable, privacy-focused monitoring without monthly fees.
 
 ## What happened
 
@@ -123,7 +123,7 @@ Considering the 3-year real cost of a security camera system for a vacant home g
 **Scenario 3: Hybrid System (e.g., Wyze [Cam v4](https://quvii.com/learn/wyze-cam-v4-night-vision-flickering-fix) with optional Cam Plus)**
 *   **Hardware Cost:** Under $50 per camera.
 *   **Subscription Fees:** Optional Cam Plus for advanced AI and longer [cloud storage](https://quvii.com/blog/wyze-cam-v4-cloud-storage-subscription-changes-2026), around $20-60/year per camera or for a bundle.
-*   **Cloud Storage Fees:** Included with Cam Plus. Limited free cloud storage (12-second clips, 5-minute cooldown) without subscription.
+*   **[Cloud Storage](https://quvii.com/blog/wyze-cam-v4-cloud-storage-subscription-changes-2026) Fees:** Included with Cam Plus. Limited free cloud storage (12-second clips, 5-minute cooldown) without subscription.
 *   **Feature Paywall:** Person detection, package detection, and longer event recording are often behind the Cam Plus paywall.
 *   **3-Year TCO Estimate:** $50 (hardware) + $60-180 (3 years of optional subscription) = Around $110-230 (for a single camera over three years).
 

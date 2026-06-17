@@ -114,7 +114,7 @@ The sticker price of an Arlo camera is only a fraction of its 3-year cost. When 
 | Expense Category | Estimated 3-Year Cost (2026) | Notes |
 | :--- | :--- | :--- |
 | **Hardware** | $150 - $300 | Per camera (Pro 6 or Ultra 3) |
-| **Arlo Secure Sub** | $180 - $360 | $4.99 - $9.99/mo for 3 years |
+| **[Arlo Secure](https://quvii.com/blog/arlo-secure-app-6-26-0-firmware-issues) Sub** | $180 - $360 | $4.99 - $9.99/mo for 3 years |
 | **Spare Battery** | $50 - $70 | Recommended for swap-and-go |
 | **Solar Panel** | $60 - $100 | Essential for high-traffic areas |
 | **Total TCO** | **$440 - $830** | Per camera position |

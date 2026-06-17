@@ -172,7 +172,7 @@ Yes, over time. For coastal rentals, look for locks with a "Satin Chrome" or "Br
 
 *   Quvii's Guide to local storage security cameras for Rentals
 *   Best outdoor cameras for rentals for Vacation Properties (No Subscription)
-*   Understanding Smart Home Privacy: security camera privacy and Who Owns Your Entry Data?
+*   Understanding [Smart Home Privacy](https://quvii.com/learn/smart-home-privacy-risks-ai-security-cameras): security camera privacy and Who Owns Your Entry Data?
 
 ## Sources
 - Schlage Encode Plus Specifications — https://www.schlage.com/en/home/smart-locks/encode-plus.html
