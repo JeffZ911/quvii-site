@@ -74,7 +74,7 @@ Previously, only state actors or elite hacking collectives could weaponize "zero
 
 ### The Rise of Autonomous AI Attack Agents
 
-According to the 2026 Data Breach Investigations Report (DBIR), autonomous AI agents are now responsible for approximately 1 in 8 security breaches. These agents do not wait for human instructions; they are programmed with a goal—such as "gain access to a video feed"—and they autonomously try thousands of permutations of credential stuffing, logic manipulation, and social engineering until they succeed.
+According to the 2026 [Data Breach](https://quvii.com/blog/june-2026-stealer-logs-data-breach-camera-impact) Investigations Report (DBIR), autonomous AI agents are now responsible for approximately 1 in 8 security breaches. These agents do not wait for human instructions; they are programmed with a goal—such as "gain access to a video feed"—and they autonomously try thousands of permutations of credential stuffing, logic manipulation, and social engineering until they succeed.
 
 Your smart home data is a high-value target for these agents. Camera feeds, daily routine data from smart thermostats, and even the power consumption patterns of smart plugs provide AI models with the reconnaissance needed to plan physical burglaries or more targeted digital extortion.
 

@@ -37,7 +37,7 @@ For homeowners who purchased Eufy cameras specifically to avoid the cloud, the l
 The controversy surrounding Eufy is not a single event but a timeline of technical disclosures and legal repercussions that have fundamentally changed how the industry defines "local storage."
 
 ### The Original 2022 Breach: Thumbnails and VLC Streams
-In late 2022, security researcher Paul Moore demonstrated that Eufy cameras were uploading unencrypted thumbnail images and facial recognition data to Amazon Web Services (AWS) servers. This occurred even when users had explicitly selected "local storage" and had not opted into Eufy’s cloud subscription service. 
+In late 2022, security researcher Paul Moore demonstrated that Eufy cameras were uploading unencrypted thumbnail images and [facial recognition](https://quvii.com/blog/ring-facial-recognition-lawsuit-impact-2026) data to Amazon Web Services (AWS) servers. This occurred even when users had explicitly selected "local storage" and had not opted into Eufy’s cloud subscription service. 
 
 Shortly after, an investigation by The Verge confirmed that live camera streams could be accessed remotely using the VLC media player. By using a specific URL format and the user's unique serial number, researchers could view unencrypted streams without any secondary authentication. This contradicted Eufy’s long-standing marketing claim that its footage was "stored locally" and "end-to-end encrypted."
 

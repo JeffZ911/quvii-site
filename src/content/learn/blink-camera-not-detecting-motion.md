@@ -110,7 +110,7 @@ In 2026, Blink continues to gate its "Person Detection" (Computer Vision) featur
 **Fact:** Basic motion detection and local storage (via Sync Module 2 and a USB drive) are hardware features that do not require a monthly fee. However, the advanced "Person Detection" AI and the ability to view clips without a 3-5 second "fetching" delay are typically tied to <a href="https://www.amazon.com/s?k=Blink%27s+subscription+tiers&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Blink's subscription tiers</a>.
 
 ### The Window Myth: Why Your Indoor Camera Can't See Outside
-Many users buy a Blink Mini 2 and point it out a window. While the Mini 2 uses pixel-based detection (which *can* work through glass), the infrared LEDs used for night vision will reflect off the glass, blinding the camera at night. Furthermore, the battery-powered Outdoor 4 will simply fail to trigger because its PIR sensor cannot "see" heat through the glass pane.
+Many users buy a Blink Mini 2 and point it out a window. While the Mini 2 uses pixel-based detection (which *can* work through glass), the infrared LEDs used for night vision will reflect off the glass, blinding the camera at night. Furthermore, the battery-powered [Outdoor 4](https://quvii.com/learn/blink-outdoor-4-battery-life-extreme-heat) will simply fail to trigger because its PIR sensor cannot "see" heat through the glass pane.
 
 ## Further reading
 

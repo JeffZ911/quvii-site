@@ -54,7 +54,7 @@ On June 4, 2026, Wyze, in conjunction with the Consumer Product Safety Commissio
 | VerifiedView Update | June 16, 2026 | App/Firmware mismatch | Update App to v3.15.0.876 |
 | Solar Cam Pan Recall | June 4, 2026 | Battery fire risk | Discontinue use; contact Wyze |
 
-[Image Spec: A frustrated homeowner checking their smartphone while standing near a Wyze Cam v4 mounted on a porch, with the phone screen showing an 'Offline' error message. Aspect Ratio: 16:9]
+[Image Spec: A frustrated homeowner checking their smartphone while standing near a [Wyze Cam v4](https://quvii.com/blog/wyze-cam-v4-cloud-storage-subscription-changes-2026) mounted on a porch, with the phone screen showing an 'Offline' error message. Aspect Ratio: 16:9]
 
 ## Why it matters for buyers
 
@@ -64,7 +64,7 @@ On June 4, 2026, Wyze, in conjunction with the Consumer Product Safety Commissio
 For those currently shopping for a security system, the June 2026 outage serves as a critical case study in the architecture of home security.
 
 ### The Hidden Cost of Budget Cloud Cameras
-Wyze has built its reputation on high-spec hardware at an entry-level price point—the Wyze Cam v4 typically retails in the $35-40 range. However, this low "buy-in" price is subsidized by a heavy reliance on cloud infrastructure. Unlike "local-first" systems (such as those from Reolink or Ubiquiti), Wyze cameras are essentially "thin clients." When the central server (AWS) or the proprietary app handshake (VerifiedView) fails, the hardware becomes a paperweight. 
+Wyze has built its reputation on high-spec hardware at an entry-level price point—the Wyze [Cam v4](https://quvii.com/blog/wyze-cam-v4-cloud-storage-subscription-changes-2026) typically retails in the $35-40 range. However, this low "buy-in" price is subsidized by a heavy reliance on cloud infrastructure. Unlike "local-first" systems (such as those from Reolink or Ubiquiti), Wyze cameras are essentially "thin clients." When the central server (AWS) or the proprietary app handshake (VerifiedView) fails, the hardware becomes a paperweight. 
 
 Prospective buyers must decide if the $100-150 savings per camera is worth the risk of losing their security feed during a regional internet or cloud outage.
 

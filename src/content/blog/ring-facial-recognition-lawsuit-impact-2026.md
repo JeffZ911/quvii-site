@@ -95,7 +95,7 @@ Understanding the total cost of ownership is crucial for any security camera pur
 
 *   **Hardware:** Eufy S330 eufyCam 3 (with HomeBase 3): around $200-250 (initial cost for a 2-camera kit)
 *   **Subscription:** $0 (local AI processing and storage)
-*   **Optional Cloud Storage:** around $3-5/month (if desired) x 36 months = $108-180
+*   **Optional [Cloud Storage](https://quvii.com/blog/wyze-cam-v4-cloud-storage-subscription-changes-2026):** around $3-5/month (if desired) x 36 months = $108-180
 *   **Total 3-Year TCO:** around $200-430
 
 This comparison highlights that while the initial hardware cost might be similar, the ongoing subscription fees for cloud-based AI features like "Familiar Faces" can significantly inflate the long-term expense of a Ring system.
@@ -143,7 +143,7 @@ For users concerned about cloud-based biometric data processing and recurring su
 
 1.  **Eufy Security:** Eufy cameras, particularly models like the eufyCam 3 (S330) and the SoloCam S40, leverage a HomeBase 3 hub for local AI processing. This allows for on-device facial recognition, vehicle detection, and pet detection without a monthly subscription, storing footage and biometric data locally.
 2.  **Reolink:** Reolink offers several cameras with local AI capabilities, such as the Reolink Argus 3 Pro and various NVR-based systems. These devices can differentiate between people, vehicles, and pets directly on the camera, reducing false alerts and eliminating the need for cloud subscriptions for basic smart detection. Data is stored on a local microSD card or an NVR.
-3.  **Arlo (with local storage options):** While Arlo offers cloud subscriptions, many of its cameras, like the Arlo Ultra 2, also support local storage via a SmartHub, allowing some smart detections to occur without continuous cloud reliance. However, advanced AI features often still require an Arlo Secure subscription.
+3.  **Arlo (with local storage options):** While Arlo offers cloud subscriptions, many of its cameras, like the Arlo Ultra 2, also support local storage via a SmartHub, allowing some smart detections to occur without continuous cloud reliance. However, advanced AI features often still require an [Arlo Secure](https://quvii.com/blog/arlo-secure-app-6-26-0-firmware-issues) subscription.
 
 #### Decision Framework: Choosing Your Security Camera
 

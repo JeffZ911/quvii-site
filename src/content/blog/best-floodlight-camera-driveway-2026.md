@@ -95,7 +95,7 @@ For owners of the <a href="https://www.amazon.com/s?k=Reolink+Duo+series&tag=jef
 
 ### When to Upgrade Your Legacy Hardware
 Owners of 1080p hardware should consider 2026 the "end of life" for their equipment for three reasons:
-1. **Evidence Standards:** Law enforcement agencies are increasingly requesting high-resolution footage. 1080p video often lacks the pixel density required for facial recognition or plate reading at night, making it less useful as evidence.
+1. **Evidence Standards:** Law enforcement agencies are increasingly requesting high-resolution footage. 1080p video often lacks the pixel density required for [facial recognition](https://quvii.com/blog/ring-facial-recognition-lawsuit-impact-2026) or plate reading at night, making it less useful as evidence.
 2. **Connectivity:** As Wi-Fi 7 becomes standard in 2026, older 2.4GHz-only cameras are facing increased interference and congestion in suburban environments.
 3. **Resale Value:** Non-Matter compatible cameras have seen a sharp decline in the secondary market. If you plan to sell your old gear, the window is closing as buyers prioritize interoperable ecosystems.
 
