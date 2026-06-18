@@ -95,7 +95,7 @@ One of the most significant pain points for owners is the "Feature Paywall." If 
 If you already own a wireless system, the impact of cold weather goes beyond just a temporary outage. There are long-term mechanical and financial consequences to letting your cameras freeze.
 
 ### Long-term Battery Health Risks
-Repeatedly allowing a lithium-ion battery to discharge to 0% in sub-zero temperatures causes permanent degradation. Each time this happens, the "total capacity" of the battery shrinks. By the time spring arrives, a camera that once lasted six months might only be capable of holding a four-month charge. For models with non-removable batteries, like the Arlo Essential 2nd Gen, this effectively shortens the entire product's lifespan to just 2-3 winters.
+Repeatedly allowing a lithium-ion battery to discharge to 0% in sub-zero temperatures causes permanent degradation. Each time this happens, the "total capacity" of the battery shrinks. By the time spring arrives, a camera that once lasted six months might only be capable of holding a four-month charge. For models with non-removable batteries, like the [Arlo Essential](https://quvii.com/blog/arlo-essential-2k-firmware-bricking-update) 2nd Gen, this effectively shortens the entire product's lifespan to just 2-3 winters.
 
 ### Feature Loss: When Your 'Smart' Camera Becomes 'Dumb'
 In 2025, several brands introduced "Thermal Throttling" via firmware updates. To save power when the battery is cold and struggling, the camera will automatically disable high-energy features. You may notice:

@@ -157,7 +157,7 @@ As of 2026, the Nest Protect remains an outlier. While basic status (smoke/CO le
 Google has transitioned almost all legacy "Per-Camera" billing to the flat-rate "Google Home" billing. If you refuse to migrate your account to a Google account and move your devices to the Home app, you may find your subscription cancelled or restricted to "Live View Only" features.
 
 ### Is there a way to use Nest cameras without the cloud?
-No. Nest cameras are designed as cloud-first devices. While they have a small amount of internal "on-device" storage for video buffering during Wi-Fi outages, they cannot record to a local NVR (Network Video Recorder) or a third-party NAS like cameras from Reolink or Amcrest can.
+No. Nest cameras are designed as cloud-first devices. While they have a small amount of internal "on-device" storage for video buffering during Wi-Fi outages, they cannot record to a local NVR (Network Video Recorder) or a third-party NAS like [cameras from](https://quvii.com/blog/protect-smart-home-cameras-summer-heat) Reolink or Amcrest can.
 
 ## Sources
 - Google Store Support

@@ -26,7 +26,7 @@ inline_image_sections:
   - "Further reading"
 ---
 
-Summer heat can be a formidable foe for outdoor electronics, especially security cameras tasked with constant vigilance. For homeowners considering or already using a Reolink Video Doorbell, understanding how the Wi-Fi and Power over Ethernet (PoE) models perform under the stress of warmer months is crucial for maintaining reliable home security.
+[Summer heat](https://quvii.com/blog/protect-smart-home-cameras-summer-heat) can be a formidable foe for outdoor electronics, especially security cameras tasked with constant vigilance. For homeowners considering or already using a Reolink Video Doorbell, understanding how the Wi-Fi and Power over Ethernet (PoE) models perform under the stress of warmer months is crucial for maintaining reliable home security.
 
 # Reolink Doorbell WiFi vs. PoE: Ensuring Summer Stability
 

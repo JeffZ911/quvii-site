@@ -64,7 +64,7 @@ Using a standard 2.8mm wide-angle lens, the "Identify" range differs significant
 | 2K (4MP) | ~180 ft (55m) | ~36 ft (11m) | ~18 ft (5.5m) |
 | 4K (8MP) | ~260 ft (79m) | ~52 ft (16m) | ~26 ft (8m) |
 
-As shown, a 4K camera can "Identify" a stranger at nearly double the distance of a 2K camera, making it the superior choice for driveways and street-facing views.
+As shown, a 4K camera can "Identify" a stranger at nearly double the distance of a [2K camera](https://quvii.com/blog/arlo-essential-2k-firmware-bricking-update), making it the superior choice for driveways and street-facing views.
 
 ### The Digital Zoom Advantage
 

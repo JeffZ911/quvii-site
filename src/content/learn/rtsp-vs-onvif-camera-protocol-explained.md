@@ -72,7 +72,7 @@ RTSP and ONVIF were popularized to break this "Walled Garden" model. By choosing
 ### The Shift to Local Control
 As of 2026, privacy concerns regarding cloud-based security have reached an all-time high. Major manufacturers supporting ONVIF allow users to keep their video data entirely within their own four walls. 
 
-Key manufacturers that currently maintain robust ONVIF/RTSP support include:
+Key manufacturers that currently maintain robust ONVIF/[RTSP support](https://quvii.com/learn/wyze-cam-v4-rtsp-support-missing-update) include:
 *   **Amcrest:** Known for near-universal ONVIF compliance across their 4K turret and bullet lines.
 *   **Reolink:** Supports RTSP/ONVIF on most PoE and plug-in Wi-Fi models (excluding most battery-powered models).
 *   **Lorex:** Offers a wide range of NVR-compatible cameras that adhere to Profile S.

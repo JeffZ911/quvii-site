@@ -23,7 +23,7 @@ inline_image_sections:
   - "What to do now"
 ---
 
-Wyze has long been the standard-bearer for "affordable" smart home security, but a series of major service overhauls in early 2026 has fundamentally changed the value proposition for the Wyze Cam v4.
+Wyze has long been the standard-bearer for "affordable" smart home security, but a series of major service overhauls in early 2026 has fundamentally changed the value proposition for the [Wyze Cam v4](https://quvii.com/learn/wyze-cam-v4-rtsp-support-missing-update).
 
 # Wyze Cam v4 Cloud Storage: 2026 Subscription Changes & Cost Guide
 
@@ -37,7 +37,7 @@ Wyze has long been the standard-bearer for "affordable" smart home security, but
 *Related: [Google Nest Community Forum Deletion June 30: Save Your Data](/blog/google-nest-community-forum-deletion-june-30) · [Wyze Solar Cam Pan Recall 2026: How to Check Your Model](/blog/how-to-check-wyze-camera-recall-status-2026) · [Is the Google Nest App Still Working in 2026? Sunset Dates & Migration](/blog/is-google-nest-app-still-working-2026)*
 
 
-For years, Wyze maintained a disruptive pricing model that undercut giants like Ring and Nest. However, the landscape shifted on March 2, 2026, when Wyze implemented its most aggressive subscription restructuring to date. This move signals a pivot from a hardware-first company to a services-oriented platform, directly impacting the long-term costs of the Wyze Cam v4.
+For years, Wyze maintained a disruptive pricing model that undercut giants like Ring and Nest. However, the landscape shifted on March 2, 2026, when Wyze implemented its most aggressive subscription restructuring to date. This move signals a pivot from a hardware-first company to a services-oriented platform, directly impacting the long-term costs of the Wyze [Cam v4](https://quvii.com/learn/wyze-cam-v4-rtsp-support-missing-update).
 
 ### The March 2026 Price Hike Details
 The most immediate change for v4 owners is the price of Cam Plus. The annual rate for a single-camera license moved from $19.99 to $29.99. While a $10 increase may seem marginal, it represents a 50% jump in recurring costs. This tier remains the baseline for users who want "unlimited" event clip length and person/vehicle/pet detection. Without this, the v4 is limited to basic motion alerts with a "cool-down" period between recorded clips, unless the user relies entirely on local storage.

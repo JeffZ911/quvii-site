@@ -116,7 +116,7 @@ Existing owners should revisit their brand's privacy policy. For instance, <a hr
 A camera is a gateway to your network.
 *   **Change Defaults:** If you are still using the "admin" password that came in the box, your camera is likely already listed on a botnet.
 *   **Enable 2FA:** Two-factor authentication is the single most effective way to prevent account takeovers.
-*   **Disable UPnP:** Ensure Universal Plug and Play is turned off on your router to prevent cameras from automatically opening ports to the public internet.
+*   **Disable UPnP:** Ensure Universal Plug and Play is turned off on your router to prevent [cameras from](https://quvii.com/blog/protect-smart-home-cameras-summer-heat) automatically opening ports to the public internet.
 
 **Benchmark: Network Security Checklist for IP Cameras**
 - [ ] Firmware updated to 2026 security patch levels.
