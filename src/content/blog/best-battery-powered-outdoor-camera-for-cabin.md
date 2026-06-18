@@ -90,7 +90,7 @@ For a cabin owner, that $415 difference over three years could be better spent o
 ![Impact on existing owners](/img/best-battery-powered-outdoor-camera-for-cabin/inline-3.webp)
 
 
-Owners of legacy 1080p battery cameras (like the original Arlo Pro or Ring Stick Up Cam) are finding their hardware increasingly obsolete as 4K becomes the standard for evidence. The gap in clarity is most noticeable when zooming in on a subject. On a 1080p sensor, a person’s face at 30 feet is often a blur of 10-15 pixels; on a 4K sensor, that same face contains enough detail for law enforcement to use in an investigation.
+Owners of legacy 1080p battery cameras (like the original Arlo Pro or [Ring Stick Up](https://quvii.com/learn/ring-stick-up-cam-pro-overheating-direct-sun) Cam) are finding their hardware increasingly obsolete as 4K becomes the standard for evidence. The gap in clarity is most noticeable when zooming in on a subject. On a 1080p sensor, a person’s face at 30 feet is often a blur of 10-15 pixels; on a 4K sensor, that same face contains enough detail for law enforcement to use in an investigation.
 
 Recent firmware updates for the Reolink Altas series have refined the "Post-Motion Record" feature. This allows the camera to continue recording for a set duration (often up to 1 or 2 minutes) after the motion has ceased. This provides much better context for motion events, such as seeing where an intruder went after they stepped out of the primary detection zone. According to community discussions on [r/HomeSecurity](https://www.reddit.com/r/homesecurity/), this has significantly reduced the "choppiness" of recorded events compared to 2023-era firmware.
 

@@ -190,7 +190,7 @@ Several misconceptions often arise when discussing Wi-Fi versus PoE doorbell cam
 
 ### Outdoor Cameras Are Not Immune to Weather
 
-**Misconception 4: Outdoor cameras are immune to weather.** Even cameras with high IP ratings (Ingress Protection ratings, indicating resistance to dust and water) have operating temperature limits. While they are designed to withstand exposure to elements, prolonged exposure to [extreme heat](https://quvii.com/learn/blink-outdoor-4-battery-life-extreme-heat), direct sunlight, or severe cold can impact their performance and longevity. Manufacturers provide these temperature ranges for a reason, and exceeding them consistently can lead to issues not covered by warranties. Protecting outdoor cameras from direct sun exposure with an overhang or shade can significantly extend their lifespan and ensure more stable operation.
+**Misconception 4: Outdoor cameras are immune to weather.** Even cameras with high IP ratings (Ingress Protection ratings, indicating resistance to dust and water) have operating temperature limits. While they are designed to withstand exposure to elements, prolonged exposure to [extreme heat](https://quvii.com/learn/blink-outdoor-4-battery-life-extreme-heat), direct sunlight, or severe cold can impact their performance and longevity. Manufacturers provide these temperature ranges for a reason, and exceeding them consistently can lead to issues not covered by warranties. Protecting outdoor [cameras from](https://quvii.com/blog/protect-smart-home-cameras-summer-heat) direct sun exposure with an overhang or shade can significantly extend their lifespan and ensure more stable operation.
 
 ## Further reading
 
@@ -216,7 +216,7 @@ Both Reolink doorbells are rated for operation between 14°F and 122°F (-10°C 
 Reolink doorbells support local storage via a microSD card, allowing you to record and view footage without a mandatory subscription. Optional cloud storage plans are available for those who desire off-site backup, but core functionality is retained without them.
 
 ### How does firmware affect summer stability?
-Regular firmware updates from Reolink can enhance stability, fix bugs, and optimize power consumption and thermal management. Keeping your doorbell's firmware up-to-date can contribute to more reliable performance, especially when facing environmental challenges like summer heat.
+Regular firmware updates from Reolink can enhance stability, fix bugs, and optimize power consumption and thermal management. Keeping your doorbell's firmware up-to-date can contribute to more reliable performance, especially when facing environmental challenges like [summer heat](https://quvii.com/blog/protect-smart-home-cameras-summer-heat).
 
 ### Is Wi-Fi interference worse in the summer?
 Wi-Fi interference can be more pronounced in summer due to increased network usage as more people are home, leading to greater congestion on shared wireless channels. Environmental factors like increased humidity, though minor, can also theoretically affect signal propagation, but network congestion is usually the bigger factor.

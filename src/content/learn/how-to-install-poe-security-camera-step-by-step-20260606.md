@@ -40,7 +40,7 @@ PoE (Power over Ethernet) uses one Cat6 cable for power and data. Connect camera
 
 PoE stands for Power over Ethernet, a networking technology that allows a single Ethernet cable to provide both a high-speed data connection and electrical power to devices. In the context of 2026 security standards, this eliminates the need for a secondary power cable or a nearby electrical outlet at the camera’s mounting position. 
 
-Modern PoE systems operate on a "handshake" principle: the power source (a switch or NVR) detects the power requirements of the camera and delivers the exact voltage needed, typically ranging from 48V to 57V DC. For the homeowner, this means "one-wire" installation. Unlike "wireless" cameras from brands like Arlo or Nest—which still require a power cable or frequent battery swaps—a PoE camera is truly autonomous once the network cable is seated.
+Modern PoE systems operate on a "handshake" principle: the power source (a switch or NVR) detects the power requirements of the camera and delivers the exact voltage needed, typically ranging from 48V to 57V DC. For the homeowner, this means "one-wire" installation. Unlike "wireless" [cameras from](https://quvii.com/blog/protect-smart-home-cameras-summer-heat) brands like Arlo or Nest—which still require a power cable or frequent battery swaps—a PoE camera is truly autonomous once the network cable is seated.
 
 As of 2026, the industry has coalesced around three primary IEEE standards. While basic 2MP cameras can run on older standards, the shift toward 16MP sensors and active-deterrence features (like built-in spotlights and sirens) has made PoE+ the modern baseline.
 

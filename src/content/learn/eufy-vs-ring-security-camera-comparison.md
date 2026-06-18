@@ -99,7 +99,7 @@ Ring uses **AWS-based Cloud AI**. When a Ring camera detects motion, it uploads 
 | Feature | Eufy (with HomeBase 3) | Ring (with Protect Sub) |
 | :--- | :--- | :--- |
 | **Person Detection** | Yes (Local) | Yes (Cloud) |
-| **Facial Recognition** | Yes (Familiar Faces) | No |
+| **[Facial Recognition](https://quvii.com/blog/ring-facial-recognition-lawsuit-impact-2026)** | Yes (Familiar Faces) | No |
 | **Package Detection** | Yes | Yes |
 | **Vehicle Detection** | Yes | Yes |
 | **Pet Detection** | Yes | Yes |

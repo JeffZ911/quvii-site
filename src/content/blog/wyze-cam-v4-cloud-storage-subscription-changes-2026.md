@@ -106,7 +106,7 @@ The March 2026 firmware update (version 4.52.9.6119) was released to support the
 However, independent community testing on platforms like r/Wyze suggests that this firmware has increased "time-to-stream." On the v4 hardware, users have reported that the initial handshake between the app and the camera now takes 1.5 to 2 seconds longer than on previous versions, likely due to the additional decryption steps required by the new security protocols.
 
 ### The 'Lite' Exclusion: Why Your v4 Won't Get Free Clips
-A common point of confusion for those upgrading from older Wyze Cam v2 or v3 units is "Cam Plus Lite." This legacy "name-your-price" service, which offered 12-second cloud clips for free or a small donation, is strictly limited to cameras released before 2022. The Wyze Cam v4 is hardware-locked out of this plan. For v4 owners, there is no "free" cloud video option; it is either a paid subscription or local recording to a microSD card.
+A common point of confusion for those upgrading from older Wyze Cam v2 or v3 units is "Cam Plus Lite." This legacy "name-your-price" service, which offered 12-second cloud clips for free or a small donation, is strictly limited to cameras released before 2022. The [Wyze Cam v4](https://quvii.com/learn/wyze-cam-v4-rtsp-support-missing-update) is hardware-locked out of this plan. For v4 owners, there is no "free" cloud video option; it is either a paid subscription or local recording to a microSD card.
 
 ## What to do now
 
@@ -119,7 +119,7 @@ The 2026 landscape requires a more strategic approach to using Wyze hardware. To
 To avoid the mobile platform markups, users should never subscribe through the app. Always log in to <a href="https://www.amazon.com/s?k=my.wyze.com&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">my.wyze.com</a> to manage subscriptions. This ensures you are paying the base rate rather than the inflated "App Store" price. Additionally, Wyze frequently offers "loyalty" discounts on the web portal for users migrating from legacy plans that are not visible in the mobile app interface.
 
 ### Maximizing the 256GB MicroSD Slot
-The Wyze Cam v4 officially supports microSD cards up to 256GB. In 2026, this is the most effective way to bypass subscription hikes. By using a high-endurance card, you can record 2.5K footage continuously, providing a safety net if the 14-day cloud clip is insufficient.
+The Wyze [Cam v4](https://quvii.com/learn/wyze-cam-v4-rtsp-support-missing-update) officially supports microSD cards up to 256GB. In 2026, this is the most effective way to bypass subscription hikes. By using a high-endurance card, you can record 2.5K footage continuously, providing a safety net if the 14-day cloud clip is insufficient.
 
 **MicroSD Capacity Chart: Wyze Cam v4 (2.5K Resolution)**
 

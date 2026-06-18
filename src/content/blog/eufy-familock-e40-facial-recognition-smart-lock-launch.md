@@ -128,7 +128,7 @@ Before purchasing any device that captures biometric data, review the manufactur
 ## Frequently Asked Questions
 
 ### Does the Eufy FamiLock E40 work with Apple HomeKit?
-The FamiLock E40 supports the Matter standard, which allows it to be added to the Apple Home app. However, users should note that while locking and unlocking are supported via Matter, HomeKit Secure Video (HKSV) support is [information unavailable] at launch. Most users will still need the [Eufy Security app](https://quvii.com/blog/eufy-security-app-login-loop-june-2026-guide) to view the 2K live stream and manage facial recognition profiles.
+The FamiLock E40 supports the Matter standard, which allows it to be added to the Apple Home app. However, users should note that while locking and unlocking are supported via Matter, HomeKit Secure Video (HKSV) support is [information unavailable] at launch. Most users will still need the [Eufy Security app](https://quvii.com/blog/eufy-security-app-login-loop-june-2026-guide) to view the 2K live stream and manage [facial recognition](https://quvii.com/blog/ring-facial-recognition-lawsuit-impact-2026) profiles.
 
 ### What happens if the E40 battery dies while I am outside?
 The E40 features a dual-battery system. The main 15,000mAh battery powers the camera and lock, while a smaller 800mAh backup battery ensures the lock remains functional even if the main pack is depleted. Additionally, the lock includes a physical key cylinder hidden behind a flap for traditional manual entry, and a USB-C port is typically provided for emergency power jumps.
