@@ -102,7 +102,7 @@ eufy, conversely, uses its BionicMind AI. Instead of radar, it uses an on-device
 ### BionicMind: AI Without the Cloud
 The <a href="https://www.amazon.com/s?k=eufy+HomeBase+3+%28S380%29&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">eufy HomeBase 3 (S380)</a> serves as the "brain" for the SoloCam line if you choose to expand. It centralizes the AI processing and provides expandable storage (up to 16TB). Because the processing is local, the latency between a person stepping onto your porch and your phone vibrating is often lower than cloud-based systems. According to [independent testing by RTINGS](https://www.rtings.com), local processing can shave 1–2 seconds off notification times compared to cloud-reliant models.
 
-(After H2-3: A technical overlay showing a radar wave (Ring) vs. a localized AI facial recognition box (eufy) on a person walking up a driveway at dusk. Aspect Ratio 4:3)
+(After H2-3: A technical overlay showing a radar wave (Ring) vs. a localized AI [facial recognition](https://quvii.com/blog/ring-facial-recognition-lawsuit-impact-2026) box (eufy) on a person walking up a driveway at dusk. Aspect Ratio 4:3)
 
 ## Real-world implications
 

@@ -194,7 +194,7 @@ Yes, most privacy-focused cameras offer secure remote viewing through their comp
 Not necessarily. While some advanced models may have a higher upfront cost, the absence of mandatory subscription fees often makes privacy-focused cameras more affordable in the long run. Many budget-friendly options, like the TP-Link Tapo C120 or Eufy Indoor Cam E30, offer excellent privacy features for their price.
 
 ### Can I still use smart home integrations like Alexa or Google Assistant with these cameras?
-Many privacy-focused cameras do offer integrations with popular smart home platforms like Amazon Alexa and Google Assistant. However, the extent of integration can vary. Some might allow basic commands like viewing a live feed, while others might offer more limited functionality compared to cameras from the platform's own ecosystem.
+Many privacy-focused cameras do offer integrations with popular smart home platforms like Amazon Alexa and Google Assistant. However, the extent of integration can vary. Some might allow basic commands like viewing a live feed, while others might offer more limited functionality compared to [cameras from](https://quvii.com/blog/protect-smart-home-cameras-summer-heat) the platform's own ecosystem.
 
 ### What happens to my footage if my local storage (microSD card) gets full?
 When a microSD card gets full, most cameras are configured to automatically overwrite the oldest footage with new recordings, a process known as loop recording. Some cameras might also offer notifications when storage is nearing capacity, allowing you to manage or back up footage manually if desired.

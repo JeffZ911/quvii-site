@@ -113,7 +113,7 @@ Considering the 3-year real cost of a security camera system for a vacant home g
 *   **Feature Paywall:** Minimal to none, as AI detection and other advanced features are typically included with the hardware.
 *   **3-Year TCO Estimate:** Around $500-700
 
-**Scenario 2: Subscription-Based System (e.g., Arlo Essential Spotlight Camera)**
+**Scenario 2: Subscription-Based System (e.g., [Arlo Essential](https://quvii.com/blog/arlo-essential-2k-firmware-bricking-update) Spotlight Camera)**
 *   **Hardware Cost:** Around $100-150 per camera (plus potential hub cost, depending on model)
 *   **Subscription Fees:** [Arlo Secure](https://quvii.com/blog/arlo-secure-app-6-26-0-firmware-issues) plans typically range from around $5-15 per month per camera or for multiple cameras for basic features, or around $10-20 per month for unlimited cameras and advanced features. Let's estimate an average of $10/month for one camera, or $100-120/year.
 *   **[Cloud Storage](https://quvii.com/blog/wyze-cam-v4-cloud-storage-subscription-changes-2026) Fees:** Included in the subscription, but often limited to a certain number of days or resolution unless on a higher tier.

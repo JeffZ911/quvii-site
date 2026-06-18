@@ -133,7 +133,7 @@ Both Reolink doorbells support **local storage** via a microSD card, which is a 
 *   **If you are a renter or prefer minimal installation effort:** Prioritize the **Reolink Video Doorbell WiFi**. It's easier to set up using existing wiring, but ensure your Wi-Fi signal is robust at the door.
 *   **If you are a homeowner with easy access to run an Ethernet cable:** Prioritize the **Reolink Video Doorbell PoE**. The wired connection offers superior stability and peace of mind against network issues and power fluctuations, especially in hot conditions.
 *   **If you experience frequent Wi-Fi issues or have a large property:** Prioritize the **Reolink Video Doorbell PoE**. Its dedicated wired connection will provide a more reliable experience where Wi-Fi might struggle.
-*   **If you live in an area with extreme summer heat and direct sun exposure:** Prioritize the **Reolink Video Doorbell PoE** for its stable power delivery, which can be more resilient to thermal stress on components over time. Both models have the same stated operating temperature range, but stable power can contribute to better overall performance under stress.
+*   **If you live in an area with extreme [summer heat](https://quvii.com/blog/protect-smart-home-cameras-summer-heat) and direct sun exposure:** Prioritize the **Reolink Video Doorbell PoE** for its stable power delivery, which can be more resilient to thermal stress on components over time. Both models have the same stated operating temperature range, but stable power can contribute to better overall performance under stress.
 
 **Total Cost of Ownership (TCO) for Reolink Doorbells (3-Year Estimate)**
 

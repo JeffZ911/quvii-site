@@ -155,7 +155,7 @@ There is a lingering belief that PoE cameras are "dumb" compared to Nest or Ring
 To help narrow your search, consider these three common scenarios:
 
 1.  **The "Set and Forget" Homeowner:** Prioritize a **bundled NVR kit** (e.g., Reolink RLK8-800B4). These include the NVR, cameras, and pre-made cables in one box. They offer the easiest setup but less flexibility for mixing and matching brands.
-2.  **The Privacy Enthusiast:** Prioritize a **standalone PoE Switch + DIY Server**. Use a dedicated PC running software like Blue Iris or Scrypted. This allows you to use the best cameras from different manufacturers (Hikvision, Dahua, Amcrest) and keep them completely isolated from the internet via a VLAN.
+2.  **The Privacy Enthusiast:** Prioritize a **standalone PoE Switch + DIY Server**. Use a dedicated PC running software like Blue Iris or Scrypted. This allows you to use the best [cameras from](https://quvii.com/blog/protect-smart-home-cameras-summer-heat) different manufacturers (Hikvision, Dahua, Amcrest) and keep them completely isolated from the internet via a VLAN.
 3.  **The Tech-Forward Power User:** Prioritize **Ubiquiti UniFi Protect**. While more expensive (the "Apple" of networking), UniFi offers a seamless mobile app experience and beautiful hardware, though it requires staying within the Ubiquiti ecosystem.
 
 ## Further reading

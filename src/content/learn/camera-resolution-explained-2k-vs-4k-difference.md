@@ -109,7 +109,7 @@ If you plan to install multiple 4K Wi-Fi cameras, your network needs to be up to
 
 ### The Low-Light Challenge
 
-There is a common trade-off in optics: more pixels often mean worse low-light performance. Because 4K pixels are smaller (to fit on the sensor), they naturally capture less light than the larger pixels on a 2K sensor of the same size. High-end 4K cameras compensate for this using Starlight sensors or built-in floodlights to maintain color night vision. If you are monitoring an area with zero ambient light and don't want to use floodlights, a premium 2K camera might actually produce a cleaner image than a cheap 4K model.
+There is a common trade-off in optics: more pixels often mean worse low-light performance. Because 4K pixels are smaller (to fit on the sensor), they naturally capture less light than the larger pixels on a 2K sensor of the same size. High-end 4K cameras compensate for this using Starlight sensors or built-in floodlights to maintain color night vision. If you are monitoring an area with zero ambient light and don't want to use floodlights, a premium [2K camera](https://quvii.com/blog/arlo-essential-2k-firmware-bricking-update) might actually produce a cleaner image than a cheap 4K model.
 
 ## Common misconceptions
 

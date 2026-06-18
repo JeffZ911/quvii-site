@@ -68,10 +68,10 @@ Furthermore, Wyze has moved its most advanced "Wyze Intelligence" features behin
 ![Why it matters for buyers](/img/wyze-cam-v4-cloud-storage-subscription-changes-2026/inline-2.webp)
 
 
-The 2026 subscription changes have narrowed the gap between Wyze and its "premium" competitors. When the hardware cost of the Wyze Cam v4 (around $35–$40) is combined with the new service fees, the total cost of ownership (TCO) begins to rival systems that were previously considered much more expensive.
+The 2026 subscription changes have narrowed the gap between Wyze and its "premium" competitors. When the hardware cost of the [Wyze Cam v4](https://quvii.com/learn/wyze-cam-v4-rtsp-support-missing-update) (around $35–$40) is combined with the new service fees, the total cost of ownership (TCO) begins to rival systems that were previously considered much more expensive.
 
 ### Total Cost of Ownership in 2026
-When evaluating a security camera, the sticker price is often a distraction. The real cost is the hardware plus five years of service. For a single Wyze Cam v4, the 5-year TCO has risen from roughly $135 in 2024 to approximately $185-190 in 2026. 
+When evaluating a security camera, the sticker price is often a distraction. The real cost is the hardware plus five years of service. For a single Wyze [Cam v4](https://quvii.com/learn/wyze-cam-v4-rtsp-support-missing-update), the 5-year TCO has risen from roughly $135 in 2024 to approximately $185-190 in 2026. 
 
 For a 4-camera household, the shift is even more dramatic. Previously, a user could run four cameras for five years for about $400 (hardware + legacy bundle). Today, that same setup requires the Cam Unlimited plan, bringing the 5-year TCO to roughly $650. While still lower than a 4-camera Nest Aware setup, the "budget" lead Wyze once enjoyed is evaporating.
 
