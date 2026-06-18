@@ -79,7 +79,7 @@ For a 4-camera household, the shift is even more dramatic. Previously, a user co
 
 | Brand/Model | Hardware Cost (Total) | Annual Sub (2026) | 5-Year TCO |
 | :--- | :--- | :--- | :--- |
-| **Wyze Cam v4** | ~$150 | ~$100 (Unlimited) | ~$650 |
+| **[Wyze Cam v4](https://quvii.com/learn/wyze-cam-v4-rtsp-support-missing-update)** | ~$150 | ~$100 (Unlimited) | ~$650 |
 | **Eufy Cam C120** | ~$160 | $0 (Local AI) | ~$160 |
 | **Ring Stick Up Cam** | ~$240 | ~$100 (Ring Home) | ~$740 |
 | **Reolink E1 Pro** | ~$200 | $0 (Local AI) | ~$200 |
@@ -95,7 +95,7 @@ The Cam Unlimited Pro tier introduces "AI Video Search," a feature that uses lar
 ![Impact on existing owners](/img/wyze-cam-v4-cloud-storage-subscription-changes-2026/inline-3.webp)
 
 
-Existing Wyze Cam v4 owners are currently navigating a transition period that requires active management to avoid unexpected charges.
+Existing Wyze [Cam v4](https://quvii.com/learn/wyze-cam-v4-rtsp-support-missing-update) owners are currently navigating a transition period that requires active management to avoid unexpected charges.
 
 ### Handling the Renewal Transition
 Users who were previously on the $50/year 4-camera bundle will find that their plans do not automatically "grandfather" into the $99 Unlimited plan at the old price. Instead, upon the next renewal date after March 2, 2026, Wyze's system defaults to individual camera billing unless the user manually selects the Unlimited plan via the web portal. If left unmanaged, a 4-camera setup could jump to nearly $120/year ($29.99 x 4) instead of the $99 Unlimited rate.

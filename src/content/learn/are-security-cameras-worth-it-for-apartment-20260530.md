@@ -93,7 +93,7 @@ While a camera might not stop a thief, it significantly eases the insurance clai
 ### Non-Destructive Installation Methods
 For 2026, the three primary "no-drill" methods are:
 1.  **Over-the-Door Brackets:** Specifically for doorbells. These steel frames wrap around the door edge and are secured from the inside.
-2.  **Magnetic Bases:** Many cameras (like the <a href="https://www.amazon.com/s?k=Arlo+Essential+series&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Arlo Essential series</a>) now feature industrial-strength magnets that can snap onto metal door frames or refrigerators.
+2.  **Magnetic Bases:** Many cameras (like the <a href="https://www.amazon.com/s?k=Arlo+Essential+series&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">[Arlo Essential](https://quvii.com/blog/arlo-essential-2k-firmware-bricking-update) series</a>) now feature industrial-strength magnets that can snap onto metal door frames or refrigerators.
 3.  **Window Mounts:** Devices like the Panasonic HomeHawk use suction or specialized adhesives to look *through* glass from the inside, avoiding the need to mount anything outside at all.
 
 ## Common misconceptions

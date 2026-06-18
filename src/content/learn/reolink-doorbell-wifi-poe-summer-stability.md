@@ -174,7 +174,7 @@ The PoE model might have a slightly higher initial TCO if you need to purchase P
 ![Common misconceptions](/img/reolink-doorbell-wifi-poe-summer-stability/inline-5.webp)
 
 
-Several misconceptions often arise when discussing Wi-Fi versus PoE doorbell cameras, particularly regarding their performance in challenging conditions like summer heat. Addressing these can help consumers make more informed decisions.
+Several misconceptions often arise when discussing Wi-Fi versus PoE doorbell cameras, particularly regarding their performance in challenging conditions like [summer heat](https://quvii.com/blog/protect-smart-home-cameras-summer-heat). Addressing these can help consumers make more informed decisions.
 
 ### Wi-Fi vs. Wired Stability Nuances
 

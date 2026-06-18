@@ -167,7 +167,7 @@ If you are planning a full-scale installation, the physical infrastructure is ju
 
 *   **NVR Hard Drive Selection:** Why you should never use a "Desktop" HDD for surveillance.
 *   **Cat6 vs. Cat6a:** Is the extra cost of 10Gbps-ready cabling worth it for 4K video?
-*   **VLAN Configuration:** A step-by-step guide to isolating your cameras from your main home network for maximum security.
+*   **VLAN Configuration:** A step-by-step guide to isolating your [cameras from](https://quvii.com/blog/protect-smart-home-cameras-summer-heat) your main home network for maximum security.
 
 ## Sources
 

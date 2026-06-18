@@ -120,7 +120,7 @@ The "more is always better" philosophy doesn't always apply to security cameras.
 
 ### The 'More Pixels = Better' Myth
 
-A common mistake is buying a budget 4K camera and expecting it to outperform a professional 2K camera. If the 4K camera has a tiny sensor and a low-quality lens, the image will be "noisy" and blurry, especially at night. A premium 2K camera with a 1/2.8" sensor will often provide much better usable evidence than a $40 "4K" camera from an unverified brand.
+A common mistake is buying a budget 4K camera and expecting it to outperform a professional [2K camera](https://quvii.com/blog/arlo-essential-2k-firmware-bricking-update). If the 4K camera has a tiny sensor and a low-quality lens, the image will be "noisy" and blurry, especially at night. A premium 2K camera with a 1/2.8" sensor will often provide much better usable evidence than a $40 "4K" camera from an unverified brand.
 
 ### The Mobile Viewing Fallacy
 
