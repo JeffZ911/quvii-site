@@ -41,7 +41,7 @@ Starting around June 10, 2026, user reports on community platforms like r/EufyCa
 
 ### The Firmware 3.8.2.8 Conflict
 
-The HomeBase 3 (S380) began receiving firmware version 3.8.2.8 in early June 2026. While some community threads have attempted to link this update to the login loop, technical verification remains elusive. [Information verifying a causal link between firmware 3.8.2.8 and authentication loops is unavailable as of June 14, 2026]. Historically, Eufy firmware updates for the HomeBase 3 focus on BionicMind AI refinements and expanded support for newer SoloCam models like the S340. However, synchronization errors between local hardware and cloud-based session managers are a known failure point in modern IoT architectures.
+The HomeBase 3 (S380) began receiving firmware version 3.8.2.8 in early June 2026. While some community threads have attempted to link this update to the login loop, technical verification remains elusive. [Information verifying a causal link between [firmware 3](https://quvii.com/blog/reolink-doorbell-poe-firmware-bugs-6460-2168).8.2.8 and authentication loops is unavailable as of June 14, 2026]. Historically, Eufy firmware updates for the HomeBase 3 focus on BionicMind AI refinements and expanded support for newer SoloCam models like the S340. However, synchronization errors between local hardware and cloud-based session managers are a known failure point in modern IoT architectures.
 
 ### App Version 5.x Authentication Bugs
 

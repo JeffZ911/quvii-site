@@ -216,7 +216,7 @@ By combining robust camera systems with smart home integration, physical deterre
 ## Frequently Asked Questions
 
 ### What is the best type of camera for a vacant home?
-The best cameras for a vacant home are typically wireless, battery-powered (ideally with solar charging), offer high-resolution video (2K or 4K), include AI-powered person/vehicle detection, and provide local storage options (microSD or a hub with expandable storage) to avoid subscription fees.
+The best cameras for a vacant home are typically wireless, battery-powered (ideally with [solar charging](https://quvii.com/learn/eufycam-s3-pro-solar-charging-efficiency-tips)), offer high-resolution video (2K or 4K), include AI-powered person/vehicle detection, and provide local storage options (microSD or a hub with expandable storage) to avoid subscription fees.
 
 ### How can I monitor a vacant home without Wi-Fi?
 For vacant homes without reliable Wi-Fi, cellular security cameras (e.g., Reolink Go series) are the most effective solution. These cameras operate on 4G LTE data networks and require a separate data plan, allowing them to transmit video and alerts remotely.

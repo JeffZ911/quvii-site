@@ -120,7 +120,7 @@ If you are currently caught between the two apps, here is your 2026 action plan 
 To move your legacy cameras into the Google Home app, follow this checklist:
 1.  **Update the Google Home App:** Ensure you are on version 3.25 or higher.
 2.  **Join Public Preview:** Go to Settings > Public Preview > Join. (Wait up to 24 hours for approval).
-3.  **Check Compatibility:** Only cameras from 2015 onwards are supported. The original Dropcam (pre-2015) is now officially EOL (End of Life) and cannot be migrated.
+3.  **Check Compatibility:** Only [cameras from](https://quvii.com/blog/protect-smart-home-cameras-summer-heat) 2015 onwards are supported. The original Dropcam (pre-2015) is now officially EOL (End of Life) and cannot be migrated.
 4.  **The Hand-off:** Open the Nest app, select your camera, and look for the "Transfer to Home app" prompt. Do not delete the camera manually unless prompted.
 
 ### Claiming Your Upgrade Discounts

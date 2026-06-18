@@ -47,7 +47,7 @@ In several documented cases on community subreddits, users noted that their Esse
 ### Technical Details of the 'Bricking' Process
 The "bricking" process appears to be tied to the camera's power management during the firmware write-cycle. The Arlo Essential 2K features an integrated battery that cannot be easily swapped. If a firmware update is initiated by the Arlo cloud servers while the camera is at a low power state (typically below 20-30%), and the camera lacks a continuous power source, the update may fail mid-write.
 
-Because Arlo cameras rely on a proprietary partition for their operating system, a failed update can corrupt the bootloader. Without a physical data port for manual flashing—a feature missing from the Essential 2K line—the consumer has no way to "side-load" a working firmware version. This effectively turns a $100 security device into a plastic paperweight. Furthermore, some 2026 reports suggest that updates intended to "optimize" older Essential models for the latest Arlo Secure 5.0 app have inadvertently disabled Wi-Fi handshaking on certain router bands, making the cameras appear bricked to the average user.
+Because Arlo cameras rely on a proprietary partition for their operating system, a failed update can corrupt the bootloader. Without a physical data port for manual flashing—a feature missing from the Essential 2K line—the consumer has no way to "side-load" a working firmware version. This effectively turns a $100 security device into a plastic paperweight. Furthermore, some 2026 reports suggest that updates intended to "optimize" older Essential models for the latest [Arlo Secure](https://quvii.com/blog/arlo-secure-app-6-26-0-firmware-issues) 5.0 app have inadvertently disabled Wi-Fi handshaking on certain router bands, making the cameras appear bricked to the average user.
 
 [Image Specification: Close-up of an Arlo Essential 2K camera with a blinking blue and orange light, indicating a firmware update in progress or a bricked state, installed on a home's exterior. Aspect Ratio 16:9]
 
@@ -77,7 +77,7 @@ Data source: <a href="https://www.amazon.com/s?k=Arlo.com+Subscription+Tiers&tag
 Without a subscription, an Arlo Essential 2K camera effectively becomes a "dumb" doorbell camera that can only show you a live feed. If a package is stolen while you are not looking at your phone, there is no recorded footage to provide to the police unless you have invested in an Arlo SmartHub for local storage—an additional hardware expense in the "$80-100" range.
 
 ### Arlo's End-of-Life Policies and Consumer Trust
-The most significant risk for buyers is Arlo's [End-of-Life (EOL) Policy](https://kb.arlo.com/000063018/Arlo-Legacy-End-of-Life-Policy). In early 2023, Arlo faced significant backlash for announcing the EOL of several popular models, which initially included the removal of free cloud storage. While they walked back some of the more aggressive terms, the policy remains a core part of their operations in 2026.
+The most significant risk for buyers is Arlo's [End-of-Life (EOL) Policy](https://kb.arlo.com/000063018/Arlo-Legacy-End-of-Life-Policy). In early 2023, Arlo faced significant backlash for announcing the EOL of several popular models, which initially included the removal of free [cloud storage](https://quvii.com/blog/wyze-cam-v4-cloud-storage-subscription-changes-2026). While they walked back some of the more aggressive terms, the policy remains a core part of their operations in 2026.
 
 When a camera reaches its EOL date, Arlo may:
 1.  Cease providing firmware updates (leaving the device vulnerable to security exploits).
@@ -105,7 +105,7 @@ The "Arlo Tax" is a significant consideration for budget-conscious buyers who ma
 ![Impact on existing owners](/img/arlo-essential-2k-firmware-bricking-update/inline-3.webp)
 
 
-For those who already own an Arlo Essential 2K, the 2026 firmware issues represent more than just a technical glitch; they represent a potential breach of the security promise.
+For those who already own an Arlo Essential 2K, the 2026 [firmware issues](https://quvii.com/blog/arlo-secure-app-6-26-0-firmware-issues) represent more than just a technical glitch; they represent a potential breach of the security promise.
 
 ### Loss of Functionality and Support
 When a camera is bricked, the home's security perimeter is immediately compromised. Many owners do not realize their camera is offline until an event occurs and they find no footage in their library. For cameras that are "deemed no longer supported," even if they aren't fully bricked, the loss of security patches makes them a liability. In the 2026 threat landscape, unpatched IoT devices are primary targets for botnets and unauthorized access.

@@ -59,7 +59,7 @@ Reolink's official support pages frequently acknowledge general "doorbell perfor
 ![Why it matters for buyers](/img/reolink-doorbell-poe-firmware-bugs-6460-2168/inline-2.webp)
 
 
-When considering a Reolink Doorbell PoE, or any security camera system, buyers often prioritize reliability and consistent performance. Firmware issues directly impact these critical aspects, making an informed purchase decision essential.
+When considering a Reolink Doorbell PoE, or any security camera system, buyers often prioritize reliability and consistent performance. [Firmware issues](https://quvii.com/blog/arlo-secure-app-6-26-0-firmware-issues) directly impact these critical aspects, making an informed purchase decision essential.
 
 ### Impact on Core Security Functions
 

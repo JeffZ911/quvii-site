@@ -117,7 +117,7 @@ By increasing the frequency of charging, the June firmware update is inadvertent
 If your Ring doorbell is experiencing rapid drain following the recent updates, you do not necessarily need to replace the unit. There are several software-based mitigations and hardware workarounds to stabilize your power usage.
 
 ### Step-by-Step: Optimizing Your Settings
-To reclaim your battery life, you must reduce the "active" time of the camera's processor. Follow these steps in the Ring App:
+To reclaim your [battery life](https://quvii.com/learn/blink-outdoor-4-battery-life-extreme-heat), you must reduce the "active" time of the camera's processor. Follow these steps in the Ring App:
 
 1.  **Disable Video Descriptions:** Go to *Device Settings > Smart Alerts*. Toggle off "Video Descriptions." This stops the camera from generating the metadata summaries that keep the SoC active.
 2.  **Adjust Alexa+ Greetings:** If you do not receive many visitors, consider turning off Alexa+ Greetings or setting it to a shorter delay. This reduces the time the camera spends in an active two-way talk state.

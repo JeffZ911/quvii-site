@@ -51,7 +51,7 @@ Beyond the arming bug, the 6.26.0 update introduced significant graphical regres
 | :--- | :--- | :--- | :--- |
 | **Arlo Ultra 2** | 4K HDR | Silent Disarm / Rapid Battery Drain | SmartHub (VMB5000) |
 | **Arlo Pro 5S** | 2K HDR | Geofencing Failure / Offline Status | Dual-Band Wi-Fi |
-| **Arlo Essential (Gen 2)** | 2K | Cropped Feed Thumbnails | Direct Wi-Fi |
+| **[Arlo Essential](https://quvii.com/blog/arlo-essential-2k-firmware-bricking-update) (Gen 2)** | 2K | Cropped Feed Thumbnails | Direct Wi-Fi |
 | **Arlo Video Doorbell** | 2K | 3:00 AM Update Reboot Loop | Direct Wi-Fi |
 | **SmartHub VMB5000** | N/A | Solid Amber Light (Firmware Hang) | Ethernet to Router |
 

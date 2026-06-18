@@ -72,7 +72,7 @@ The necessity for specialized siding mounts isn't just about convenience; it is 
 
 ### The Physics of Thermal Expansion
 
-According to the Vinyl Siding Institute (VSI), a standard 12-foot length of vinyl siding can expand or contract by as much as 1/2 inch depending on the season. If you screw a camera bracket directly through the siding and into the wall, you "pin" the siding in place. When the siding tries to expand in the summer heat, it cannot move past the screw. This results in "oil canning"—a permanent warping or buckling of the panels that is both unsightly and compromises the home's weather barrier.
+According to the Vinyl Siding Institute (VSI), a standard 12-foot length of vinyl siding can expand or contract by as much as 1/2 inch depending on the season. If you screw a camera bracket directly through the siding and into the wall, you "pin" the siding in place. When the siding tries to expand in the [summer heat](https://quvii.com/blog/protect-smart-home-cameras-summer-heat), it cannot move past the screw. This results in "oil canning"—a permanent warping or buckling of the panels that is both unsightly and compromises the home's weather barrier.
 
 ### Moisture Protection and Home Warranty
 

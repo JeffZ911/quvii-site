@@ -137,7 +137,7 @@ Reality: Door misalignment is the #1 cause of smart lock failure. In older summe
 
 *   **If you have a high-end beachfront property:** Prioritize the **Schlage Encode Plus**. Its Grade 1 rating and Thread support make it the most durable and reliable in harsh environments.
 *   **If you manage multiple Airbnbs on a budget:** Prioritize the **Yale Assure Lock 2**. Its native integration with the Airbnb API simplifies code management without requiring third-party middleware.
-*   **If you want a "No-Subscription" security suite:** The **Eufy Video Smart Lock S330** combines a 2K camera with a deadbolt. It stores footage locally, avoiding the monthly fees associated with Ring or Nest.
+*   **If you want a "No-Subscription" security suite:** The **Eufy Video Smart Lock S330** combines a [2K camera](https://quvii.com/blog/arlo-essential-2k-firmware-bricking-update) with a deadbolt. It stores footage locally, avoiding the monthly fees associated with Ring or Nest.
 *   **If you cannot change the exterior hardware (Apartment/Condo):** The **August Wi-Fi Smart Lock (4th Gen)** fits over your existing thumbturn, allowing you to keep the original exterior key.
 
 ## Total Cost of Ownership (3-Year Estimate)

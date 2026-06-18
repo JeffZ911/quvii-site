@@ -44,7 +44,7 @@ Lithium-ion batteries, which power almost every major wireless camera on the mar
 If a charger attempts to force energy into a frozen lithium cell, it causes "lithium plating" on the anode. This creates internal shorts that can lead to battery failure or, in extreme cases, thermal runaway. To prevent this, manufacturers hard-code a "Charging Lockout" into the firmware. Even if your camera is connected to a solar panel or a charging cable, the software will reject the incoming power until the internal battery temperature rises above freezing.
 
 ### 2026 Field Reports: Which Brands Failed First?
-Data from the 2025-2026 winter cycle indicates that "integrated battery" models—where the battery cannot be swapped out—suffered the most. Users of the Arlo Essential 2nd Gen and the Eufy SoloCam series reported that once the battery hit 0%, the cameras remained "bricks" for weeks because they could not generate enough internal heat to allow a recharge from their solar accessories.
+Data from the 2025-2026 winter cycle indicates that "integrated battery" models—where the battery cannot be swapped out—suffered the most. Users of the [Arlo Essential](https://quvii.com/blog/arlo-essential-2k-firmware-bricking-update) 2nd Gen and the Eufy SoloCam series reported that once the battery hit 0%, the cameras remained "bricks" for weeks because they could not generate enough internal heat to allow a recharge from their solar accessories.
 
 | Model | Rated Op. Temp (Low) | Charging Cut-off | 2026 Firmware Protection |
 | :--- | :--- | :--- | :--- |

@@ -36,7 +36,7 @@ For years, 1080p (Full HD) was the gold standard, but as of 2026, 2K and 4K have
 
 ### The Pixel Count Breakdown
 
-A 2K camera, often marketed as 4MP or QHD, produces an image roughly 2560 pixels wide. This provides enough clarity for general monitoring of a room or a small backyard. However, a 4K camera (8MP) jumps to 3840 x 2160 pixels. This is not just a marginal increase; it represents exactly double the vertical and horizontal pixel count of 2K, resulting in four times the total resolution of 1080p. In 2026, this massive pixel density is what allows users to maintain image integrity even when digitally cropping into the frame.
+A [2K camera](https://quvii.com/blog/arlo-essential-2k-firmware-bricking-update), often marketed as 4MP or QHD, produces an image roughly 2560 pixels wide. This provides enough clarity for general monitoring of a room or a small backyard. However, a 4K camera (8MP) jumps to 3840 x 2160 pixels. This is not just a marginal increase; it represents exactly double the vertical and horizontal pixel count of 2K, resulting in four times the total resolution of 1080p. In 2026, this massive pixel density is what allows users to maintain image integrity even when digitally cropping into the frame.
 
 ### Understanding Megapixels (MP) vs. Resolution
 

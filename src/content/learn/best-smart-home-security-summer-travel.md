@@ -141,7 +141,7 @@ Yes. Basic motion and AI-categorized notifications (Person, Vehicle, Pet) are st
 If the camera uses only an internal microSD card, the footage goes with the thief. To prevent this, look for systems that sync to an indoor hub, such as the Eufy HomeBase 3 or a Reolink NVR. These devices stay hidden inside your home and record the footage even if the outdoor camera is destroyed or stolen.
 
 ### Do I need a special microSD card for 4K travel security?
-Yes. For 4K recording, especially in summer heat, you should use "High Endurance" microSD cards rated for UHS Speed Class 3 (U3) and Video Speed Class 30 (V30). These are designed for continuous overwrite cycles and can withstand the higher temperatures found in outdoor camera housings.
+Yes. For 4K recording, especially in [summer heat](https://quvii.com/blog/protect-smart-home-cameras-summer-heat), you should use "High Endurance" microSD cards rated for UHS Speed Class 3 (U3) and Video Speed Class 30 (V30). These are designed for continuous overwrite cycles and can withstand the higher temperatures found in outdoor camera housings.
 
 ### Will the solar panel work if it's cloudy for several days?
 Most 2026 solar cameras are designed to operate for 3 to 6 months on a single charge with average motion triggers. The solar panel acts as a "trickle charger." Even a few hours of overcast light can provide enough energy to offset several days of standard monitoring.

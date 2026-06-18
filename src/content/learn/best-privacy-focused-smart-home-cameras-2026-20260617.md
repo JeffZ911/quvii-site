@@ -54,7 +54,7 @@ End-to-End Encryption (E2EE) is a cryptographic method that secures data so that
 
 ### On-Device AI Processing
 
-Traditional smart cameras often rely on cloud servers to perform advanced analytics like person detection, vehicle identification, or facial recognition. This means your video footage must be uploaded to the cloud for processing, raising privacy concerns. On-device AI processing, also known as edge computing, allows these analytical tasks to be performed directly on the camera's internal processor. By processing video locally, privacy-focused cameras can offer intelligent alerts and features without sending your sensitive footage off-site, significantly enhancing data privacy and often speeding up alert times.
+Traditional smart cameras often rely on cloud servers to perform advanced analytics like person detection, vehicle identification, or [facial recognition](https://quvii.com/blog/ring-facial-recognition-lawsuit-impact-2026). This means your video footage must be uploaded to the cloud for processing, raising privacy concerns. On-device AI processing, also known as edge computing, allows these analytical tasks to be performed directly on the camera's internal processor. By processing video locally, privacy-focused cameras can offer intelligent alerts and features without sending your sensitive footage off-site, significantly enhancing data privacy and often speeding up alert times.
 
 ## Why it exists
 
