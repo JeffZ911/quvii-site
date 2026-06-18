@@ -81,7 +81,7 @@ For a 4-camera household, the shift is even more dramatic. Previously, a user co
 | :--- | :--- | :--- | :--- |
 | **[Wyze Cam v4](https://quvii.com/learn/wyze-cam-v4-rtsp-support-missing-update)** | ~$150 | ~$100 (Unlimited) | ~$650 |
 | **Eufy Cam C120** | ~$160 | $0 (Local AI) | ~$160 |
-| **Ring Stick Up Cam** | ~$240 | ~$100 (Ring Home) | ~$740 |
+| **Ring [Stick Up Cam](https://quvii.com/learn/ring-stick-up-cam-pro-overheating-direct-sun)** | ~$240 | ~$100 (Ring Home) | ~$740 |
 | **Reolink E1 Pro** | ~$200 | $0 (Local AI) | ~$200 |
 
 ### The Hidden Cost of In-App Purchases
@@ -121,7 +121,7 @@ To avoid the mobile platform markups, users should never subscribe through the a
 ### Maximizing the 256GB MicroSD Slot
 The Wyze [Cam v4](https://quvii.com/learn/wyze-cam-v4-rtsp-support-missing-update) officially supports microSD cards up to 256GB. In 2026, this is the most effective way to bypass subscription hikes. By using a high-endurance card, you can record 2.5K footage continuously, providing a safety net if the 14-day cloud clip is insufficient.
 
-**MicroSD Capacity Chart: Wyze Cam v4 (2.5K Resolution)**
+**MicroSD Capacity Chart: [Wyze Cam v4](https://quvii.com/learn/wyze-cam-v4-rtsp-support-missing-update) (2.5K Resolution)**
 
 | Card Size | Continuous Recording (Approx.) | Recommended Card Type |
 | :--- | :--- | :--- |
@@ -150,7 +150,7 @@ Recent updates in firmware 4.52.9.6119 have tightened API restrictions to suppor
 
 ## Sources
 - <a href="https://www.amazon.com/s?k=Wyze+Official%3A+Service+Plans+and+Pricing+2026&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Wyze Official: Service Plans and Pricing 2026</a>
-- <a href="https://www.amazon.com/s?k=FCC+ID+2AUIUWYZEC4%3A+Wyze+Cam+v4+Radio+Frequency+Report&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">FCC ID 2AUIUWYZEC4: Wyze Cam v4 Radio Frequency Report</a>
+- <a href="https://www.amazon.com/s?k=FCC+ID+2AUIUWYZEC4%3A+Wyze+Cam+v4+Radio+Frequency+Report&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">FCC ID 2AUIUWYZEC4: Wyze [Cam v4](https://quvii.com/learn/wyze-cam-v4-rtsp-support-missing-update) Radio Frequency Report</a>
 - RTINGS: Wyze Cam v4 Review & Test Results
 - The Verge: Wyze Overhauls Subscription Tiers Amid Rising Costs
 - <a href="https://www.amazon.com/s?k=Wyze+Support%3A+MicroSD+Card+Compatibility+and+Sizes&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Wyze Support: MicroSD Card Compatibility and Sizes</a>

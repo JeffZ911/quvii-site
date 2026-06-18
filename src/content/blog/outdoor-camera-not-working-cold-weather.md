@@ -48,7 +48,7 @@ Data from the 2025-2026 winter cycle indicates that "integrated battery" models�
 
 | Model | Rated Op. Temp (Low) | Charging Cut-off | 2026 Firmware Protection |
 | :--- | :--- | :--- | :--- |
-| **Ring Stick Up Cam Pro** | -4°F (-20°C) | 32°F (0°C) | "Power Save" mode disables Pre-Roll |
+| **[Ring Stick Up](https://quvii.com/learn/ring-stick-up-cam-pro-overheating-direct-sun) Cam Pro** | -4°F (-20°C) | 32°F (0°C) | "Power Save" mode disables Pre-Roll |
 | **Nest Cam (Battery)** | -4°F (-20°C) | 32°F (0°C) | Throttles AI/Person Detection |
 | **Arlo Pro 5S** | -4°F (-20°C) | 32°F (0°C) | Disables 2K/4K streaming |
 | **Eufy S340 (Dual Cam)** | -4°F (-20°C) | 32°F (0°C) | Limits PTZ (Pan/Tilt) movement |

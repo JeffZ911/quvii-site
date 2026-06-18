@@ -69,7 +69,7 @@ Consider the following operating temperature ranges for popular outdoor security
 | Reolink RLC-811A              | 14°F to 131°F                            | -10°C to 55°C                         | Wired PoE  |                               |
 | Wyze Cam v3 Pro               | -4°F to 113°F                            | -20°C to 45°C                         | Wired      |                               |
 | [Blink Outdoor 4](https://quvii.com/learn/blink-outdoor-4-battery-life-extreme-heat)               | -4°F to 113°F                            | -20°C to 45°C                         | Battery    |                               |
-| Ring Stick Up Cam Battery     | -5°F to 120°F                            | -20.5°C to 48.5°C                     | Battery    |                               |
+| Ring [Stick Up Cam](https://quvii.com/learn/ring-stick-up-cam-pro-overheating-direct-sun) Battery     | -5°F to 120°F                            | -20.5°C to 48.5°C                     | Battery    |                               |
 | Ring Floodlight Cam Wired Pro | -5°F to 120°F                            | -20.5°C to 48.5°C                     | Wired      |                               |
 | Lorex 4K Smart Deterrence     | -22°F to 140°F                           | -30°C to 60°C                         | Wired PoE  |                               |
 
@@ -155,7 +155,7 @@ For sustained protection and when planning future purchases, consider these long
 
 *   **Consider Wired Alternatives:** For future purchases, wired cameras generally offer higher heat tolerances because they don't contain large, heat-sensitive lithium-ion batteries. Power over Ethernet (PoE) cameras are particularly robust, as they receive both power and data through a single cable, often allowing for more durable, sealed designs and better heat dissipation due to the absence of internal batteries.
 *   **Invest in Purpose-Built Outdoor Cameras:** Choose cameras specifically designed for extreme outdoor conditions, even if your local climate isn't consistently severe. These models often feature more robust construction, better internal heat sinks, and wider operating temperature ranges.
-*   **Strategic Installation Planning:** When installing new cameras, always prioritize shaded locations. Observe how sunlight hits different areas of your property throughout the day, especially during summer, and choose mounting spots that offer natural protection from direct sun exposure.
+*   **Strategic Installation Planning:** When installing new cameras, always prioritize shaded locations. Observe how sunlight hits different areas of your property throughout the day, especially during summer, and choose mounting spots that offer natural protection from [direct sun](https://quvii.com/learn/ring-stick-up-cam-pro-overheating-direct-sun) exposure.
 *   **Review Warranty and Support:** Before purchasing, carefully review the manufacturer's warranty policy regarding environmental damage. Understand their support options if a camera fails due to heat.
 
 **Decision Framework for Buyers:**

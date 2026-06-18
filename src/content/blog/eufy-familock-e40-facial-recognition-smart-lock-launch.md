@@ -134,7 +134,7 @@ The FamiLock E40 supports the Matter standard, which allows it to be added to th
 The E40 features a dual-battery system. The main 15,000mAh battery powers the camera and lock, while a smaller 800mAh backup battery ensures the lock remains functional even if the main pack is depleted. Additionally, the lock includes a physical key cylinder hidden behind a flap for traditional manual entry, and a USB-C port is typically provided for emergency power jumps.
 
 ### Can the E40 distinguish between a photo of a person and a real person?
-Yes, the E40 uses 3D structured light or dual-lens depth mapping (depending on the specific sensor revision) to ensure that a 2D photograph cannot trick the facial recognition system. This AI-driven depth perception is designed to require a living, three-dimensional subject to trigger an unlock.
+Yes, the E40 uses 3D structured light or dual-lens depth mapping (depending on the specific sensor revision) to ensure that a 2D photograph cannot trick the [facial recognition](https://quvii.com/blog/ring-facial-recognition-lawsuit-impact-2026) system. This AI-driven depth perception is designed to require a living, three-dimensional subject to trigger an unlock.
 
 ### Is the 2K camera recording all the time?
 No, the E40 is a battery-powered device and uses a 60GHz radar sensor to "wake up" the camera when motion is detected. This preserves [battery life](https://quvii.com/learn/blink-outdoor-4-battery-life-extreme-heat). Users can adjust the detection sensitivity and "activity zones" within the Eufy app to determine exactly when the camera should record and send notifications.

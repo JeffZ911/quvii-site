@@ -97,7 +97,7 @@ The "Sync Error" usually happens during the **Checksum Verification** phase. The
 
 ### Checksum Verification and Flash Writing
 
-Once the S330 verifies the file, it begins writing to its internal eMMC flash memory. This is the most vulnerable moment for the device. In 2026, these updates often include new AI models for BionicMind facial recognition. If the user has "Multi-Bridge" enabled—a feature that allows the camera to use the home’s Wi-Fi mesh as a range extender—the update path becomes more complex. If the camera attempts to pull the update through a third-party router instead of the HomeBase directly, firewall settings or "Airtime Fairness" features on the router can cause the sync to fail.
+Once the S330 verifies the file, it begins writing to its internal eMMC flash memory. This is the most vulnerable moment for the device. In 2026, these updates often include new AI models for BionicMind [facial recognition](https://quvii.com/blog/ring-facial-recognition-lawsuit-impact-2026). If the user has "Multi-Bridge" enabled—a feature that allows the camera to use the home’s Wi-Fi mesh as a range extender—the update path becomes more complex. If the camera attempts to pull the update through a third-party router instead of the HomeBase directly, firewall settings or "Airtime Fairness" features on the router can cause the sync to fail.
 
 ## Real-world implications
 

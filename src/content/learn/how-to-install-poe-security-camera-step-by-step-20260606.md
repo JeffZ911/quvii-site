@@ -183,7 +183,7 @@ If you are ready to move forward with a PoE installation, your next steps should
 The NVR is the most critical component. Look for a unit that supports **ONVIF** (Open Network Video Interface Forum) compliance. This ensures that you can mix and match different camera brands in the future. If you buy a "closed" system, you may be locked into one manufacturer's ecosystem forever. 
 
 ### Advanced Networking for Security
-For those concerned about cybersecurity, consider placing your security cameras on a **VLAN** (Virtual Local Area Network). This isolates the cameras from the rest of your home network, ensuring that even if a camera has a vulnerability, a hacker cannot use it to access your personal computer or NAS.
+For those concerned about cybersecurity, consider placing your security cameras on a **VLAN** (Virtual Local Area Network). This isolates the [cameras from](https://quvii.com/blog/protect-smart-home-cameras-summer-heat) the rest of your home network, ensuring that even if a camera has a vulnerability, a hacker cannot use it to access your personal computer or NAS.
 
 ### Hardwiring Your Smart Home
 Installing PoE cameras is often the "gateway" to a fully hardwired smart home. The same Cat6 cables you run for cameras can be used for Wi-Fi access points and smart home hubs, significantly increasing the overall speed and stability of your household internet.

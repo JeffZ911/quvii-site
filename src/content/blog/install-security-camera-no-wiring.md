@@ -49,7 +49,7 @@ Setting up a wire-free security system in 2026 requires a shift in focus from "w
 | :--- | :--- | :--- | :--- |
 | **EufyCam S340** | [3K (Dual Lens)](https://www.eufy.com/products/t81701w1) | [Solar-Integrated (Infinite)](https://www.eufy.com/products/t81701w1) | Solar / USB-C |
 | **Arlo Pro 5S 2K** | [2K HDR](https://www.arlo.com/en-us/cameras/pro/arlo-pro-5.html) | [Up to 8 Months](https://www.arlo.com/en-us/cameras/pro/arlo-pro-5.html) | Rechargeable Battery |
-| **Ring Stick Up Cam** | [1080p HD](https://ring.com/products/stick-up-security-camera-battery) | [60–90 Days](https://ring.com/products/stick-up-security-camera-battery) | Rechargeable Battery |
+| **[Ring Stick Up](https://quvii.com/learn/ring-stick-up-cam-pro-overheating-direct-sun) Cam** | [1080p HD](https://ring.com/products/stick-up-security-camera-battery) | [60–90 Days](https://ring.com/products/stick-up-security-camera-battery) | Rechargeable Battery |
 | **Aosu SolarCam D1** | 2K QHD | Solar-Integrated | Solar / USB-C |
 
 ### Choosing between Battery and Solar
