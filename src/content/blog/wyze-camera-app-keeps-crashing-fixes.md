@@ -46,7 +46,7 @@ A critical shift occurred in early 2026 when Wyze transitioned its 3.x app suite
 
 ### The 'Device Powered Off' Glitch
 
-One of the most frustrating bugs reported in June 2026 is the "Device Powered Off" crash. Users attempt to click on a camera that appears offline in the app list; instead of showing a connection error, the app closes instantly. This is caused by a synchronization error between the camera's heartbeat signal and the Wyze cloud servers. When the app receives a "null" status for a camera running firmware older than v4.52.9.5332, it fails to render the offline state icon and terminates the process.
+One of the most frustrating bugs reported in June 2026 is the "Device Powered Off" crash. Users attempt to click on a camera that appears offline in the app list; instead of showing a [connection error](https://quvii.com/blog/blink-outdoor-4-sync-module-2-connection-error-fix), the app closes instantly. This is caused by a synchronization error between the camera's heartbeat signal and the Wyze cloud servers. When the app receives a "null" status for a camera running firmware older than v4.52.9.5332, it fails to render the offline state icon and terminates the process.
 
 | Requirement | Minimum Specification (2026) | Legacy Status (Pre-2026) |
 | :--- | :--- | :--- |

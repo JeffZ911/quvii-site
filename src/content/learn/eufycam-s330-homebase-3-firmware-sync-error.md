@@ -27,7 +27,7 @@ inline_image_sections:
   - "Further reading"
 ---
 
-A sync error between a eufyCam S330 and its HomeBase 3 effectively blinds a high-end 4K security system, usually due to a stalled firmware handshake that prevents the camera from communicating with the hub.
+A sync error between a [eufyCam S330](https://quvii.com/blog/eufycam-s330-firmware-3-1-8-2-motion-detection-failure) and its HomeBase 3 effectively blinds a high-end 4K security system, usually due to a stalled firmware handshake that prevents the camera from communicating with the hub.
 
 # How to Resolve eufyCam S330 and HomeBase 3 Firmware Sync Errors
 

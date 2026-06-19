@@ -130,7 +130,7 @@ As solar cameras have gone mainstream, several myths persist regarding their rel
 
 ### The Myth of Maintenance-Free Security
 The most common misconception is that "Solar means infinite power." In reality, a solar camera is still a battery camera that is being "trickle-charged." 
-*   **The 2.2W Reality:** A typical 2.2W integrated panel can support roughly 200–300 seconds of recording per day if it receives 2-3 hours of direct sun.
+*   **The 2.2W Reality:** A typical 2.2W integrated panel can support roughly 200–300 seconds of recording per day if it receives 2-3 hours of [direct sun](https://quvii.com/learn/ring-stick-up-cam-pro-overheating-direct-sun).
 *   **Vampire Drain:** If you mount a solar camera facing a busy sidewalk where it triggers 100 times a day, the battery will drain faster than the sun can replenish it.
 
 ### Is Local Storage Truly 'Off-Grid'?

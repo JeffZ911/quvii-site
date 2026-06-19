@@ -136,7 +136,7 @@ If your S340 or S220 lens has turned milky due to UV exposure, do not accept "ou
 
 - [ ] **Night Vision Mode:** Set to "Black & White" for maximum distance; only use "Color" if you have a bright external porch light.
 - [ ] **IR Intensity:** Set to "High" only if the area is wide open. Set to "Low" if the camera is under an eave to prevent blur.
-- [ ] **Motion Detection:** Enable "All Motion" at night. The "Human Only" AI often fails in low light, leading to missed events or late triggers that look like motion blur.
+- [ ] **[Motion Detection](https://quvii.com/blog/eufycam-s330-firmware-3-1-8-2-motion-detection-failure):** Enable "All Motion" at night. The "Human Only" AI often fails in low light, leading to missed events or late triggers that look like motion blur.
 - [ ] **Recording Duration:** Set to "Custom" (60 seconds) with a 5-second re-trigger interval to ensure the camera doesn't cut off while the IR sensors are still calibrating.
 
 Quvii tracks these hardware and software trade-offs across the security category to help buyers navigate the rapidly changing landscape of 2026.

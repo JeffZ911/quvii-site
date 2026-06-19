@@ -151,6 +151,6 @@ Recent updates in firmware 4.52.9.6119 have tightened API restrictions to suppor
 ## Sources
 - <a href="https://www.amazon.com/s?k=Wyze+Official%3A+Service+Plans+and+Pricing+2026&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Wyze Official: Service Plans and Pricing 2026</a>
 - <a href="https://www.amazon.com/s?k=FCC+ID+2AUIUWYZEC4%3A+Wyze+Cam+v4+Radio+Frequency+Report&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">FCC ID 2AUIUWYZEC4: Wyze [Cam v4](https://quvii.com/learn/wyze-cam-v4-rtsp-support-missing-update) Radio Frequency Report</a>
-- RTINGS: Wyze Cam v4 Review & Test Results
+- RTINGS: [Wyze Cam v4](https://quvii.com/learn/wyze-cam-v4-rtsp-support-missing-update) Review & Test Results
 - The Verge: Wyze Overhauls Subscription Tiers Amid Rising Costs
 - <a href="https://www.amazon.com/s?k=Wyze+Support%3A+MicroSD+Card+Compatibility+and+Sizes&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Wyze Support: MicroSD Card Compatibility and Sizes</a>

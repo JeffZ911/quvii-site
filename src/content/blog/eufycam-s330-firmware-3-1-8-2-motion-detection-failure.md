@@ -86,7 +86,7 @@ Eufy’s privacy commitment, which emphasizes local storage on the HomeBase 3 an
 Owners currently running firmware 3.1.8.2 who have noticed a drop in recorded events are often forced into a cycle of manual maintenance that negates the "wireless" convenience of the system.
 
 ### Common troubleshooting efforts and limitations
-When motion detection fails, the standard advice involves increasing sensitivity to "Level 7" (the maximum) or switching from "Human Only" to "All Motion." While these steps can sometimes force the camera to trigger, they often lead to a flood of false positives from swaying trees or shadows, which quickly depletes the battery—even with solar charging. 
+When motion detection fails, the standard advice involves increasing sensitivity to "Level 7" (the maximum) or switching from "Human Only" to "All Motion." While these steps can sometimes force the camera to trigger, they often lead to a flood of false positives from swaying trees or shadows, which quickly depletes the battery—even with [solar charging](https://quvii.com/learn/eufycam-s3-pro-solar-charging-efficiency-tips). 
 
 Existing owners have reported that refining "Activity Zones" is another common fix. However, if the firmware itself is causing a delay in the PIR sensor's wake-up time, adjusting the zones on the screen will not solve the underlying hardware-software latency.
 

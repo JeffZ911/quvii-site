@@ -31,7 +31,7 @@ Choosing a security camera often feels like a choice between a convenient "walle
 
 # RTSP vs. ONVIF: The Key to Subscription-Free Security Cameras
 
-**Quick Answer:** RTSP is the "pipe" that carries video data, while ONVIF is the "handshake" that lets different brands work together. Use them to connect cameras from Reolink or Amcrest to local NVRs like Blue Iris without monthly fees.
+**Quick Answer:** RTSP is the "pipe" that carries video data, while ONVIF is the "handshake" that lets different brands work together. Use them to connect [cameras from](https://quvii.com/blog/protect-smart-home-cameras-summer-heat) Reolink or Amcrest to local NVRs like Blue Iris without monthly fees.
 
 ## What it means
 

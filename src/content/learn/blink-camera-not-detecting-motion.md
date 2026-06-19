@@ -26,7 +26,7 @@ When a Blink camera fails to detect motion, the issue typically falls into one o
 A "False Negative" occurs when the camera is armed and the subject is clearly within the field of view, yet no alert is generated. This is distinct from a "Delayed Notification," where the camera records the event but the user doesn't receive the push alert for several minutes due to server latency or poor Wi-Fi signal.
 
 ### The Difference Between Detection and Recording
-Detection is a hardware-level event. On an [Outdoor 4](https://quvii.com/learn/blink-outdoor-4-battery-life-extreme-heat), the Passive Infrared (PIR) sensor must detect a heat signature change. Recording is a software and network event. If the PIR sensor triggers but the camera cannot hand off the data to the Sync Module 2 or the Blink Cloud, the event is lost. In the Blink app, you can often check the "Camera Usage" or "Event Log" to see if a motion event was "Ignored" due to Activity Zone settings—this confirms the sensor is working, but the software is filtering the result.
+Detection is a hardware-level event. On an [Outdoor 4](https://quvii.com/learn/blink-outdoor-4-battery-life-extreme-heat), the Passive Infrared (PIR) sensor must detect a heat signature change. Recording is a software and network event. If the PIR sensor triggers but the camera cannot hand off the data to the [Sync Module](https://quvii.com/blog/blink-outdoor-4-sync-module-2-connection-error-fix) 2 or the Blink Cloud, the event is lost. In the Blink app, you can often check the "Camera Usage" or "Event Log" to see if a motion event was "Ignored" due to Activity Zone settings—this confirms the sensor is working, but the software is filtering the result.
 
 ### Signs Your Blink Sensor is Failing
 Hardware degradation is rare but possible. If a camera that previously worked perfectly now ignores all movement regardless of settings, the PIR sensor may have physically failed. Signs include:
@@ -37,7 +37,7 @@ Hardware degradation is rare but possible. If a camera that previously worked pe
 | Issue Type | Symptom | Primary Cause |
 | :--- | :--- | :--- |
 | **No Motion Detected** | No log entry, no clip, no LED flash | PIR Sensitivity too low or PIR physics (head-on movement) |
-| **No Clip Recorded** | Log shows "Motion," but no video exists | Sync Module 2 offline or USB storage full/corrupted |
+| **No Clip Recorded** | Log shows "Motion," but no video exists | Sync [Module 2](https://quvii.com/blog/blink-outdoor-4-sync-module-2-connection-error-fix) offline or USB storage full/corrupted |
 | **Delayed Notification** | Clip exists but alert arrives 2+ minutes late | High 2.4GHz Wi-Fi interference or "Retrigger Time" lockout |
 | **Missing Subject** | Clip starts after the person has left | "Wake-up" latency or slow Wi-Fi handshake |
 

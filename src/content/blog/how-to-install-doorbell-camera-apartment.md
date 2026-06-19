@@ -76,7 +76,7 @@ In a 50-unit apartment building, the 2.4GHz spectrum is often unusable due to si
 | **Ring Battery Doorbell Pro** | 1536p | 2.4 / 5.0 GHz | 4–6 Months | Cloud (Subscription) |
 | **Eufy [Video Doorbell](https://quvii.com/learn/renter-friendly-wireless-video-doorbell-options-20260613) E340** | 2K (Dual Cam) | 2.4 / 5.0 GHz | 3–6 Months | Local (HomeBase 3) |
 | **Reolink Battery Doorbell** | 2K | 2.4 / 5.0 GHz | 2–5 Months | Local (SD / Hub) |
-| **Blink [Video Doorbell](https://quvii.com/learn/renter-friendly-wireless-video-doorbell-options-20260613)** | 1080p | 2.4 GHz | Up to 2 Years | Local (Sync Module 2) |
+| **Blink [Video Doorbell](https://quvii.com/learn/renter-friendly-wireless-video-doorbell-options-20260613)** | 1080p | 2.4 GHz | Up to 2 Years | Local ([Sync Module 2](https://quvii.com/blog/blink-outdoor-4-sync-module-2-connection-error-fix)) |
 
 ## Impact on existing owners
 
