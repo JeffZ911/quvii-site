@@ -69,7 +69,7 @@ While blue signals "process" or "success," other colors indicate errors or syste
 ![Why it exists](/img/arlo-essential-indoor-camera-blinking-blue-loop/inline-2.webp)
 
 
-In an era of "headless" IoT devices—gadgets without screens—the LED is the only interface between the camera's internal logic and the user. The Arlo Essential Indoor Camera relies on this light to provide a low-latency feedback loop during critical operations.
+In an era of "headless" IoT devices—gadgets without screens—the LED is the only interface between the camera's internal logic and the user. The [Arlo Essential](https://quvii.com/blog/arlo-essential-2k-firmware-bricking-update) Indoor Camera relies on this light to provide a low-latency feedback loop during critical operations.
 
 ### Communicating Status
 

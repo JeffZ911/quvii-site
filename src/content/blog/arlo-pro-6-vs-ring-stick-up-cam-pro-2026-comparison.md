@@ -117,7 +117,7 @@ Buy the Arlo Pro 6 if you have a wide driveway, a large front yard, or high-cont
 *   **Recommendation:** Prioritize this if you are comfortable with a higher monthly "security tax" in exchange for better raw evidence.
 
 ### The 'Value Ecosystem' Choice: Ring Stick Up Cam Pro
-Opt for the [Ring Stick Up](https://quvii.com/learn/ring-stick-up-cam-pro-overheating-direct-sun) Cam Pro if you already own a Ring Doorbell or use Alexa-enabled displays like the Echo Show. The $10/mo "Multi" plan is the most competitive pricing in the mainstream market for multi-camera homes. The 3D Motion Detection is a game-changer for those who live on busy streets and are tired of [false motion alerts](https://quvii.com/learn/nest-cam-battery-false-motion-alerts-shadows-fixes).
+Opt for the [Ring Stick Up](https://quvii.com/learn/ring-stick-up-cam-pro-overheating-direct-sun) Cam Pro if you already own a Ring Doorbell or use Alexa-enabled displays like the Echo Show. The $10/mo "Multi" plan is the most competitive pricing in the mainstream market for multi-camera homes. The 3D [Motion Detection](https://quvii.com/blog/eufycam-s330-firmware-3-1-8-2-motion-detection-failure) is a game-changer for those who live on busy streets and are tired of [false motion alerts](https://quvii.com/learn/nest-cam-battery-false-motion-alerts-shadows-fixes).
 *   **Recommendation:** Prioritize this if you want a "set it and forget it" system with the best motion accuracy and lowest long-term cost.
 
 ### The 'Subscription-Frustrated' Alternative

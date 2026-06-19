@@ -100,7 +100,7 @@ Most Ring devices are optimized for 2.4GHz because it has longer waves that pene
 By default, routers "lease" IP addresses to devices for a set period. When the lease expires, the router assigns a new IP. Sometimes, the Ring-to-Amazon cloud tunnel fails to update this change instantly, causing the camera to hang. Setting a **DHCP Reservation** (Static IP) in your router settings ensures the Ring camera always has the same address, stabilizing the cloud handshake.
 
 ### WPA2 vs. WPA3 Handshake Failures
-As routers move toward WPA3 security standards in 2026, older hardware like the Ring Stick Up Cam (3rd Gen) may struggle. Some routers use a "Transition Mode" that attempts to support both WPA2 and WPA3, but this often causes legacy Wi-Fi chips to drop the connection during the security handshake. Forcing the IoT band to WPA2-AES often resolves persistent drops on older Ring units.
+As routers move toward WPA3 security standards in 2026, older hardware like the [Ring Stick Up](https://quvii.com/learn/ring-stick-up-cam-pro-overheating-direct-sun) Cam (3rd Gen) may struggle. Some routers use a "Transition Mode" that attempts to support both WPA2 and WPA3, but this often causes legacy Wi-Fi chips to drop the connection during the security handshake. Forcing the IoT band to WPA2-AES often resolves persistent drops on older Ring units.
 
 ## Real-world implications
 
@@ -168,7 +168,7 @@ Ring's Total Cost of Ownership (TCO) includes more than the hardware. Over three
 In contrast, brands like **Reolink** or **Eufy** offer local storage options (NVR or SD card) that function even if the internet goes down. While they may require more setup, they eliminate the monthly "feature paywall" and provide 100% uptime for recording.
 
 ### Hardwiring for Permanent Stability
-The ultimate fix for Ring disconnection is moving away from Wi-Fi entirely. The **Ring Video Doorbell Elite** and certain **Stick Up Cam Elite** models support **PoE (Power over Ethernet)**. This allows a single Cat6 cable to provide both power and a hardwired data connection, bypassing Wi-Fi interference and transformer issues entirely. For users in the middle of a renovation, running Ethernet to camera locations is the single best investment for long-term security stability.
+The ultimate fix for Ring disconnection is moving away from Wi-Fi entirely. The **Ring Video Doorbell Elite** and certain **[Stick Up Cam](https://quvii.com/learn/ring-stick-up-cam-pro-overheating-direct-sun) Elite** models support **PoE (Power over Ethernet)**. This allows a single Cat6 cable to provide both power and a hardwired data connection, bypassing Wi-Fi interference and transformer issues entirely. For users in the middle of a renovation, running Ethernet to camera locations is the single best investment for long-term security stability.
 
 ### Hard Resets and VLANs
 If a camera remains "Offline" despite perfect RSSI and power, a hard reset is required. This is usually done by holding the setup button for 20 full seconds. For advanced users, placing Ring cameras on a dedicated **IoT VLAN** (Virtual Local Area Network) can prevent the [cameras from](https://quvii.com/blog/protect-smart-home-cameras-summer-heat) competing with high-bandwidth activities like 4K streaming or gaming on the main network, ensuring they always have the "room" to communicate with the cloud.

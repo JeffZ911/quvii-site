@@ -55,7 +55,7 @@ Physical indicators on the hardware provide a secondary diagnostic layer. Unders
 
 | Device | LED Behavior | Meaning |
 | :--- | :--- | :--- |
-| **eufyCam S330** | Flashing Blue & Red | The camera is in "Sync Mode" or actively writing firmware to flash memory. |
+| **[eufyCam S330](https://quvii.com/blog/eufycam-s330-firmware-3-1-8-2-motion-detection-failure)** | Flashing Blue & Red | The camera is in "Sync Mode" or actively writing firmware to flash memory. |
 | **eufyCam S330** | Solid Red | The camera has failed the handshake or the battery is too low to initiate an update. |
 | **HomeBase 3** | Solid Red | The HomeBase is disconnected from the internet or experiencing a local system error. |
 | **HomeBase 3** | Flashing Blue | The HomeBase is actively pushing an update to a child device (camera). |

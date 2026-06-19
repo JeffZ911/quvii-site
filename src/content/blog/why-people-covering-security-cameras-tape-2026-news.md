@@ -124,7 +124,7 @@ A camera is a gateway to your network.
 - [ ] Multi-factor authentication (MFA/2FA) enabled.
 - [ ] Cameras assigned to a dedicated VLAN or Guest Network.
 - [ ] UPnP and "Remote Web Management" disabled in router settings.
-- [ ] Motion alerts configured for "Tamper/Obstruction" (if supported).
+- [ ] [Motion alerts](https://quvii.com/learn/nest-cam-battery-false-motion-alerts-shadows-fixes) configured for "Tamper/Obstruction" (if supported).
 
 ### Knowing Your Rights Regarding Surveillance Footage
 If law enforcement attempts to cover your cameras, it is important to remain calm. While you may not be able to physically stop them during an active operation without risking arrest, you should document the incident. In many states, the destruction or obstruction of private property by government agents without a specific warrant is grounds for legal action or the suppression of evidence. Consult with a legal professional regarding the "Right to Record" laws in your specific municipality.

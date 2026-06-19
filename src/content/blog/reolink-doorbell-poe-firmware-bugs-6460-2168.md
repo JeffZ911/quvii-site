@@ -92,7 +92,7 @@ Existing owners of the Reolink Doorbell PoE are directly affected by firmware is
 
 ### Immediate Functional Failures
 
-Owners of Reolink Doorbell PoE (V1 hardware) who updated to firmware v3.0.0.6460_2605211898 are likely experiencing a non-functional wireless chime. This immediate functional failure means they must rely on alternative notification methods, such as the Reolink app on their smartphone or an NVR alert, or undertake a firmware rollback to restore chime functionality. Such issues disrupt daily life and compromise the convenience a smart doorbell is meant to provide.
+Owners of Reolink Doorbell PoE (V1 hardware) who updated to firmware v3.0.0.6460_2605211898 are likely experiencing a non-functional wireless chime. This immediate functional failure means they must rely on alternative notification methods, such as the [Reolink app](https://quvii.com/blog/reolink-app-crashing-ios-18-fixes) on their smartphone or an NVR alert, or undertake a firmware rollback to restore chime functionality. Such issues disrupt daily life and compromise the convenience a smart doorbell is meant to provide.
 
 Depending on the specific firmware version and hardware model, existing owners might also encounter intermittent or complete failure of push notifications to the Reolink app or connected NVRs. This can lead to missed package deliveries, unawareness of visitors, or, more critically, a failure to detect and respond to potential security incidents. Some users have also reported their PoE doorbell becoming unresponsive and requiring frequent reboots, suggesting underlying stability issues that could be firmware or hardware related.
 

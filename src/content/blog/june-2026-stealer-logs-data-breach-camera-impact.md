@@ -124,7 +124,7 @@ Being vigilant for signs of a compromised camera is crucial. While not exhaustiv
 
 *   **Unusual Camera Movement:** Pan-and-tilt cameras moving without your input.
 *   **Unexpected Blinking LED Lights:** Activity lights indicating recording or transmission when you haven't initiated it.
-*   **Altered Settings:** Changes to motion detection zones, recording schedules, or notification preferences that you did not make.
+*   **Altered Settings:** Changes to [motion detection](https://quvii.com/blog/eufycam-s330-firmware-3-1-8-2-motion-detection-failure) zones, recording schedules, or notification preferences that you did not make.
 *   **Unexplained Spikes in Network Data Usage:** Your camera transmitting significantly more data than usual, which could indicate unauthorized streaming or data exfiltration.
 *   **Unfamiliar Login Attempts/Notifications:** Alerts from your camera app about login attempts from unrecognized devices or locations.
 *   **Missing or Deleted Footage:** Gaps in your recorded video history that cannot be accounted for.
