@@ -67,7 +67,7 @@ The 2026 market has seen a sharp divide between cameras that offer "Privacy by D
 
 | Brand | Local Storage Option | Encryption Standard | Physical Shutter Available? |
 | :--- | :--- | :--- | :--- |
-| **Arlo** | Yes (via Base Station) | AES-128 / E2EE | Yes (Essential Indoor) |
+| **Arlo** | Yes (via Base Station) | AES-128 / E2EE | Yes ([Essential Indoor](https://quvii.com/learn/arlo-essential-indoor-camera-blinking-blue-loop)) |
 | **Eufy** | Yes (HomeBase 3) | AES-128 / E2EE | Yes (Indoor Cam S350) |
 | **Ring** | No (Cloud-primary) | AES-128 / E2EE | No (Software-only) |
 | **TP-Link Tapo** | Yes (microSD) | AES-128 | No (Software-only) |

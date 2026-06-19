@@ -129,7 +129,7 @@ The requirement to email support@reolink.com creates a 24-48 hour turnaround. Fo
 If you own an [Argus 4 Pro](https://quvii.com/blog/reolink-argus-4-pro-new-release-features-20260613) and suspect you are running outdated or buggy firmware, follow these steps to stabilize your system.
 
 ### 1. Verify Your Hardware and Version
-Navigate to **Device Settings > Device Info** in the Reolink App. Take a screenshot of this page. You need the following three pieces of data:
+Navigate to **Device Settings > Device Info** in the [Reolink App](https://quvii.com/blog/reolink-app-crashing-ios-18-fixes). Take a screenshot of this page. You need the following three pieces of data:
 *   **Model:** [Argus 4](https://quvii.com/blog/reolink-argus-4-pro-new-release-features-20260613) Pro
 *   **Hardware No.:** (e.g., IPC_566...) [Information unavailable for specific 2026 revisions]
 *   **Firmware Version:** (e.g., v3.0.0.4978)

@@ -31,7 +31,7 @@ A flashing light on a security camera is designed to be a helpful status indicat
 
 # Arlo Essential Indoor Camera LED Blinking Blue Loop
 
-For an Arlo Essential Indoor Camera, a blinking blue LED typically indicates it's attempting to connect to Wi-Fi (slow blink) or has successfully connected (fast blink). A persistent 'blinking blue loop' often points to a failed connection during setup, a network issue, or a stuck firmware update, requiring troubleshooting steps like checking Wi-Fi, rebooting, or factory resetting the camera.
+For an [Arlo Essential](https://quvii.com/blog/arlo-essential-2k-firmware-bricking-update) Indoor Camera, a blinking blue LED typically indicates it's attempting to connect to Wi-Fi (slow blink) or has successfully connected (fast blink). A persistent 'blinking blue loop' often points to a failed connection during setup, a network issue, or a stuck firmware update, requiring troubleshooting steps like checking Wi-Fi, rebooting, or factory resetting the camera.
 
 ## What it means
 
@@ -61,7 +61,7 @@ While blue signals "process" or "success," other colors indicate errors or syste
 | **Fast Blinking Blue** | Successfully connected / Pairing complete | None (Wait for app confirmation) |
 | **Solid Blue** | Camera is powered and connected | Normal operation |
 | **Alternating Blue/Amber** | Firmware update in progress | **DO NOT** unplug the camera |
-| **Blinking Amber** | Connection error / Out of range | Check router distance / Wi-Fi password |
+| **Blinking Amber** | [Connection error](https://quvii.com/blog/blink-outdoor-4-sync-module-2-connection-error-fix) / Out of range | Check router distance / Wi-Fi password |
 | **Solid Amber** | No internet connection | Check ISP / Reboot router |
 
 ## Why it exists

@@ -49,7 +49,7 @@ The "bricking" process appears to be tied to the camera's power management durin
 
 Because Arlo cameras rely on a proprietary partition for their operating system, a failed update can corrupt the bootloader. Without a physical data port for manual flashing—a feature missing from the Essential 2K line—the consumer has no way to "side-load" a working firmware version. This effectively turns a $100 security device into a plastic paperweight. Furthermore, some 2026 reports suggest that updates intended to "optimize" older Essential models for the latest [Arlo Secure](https://quvii.com/blog/arlo-secure-app-6-26-0-firmware-issues) 5.0 app have inadvertently disabled Wi-Fi handshaking on certain router bands, making the cameras appear bricked to the average user.
 
-[Image Specification: Close-up of an Arlo Essential 2K camera with a blinking blue and orange light, indicating a firmware update in progress or a bricked state, installed on a home's exterior. Aspect Ratio 16:9]
+[Image Specification: Close-up of an Arlo Essential 2K camera with a [blinking blue](https://quvii.com/learn/arlo-essential-indoor-camera-blinking-blue-loop) and orange light, indicating a firmware update in progress or a bricked state, installed on a home's exterior. Aspect Ratio 16:9]
 
 ## Why it matters for buyers
 
@@ -66,7 +66,7 @@ As of 2026, Arlo has moved almost all "intelligence" features behind a paywall. 
 | Feature | Without Arlo Secure (Free) | With Arlo Secure (Paid) |
 | :--- | :--- | :--- |
 | **Video Resolution** | Live View Only (2K) | Cloud Recording (2K/4K) |
-| **Motion Alerts** | Basic (All Motion) | Smart (Person, Pet, Vehicle) |
+| **[Motion Alerts](https://quvii.com/learn/nest-cam-battery-false-motion-alerts-shadows-fixes)** | Basic (All Motion) | Smart (Person, Pet, Vehicle) |
 | **Storage** | None (No Cloud History) | 30-Day Cloud History |
 | **Activity Zones** | Not Available | Custom Cloud Zones |
 | **Emergency Response** | Not Available | One-Tap Fire/Police/Medical |

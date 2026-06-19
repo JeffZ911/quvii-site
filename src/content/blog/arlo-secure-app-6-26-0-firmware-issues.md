@@ -130,7 +130,7 @@ Because of the "Silent Disarm" bug, the shield icon on your dashboard may be mis
 
 **Troubleshooting Flowchart: Resolving 'Device Offline'**
 
-1.  **Is the SmartHub LED blinking Amber?**
+1.  **Is the SmartHub [LED blinking](https://quvii.com/learn/arlo-essential-indoor-camera-blinking-blue-loop) Amber?**
     *   *Yes:* Check your Ethernet connection or ISP.
     *   *No:* Proceed to step 2.
 2.  **Is the camera battery above 15%?**

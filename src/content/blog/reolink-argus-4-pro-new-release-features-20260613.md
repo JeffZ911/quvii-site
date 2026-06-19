@@ -125,7 +125,7 @@ One concern for existing owners was the battery capacity. The Argus 4 Pro uses a
 
 ### Compatibility with Existing Reolink Systems
 
-The Argus 4 Pro remains fully compatible with the existing Reolink App (iOS, Android, Windows, Mac). It also works with the **Reolink Home Hub**, a central storage and management device released in early 2024. The Home Hub allows Argus 4 Pro owners to offload footage to a centralized local drive, providing a NVR-like experience for battery-powered cameras. It also maintains compatibility with Reolink's 6W solar panels, which are highly recommended for this 4K model to ensure it remains topped off during high-traffic periods.
+The Argus 4 Pro remains fully compatible with the existing [Reolink App](https://quvii.com/blog/reolink-app-crashing-ios-18-fixes) (iOS, Android, Windows, Mac). It also works with the **Reolink Home Hub**, a central storage and management device released in early 2024. The Home Hub allows Argus 4 Pro owners to offload footage to a centralized local drive, providing a NVR-like experience for battery-powered cameras. It also maintains compatibility with Reolink's 6W solar panels, which are highly recommended for this 4K model to ensure it remains topped off during high-traffic periods.
 
 ## What to do now
 

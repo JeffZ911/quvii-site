@@ -44,13 +44,13 @@ However, the most controversial shift occurred in Q1 2026, when both brands offi
 With Ring's adoption of Retinal 2K, the decision between these two brands no longer rests solely on resolution. Both cameras now provide sufficient detail to identify license plates at approximately 15–20 feet and facial features in well-lit conditions. Arlo, however, maintains a slight edge in image processing. The Arlo Pro 6 utilizes a high-dynamic-range (HDR) sensor that handles backlighting—such as a sunset behind a person—more effectively than the [Ring Stick](https://quvii.com/learn/ring-stick-up-cam-pro-overheating-direct-sun) [Up Cam Pro](https://quvii.com/learn/ring-stick-up-cam-pro-overheating-direct-sun), which can occasionally blow out highlights in high-contrast environments.
 
 ### The Death of the Free Tier
-In 2026, the "out of the box" experience for both cameras is significantly more limited than in previous years. Without a monthly fee, both the Arlo Pro 6 and Ring [Stick Up](https://quvii.com/learn/ring-stick-up-cam-pro-overheating-direct-sun) Cam Pro are relegated to basic motion alerts and live-viewing. Features that were previously considered standard, such as "Activity Zones" (which prevent a swaying tree from triggering an alert), are now locked behind [Arlo Secure](https://quvii.com/blog/arlo-secure-app-6-26-0-firmware-issues) and Ring Home subscriptions. This shift has pushed many users toward local-storage alternatives, though Arlo continues to offer a local-save option via the <a href="https://www.amazon.com/s?k=Arlo+SmartHub+VMB5000&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Arlo SmartHub VMB5000</a>, provided the user buys the hub separately.
+In 2026, the "out of the box" experience for both cameras is significantly more limited than in previous years. Without a monthly fee, both the Arlo Pro 6 and Ring [Stick Up](https://quvii.com/learn/ring-stick-up-cam-pro-overheating-direct-sun) Cam Pro are relegated to basic [motion alerts](https://quvii.com/learn/nest-cam-battery-false-motion-alerts-shadows-fixes) and live-viewing. Features that were previously considered standard, such as "Activity Zones" (which prevent a swaying tree from triggering an alert), are now locked behind [Arlo Secure](https://quvii.com/blog/arlo-secure-app-6-26-0-firmware-issues) and Ring Home subscriptions. This shift has pushed many users toward local-storage alternatives, though Arlo continues to offer a local-save option via the <a href="https://www.amazon.com/s?k=Arlo+SmartHub+VMB5000&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Arlo SmartHub VMB5000</a>, provided the user buys the hub separately.
 
 | Feature | Arlo Pro 6 | [Ring Stick](https://quvii.com/learn/ring-stick-up-cam-pro-overheating-direct-sun) [Up Cam](https://quvii.com/learn/ring-stick-up-cam-pro-overheating-direct-sun) Pro |
 | :--- | :--- | :--- |
 | **Resolution** | 2K with HDR | Retinal 2K |
 | **Field of View (FOV)** | 160° Diagonal | 140° Diagonal |
-| **Motion Detection** | Pixel-based AI | 3D Motion Detection (Radar) |
+| **[Motion Detection](https://quvii.com/blog/eufycam-s330-firmware-3-1-8-2-motion-detection-failure)** | Pixel-based AI | 3D Motion Detection (Radar) |
 | **[Battery Life](https://quvii.com/learn/blink-outdoor-4-battery-life-extreme-heat)** | Up to 8 Months | Up to 6 Months |
 | **Charging Port** | USB-C | USB-C |
 | **[Smart Home](https://quvii.com/blog/smart-home-security-privacy-trends-2026)** | HomeKit, Alexa, Google | Alexa (Native), Google (Limited) |
@@ -117,7 +117,7 @@ Buy the Arlo Pro 6 if you have a wide driveway, a large front yard, or high-cont
 *   **Recommendation:** Prioritize this if you are comfortable with a higher monthly "security tax" in exchange for better raw evidence.
 
 ### The 'Value Ecosystem' Choice: Ring Stick Up Cam Pro
-Opt for the [Ring Stick Up](https://quvii.com/learn/ring-stick-up-cam-pro-overheating-direct-sun) Cam Pro if you already own a Ring Doorbell or use Alexa-enabled displays like the Echo Show. The $10/mo "Multi" plan is the most competitive pricing in the mainstream market for multi-camera homes. The 3D Motion Detection is a game-changer for those who live on busy streets and are tired of false motion alerts.
+Opt for the [Ring Stick Up](https://quvii.com/learn/ring-stick-up-cam-pro-overheating-direct-sun) Cam Pro if you already own a Ring Doorbell or use Alexa-enabled displays like the Echo Show. The $10/mo "Multi" plan is the most competitive pricing in the mainstream market for multi-camera homes. The 3D Motion Detection is a game-changer for those who live on busy streets and are tired of [false motion alerts](https://quvii.com/learn/nest-cam-battery-false-motion-alerts-shadows-fixes).
 *   **Recommendation:** Prioritize this if you want a "set it and forget it" system with the best motion accuracy and lowest long-term cost.
 
 ### The 'Subscription-Frustrated' Alternative

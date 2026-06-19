@@ -127,7 +127,7 @@ When shopping for new hardware, prioritize the US Cyber Trust Mark. This logo is
 For the highest level of privacy, transition from standalone Wi-Fi cameras to a Power-over-Ethernet (PoE) NVR system from brands like <a href="https://www.amazon.com/s?k=Reolink&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Reolink</a> or Ubiquiti UniFi. These systems keep all data on a physical hard drive inside your home. In 2026, these systems have become as "plug-and-play" as Wi-Fi cameras, often requiring only a single cable for both power and data.
 
 ### Enable Physical Privacy
-Finally, look for hardware that offers physical privacy. Many 2026 indoor camera models now include motorized physical shutters that block the lens when you are home (based on your phone's GPS). This provides a visual confirmation of privacy that software-based "privacy zones" cannot match.
+Finally, look for hardware that offers physical privacy. Many 2026 [indoor camera](https://quvii.com/learn/arlo-essential-indoor-camera-blinking-blue-loop) models now include motorized physical shutters that block the lens when you are home (based on your phone's GPS). This provides a visual confirmation of privacy that software-based "privacy zones" cannot match.
 
 **Decision Framework: Which System is Right for You?**
 

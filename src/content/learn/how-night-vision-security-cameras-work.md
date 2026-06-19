@@ -92,7 +92,7 @@ Most security cameras use 850nm infrared LEDs, which produce a faint, visible re
 While the technology is impressive, real-world environmental factors can significantly impact how well a night vision camera performs.
 
 ### The "Spiderweb" Problem
-IR light is highly reflective. Small particles like dust, raindrops, or [spiderwebs](https://reolink.com/blog/how-to-keep-spiders-away-from-security-cameras/) that are invisible during the day become brilliantly lit "white streaks" at night. This often triggers false motion alerts. High-quality systems use AI to distinguish between a "moving spider" and a "moving human," but placement remains key to avoiding these reflections.
+IR light is highly reflective. Small particles like dust, raindrops, or [spiderwebs](https://reolink.com/blog/how-to-keep-spiders-away-from-security-cameras/) that are invisible during the day become brilliantly lit "white streaks" at night. This often triggers [false motion alerts](https://quvii.com/learn/nest-cam-battery-false-motion-alerts-shadows-fixes). High-quality systems use AI to distinguish between a "moving spider" and a "moving human," but placement remains key to avoiding these reflections.
 
 ### Placement Matters: Avoiding Glass Reflection
 A common mistake is placing an IR camera behind a window. The [infrared light will bounce off the glass](https://reolink.com/blog/security-camera-night-vision-not-working/) and reflect directly back into the lens, blinding the camera. To see through glass at night, the internal IR LEDs must be disabled, and external lighting (like a porch light or an external IR illuminator) must be used.

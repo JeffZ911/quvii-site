@@ -31,7 +31,7 @@ A sync error between a [eufyCam S330](https://quvii.com/blog/eufycam-s330-firmwa
 
 # How to Resolve eufyCam S330 and HomeBase 3 Firmware Sync Errors
 
-**Quick Answer:** A eufyCam S330 sync error usually signals a failed firmware handshake with HomeBase 3. Fix it by power-cycling the HomeBase to force a version check or moving the camera within 10 feet of the hub to complete the update.
+**Quick Answer:** A [eufyCam S330](https://quvii.com/blog/eufycam-s330-firmware-3-1-8-2-motion-detection-failure) sync error usually signals a failed firmware handshake with HomeBase 3. Fix it by power-cycling the HomeBase to force a version check or moving the camera within 10 feet of the hub to complete the update.
 
 ## What it means
 

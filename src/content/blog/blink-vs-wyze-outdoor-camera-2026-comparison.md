@@ -53,7 +53,7 @@ Wyze, meanwhile, broke the 4K barrier for budget cameras with the **Wyze [Cam Pa
 | **Max Resolution** | 2K (2560 x 1440) | 2.5K (2560 x 1440) |
 | **Power Source** | 2 AA Lithium (Non-rechargeable) | Removable Rechargeable Pack |
 | **[Battery Life](https://quvii.com/learn/blink-outdoor-4-battery-life-extreme-heat)** | Up to 2 Years | 4–6 Months |
-| **Local Storage** | MicroSD (via Sync Module XR) | MicroSD (On-camera) |
+| **Local Storage** | MicroSD (via [Sync Module](https://quvii.com/blog/blink-outdoor-4-sync-module-2-connection-error-fix) XR) | MicroSD (On-camera) |
 | **[Night Vision](https://quvii.com/learn/wyze-cam-v4-night-vision-flickering-fix)** | IR (B&W) + Color (with light) | Starlight Color Night Vision |
 | **Field of View** | 135° Diagonal | 116° Diagonal |
 | **Wi-Fi** | 2.4 GHz | Dual-Band (2.4 / 5 GHz) |
