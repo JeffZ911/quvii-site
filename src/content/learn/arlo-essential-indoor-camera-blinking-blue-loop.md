@@ -92,7 +92,7 @@ The "blinking blue loop" isn't just a light; it is the external manifestation of
 
 ### Microcontroller Logic
 
-Inside the Arlo Essential Indoor Camera is a low-power microcontroller (MCU) that manages the device's Power Management Integrated Circuit (PMIC) and the LED driver. When you trigger a sync or power on the device, the MCU initiates a boot sequence. If the "connection" flag in the camera's memory is set to "false," the MCU sends a pulse-width modulation (PWM) signal to the blue diode, creating the blinking effect. It will continue this loop until the Wi-Fi module returns a "success" signal.
+Inside the [Arlo Essential](https://quvii.com/blog/arlo-essential-2k-firmware-bricking-update) Indoor Camera is a low-power microcontroller (MCU) that manages the device's Power Management Integrated Circuit (PMIC) and the LED driver. When you trigger a sync or power on the device, the MCU initiates a boot sequence. If the "connection" flag in the camera's memory is set to "false," the MCU sends a pulse-width modulation (PWM) signal to the blue diode, creating the blinking effect. It will continue this loop until the Wi-Fi module returns a "success" signal.
 
 ### Wireless Communication Protocols
 

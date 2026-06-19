@@ -85,7 +85,7 @@ The second driver for this category is the "Subscription Rebellion." As cloud st
     *   Subscription (60 months @ $4.99/mo): Around $300
     *   **Total: Around $530**
 
-This $330 gap represents the "subscription tax." Without the subscription, the Ring camera is functionally crippled; it will provide motion alerts, but you cannot view recorded footage of the event that triggered the alert. eufy provides the same AI-filtered alerts and full video history with no ongoing cost.
+This $330 gap represents the "subscription tax." Without the subscription, the Ring camera is functionally crippled; it will provide [motion alerts](https://quvii.com/learn/nest-cam-battery-false-motion-alerts-shadows-fixes), but you cannot view recorded footage of the event that triggered the alert. eufy provides the same AI-filtered alerts and full video history with no ongoing cost.
 
 ## How it works under the hood
 

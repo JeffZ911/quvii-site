@@ -94,7 +94,7 @@ For existing smart home camera owners, understanding the signs of heat stress is
 *   **Rapid Battery Drain:** This is a primary indicator for wireless, battery-powered cameras. Heat significantly accelerates the chemical reactions within lithium-ion batteries, causing them to discharge much faster than usual.
 *   **Distorted or Discolored Video:** Overheating image sensors can produce video with unusual tints (often purple or pink), horizontal lines, or a grainy appearance. In severe cases, the image may freeze or fail to display entirely.
 *   **Infrared (IR) Night Vision Failure:** The IR LEDs generate heat, and if the camera is already struggling with ambient heat, the additional heat from the IR illuminators can push it past its limit, causing night vision to fail or become extremely dim.
-*   **Unresponsive Controls:** The camera's app may show the device as unresponsive, or features like live view and motion detection may fail to activate.
+*   **Unresponsive Controls:** The camera's app may show the device as unresponsive, or features like live view and [motion detection](https://quvii.com/blog/eufycam-s330-firmware-3-1-8-2-motion-detection-failure) may fail to activate.
 *   **Physical Changes:** In extreme cases, plastic casings may become brittle or discolored, and batteries might swell, potentially deforming the camera body. Swollen batteries are a serious safety hazard.
 
 ### Battery Degradation and Warranty Implications

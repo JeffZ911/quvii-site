@@ -69,7 +69,7 @@ In 2024, 4K (8MP) was the gold standard. In 2026, it is the baseline. Reolink’
 ### Subscription-Free AI Search Capabilities
 The most significant "quality of life" improvement in 2026 is the advent of natural language AI search. Reolink’s ReoNeura system allows users to type a query like *"find the person in the blue hoodie who walked by at noon"* directly into the NVR interface. The system parses the local metadata to find the clip instantly. 
 
-Lorex’s Smart Motion Detection+ is highly capable at distinguishing between humans and vehicles, but it lacks the deep metadata indexing required for natural language queries. Lorex users still largely rely on scrolling through "event" thumbnails, which can be cumbersome on a 16-camera system with high traffic.
+Lorex’s Smart [Motion Detection](https://quvii.com/blog/eufycam-s330-firmware-3-1-8-2-motion-detection-failure)+ is highly capable at distinguishing between humans and vehicles, but it lacks the deep metadata indexing required for natural language queries. Lorex users still largely rely on scrolling through "event" thumbnails, which can be cumbersome on a 16-camera system with high traffic.
 
 ### Privacy vs. Convenience
 The Lorex lawsuits highlight a critical trade-off. Lorex systems are readily available at big-box retailers like Costco and Best Buy, often bundled with professional-grade mounts and long warranties. This "retail-first" approach provides excellent physical support. However, for privacy-conscious buyers, the lack of transparency regarding component origins is a red flag. Reolink, by contrast, has moved toward a more transparent, vertically integrated manufacturing model, which has helped it avoid the regulatory scrutiny currently facing Lorex.

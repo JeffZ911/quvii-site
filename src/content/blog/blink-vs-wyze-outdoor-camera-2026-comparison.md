@@ -109,7 +109,7 @@ Choosing between these systems depends on your tolerance for maintenance and you
 ### D2: Decision Framework
 
 *   **If you are a Renter:** Prioritize **Wyze**. The Battery Cam Pro's ability to work without a hub and its flexible mounting options make it easier to move. The 2.5K resolution is better for identifying people in high-density apartment environments.
-*   **If you have a Large Property:** Prioritize **Blink**. The Sync Module XR's 400-foot range is specifically designed for detached garages or long driveways where standard Wi-Fi fails.
+*   **If you have a Large Property:** Prioritize **Blink**. The [Sync Module](https://quvii.com/blog/blink-outdoor-4-sync-module-2-connection-error-fix) XR's 400-foot range is specifically designed for detached garages or long driveways where standard Wi-Fi fails.
 *   **If you use Amazon Echo/Alexa:** Prioritize **Blink**. As an Amazon-owned brand, Blink's "Live View" latency on Echo Show devices is significantly lower than Wyze's.
 *   **If you want 24/7 Recording:** Prioritize **Wyze**. Blink cameras are strictly "event-based" and cannot record continuously, even with a power cable. Wyze cameras with a microSD card can be set to record non-stop if plugged into power.
 
