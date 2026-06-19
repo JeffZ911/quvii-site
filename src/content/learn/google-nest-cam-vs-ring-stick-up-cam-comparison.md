@@ -27,7 +27,7 @@ inline_image_sections:
   - "Further reading"
 ---
 
-Choosing between the [Google Nest Cam](https://quvii.com/learn/google-nest-cam-battery-drain-june-2026-update-20260614) (Battery) and the [Ring Stick Up](https://quvii.com/learn/ring-stick-up-cam-pro-overheating-direct-sun) Cam Pro requires looking past the hardware to the software ecosystem and the long-term subscription costs that define the user experience in 2026. While both cameras offer 1080p HDR video, they diverge significantly in how they process motion alerts and how much they charge for access to your own video history.
+Choosing between the [Google Nest Cam](https://quvii.com/learn/google-nest-cam-battery-drain-june-2026-update-20260614) (Battery) and the [Ring Stick Up](https://quvii.com/learn/ring-stick-up-cam-pro-overheating-direct-sun) Cam Pro requires looking past the hardware to the software ecosystem and the long-term subscription costs that define the user experience in 2026. While both cameras offer 1080p HDR video, they diverge significantly in how they process [motion alerts](https://quvii.com/learn/nest-cam-battery-false-motion-alerts-shadows-fixes) and how much they charge for access to your own video history.
 
 # Google Nest Cam vs. Ring Stick Up Cam: Which Ecosystem Wins in 2026?
 
@@ -205,7 +205,7 @@ Total cost of ownership (TCO) for a 3-camera setup over five years often exceeds
 ## Sources
 
 - [Google Nest Cam](https://quvii.com/learn/google-nest-cam-battery-drain-june-2026-update-20260614) (Battery) Technical Specifications — [https://store.google.com/product/nest_cam_battery_specs](https://store.google.com/product/nest_cam_battery_specs)
-- Ring Stick [Up Cam](https://quvii.com/learn/ring-stick-up-cam-pro-overheating-direct-sun) Pro Product Page — [https://ring.com/products/stick-up-cam-pro-battery](https://ring.com/products/stick-up-cam-pro-battery)
+- [Ring Stick](https://quvii.com/learn/ring-stick-up-cam-pro-overheating-direct-sun) [Up Cam](https://quvii.com/learn/ring-stick-up-cam-pro-overheating-direct-sun) Pro Product Page — [https://ring.com/products/stick-up-cam-pro-battery](https://ring.com/products/stick-up-cam-pro-battery)
 - [Google Nest](https://quvii.com/blog/google-nest-community-forum-deletion-june-30) Subscription Plans (2026)
 - Ring Protect and Solo Plan Details — [https://support.ring.com/hc/en-us/articles/115001671383](https://support.ring.com/hc/en-us/articles/115001671383)
 - Ring Law Enforcement Disclosure Policy

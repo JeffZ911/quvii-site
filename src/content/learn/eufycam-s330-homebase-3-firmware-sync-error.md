@@ -60,7 +60,7 @@ Physical indicators on the hardware provide a secondary diagnostic layer. Unders
 | **HomeBase 3** | Solid Red | The HomeBase is disconnected from the internet or experiencing a local system error. |
 | **HomeBase 3** | Flashing Blue | The HomeBase is actively pushing an update to a child device (camera). |
 
-[Image description: A eufyCam S330 mounted on a residential eave with a visible solar panel, showing a red status LED indicating a sync error in a real-world home environment. Aspect ratio 16:9.]
+[Image description: A [eufyCam S330](https://quvii.com/blog/eufycam-s330-firmware-3-1-8-2-motion-detection-failure) mounted on a residential eave with a visible solar panel, showing a red status LED indicating a sync error in a real-world home environment. Aspect ratio 16:9.]
 
 ## Why it exists
 

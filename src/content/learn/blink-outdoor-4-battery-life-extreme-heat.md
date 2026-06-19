@@ -189,12 +189,12 @@ Understanding the total cost of ownership goes beyond the initial purchase price
     *   **3-Year Subscription Cost (Plus Plan example):** $300 - $360.
 
 3.  **Battery Replacement Costs:**
-    *   The Blink Outdoor 4 uses two AA 1.5V non-rechargeable lithium batteries. A 12-pack of Energizer Ultimate Lithium AA batteries is typically in the $20-30 range.
+    *   The [Blink Outdoor 4](https://quvii.com/blog/blink-outdoor-4-sync-module-2-connection-error-fix) uses two AA 1.5V non-rechargeable lithium batteries. A 12-pack of Energizer Ultimate Lithium AA batteries is typically in the $20-30 range.
     *   **Advertised Life (ideal conditions):** 2 years. This means 1 set of batteries every 2 years.
     *   **Realistic Life (extreme heat):** Could be 6 months to 1 year, meaning 3-6 sets of batteries over 3 years.
     *   **3-Year Battery Cost (extreme heat estimate):** If batteries last 6 months, you'd need 6 sets (12 batteries total) over 3 years. This could be $60-90 or more per camera. For multiple cameras, this cost escalates significantly.
 
-**Example 3-Year TCO for one Blink Outdoor 4 in a hot climate (with [Sync Module 2](https://quvii.com/blog/blink-outdoor-4-sync-module-2-connection-error-fix) and Plus Plan):**
+**Example 3-Year TCO for one [Blink Outdoor](https://quvii.com/blog/blink-outdoor-4-sync-module-2-connection-error-fix) 4 in a hot climate (with [Sync Module 2](https://quvii.com/blog/blink-outdoor-4-sync-module-2-connection-error-fix) and Plus Plan):**
 
 *   **Hardware:** ~$125 (camera) + ~$40 ([Sync Module](https://quvii.com/blog/blink-outdoor-4-sync-module-2-connection-error-fix)) = $165
 *   **Subscription (Plus Plan):** ~$330 (3 years x $110/year)
@@ -211,7 +211,7 @@ This calculation highlights that while the initial camera price might be modest,
 The Blink Outdoor [4 camera](https://quvii.com/blog/blink-outdoor-4-sync-module-2-connection-error-fix) is rated to operate in temperatures ranging from -4°F to 113°F (-20°C to 45°C). While it can function at the upper end of this range, sustained exposure to such heat can negatively impact battery life and performance.
 
 ### Can I use rechargeable AA batteries in my Blink Outdoor 4 camera?
-No, Blink strongly advises against using rechargeable AA batteries. The Blink Outdoor 4 is designed for 1.5V non-rechargeable lithium AA batteries, and rechargeable batteries typically provide a lower voltage (1.2V), which can lead to poor performance, inaccurate battery level readings, and potentially damage the camera.
+No, Blink strongly advises against using rechargeable AA batteries. The Blink [Outdoor 4](https://quvii.com/blog/blink-outdoor-4-sync-module-2-connection-error-fix) is designed for 1.5V non-rechargeable lithium AA batteries, and rechargeable batteries typically provide a lower voltage (1.2V), which can lead to poor performance, inaccurate battery level readings, and potentially damage the camera.
 
 ### How does direct sunlight affect my Blink Outdoor 4's battery life?
 Direct sunlight significantly increases the camera's internal temperature beyond the ambient air temperature, accelerating the chemical degradation of the lithium batteries. This can drastically shorten their lifespan, making strategic placement in shaded areas crucial for maximizing battery longevity.

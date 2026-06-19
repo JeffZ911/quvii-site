@@ -116,7 +116,7 @@ When a camera is offline, its behavior depends on its storage configuration. If 
 One of the most overlooked consequences of an unstable connection is reduced hardware lifespan. When a Reolink battery camera loses its Wi-Fi connection, it enters a "search and reconnect" loop. This process is power-intensive, as the Wi-Fi radio must operate at maximum gain to find a signal. A camera that stays in a reconnection loop for 48 hours can drain more battery than a camera that records 50 motion events in a day. Constant deep-cycling of the lithium-ion battery in this manner will significantly shorten the battery's total life expectancy.
 
 ### Smart Home Integration Breakage
-For users utilizing Home Assistant, Alexa, or Google Home, an offline Reolink camera breaks automated routines. If you have a routine where "If Altas PT Ultra detects motion, turn on porch light," that routine will fail silently. Unlike the native Reolink App, third-party integrations often do not provide "offline" notifications, leaving the user unaware that their automation logic is broken.
+For users utilizing Home Assistant, Alexa, or Google Home, an offline Reolink camera breaks automated routines. If you have a routine where "If Altas PT Ultra detects motion, turn on porch light," that routine will fail silently. Unlike the native [Reolink App](https://quvii.com/blog/reolink-app-crashing-ios-18-fixes), third-party integrations often do not provide "offline" notifications, leaving the user unaware that their automation logic is broken.
 
 ## Common misconceptions
 

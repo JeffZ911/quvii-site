@@ -77,7 +77,7 @@ Many consumers choose Reolink for its robust, subscription-free local storage op
 | **Field of View**    | 180° diagonal                        | Wide angle for comprehensive coverage.                                                                   |
 | **Power Type**       | Power over Ethernet (PoE)            | Single cable for power and data, requiring an Ethernet connection.                                       |
 | **Local Storage**    | MicroSD card (up to 256GB), Reolink NVR | No subscription required for local recording.                                                            |
-| **Notifications**    | Push alerts, email alerts, siren     | Customizable alerts for motion detection. Firmware bugs can impact reliability.                          |
+| **Notifications**    | Push alerts, email alerts, siren     | Customizable alerts for [motion detection](https://quvii.com/blog/eufycam-s330-firmware-3-1-8-2-motion-detection-failure). Firmware bugs can impact reliability.                          |
 | **Wireless Chime**   | 433MHz wireless                       | Connects wirelessly to the doorbell for indoor alerts. Affected by v3.0.0.6460 bug.                     |
 | **Audio**            | Two-way audio                        | Built-in mic and speaker for communication.                                                              |
 | **Night Vision**     | IR LEDs                              | Infrared for low-light conditions. Image quality can be affected by firmware (e.g., v3.0.0.4662 HDR bug). |

@@ -140,7 +140,7 @@ If the move to a $100–$200 annual subscription model feels like a betrayal of 
 ## Frequently Asked Questions
 
 ### Does the Wyze Cam v4 work without a subscription in 2026?
-Yes, but with significant limitations. Without Cam Plus, you receive motion alerts but no cloud-stored video clips. You must install a microSD card to view recorded footage. Furthermore, advanced AI detection (Person/Pet/Vehicle) is disabled, meaning you will receive alerts for every movement, including trees and shadows.
+Yes, but with significant limitations. Without Cam Plus, you receive [motion alerts](https://quvii.com/learn/nest-cam-battery-false-motion-alerts-shadows-fixes) but no cloud-stored video clips. You must install a microSD card to view recorded footage. Furthermore, advanced AI detection (Person/Pet/Vehicle) is disabled, meaning you will receive alerts for every movement, including trees and shadows.
 
 ### What is Wyze VerifiedView?
 VerifiedView is a security feature introduced in early 2026. It embeds a hashed ID into the video stream that is unique to your account and hardware. Its primary purpose is to prevent unauthorized viewing of cloud footage by third parties or Wyze employees, ensuring that only the authenticated account holder can decrypt the video.

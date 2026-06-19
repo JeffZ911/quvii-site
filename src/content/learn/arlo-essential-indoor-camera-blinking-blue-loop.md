@@ -96,7 +96,7 @@ Inside the [Arlo Essential](https://quvii.com/blog/arlo-essential-2k-firmware-br
 
 ### Wireless Communication Protocols
 
-The Arlo Essential Indoor (1st Generation) operates exclusively on the 2.4 GHz Wi-Fi band. The "blinking blue loop" often occurs because modern mesh routers frequently combine 2.4 GHz and 5 GHz bands into a single name (SSID). If the camera's Wi-Fi module attempts to handshake with a 5 GHz signal it cannot process, the handshake fails, and the MCU reverts the LED to the slow blue blink to retry. According to PCMag’s technical review, the 2nd Generation Essential Indoor cameras improved this with updated Wi-Fi radios, but 2.4 GHz stability remains the primary requirement for a successful handshake.
+The [Arlo Essential](https://quvii.com/blog/arlo-essential-2k-firmware-bricking-update) Indoor (1st Generation) operates exclusively on the 2.4 GHz Wi-Fi band. The "blinking blue loop" often occurs because modern mesh routers frequently combine 2.4 GHz and 5 GHz bands into a single name (SSID). If the camera's Wi-Fi module attempts to handshake with a 5 GHz signal it cannot process, the handshake fails, and the MCU reverts the LED to the slow blue blink to retry. According to PCMag’s technical review, the 2nd Generation Essential Indoor cameras improved this with updated Wi-Fi radios, but 2.4 GHz stability remains the primary requirement for a successful handshake.
 
 ### Firmware Management
 
