@@ -149,7 +149,7 @@ The Reolink Argus 4 Pro is typically positioned in the **$150–$200 range**. It
 
 To get the most out of the new release features, follow these steps after purchase:
 
-1.  **Update Firmware Immediately:** Reolink frequently releases "Day 1" or "Month 1" patches that refine the image stitching algorithm for the dual lenses. Use the Reolink App to check for updates during setup.
+1.  **Update Firmware Immediately:** Reolink frequently releases "Day 1" or "Month 1" patches that refine the image stitching algorithm for the dual lenses. Use the [Reolink App](https://quvii.com/blog/reolink-app-crashing-ios-18-fixes) to check for updates during setup.
 2.  **Configure AI Sensitivity:** While the on-device AI is robust, every environment is different. Spend the first 48 hours tuning the "Detection Zone" and "Sensitivity" sliders to eliminate false alerts from moving trees or shadows.
 3.  **Optimize Solar Placement:** For a 4K camera with dual lenses, power consumption is higher than 1080p models. Ensure your solar panel receives at least 3-4 hours of direct sunlight daily.
 4.  **Review Privacy Settings:** Take a moment to set up a strong password and enable Two-Factor Authentication (2FA) within the Reolink App to secure your local footage from unauthorized access.

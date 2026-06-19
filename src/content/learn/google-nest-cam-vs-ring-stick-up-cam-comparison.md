@@ -97,7 +97,7 @@ The Nest Cam (Battery) utilizes a 2-megapixel sensor with HDR (High Dynamic Rang
 
 Google has integrated its Tensor Processing Unit (TPU) directly into the Nest Cam. This allows the camera to perform person, animal, and vehicle detection on the device itself, reducing the latency of notifications and improving privacy by not sending every motion clip to the cloud for analysis. In 2026, this hardware enables "Gemini for Home," which can answer natural language questions about your footage (e.g., "Did the kids get [home from](https://quvii.com/learn/secure-smart-home-ai-hacks-2026) school?").
 
-Ring Stick [Up Cam Pro](https://quvii.com/learn/ring-stick-up-cam-pro-overheating-direct-sun) relies on 3D Motion Detection. This uses radar sensors to measure the distance and angle of an object in front of the camera. Users can set a specific "distance threshold," so the camera only triggers if someone steps within 10 feet of the door, ignoring cars on the street. This radar data powers "Bird’s Eye View," an aerial map overlay showing the exact path a visitor took.
+[Ring Stick](https://quvii.com/learn/ring-stick-up-cam-pro-overheating-direct-sun) [Up Cam Pro](https://quvii.com/learn/ring-stick-up-cam-pro-overheating-direct-sun) relies on 3D Motion Detection. This uses radar sensors to measure the distance and angle of an object in front of the camera. Users can set a specific "distance threshold," so the camera only triggers if someone steps within 10 feet of the door, ignoring cars on the street. This radar data powers "Bird’s Eye View," an aerial map overlay showing the exact path a visitor took.
 
 ### The Local Storage Safety Net
 
@@ -107,7 +107,7 @@ Ring cameras generally do not have on-device storage. To get local storage with 
 
 **Hardware Spec Table: Nest vs. Ring (2026)**
 
-| Spec | [Google Nest](https://quvii.com/learn/google-nest-cam-battery-drain-june-2026-update-20260614) Cam (Battery) | Ring Stick Up Cam Pro |
+| Spec | [Google Nest](https://quvii.com/learn/google-nest-cam-battery-drain-june-2026-update-20260614) Cam (Battery) | [Ring Stick Up](https://quvii.com/learn/ring-stick-up-cam-pro-overheating-direct-sun) Cam Pro |
 | :--- | :--- | :--- |
 | **Resolution** | 1080p HDR | 1080p HDR |
 | **Field of View** | 130° Diagonal | 155° Diagonal |
@@ -157,7 +157,7 @@ Total cost of ownership (TCO) for a 3-camera setup over five years often exceeds
     *   Hardware: ~$450-$500 (3 cameras @ ~$160 each)
     *   Subscription: $600 ($10/mo x 60 months)
     *   **Total: ~$1,100**
-*   **Ring Stick Up Cam Pro:**
+*   **Ring [Stick Up Cam](https://quvii.com/learn/ring-stick-up-cam-pro-overheating-direct-sun) Pro:**
     *   Hardware: ~$480-$540 (3 cameras @ ~$170 each)
     *   Subscription: $600 ($10/mo Ring Protect x 60 months)
     *   **Total: ~$1,140**
@@ -189,9 +189,9 @@ Total cost of ownership (TCO) for a 3-camera setup over five years often exceeds
 ## Decision Framework: Which should you buy?
 
 *   **If you are a Renter:** Prioritize the **[Google Nest Cam](https://quvii.com/learn/google-nest-cam-battery-drain-june-2026-update-20260614) (Battery)**. Its 3-hour free video history means you aren't forced into a subscription immediately, and the magnetic mount is less invasive for temporary installs.
-*   **If you have a Large Property:** Prioritize the **Ring Stick Up Cam Pro**. The radar-based 3D Motion Detection is significantly better at filtering out "false positives" (like swaying trees or street traffic) over long distances compared to Nest's optical-based detection.
+*   **If you have a Large Property:** Prioritize the **Ring Stick [Up Cam Pro](https://quvii.com/learn/ring-stick-up-cam-pro-overheating-direct-sun)**. The radar-based 3D Motion Detection is significantly better at filtering out "false positives" (like swaying trees or street traffic) over long distances compared to Nest's optical-based detection.
 *   **If you use Google Workspace/Android:** Prioritize the **Nest Cam**. The integration with Gemini allows you to search your video history using text commands on your phone or Nest Hub.
-*   **If you have a Ring Alarm System:** Prioritize the **Ring Stick Up Cam Pro**. Adding it to your existing Ring Protect plan costs nothing extra, and it can be integrated into your home's professional monitoring ecosystem.
+*   **If you have a Ring Alarm System:** Prioritize the **Ring [Stick Up](https://quvii.com/learn/ring-stick-up-cam-pro-overheating-direct-sun) Cam Pro**. Adding it to your existing Ring Protect plan costs nothing extra, and it can be integrated into your home's professional monitoring ecosystem.
 
 ## Further reading
 
@@ -205,7 +205,7 @@ Total cost of ownership (TCO) for a 3-camera setup over five years often exceeds
 ## Sources
 
 - [Google Nest Cam](https://quvii.com/learn/google-nest-cam-battery-drain-june-2026-update-20260614) (Battery) Technical Specifications — [https://store.google.com/product/nest_cam_battery_specs](https://store.google.com/product/nest_cam_battery_specs)
-- Ring Stick Up Cam Pro Product Page — [https://ring.com/products/stick-up-cam-pro-battery](https://ring.com/products/stick-up-cam-pro-battery)
+- Ring Stick [Up Cam](https://quvii.com/learn/ring-stick-up-cam-pro-overheating-direct-sun) Pro Product Page — [https://ring.com/products/stick-up-cam-pro-battery](https://ring.com/products/stick-up-cam-pro-battery)
 - [Google Nest](https://quvii.com/blog/google-nest-community-forum-deletion-june-30) Subscription Plans (2026)
 - Ring Protect and Solo Plan Details — [https://support.ring.com/hc/en-us/articles/115001671383](https://support.ring.com/hc/en-us/articles/115001671383)
 - Ring Law Enforcement Disclosure Policy

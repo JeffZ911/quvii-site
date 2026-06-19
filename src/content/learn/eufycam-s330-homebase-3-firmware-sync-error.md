@@ -41,7 +41,7 @@ A sync error between a [eufyCam S330](https://quvii.com/blog/eufycam-s330-firmwa
 *Related: [Fixing Google Nest Cam Battery Drain After June 2026 Update](/learn/google-nest-cam-battery-drain-june-2026-update-20260614) · [Ring Doorbell Recording Neighbors? Understand Your Privacy Rights](/learn/ring-doorbell-recording-neighbors-privacy) · [Renter-Friendly Wireless Video Doorbells: No-Drill Security Options](/learn/renter-friendly-wireless-video-doorbell-options-20260613)*
 
 
-When a eufyCam S330 (also known as the eufyCam 3) enters a "Syncing" loop, it has essentially lost its place in the communication protocol with the HomeBase 3 (S380). In the 2026 ecosystem, where eufy has integrated more complex BionicMind AI routines into the local hub, the firmware requirements for both the camera and the HomeBase have become increasingly interdependent. A sync error occurs when the two devices cannot agree on which software version they are running or when a data packet is dropped during an over-the-air (OTA) update.
+When a [eufyCam S330](https://quvii.com/blog/eufycam-s330-firmware-3-1-8-2-motion-detection-failure) (also known as the eufyCam 3) enters a "Syncing" loop, it has essentially lost its place in the communication protocol with the HomeBase 3 (S380). In the 2026 ecosystem, where eufy has integrated more complex BionicMind AI routines into the local hub, the firmware requirements for both the camera and the HomeBase have become increasingly interdependent. A sync error occurs when the two devices cannot agree on which software version they are running or when a data packet is dropped during an over-the-air (OTA) update.
 
 ### Identifying the 'Syncing' Loop
 

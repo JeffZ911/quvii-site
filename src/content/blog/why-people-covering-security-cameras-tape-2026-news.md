@@ -88,7 +88,7 @@ Buyers should be aware that while they have the right to record on their own pro
 | :--- | :--- | :--- | :--- |
 | **[Arlo Essential](https://quvii.com/blog/arlo-essential-2k-firmware-bricking-update) Indoor** | Mechanical (Automatic) | Under $100 | Cloud |
 | **Eufy Indoor Cam S350** | Dual Lens (Software/Tilt) | $150-200 | Local (HomeBase) |
-| **Bosch Eyes Indoor Camera II** | Retractable Lens | $200-250 | Cloud/Local |
+| **Bosch Eyes [Indoor Camera](https://quvii.com/learn/arlo-essential-indoor-camera-blinking-blue-loop) II** | Retractable Lens | $200-250 | Cloud/Local |
 | **Eve Cam** | Software-only (HomeKit) | $100-150 | iCloud |
 
 ## Impact on existing owners

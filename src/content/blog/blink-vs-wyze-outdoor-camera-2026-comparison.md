@@ -73,7 +73,7 @@ Blink’s engineering focus remains on "set it and forget it" utility. By using 
 
 ### The Hidden Costs of "Free" Local Storage
 While both brands advertise "no subscription" options via local storage, the 2026 hardware has different friction points:
-*   **Blink:** To record locally, you must own a Sync Module XR (around $50 if bought separately). Clips are saved to a microSD card in the module, not the camera. While this protects your data if the camera is stolen, the Blink app experience for local clips remains slower than the cloud experience, with no "thumbnail" previews for local clips unless you have a subscription (<a href="https://www.amazon.com/s?k=Blink+Support&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Blink Support</a>).
+*   **Blink:** To record locally, you must own a [Sync Module](https://quvii.com/blog/blink-outdoor-4-sync-module-2-connection-error-fix) XR (around $50 if bought separately). Clips are saved to a microSD card in the module, not the camera. While this protects your data if the camera is stolen, the Blink app experience for local clips remains slower than the cloud experience, with no "thumbnail" previews for local clips unless you have a subscription (<a href="https://www.amazon.com/s?k=Blink+Support&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Blink Support</a>).
 *   **Wyze:** The Battery Cam Pro has a built-in microSD slot. This allows for faster access to clips and, in some models, continuous 24/7 recording (though this drains the battery in days). However, if a thief takes the camera, they take the footage with it.
 
 ### D3: Total Cost of Ownership (TCO) Analysis (3 Years)

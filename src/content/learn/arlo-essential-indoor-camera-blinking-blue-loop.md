@@ -41,7 +41,7 @@ For an [Arlo Essential](https://quvii.com/blog/arlo-essential-2k-firmware-bricki
 *Related: [Wyze Cam v4 RTSP Support: What You Need to Know (2026)](/learn/wyze-cam-v4-rtsp-support-missing-update) · [Pennsylvania's Proposed Smart Glasses Recording Light Law Explained](/learn/pa-smart-glasses-recording-light-law) · [Ring Stick Up Cam Pro Overheating: Causes, Effects, and Solutions](/learn/ring-stick-up-cam-pro-overheating-direct-sun)*
 
 
-The Arlo Essential Indoor Camera (VMC2040/VMC3050) uses a single multi-color LED to communicate its internal state. Understanding the frequency and pattern of these blinks is the first step in diagnosing why a camera has fallen offline or failed to complete its initial setup.
+The [Arlo Essential](https://quvii.com/blog/arlo-essential-2k-firmware-bricking-update) Indoor Camera (VMC2040/VMC3050) uses a single multi-color LED to communicate its internal state. Understanding the frequency and pattern of these blinks is the first step in diagnosing why a camera has fallen offline or failed to complete its initial setup.
 
 ### Decoding the Blink Rate
 

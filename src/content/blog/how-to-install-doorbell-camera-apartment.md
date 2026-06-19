@@ -147,7 +147,7 @@ If you use a device like the <a href="https://www.amazon.com/s?k=Ring+Peephole+C
 
 ### Configuring Your Camera for Apartment Hallway Privacy
 To avoid complaints from property management, use the following settings:
-*   **Sensitivity:** Set motion detection to "Near" or "Low" to avoid triggering every time someone walks down the hallway.
+*   **Sensitivity:** Set [motion detection](https://quvii.com/blog/eufycam-s330-firmware-3-1-8-2-motion-detection-failure) to "Near" or "Low" to avoid triggering every time someone walks down the hallway.
 *   **Audio Recording:** Check local "two-party consent" laws. Many apartment dwellers choose to disable audio recording to avoid legal complications.
 *   **Activity Zones:** Draw a narrow box that only covers the floor directly in front of your door.
 
