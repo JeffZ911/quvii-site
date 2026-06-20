@@ -67,7 +67,7 @@ Physical indicators on the hardware provide a secondary diagnostic layer. Unders
 ![Why it exists](/img/eufycam-s330-homebase-3-firmware-sync-error/inline-2.webp)
 
 
-The eufyCam S330 is not a standalone Wi-Fi camera; it is a peripheral of the HomeBase 3. This architecture is designed for security and battery efficiency, but it introduces a point of failure during firmware deployments. As of mid-2026, several specific triggers have been identified as the primary causes of the sync error.
+The [eufyCam S330](https://quvii.com/blog/eufycam-s330-firmware-3-1-8-2-motion-detection-failure) is not a standalone Wi-Fi camera; it is a peripheral of the HomeBase 3. This architecture is designed for security and battery efficiency, but it introduces a point of failure during firmware deployments. As of mid-2026, several specific triggers have been identified as the primary causes of the sync error.
 
 ### The Role of the Subsystem Version
 

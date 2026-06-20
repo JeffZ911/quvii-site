@@ -71,7 +71,7 @@ With firmware cam-1.29.11000, the "wake time" per event has reportedly increased
 For those currently shopping for a doorbell, the "June update" issues highlight a critical trade-off in the 2026 security market: the conflict between advanced software and limited hardware energy density.
 
 ### The Hidden Cost of 'Smart' Features
-The Ring Battery Doorbell Pro (currently in the **$230–$250 range**) is marketed as a premium solution with "3D Motion Detection" and "Bird’s Eye View." These features rely on radar technology, which is inherently more power-hungry than standard PIR sensors. When you layer cloud-based AI like Video Descriptions on top of radar-based detection, the energy budget of a standard Quick Release Battery Pack is pushed to its absolute limit.
+The Ring Battery Doorbell Pro (currently in the **$230–$250 range**) is marketed as a premium solution with "3D [Motion Detection](https://quvii.com/blog/eufycam-s330-firmware-3-1-8-2-motion-detection-failure)" and "Bird’s Eye View." These features rely on radar technology, which is inherently more power-hungry than standard PIR sensors. When you layer cloud-based AI like Video Descriptions on top of radar-based detection, the energy budget of a standard Quick Release Battery Pack is pushed to its absolute limit.
 
 New buyers often choose these "Pro" models for their precision, but the current firmware state means that using the features you paid for may result in a device that is offline more often than it is online due to charging needs.
 

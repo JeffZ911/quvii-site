@@ -196,7 +196,7 @@ To help you decide, consider these common scenarios:
 Yes, absolutely. Renter-friendly wireless video doorbells are specifically designed for this scenario. They are battery-powered and connect to your home's Wi-Fi, eliminating the need for any existing electrical wiring.
 
 ### How long does the battery last on a typical renter-friendly video doorbell?
-Battery life varies by model and usage, but most high-quality renter-friendly video doorbells offer between 2 to 6 months of operation on a single charge. Factors like frequent motion alerts, live view access, and extreme temperatures can reduce this duration.
+Battery life varies by model and usage, but most high-quality renter-friendly video doorbells offer between 2 to 6 months of operation on a single charge. Factors like frequent [motion alerts](https://quvii.com/learn/nest-cam-battery-false-motion-alerts-shadows-fixes), live view access, and extreme temperatures can reduce this duration.
 
 ### Do I need a subscription to use a renter-friendly wireless video doorbell?
 Many excellent renter-friendly wireless video doorbells, particularly those from brands like Eufy and Reolink, offer full functionality, including video recording and smart detection, without a mandatory monthly subscription. They achieve this by utilizing local storage options like microSD cards or home bases. Some brands do offer optional cloud storage for an additional fee if desired.

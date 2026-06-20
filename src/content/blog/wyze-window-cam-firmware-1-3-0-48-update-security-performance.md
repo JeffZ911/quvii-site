@@ -41,7 +41,7 @@ On June 10, 2026, Wyze officially deployed firmware version 1.3.0.48 for the Wyz
 
 The primary objective of this update is to resolve a software glitch that prevented the camera from successfully handshaking with Wyze's cloud servers during motion-triggered events. When this error occurred, users would receive a notification of motion, but upon clicking the event, they were met with a "Failed to upload" message or a blank thumbnail, rendering the security footage inaccessible unless stored locally on a microSD card.
 
-It is important to clarify the hardware context: the "Wyze Window Cam" is not typically a standalone model but a specialized configuration. It generally refers to a <a href="https://www.amazon.com/s?k=Wyze+Cam+V3&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Wyze Cam V3</a>, V3 Pro, or the newer <a href="https://www.amazon.com/s?k=Wyze+Cam+V4&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Wyze Cam V4</a> paired with the Wyze Window Mount. This mount is an adhesive-based accessory that secures the camera directly against the glass, using a specialized shroud to eliminate the infrared (IR) reflection and glare that usually plagues indoor cameras looking through windows at night. Because this setup is often used to monitor driveways and entry points where Wi-Fi signals may be attenuated by exterior walls and glass, efficient and error-free data uploading is technically demanding.
+It is important to clarify the hardware context: the "Wyze Window Cam" is not typically a standalone model but a specialized configuration. It generally refers to a <a href="https://www.amazon.com/s?k=Wyze+Cam+V3&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Wyze Cam V3</a>, V3 Pro, or the newer <a href="https://www.amazon.com/s?k=Wyze+Cam+V4&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">[Wyze Cam V4](https://quvii.com/learn/wyze-cam-v4-rtsp-support-missing-update)</a> paired with the Wyze Window Mount. This mount is an adhesive-based accessory that secures the camera directly against the glass, using a specialized shroud to eliminate the infrared (IR) reflection and glare that usually plagues indoor cameras looking through windows at night. Because this setup is often used to monitor driveways and entry points where Wi-Fi signals may be attenuated by exterior walls and glass, efficient and error-free data uploading is technically demanding.
 
 ## Why it matters for buyers
 
@@ -59,7 +59,7 @@ Wyze’s journey through 2024 and 2025 was marked by significant scrutiny regard
 ### Comparison of Window-Compatible Models
 When choosing a camera to pair with the window mount, buyers must balance resolution against the data demands of cloud uploading. Higher resolution (like the 2.5K on the V4) requires more stable upload bandwidth, making firmware stability even more critical.
 
-| Feature | Wyze Cam V3 | Wyze Cam V3 Pro | Wyze Cam V4 |
+| Feature | Wyze Cam V3 | Wyze Cam V3 Pro | Wyze [Cam V4](https://quvii.com/learn/wyze-cam-v4-rtsp-support-missing-update) |
 | :--- | :--- | :--- | :--- |
 | **Resolution** | 1080p | 2K | 2.5K (QHD) |
 | **Field of View** | 130° | 116° | 116° |

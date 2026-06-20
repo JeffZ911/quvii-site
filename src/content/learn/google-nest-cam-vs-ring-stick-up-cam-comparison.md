@@ -70,7 +70,7 @@ Both models are sold primarily as battery-powered units to appeal to renters and
 
 Amazon and Google dominate the US market by offering affordable hardware subsidized by recurring subscription revenue. The "[Stick Up](https://quvii.com/learn/ring-stick-up-cam-pro-overheating-direct-sun)" and "Nest Cam" form factors exist to provide a "one-size-fits-all" solution for renters and homeowners who don't want complex wiring. By 2026, these cameras have moved away from being simple recording devices and have become sensors for a broader ambient intelligence strategy.
 
-The 2026 landscape is defined by the transition from "motion alerts" to "generative AI descriptions" of events. Instead of a notification saying "Motion detected," a Nest Cam might report, "The delivery driver left a package by the blue chair," while a Ring Cam provides a radar-mapped path of that driver’s movement across the lawn.
+The 2026 landscape is defined by the transition from "[motion alerts](https://quvii.com/learn/nest-cam-battery-false-motion-alerts-shadows-fixes)" to "generative AI descriptions" of events. Instead of a notification saying "Motion detected," a Nest Cam might report, "The delivery driver left a package by the blue chair," while a Ring Cam provides a radar-mapped path of that driver’s movement across the lawn.
 
 **Market Share Visualization: US Consumer Security Cameras (2025-2026 Data)**
 

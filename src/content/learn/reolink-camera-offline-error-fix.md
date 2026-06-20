@@ -127,7 +127,7 @@ For users utilizing Home Assistant, Alexa, or Google Home, an offline Reolink ca
 Users often assume that if their camera is offline, "Reolink's servers are down." In reality, Reolink cameras are designed to function primarily on a local network. If you are at home and your phone is on the same Wi-Fi as the camera, the app should connect even if the internet is completely out (provided UID is enabled for local discovery). Over 90% of "offline" issues are traced back to local Wi-Fi interference or DHCP issues, not a global Reolink outage.
 
 ### Why 'Full Wi-Fi Bars' Can Lie
-The signal strength indicator in the Reolink App is a measure of RSSI (Received Signal Strength Indicator), but it does not account for "noise" or "interference." You can have "full bars" of signal strength but still experience constant disconnects if a neighbor's router is operating on the same channel or if a microwave is leaking RF interference. High-resolution 4K video requires a "clean" signal, not just a "strong" one.
+The signal strength indicator in the [Reolink App](https://quvii.com/blog/reolink-app-crashing-ios-18-fixes) is a measure of RSSI (Received Signal Strength Indicator), but it does not account for "noise" or "interference." You can have "full bars" of signal strength but still experience constant disconnects if a neighbor's router is operating on the same channel or if a microwave is leaking RF interference. High-resolution 4K video requires a "clean" signal, not just a "strong" one.
 
 ### Checklist: 5 Things to Try Before Hitting the Reset Button
 1.  **Toggle the "Fluent" Stream:** Switch from Clear to Fluent in the app to see if it's a bandwidth timeout.

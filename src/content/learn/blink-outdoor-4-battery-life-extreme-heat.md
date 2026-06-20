@@ -208,7 +208,7 @@ This calculation highlights that while the initial camera price might be modest,
 ## Frequently Asked Questions
 
 ### What is the maximum operating temperature for the Blink Outdoor 4 camera?
-The Blink Outdoor [4 camera](https://quvii.com/blog/blink-outdoor-4-sync-module-2-connection-error-fix) is rated to operate in temperatures ranging from -4°F to 113°F (-20°C to 45°C). While it can function at the upper end of this range, sustained exposure to such heat can negatively impact battery life and performance.
+The [Blink Outdoor](https://quvii.com/blog/blink-outdoor-4-sync-module-2-connection-error-fix) [4 camera](https://quvii.com/blog/blink-outdoor-4-sync-module-2-connection-error-fix) is rated to operate in temperatures ranging from -4°F to 113°F (-20°C to 45°C). While it can function at the upper end of this range, sustained exposure to such heat can negatively impact battery life and performance.
 
 ### Can I use rechargeable AA batteries in my Blink Outdoor 4 camera?
 No, Blink strongly advises against using rechargeable AA batteries. The Blink [Outdoor 4](https://quvii.com/blog/blink-outdoor-4-sync-module-2-connection-error-fix) is designed for 1.5V non-rechargeable lithium AA batteries, and rechargeable batteries typically provide a lower voltage (1.2V), which can lead to poor performance, inaccurate battery level readings, and potentially damage the camera.
@@ -224,9 +224,9 @@ While the camera is designed to operate within its specified temperature range, 
 
 ## Sources
 
-*   Blinkforhome.com — Blink Outdoor 4
+*   Blinkforhome.com — [Blink Outdoor 4](https://quvii.com/blog/blink-outdoor-4-sync-module-2-connection-error-fix)
 *   Blinkforhome.com — Blink [Outdoor 4 Camera](https://quvii.com/blog/blink-outdoor-4-sync-module-2-connection-error-fix) Specifications
-*   amazonforum.com — Blink Outdoor 4 Battery Life
+*   amazonforum.com — Blink [Outdoor 4](https://quvii.com/blog/blink-outdoor-4-sync-module-2-connection-error-fix) Battery Life
 *   Bestbuy.com — Blink Outdoor 4 (2-Pack)
 *   Large-battery.com — Understanding Battery Life in Extreme Temperatures
 *   Vettedhomegear.com — Blink Outdoor 4 Review

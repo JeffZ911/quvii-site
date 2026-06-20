@@ -131,6 +131,6 @@ The 2026 market offers a clear path away from the monthly "security tax" of the 
 - Reolink — <a href="https://www.amazon.com/s?k=Reolink+Duo+3+PoE+16MP+Spec+Sheet&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Reolink Duo 3 PoE 16MP Spec Sheet</a>
 - Eufy Security — [Floodlight Cam E340 Dual-Lens Specifications](https://www.eufy.com/products/t8423)
 - Connectivity Standards Alliance — Matter 1.4 Specification Announcement
-- Reddit — <a href="https://www.amazon.com/s?k=r%2FEufyCam+Community+Discussion+on+Firmware+1.6.x&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">r/EufyCam Community Discussion on Firmware 1.6.x</a>
+- Reddit — <a href="https://www.amazon.com/s?k=r%2FEufyCam+Community+Discussion+on+Firmware+1.6.x&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">r/EufyCam Community Discussion on [Firmware 1](https://quvii.com/blog/wyze-window-cam-firmware-1-3-0-48-update-security-performance).6.x</a>
 - Reddit — <a href="https://www.amazon.com/s?k=r%2FReolinkCam+16MP+Panoramic+Performance+Reviews&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">r/ReolinkCam 16MP Panoramic Performance Reviews</a>
 - FCC ID Search — [Verification of Wi-Fi 6/6E Radio Frequency Filings for Security Hardware](https://www.fcc.gov/oet/ea/fccid)
