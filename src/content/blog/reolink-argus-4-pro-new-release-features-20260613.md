@@ -121,7 +121,7 @@ The Argus 3 Pro and Argus 3 Ultra have been staples of the "prosumer" battery ca
 
 If your current Argus 3 Pro is covering a narrow hallway or a small porch, the upgrade may be unnecessary. However, if you find yourself wishing your current camera could "see just a bit further to the left," or if you are frustrated by the glare of spotlights at night, the Argus 4 Pro is a justified upgrade.
 
-One concern for existing owners was the battery capacity. The Argus 4 Pro uses a 5000mAh battery, which is smaller than the 6000mAh battery found in some older models. However, Reolink claims that the ColorX technology and more efficient Wi-Fi 6 chip result in a [30% improvement in energy efficiency](https://reolink.com/blog/reolink-argus-4-pro-launch/). Because the camera does not need to power bright white LEDs for night vision, the overall draw on the battery during nighttime events is significantly lower.
+One concern for existing owners was the battery capacity. The Argus 4 Pro uses a 5000mAh battery, which is smaller than the 6000mAh battery found in some older models. However, Reolink claims that the ColorX technology and more efficient Wi-Fi 6 chip result in a [30% improvement in energy efficiency](https://reolink.com/blog/reolink-argus-4-pro-launch/). Because the camera does not need to power bright white LEDs for [night vision](https://quvii.com/learn/unifi-camera-night-vision-stuck-daytime-fix), the overall draw on the battery during nighttime events is significantly lower.
 
 ### Compatibility with Existing Reolink Systems
 

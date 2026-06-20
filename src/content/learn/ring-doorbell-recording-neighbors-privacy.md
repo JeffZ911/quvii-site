@@ -80,7 +80,7 @@ Ring doorbells are equipped with built-in microphones that facilitate two-way ta
 
 ### Cloud Storage vs. Local Storage
 
-Ring primarily relies on cloud storage for video recordings and playback, requiring a paid Ring Protect subscription. Without a subscription, users can only access live view and receive motion alerts; no video recordings are saved. Ring Protect plans (Basic, Plus, and Pro) offer varying video retention periods, typically up to 180 days in the US, allowing users to review and download past events.
+Ring primarily relies on cloud storage for video recordings and playback, requiring a paid Ring Protect subscription. Without a subscription, users can only access live view and receive [motion alerts](https://quvii.com/learn/nest-cam-battery-false-motion-alerts-shadows-fixes); no video recordings are saved. Ring Protect plans (Basic, Plus, and Pro) offer varying video retention periods, typically up to 180 days in the US, allowing users to review and download past events.
 
 Local storage options for Ring doorbells are limited. While some competitor brands offer direct local storage to a microSD card, most Ring doorbells do not. The primary method for local storage with Ring products is through a Ring Alarm Pro system, which acts as a central hub with a microSD card slot. When paired with a Ring Alarm Pro and an active Ring Protect Pro subscription, certain Ring doorbells can record locally to the microSD card. However, this is not a standard feature across all models and requires additional hardware and a specific, higher-tier subscription.
 

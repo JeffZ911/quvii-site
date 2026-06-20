@@ -103,7 +103,7 @@ ONVIF is organized into "Profiles." When shopping for a camera or NVR, you must 
 | Profile | Purpose | Key Features |
 | :--- | :--- | :--- |
 | **Profile S** | Basic Video | Video streaming, PTZ control, audio in. |
-| **Profile T** | Advanced Video | H.264/H.265 support, motion alerts, imaging settings. |
+| **Profile T** | Advanced Video | H.264/H.265 support, [motion alerts](https://quvii.com/learn/nest-cam-battery-false-motion-alerts-shadows-fixes), imaging settings. |
 | **Profile G** | Edge Storage | Recording, searching, and retrieving video from the camera's SD card. |
 | **Profile M** | Metadata & AI | Analytics, object classification (person/vehicle), and face recognition data. |
 

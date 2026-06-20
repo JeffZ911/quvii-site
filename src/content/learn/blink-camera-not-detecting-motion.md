@@ -77,7 +77,7 @@ The 1–10 sensitivity slider in the Blink app adjusts the voltage threshold req
 
 ## Real-world implications
 
-The technical limitations of Blink's motion detection create specific security vulnerabilities that owners must mitigate through strategic placement.
+The technical limitations of Blink's [motion detection](https://quvii.com/blog/eufycam-s330-firmware-3-1-8-2-motion-detection-failure) create specific security vulnerabilities that owners must mitigate through strategic placement.
 
 ### The "Head-On" Security Gap
 The most common failure point for a Blink [Video Doorbell](https://quvii.com/learn/renter-friendly-wireless-video-doorbell-options-20260613) or [Outdoor 4](https://quvii.com/learn/blink-outdoor-4-battery-life-extreme-heat) is being mounted at the end of a long, straight walkway. Because the PIR sensor struggles with "head-on" movement, a porch pirate walking directly toward the door may not be detected until they are within 2 or 3 feet of the lens. By the time the camera wakes up and records, the person may already be turning away, obscuring their face.
