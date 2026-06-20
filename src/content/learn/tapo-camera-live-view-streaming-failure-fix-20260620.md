@@ -85,7 +85,7 @@ To fix a Tapo stream, you must understand the path the data takes. Tapo cameras 
 | **Connectivity** | 2.4GHz Wi-Fi | 2.4GHz + Ethernet | 2.4GHz Wi-Fi | 2.4GHz + Ethernet |
 | **Power Type** | 9V DC (Wired) | 9V DC (Wired) | 10,000mAh Battery | 9V DC (Wired) |
 | **Max SD Card** | 512GB | 512GB | 512GB | 512GB |
-| **RTSP Support** | Yes | Yes | No (Cloud/App only) | Yes |
+| **[RTSP Support](https://quvii.com/learn/wyze-cam-v4-rtsp-support-missing-update)** | Yes | Yes | No (Cloud/App only) | Yes |
 | **Typical Price**| Around $30-40 | Around $50-60 | Around $100-120 | Around $70-90 |
 
 *Data sourced from <a href="https://www.amazon.com/s?k=TP-Link+Tapo+Product+Specifications&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">TP-Link Tapo Product Specifications</a>.*

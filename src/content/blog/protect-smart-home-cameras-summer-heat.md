@@ -84,7 +84,7 @@ While an IP (Ingress Protection) rating indicates a camera's resistance to dust 
 ![Impact on existing owners](/img/protect-smart-home-cameras-summer-heat/inline-3.webp)
 
 
-Common symptoms of heat stress include intermittent operation, rapid battery drain, distorted or discolored video (e.g., purple tint), and infrared (IR) night vision failure. Lithium-ion batteries in wireless cameras are particularly vulnerable, with every 15°F increase above 77°F potentially halving their lifespan. Operating cameras outside their specified temperature range may void manufacturer warranties, leaving owners responsible for repair or replacement costs. Overheating can cause cameras to temporarily shut down to prevent damage, resulting in gaps in surveillance.
+Common symptoms of heat stress include intermittent operation, rapid battery drain, distorted or discolored video (e.g., purple tint), and infrared (IR) [night vision](https://quvii.com/learn/unifi-camera-night-vision-stuck-daytime-fix) failure. Lithium-ion batteries in wireless cameras are particularly vulnerable, with every 15°F increase above 77°F potentially halving their lifespan. Operating cameras outside their specified temperature range may void manufacturer warranties, leaving owners responsible for repair or replacement costs. Overheating can cause cameras to temporarily shut down to prevent damage, resulting in gaps in surveillance.
 
 ### Recognizing Heat Stress Symptoms
 

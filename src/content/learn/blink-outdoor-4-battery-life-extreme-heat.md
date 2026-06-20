@@ -227,11 +227,11 @@ While the camera is designed to operate within its specified temperature range, 
 *   Blinkforhome.com — [Blink Outdoor 4](https://quvii.com/blog/blink-outdoor-4-sync-module-2-connection-error-fix)
 *   Blinkforhome.com — Blink [Outdoor 4 Camera](https://quvii.com/blog/blink-outdoor-4-sync-module-2-connection-error-fix) Specifications
 *   amazonforum.com — Blink [Outdoor 4](https://quvii.com/blog/blink-outdoor-4-sync-module-2-connection-error-fix) Battery Life
-*   Bestbuy.com — Blink Outdoor 4 (2-Pack)
+*   Bestbuy.com — [Blink Outdoor 4](https://quvii.com/blog/blink-outdoor-4-sync-module-2-connection-error-fix) (2-Pack)
 *   Large-battery.com — Understanding Battery Life in Extreme Temperatures
-*   Vettedhomegear.com — Blink Outdoor 4 Review
+*   Vettedhomegear.com — [Blink Outdoor](https://quvii.com/blog/blink-outdoor-4-sync-module-2-connection-error-fix) 4 Review
 *   Blinkforhome.com — Using Rechargeable Batteries in Blink Cameras
-*   Reddit.com — Blink Outdoor 4 Battery Life in Hot Weather
+*   Reddit.com — Blink [Outdoor 4](https://quvii.com/blog/blink-outdoor-4-sync-module-2-connection-error-fix) Battery Life in Hot Weather
 *   Homedept.com — Blink Outdoor [4 Camera](https://quvii.com/blog/blink-outdoor-4-sync-module-2-connection-error-fix) with Sync [Module 2](https://quvii.com/blog/blink-outdoor-4-sync-module-2-connection-error-fix)
 *   Wattcycle.com — How Temperature Affects Battery Life
 *   Boltenergyusa.com — Lithium Battery Degradation

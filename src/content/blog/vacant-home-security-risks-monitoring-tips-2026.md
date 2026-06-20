@@ -205,7 +205,7 @@ Adhere to legal considerations for security cameras, including state-specific au
 ### Ongoing Maintenance and Best Practices
 
 Regularly check camera functionality, network security (WPA3, strong passwords), and review footage access permissions.
-*   **Regular Functionality Checks:** Periodically check camera feeds to ensure they are online, recording, and have a clear view. Test motion detection and alerts.
+*   **Regular Functionality Checks:** Periodically check camera feeds to ensure they are online, recording, and have a clear view. Test [motion detection](https://quvii.com/blog/eufycam-s330-firmware-3-1-8-2-motion-detection-failure) and alerts.
 *   **Network Security:** Ensure your home Wi-Fi network uses WPA3 encryption for the strongest protection against unauthorized access. Use strong, unique passwords for your Wi-Fi router and all camera accounts. Enable two-factor authentication (2FA) wherever possible.
 *   **Firmware Updates:** Set up automatic firmware updates or regularly check for and install them manually to benefit from security patches and new features.
 *   **Access Permissions:** If multiple users have access to the camera system (e.g., family members, trusted neighbors), regularly review and update their access permissions. Remove access for anyone who no longer needs it.

@@ -144,7 +144,7 @@ When considering the S330, the lack of a monthly fee is the primary draw. Howeve
 
 | System | Hardware Cost (2-Cam Kit) | 3-Year Sub. Cost | Add-on Costs (Storage/Solar) | Total 3-Year TCO |
 | :--- | :--- | :--- | :--- | :--- |
-| **eufyCam S330** | ~$450 - $500 | $0 | ~$70 (1TB SSD) | **~$520** |
+| **[eufyCam S330](https://quvii.com/blog/eufycam-s330-firmware-3-1-8-2-motion-detection-failure)** | ~$450 - $500 | $0 | ~$70 (1TB SSD) | **~$520** |
 | **Arlo Pro 5S** | ~$350 - $400 | ~$360 ($10/mo) | Included | **~$710** |
 | **Ring Spotlight Pro** | ~$400 - $450 | ~$360 ($10/mo) | ~$60 (Solar Panels) | **~$820** |
 | **Reolink 4K Solar** | ~$300 - $350 | $0 | ~$40 (SD Cards) | **~$340** |

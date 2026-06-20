@@ -111,7 +111,7 @@ A camera stuck in a blinking blue loop is more than a technical nuisance; it rep
 
 ### Security Gaps
 
-While the camera is blinking blue, it is offline. This means the PIR (Passive Infrared) sensor or the pixel-based motion detection logic is not uploading events. For users relying on the [Arlo Essential](https://quvii.com/blog/arlo-essential-2k-firmware-bricking-update) Indoor for baby monitoring or front-entry security, this loop creates a blind spot where no video is recorded, and no alerts are sent. If an incident occurs during this window, there is no local "failover" recording on the Essential Indoor, as it lacks an onboard microSD slot.
+While the camera is blinking blue, it is offline. This means the PIR (Passive Infrared) sensor or the pixel-based [motion detection](https://quvii.com/blog/eufycam-s330-firmware-3-1-8-2-motion-detection-failure) logic is not uploading events. For users relying on the [Arlo Essential](https://quvii.com/blog/arlo-essential-2k-firmware-bricking-update) Indoor for baby monitoring or front-entry security, this loop creates a blind spot where no video is recorded, and no alerts are sent. If an incident occurs during this window, there is no local "failover" recording on the Essential Indoor, as it lacks an onboard microSD slot.
 
 ### User Experience Impact
 

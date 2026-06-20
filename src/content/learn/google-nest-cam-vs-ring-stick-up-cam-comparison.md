@@ -175,7 +175,7 @@ Total cost of ownership (TCO) for a 3-camera setup over five years often exceeds
 | Feature | [Google Nest](https://quvii.com/blog/google-nest-community-forum-deletion-june-30) (Free) | Ring (Free) |
 | :--- | :--- | :--- |
 | **Live View** | Yes | Yes |
-| **Motion Alerts** | Yes | Yes |
+| **[Motion Alerts](https://quvii.com/learn/nest-cam-battery-false-motion-alerts-shadows-fixes)** | Yes | Yes |
 | **Video History** | 3 Hours (Events only) | None |
 | **Person Detection** | Included | Subscription Required |
 | **Rich Notifications** | Included | Subscription Required |

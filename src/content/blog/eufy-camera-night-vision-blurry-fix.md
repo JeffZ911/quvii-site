@@ -123,7 +123,7 @@ If the software is stable but the image is "milky," check the lens.
 *   **The Silica Hack:** For out-of-warranty units with internal condensation, some users on YouTube (e.g., LifeHackster channel) have successfully opened the battery compartment and tucked a 1g silica gel packet inside. This absorbs the internal moisture that causes [night vision](https://quvii.com/learn/wyze-cam-v4-night-vision-flickering-fix) fogging. *Warning: This may void your IP-rating/waterproofing.*
 
 ### The Positioning Fix: Eliminating IR Glare
-A common cause of "blurry" night vision is actually **IR Washout**. Infrared light reflects off nearby surfaces and "blinds" the sensor.
+A common cause of "blurry" [night vision](https://quvii.com/learn/unifi-camera-night-vision-stuck-daytime-fix) is actually **IR Washout**. Infrared light reflects off nearby surfaces and "blinds" the sensor.
 *   **The 30-Degree Rule:** Ensure no white walls, eaves, or gutters are within 2 feet of the lens. If they are, the IR light will bounce back, causing the background to go dark and blurry.
 *   **Wedge Mounts:** Use the 15 or 30-degree plastic wedges included in the box to angle the camera away from reflective surfaces.
 

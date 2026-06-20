@@ -136,7 +136,7 @@ Because of the "Silent Disarm" bug, the shield icon on your dashboard may be mis
 2.  **Is the camera battery above 15%?**
     *   *No:* Charge the camera. Arlo cameras often disable Wi-Fi to save the remaining 10% of power.
     *   *Yes:* Proceed to step 3.
-3.  **Does the camera respond to a 'Live View' request?**
+3.  **Does the camera respond to a '[Live View](https://quvii.com/learn/tapo-camera-live-view-streaming-failure-fix-20260620)' request?**
     *   *Yes:* The 'Offline' status is a UI ghost. Reinstall the app.
     *   *No:* Perform a hardware power cycle.
 

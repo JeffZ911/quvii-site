@@ -23,7 +23,7 @@ inline_image_sections:
   - "What to do now"
 ---
 
-Reports from early 2026 indicate a surge in Arlo Essential 2K cameras becoming unresponsive following mandatory firmware updates, leaving many users with "bricked" hardware that fails to reconnect to Wi-Fi or power on. This issue has reignited concerns regarding the long-term reliability of cloud-dependent security systems and the impact of manufacturer End-of-Life (EOL) policies on consumer hardware.
+Reports from early 2026 indicate a surge in [Arlo Essential](https://quvii.com/learn/arlo-essential-indoor-camera-blinking-blue-loop) 2K cameras becoming unresponsive following mandatory firmware updates, leaving many users with "bricked" hardware that fails to reconnect to Wi-Fi or power on. This issue has reignited concerns regarding the long-term reliability of cloud-dependent security systems and the impact of manufacturer End-of-Life (EOL) policies on consumer hardware.
 
 # Arlo Essential 2K Firmware Update Bricking: What Buyers Need to Know
 
@@ -65,7 +65,7 @@ As of 2026, Arlo has moved almost all "intelligence" features behind a paywall. 
 
 | Feature | Without Arlo Secure (Free) | With Arlo Secure (Paid) |
 | :--- | :--- | :--- |
-| **Video Resolution** | Live View Only (2K) | Cloud Recording (2K/4K) |
+| **Video Resolution** | [Live View](https://quvii.com/learn/tapo-camera-live-view-streaming-failure-fix-20260620) Only (2K) | Cloud Recording (2K/4K) |
 | **[Motion Alerts](https://quvii.com/learn/nest-cam-battery-false-motion-alerts-shadows-fixes)** | Basic (All Motion) | Smart (Person, Pet, Vehicle) |
 | **Storage** | None (No Cloud History) | 30-Day Cloud History |
 | **Activity Zones** | Not Available | Custom Cloud Zones |
