@@ -105,7 +105,7 @@ For those who already own Blink Outdoor 4 and Sync Module 2 systems, these conne
 
 ### Security Gaps During Downtime
 
-Intermittent "Live View" failures and "Sync Module Offline" errors create critical security gaps. If the system is not actively monitoring or recording, motion events can be missed, leaving the property vulnerable. This undermines the fundamental purpose of a security camera system and can significantly reduce the peace of mind for owners. The inability to check live feeds or review recorded footage promptly can be particularly problematic during emergencies or suspicious activity.
+Intermittent "[Live View](https://quvii.com/learn/tapo-camera-live-view-streaming-failure-fix-20260620)" failures and "Sync Module Offline" errors create critical security gaps. If the system is not actively monitoring or recording, motion events can be missed, leaving the property vulnerable. This undermines the fundamental purpose of a security camera system and can significantly reduce the peace of mind for owners. The inability to check live feeds or review recorded footage promptly can be particularly problematic during emergencies or suspicious activity.
 
 ### The Frustration of Manual Firmware Pushes
 

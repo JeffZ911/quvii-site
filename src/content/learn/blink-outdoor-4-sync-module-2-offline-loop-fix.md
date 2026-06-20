@@ -61,7 +61,7 @@ Understanding the root causes of the offline loop is essential for effective tro
 *   **Low Camera Battery:** The Blink [Outdoor 4 camera](https://quvii.com/blog/blink-outdoor-4-sync-module-2-connection-error-fix) is powered by two AA 1.5V lithium non-rechargeable batteries, which can last up to two years under default settings. However, as batteries deplete, the camera's radio transmitter becomes less efficient. It may have enough power to "ping" the module but not enough to sustain a high-bandwidth video stream, causing a disconnect.
 *   **Firmware Bugs:** Outdated or corrupted firmware on either the camera or the Sync [Module 2](https://quvii.com/blog/blink-outdoor-4-sync-module-2-connection-error-fix) can introduce connectivity issues. While updates are typically pushed automatically by Blink servers, a device caught in an offline loop may fail to download the very update intended to fix the stability issues.
 *   **Network Congestion and Interference:** Modern homes are crowded with 2.4 GHz devices, including microwaves, baby monitors, and Bluetooth speakers. These devices can "drown out" the low-power signal used by Blink, causing the [Sync Module](https://quvii.com/blog/blink-outdoor-4-sync-module-2-connection-error-fix) to lose its grip on the network.
-*   **Router Issues:** An overloaded or malfunctioning Wi-Fi router can fail to consistently provide the minimum 2 Mbps upload speed required per Blink device. If the router's DHCP table is full or its processor is throttled, it may intermittently "kick" the Sync Module off the network.
+*   **Router Issues:** An overloaded or malfunctioning Wi-Fi router can fail to consistently provide the minimum 2 Mbps upload speed required per Blink device. If the router's DHCP table is full or its processor is throttled, it may intermittently "kick" the [Sync Module](https://quvii.com/blog/blink-outdoor-4-sync-module-2-connection-error-fix) off the network.
 
 ## How it works under the hood
 
@@ -80,7 +80,7 @@ The Blink Sync [Module 2](https://quvii.com/blog/blink-outdoor-4-sync-module-2-c
 The Sync [Module 2](https://quvii.com/blog/blink-outdoor-4-sync-module-2-connection-error-fix) features a USB-A port that supports a USB flash drive (1 GB to 256 GB) for local storage of video clips. According to <a href="https://www.amazon.com/s?k=Blink%27s+official+support+documentation&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Blink's official support documentation</a>, without an active Blink Subscription Plan, motion clips are saved directly to this USB drive. However, the system still requires an internet connection to "arm" the system and notify the user. If the Sync Module is in an offline loop, local storage often fails because the module cannot receive the "start recording" command from the cloud.
 
 **Power Management**
-The Sync Module 2 helps conserve the battery life of the [Outdoor 4](https://quvii.com/blog/blink-outdoor-4-sync-module-2-connection-error-fix) cameras by keeping them in a low-power standby mode. The camera’s Wi-Fi chip is actually turned off most of the time; it only powers up when the LFR radio receives a "wake up" signal from the Sync Module. This is why a stable connection to the Sync Module is more critical for battery life than a connection to the router itself.
+The [Sync Module 2](https://quvii.com/blog/blink-outdoor-4-sync-module-2-connection-error-fix) helps conserve the battery life of the [Outdoor 4](https://quvii.com/blog/blink-outdoor-4-sync-module-2-connection-error-fix) cameras by keeping them in a low-power standby mode. The camera’s Wi-Fi chip is actually turned off most of the time; it only powers up when the LFR radio receives a "wake up" signal from the Sync Module. This is why a stable connection to the Sync Module is more critical for battery life than a connection to the router itself.
 
 **Specifications Comparison**
 
@@ -88,7 +88,7 @@ The Sync Module 2 helps conserve the battery life of the [Outdoor 4](https://quv
 | :--- | :--- | :--- | :--- |
 | **Resolution** | 1080p HD | 1080p HD | 1080p HD |
 | **Power Source** | 2 AA Lithium Batteries | Plug-in (AC) | Hardwired (AC) |
-| **Connection** | Sync Module 2 (LFR) | Direct Wi-Fi | Direct Wi-Fi |
+| **Connection** | Sync [Module 2](https://quvii.com/blog/blink-outdoor-4-sync-module-2-connection-error-fix) (LFR) | Direct Wi-Fi | Direct Wi-Fi |
 | **Local Storage** | USB via Sync Module 2 | USB via Sync Module 2 | USB via Sync Module 2 |
 | **Field of View** | 143° Diagonal | 143° Diagonal | 143° Diagonal |
 | **Person Detection** | Yes (with Subscription) | Yes (with Subscription) | Yes (with Subscription) |

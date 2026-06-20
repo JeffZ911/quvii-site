@@ -166,7 +166,7 @@ Modern cameras feature "AI" detection (Person, Vehicle, Pet). Many buyers assume
 ### Decision Framework: Which should you prioritize?
 
 *   **The Renter:** Prioritize **RTSP**. You likely won't install a permanent NVR. RTSP allows you to view your camera on a tablet or phone using free apps like VLC or IP Cam Viewer without a subscription.
-*   **The Homeowner:** Prioritize **ONVIF Profile T**. You want a system that lasts 10 years. Profile T ensures your 4K cameras will work with modern H.265 recorders and provides the best chance for motion alerts to work across different brands.
+*   **The Homeowner:** Prioritize **ONVIF Profile T**. You want a system that lasts 10 years. Profile T ensures your 4K cameras will work with modern H.265 recorders and provides the best chance for [motion alerts](https://quvii.com/learn/nest-cam-battery-false-motion-alerts-shadows-fixes) to work across different brands.
 *   **The Privacy Advocate:** Prioritize **RTSP + VLANs**. Look for cameras with documented RTSP paths so you can block their internet access entirely and feed the stream into an encrypted local server.
 *   **The Business Owner:** Prioritize **ONVIF Profile G and M**. You need "Edge Storage" (Profile G) so that if your network goes down, the cameras record to their internal SD cards and sync back to the NVR later.
 

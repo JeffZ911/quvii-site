@@ -77,7 +77,7 @@ Reliability is the primary metric for security hardware. Frequent app-side failu
 ![Impact on existing owners](/img/eufy-security-app-login-loop-june-2026-guide/inline-3.webp)
 
 
-For those currently trapped in the loop, the impact is immediate and practical. The most significant issue is the loss of Live View. If the app cannot maintain a session, users cannot check their cameras in real-time, effectively orphaning the hardware until a fix is applied.
+For those currently trapped in the loop, the impact is immediate and practical. The most significant issue is the loss of [Live View](https://quvii.com/learn/tapo-camera-live-view-streaming-failure-fix-20260620). If the app cannot maintain a session, users cannot check their cameras in real-time, effectively orphaning the hardware until a fix is applied.
 
 ### Is My Footage Safe?
 

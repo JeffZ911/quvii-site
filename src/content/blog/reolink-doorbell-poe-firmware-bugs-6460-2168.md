@@ -80,7 +80,7 @@ Many consumers choose Reolink for its robust, subscription-free local storage op
 | **Notifications**    | Push alerts, email alerts, siren     | Customizable alerts for [motion detection](https://quvii.com/blog/eufycam-s330-firmware-3-1-8-2-motion-detection-failure). Firmware bugs can impact reliability.                          |
 | **Wireless Chime**   | 433MHz wireless                       | Connects wirelessly to the doorbell for indoor alerts. Affected by v3.0.0.6460 bug.                     |
 | **Audio**            | Two-way audio                        | Built-in mic and speaker for communication.                                                              |
-| **Night Vision**     | IR LEDs                              | Infrared for low-light conditions. Image quality can be affected by firmware (e.g., v3.0.0.4662 HDR bug). |
+| **[Night Vision](https://quvii.com/learn/unifi-camera-night-vision-stuck-daytime-fix)**     | IR LEDs                              | Infrared for low-light conditions. Image quality can be affected by firmware (e.g., v3.0.0.4662 HDR bug). |
 | **Integrations**     | ONVIF, RTSP, Google Assistant        | Allows integration with third-party systems.                                                             |
 
 ## Impact on existing owners

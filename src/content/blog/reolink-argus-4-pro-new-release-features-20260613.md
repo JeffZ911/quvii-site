@@ -154,7 +154,7 @@ To get the most out of the new release features, follow these steps after purcha
 3.  **Optimize Solar Placement:** For a 4K camera with dual lenses, power consumption is higher than 1080p models. Ensure your solar panel receives at least 3-4 hours of direct sunlight daily.
 4.  **Review Privacy Settings:** Take a moment to set up a strong password and enable Two-Factor Authentication (2FA) within the [Reolink App](https://quvii.com/blog/reolink-app-crashing-ios-18-fixes) to secure your local footage from unauthorized access.
 
-The Argus 4 Pro stands as a benchmark for what consumer-grade, wire-free security should look like in 2026: wide-angle, high-resolution, and free from the "feature paywalls" that have come to define the industry. While the initial investment is higher than budget-tier cameras, the combination of ColorX night vision and 180-degree coverage provides a level of situational awareness that was previously only available in expensive, wired professional systems.
+The Argus 4 Pro stands as a benchmark for what consumer-grade, wire-free security should look like in 2026: wide-angle, high-resolution, and free from the "feature paywalls" that have come to define the industry. While the initial investment is higher than budget-tier cameras, the combination of ColorX [night vision](https://quvii.com/learn/unifi-camera-night-vision-stuck-daytime-fix) and 180-degree coverage provides a level of situational awareness that was previously only available in expensive, wired professional systems.
 
 ## Frequently Asked Questions
 

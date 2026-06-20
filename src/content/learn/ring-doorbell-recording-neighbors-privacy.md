@@ -198,7 +198,7 @@ When considering a Ring doorbell, it's crucial to look beyond the initial hardwa
 *   **Total 3-Year Cost:** $100 (Hardware) + $120 (Subscription) = **Around $220.**
 
 **Feature Paywall Trap:**
-The "feature paywall" is a significant consideration. Without a Ring Protect subscription, your Ring doorbell largely functions as a live-view camera with motion alerts. You *cannot* review recorded video, save clips, or share footage. Features like person detection, rich notifications, and even the ability to take snapshots are often tied to these subscriptions. For advanced features like 24/7 recording (on compatible cameras) or local storage via Ring Alarm Pro, you would need the higher-tier Ring Protect Pro plan, which costs around $200 per year. This significantly increases the TCO for users seeking comprehensive security functionality.
+The "feature paywall" is a significant consideration. Without a Ring Protect subscription, your Ring doorbell largely functions as a live-view camera with [motion alerts](https://quvii.com/learn/nest-cam-battery-false-motion-alerts-shadows-fixes). You *cannot* review recorded video, save clips, or share footage. Features like person detection, rich notifications, and even the ability to take snapshots are often tied to these subscriptions. For advanced features like 24/7 recording (on compatible cameras) or local storage via Ring Alarm Pro, you would need the higher-tier Ring Protect Pro plan, which costs around $200 per year. This significantly increases the TCO for users seeking comprehensive security functionality.
 
 This model contrasts sharply with cameras that offer free local storage and full feature sets without a subscription, making the initial hardware price of a Ring doorbell only part of the investment.
 

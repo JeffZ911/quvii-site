@@ -86,7 +86,7 @@ This is why modern H.265 (HEVC) or H.265+ codecs are mandatory for 4K cameras in
 
 ### ISP: Processing 8 Million Pixels
 
-The Image Signal Processor (ISP) is the brain of the camera. It handles tasks like Wide Dynamic Range (WDR), noise reduction, and motion detection. Processing 4K video requires an ISP with significantly more computational power than a 2K model. In 2026, top-tier ISPs also handle on-device AI, such as person and vehicle detection, directly on the 4K stream to ensure that alerts are both accurate and near-instant.
+The Image Signal Processor (ISP) is the brain of the camera. It handles tasks like Wide Dynamic Range (WDR), noise reduction, and [motion detection](https://quvii.com/blog/eufycam-s330-firmware-3-1-8-2-motion-detection-failure). Processing 4K video requires an ISP with significantly more computational power than a 2K model. In 2026, top-tier ISPs also handle on-device AI, such as person and vehicle detection, directly on the 4K stream to ensure that alerts are both accurate and near-instant.
 
 ## Real-world implications
 
