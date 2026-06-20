@@ -232,12 +232,12 @@ While the camera is designed to operate within its specified temperature range, 
 *   Vettedhomegear.com — [Blink Outdoor](https://quvii.com/blog/blink-outdoor-4-sync-module-2-connection-error-fix) 4 Review
 *   Blinkforhome.com — Using Rechargeable Batteries in Blink Cameras
 *   Reddit.com — Blink [Outdoor 4](https://quvii.com/blog/blink-outdoor-4-sync-module-2-connection-error-fix) Battery Life in Hot Weather
-*   Homedept.com — Blink Outdoor [4 Camera](https://quvii.com/blog/blink-outdoor-4-sync-module-2-connection-error-fix) with Sync [Module 2](https://quvii.com/blog/blink-outdoor-4-sync-module-2-connection-error-fix)
+*   Homedept.com — [Blink Outdoor](https://quvii.com/blog/blink-outdoor-4-sync-module-2-connection-error-fix) [4 Camera](https://quvii.com/blog/blink-outdoor-4-sync-module-2-connection-error-fix) with Sync [Module 2](https://quvii.com/blog/blink-outdoor-4-sync-module-2-connection-error-fix)
 *   Wattcycle.com — How Temperature Affects Battery Life
 *   Boltenergyusa.com — Lithium Battery Degradation
 *   Blinkforhome.com — Blink Subscription Plans
-*   Target.com — Blink Outdoor 4
-*   Pcmag.com — Blink Outdoor 4 Review
+*   Target.com — [Blink Outdoor 4](https://quvii.com/blog/blink-outdoor-4-sync-module-2-connection-error-fix)
+*   Pcmag.com — Blink [Outdoor 4](https://quvii.com/blog/blink-outdoor-4-sync-module-2-connection-error-fix) Review
 *   Amazon.com — Energizer Ultimate Lithium AA Batteries
 *   Techgearlab.com — Security Camera Placement Tips
 *   Citylabs.net — Understanding IP Ratings

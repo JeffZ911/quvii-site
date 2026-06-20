@@ -44,7 +44,7 @@ A significant portion of the reported issues correlates with the rollout of Sync
 
 ### Common Error Messages: 'Camera Busy' vs. 'Sync Module Offline'
 
-Two primary error messages dominate user reports when these connection issues arise. The "Sync Module Offline" error indicates a fundamental communication breakdown between the Sync Module 2 and the Blink servers or the home Wi-Fi network itself. This often prevents any camera connected to that module from functioning. Conversely, the "Camera Busy" message typically appears when a specific Blink Outdoor 4 camera is attempting to connect or record but cannot complete the action, often due to a poor or intermittent link with its assigned Sync Module 2. Other related messages include "Command failed to complete" when trying to arm the system or initiate a live view.
+Two primary error messages dominate user reports when these connection issues arise. The "Sync Module Offline" error indicates a fundamental communication breakdown between the Sync Module 2 and the Blink servers or the home Wi-Fi network itself. This often prevents any camera connected to that module from functioning. Conversely, the "Camera Busy" message typically appears when a specific Blink Outdoor 4 camera is attempting to connect or record but cannot complete the action, often due to a poor or intermittent link with its assigned Sync Module 2. Other related messages include "Command failed to complete" when trying to arm the system or initiate a [live view](https://quvii.com/learn/tapo-camera-live-view-streaming-failure-fix-20260620).
 
 ### Hardware Conflicts with Modern Mesh Routers
 

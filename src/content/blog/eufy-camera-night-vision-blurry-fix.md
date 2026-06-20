@@ -129,7 +129,7 @@ A common cause of "blurry" [night vision](https://quvii.com/learn/unifi-camera-n
 
 ### Navigating the Warranty Process
 If your S340 or S220 lens has turned milky due to UV exposure, do not accept "out of warranty" as a final answer. In mid-2026, Eufy has been granting "Warranty Exceptions" for this specific issue because it is a known material defect. 
-*   **What to provide:** High-resolution photos of the physical lens (showing the haze) and a screenshot of the blurry night vision footage.
+*   **What to provide:** High-resolution photos of the physical lens (showing the haze) and a screenshot of the blurry [night vision](https://quvii.com/learn/unifi-camera-night-vision-stuck-daytime-fix) footage.
 *   **The Ask:** Request a replacement unit with the "revised glass lens" (if available) or a credit toward the [S3 Pro](https://quvii.com/learn/eufycam-s3-pro-solar-charging-efficiency-tips).
 
 **Checklist: Recommended Eufy Video Settings (June 2026)**

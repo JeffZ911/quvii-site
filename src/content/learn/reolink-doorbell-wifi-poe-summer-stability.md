@@ -74,7 +74,7 @@ Understanding the internal workings of both Reolink doorbell models provides ins
 
 ### PoE: Wired Reliability
 
-The **Reolink Video Doorbell PoE** utilizes the IEEE 802.3af standard to deliver both electrical power and data over a single Ethernet cable. This means the device receives a continuous, stable power supply from a PoE switch or injector, eliminating concerns about power fluctuations or the need for a separate power source at the doorbell location. The dedicated wired network connection ensures a consistent data stream, largely immune to the wireless interference or signal degradation that can affect Wi-Fi signals, particularly over distances or through walls. This direct connection minimizes latency and packet loss, which are crucial for timely motion alerts and clear video streaming.
+The **Reolink Video Doorbell PoE** utilizes the IEEE 802.3af standard to deliver both electrical power and data over a single Ethernet cable. This means the device receives a continuous, stable power supply from a PoE switch or injector, eliminating concerns about power fluctuations or the need for a separate power source at the doorbell location. The dedicated wired network connection ensures a consistent data stream, largely immune to the wireless interference or signal degradation that can affect Wi-Fi signals, particularly over distances or through walls. This direct connection minimizes latency and packet loss, which are crucial for timely [motion alerts](https://quvii.com/learn/nest-cam-battery-false-motion-alerts-shadows-fixes) and clear video streaming.
 
 ### Wi-Fi: Wireless Convenience
 

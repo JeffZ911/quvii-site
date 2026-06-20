@@ -27,7 +27,7 @@ Reports from early 2026 indicate a surge in [Arlo Essential](https://quvii.com/l
 
 # Arlo Essential 2K Firmware Update Bricking: What Buyers Need to Know
 
-**Quick Answer:** Recent reports in 2026 indicate that firmware updates for Arlo Essential 2K cameras, and other Arlo devices, have led to cameras becoming inoperable or losing essential features, a phenomenon users describe as "bricking." This issue often coincides with Arlo's End-of-Life (EOL) policies, pushing users towards new hardware or paid subscriptions for core functionality.
+**Quick Answer:** Recent reports in 2026 indicate that firmware updates for [Arlo Essential](https://quvii.com/learn/arlo-essential-indoor-camera-blinking-blue-loop) 2K cameras, and other Arlo devices, have led to cameras becoming inoperable or losing essential features, a phenomenon users describe as "bricking." This issue often coincides with Arlo's End-of-Life (EOL) policies, pushing users towards new hardware or paid subscriptions for core functionality.
 
 ## What happened
 
