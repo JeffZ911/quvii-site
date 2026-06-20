@@ -129,7 +129,7 @@ If you are still missing clips, consider using **IFTTT (If This Then That)**. Bl
 For more detailed guides on maximizing your system, see Quvii’s deep dives on **[Sync Module 2](https://quvii.com/blog/blink-outdoor-4-sync-module-2-connection-error-fix) local storage setup** and our technical breakdown of **PIR vs Pixel detection explained**.
 
 ## Sources
-- <a href="https://www.amazon.com/s?k=Blink+Support+%E2%80%94+Troubleshooting+Motion+Detection&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Blink Support — Troubleshooting Motion Detection</a>
+- <a href="https://www.amazon.com/s?k=Blink+Support+%E2%80%94+Troubleshooting+Motion+Detection&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Blink Support — Troubleshooting [Motion Detection](https://quvii.com/blog/eufycam-s330-firmware-3-1-8-2-motion-detection-failure)</a>
 - <a href="https://www.amazon.com/s?k=Blink+Support+%E2%80%94+How+to+Placement+Your+Blink+Cameras&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Blink Support — How to Placement Your Blink Cameras</a>
 - RTINGS — [Blink Outdoor 4](https://quvii.com/learn/blink-outdoor-4-battery-life-extreme-heat) Review & Sensor Testing
 - <a href="https://www.amazon.com/s?k=Amazon+%E2%80%94+Blink+Subscription+Plan+Features&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Amazon — Blink Subscription Plan Features</a>

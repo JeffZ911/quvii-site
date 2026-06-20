@@ -98,7 +98,7 @@ Depending on the specific firmware version and hardware model, existing owners m
 
 ### Long-Term Stability and Security Considerations
 
-Older firmware issues, such as reported poor night vision HDR with v3.0.0.4662, could still affect users who haven't updated or who rolled back to a version with known image quality problems. This degrades the long-term utility of the device for nighttime monitoring. The burden of troubleshooting, checking power supplies, wiring, and network connections, only to find the issue is firmware-related, adds considerable frustration and time investment for existing owners.
+Older firmware issues, such as reported poor [night vision](https://quvii.com/learn/unifi-camera-night-vision-stuck-daytime-fix) HDR with v3.0.0.4662, could still affect users who haven't updated or who rolled back to a version with known image quality problems. This degrades the long-term utility of the device for nighttime monitoring. The burden of troubleshooting, checking power supplies, wiring, and network connections, only to find the issue is firmware-related, adds considerable frustration and time investment for existing owners.
 
 Reolink emphasizes data encryption (AES, RSA, HTTPS) and local storage options to enhance privacy and security. While firmware bugs primarily affect functionality, owners should ensure their firmware is up-to-date for security patches. Reolink regularly updates firmware to address vulnerabilities and improve overall security posture, making timely updates essential, provided they are stable. Staying on outdated, buggy firmware could potentially expose devices to known security risks.
 

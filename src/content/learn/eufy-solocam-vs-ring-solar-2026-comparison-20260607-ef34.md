@@ -52,7 +52,7 @@ To compare these fairly, we look at the current top-tier solar offerings from bo
 | :--- | :--- | :--- |
 | **Resolution** | 3K (2880 x 1620) Dual-Lens | 1080p HDR |
 | **Field of View** | 360° Pan/Tilt (135° Vertical) | 140° Horizontal / 80° Vertical |
-| **Motion Tech** | AI-based Image Analysis | 3D Motion Detection (Radar) |
+| **Motion Tech** | AI-based Image Analysis | 3D [Motion Detection](https://quvii.com/blog/eufycam-s330-firmware-3-1-8-2-motion-detection-failure) (Radar) |
 | **Storage Type** | 8GB Local (Expandable via HomeBase 3) | Cloud-Only (AWS) |
 | **2026 Sub. Cost** | $0 (Optional Cloud Available) | Around $50/year (Ring Protect Solo) |
 | **Night Vision** | Color (Spotlight) & IR | Color (Spotlight) & IR |

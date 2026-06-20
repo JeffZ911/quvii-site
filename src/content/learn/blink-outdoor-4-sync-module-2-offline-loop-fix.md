@@ -77,7 +77,7 @@ The Blink Sync [Module 2](https://quvii.com/blog/blink-outdoor-4-sync-module-2-c
 [Blink Outdoor](https://quvii.com/blog/blink-outdoor-4-sync-module-2-connection-error-fix) 4 cameras communicate with the [Sync Module 2](https://quvii.com/blog/blink-outdoor-4-sync-module-2-connection-error-fix) using a proprietary low-frequency radio (LFR) protocol (900 MHz). This frequency is excellent at penetrating walls and uses very little power, which is how Blink achieves its multi-year battery life. The Sync Module then uses your home's 2.4 GHz Wi-Fi to connect to the Blink cloud servers. When you request a Live View, the command goes: App → Blink Cloud → Router → Sync Module (Wi-Fi) → Camera (LFR). If any part of this path is blocked, the "loop" begins.
 
 **Local Storage Functionality**
-The Sync [Module 2](https://quvii.com/blog/blink-outdoor-4-sync-module-2-connection-error-fix) features a USB-A port that supports a USB flash drive (1 GB to 256 GB) for local storage of video clips. According to <a href="https://www.amazon.com/s?k=Blink%27s+official+support+documentation&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Blink's official support documentation</a>, without an active Blink Subscription Plan, motion clips are saved directly to this USB drive. However, the system still requires an internet connection to "arm" the system and notify the user. If the Sync Module is in an offline loop, local storage often fails because the module cannot receive the "start recording" command from the cloud.
+The Sync [Module 2](https://quvii.com/blog/blink-outdoor-4-sync-module-2-connection-error-fix) features a USB-A port that supports a USB flash drive (1 GB to 256 GB) for local storage of video clips. According to <a href="https://www.amazon.com/s?k=Blink%27s+official+support+documentation&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Blink's official support documentation</a>, without an active Blink Subscription Plan, motion clips are saved directly to this USB drive. However, the system still requires an internet connection to "arm" the system and notify the user. If the [Sync Module](https://quvii.com/blog/blink-outdoor-4-sync-module-2-connection-error-fix) is in an offline loop, local storage often fails because the module cannot receive the "start recording" command from the cloud.
 
 **Power Management**
 The [Sync Module 2](https://quvii.com/blog/blink-outdoor-4-sync-module-2-connection-error-fix) helps conserve the battery life of the [Outdoor 4](https://quvii.com/blog/blink-outdoor-4-sync-module-2-connection-error-fix) cameras by keeping them in a low-power standby mode. The camera’s Wi-Fi chip is actually turned off most of the time; it only powers up when the LFR radio receives a "wake up" signal from the Sync Module. This is why a stable connection to the Sync Module is more critical for battery life than a connection to the router itself.
@@ -89,7 +89,7 @@ The [Sync Module 2](https://quvii.com/blog/blink-outdoor-4-sync-module-2-connect
 | **Resolution** | 1080p HD | 1080p HD | 1080p HD |
 | **Power Source** | 2 AA Lithium Batteries | Plug-in (AC) | Hardwired (AC) |
 | **Connection** | Sync [Module 2](https://quvii.com/blog/blink-outdoor-4-sync-module-2-connection-error-fix) (LFR) | Direct Wi-Fi | Direct Wi-Fi |
-| **Local Storage** | USB via Sync Module 2 | USB via Sync Module 2 | USB via Sync Module 2 |
+| **Local Storage** | USB via [Sync Module 2](https://quvii.com/blog/blink-outdoor-4-sync-module-2-connection-error-fix) | USB via Sync Module 2 | USB via Sync Module 2 |
 | **Field of View** | 143° Diagonal | 143° Diagonal | 143° Diagonal |
 | **Person Detection** | Yes (with Subscription) | Yes (with Subscription) | Yes (with Subscription) |
 
@@ -106,7 +106,7 @@ An offline loop is more than a technical glitch; it is a fundamental failure of 
 
 ### Troubleshooting Steps
 
-To resolve the [Blink Outdoor](https://quvii.com/blog/blink-outdoor-4-sync-module-2-connection-error-fix) 4 Sync Module 2 offline loop, follow these steps in order:
+To resolve the [Blink Outdoor](https://quvii.com/blog/blink-outdoor-4-sync-module-2-connection-error-fix) 4 Sync [Module 2](https://quvii.com/blog/blink-outdoor-4-sync-module-2-connection-error-fix) offline loop, follow these steps in order:
 
 1.  **Check Sync Module 2 Status:** Inspect the physical LEDs on the module. A solid green light indicates power, and a solid blue light indicates an active internet connection. If the blue light is flashing or off, the module is the source of the loop. Power cycle it by unplugging it for 30 seconds.
 2.  **Verify Wi-Fi and Internet:** Ensure your router is broadcasting on the 2.4 GHz band. Some modern "Smart Connect" or "Whole Home" Wi-Fi systems try to force devices onto 5 GHz. You may need to create a dedicated 2.4 GHz guest network for your Blink devices.

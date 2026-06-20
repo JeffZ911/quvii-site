@@ -168,7 +168,7 @@ The Argus 4 Pro uses two separate lenses and sensors. The internal processor use
 Because it is a battery-powered camera, the Argus 4 Pro is designed for motion-activated recording to conserve energy. It is not intended for continuous 24/7 recording, as this would deplete the battery rapidly. For 24/7 recording, a wired PoE (Power over Ethernet) or plug-in Wi-Fi camera is recommended.
 
 ### What is ColorX technology and how is it different from standard night vision?
-Standard night vision uses infrared light (resulting in black-and-white footage) or bright white LEDs (spotlights) to see in the dark. ColorX uses a specialized F/1.0 aperture lens and a high-sensitivity sensor to capture ambient light, allowing for full-color footage in very low light without needing to turn on any visible lights.
+Standard [night vision](https://quvii.com/learn/unifi-camera-night-vision-stuck-daytime-fix) uses infrared light (resulting in black-and-white footage) or bright white LEDs (spotlights) to see in the dark. ColorX uses a specialized F/1.0 aperture lens and a high-sensitivity sensor to capture ambient light, allowing for full-color footage in very low light without needing to turn on any visible lights.
 
 ## Sources
 

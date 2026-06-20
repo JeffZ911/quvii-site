@@ -131,7 +131,7 @@ To avoid monthly subscription fees, many users opt for local storage. Ensure you
 The final step is the "Walk Test." This ensures your settings are calibrated for real-world scenarios.
 
 ### The 'Walk Test'
-Open the live view on your smartphone and walk toward your property from the street. Note exactly where the camera triggers. If it triggers while you are still on the public sidewalk, you will receive too many false alerts. Adjust the Motion Sensitivity slider in the app until it only triggers when someone enters your actual driveway or porch.
+Open the [live view](https://quvii.com/learn/tapo-camera-live-view-streaming-failure-fix-20260620) on your smartphone and walk toward your property from the street. Note exactly where the camera triggers. If it triggers while you are still on the public sidewalk, you will receive too many false alerts. Adjust the Motion Sensitivity slider in the app until it only triggers when someone enters your actual driveway or porch.
 
 Test the Notification Latency as well. On a healthy Wi-Fi 6 network, you should receive a "Motion Detected" alert on your phone within 2 seconds of the event. If it takes longer than 5 seconds, your Wi-Fi signal is likely too weak, and the camera is struggling to upload the initial alert frame.
 

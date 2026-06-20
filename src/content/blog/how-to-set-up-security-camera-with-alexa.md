@@ -102,7 +102,7 @@ While the latest Echo devices support <a href="https://www.amazon.com/s?k=Wi-Fi+
 
 ### The "Camera Doesn't Support That" Error
 
-This error frequently occurs if the camera's firmware is outdated or if the "Live View" permission is toggled off in the native manufacturer app. Always check for firmware updates in the camera's original app before troubleshooting the Alexa Skill.
+This error frequently occurs if the camera's firmware is outdated or if the "[Live View](https://quvii.com/learn/tapo-camera-live-view-streaming-failure-fix-20260620)" permission is toggled off in the native manufacturer app. Always check for firmware updates in the camera's original app before troubleshooting the Alexa Skill.
 
 ### Latency Lag on Older Models
 

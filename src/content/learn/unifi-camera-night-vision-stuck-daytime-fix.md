@@ -98,7 +98,7 @@ The ALS is the "brain" of the operation. It measures the lux levels in the envir
 A camera stuck in daytime mode is more than a technical nuisance; it is a security gap.
 
 ### Compromised Security
-The most obvious implication is the loss of evidence. Most residential and small-business crimes occur under the cover of darkness. If a UniFi G5 Bullet remains in daytime mode at 2:00 AM, the recorded footage will likely be a grainy, black void. Even if motion alerts are triggered, the lack of visual data makes the footage useless for law enforcement identification.
+The most obvious implication is the loss of evidence. Most residential and small-business crimes occur under the cover of darkness. If a UniFi G5 Bullet remains in daytime mode at 2:00 AM, the recorded footage will likely be a grainy, black void. Even if [motion alerts](https://quvii.com/learn/nest-cam-battery-false-motion-alerts-shadows-fixes) are triggered, the lack of visual data makes the footage useless for law enforcement identification.
 
 ### Reduced Usability and Reliability
 UniFi systems are often chosen for their "prosumer" reliability. When a camera fails to switch modes, it forces the user into a cycle of manual intervention. Users may find themselves manually toggling "Night Vision: Always On" in the Protect app every evening, which defeats the purpose of an automated security system. This reduces trust in the system's ability to operate autonomously during vacations or after-hours.

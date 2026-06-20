@@ -214,7 +214,7 @@ No, Ring does not automatically share your footage with the police. Law enforcem
 You can stop your Ring doorbell from recording your neighbor's property by using the Ring app to set up custom motion zones that exclude their area and by creating privacy zones to black out specific sensitive sections of their property from your camera's view.
 
 ### What happens if I don't have a Ring Protect subscription?
-Without a Ring Protect subscription, your Ring doorbell will still provide live view and send motion alerts, but it will not record or save any video footage. You will not be able to review past events or download clips.
+Without a Ring Protect subscription, your Ring doorbell will still provide live view and send [motion alerts](https://quvii.com/learn/nest-cam-battery-false-motion-alerts-shadows-fixes), but it will not record or save any video footage. You will not be able to review past events or download clips.
 
 ### Is End-to-End Encryption (E2EE) available on all Ring doorbells?
 E2EE is available on many newer Ring doorbell models, but it is an optional feature that must be manually enabled. It is not supported on all older models, and enabling it disables several smart features like shared users and pre-roll.
