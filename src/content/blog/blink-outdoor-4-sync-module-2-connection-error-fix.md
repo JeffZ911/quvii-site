@@ -186,7 +186,7 @@ The Sync Module XR is not a current Blink product, and the primary hub for curre
 
 ### When to give up: Identifying hardware failure vs. software bugs
 
-If, after trying all the above steps, your Sync Module 2 or Blink Outdoor [4 camera](https://quvii.com/learn/blink-outdoor-4-battery-drain-june-2026) still exhibits consistent connection errors, it might be time to consider whether you're dealing with a deeper hardware issue rather than a software bug or network misconfiguration.
+If, after trying all the above steps, your Sync Module 2 or [Blink Outdoor](https://quvii.com/learn/blink-outdoor-4-battery-drain-june-2026) [4 camera](https://quvii.com/learn/blink-outdoor-4-battery-drain-june-2026) still exhibits consistent connection errors, it might be time to consider whether you're dealing with a deeper hardware issue rather than a software bug or network misconfiguration.
 *   **Consistent LED patterns**: If the Sync Module 2's LEDs are consistently red or flashing in an unusual pattern that doesn't resolve with reboots, it might indicate hardware failure.
 *   **Device not recognized**: If the Blink app consistently fails to recognize the Sync Module 2 during setup, even after a hard reset, it could point to a faulty unit.
 *   **Isolation test**: If you have another Blink camera that works fine with the same Sync Module 2, the issue might be with the problematic camera itself. Conversely, if all cameras connected to a specific Sync Module 2 fail, the module is likely the problem.

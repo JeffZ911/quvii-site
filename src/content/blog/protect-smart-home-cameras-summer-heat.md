@@ -192,7 +192,7 @@ Yes, a physical sun shield or cover can significantly help. By blocking direct s
 
 ### Does heat affect wired cameras differently than wireless cameras?
 
-Yes, heat tends to affect wired and wireless cameras differently. Wired cameras generally have better heat tolerance because they lack a large internal lithium-ion battery, which is highly susceptible to heat degradation. Wireless cameras, relying on batteries, are more prone to rapid battery drain, reduced lifespan, and performance issues in high temperatures.
+Yes, heat tends to affect wired and wireless cameras differently. Wired cameras generally have better heat tolerance because they lack a large internal lithium-ion battery, which is highly susceptible to heat degradation. Wireless cameras, relying on batteries, are more prone to rapid [battery drain](https://quvii.com/learn/blink-outdoor-4-battery-drain-june-2026), reduced lifespan, and performance issues in high temperatures.
 
 ### Will my camera's warranty be voided if it overheats?
 

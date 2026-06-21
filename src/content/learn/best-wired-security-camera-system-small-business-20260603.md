@@ -135,7 +135,7 @@ The price floor for a functional 4-camera PoE system has dropped significantly.
 | :--- | :--- | :--- |
 | **Retailer / Coffee Shop** | 24/7 Recording & Audio | PoE NVR system with 12MP wide-angle dome cameras for "over-the-register" clarity. |
 | **High-Security / Gov Contractor** | NDAA Compliance | Brands like Ubiquiti, Hanwha, or Bosch; avoid Hikvision/Dahua. |
-| **Warehouse / Large Lot** | Long Range & Night Vision | PoE+ (802.3at) systems with high-intensity IR and PTZ capabilities. |
+| **Warehouse / Large Lot** | Long Range & [Night Vision](https://quvii.com/learn/unifi-camera-night-vision-stuck-daytime-fix) | PoE+ (802.3at) systems with high-intensity IR and PTZ capabilities. |
 | **Rented Small Office** | Minimal Damage / Hybrid | If you can't run cables, look for "Pro-sumer" Wi-Fi 6E cameras that still support local SD-card recording to avoid cloud fees. |
 
 ### Total Cost of Ownership (TCO) Analysis (3-Year)

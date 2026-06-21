@@ -131,7 +131,7 @@ While this specific update focuses on event uploading errors, it includes minor 
 It is not recommended to skip this update. Even if you primarily use local storage, the 1.3.0.48 update contains security patches that protect the camera from unauthorized access. Additionally, the fix for "event uploading" also improves the stability of the camera's general connection to the Wyze app for live viewing.
 
 ### Will this update fix the glare on my window cam?
-No, firmware cannot fix physical glare. Glare is caused by internal room lights or the camera's own IR LEDs reflecting off the window glass. To fix glare, you must use the Wyze Window Mount, turn off the camera's "Night Vision IR Lights" in settings, and ensure the room behind the camera is dark.
+No, firmware cannot fix physical glare. Glare is caused by internal room lights or the camera's own IR LEDs reflecting off the window glass. To fix glare, you must use the Wyze Window Mount, turn off the camera's "[Night Vision](https://quvii.com/learn/unifi-camera-night-vision-stuck-daytime-fix) IR Lights" in settings, and ensure the room behind the camera is dark.
 
 ## Sources
 - Wyze Release Notes & Firmware History

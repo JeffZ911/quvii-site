@@ -49,7 +49,7 @@ In the June 2026 version of the Blink app, users may encounter a "High Usage" ba
 | Usage Metric | 2-Year Spec Profile | High Usage Profile | 2026 "Rapid Drain" Profile |
 | :--- | :--- | :--- | :--- |
 | **Daily Clip Volume** | ~5-10 clips (5s each) | 20-40 clips | 60+ clips |
-| **Live View Usage** | < 10 seconds/day | 1 minute/day | 5+ minutes/day |
+| **[Live View](https://quvii.com/learn/tapo-camera-live-view-streaming-failure-fix-20260620) Usage** | < 10 seconds/day | 1 minute/day | 5+ minutes/day |
 | **Sync Module Signal** | 3+ bars (LFR) | 1-2 bars | 0-1 bar (Frequent retries) |
 | **Est. Battery Life** | 24 Months | 4-6 Months | < 3 Months |
 
