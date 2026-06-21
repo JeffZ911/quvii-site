@@ -101,7 +101,7 @@ The choice between cloud and local storage also has significant privacy implicat
 ![Impact on existing owners](/img/blink-outdoor-4-sync-module-2-connection-error-fix/inline-3.webp)
 
 
-For those who already own Blink Outdoor 4 and Sync Module 2 systems, these connection errors translate directly into a degraded security experience and increased frustration.
+For those who already own [Blink Outdoor 4](https://quvii.com/learn/blink-outdoor-4-battery-drain-june-2026) and Sync Module 2 systems, these connection errors translate directly into a degraded security experience and increased frustration.
 
 ### Security Gaps During Downtime
 
@@ -117,7 +117,7 @@ Local storage relies heavily on the health and compatibility of the USB drive in
 
 **Benchmark: Battery Life Impact of Poor Sync Module Connectivity**
 
-When a Blink Outdoor [4 camera](https://quvii.com/learn/blink-outdoor-4-battery-drain-june-2026) struggles to connect to its Sync Module 2, it enters a "searching" or "reconnecting" state. This constant effort to establish a link consumes significantly more power than normal operation. While Blink Outdoor 4 cameras are advertised to last up to two years on two AA lithium batteries (such as Energizer Ultimate Lithium) under optimal conditions, prolonged connection issues can drastically reduce this lifespan. Users have reported battery depletion in a matter of weeks or a few months when their cameras are stuck in a persistent "searching" mode. This increased battery consumption adds to the total cost of ownership through frequent battery replacements and diminishes the convenience factor of a wire-free system.
+When a [Blink Outdoor](https://quvii.com/learn/blink-outdoor-4-battery-drain-june-2026) [4 camera](https://quvii.com/learn/blink-outdoor-4-battery-drain-june-2026) struggles to connect to its Sync Module 2, it enters a "searching" or "reconnecting" state. This constant effort to establish a link consumes significantly more power than normal operation. While Blink [Outdoor 4](https://quvii.com/learn/blink-outdoor-4-battery-drain-june-2026) cameras are advertised to last up to two years on two AA lithium batteries (such as Energizer Ultimate Lithium) under optimal conditions, prolonged connection issues can drastically reduce this lifespan. Users have reported battery depletion in a matter of weeks or a few months when their cameras are stuck in a persistent "searching" mode. This increased battery consumption adds to the total cost of ownership through frequent battery replacements and diminishes the convenience factor of a wire-free system.
 
 ## What to do now
 
@@ -208,7 +208,7 @@ No, you cannot use just any USB drive. The Blink Sync Module 2 requires a USB fl
 No, Blink does not require a subscription for local storage if you use a compatible USB drive with your Sync Module 2. The Sync Module 2 enables clips to be saved directly to the USB drive without any monthly fees. A subscription is only necessary for cloud storage and additional features.
 
 ### How do I know if my Blink camera's battery drain is normal or due to a connection error?
-Normal battery life for a Blink Outdoor 4 camera is up to two years with lithium AA batteries. If your batteries are depleting in weeks or a few months, especially when accompanied by connection errors like "Camera Busy" or "Sync Module Offline," it's likely due to the camera constantly searching for the Sync Module, which consumes excessive power.
+Normal battery life for a Blink [Outdoor 4 camera](https://quvii.com/learn/blink-outdoor-4-battery-drain-june-2026) is up to two years with lithium AA batteries. If your batteries are depleting in weeks or a few months, especially when accompanied by connection errors like "Camera Busy" or "Sync Module Offline," it's likely due to the camera constantly searching for the Sync Module, which consumes excessive power.
 
 ## Sources
 

@@ -63,7 +63,7 @@ When choosing a camera to pair with the window mount, buyers must balance resolu
 | :--- | :--- | :--- | :--- |
 | **Resolution** | 1080p | 2K | 2.5K (QHD) |
 | **Field of View** | 130° | 116° | 116° |
-| **Night Vision** | Color (Starlight) | Color (Starlight) | Enhanced Color |
+| **[Night Vision](https://quvii.com/learn/unifi-camera-night-vision-stuck-daytime-fix)** | Color (Starlight) | Color (Starlight) | Enhanced Color |
 | **On-Device AI** | Limited | Person Detection | Person/Pet/Vehicle |
 | **Price Band** | Around $35 | Around $50 | $35–$45 |
 | **Window Mount** | Compatible | Compatible | Compatible |

@@ -130,7 +130,7 @@ For many, an Arlo Solar Panel is the only way to achieve "set and forget" operat
 
 
 ### Misconception: "Turning the camera off in the app stops drain."
-**Reality:** Even when "Disarmed," the camera’s PIR sensor and Wi-Fi radio remain active so that they can respond to an "Arm" command or a "Live View" request. To truly stop drain, the battery must be physically removed or the camera must be powered down via a hardware switch (available on some Essential models).
+**Reality:** Even when "Disarmed," the camera’s PIR sensor and Wi-Fi radio remain active so that they can respond to an "Arm" command or a "[Live View](https://quvii.com/learn/tapo-camera-live-view-streaming-failure-fix-20260620)" request. To truly stop drain, the battery must be physically removed or the camera must be powered down via a hardware switch (available on some Essential models).
 
 ### Misconception: "Activity Zones save battery."
 **Reality:** This is the most common misunderstanding of Arlo's tech. If the camera is running on battery, the PIR sensor "sees" everything in its wide-angle heat map. If motion is detected *anywhere*, the camera wakes up and looks at the image. Only *after* waking up does it [check if](https://quvii.com/blog/how-to-check-wyze-camera-recall-status-2026) the motion happened inside your Activity Zone. If it's outside the zone, it discards the clip—but the battery was already used to wake up and check. To save battery, you must use **physical masking** (moving the camera) or adjust the **Motion Sensitivity** slider.
