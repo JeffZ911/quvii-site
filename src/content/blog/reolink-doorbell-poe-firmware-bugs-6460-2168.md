@@ -151,7 +151,7 @@ Reolink emphasizes local storage options, meaning your video recordings can be k
 *   reddit.com — Reolink Doorbell POE - No chime after firmware update 3.0.0.6460
 *   reddit.com — Reolink Doorbell PoE V1 (DB_566128M5MP_P) [Firmware 3](https://quvii.com/blog/eufycam-s330-firmware-3-1-8-2-motion-detection-failure).0.0.6460_2605211898 - Chime not working
 *   reddit.com — Reolink WiFi Doorbell [Firmware 3](https://quvii.com/blog/eufycam-s330-firmware-3-1-8-2-motion-detection-failure).0.0.2033_23041300 - Notifications not working
-*   reddit.com — Reolink WiFi Doorbell [Firmware 3](https://quvii.com/blog/eufycam-s330-firmware-3-1-8-2-motion-detection-failure).0.0.4662_2508071282 - Night Vision HDR degradation
+*   reddit.com — Reolink WiFi Doorbell [Firmware 3](https://quvii.com/blog/eufycam-s330-firmware-3-1-8-2-motion-detection-failure).0.0.4662_2508071282 - [Night Vision](https://quvii.com/learn/unifi-camera-night-vision-stuck-daytime-fix) HDR degradation
 *   reolink.com — Reolink Download Center
 *   reolink.com — Reolink Doorbell PoE Product Page
 *   reolink.com — Reolink WiFi Doorbell Product Page

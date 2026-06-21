@@ -74,7 +74,7 @@ As of 2026, Arlo has moved almost all "intelligence" features behind a paywall. 
 
 Data source: <a href="https://www.amazon.com/s?k=Arlo.com+Subscription+Tiers&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Arlo.com Subscription Tiers</a> (Verified 2026).
 
-Without a subscription, an Arlo Essential 2K camera effectively becomes a "dumb" doorbell camera that can only show you a live feed. If a package is stolen while you are not looking at your phone, there is no recorded footage to provide to the police unless you have invested in an Arlo SmartHub for local storage—an additional hardware expense in the "$80-100" range.
+Without a subscription, an [Arlo Essential](https://quvii.com/learn/arlo-essential-indoor-camera-blinking-blue-loop) 2K camera effectively becomes a "dumb" doorbell camera that can only show you a live feed. If a package is stolen while you are not looking at your phone, there is no recorded footage to provide to the police unless you have invested in an Arlo SmartHub for local storage—an additional hardware expense in the "$80-100" range.
 
 ### Arlo's End-of-Life Policies and Consumer Trust
 The most significant risk for buyers is Arlo's [End-of-Life (EOL) Policy](https://kb.arlo.com/000063018/Arlo-Legacy-End-of-Life-Policy). In early 2023, Arlo faced significant backlash for announcing the EOL of several popular models, which initially included the removal of free [cloud storage](https://quvii.com/blog/wyze-cam-v4-cloud-storage-subscription-changes-2026). While they walked back some of the more aggressive terms, the policy remains a core part of their operations in 2026.

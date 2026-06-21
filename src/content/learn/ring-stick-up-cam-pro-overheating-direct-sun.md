@@ -132,7 +132,7 @@ It is true that the Stick Up Cam Pro will feel warm during normal operation, esp
 While the battery is a major heat source, the "Plug-In" version of the Stick Up Cam Pro can also overheat. In wired models, the AC-to-DC power conversion process generates its own heat. The image sensor and the Wi-Fi radio are significant contributors to the thermal budget, regardless of the power source.
 
 ### 'Darker cameras always overheat more than lighter ones.'
-There is some truth to this—black surfaces absorb more solar energy than white ones. However, internal thermal management matters more. A white camera with a high-duty cycle (constant recording) may run hotter than a black camera that is mostly idle. That said, if you live in a high-heat climate like Arizona or Florida, choosing the "White" color option for the Stick Up Cam Pro provides a measurable thermal advantage in direct sun.
+There is some truth to this—black surfaces absorb more solar energy than white ones. However, internal thermal management matters more. A white camera with a high-duty cycle (constant recording) may run hotter than a black camera that is mostly idle. That said, if you live in a high-heat climate like Arizona or Florida, choosing the "White" color option for the Stick Up Cam Pro provides a measurable thermal advantage in [direct sun](https://quvii.com/blog/eufy-cam-e330-professional-overheating-direct-sun).
 
 ### 'Firmware updates will fix all overheating problems.'
 Software can help by making the camera more efficient, but it cannot override the laws of physics. If a camera is absorbing 50 watts of solar energy and can only dissipate 10 watts through its shell, no firmware update can prevent it from eventually overheating. Software is a bandage; placement is the cure.

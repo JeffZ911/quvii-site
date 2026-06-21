@@ -95,7 +95,7 @@ This $330 gap represents the "subscription tax." Without the subscription, the R
 The technical divide between these two brands lies in where the "thinking" happens. eufy processes data on the device (Edge AI), while Ring relies on a round-trip to Amazon Web Services (AWS) servers.
 
 ### Radar vs. PIR: The Motion Detection War
-Ring’s "3D Motion Detection" uses 60GHz radar technology to measure the exact distance of an object from the camera. This allows users to set a "threshold" (e.g., only alert if someone comes within 15 feet). This is significantly more accurate than the Passive Infrared (PIR) sensors used in older cameras, which often trigger for swaying trees or passing cars.
+Ring’s "3D [Motion Detection](https://quvii.com/blog/eufycam-s330-firmware-3-1-8-2-motion-detection-failure)" uses 60GHz radar technology to measure the exact distance of an object from the camera. This allows users to set a "threshold" (e.g., only alert if someone comes within 15 feet). This is significantly more accurate than the Passive Infrared (PIR) sensors used in older cameras, which often trigger for swaying trees or passing cars.
 
 eufy, conversely, uses its BionicMind AI. Instead of radar, it uses an on-device Neural Processing Unit (NPU) to analyze the video feed in real-time. It looks for human shapes, faces, and vehicles. While it lacks Ring's "Bird's Eye View" (a top-down map of a person's path), eufy’s [facial recognition](https://quvii.com/blog/ring-facial-recognition-lawsuit-impact-2026) allows it to distinguish between a family member and a stranger, a feature Ring currently gates behind its subscription.
 

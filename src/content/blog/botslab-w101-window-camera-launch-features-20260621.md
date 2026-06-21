@@ -24,7 +24,7 @@ The challenge of monitoring a home’s exterior from behind a pane of glass has 
 
 # Botslab W101 Window Camera Launch: Dual-Lens 2.5K Security Without the Drill
 
-**Quick Answer:** Launched June 10, 2026, the Botslab W101 is a dual-lens window camera featuring 2.5K resolution for both indoor and outdoor views, F1.0 aperture for color night vision through glass, and tool-free electrostatic mounting.
+**Quick Answer:** Launched June 10, 2026, the Botslab W101 is a dual-lens window camera featuring 2.5K resolution for both indoor and outdoor views, F1.0 aperture for color [night vision](https://quvii.com/learn/unifi-camera-night-vision-stuck-daytime-fix) through glass, and tool-free electrostatic mounting.
 
 ## What happened
 <!-- auto-related -->
@@ -41,7 +41,7 @@ Positioned as a "no-drill" solution, the W101 is aimed squarely at renters and a
 
 ### D1: Technical Specifications Comparison
 
-| Feature | Botslab W101 | Wyze Window Cam (Legacy) | Girafit W150 |
+| Feature | Botslab W101 | [Wyze Window Cam](https://quvii.com/blog/wyze-window-cam-firmware-1-3-0-48-update-security-performance) (Legacy) | Girafit W150 |
 | :--- | :--- | :--- | :--- |
 | **Resolution** | 2.5K (2560 x 1440) x2 | 1080p (1920 x 1080) | 2.5K (Single Lens) |
 | **Lens Count** | Dual (Indoor + Outdoor) | Single (Outdoor Only) | Single (Outdoor Only) |
@@ -65,9 +65,9 @@ Traditional window cameras rely on VHB (Very High Bond) adhesives that can be di
 ![Why it matters for buyers](/img/botslab-w101-window-camera-launch-features-20260621/inline-2.webp)
 
 
-For the average consumer, the W101 represents a consolidation of hardware. Previously, securing an apartment entry required an outdoor camera (often banned by HOAs) and an indoor camera. By combining these into a single window-mounted unit, buyers reduce their initial hardware investment and simplify their network load.
+For the average consumer, the W101 represents a consolidation of hardware. Previously, securing an apartment entry required an outdoor camera (often banned by HOAs) and an [indoor camera](https://quvii.com/learn/arlo-essential-indoor-camera-blinking-blue-loop). By combining these into a single window-mounted unit, buyers reduce their initial hardware investment and simplify their network load.
 
-The inclusion of dual-band Wi-Fi (2.4GHz and 5GHz) is equally significant. In high-density apartment buildings, the 2.4GHz spectrum is often saturated, leading to dropped frames and lagging notifications. The W101’s ability to utilize the 5GHz band ensures that the high-bandwidth 2.5K dual streams remain stable, providing a smoother "live view" experience.
+The inclusion of dual-band Wi-Fi (2.4GHz and 5GHz) is equally significant. In high-density apartment buildings, the 2.4GHz spectrum is often saturated, leading to dropped frames and lagging notifications. The W101’s ability to utilize the 5GHz band ensures that the high-bandwidth 2.5K dual streams remain stable, providing a smoother "[live view](https://quvii.com/learn/tapo-camera-live-view-streaming-failure-fix-20260620)" experience.
 
 ### The Renter's Edge: Security Without Property Damage
 Renters face a unique challenge: they need security but cannot modify the building. The W101 addresses this by remaining entirely inside the thermal envelope of the home. Because it doesn't require drilling through exterior walls for power or mounting, it circumvents most lease restrictions. This makes it a top contender for those seeking window security cameras that can be removed in seconds without leaving a trace.
