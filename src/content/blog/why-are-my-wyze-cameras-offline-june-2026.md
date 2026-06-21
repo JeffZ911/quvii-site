@@ -76,7 +76,7 @@ The June 2026 update has also highlighted a growing issue: "app-based obsolescen
 | :--- | :--- | :--- | :--- |
 | **Resolution** | 2.5K (QHD) | 4K (UHD) | 2K |
 | **Storage** | Cloud + MicroSD (limited) | Local NVR / MicroSD | HomeBase 3 (Local) |
-| **Offline Function** | No Live View / No Alerts | Full Local Recording | Local Recording Only |
+| **Offline Function** | No [Live View](https://quvii.com/learn/tapo-camera-live-view-streaming-failure-fix-20260620) / No Alerts | Full Local Recording | Local Recording Only |
 | **Subscription** | $3/mo (Cam Plus) | Optional | Optional |
 | **Price Band** | Under $50 | $150-200 | $100-150 |
 

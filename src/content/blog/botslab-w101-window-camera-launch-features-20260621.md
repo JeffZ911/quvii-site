@@ -45,7 +45,7 @@ Positioned as a "no-drill" solution, the W101 is aimed squarely at renters and a
 | :--- | :--- | :--- | :--- |
 | **Resolution** | 2.5K (2560 x 1440) x2 | 1080p (1920 x 1080) | 2.5K (Single Lens) |
 | **Lens Count** | Dual (Indoor + Outdoor) | Single (Outdoor Only) | Single (Outdoor Only) |
-| **Aperture** | F1.0 (Color Night Vision) | F1.6 (IR-dependent) | [information unavailable] |
+| **Aperture** | F1.0 (Color [Night Vision](https://quvii.com/learn/unifi-camera-night-vision-stuck-daytime-fix)) | F1.6 (IR-dependent) | [information unavailable] |
 | **Wi-Fi** | Dual-Band (2.4/5GHz) | 2.4GHz Only | 2.4GHz Only |
 | **Mounting** | Electrostatic Sticker | Adhesive Tape | Adhesive Tape |
 | **Storage** | MicroSD (up to 256GB) | MicroSD (up to 32GB) | MicroSD (up to 128GB) |

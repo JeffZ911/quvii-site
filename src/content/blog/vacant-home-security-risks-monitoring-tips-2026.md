@@ -149,7 +149,7 @@ Older systems might lack advanced AI features that differentiate between threats
 
 ### Upgrading for Enhanced Intelligence and Efficiency
 
-Reviewing and updating firmware is vital to access new security features, patch vulnerabilities, and improve performance. Manufacturers frequently release firmware updates that introduce new AI algorithms, enhance night vision, improve battery efficiency, and address security flaws. Neglecting these updates can leave a system vulnerable to exploits and prevent it from operating at its full potential.
+Reviewing and updating firmware is vital to access new security features, patch vulnerabilities, and improve performance. Manufacturers frequently release firmware updates that introduce new AI algorithms, enhance [night vision](https://quvii.com/learn/unifi-camera-night-vision-stuck-daytime-fix), improve battery efficiency, and address security flaws. Neglecting these updates can leave a system vulnerable to exploits and prevent it from operating at its full potential.
 
 For systems that are several years old, a hardware upgrade might be necessary to gain access to features like 4K resolution, advanced AI, or integrated [solar charging](https://quvii.com/learn/eufycam-s3-pro-solar-charging-efficiency-tips) that were not widely available at the time of purchase. Many newer cameras offer significantly better image quality, wider fields of view, and more robust weather resistance, directly impacting their effectiveness in monitoring a vacant home.
 

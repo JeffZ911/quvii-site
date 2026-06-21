@@ -177,7 +177,7 @@ Note: Ring Protect is essentially mandatory for this device, as it locks video h
 ![Further reading](/img/ring-stick-up-cam-pro-overheating-direct-sun/inline-6.webp)
 
 
-*   **Optimal Placement for Outdoor Security Cameras:** Strategies to minimize direct sun exposure and maximize performance.
+*   **Optimal Placement for Outdoor Security Cameras:** Strategies to minimize [direct sun](https://quvii.com/blog/eufy-cam-e330-professional-overheating-direct-sun) exposure and maximize performance.
 *   **Understanding IP Ratings:** What weather-resistance ratings mean for your camera's durability.
 *   **Security Camera Power Options:** A comparison of battery, wired, and solar solutions and their thermal considerations.
 *   **Choosing Security Cameras for Extreme Climates:** Features to look for when living in very hot or cold regions.

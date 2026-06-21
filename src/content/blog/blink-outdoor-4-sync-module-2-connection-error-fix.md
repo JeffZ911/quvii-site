@@ -55,7 +55,7 @@ Modern home networks increasingly rely on mesh Wi-Fi systems that often combine 
 | Device           | Common Firmware Versions (2026) |
 | :--------------- | :------------------------------ |
 | Sync Module 2    | 16.0.36, 4.5.38                 |
-| Blink Outdoor 4  | [information unavailable]       |
+| [Blink Outdoor 4](https://quvii.com/learn/blink-outdoor-4-battery-drain-june-2026)  | [information unavailable]       |
 | Sync Module Core | [information unavailable]       |
 
 ## Why it matters for buyers
@@ -77,8 +77,8 @@ Considering the total cost of ownership (TCO) is crucial when evaluating securit
 
 | System                      | Hardware Cost (Approx. 1 camera kit) | Subscription Cost (3 Years) | Total 3-Year Cost |
 | :-------------------------- | :----------------------------------- | :-------------------------- | :---------------- |
-| Blink Outdoor 4 + Sync M2 (No Subscription) | $100-200                             | $0                          | $100-200          |
-| Blink Outdoor 4 + Sync M2 (With Blink Plus) | $100-200                             | $300 (3 x $100/year)        | $400-500          |
+| [Blink Outdoor](https://quvii.com/learn/blink-outdoor-4-battery-drain-june-2026) 4 + Sync M2 (No Subscription) | $100-200                             | $0                          | $100-200          |
+| Blink [Outdoor 4](https://quvii.com/learn/blink-outdoor-4-battery-drain-june-2026) + Sync M2 (With Blink Plus) | $100-200                             | $300 (3 x $100/year)        | $400-500          |
 | Eufy S330 eufyCam 3 + HomeBase 3 | $250-350 (often higher initial)     | $0                          | $250-350          |
 | [Reolink Argus 4 Pro](/blog/reolink-argus-4-pro-new-release-features-20260613) (Local SD Card) | $100-200                             | $0                          | $100-200          |
 
@@ -130,7 +130,7 @@ If you're experiencing connection errors with your Blink Outdoor 4 and Sync Modu
 
 A simple power cycle can often resolve temporary glitches.
 1.  **Sync Module 2**: Unplug the Sync Module 2 from its power outlet for at least 30 seconds, then plug it back in. Wait for the blue and green lights to become solid.
-2.  **Blink Outdoor 4 Camera**: Remove the batteries from your Blink Outdoor 4 camera for 10 seconds, then reinsert them. The camera should attempt to reconnect.
+2.  **Blink [Outdoor 4 Camera](https://quvii.com/learn/blink-outdoor-4-battery-drain-june-2026)**: Remove the batteries from your Blink Outdoor 4 camera for 10 seconds, then reinsert them. The camera should attempt to reconnect.
 
 ### Step 2: Network Optimization—Assigning a Static IP/DHCP Reservation
 
@@ -186,7 +186,7 @@ The Sync Module XR is not a current Blink product, and the primary hub for curre
 
 ### When to give up: Identifying hardware failure vs. software bugs
 
-If, after trying all the above steps, your Sync Module 2 or Blink Outdoor 4 camera still exhibits consistent connection errors, it might be time to consider whether you're dealing with a deeper hardware issue rather than a software bug or network misconfiguration.
+If, after trying all the above steps, your Sync Module 2 or Blink Outdoor [4 camera](https://quvii.com/learn/blink-outdoor-4-battery-drain-june-2026) still exhibits consistent connection errors, it might be time to consider whether you're dealing with a deeper hardware issue rather than a software bug or network misconfiguration.
 *   **Consistent LED patterns**: If the Sync Module 2's LEDs are consistently red or flashing in an unusual pattern that doesn't resolve with reboots, it might indicate hardware failure.
 *   **Device not recognized**: If the Blink app consistently fails to recognize the Sync Module 2 during setup, even after a hard reset, it could point to a faulty unit.
 *   **Isolation test**: If you have another Blink camera that works fine with the same Sync Module 2, the issue might be with the problematic camera itself. Conversely, if all cameras connected to a specific Sync Module 2 fail, the module is likely the problem.
