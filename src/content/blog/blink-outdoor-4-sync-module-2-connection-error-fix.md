@@ -124,13 +124,13 @@ When a [Blink Outdoor](https://quvii.com/learn/blink-outdoor-4-battery-drain-jun
 ![What to do now](/img/blink-outdoor-4-sync-module-2-connection-error-fix/inline-4.webp)
 
 
-If you're experiencing connection errors with your Blink Outdoor 4 and Sync Module 2, a systematic approach to troubleshooting is essential.
+If you're experiencing connection errors with your [Blink Outdoor 4](https://quvii.com/learn/blink-outdoor-4-battery-drain-june-2026) and Sync Module 2, a systematic approach to troubleshooting is essential.
 
 ### Step 1: Perform a Hardware Power Cycle
 
 A simple power cycle can often resolve temporary glitches.
 1.  **Sync Module 2**: Unplug the Sync Module 2 from its power outlet for at least 30 seconds, then plug it back in. Wait for the blue and green lights to become solid.
-2.  **Blink [Outdoor 4 Camera](https://quvii.com/learn/blink-outdoor-4-battery-drain-june-2026)**: Remove the batteries from your Blink Outdoor 4 camera for 10 seconds, then reinsert them. The camera should attempt to reconnect.
+2.  **Blink [Outdoor 4 Camera](https://quvii.com/learn/blink-outdoor-4-battery-drain-june-2026)**: Remove the batteries from your [Blink Outdoor](https://quvii.com/learn/blink-outdoor-4-battery-drain-june-2026) 4 camera for 10 seconds, then reinsert them. The camera should attempt to reconnect.
 
 ### Step 2: Network Optimization—Assigning a Static IP/DHCP Reservation
 
@@ -182,7 +182,7 @@ When troubleshooting network issues with Blink, customer support may recommend u
 
 ### Alternative Hardware: Is it Time to Switch to the Sync Module XR?
 
-The Sync Module XR is not a current Blink product, and the primary hub for current Blink cameras is the Sync Module 2. If existing troubleshooting steps fail and you suspect hardware failure, contacting Blink (Amazon) support for warranty replacement or considering alternative camera systems might be necessary. The Sync Module 2 is the latest iteration designed for features like local storage and compatibility with newer cameras like the Outdoor 4. There is no "Sync Module XR" as a separate, newer product line.
+The Sync Module XR is not a current Blink product, and the primary hub for current Blink cameras is the Sync Module 2. If existing troubleshooting steps fail and you suspect hardware failure, contacting Blink (Amazon) support for warranty replacement or considering alternative camera systems might be necessary. The Sync Module 2 is the latest iteration designed for features like local storage and compatibility with newer cameras like the [Outdoor 4](https://quvii.com/learn/blink-outdoor-4-battery-drain-june-2026). There is no "Sync Module XR" as a separate, newer product line.
 
 ### When to give up: Identifying hardware failure vs. software bugs
 

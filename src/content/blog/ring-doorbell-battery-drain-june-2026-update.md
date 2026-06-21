@@ -42,7 +42,7 @@ The Ring ecosystem has long been the benchmark for consumer-grade video doorbell
 On June 2, 2026, Ring began a broader push of firmware version **cam-1.29.11000** to its high-end battery lineup. While this firmware version was initially sighted in early 2026, the June rollout appears to have activated or optimized several heavy-hitting features that were previously in a limited beta or dormant state.
 
 ### The AI Culprit: Alexa+ Greetings and Video Descriptions
-The primary drivers of the current battery drain are two specific features: **Alexa+ Greetings** and **Video Descriptions**. 
+The primary drivers of the current [battery drain](https://quvii.com/learn/blink-outdoor-4-battery-drain-june-2026) are two specific features: **Alexa+ Greetings** and **Video Descriptions**. 
 
 Alexa+ Greetings uses a more advanced natural language processing model to interact with visitors. Unlike the static "Smart Responses" of previous years, Alexa+ Greetings attempts a more conversational approach, which requires the camera to maintain an active audio and data stream to the cloud for the duration of the interaction.
 

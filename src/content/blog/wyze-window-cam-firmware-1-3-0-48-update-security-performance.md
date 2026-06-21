@@ -125,7 +125,7 @@ While the 1.3.0.48 update significantly improves cloud reliability, Quvii recomm
 ## Frequently Asked Questions
 
 ### Does firmware 1.3.0.48 improve the night vision of the window cam?
-While this specific update focuses on event uploading errors, it includes minor driver optimizations for the Starlight sensor found in the V3 and V4 models. However, the primary improvement in night vision for window-mounted cameras comes from the physical window mount accessory, which prevents IR light from reflecting off the glass.
+While this specific update focuses on event uploading errors, it includes minor driver optimizations for the Starlight sensor found in the V3 and V4 models. However, the primary improvement in [night vision](https://quvii.com/learn/unifi-camera-night-vision-stuck-daytime-fix) for window-mounted cameras comes from the physical window mount accessory, which prevents IR light from reflecting off the glass.
 
 ### Can I skip this update if I only use local microSD storage?
 It is not recommended to skip this update. Even if you primarily use local storage, the 1.3.0.48 update contains security patches that protect the camera from unauthorized access. Additionally, the fix for "event uploading" also improves the stability of the camera's general connection to the Wyze app for live viewing.

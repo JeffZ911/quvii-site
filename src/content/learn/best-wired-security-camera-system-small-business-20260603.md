@@ -82,7 +82,7 @@ Understanding the technical requirements of a 2026 system prevents "under-specci
 ### PoE Standards and Power Budgets
 When selecting a system, the "power budget" of the NVR or PoE switch is paramount. 
 - **802.3af (PoE):** Up to 15.4W per port. Sufficient for standard dome/bullet cameras.
-- **802.3at (PoE+):** Up to 30W per port. Required for cameras with powerful IR night vision or motorized lenses.
+- **802.3at (PoE+):** Up to 30W per port. Required for cameras with powerful IR [night vision](https://quvii.com/learn/unifi-camera-night-vision-stuck-daytime-fix) or motorized lenses.
 - **802.3bt (PoE++):** Up to 60W-90W. Necessary for high-end PTZ cameras used in large parking lots.
 
 ### Edge AI Processing
