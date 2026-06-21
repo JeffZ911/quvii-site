@@ -112,7 +112,7 @@ If you pay for Nest Aware Plus to get 10 days of 24/7 continuous video history, 
 
 | If your situation is... | Priority Fix | Recommended Setting |
 | :--- | :--- | :--- |
-| **South-facing / Direct Sun** | Physical Shade | Move to North/East wall or under eaves. |
+| **South-facing / [Direct Sun](https://quvii.com/blog/eufy-cam-e330-professional-overheating-direct-sun)** | Physical Shade | Move to North/East wall or under eaves. |
 | **High Traffic / Frequent Events** | Reduce CPU Load | Lower 'Motion Sensitivity' and 'Event Length'. |
 | **Solar Panel User** | Manage Charging | Unplug solar panel during heatwaves. |
 | **Professional/Business Use** | Reliability | Switch to a dedicated wired camera (e.g., Nest Cam Wired). |

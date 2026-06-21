@@ -31,7 +31,7 @@ Maintaining a battery-powered security perimeter requires a delicate balance bet
 
 # Blink Outdoor 4 Battery Drain: Why It Happens and How to Fix It (June 2026)
 
-**Quick Answer:** [Blink Outdoor 4 battery](/learn/blink-outdoor-4-battery-life-extreme-heat) drain in 2026 is typically tied to high-frequency motion triggers, poor Sync Module LFR signal, or the "Early Notification" feature. To reach the 2-year spec, use only Energizer Ultimate Lithium AA batteries, reduce motion sensitivity, and ensure your Sync Module is within 30 feet of the camera.
+**Quick Answer:** [Blink Outdoor 4 battery](/learn/blink-outdoor-4-battery-life-extreme-heat) drain in 2026 is typically tied to high-frequency motion triggers, poor [Sync Module](https://quvii.com/learn/blink-outdoor-4-sync-module-2-offline-loop-fix) LFR signal, or the "Early Notification" feature. To reach the 2-year spec, use only Energizer Ultimate Lithium AA batteries, reduce motion sensitivity, and ensure your Sync Module is within 30 feet of the camera.
 
 ## What it means
 
@@ -140,9 +140,9 @@ Many users believe that "graying out" an area in Activity Zones saves battery. T
 Third-party solar panels for the Outdoor 4 often connect via the USB-C port. However, the Outdoor 4 is designed to be weather-resistant only when the back cover is sealed. Opening the USB port for a solar cable can lead to moisture ingress. Furthermore, many cheap 2026 solar kits do not provide a consistent 5V/1A output, causing the camera to constantly cycle between battery and "external" power, which can actually accelerate internal component wear.
 
 ### Local Storage vs. Cloud
-Does using a USB drive on the Sync Module 2 save battery?
+Does using a USB drive on the [Sync Module 2](https://quvii.com/learn/blink-outdoor-4-sync-module-2-offline-loop-fix) save battery?
 *   **Cloud:** Camera uploads directly to Amazon servers.
-*   **Local Storage:** Camera uploads to the Sync Module 2.
+*   **Local Storage:** Camera uploads to the Sync [Module 2](https://quvii.com/learn/blink-outdoor-4-sync-module-2-offline-loop-fix).
 In both cases, the camera's Wi-Fi radio is active for the same amount of time. Local storage does **not** significantly improve battery life; its primary benefit is the elimination of monthly subscription fees.
 
 ## Decision Framework: Managing Your Blink Power

@@ -87,7 +87,7 @@ When a camera reaches its EOL date, Arlo may:
 This "forced obsolescence" means that even if your camera survives a firmware update today, its software "lifespan" is entirely at the discretion of the manufacturer’s corporate policy, not the hardware's physical durability.
 
 ### Total Cost of Ownership (TCO) Analysis
-To understand the true cost of an Arlo Essential 2K over a typical three-year lifespan, buyers must look beyond the sticker price.
+To understand the true cost of an [Arlo Essential](https://quvii.com/learn/arlo-essential-indoor-camera-blinking-blue-loop) 2K over a typical three-year lifespan, buyers must look beyond the sticker price.
 
 *   **Initial Hardware:** Around $90 (Single Camera).
 *   **Arlo Secure (Single Camera):** ~$9.99/month x 36 months = $359.64.

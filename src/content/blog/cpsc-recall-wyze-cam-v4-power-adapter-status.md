@@ -42,7 +42,7 @@ Understanding the distinction between a formal government recall and a manufactu
 
 Much of the current confusion stems from historical reports involving the original Wyze Cam Outdoor (Model: WVOD1). In late 2022, several community threads and tech news outlets began discussing potential safety risks associated with the Outdoor model’s power delivery. While some users reported issues with the physical integrity of the power bricks, it is important to clarify that **no official CPSC recall was ever finalized** for the WVOD1 power adapter. 
 
-The "search trend" for a 2022 recall often conflates Wyze with other smart home brands that did undergo major power-related recalls during that period. For example, Ring and other manufacturers have faced CPSC actions regarding battery overheating or adapter failures. For Wyze, the 2022 era was marked more by a significant security vulnerability disclosure (the Bitdefender report) than by a physical hardware recall.
+The "search trend" for a 2022 recall often conflates Wyze with other smart home brands that did undergo major power-related recalls during that period. For example, Ring and other manufacturers have faced CPSC actions regarding [battery overheating](https://quvii.com/learn/nest-cam-battery-overheating-notification-fix) or adapter failures. For Wyze, the 2022 era was marked more by a significant security vulnerability disclosure (the Bitdefender report) than by a physical hardware recall.
 
 ### Wyze Cam Pan v3 Power Cable Issues
 

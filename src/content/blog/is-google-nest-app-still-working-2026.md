@@ -154,7 +154,7 @@ Technically, the app may still open on older smartphones, but its functionality 
 As of 2026, the Nest Protect remains an outlier. While basic status (smoke/CO levels) can be seen in the Google Home app, many deep settings and the "Silence" feature still require the legacy Nest app or the newer First Alert integration. Google discontinued the Nest Protect hardware in March 2025, signaling an eventual end to this product line.
 
 ### What happens to my Nest Aware subscription if I don't migrate?
-Google has transitioned almost all legacy "Per-Camera" billing to the flat-rate "Google Home" billing. If you refuse to migrate your account to a Google account and move your devices to the Home app, you may find your subscription cancelled or restricted to "Live View Only" features.
+Google has transitioned almost all legacy "Per-Camera" billing to the flat-rate "Google Home" billing. If you refuse to migrate your account to a Google account and move your devices to the Home app, you may find your subscription cancelled or restricted to "[Live View](https://quvii.com/learn/tapo-camera-live-view-streaming-failure-fix-20260620) Only" features.
 
 ### Is there a way to use Nest cameras without the cloud?
 No. Nest cameras are designed as cloud-first devices. While they have a small amount of internal "on-device" storage for video buffering during Wi-Fi outages, they cannot record to a local NVR (Network Video Recorder) or a third-party NAS like [cameras from](https://quvii.com/blog/protect-smart-home-cameras-summer-heat) Reolink or Amcrest can.

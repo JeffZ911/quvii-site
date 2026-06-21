@@ -35,7 +35,7 @@ On June 10, 2026, Botslab (the smart home security arm of 360 Smart Life) offici
 
 The headline feature is "Dual-View" technology. Unlike previous window cameras that focused solely on the street, the W101 houses two independent 2.5K (4-megapixel) sensors. The "OutView" lens monitors the exterior through the glass, while the "InView" lens covers the interior room. This effectively turns a single window pane into a comprehensive security hub for entry points like front porches or balcony sliders.
 
-Technically, the W101 addresses the primary failure point of window cameras: night vision. Standard cameras use Infrared (IR) LEDs that reflect off glass, blinding the sensor at night. Botslab has bypassed this by utilizing an F1.0 large-aperture lens system. By allowing significantly more light into the sensor, the camera can maintain full-color imaging in low-light conditions without the need for reflective IR illumination.
+Technically, the W101 addresses the primary failure point of window cameras: [night vision](https://quvii.com/learn/unifi-camera-night-vision-stuck-daytime-fix). Standard cameras use Infrared (IR) LEDs that reflect off glass, blinding the sensor at night. Botslab has bypassed this by utilizing an F1.0 large-aperture lens system. By allowing significantly more light into the sensor, the camera can maintain full-color imaging in low-light conditions without the need for reflective IR illumination.
 
 Positioned as a "no-drill" solution, the W101 is aimed squarely at renters and apartment dwellers who are often prohibited from mounting hardware to exterior siding or masonry. The unit is currently priced in the under $100 range for single units, with multi-pack bundles available for those seeking whole-home coverage.
 

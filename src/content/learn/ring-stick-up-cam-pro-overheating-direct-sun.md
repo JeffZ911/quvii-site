@@ -156,7 +156,7 @@ To understand where the Stick Up Cam Pro sits in the market, we compare its ther
 
 | If you are... | Your Primary Thermal Risk | Recommended Strategy |
 | :--- | :--- | :--- |
-| **A Renter** | Limited mounting options; often stuck with direct sun on balconies. | Use the "White" model; use a third-party silicone "sun hat" or cover to provide shade. |
+| **A Renter** | Limited mounting options; often stuck with [direct sun](https://quvii.com/blog/eufy-cam-e330-professional-overheating-direct-sun) on balconies. | Use the "White" model; use a third-party silicone "sun hat" or cover to provide shade. |
 | **A Homeowner** | High-traffic areas (street-facing) causing constant recording. | Mount under an eave; hardwire the camera to reduce battery-charging heat. |
 | **In a Hot Climate** | Ambient air already near 110°F. | Avoid the "Pro" model if 3D motion isn't critical; standard models generate less internal heat. |
 | **Using Solar** | Battery charging during peak sun hours. | Position the solar panel away from the camera so the camera stays in the shade. |

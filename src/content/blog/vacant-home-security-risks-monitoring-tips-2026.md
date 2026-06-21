@@ -86,7 +86,7 @@ It is crucial for buyers to review the privacy policies of camera brands before 
 | Feature                 | [eufyCam S330](https://quvii.com/learn/eufycam-s330-homebase-3-firmware-sync-error) (eufyCam 3)               | [Reolink Argus 4](https://quvii.com/blog/reolink-argus-4-pro-firmware-update-issues) Pro                   | [Wyze Cam v4](https://quvii.com/learn/wyze-cam-v4-night-vision-flickering-fix)                         |
 | :---------------------- | :------------------------------------- | :------------------------------------ | :---------------------------------- |
 | **Resolution**          | 4K (8MP)                               | 4K (8MP)                              | 2K (2560x1440)                      |
-| **Night Vision**        | Color Night Vision, Spotlight          | Color Night Vision (Dual-Lens)        | Color Night Vision                  |
+| **[Night Vision](https://quvii.com/learn/unifi-camera-night-vision-stuck-daytime-fix)**        | Color Night Vision, Spotlight          | Color Night Vision (Dual-Lens)        | Color Night Vision                  |
 | **Local Storage**       | HomeBase 3 (16GB eMMC, expandable to 16TB) | Up to 128GB microSD card | Up to 256GB microSD card |
 | **Subscription Cost/yr**| None (for local storage)               | None (for local storage)              | Optional Cam Plus (~$20-60/yr) |
 | **Power Type**          | Battery (13,400 mAh) + Solar Panel | Battery (5200mAh) + Optional Solar Panel | Wired (USB-C)            |
