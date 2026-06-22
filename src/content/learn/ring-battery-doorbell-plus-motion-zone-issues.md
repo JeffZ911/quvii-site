@@ -39,7 +39,7 @@ Motion zone issues with your Ring Battery Doorbell Plus can turn a valuable secu
 
 # Ring Battery Doorbell Plus Motion Zone Issues: A Comprehensive Guide
 
-The Ring Battery Doorbell Plus (2nd Gen), while offering 1536p HD+ video and a head-to-toe view, often faces motion zone issues like missed events, false alerts, or rapid battery drain due to its battery-powered Passive Infrared (PIR) sensor, Wi-Fi stability, and incorrect in-app settings. Optimizing motion zones, adjusting sensitivity and frequency, and ensuring strong Wi-Fi are crucial for reliable performance.
+The Ring Battery Doorbell Plus (2nd Gen), while offering 1536p HD+ video and a head-to-toe view, often faces motion zone issues like missed events, false alerts, or rapid [battery drain](https://quvii.com/learn/blink-outdoor-4-battery-drain-june-2026) due to its battery-powered Passive Infrared (PIR) sensor, Wi-Fi stability, and incorrect in-app settings. Optimizing motion zones, adjusting sensitivity and frequency, and ensuring strong Wi-Fi are crucial for reliable performance.
 
 ## What it means
 
