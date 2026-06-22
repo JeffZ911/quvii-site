@@ -101,7 +101,7 @@ Strategic placement is therefore paramount. Mounting the camera in shaded areas,
 
 Reports from user forums often corroborate the impact of heat. Owners in Arizona, Florida, and other hot regions frequently report needing to replace batteries much more often than the two-year claim. Common troubleshooting advice includes:
 
-*   **Optimizing Settings**: Reducing video quality, shortening clip lengths, lowering motion sensitivity, and decreasing the frequency of Live View sessions can reduce the power demanded from the batteries.
+*   **Optimizing Settings**: Reducing video quality, shortening clip lengths, lowering motion sensitivity, and decreasing the frequency of [Live View](https://quvii.com/learn/tapo-camera-live-view-streaming-failure-fix-20260620) sessions can reduce the power demanded from the batteries.
 *   **Strategic Placement**: As mentioned, placing cameras in shaded locations is the most effective passive cooling strategy.
 *   **Optional Accessories**: Blink offers accessories that can help. The Blink Weather Resistant Power Adapter allows for continuous power if an outdoor outlet is available, bypassing battery reliance entirely. For situations where wired power isn't feasible, the Blink Battery Extension Pack (sold separately) doubles the camera's battery capacity, effectively extending the time between replacements, though it does not prevent heat-induced degradation of individual cells.
 

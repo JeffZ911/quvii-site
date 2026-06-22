@@ -84,7 +84,7 @@ Privacy-focused smart cameras employ several technologies to ensure user data re
 
 ### Local Data Processing
 
-At its core, local data processing means that video footage is handled on your premises. Footage is recorded directly onto a microSD card within the camera itself or to a Network Video Recorder (NVR) located on the user's premises. This eliminates the need for continuous internet uploads for basic recording. For advanced features, Artificial intelligence algorithms for person, vehicle, or pet detection run directly on the camera's processor (edge computing), eliminating the need to send video to the cloud for analysis. This architecture ensures that sensitive video data never leaves your local network for processing, drastically reducing privacy risks.
+At its core, local data processing means that video footage is handled on your premises. Footage is recorded directly onto a microSD card within the camera itself or to a Network Video Recorder (NVR) located on the user's premises. This eliminates the need for continuous internet uploads for basic recording. For advanced features, Artificial intelligence algorithms for person, vehicle, or pet detection run directly on the camera's processor (edge computing), eliminating the need to send video to the cloud for analysis. This architecture ensures that sensitive video data never leaves your local network for processing, drastically reducing [privacy risks](https://quvii.com/blog/privacy-risks-ai-surveillance-cameras-2026).
 
 ### Encryption Protocols
 

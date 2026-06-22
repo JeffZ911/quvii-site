@@ -27,7 +27,7 @@ inline_image_sections:
   - "Further reading"
 ---
 
-The convenience of smart home technology often comes with hidden trade-offs, particularly when artificial intelligence is integrated into security cameras. In 2026, these devices offer unprecedented capabilities but also introduce complex privacy risks that consumers must understand.
+The convenience of smart home technology often comes with hidden trade-offs, particularly when artificial intelligence is integrated into security cameras. In 2026, these devices offer unprecedented capabilities but also introduce complex [privacy risks](https://quvii.com/blog/privacy-risks-ai-surveillance-cameras-2026) that consumers must understand.
 
 # The Hidden Privacy Risks of AI-Powered Security Cameras in 2026
 

@@ -59,7 +59,7 @@ In 2026, as AI summaries require even more frequent cloud check-ins, the "blast 
 ![Why it matters for buyers](/img/privacy-risks-ai-surveillance-cameras-2026/inline-2.webp)
 
 
-For the modern buyer, the choice is no longer about resolution or night vision; it is about where the "brain" of the camera lives. The 2026 market is split between Cloud AI (which processes data on the vendor's servers) and Edge AI (which processes data on the camera or a local hub).
+For the modern buyer, the choice is no longer about resolution or [night vision](https://quvii.com/learn/unifi-camera-night-vision-stuck-daytime-fix); it is about where the "brain" of the camera lives. The 2026 market is split between Cloud AI (which processes data on the vendor's servers) and Edge AI (which processes data on the camera or a local hub).
 
 ### Data Path Comparison: Cloud AI vs. Edge AI
 

@@ -157,7 +157,7 @@ Yes, but ensure you are using the newer USB-C version of the Solar Panel. The Ba
 Yes, significantly. By turning off Smart Alerts (specifically "Person" and "Other Motion" filtering), the camera spends less time analyzing the video feed to determine what caused the motion, allowing it to return to a low-power state faster.
 
 ## Sources
-- <a href="https://www.amazon.com/s?k=Ring+Support%3A+Troubleshooting+Battery+Drain&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Ring Support: Troubleshooting Battery Drain</a>
+- <a href="https://www.amazon.com/s?k=Ring+Support%3A+Troubleshooting+Battery+Drain&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Ring Support: Troubleshooting [Battery Drain](https://quvii.com/learn/blink-outdoor-4-battery-drain-june-2026)</a>
 - <a href="https://www.amazon.com/s?k=Ring+Protect+Plan+Features&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Ring Protect Plan Features</a>
 - <a href="https://www.amazon.com/s?k=Reddit+r%2FRing%3A+Community+Firmware+Discussions&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Reddit r/Ring: Community Firmware Discussions</a>
 - RTINGS: Best Video Doorbells of 2026
