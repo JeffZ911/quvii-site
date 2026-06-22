@@ -131,7 +131,7 @@ For those who must use cloud-connected cameras, "Network Isolation" is essential
 1.  Access your router settings.
 2.  Create an "IoT" or "Guest" network.
 3.  Connect all cameras to this isolated network.
-4.  Disable "UPnP" (Universal Plug and Play) on your router to prevent cameras from automatically opening ports to the internet.
+4.  Disable "UPnP" (Universal Plug and Play) on your router to prevent [cameras from](https://quvii.com/learn/protect-outdoor-security-cameras-summer-storms) automatically opening ports to the internet.
 
 ### Auditing Your Cloud Permissions
 If you use Ring or Apple HomeKit, ensure **End-to-End Encryption (E2EE)** is enabled. 

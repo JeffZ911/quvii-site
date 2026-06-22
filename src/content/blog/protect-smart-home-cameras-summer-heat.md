@@ -26,7 +26,7 @@ The sweltering grip of summer heatwaves is more than just uncomfortable for us; 
 
 # Safeguarding Your Smart Home Cameras from Summer Heat
 
-To protect smart home cameras from summer heat, ensure they are installed in shaded areas, consider adding a physical sun shield, and verify their operating temperature limits. For battery-powered cameras like some EufyCam and Wyze models, high temperatures can significantly reduce [battery life](https://quvii.com/learn/blink-outdoor-4-battery-life-extreme-heat) and risk overheating, potentially leading to malfunction or damage.
+To protect smart home [cameras from summer](https://quvii.com/learn/protect-outdoor-security-cameras-summer-storms) heat, ensure they are installed in shaded areas, consider adding a physical sun shield, and verify their operating temperature limits. For battery-powered cameras like some EufyCam and Wyze models, high temperatures can significantly reduce [battery life](https://quvii.com/learn/blink-outdoor-4-battery-life-extreme-heat) and risk overheating, potentially leading to malfunction or damage.
 
 ## What happened
 
@@ -160,7 +160,7 @@ For sustained protection and when planning future purchases, consider these long
 
 **Decision Framework for Buyers:**
 
-*   **If you live in a region with extreme summer heat (regularly above 100°F / 38°C):**
+*   **If you live in a region with extreme [summer heat](https://quvii.com/learn/ring-doorbell-overheating-summer-heat-fix) (regularly above 100°F / 38°C):**
     *   **Prioritize:** Wired cameras (especially PoE) with a maximum operating temperature of 130°F (54°C) or higher.
     *   **Consider:** Installing all cameras under significant natural shade or with dedicated sun shields.
     *   **Avoid:** Battery-powered cameras in direct, unshaded sunlight.

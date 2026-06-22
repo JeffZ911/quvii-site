@@ -191,7 +191,7 @@ For those looking to deepen their understanding of privacy-focused home security
 ## Frequently Asked Questions
 
 ### What is the difference between Edge AI and Cloud AI in security cameras?
-Edge AI processes video data directly on the camera using a dedicated chip (NPU), keeping sensitive information like facial recognition templates local. Cloud AI sends video to remote servers for processing, which can offer more powerful analysis but increases privacy risks and latency.
+Edge AI processes video data directly on the camera using a dedicated chip (NPU), keeping sensitive information like facial recognition templates local. Cloud AI sends video to remote servers for processing, which can offer more powerful analysis but increases [privacy risks](https://quvii.com/blog/privacy-risks-ai-surveillance-cameras-2026) and latency.
 
 ### Can local storage cameras still compromise my privacy?
 Yes, even cameras with local storage can pose privacy risks. While video footage might stay on an SD card or NVR, many cameras still send metadata (e.g., "person detected," timestamps) and telemetry data to the cloud for app functionality, firmware updates, or analytics.

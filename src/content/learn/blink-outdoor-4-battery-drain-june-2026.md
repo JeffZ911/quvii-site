@@ -73,7 +73,7 @@ The #1 silent killer of Blink batteries is "Network Friction." The Outdoor 4 use
 "Early Notification" is a feature that sends an alert to your phone the moment motion is detected, rather than waiting for the clip to finish recording. While excellent for security, it requires the camera to maintain two simultaneous data streams: one to the cloud for the live alert and one for the recording. This double-handling of data consumes significantly more power than a standard delayed notification.
 
 ### Environmental Triggers
-Lithium discharge rates are affected by extreme temperatures. While Energizer Ultimate Lithium batteries are rated for -40°F to 140°F, 2026 summer heat waves can cause the camera's internal housing to exceed these temperatures. High heat increases internal resistance, while extreme cold slows the chemical reaction required to produce current, often leading the app to report a "Battery Critical" status that may temporarily resolve when the weather warms.
+Lithium discharge rates are affected by extreme temperatures. While Energizer Ultimate Lithium batteries are rated for -40°F to 140°F, 2026 [summer heat](https://quvii.com/learn/ring-doorbell-overheating-summer-heat-fix) waves can cause the camera's internal housing to exceed these temperatures. High heat increases internal resistance, while extreme cold slows the chemical reaction required to produce current, often leading the app to report a "Battery Critical" status that may temporarily resolve when the weather warms.
 
 ## How it works under the hood
 
