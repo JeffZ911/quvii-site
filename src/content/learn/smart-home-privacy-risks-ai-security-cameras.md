@@ -194,7 +194,7 @@ For those looking to deepen their understanding of privacy-focused home security
 Edge AI processes video data directly on the camera using a dedicated chip (NPU), keeping sensitive information like facial recognition templates local. Cloud AI sends video to remote servers for processing, which can offer more powerful analysis but increases [privacy risks](https://quvii.com/blog/privacy-risks-ai-surveillance-cameras-2026) and latency.
 
 ### Can local storage cameras still compromise my privacy?
-Yes, even cameras with local storage can pose privacy risks. While video footage might stay on an SD card or NVR, many cameras still send metadata (e.g., "person detected," timestamps) and telemetry data to the cloud for app functionality, firmware updates, or analytics.
+Yes, even cameras with local storage can pose [privacy risks](https://quvii.com/blog/privacy-risks-ai-surveillance-cameras-2026). While video footage might stay on an SD card or NVR, many cameras still send metadata (e.g., "person detected," timestamps) and telemetry data to the cloud for app functionality, firmware updates, or analytics.
 
 ### Do all AI security cameras perform facial recognition?
 No, not all AI security cameras perform facial recognition. Many focus on general object detection (people, vehicles, pets, packages). Facial recognition is a more advanced AI feature, often optional, and may be processed either on-device (Edge AI) for privacy or in the cloud, depending on the manufacturer and model.
