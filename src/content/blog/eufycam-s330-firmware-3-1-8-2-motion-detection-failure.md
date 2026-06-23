@@ -27,7 +27,7 @@ Reliability is the cornerstone of any residential security system, yet software 
 
 # EufyCam S330 Firmware 3.1.8.2: Addressing Motion Detection Failures
 
-**Quick Answer:** While a widespread, officially acknowledged motion detection failure specifically tied to EufyCam S330 firmware 3.1.8.2 is not widely documented in public records as of mid-2026, users may experience general motion detection inconsistencies due to various factors including firmware bugs, settings, or environmental conditions. Eufy regularly releases updates to improve performance, and troubleshooting often involves checking camera settings, installation, and ensuring the latest firmware.
+**Quick Answer:** While a widespread, officially acknowledged [motion detection](https://quvii.com/learn/reolink-camera-motion-detection-false-alerts-fix) failure specifically tied to EufyCam S330 firmware 3.1.8.2 is not widely documented in public records as of mid-2026, users may experience general motion detection inconsistencies due to various factors including firmware bugs, settings, or environmental conditions. Eufy regularly releases updates to improve performance, and troubleshooting often involves checking camera settings, installation, and ensuring the latest firmware.
 
 ## What happened
 

@@ -124,7 +124,7 @@ When troubleshooting Blink, it is helpful to consider the long-term investment. 
 *   **Total 3-Year Cost:** ~$240–$280 per camera.
 
 ### Advanced Blink Settings for Power Users
-If you are still missing clips, consider using **IFTTT (If This Then That)**. Blink’s integration allows you to trigger a Blink camera to start recording based on an external sensor. For example, a dedicated Z-Wave or Zigbee motion sensor placed further down a driveway can "wake up" the Blink camera before the visitor even reaches the PIR sensor's range, effectively eliminating the wake-up latency.
+If you are still missing clips, consider using **IFTTT (If This Then That)**. Blink’s integration allows you to trigger a [Blink camera](https://quvii.com/blog/blink-camera-battery-drain-summer-heat-2026) to start recording based on an external sensor. For example, a dedicated Z-Wave or Zigbee motion sensor placed further down a driveway can "wake up" the Blink camera before the visitor even reaches the PIR sensor's range, effectively eliminating the wake-up latency.
 
 For more detailed guides on maximizing your system, see Quvii’s deep dives on **[Sync Module 2](https://quvii.com/blog/blink-outdoor-4-sync-module-2-connection-error-fix) local storage setup** and our technical breakdown of **PIR vs Pixel detection explained**.
 
