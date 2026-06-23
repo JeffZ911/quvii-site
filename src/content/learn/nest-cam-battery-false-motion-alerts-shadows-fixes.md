@@ -27,7 +27,7 @@ inline_image_sections:
   - "Further reading"
 ---
 
-Shadows are the most frequent cause of "ghost" notifications for outdoor security cameras, often turning a sophisticated monitoring system into a source of constant distraction. For the Nest Cam (Battery), these false alerts occur when the camera’s software misinterprets the rapid movement of light and dark across a surface as a physical object.
+Shadows are the most frequent cause of "ghost" notifications for outdoor security cameras, often turning a sophisticated monitoring system into a source of constant distraction. For the Nest Cam (Battery), these [false alerts](https://quvii.com/learn/reolink-camera-motion-detection-false-alerts-fix) occur when the camera’s software misinterprets the rapid movement of light and dark across a surface as a physical object.
 
 # Nest Cam (Battery) False Motion Alerts from Shadows: Understanding and Fixing the Problem
 
