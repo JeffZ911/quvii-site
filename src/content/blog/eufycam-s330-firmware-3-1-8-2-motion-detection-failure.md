@@ -109,7 +109,7 @@ Until a stable firmware patch is widely available, some owners have found succes
 ![What to do now](/img/eufycam-s330-firmware-3-1-8-2-motion-detection-failure/inline-4.webp)
 
 
-If you are experiencing motion detection failures on your eufyCam S330, follow this prioritized checklist to restore your home's security.
+If you are experiencing [motion detection](https://quvii.com/learn/reolink-camera-motion-detection-false-alerts-fix) failures on your eufyCam S330, follow this prioritized checklist to restore your home's security.
 
 ### Immediate troubleshooting steps for owners
 1.  **Force a Firmware Check:** Open the Eufy Security App > Devices > S330 > Settings > General > About > Check for firmware update. If a version newer than 3.1.8.2 is available, install it immediately.
