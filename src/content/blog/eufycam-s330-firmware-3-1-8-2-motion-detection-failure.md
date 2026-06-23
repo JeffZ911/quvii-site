@@ -23,7 +23,7 @@ inline_image_sections:
   - "What to do now"
 ---
 
-Reliability is the cornerstone of any residential security system, yet software updates—intended to improve performance—can occasionally introduce unexpected vulnerabilities in the hardware they govern. For owners of the eufyCam S330, reports surrounding firmware version 3.1.8.2 have highlighted a critical concern: the potential for motion detection failures that leave properties unmonitored.
+Reliability is the cornerstone of any residential security system, yet software updates—intended to improve performance—can occasionally introduce unexpected vulnerabilities in the hardware they govern. For owners of the eufyCam S330, reports surrounding firmware version 3.1.8.2 have highlighted a critical concern: the potential for [motion detection](https://quvii.com/learn/reolink-camera-motion-detection-false-alerts-fix) failures that leave properties unmonitored.
 
 # EufyCam S330 Firmware 3.1.8.2: Addressing Motion Detection Failures
 

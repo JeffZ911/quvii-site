@@ -101,7 +101,7 @@ In 2026, Blink continues to gate its "Person Detection" (Computer Vision) featur
 ## Common misconceptions
 
 ### Misconception: "Higher sensitivity always increases range."
-**Fact:** Sensitivity primarily affects the *threshold* of heat change required to trigger. While it can marginally help with distant subjects, its primary effect is making the camera more reactive to small changes. Setting a Blink camera to "10" in a yard with moving shadows or wind-blown bushes will result in hundreds of false clips, which can lead to the "Motion Ignored" logic kicking in or the battery dying in days.
+**Fact:** Sensitivity primarily affects the *threshold* of heat change required to trigger. While it can marginally help with distant subjects, its primary effect is making the camera more reactive to small changes. Setting a [Blink camera](https://quvii.com/blog/blink-camera-battery-drain-summer-heat-2026) to "10" in a yard with moving shadows or wind-blown bushes will result in hundreds of false clips, which can lead to the "Motion Ignored" logic kicking in or the battery dying in days.
 
 ### Misconception: "The Sync Module 2 improves motion detection."
 **Fact:** The [Sync Module](https://quvii.com/blog/blink-outdoor-4-sync-module-2-connection-error-fix) 2 manages connectivity and storage, but it has no impact on the PIR sensor's ability to "see" a person. If a camera is poorly placed, adding a Sync Module or moving it closer will not fix the missed detections. It only fixes *connection* issues.

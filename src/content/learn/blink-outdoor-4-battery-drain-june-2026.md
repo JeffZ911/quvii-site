@@ -102,7 +102,7 @@ While community members frequently discuss one battery dying before the other, t
 ![Real-world implications](/img/blink-outdoor-4-battery-drain-june-2026/inline-4.webp)
 
 
-The consequences of rapid battery drain extend beyond the inconvenience of climbing a ladder; they impact the total cost of ownership (TCO) and the reliability of your security.
+The consequences of rapid [battery drain](https://quvii.com/blog/blink-camera-battery-drain-summer-heat-2026) extend beyond the inconvenience of climbing a ladder; they impact the total cost of ownership (TCO) and the reliability of your security.
 
 ### Maintenance Costs in 2026
 The Blink Outdoor 4 requires Energizer Ultimate Lithium AA batteries. Using alkaline or rechargeable batteries is the leading cause of "malfunction" reports. 
