@@ -21,7 +21,7 @@ A security camera that fails to trigger when a visitor approaches is little more
 
 ## What it means
 
-When a Blink camera fails to detect motion, the issue typically falls into one of two categories: a failure of the sensor to "wake up" the camera, or a failure of the system to process and save the resulting clip. In the 2026 Blink ecosystem (v6.x app), distinguishing between these is the first step in troubleshooting.
+When a [Blink camera](https://quvii.com/blog/blink-camera-battery-drain-summer-heat-2026) fails to detect motion, the issue typically falls into one of two categories: a failure of the sensor to "wake up" the camera, or a failure of the system to process and save the resulting clip. In the 2026 Blink ecosystem (v6.x app), distinguishing between these is the first step in troubleshooting.
 
 A "False Negative" occurs when the camera is armed and the subject is clearly within the field of view, yet no alert is generated. This is distinct from a "Delayed Notification," where the camera records the event but the user doesn't receive the push alert for several minutes due to server latency or poor Wi-Fi signal.
 

@@ -61,7 +61,7 @@ The Blink Outdoor 4 uses two AA lithium batteries in a parallel configuration. "
 ![Why it exists](/img/blink-outdoor-4-battery-drain-june-2026/inline-2.webp)
 
 
-Battery drain in the Outdoor 4 is rarely caused by a single factor. Instead, it is usually a "death by a thousand cuts" scenario involving environmental stress and software-driven processing power.
+[Battery drain](https://quvii.com/blog/blink-camera-battery-drain-summer-heat-2026) in the Outdoor 4 is rarely caused by a single factor. Instead, it is usually a "death by a thousand cuts" scenario involving environmental stress and software-driven processing power.
 
 ### The Impact of Person Detection AI
 The Outdoor 4 introduced on-device Person Detection, which is available with a <a href="https://www.amazon.com/s?k=Blink+Subscription+Plan&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Blink Subscription Plan</a>. While this feature reduces "nuisance" alerts (like swaying trees), the initial motion trigger still wakes the camera's processor. The camera must then run a computer vision algorithm to determine if the motion was a person. This extra processing "tax" occurs for every motion event, even if you never receive a notification. In high-traffic areas, the AI overhead can reduce battery life by 15-20% compared to standard PIR motion detection.
