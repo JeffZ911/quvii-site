@@ -58,7 +58,7 @@ When a specific version like 3.1.8.2 shows signs of instability, the manufacture
 ![Why it matters for buyers](/img/eufycam-s330-firmware-3-1-8-2-motion-detection-failure/inline-2.webp)
 
 
-For a consumer in the market for a high-end wireless security system, motion detection is not a "bonus feature"—it is the fundamental utility of the product. If a camera fails to record a package delivery or an unauthorized entry, its 4K resolution and solar-charging capabilities become irrelevant.
+For a consumer in the market for a high-end wireless security system, [motion detection](https://quvii.com/learn/reolink-camera-motion-detection-false-alerts-fix) is not a "bonus feature"—it is the fundamental utility of the product. If a camera fails to record a package delivery or an unauthorized entry, its 4K resolution and solar-charging capabilities become irrelevant.
 
 ### Compromised security and peace of mind
 The primary draw of the eufyCam S330 is its "set it and forget it" nature, facilitated by the integrated solar panel. However, firmware-induced failures create a false sense of security. A homeowner may see a "100% Battery" and "System Armed" status in their app, unaware that the camera has essentially become a dummy unit due to a software glitch. This discrepancy between reported status and actual performance is a significant risk factor for those relying on these cameras for remote property monitoring.

@@ -153,7 +153,7 @@ Understanding the nuances of storage and placement is key to a successful DIY se
 ### Related Quvii Intelligence
 *   **Local Storage vs. Cloud:** A deep dive into the security implications of eMMC vs. AWS.
 *   **HomeBase 3 Review:** How eufy’s central hub improves AI accuracy across the SoloCam line.
-*   **Radar Security Cameras:** Why 60GHz sensors are the new standard for reducing false alerts.
+*   **Radar Security Cameras:** Why 60GHz sensors are the new standard for reducing [false alerts](https://quvii.com/learn/reolink-camera-motion-detection-false-alerts-fix).
 
 ### External Technical Resources
 *   <a href="https://www.amazon.com/s?k=eufy+Support%3A+Solar+Panel+Positioning+Guide&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">eufy Support: Solar Panel Positioning Guide</a> — Detailed lux requirements for North American latitudes.

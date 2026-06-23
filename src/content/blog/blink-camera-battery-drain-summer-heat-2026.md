@@ -98,7 +98,7 @@ Mitigating battery drain in Blink cameras, especially during summer heat, involv
 
 *   **Adjust Motion Sensitivity:** Within the Blink app, navigate to Device Settings > Motion Settings. Reduce the motion sensitivity to prevent the camera from recording minor events like swaying branches or distant traffic, which are common triggers for unnecessary recordings.
 *   **Shorten Clip Length:** Decrease the recording clip length (also in Motion Settings) to the shortest necessary duration. Shorter clips consume less power per event.
-*   **Utilize Activity Zones:** Define specific "Activity Zones" to focus motion detection on critical areas and ignore irrelevant zones where motion is frequent but not important for security (e.g., public sidewalks).
+*   **Utilize Activity Zones:** Define specific "Activity Zones" to focus [motion detection](https://quvii.com/learn/reolink-camera-motion-detection-false-alerts-fix) on critical areas and ignore irrelevant zones where motion is frequent but not important for security (e.g., public sidewalks).
 *   **Reduce Live View Usage:** Limit prolonged Live View sessions. Streaming live video is one of the most power-intensive activities for a wireless camera.
 *   **Check for Firmware Updates:** Regularly ensure your Blink camera's firmware is up to date via the Blink app. Firmware updates often include bug fixes and performance optimizations that can improve battery efficiency.
 
