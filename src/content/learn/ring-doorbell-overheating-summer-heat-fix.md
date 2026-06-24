@@ -108,7 +108,7 @@ The most dangerous aspect of thermal shutdown is that it typically happens betwe
 Heat is the "silent killer" of lithium-ion batteries. Every time a Ring doorbell exceeds 110°F, the internal chemistry undergoes slight, permanent degradation. Over a single summer of repeated overheating, a battery that used to last three months on a charge may drop to only lasting six weeks. This forces the owner into more frequent charging cycles, further shortening the device's 3-to-5-year lifespan.
 
 ### Impact on Amazon Sidewalk
-Many Ring doorbells act as bridges for the Amazon Sidewalk network, which helps keep devices like Level Locks or Tile trackers connected. When a Ring doorbell shuts down due to heat, it can temporarily "orphan" nearby Sidewalk-enabled devices, potentially causing issues with smart locks or outdoor lighting that rely on that bridge for remote connectivity.
+Many Ring doorbells act as bridges for the Amazon Sidewalk network, which helps keep devices like Level Locks or Tile trackers connected. When a Ring doorbell shuts down due to heat, it can temporarily "orphan" nearby Sidewalk-enabled devices, potentially causing issues with [smart locks](https://quvii.com/blog/smart-locks-power-outages-safety-2026) or outdoor lighting that rely on that bridge for remote connectivity.
 
 ## Common misconceptions
 

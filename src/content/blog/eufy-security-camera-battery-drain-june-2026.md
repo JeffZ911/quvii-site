@@ -124,7 +124,7 @@ If your cameras are currently losing more than 5% of their charge per day, follo
 ### How to Contact Eufy Support for the 2026 Patch
 Eufy often releases "canary" patches to specific users before a global rollout. To get on this list:
 *   Email **support@eufy.com**.
-*   Subject: "Battery Drain Issue - HomeBase 3 - [Your Serial Number]"
+*   Subject: "[Battery Drain](https://quvii.com/blog/blink-camera-battery-drain-summer-heat-2026) Issue - HomeBase 3 - [Your Serial Number]"
 *   In the body, state: "I am experiencing 20%+ daily battery drain on my S3 Pro/S340 cameras since the June update. Please push the battery optimization patch or provide a firmware rollback for my HomeBase 3 (SN: [Your SN])."
 
 ### Optimizing Settings for the Interim

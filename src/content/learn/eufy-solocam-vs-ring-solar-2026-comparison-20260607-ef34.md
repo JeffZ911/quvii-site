@@ -157,7 +157,7 @@ Understanding the nuances of storage and placement is key to a successful DIY se
 
 ### External Technical Resources
 *   <a href="https://www.amazon.com/s?k=eufy+Support%3A+Solar+Panel+Positioning+Guide&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">eufy Support: Solar Panel Positioning Guide</a> — Detailed lux requirements for North American latitudes.
-*   <a href="https://www.amazon.com/s?k=Ring+Help%3A+3D+Motion+Detection+Explained&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Ring Help: 3D Motion Detection Explained</a> — Technical breakdown of radar distance-sensing.
+*   <a href="https://www.amazon.com/s?k=Ring+Help%3A+3D+Motion+Detection+Explained&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Ring Help: 3D [Motion Detection](https://quvii.com/learn/reolink-camera-motion-detection-false-alerts-fix) Explained</a> — Technical breakdown of radar distance-sensing.
 *   [FCC ID Search](https://apps.fcc.gov/oetcf/eas/reports/GenericSearch.cfm) — Verify the radio frequency and power output of specific camera models.
 
 Quvii tracks these trade-offs across the category to ensure your security investment remains functional long after the warranty expires.
