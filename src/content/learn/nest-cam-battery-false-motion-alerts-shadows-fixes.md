@@ -104,7 +104,7 @@ The impact of shadow-induced alerts goes beyond mere annoyance; it affects the c
 
 ### Total Cost of Ownership (TCO) Breakdown
 
-When purchasing a Nest Cam (Battery), the sticker price (usually in the **$150-200 range**) is only the beginning. To effectively manage false alerts from shadows, a subscription is almost mandatory for the advanced AI filtering.
+When purchasing a Nest Cam (Battery), the sticker price (usually in the **$150-200 range**) is only the beginning. To effectively manage [false alerts](https://quvii.com/learn/reolink-camera-motion-detection-false-alerts-fix) from shadows, a subscription is almost mandatory for the advanced AI filtering.
 
 *   **Year 1:** Hardware (~$180) + Nest Aware (~$80) = $260
 *   **Year 2:** Nest Aware (~$80) = $80

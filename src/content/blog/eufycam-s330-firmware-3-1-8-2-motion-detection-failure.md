@@ -113,7 +113,7 @@ If you are experiencing [motion detection](https://quvii.com/learn/reolink-camer
 
 ### Immediate troubleshooting steps for owners
 1.  **Force a Firmware Check:** Open the Eufy Security App > Devices > S330 > Settings > General > About > Check for firmware update. If a version newer than 3.1.8.2 is available, install it immediately.
-2.  **Verify Detection Settings:** Ensure "Motion Detection" is toggled ON. Experiment with "Optimal Surveillance" mode, which extends clip length and may help capture motion that is being cut off prematurely.
+2.  **Verify Detection Settings:** Ensure "[Motion Detection](https://quvii.com/learn/reolink-camera-motion-detection-false-alerts-fix)" is toggled ON. Experiment with "Optimal Surveillance" mode, which extends clip length and may help capture motion that is being cut off prematurely.
 3.  **The "Hard Reset":** If the camera is completely unresponsive to motion, remove it from the app, press the "Sync" button five times rapidly (or follow the specific model's reset prompt), and re-add it to the HomeBase. This clears the local cache and can often resolve post-update glitches.
 
 ### Engaging with Eufy customer support for advanced help

@@ -112,7 +112,7 @@ Battery management is arguably the most critical aspect for existing smart lock 
 Owners might encounter several issues during or immediately after a power outage.
 
 *   **Unresponsive Keypads/Sensors:** If internal batteries are depleted, the keypad or biometric sensor may become unresponsive. This is where emergency power ports or mechanical key overrides become essential.
-*   **Firmware Glitches:** Power fluctuations or sudden disconnections can sometimes lead to minor firmware issues, causing the lock to behave erratically or drain batteries faster. In such cases, a battery pull and reinsertion, or a full factory reset (following manufacturer instructions carefully), might be necessary once power is restored. Some older August models have occasionally reported rapid battery drain issues that can be exacerbated by power changes.
+*   **Firmware Glitches:** Power fluctuations or sudden disconnections can sometimes lead to minor firmware issues, causing the lock to behave erratically or drain batteries faster. In such cases, a battery pull and reinsertion, or a full factory reset (following manufacturer instructions carefully), might be necessary once power is restored. Some older August models have occasionally reported rapid [battery drain](https://quvii.com/blog/blink-camera-battery-drain-summer-heat-2026) issues that can be exacerbated by power changes.
 *   **Reconnecting to Wi-Fi/Hub:** After power is restored, your smart lock should automatically reconnect to your Wi-Fi network or smart home hub. If it doesn't, you may need to manually re-establish the connection through the lock's app or by following the manufacturer's troubleshooting guide.
 
 ### Assessing Your Integrated Smart Home Security

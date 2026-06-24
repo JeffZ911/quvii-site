@@ -27,7 +27,7 @@ inline_image_sections:
   - "Further reading"
 ---
 
-Managing a high-turnover summer rental requires a shift in mindset from "convenience" to "resilience." In 2026, the best smart locks for vacation properties are no longer judged solely by their apps, but by their ability to survive salt air, withstand 100-degree heat, and maintain a connection when the property's Wi-Fi inevitably hiccups.
+Managing a high-turnover summer rental requires a shift in mindset from "convenience" to "resilience." In 2026, the best [smart locks](https://quvii.com/blog/smart-locks-power-outages-safety-2026) for vacation properties are no longer judged solely by their apps, but by their ability to survive salt air, withstand 100-degree heat, and maintain a connection when the property's Wi-Fi inevitably hiccups.
 
 # The Best Smart Locks for Summer Rental Properties: A 2026 Buyer’s Guide
 

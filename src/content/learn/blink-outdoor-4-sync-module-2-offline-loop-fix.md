@@ -124,7 +124,7 @@ To resolve the [Blink Outdoor](https://quvii.com/blog/blink-outdoor-4-sync-modul
 | **Renter (Cannot move router)** | Move the Sync Module 2 using a long USB extension cable to get it closer to the Outdoor [4 camera](https://quvii.com/blog/blink-outdoor-4-sync-module-2-connection-error-fix). |
 | **Homeowner (Large property)** | Add a second Sync Module 2 to split the camera load and reduce the distance between hubs and cameras. |
 | **High Interference (Urban area)** | Switch your router's 2.4 GHz channel to 1, 6, or 11 and ensure the Sync Module is at least 3 feet away from the router. |
-| **Frequent Power Outages** | Plug the Sync Module 2 into a small Uninterruptible Power Supply (UPS) to prevent "reboot loops" during brownouts. |
+| **Frequent [Power Outages](https://quvii.com/blog/smart-locks-power-outages-safety-2026)** | Plug the Sync Module 2 into a small Uninterruptible Power Supply (UPS) to prevent "reboot loops" during brownouts. |
 
 ### Total Cost of Ownership (3-Year Estimate)
 
