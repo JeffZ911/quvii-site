@@ -180,4 +180,4 @@ Yes, over time. For coastal rentals, look for locks with a "Satin Chrome" or "Br
 - Eufy Security S330 Video Smart Lock
 - BHMA Certified Products Directory — https://buildershardware.com/cpd
 - The Verge: Matter 1.3 and Smart Lock Standards
-- Seam: Connecting Smart Locks to Vacation Rental Platforms
+- Seam: Connecting [Smart Locks](https://quvii.com/blog/smart-locks-power-outages-safety-2026) to Vacation Rental Platforms

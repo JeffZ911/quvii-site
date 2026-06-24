@@ -120,7 +120,7 @@ Without the subscription, you lose Activity Zones and the Gemini-powered descrip
 
 *   **Misconception:** Higher resolution cameras (like 1080p HDR on Nest Cam battery) automatically ignore shadows.
     *   **Reality:** While higher resolution provides more detail for the AI to analyze, the underlying pixel-change detection mechanism is still susceptible to shadow movement. In some cases, higher resolution can actually increase [false alerts](https://quvii.com/learn/reolink-camera-motion-detection-false-alerts-fix) because the sensor is sensitive to even smaller changes in light.
-*   **Misconception:** AI-powered cameras, especially with Gemini integration, eliminate all false alerts.
+*   **Misconception:** AI-powered cameras, especially with Gemini integration, eliminate all [false alerts](https://quvii.com/learn/reolink-camera-motion-detection-false-alerts-fix).
     *   **Reality:** While AI helps differentiate objects (people, animals, vehicles), complex shadow patterns can still confuse even advanced algorithms. If a shadow mimics the "skeletal" movement of a person, the AI may categorize it as a person event.
 *   **Misconception:** Adjusting sensitivity once is a permanent fix.
     *   **Reality:** Environmental conditions change with the seasons. A tree that has no leaves in winter won't cast many shadows, but in summer, its full canopy may trigger dozens of alerts. Users must periodically review and adjust their Activity Zones as foliage grows and the sun’s path changes.

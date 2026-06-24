@@ -151,7 +151,7 @@ Yes. Since the HomeBase 3 performs the AI processing (BionicMind) for the S330, 
 The S330 remains a top-tier choice for users who want 4K resolution and integrated solar power without monthly fees. However, buyers should be prepared to occasionally monitor their "Event" logs to ensure firmware updates haven't altered their detection settings, as is common with many software-defined security products.
 
 ## Sources
-- <a href="https://www.amazon.com/s?k=Eufy+Official+Support%3A+Troubleshooting+Motion+Detection&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Eufy Official Support: Troubleshooting Motion Detection</a>
+- <a href="https://www.amazon.com/s?k=Eufy+Official+Support%3A+Troubleshooting+Motion+Detection&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Eufy Official Support: Troubleshooting [Motion Detection](https://quvii.com/learn/reolink-camera-motion-detection-false-alerts-fix)</a>
 - <a href="https://www.amazon.com/s?k=Reddit%3A+r%2FEufyCam+Community+Discussions+on+Firmware+Updates&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Reddit: r/EufyCam Community Discussions on Firmware Updates</a>
 - <a href="https://www.amazon.com/s?k=Mozilla+Foundation%3A+Eufy+Security+Privacy+Review&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Mozilla Foundation: Eufy Security Privacy Review</a>
 - RTINGS: Eufy eufyCam 3 (S330) Review and Specs
