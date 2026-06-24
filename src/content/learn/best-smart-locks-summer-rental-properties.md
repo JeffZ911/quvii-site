@@ -155,7 +155,7 @@ Reality: Door misalignment is the #1 cause of smart lock failure. In older summe
 ## Frequently Asked Questions
 
 ### What happens if the power goes out at my rental?
-Most smart locks, including those from Schlage and Yale, operate on local battery power and do not require electricity to function. However, if the power is out, the Wi-Fi/Thread bridge will be down, meaning you cannot remotely add or change codes. Existing codes stored in the lock's local memory will continue to work.
+Most [smart locks](https://quvii.com/blog/smart-locks-power-outages-safety-2026), including those from Schlage and Yale, operate on local battery power and do not require electricity to function. However, if the power is out, the Wi-Fi/Thread bridge will be down, meaning you cannot remotely add or change codes. Existing codes stored in the lock's local memory will continue to work.
 
 ### Do I need to provide a physical key to guests?
 While not required, it is highly recommended to have a backup plan. Most hosts keep a physical key in a traditional mechanical lockbox hidden elsewhere on the property. This ensures that if the smart lock's motor fails or the batteries die unexpectedly, the guest is not stranded.

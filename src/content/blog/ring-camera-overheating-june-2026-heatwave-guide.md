@@ -129,7 +129,7 @@ If your Ring camera is currently struggling with the 2026 heatwave, there are se
 | **Renter (No wiring allowed)** | Use a white silicone skin and a shade shield; move camera to a recessed doorway if possible. |
 | **Homeowner (Extreme Heat Zone)** | Migrate to a Hardwired or PoE (Power over Ethernet) system with a metal chassis. |
 | **Business (High Security)** | Avoid battery units entirely; prioritize cameras with "Starlight" sensors that don't require heat-generating spotlights. |
-| **Budget Conscious** | Disable "Pre-Roll" and "Advanced Motion Detection" during daylight hours to save battery and reduce heat. |
+| **Budget Conscious** | Disable "Pre-Roll" and "Advanced [Motion Detection](https://quvii.com/learn/reolink-camera-motion-detection-false-alerts-fix)" during daylight hours to save battery and reduce heat. |
 
 ### The Case for Local Storage and PoE
 The 2026 heatwave has highlighted the fragility of cloud-dependent, battery-powered Wi-Fi cameras. For users who cannot afford downtime, the industry is shifting toward PoE (Power over Ethernet) models. These cameras receive power and data through a single cable, eliminating the need for a battery and moving the "brain" of the system (the NVR) into a climate-controlled home interior. Brands like Reolink and certain pro-sumer lines offer these as robust alternatives to the Ring ecosystem.

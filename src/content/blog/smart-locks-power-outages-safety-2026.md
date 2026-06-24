@@ -187,5 +187,5 @@ The average battery life for a smart lock varies significantly based on its conn
 - August – August Wi-Fi Smart Lock.
 - Bold Smart Lock – How does the BOLD Smart Cylinder work?
 - Lockin – Smart Lock Power Outage.
-- Classlawdc – August Smart Lock Battery Drain.
+- Classlawdc – August Smart Lock [Battery Drain](https://quvii.com/blog/blink-camera-battery-drain-summer-heat-2026).
 - Reddit – r/HomeSecurity Wiki.

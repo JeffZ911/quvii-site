@@ -124,7 +124,7 @@ If software stability remains a recurring issue, it may be time to consider the 
 
 **Decision Framework: Should You Switch?**
 *   **If you prioritize 100% uptime and zero "sleep" lag:** Consider a Power-over-Ethernet (PoE) system like those from **Reolink** or **Lorex**. These cameras record 24/7, meaning they never need to "wake up" to catch an event.
-*   **If you want to stay wireless but need better motion tech:** Look into the **Ring Spotlight Cam Pro**. Its radar-based "3D Motion Detection" is generally more reliable than PIR for detecting the exact start of an event, though it requires a subscription for full functionality.
+*   **If you want to stay wireless but need better motion tech:** Look into the **Ring Spotlight Cam Pro**. Its radar-based "3D [Motion Detection](https://quvii.com/learn/reolink-camera-motion-detection-false-alerts-fix)" is generally more reliable than PIR for detecting the exact start of an event, though it requires a subscription for full functionality.
 *   **If you want local storage without the Eufy bugs:** **Reolink's Argus series** offers similar solar/battery options with local SD card storage, often at a lower price point (around $100–$150), though their AI is generally considered less sophisticated than Eufy's BionicMind.
 
 ### Total Cost of Ownership (3-Year Estimate)
