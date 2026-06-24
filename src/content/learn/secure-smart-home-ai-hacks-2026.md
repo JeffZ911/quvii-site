@@ -141,7 +141,7 @@ As AI threats evolve, many homeowners are operating on outdated security assumpt
 
 ### The 'AI as a Shield' Fallacy
 
-Many consumers believe that because their camera "has AI," it is inherently more secure. In reality, AI cameras introduce a new "attack surface." While AI helps reduce false alerts from swaying trees, it also creates the opportunity for the adversarial perturbations mentioned earlier. A camera with AI is a more complex system, and complexity is often the enemy of security.
+Many consumers believe that because their camera "has AI," it is inherently more secure. In reality, AI cameras introduce a new "attack surface." While AI helps reduce [false alerts](https://quvii.com/learn/reolink-camera-motion-detection-false-alerts-fix) from swaying trees, it also creates the opportunity for the adversarial perturbations mentioned earlier. A camera with AI is a more complex system, and complexity is often the enemy of security.
 
 ### The Cloud Security Paradox
 

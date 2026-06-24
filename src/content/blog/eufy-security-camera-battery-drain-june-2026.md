@@ -125,7 +125,7 @@ If your cameras are currently losing more than 5% of their charge per day, follo
 Eufy often releases "canary" patches to specific users before a global rollout. To get on this list:
 *   Email **support@eufy.com**.
 *   Subject: "[Battery Drain](https://quvii.com/blog/blink-camera-battery-drain-summer-heat-2026) Issue - HomeBase 3 - [Your Serial Number]"
-*   In the body, state: "I am experiencing 20%+ daily battery drain on my S3 Pro/S340 cameras since the June update. Please push the battery optimization patch or provide a firmware rollback for my HomeBase 3 (SN: [Your SN])."
+*   In the body, state: "I am experiencing 20%+ daily [battery drain](https://quvii.com/blog/blink-camera-battery-drain-summer-heat-2026) on my S3 Pro/S340 cameras since the June update. Please push the battery optimization patch or provide a firmware rollback for my HomeBase 3 (SN: [Your SN])."
 
 ### Optimizing Settings for the Interim
 If your cameras are mounted in high, hard-to-reach places, consider purchasing a 13-foot USB-C charging cable (around $20) to temporarily power the camera from a ground-level power bank or outlet. This prevents the battery from hitting 0% and saves you from repeated ladder trips until Eufy confirms a stable system update has been deployed.
