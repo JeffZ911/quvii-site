@@ -98,7 +98,7 @@ If you already own a Eufy system, the June 2026 firmware cycle has likely shifte
 The most immediate impact is the "dark period." When a HomeBase 3 enters a reboot loop due to v3.8.2.8, the cameras cannot upload clips to the hub. If a package is stolen or a break-in occurs during this window, there is no record of the event. Owners have expressed frustration on forums like [r/HomeSecurity](https://www.reddit.com/r/homesecurity/), noting that they only discovered their cameras were offline when they went to check a routine notification.
 
 ### Increased Maintenance and Frustration
-Battery-powered cameras like the S3 Pro are designed to be installed in high, hard-to-reach places to avoid tampering. The battery drain issue forced many owners to take these cameras down for manual charging via USB-C. For users with multiple cameras, this turns a "solar-powered" system into a high-maintenance chore. 
+Battery-powered cameras like the S3 Pro are designed to be installed in high, hard-to-reach places to avoid tampering. The [battery drain](https://quvii.com/blog/eufy-security-camera-battery-drain-june-2026) issue forced many owners to take these cameras down for manual charging via USB-C. For users with multiple cameras, this turns a "solar-powered" system into a high-maintenance chore. 
 
 **Common Troubleshooting Flowchart for Eufy Firmware Issues:**
 1. **Check App:** Verify firmware version in Device Settings > General > About Device.

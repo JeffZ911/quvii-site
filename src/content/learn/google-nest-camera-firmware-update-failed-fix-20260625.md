@@ -27,7 +27,7 @@ inline_image_sections:
   - "Further reading"
 ---
 
-A failed firmware update on your Google Nest Camera can disrupt your home security, leaving your property vulnerable and your device inoperable. Understanding the underlying causes and implementing a structured troubleshooting approach is key to restoring your camera's functionality and ensuring continuous monitoring.
+A failed firmware update on your [Google Nest](https://quvii.com/blog/google-nest-community-migration-outage-fixes-2026-20260625) Camera can disrupt your home security, leaving your property vulnerable and your device inoperable. Understanding the underlying causes and implementing a structured troubleshooting approach is key to restoring your camera's functionality and ensuring continuous monitoring.
 
 # Google Nest Camera Firmware Update Failed: Solutions & Causes
 

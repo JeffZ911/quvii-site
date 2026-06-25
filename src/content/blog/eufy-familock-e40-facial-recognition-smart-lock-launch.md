@@ -123,7 +123,7 @@ If you are considering the Eufy FamiLock E40, your next steps should focus on co
 Since the E40 is currently in its initial launch phase at The Home Depot, potential buyers should wait for independent deep-dive reviews from outlets like RTINGS or The Verge to verify the real-world [battery life](https://quvii.com/learn/blink-outdoor-4-battery-life-extreme-heat) claims. While Eufy suggests up to 12 months for the lock and several months for the camera, high-traffic households may see significantly shorter intervals.
 
 ### Review the Privacy Policy
-Before purchasing any device that captures biometric data, review the manufacturer’s latest privacy policy. Confirm that the "Local Storage" claims still apply to the specific features you intend to use. As of June 2026, Eufy maintains that biometric data remains on-device, but checking for updates regarding third-party law enforcement requests or cloud-processing opt-ins is a recommended best practice natlawreview.com.
+Before purchasing any device that captures biometric data, review the manufacturer’s latest [privacy policy](https://quvii.com/learn/eufy-security-camera-privacy-policy-update-2026-20260625). Confirm that the "Local Storage" claims still apply to the specific features you intend to use. As of June 2026, Eufy maintains that biometric data remains on-device, but checking for updates regarding third-party law enforcement requests or cloud-processing opt-ins is a recommended best practice natlawreview.com.
 
 ## Frequently Asked Questions
 

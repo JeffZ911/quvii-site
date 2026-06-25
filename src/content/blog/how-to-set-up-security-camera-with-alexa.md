@@ -94,7 +94,7 @@ Even with modern hardware, several technical hurdles can prevent a smooth stream
 
 ### Privacy Update: Alexa+ Cloud Processing
 
-As of March 2025, Amazon updated its privacy policy regarding Alexa+. To power the advanced generative AI features, voice recordings are now processed in the cloud rather than locally on the device. If you use the **"Don't Save"** recording setting, certain personalized features like Voice ID may be disabled. Review your settings under **Settings > Alexa Privacy > Manage Your Alexa Data** to ensure your comfort level with cloud processing.
+As of March 2025, Amazon updated its [privacy policy](https://quvii.com/learn/eufy-security-camera-privacy-policy-update-2026-20260625) regarding Alexa+. To power the advanced generative AI features, voice recordings are now processed in the cloud rather than locally on the device. If you use the **"Don't Save"** recording setting, certain personalized features like Voice ID may be disabled. Review your settings under **Settings > Alexa Privacy > Manage Your Alexa Data** to ensure your comfort level with cloud processing.
 
 ### Band Steering and Wi-Fi Conflicts
 

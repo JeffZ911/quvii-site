@@ -150,7 +150,7 @@ Yes, significantly. Black and dark-colored housings absorb a much wider spectrum
 Most solar cameras have a safety "cut-off" for the battery. Lithium-ion batteries become unstable if charged at temperatures above 113°F (45°C). On a hot summer day, the internal temperature of the camera often exceeds this limit, so the system disables charging to prevent a fire or battery swelling, even if the solar panel is producing plenty of power.
 
 ### Will overheating void my security camera's warranty?
-It depends on the brand's policy. Most manufacturers, including Arlo and Google Nest, specify an operating temperature range. If their internal logs show the camera was consistently operated in environments exceeding 115°F-120°F, they may deny a warranty claim for a failed sensor or battery, citing "usage outside of specified environmental conditions."
+It depends on the brand's policy. Most manufacturers, including Arlo and [Google Nest](https://quvii.com/blog/google-nest-community-migration-outage-fixes-2026-20260625), specify an operating temperature range. If their internal logs show the camera was consistently operated in environments exceeding 115°F-120°F, they may deny a warranty claim for a failed sensor or battery, citing "usage outside of specified environmental conditions."
 
 ## Sources
 
