@@ -27,7 +27,7 @@ For homeowners and small business owners, a security camera is only as valuable 
 
 # Eufy Camera Firmware Update Issues: What You Need to Know (June 2026)
 
-As of June 2026, Eufy users have reported significant firmware update issues, including HomeBase 3 (v3.8.2.8) causing cameras to go offline, SoloCam S340s losing Wi-Fi connectivity after a February 2026 update, and HomeBase 3 (v3.7.6.8) leading to severe battery drain on S3 Pro and S340 cameras. These issues highlight the critical importance of understanding firmware impacts for both new buyers and existing owners.
+As of June 2026, Eufy users have reported significant firmware update issues, including HomeBase 3 (v3.8.2.8) causing cameras to go offline, SoloCam S340s losing Wi-Fi connectivity after a February 2026 update, and HomeBase 3 (v3.7.6.8) leading to severe [battery drain](https://quvii.com/blog/eufy-security-camera-battery-drain-june-2026) on S3 Pro and S340 cameras. These issues highlight the critical importance of understanding firmware impacts for both new buyers and existing owners.
 
 ## What happened
 

@@ -97,7 +97,7 @@ With an "InView" lens constantly facing the living area, privacy is a valid conc
 For those already invested in the Botslab or 360 Smart Life ecosystem, the W101 integrates seamlessly. It uses the same "Botslab" app as the company's dash cams and outdoor PTZ units, allowing for a unified dashboard. However, users should be aware that the dual-stream nature of the W101 requires a specific app version (v2026.6 or later) to correctly display the picture-in-picture view.
 
 ### Ecosystem Compatibility: Alexa and Google Home Integration
-The W101 maintains compatibility with major smart home platforms. Users can stream the "OutView" feed to an Echo Show or Google Nest Hub. It is important to note that, as of the June 2026 launch, most third-party smart displays can only show one stream at a time; users must specify "show me the window outdoor view" to access the relevant feed.
+The W101 maintains compatibility with major smart home platforms. Users can stream the "OutView" feed to an Echo Show or [Google Nest](https://quvii.com/blog/google-nest-community-migration-outage-fixes-2026-20260625) Hub. It is important to note that, as of the June 2026 launch, most third-party smart displays can only show one stream at a time; users must specify "show me the window outdoor view" to access the relevant feed.
 
 ### Upgrading from Single-Lens Window Cameras
 Owners of the older Botslab W302 will find the W101 a substantial upgrade. The jump from 1080p to 2.5K resolution provides the digital zoom headroom necessary to read license plates or identify faces at a distance. Furthermore, the W302 relied on a specialized "blackout" shroud to prevent internal light reflection; the W101’s F1.0 lens and improved sensor housing make this bulky accessory unnecessary.

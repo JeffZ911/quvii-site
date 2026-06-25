@@ -75,7 +75,7 @@ The integration of Gemini 3.1 "Scene Understanding" is the primary driver of the
 With the full implementation of Matter 2.0, Nest cameras are now required to maintain a more consistent "Keep-Alive" signal to stay synchronized with other smart home hubs (like Apple Home or Amazon Alexa). This cross-platform compatibility requires the Wi-Fi radio to stay active more frequently to respond to status requests from the Matter Controller.
 
 *   **Gemini 3.1 Cloud Polling:** High power draw during and after an event to process AI metadata.
-*   **Standard Motion Detection:** Low power draw; camera wakes, records, and immediately returns to sleep.
+*   **Standard [Motion Detection](https://quvii.com/learn/reolink-camera-motion-detection-false-alerts-fix):** Low power draw; camera wakes, records, and immediately returns to sleep.
 *   **Enhanced Live View:** Forces a "pre-warmed" state where the camera maintains a low-latency connection to the Google Home v4.2 app for faster streaming.
 
 ## How it works under the hood

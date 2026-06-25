@@ -26,7 +26,7 @@ The digital archive of one of the smart home industry’s most active troublesho
 
 # Google Nest Community Forum Deletion June 30: Save Your Data Now
 
-**Quick Answer:** On June 30, 2026, Google will permanently delete the legacy Nest Community forum. No user posts, guides, or account history will be migrated to the new platform; users must manually archive important troubleshooting data before the deadline.
+**Quick Answer:** On June 30, 2026, Google will permanently delete the legacy [Nest Community](https://quvii.com/blog/google-nest-community-migration-outage-fixes-2026-20260625) forum. No user posts, guides, or account history will be migrated to the new platform; users must manually archive important troubleshooting data before the deadline.
 
 ## What happened
 
@@ -84,7 +84,7 @@ The new platform is designed to be "solution-oriented," which in corporate terms
 
 | Brand | Forum Longevity | Searchable History | Third-Party Integration Support |
 | :--- | :--- | :--- | :--- |
-| **Google Nest** | Deleted (June 2026) | 0 years (Reset) | Minimal / Official Only |
+| **[Google Nest](https://quvii.com/blog/google-nest-community-migration-outage-fixes-2026-20260625)** | Deleted (June 2026) | 0 years (Reset) | Minimal / Official Only |
 | **Reolink** | Active | 8+ years | Extensive (RTSP/ONVIF) |
 | **Arlo** | Active | 6+ years | Moderate |
 | **Eufy** | Active | 5+ years | Moderate |
