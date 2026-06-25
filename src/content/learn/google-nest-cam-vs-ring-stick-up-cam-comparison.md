@@ -112,7 +112,7 @@ Ring cameras generally do not have on-device storage. To get local storage with 
 | **Resolution** | 1080p HDR | 1080p HDR |
 | **Field of View** | 130° Diagonal | 155° Diagonal |
 | **Night Vision** | 6 High-power IR LEDs | Color Night Vision (LED assisted) |
-| **AI Processing** | On-device TPU (Gemini) | Radar-based 3D Motion Detection |
+| **AI Processing** | On-device TPU (Gemini) | Radar-based 3D [Motion Detection](https://quvii.com/learn/reolink-camera-motion-detection-false-alerts-fix) |
 | **Local Storage** | 1-hour event buffer | Via Ring Edge (Requires Ring Alarm Pro) |
 | **Connectivity** | 802.11a/b/g/n (2.4/5GHz) | 802.11 b/g/n/ax (2.4/5GHz) |
 
@@ -200,7 +200,7 @@ Total cost of ownership (TCO) for a 3-camera setup over five years often exceeds
 
 *   For users seeking no-subscription alternatives, see our guide on local storage security cameras.
 *   Deep dive into the differences between NVR vs Cloud storage for long-term video retention.
-*   Understanding the "Emergency Disclosure" clauses and security camera privacy in modern terms of service.
+*   Understanding the "Emergency Disclosure" clauses and [security camera privacy](https://quvii.com/learn/eufy-security-camera-privacy-policy-update-2026-20260625) in modern terms of service.
 
 ## Sources
 

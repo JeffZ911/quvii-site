@@ -45,7 +45,7 @@ Firmware is the essential, low-level software embedded directly onto your Google
 
 ### Understanding Firmware
 
-Think of firmware as the brain of your Google Nest Camera. Without it, the camera cannot function. When Google releases a new firmware version, it's designed to improve the camera's operation, often by optimizing video processing, refining motion detection algorithms, improving battery life, or strengthening encryption standards. These updates are vital for maintaining both the camera's operational efficiency and its security posture against evolving digital threats.
+Think of firmware as the brain of your Google Nest Camera. Without it, the camera cannot function. When Google releases a new firmware version, it's designed to improve the camera's operation, often by optimizing video processing, refining [motion detection](https://quvii.com/learn/reolink-camera-motion-detection-false-alerts-fix) algorithms, improving battery life, or strengthening encryption standards. These updates are vital for maintaining both the camera's operational efficiency and its security posture against evolving digital threats.
 
 ### Signs of a Failed Update
 
@@ -268,5 +268,5 @@ Yes, Google commits to providing automatic critical security updates for Google 
 *   CNET - Nest Doorbell (wired, 2nd gen) review
 *   <a href="https://www.amazon.com/s?k=Google+Store+-+Nest+Aware+pricing&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Google Store - Nest Aware pricing</a>
 *   <a href="https://www.amazon.com/s?k=Engadget+-+Nest+Hub+Max+review&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Engadget - Nest Hub Max review</a>
-*   <a href="https://www.amazon.com/s?k=Google+Nest+Community+-+Camera+offline+after+update&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">[Google Nest Community](https://quvii.com/blog/google-nest-community-migration-outage-fixes-2026-20260625) - Camera offline after update</a>
+*   <a href="https://www.amazon.com/s?k=Google+Nest+Community+-+Camera+offline+after+update&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">[Google Nest Community](https://quvii.com/blog/google-nest-community-migration-outage-fixes-2026-20260625) - [Camera offline](https://quvii.com/learn/blink-camera-offline-troubleshooting-june-2026) after update</a>
 *   <a href="https://www.amazon.com/s?k=Thurrott+-+Google+Nest+Cam+%28wired%29+review&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Thurrott - Google Nest Cam (wired) review</a>

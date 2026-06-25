@@ -146,7 +146,7 @@ While Google wants users to move to `support.google.com/googlenest/community`, t
 - [ ] Visit the new Google Support forum and "claim" your preferred username before June 30.
 - [ ] Check your Nest Aware billing; ensure you aren't paying for "Premium Support" that is being downgraded during this transition.
 
-The deletion of the Nest Community forum marks the end of an era for peer-to-peer transparency in the smart home space. As Google moves toward a more controlled, AI-centric support model, the responsibility for maintaining "legacy knowledge" shifts from the manufacturer to the owner. Quvii tracks these trade-offs across the category to ensure buyers know exactly what kind of long-term support they are—or aren't—paying for.
+The deletion of the [Nest Community](https://quvii.com/blog/google-nest-community-migration-outage-fixes-2026-20260625) forum marks the end of an era for peer-to-peer transparency in the smart home space. As Google moves toward a more controlled, AI-centric support model, the responsibility for maintaining "legacy knowledge" shifts from the manufacturer to the owner. Quvii tracks these trade-offs across the category to ensure buyers know exactly what kind of long-term support they are—or aren't—paying for.
 
 ## Frequently Asked Questions
 
@@ -162,6 +162,6 @@ Google has cited "data privacy and platform compatibility" as the reasons for no
 ## Sources
 - 9to5Google
 - Android Authority
-- Google Nest Support
+- [Google Nest](https://quvii.com/blog/google-nest-community-migration-outage-fixes-2026-20260625) Support
 - Gadget Hacks — https://www.gadgethacks.com/how-to/archive-nest-forum-threads-before-deletion/
 - Android Headlines

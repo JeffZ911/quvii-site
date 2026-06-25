@@ -143,7 +143,7 @@ Quvii tracks these hardware and software trade-offs across the security category
 
 ## Sources
 - Eufy Official Support — [https://support.eufy.com/s/](https://support.eufy.com/s/)
-- Eufy Privacy Policy & 2026 Transparency Report — [https://www.eufy.com/privacy-policy](https://www.eufy.com/privacy-policy)
+- Eufy [Privacy Policy](https://quvii.com/learn/eufy-security-camera-privacy-policy-update-2026-20260625) & 2026 Transparency Report — [https://www.eufy.com/privacy-policy](https://www.eufy.com/privacy-policy)
 - Reddit r/EufyCam Community Bug Tracker — https://www.reddit.com/r/EufyCam/
 - Reolink Altas PT Ultra Product Page — [https://reolink.com/product/altas-pt-ultra/](https://reolink.com/product/altas-pt-ultra/)
 - FCC ID Search (Eufy/Anker Filings) — [https://apps.fcc.gov/oetcf/eas/reports/GenericSearch.cfm](https://apps.fcc.gov/oetcf/eas/reports/GenericSearch.cfm)

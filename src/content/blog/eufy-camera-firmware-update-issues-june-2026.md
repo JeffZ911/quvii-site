@@ -57,7 +57,7 @@ Battery longevity is a primary selling point for the EufyCam S3 Pro and SoloCam 
 | v3.8.2.8 | HomeBase 3 (S380) | Constant offline status / Reboot loops | Investigation ongoing |
 | v3.8.2.0 | HomeBase 3 (S380) | SSD/HDD storage "dropped"; loss of 24/7 recording | Patch (v3.8.2.2) released |
 | Feb 2026 OTA | SoloCam S340 | Total Wi-Fi connectivity loss (Bricking) | Warranty replacements offered |
-| v3.7.6.8 | S3 Pro / S340 | Severe battery drain (days vs. months) | Partially resolved via v3.7.7.x |
+| v3.7.6.8 | S3 Pro / S340 | Severe [battery drain](https://quvii.com/blog/eufy-security-camera-battery-drain-june-2026) (days vs. months) | Partially resolved via v3.7.7.x |
 
 ## Why it matters for buyers
 

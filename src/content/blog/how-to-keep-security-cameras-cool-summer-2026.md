@@ -58,7 +58,7 @@ For example, a modern 4K sensor produces roughly 30% more heat during active pro
 | **[Reolink Argus 4 Pro](/blog/reolink-argus-4-pro-new-release-features-20260613)** | 4K | Battery | 131°F (55°C) | Advanced heat dissipation housing |
 | **Reolink RLC-811A** | 4K | PoE | 131°F (55°C) | Aluminum alloy heat-sink body |
 
-*Data synthesized from Google Nest Support, <a href="https://www.amazon.com/s?k=Ring.com&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Ring.com</a>, and <a href="https://www.amazon.com/s?k=Reolink.com&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Reolink.com</a>.*
+*Data synthesized from [Google Nest](https://quvii.com/blog/google-nest-community-migration-outage-fixes-2026-20260625) Support, <a href="https://www.amazon.com/s?k=Ring.com&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Ring.com</a>, and <a href="https://www.amazon.com/s?k=Reolink.com&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Reolink.com</a>.*
 
 ## Why it matters for buyers
 

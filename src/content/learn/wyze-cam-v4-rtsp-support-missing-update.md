@@ -209,7 +209,7 @@ Wyze has indicated that they are working on official RTSP support for the Wyze C
 *   Wyze Community — Scrypted for Wyze Cams
 *   Wyze — Wyze Cam v3 RTSP — https://support.wyze.com/hc/en-us/articles/360052345072-Wyze-Cam-v3-RTSP
 *   Wyze Community — TinyCam Pro for Wyze Cam
-*   Consumer Reports — Security Camera Privacy and Security Guide
+*   Consumer Reports — [Security Camera Privacy](https://quvii.com/learn/eufy-security-camera-privacy-policy-update-2026-20260625) and Security Guide
 *   Wyze — Privacy Policy
 *   Wyze — Wyze Cam Unlimited
 *   Wyze — Wyze Integrations
