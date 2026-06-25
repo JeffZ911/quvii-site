@@ -127,7 +127,7 @@ If you are considering Eufy in June 2026, **exercise caution**. While the hardwa
 *   **Consider Alternatives:** If reliability is your #1 priority, look at brands with more conservative update cycles or those that allow for local-only firmware management without forced OTA updates.
 
 ### Immediate Steps for Affected Eufy Owners
-If your system is currently exhibiting offline behavior or battery drain:
+If your system is currently exhibiting offline behavior or [battery drain](https://quvii.com/blog/eufy-security-camera-battery-drain-june-2026):
 1.  **Disable Auto-Update:** In the Eufy Security app, check if you can toggle off "Auto-Update" (though Eufy often pushes "Critical" updates regardless).
 2.  **Document Everything:** Take screenshots of your firmware versions and the "Device Offline" screens. This is vital for warranty claims.
 3.  **Manual Reboot:** Many HomeBase 3 issues can be temporarily resolved by a physical power cycle (unplugging the power cable).

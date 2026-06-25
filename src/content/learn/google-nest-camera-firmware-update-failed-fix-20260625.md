@@ -31,7 +31,7 @@ A failed firmware update on your [Google Nest](https://quvii.com/blog/google-nes
 
 # Google Nest Camera Firmware Update Failed: Solutions & Causes
 
-If your Google Nest Camera firmware update fails, common fixes include checking your Wi-Fi connection, restarting the camera and router, ensuring adequate battery charge, and verifying app and device compatibility. For persistent issues, a factory reset or contacting Google Nest support may be necessary.
+If your [Google Nest](https://quvii.com/blog/google-nest-community-migration-outage-fixes-2026-20260625) Camera firmware update fails, common fixes include checking your Wi-Fi connection, restarting the camera and router, ensuring adequate battery charge, and verifying app and device compatibility. For persistent issues, a factory reset or contacting Google Nest support may be necessary.
 
 ## What it means
 
