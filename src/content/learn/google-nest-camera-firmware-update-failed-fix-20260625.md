@@ -41,7 +41,7 @@ If your [Google Nest](https://quvii.com/blog/google-nest-community-migration-out
 *Related: [Reolink Camera Connection Failure: 2026 Troubleshooting Guide](/learn/reolink-camera-connection-failure-2026-guide) · [Fix Reolink Camera False Motion Detection Alerts: A 2026 Guide](/learn/reolink-camera-motion-detection-false-alerts-fix) · [How to Protect Outdoor Security Cameras from Summer Storms](/learn/protect-outdoor-security-cameras-summer-storms)*
 
 
-Firmware is the essential, low-level software embedded directly onto your Google Nest Camera's hardware. It acts as the operating system for the device, dictating its core functionalities, managing hardware components like the image sensor and Wi-Fi module, and enforcing security protocols. Regular firmware updates are crucial as they introduce new features, enhance performance, patch security vulnerabilities, and resolve bugs that could affect your camera's reliability or protection against threats.
+Firmware is the essential, low-level software embedded directly onto your [Google Nest](https://quvii.com/blog/google-nest-community-migration-outage-fixes-2026-20260625) Camera's hardware. It acts as the operating system for the device, dictating its core functionalities, managing hardware components like the image sensor and Wi-Fi module, and enforcing security protocols. Regular firmware updates are crucial as they introduce new features, enhance performance, patch security vulnerabilities, and resolve bugs that could affect your camera's reliability or protection against threats.
 
 ### Understanding Firmware
 
@@ -123,7 +123,7 @@ A failed firmware update can have immediate and long-lasting consequences for yo
 ### Long-Term Consequences
 
 *   **Security Vulnerabilities**: Skipping or failing to apply critical security patches leaves your Google Nest Camera vulnerable to exploits. Attackers could potentially gain unauthorized access, disrupt functionality, or compromise your privacy.
-*   **Performance Degradation**: Older firmware might contain unaddressed bugs that lead to decreased performance, such as reduced video quality, inaccurate motion detection, or excessive battery drain.
+*   **Performance Degradation**: Older firmware might contain unaddressed bugs that lead to decreased performance, such as reduced video quality, inaccurate motion detection, or excessive [battery drain](https://quvii.com/blog/eufy-security-camera-battery-drain-june-2026).
 *   **Limited Support**: Google Nest support may require your device to be on a recent firmware version for effective troubleshooting, potentially complicating assistance for persistent issues.
 
 ### Step-by-Step Troubleshooting Guide

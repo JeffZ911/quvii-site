@@ -99,7 +99,7 @@ The impact of shadow-induced alerts goes beyond mere annoyance; it affects the c
 
 *   **Notification Fatigue:** Frequent [false alerts](https://quvii.com/learn/reolink-camera-motion-detection-false-alerts-fix) lead to notification fatigue, causing users to ignore important alerts or even disable notifications entirely. If your phone pings 20 times a day because of a tree, you are unlikely to look at the 21st ping, which could be a genuine security threat.
 *   **[Battery Drain](https://quvii.com/learn/blink-outdoor-4-battery-drain-june-2026):** Each false alert triggers a recording and, often, a cloud upload. For a battery-powered camera, this is catastrophic for longevity. A camera that should last three months might die in three weeks if it is constantly "waking up" to record shadows.
-*   **Cloud Storage and TCO:** Excessive recordings fill up cloud storage history faster. While Google Nest Aware offers "event-based" recording, the sheer volume of clips can make it difficult to find actual incidents in a cluttered timeline.
+*   **Cloud Storage and TCO:** Excessive recordings fill up cloud storage history faster. While [Google Nest](https://quvii.com/blog/google-nest-community-migration-outage-fixes-2026-20260625) Aware offers "event-based" recording, the sheer volume of clips can make it difficult to find actual incidents in a cluttered timeline.
 *   **Privacy and Data Routing:** All motion detection and classification for the Nest Cam (battery) that exceeds the basic on-device capabilities occurs on Google servers. This means video data is constantly being routed through Google's infrastructure, which remains a point of concern for users prioritizing local-only privacy.
 
 ### Total Cost of Ownership (TCO) Breakdown

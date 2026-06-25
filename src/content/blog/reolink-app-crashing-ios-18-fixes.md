@@ -147,7 +147,7 @@ Major iOS updates often change how "Background App Refresh" and "Push Notificati
 
 ## Sources
 - Reolink Official Support — [https://support.reolink.com/](https://support.reolink.com/)
-- Reolink Privacy Policy — [https://reolink.com/privacy-policy/](https://reolink.com/privacy-policy/)
+- Reolink [Privacy Policy](https://quvii.com/learn/eufy-security-camera-privacy-policy-update-2026-20260625) — [https://reolink.com/privacy-policy/](https://reolink.com/privacy-policy/)
 - Apple App Store Reolink Page
 - Reddit r/reolinkcam Community — https://www.reddit.com/r/reolinkcam/
 - RTINGS Security Camera Reviews
