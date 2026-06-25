@@ -51,7 +51,7 @@ For example, a modern 4K sensor produces roughly 30% more heat during active pro
 
 | Camera Model | Resolution | Power Type | Max Operating Temp | Notable Thermal Feature |
 | :--- | :--- | :--- | :--- | :--- |
-| **Google Nest Cam (Battery)** | 1080p | Battery | 104°F (40°C) | Automatic charging halt at 113°F |
+| **[Google Nest](https://quvii.com/blog/google-nest-community-migration-outage-fixes-2026-20260625) Cam (Battery)** | 1080p | Battery | 104°F (40°C) | Automatic charging halt at 113°F |
 | **Ring Battery Doorbell Pro** | 1536p | Battery | 120°F (48.5°C) | High-heat performance mode |
 | **Eufy SoloCam S340** | 3K (Dual) | Battery/Solar | 122°F (50°C) | Integrated solar thermal management |
 | **Arlo Pro 5S 2K** | 2K | Battery | 113°F (45°C) | Low-power thermal state |

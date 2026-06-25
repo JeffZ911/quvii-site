@@ -51,7 +51,7 @@ The move is primarily driven by Google’s broader initiative to consolidate all
 
 **Timeline of the 2026 Deletion**
 *   **May 12, 2026:** Announcement of the new support domain; legacy forum set to "Read Only."
-*   **June 1, 2026:** New Google Home & Nest Community opens for new posts.
+*   **June 1, 2026:** New Google Home & [Nest Community](https://quvii.com/blog/google-nest-community-migration-outage-fixes-2026-20260625) opens for new posts.
 *   **June 15, 2026:** Final warning sent to "Gold Product Experts" regarding badge and history loss.
 *   **June 30, 2026:** Permanent deletion of `googlenestcommunity.com`.
 
@@ -96,7 +96,7 @@ The new platform is designed to be "solution-oriented," which in corporate terms
 *   **The Legacy Hardware Owner:** If you are buying used or refurbished "Nest Cam IQ" or "Nest Hello" units, be aware that your primary source of troubleshooting is about to disappear. Ensure you archive manual setup guides now.
 
 ### Total Cost of Ownership (TCO) and the "Support Tax"
-When calculating the cost of a Google Nest system, buyers must factor in the Nest Aware subscription. In 2026, Nest Aware costs [around $80/year] for the basic tier and [around $150/year] for Nest Aware Plus. Part of that subscription cost historically went toward maintaining a robust support ecosystem. With the community deletion, users are essentially paying the same "Support Tax" for a smaller, more restricted pool of peer-to-peer knowledge.
+When calculating the cost of a [Google Nest](https://quvii.com/blog/google-nest-community-migration-outage-fixes-2026-20260625) system, buyers must factor in the Nest Aware subscription. In 2026, Nest Aware costs [around $80/year] for the basic tier and [around $150/year] for Nest Aware Plus. Part of that subscription cost historically went toward maintaining a robust support ecosystem. With the community deletion, users are essentially paying the same "Support Tax" for a smaller, more restricted pool of peer-to-peer knowledge.
 
 ## Impact on existing owners
 

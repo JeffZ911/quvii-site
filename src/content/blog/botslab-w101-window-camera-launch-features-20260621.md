@@ -103,7 +103,7 @@ The W101 maintains compatibility with major smart home platforms. Users can stre
 Owners of the older Botslab W302 will find the W101 a substantial upgrade. The jump from 1080p to 2.5K resolution provides the digital zoom headroom necessary to read license plates or identify faces at a distance. Furthermore, the W302 relied on a specialized "blackout" shroud to prevent internal light reflection; the W101’s F1.0 lens and improved sensor housing make this bulky accessory unnecessary.
 
 ### Privacy Policy 2026: What's Changed for Data Security
-Following a privacy policy update on April 1, 2026, Botslab has clarified its data handling procedures. The company now explicitly states that AI processing for human and vehicle detection is performed "edge-side" (on the camera itself) rather than in the cloud. This reduces the amount of sensitive visual data transmitted over the internet. Furthermore, the policy confirms that local microSD data is encrypted and cannot be read by simply removing the card and inserting it into a PC without the owner's account credentials (Botslab Privacy Center).
+Following a [privacy policy update](https://quvii.com/learn/eufy-security-camera-privacy-policy-update-2026-20260625) on April 1, 2026, Botslab has clarified its data handling procedures. The company now explicitly states that AI processing for human and vehicle detection is performed "edge-side" (on the camera itself) rather than in the cloud. This reduces the amount of sensitive visual data transmitted over the internet. Furthermore, the policy confirms that local microSD data is encrypted and cannot be read by simply removing the card and inserting it into a PC without the owner's account credentials (Botslab Privacy Center).
 
 ## What to do now
 

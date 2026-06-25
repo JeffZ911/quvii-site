@@ -156,7 +156,7 @@ The June 2026 stealer logs data breach is a serious event, but proactive steps c
     *   Use a strong, unique password for your Wi-Fi network that is different from your camera passwords.
     *   Enable WPA2 or, preferably, WPA3 encryption on your router for stronger wireless security.
     *   Consider creating a separate "guest" or IoT-specific network for your smart home devices, including cameras. This isolates them from your main network where sensitive data might reside.
-3.  **Review Camera Privacy Settings:** Access your camera's settings via its app or web interface and review all privacy configurations. Ensure that only necessary features are enabled and that sharing settings are restricted.
+3.  **Review [Camera Privacy](https://quvii.com/learn/eufy-security-camera-privacy-policy-update-2026-20260625) Settings:** Access your camera's settings via its app or web interface and review all privacy configurations. Ensure that only necessary features are enabled and that sharing settings are restricted.
 
 ### Ongoing Vigilance and Best Practices
 

@@ -183,6 +183,6 @@ The best prevention is to ensure your camera is either plugged into a permanent 
 ## Sources
 - Arlo Official End-of-Life Policy — https://kb.arlo.com/000063018/Arlo-Legacy-End-of-Life-Policy
 - Arlo Secure Subscription Features and Pricing — https://www.arlo.com/en-us/arlo-secure.html
-- Arlo Privacy Policy (Updated March 4, 2026) — https://www.arlo.com/en-us/about/privacy-policy/
+- Arlo [Privacy Policy](https://quvii.com/learn/eufy-security-camera-privacy-policy-update-2026-20260625) (Updated March 4, 2026) — https://www.arlo.com/en-us/about/privacy-policy/
 - Arlo Community Forum: Firmware Issues
 - Reddit r/Arlo: Bricked Camera Reports — https://www.reddit.com/r/arlo/

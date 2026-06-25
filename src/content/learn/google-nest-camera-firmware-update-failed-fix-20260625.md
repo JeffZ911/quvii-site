@@ -51,7 +51,7 @@ Think of firmware as the brain of your Google Nest Camera. Without it, the camer
 
 A failed firmware update on a Google Nest Camera can manifest in several ways, often making the camera unresponsive or displaying unusual behavior. Common indicators include:
 *   **Unresponsiveness**: The camera stops recording, streaming live video, or responding to commands from the Google Home app.
-*   **Error Messages**: The Google Home app might display specific error messages, such as "Update failed," "Camera offline," or similar notifications indicating a problem with the update process.
+*   **Error Messages**: The Google Home app might display specific error messages, such as "Update failed," "[Camera offline](https://quvii.com/learn/blink-camera-offline-troubleshooting-june-2026)," or similar notifications indicating a problem with the update process.
 *   **Unusual LED Patterns**: The camera's status light can provide diagnostic clues. A solid red light often indicates a critical error, while a blinking amber light might suggest a network issue or a problem during startup after an update attempt. For instance, a slow pulsing green light means the device is updating its firmware.
 *   **Feature Loss**: New features announced with a firmware update may not appear, or existing features might cease to work correctly.
 *   **Repeated Restarts**: The camera might continuously reboot or cycle through its startup sequence without ever fully coming online.
@@ -263,10 +263,10 @@ Yes, Google commits to providing automatic critical security updates for Google 
 *   <a href="https://www.amazon.com/s?k=Reddit+-+Nest+Cam+%28wired%29+night+vision+issues+after+update&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Reddit - Nest Cam (wired) night vision issues after update</a>
 *   <a href="https://www.amazon.com/s?k=Reddit+-+Nest+Cam+%28battery%29+battery+drain+after+update&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Reddit - Nest Cam (battery) battery drain after update</a>
 *   <a href="https://www.amazon.com/s?k=Google+Store+-+Nest+Doorbell+%28wired%2C+2nd+gen%29+specs&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Google Store - Nest Doorbell (wired, 2nd gen) specs</a>
-*   <a href="https://www.amazon.com/s?k=YouTube+-+Nest+Cam+%28battery%29+firmware+update+issues&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">YouTube - Nest Cam (battery) firmware update issues</a>
+*   <a href="https://www.amazon.com/s?k=YouTube+-+Nest+Cam+%28battery%29+firmware+update+issues&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">YouTube - Nest Cam (battery) [firmware update issues](https://quvii.com/blog/eufy-camera-firmware-update-issues-june-2026)</a>
 *   <a href="https://www.amazon.com/s?k=Reddit+-+Nest+Cam+%28battery%29+connectivity+issues+after+update&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Reddit - Nest Cam (battery) connectivity issues after update</a>
 *   CNET - Nest Doorbell (wired, 2nd gen) review
 *   <a href="https://www.amazon.com/s?k=Google+Store+-+Nest+Aware+pricing&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Google Store - Nest Aware pricing</a>
 *   <a href="https://www.amazon.com/s?k=Engadget+-+Nest+Hub+Max+review&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Engadget - Nest Hub Max review</a>
-*   <a href="https://www.amazon.com/s?k=Google+Nest+Community+-+Camera+offline+after+update&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Google Nest Community - Camera offline after update</a>
+*   <a href="https://www.amazon.com/s?k=Google+Nest+Community+-+Camera+offline+after+update&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">[Google Nest Community](https://quvii.com/blog/google-nest-community-migration-outage-fixes-2026-20260625) - Camera offline after update</a>
 *   <a href="https://www.amazon.com/s?k=Thurrott+-+Google+Nest+Cam+%28wired%29+review&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Thurrott - Google Nest Cam (wired) review</a>
