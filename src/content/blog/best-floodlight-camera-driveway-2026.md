@@ -23,7 +23,7 @@ inline_image_sections:
   - "What to do now"
 ---
 
-The era of grainy 1080p driveway footage has ended as 2026 brings 16MP panoramic sensors and subscription-free local AI to the forefront of [home security](https://quvii.com/blog/smart-home-security-privacy-trends-2026).
+The era of grainy 1080p driveway footage has ended as 2026 brings 16MP panoramic sensors and subscription-free [local AI](https://quvii.com/blog/eufy-edgeagent-local-ai-security-platform-2026) to the forefront of [home security](https://quvii.com/blog/smart-home-security-privacy-trends-2026).
 
 # Best Floodlight Camera for Driveway 2026: The 16MP Local-Storage Revolution
 

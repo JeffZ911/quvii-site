@@ -31,7 +31,7 @@ As summer weather patterns become increasingly volatile, the reliability of outd
 
 # Are Smart Home Cameras Safe from Summer Storms in 2026?
 
-**Quick Answer:** Many modern outdoor smart home cameras from brands like Reolink, Eufy, and Arlo are designed with robust weather resistance (IP65, IP66, or IP67 ratings) to withstand heavy rain and wind. To protect against lightning and power outages, consider models with built-in surge protection, battery backup, or local storage, and always ensure proper grounding and mounting. For example, the Reolink Duo 3 PoE and Eufy SoloCam S340 offer high IP ratings and local storage options for enhanced storm resilience.
+**Quick Answer:** Many modern outdoor smart home cameras from brands like Reolink, Eufy, and Arlo are designed with robust weather resistance (IP65, IP66, or IP67 ratings) to withstand heavy rain and wind. To protect against lightning and [power outages](https://quvii.com/blog/smart-locks-power-outages-safety-2026), consider models with built-in surge protection, battery backup, or local storage, and always ensure proper grounding and mounting. For example, the Reolink Duo 3 PoE and Eufy SoloCam S340 offer high IP ratings and local storage options for enhanced storm resilience.
 
 ## What it means
 

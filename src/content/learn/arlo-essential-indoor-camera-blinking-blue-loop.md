@@ -156,7 +156,7 @@ If your camera is stuck in a blinking blue loop, use this logic to identify the 
 
 ## Total Cost of Ownership (3-Year Estimate)
 
-When purchasing the Arlo Essential Indoor, the "sticker price" is only the beginning. Because the camera lacks local storage and relies on cloud AI for basic utility (like distinguishing a person from a pet), the subscription is a functional requirement for most users.
+When purchasing the [Arlo Essential](https://quvii.com/learn/arlo-essential-firmware-update-issues-june-2026) Indoor, the "sticker price" is only the beginning. Because the camera lacks local storage and relies on cloud AI for basic utility (like distinguishing a person from a pet), the subscription is a functional requirement for most users.
 
 *   **Hardware (Approx. Band):** $50 - $90 (One-time)
 *   **Arlo Secure Subscription (Single Camera, ~3 Years):** $280 - $300 (Based on 2026 estimated $7.99/mo rates)

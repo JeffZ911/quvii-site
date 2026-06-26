@@ -63,7 +63,7 @@ Blink has refined its LED signaling for the Outdoor 4 and Mini 2K+ models to pro
 ### The Sync Module Status Light
 The Sync Module XR, released as the backbone for the 2026 ecosystem, features a multi-color LED. A **solid green** light indicates a successful connection to both the local Wi-Fi and the Blink servers. A **solid red** light indicates a local network failure (the module cannot talk to your router), while a **flashing green** light suggests the module is connected to Wi-Fi but cannot reach the Amazon cloud—often a sign of a subscription authentication issue or a service outage.
 
-[IMAGE PLACEHOLDER: A Blink Outdoor 4 camera mounted on a residential porch with a smartphone in the foreground showing the 'Camera Offline' error message in the Blink app. Aspect Ratio: 16:9]
+[IMAGE PLACEHOLDER: A Blink Outdoor 4 camera mounted on a residential porch with a smartphone in the foreground showing the '[Camera Offline](https://quvii.com/blog/wyze-camera-outages-overheating-june-2026)' error message in the Blink app. Aspect Ratio: 16:9]
 
 ## Why it exists
 

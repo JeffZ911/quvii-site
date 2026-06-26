@@ -150,4 +150,4 @@ The Smart Security Shield is a new hardware component of the EdgeAgent platform.
 - Forbes: Anker Day 2026 Product Announcements — https://www.forbes.com
 - CNET: The Shift to Local AI in Home Security — https://www.cnet.com
 - Reddit: r/EufyCam Firmware Issues Discussion — https://www.reddit.com/r/EufyCam
-- Eufy Privacy Policy (Updated Jan 2026) — https://www.eufy.com/privacy-policy
+- Eufy [Privacy Policy](https://quvii.com/learn/eufy-security-camera-privacy-policy-update-2026-20260625) (Updated Jan 2026) — https://www.eufy.com/privacy-policy

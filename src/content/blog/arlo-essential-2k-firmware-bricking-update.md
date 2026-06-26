@@ -105,7 +105,7 @@ The "Arlo Tax" is a significant consideration for budget-conscious buyers who ma
 ![Impact on existing owners](/img/arlo-essential-2k-firmware-bricking-update/inline-3.webp)
 
 
-For those who already own an Arlo Essential 2K, the 2026 [firmware issues](https://quvii.com/blog/arlo-secure-app-6-26-0-firmware-issues) represent more than just a technical glitch; they represent a potential breach of the security promise.
+For those who already own an [Arlo Essential](https://quvii.com/learn/arlo-essential-firmware-update-issues-june-2026) 2K, the 2026 [firmware issues](https://quvii.com/blog/arlo-secure-app-6-26-0-firmware-issues) represent more than just a technical glitch; they represent a potential breach of the security promise.
 
 ### Loss of Functionality and Support
 When a camera is bricked, the home's security perimeter is immediately compromised. Many owners do not realize their camera is offline until an event occurs and they find no footage in their library. For cameras that are "deemed no longer supported," even if they aren't fully bricked, the loss of security patches makes them a liability. In the 2026 threat landscape, unpatched IoT devices are primary targets for botnets and unauthorized access.

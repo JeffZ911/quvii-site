@@ -173,7 +173,7 @@ The best fix is to adjust the "Wake-up Sensitivity" to Low and ensure your Activ
 
 ## Sources
 
-- Google Nest Support: Nest Cam (battery) Specs
+- [Google Nest](https://quvii.com/blog/google-nest-community-migration-outage-fixes-2026-20260625) Support: Nest Cam (battery) Specs
 - Google Safety Center: Nest Privacy — https://safety.google/nest/
 - RTINGS: Google Nest Cam (Battery) Review
 - [Google Nest Community](https://quvii.com/blog/google-nest-community-migration-outage-fixes-2026-20260625): Reducing [False Alerts](https://quvii.com/learn/reolink-camera-motion-detection-false-alerts-fix) — https://googlenestcommunity.com/t5/Cameras-and-Doorbells/Nest-Cam-Battery-False-Alerts/m-p/214565

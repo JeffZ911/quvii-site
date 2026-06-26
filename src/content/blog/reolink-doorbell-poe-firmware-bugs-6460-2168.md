@@ -156,7 +156,7 @@ Reolink emphasizes local storage options, meaning your video recordings can be k
 *   reolink.com — Reolink Doorbell PoE Product Page
 *   reolink.com — Reolink WiFi Doorbell Product Page
 *   reolink.com — Reolink Support
-*   reolink.com — Reolink Privacy Policy
+*   reolink.com — Reolink [Privacy Policy](https://quvii.com/learn/eufy-security-camera-privacy-policy-update-2026-20260625)
 *   reolink.com — Reolink Security & Privacy FAQs
 *   github.com — Reolink firmware versions and release notes
 *   reolink.com — Reolink NVR Features

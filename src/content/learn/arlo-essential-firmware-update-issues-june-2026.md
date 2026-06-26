@@ -176,4 +176,4 @@ No. The Essential line is designed to connect directly to your 2.4GHz Wi-Fi netw
 - Arlo Official Site: Arlo Secure Subscription Plans — https://www.arlo.com/en-us/arlo-secure.html
 - Arlo Privacy Pledge — https://www.arlo.com/en-us/about/privacy-center/
 - Arlo Community Forums: Essential Series Discussions
-- Reddit r/Arlo: Firmware Update Issues Thread — https://www.reddit.com/r/arlo/
+- Reddit r/Arlo: [Firmware Update Issues](https://quvii.com/blog/eufy-camera-firmware-update-issues-june-2026) Thread — https://www.reddit.com/r/arlo/

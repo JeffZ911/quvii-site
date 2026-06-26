@@ -113,7 +113,7 @@ A drip loop is a simple U-shaped curve in the cable just before it enters a buil
 For PoE systems, surge protection must be installed at both ends of a long cable run (longer than 30 feet). One protector should be near the camera, and another should be located where the cable enters the house, connected to the home’s main electrical ground. According to [IEEE 802.3 standards](https://standards.ieee.org/standard/802_3-2022.html), improper grounding is the most common cause of "cascading failure" in residential security networks.
 
 ### Managing False Alerts During Storms
-Summer storms create "visual noise"—moving branches, rain streaks, and lightning flashes. To prevent a flood of false notifications:
+[Summer storms](https://quvii.com/learn/smart-home-cameras-summer-storms-safety-2026) create "visual noise"—moving branches, rain streaks, and lightning flashes. To prevent a flood of false notifications:
 *   **Adjust Sensitivity:** Lower the motion sensitivity specifically for the "General Motion" zone.
 *   **AI Filtering:** Ensure your 2026 firmware is set to "Person" or "Vehicle" detection only. Brands like <a href="https://www.amazon.com/s?k=Eufy&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Eufy</a> and <a href="https://www.amazon.com/s?k=Arlo&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Arlo</a> use edge-processing to ignore rain patterns, but these features must be toggled on in the app settings.
 
@@ -132,7 +132,7 @@ Summer storms create "visual noise"—moving branches, rain streaks, and lightni
 
 
 ### The 'Wireless' Lightning Safety Fallacy
-Many users believe that because a camera is "wireless" (Wi-Fi), it is safe from lightning. This is false. Most Wi-Fi cameras are still plugged into a power outlet. A surge can travel through the home’s electrical wiring, hit the AC adapter, and fry the camera. Furthermore, the high electromagnetic pulse (EMP) from a nearby strike can induce a current in the internal antenna of a battery-powered camera, damaging the radio chipset.
+Many users believe that because a camera is "wireless" (Wi-Fi), it is [safe from](https://quvii.com/learn/smart-home-cameras-summer-storms-safety-2026) lightning. This is false. Most Wi-Fi cameras are still plugged into a power outlet. A surge can travel through the home’s electrical wiring, hit the AC adapter, and fry the camera. Furthermore, the high electromagnetic pulse (EMP) from a nearby strike can induce a current in the internal antenna of a battery-powered camera, damaging the radio chipset.
 
 ### IP Ratings vs. Pressure Washers
 A common mistake is using a pressure washer to clean a camera lens. An IP67 rating means the camera can survive being submerged in a meter of still water. It does *not* mean it can withstand the concentrated, high-psi jet of a pressure washer. These jets can easily force water past rubber gaskets and O-rings, voiding the warranty.
