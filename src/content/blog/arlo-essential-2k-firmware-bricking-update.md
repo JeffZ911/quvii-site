@@ -129,7 +129,7 @@ The policy notes that Arlo may share this data with business partners for promot
 If you are currently navigating the Arlo ecosystem or considering entering it, there are specific steps you can take to mitigate the risk of bricking and subscription lock-in.
 
 ### Troubleshooting Bricked Arlo Cameras
-If your Arlo Essential 2K has become unresponsive after an update, try these steps before declaring it dead:
+If your [Arlo Essential](https://quvii.com/learn/arlo-essential-firmware-update-issues-june-2026) 2K has become unresponsive after an update, try these steps before declaring it dead:
 1.  **The "Long" Reset:** Hold the sync button for a full 15-20 seconds. The LED should flash amber. If it does not flash amber, the bootloader is likely corrupted.
 2.  **Power Cycle:** Plug the camera into a high-output (2A) USB wall charger and leave it for 24 hours. Sometimes a "bricked" state is actually a deep-discharge state caused by a firmware loop draining the battery.
 3.  **Router Check:** Log into your router and see if the camera’s MAC address appears in the "connected devices" list. If it appears but the app says "offline," the issue is with the Arlo Cloud handshake, not the hardware itself.

@@ -183,7 +183,7 @@ No. Covering a camera with plastic can trap heat and moisture, leading to conden
 Most high-quality Ethernet surge protectors have a physical LED indicator or a replaceable "cartridge." If the LED is off or the cartridge shows a "blown" symbol, the device has sacrificed itself to save your camera and must be replaced.
 
 ### Does dielectric grease help with storm protection?
-Yes. Applying a small amount of dielectric (silicone) grease to the metal contacts of your outdoor connectors (like the RJ45 plug) prevents "crevice corrosion" caused by humidity and salt air, ensuring a stable connection through years of summer storms.
+Yes. Applying a small amount of dielectric (silicone) grease to the metal contacts of your outdoor connectors (like the RJ45 plug) prevents "crevice corrosion" caused by humidity and salt air, ensuring a stable connection through years of [summer storms](https://quvii.com/learn/smart-home-cameras-summer-storms-safety-2026).
 
 ## Sources
 - Reolink — How to Protect Outdoor Security Cameras from Lightning: https://reolink.com/blog/how-to-protect-outdoor-security-cameras-from-lightning/

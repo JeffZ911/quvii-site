@@ -162,7 +162,7 @@ When purchasing the [Arlo Essential](https://quvii.com/learn/arlo-essential-firm
 *   **Arlo Secure Subscription (Single Camera, ~3 Years):** $280 - $300 (Based on 2026 estimated $7.99/mo rates)
 *   **Total 3-Year Cost:** ~$330 - $390
 
-Compared to brands like Reolink or Eufy, which offer local microSD storage with no monthly fees, the Arlo Essential Indoor is a premium-cost ecosystem over time, making a stable connection (and avoiding the "blue loop") essential to getting your money's worth.
+Compared to brands like Reolink or Eufy, which offer local microSD storage with no monthly fees, the [Arlo Essential](https://quvii.com/learn/arlo-essential-firmware-update-issues-june-2026) Indoor is a premium-cost ecosystem over time, making a stable connection (and avoiding the "blue loop") essential to getting your money's worth.
 
 ## Frequently Asked Questions
 

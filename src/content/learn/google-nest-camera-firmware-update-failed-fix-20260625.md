@@ -65,7 +65,7 @@ Firmware update failures are typically not random events but stem from specific 
 
 ### Network Connectivity Problems
 
-One of the most frequent culprits behind failed Google Nest Camera firmware updates is an unstable or weak Wi-Fi connection. Firmware files can be large, and any interruption during download can corrupt the update package.
+One of the most frequent culprits behind failed [Google Nest](https://quvii.com/blog/google-nest-community-migration-outage-fixes-2026-20260625) Camera firmware updates is an unstable or weak Wi-Fi connection. Firmware files can be large, and any interruption during download can corrupt the update package.
 *   **Weak Signal Strength**: If the camera is too far from your Wi-Fi router or experiences significant interference, the data transfer rate can drop, leading to incomplete downloads. Google Nest cameras, like many smart home devices, often rely on 2.4 GHz Wi-Fi, which offers better range but can be slower than 5 GHz. A minimum of 5 Mbps upload and download speed is recommended for reliable camera operation, including updates.
 *   **Intermittent Connection**: Brief disconnections from your Wi-Fi network during the update process can cause the update to fail. This can be due to router issues, network congestion, or even physical obstructions affecting the signal.
 *   **DNS or Firewall Issues**: Occasionally, overly aggressive DNS filters, VPNs, or router firewall settings can block the camera from accessing Google's update servers, preventing the download of the firmware package.

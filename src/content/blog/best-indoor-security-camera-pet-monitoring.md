@@ -17,7 +17,7 @@ As of mid-2026, the market for indoor pet monitoring has shifted decisively away
 
 # Best Indoor Security Camera for Pet Monitoring: 2026 News & Top Picks
 
-For 2026, the Eufy Indoor Cam S350 and Reolink E1 Pro are top picks. They offer 4K/5MP clarity and local AI pet tracking without the monthly subscriptions required by Ring or Nest.
+For 2026, the Eufy Indoor Cam S350 and Reolink E1 Pro are top picks. They offer 4K/5MP clarity and [local AI](https://quvii.com/blog/eufy-edgeagent-local-ai-security-platform-2026) pet tracking without the monthly subscriptions required by Ring or Nest.
 
 ## What happened
 

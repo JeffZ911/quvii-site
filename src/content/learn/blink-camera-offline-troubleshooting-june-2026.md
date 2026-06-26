@@ -94,7 +94,7 @@ Blink utilizes a 900MHz Low Frequency Radio (LFR) signal to communicate between 
 2.  **The Handshake:** The camera wakes up and attempts to connect to your router via 2.4GHz Wi-Fi.
 3.  **The Data Transfer:** Video is sent directly from the camera to your router and then to the Blink Cloud.
 
-If the LFR signal is strong but the Wi-Fi is weak, the camera will "wake up" but fail to send video, resulting in a "Camera Offline" or "Thumbnail Failed" error.
+If the LFR signal is strong but the Wi-Fi is weak, the camera will "wake up" but fail to send video, resulting in a "[Camera Offline](https://quvii.com/blog/wyze-camera-outages-overheating-june-2026)" or "Thumbnail Failed" error.
 
 ### Sync Module XR vs. Sync Module Core Hubs
 The Sync Module XR (3rd Generation) introduced in late 2025/early 2026 features an amplified LFR antenna. While the older Sync Module 2 was rated for approximately 100 feet of range, the XR claims up to 400 feet in open air. However, this only applies to the *command* signal. The camera still needs a robust Wi-Fi connection to the router to actually function. This "asymmetric range" is a common source of confusion for users who place cameras 200 feet away; the camera "hears" the hub but cannot talk to the internet.

@@ -197,7 +197,7 @@ Edge AI processes video data directly on the camera using a dedicated chip (NPU)
 Yes, even cameras with local storage can pose [privacy risks](https://quvii.com/blog/privacy-risks-ai-surveillance-cameras-2026). While video footage might stay on an SD card or NVR, many cameras still send metadata (e.g., "person detected," timestamps) and telemetry data to the cloud for app functionality, firmware updates, or analytics.
 
 ### Do all AI security cameras perform facial recognition?
-No, not all AI security cameras perform facial recognition. Many focus on general object detection (people, vehicles, pets, packages). Facial recognition is a more advanced AI feature, often optional, and may be processed either on-device (Edge AI) for privacy or in the cloud, depending on the manufacturer and model.
+No, not all [AI security](https://quvii.com/blog/eufy-edgeagent-local-ai-security-platform-2026) cameras perform facial recognition. Many focus on general object detection (people, vehicles, pets, packages). Facial recognition is a more advanced AI feature, often optional, and may be processed either on-device (Edge AI) for privacy or in the cloud, depending on the manufacturer and model.
 
 ### How do I know if my security camera data can be accessed by law enforcement?
 You should review the privacy policy and terms of service of your specific camera brand. Many major brands, such as Ring and Nest, have clauses that allow them to share data with law enforcement in "emergency" situations without a warrant or user consent.

@@ -180,6 +180,6 @@ Yes, the "Familiar Faces" feature is a premium AI perk that requires a subscript
 *   ring.com — https://ring.com/protect-plans
 *   theverge.com — [information unavailable] (Simulated link for a potential Verge article discussing cloud vs. local AI in Ring)
 *   r/HomeSecurity wiki — [information unavailable] (Simulated link for a potential Reddit wiki entry on Ring app settings)
-*   ring.com —  (Direct link to Ring's privacy policy, which would contain data retention details)
+*   ring.com —  (Direct link to Ring's [privacy policy](https://quvii.com/learn/eufy-security-camera-privacy-policy-update-2026-20260625), which would contain data retention details)
 *   eufy.com
 *   reolink.com
