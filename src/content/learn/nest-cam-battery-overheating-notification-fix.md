@@ -26,7 +26,7 @@ inline_image_sections:
   - "Further reading"
 ---
 
-When your Google Nest Cam (Battery) drops offline with a temperature warning, it is often a matter of physics rather than a hardware defect. Understanding the 104°F (40°C) thermal ceiling and how the Google Home app manages heat is the first step toward restoring 24/7 reliability.
+When your [Google Nest](https://quvii.com/blog/google-nest-community-migration-outage-fixes-2026-20260625) Cam (Battery) drops offline with a temperature warning, it is often a matter of physics rather than a hardware defect. Understanding the 104°F (40°C) thermal ceiling and how the Google Home app manages heat is the first step toward restoring 24/7 reliability.
 
 # How to Fix Nest Cam (Battery) Overheating Notifications
 

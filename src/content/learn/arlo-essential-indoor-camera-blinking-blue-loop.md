@@ -181,7 +181,7 @@ Locate the reset button on the bottom or back of the camera (it may require a pa
 ## Sources
 
 *   Arlo Support — <a href="https://www.amazon.com/s?k=What+do+the+LEDs+on+my+Arlo+camera+mean%3F&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">What do the LEDs on my Arlo camera mean?</a>
-*   PCMag — <a href="https://www.amazon.com/s?k=Arlo+Essential+Indoor+Camera+Review&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Arlo Essential Indoor Camera Review</a>
+*   PCMag — <a href="https://www.amazon.com/s?k=Arlo+Essential+Indoor+Camera+Review&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">[Arlo Essential](https://quvii.com/learn/arlo-essential-firmware-update-issues-june-2026) Indoor Camera Review</a>
 *   Arlo Privacy — <a href="https://www.amazon.com/s?k=Arlo+Privacy+Pledge+and+Data+Security&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Arlo Privacy Pledge and Data Security</a>
 *   The Verge — Arlo's New Essential Lineup Details
 *   Arlo Secure — [Subscription Plan Features and Pricing](https://www.arlo.com/en-us/arlo-secure.html)

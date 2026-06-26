@@ -161,7 +161,7 @@ Data based on manufacturer spec sheets as of June 2026.
 
 **For potential buyers:** Thoroughly research a camera's long-term costs, including mandatory subscriptions, before purchase. Prioritize brands that clearly outline their privacy policies and commitment to subscription-free core features. Look for cameras that offer local storage (e.g., microSD card slots or NVR/DVR compatibility) as a primary means of video storage to avoid reliance on cloud subscriptions that can be altered or revoked at any time.
 
-Quvii tracks these trade-offs across the category to ensure buyers aren't caught off guard by "stealth" costs or hardware expiration dates. While the Arlo Essential 2K offers impressive video quality and a sleek design, the 2026 bricking incidents serve as a reminder that in the world of cloud-connected security, you don't always own the hardware you paid for.
+Quvii tracks these trade-offs across the category to ensure buyers aren't caught off guard by "stealth" costs or hardware expiration dates. While the [Arlo Essential](https://quvii.com/learn/arlo-essential-firmware-update-issues-june-2026) 2K offers impressive video quality and a sleek design, the 2026 bricking incidents serve as a reminder that in the world of cloud-connected security, you don't always own the hardware you paid for.
 
 ## Frequently Asked Questions
 

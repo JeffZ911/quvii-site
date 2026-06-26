@@ -143,7 +143,7 @@ Existing owners should assess their current camera systems for vulnerabilities, 
 *   How old is my camera system, and does it have modern AI capabilities like person, vehicle, or pet detection?
 *   What is the real-world battery life of my wireless cameras, and is [solar charging](https://quvii.com/learn/eufycam-s3-pro-solar-charging-efficiency-tips) an option?
 *   When was the last time I updated my camera's firmware?
-*   Am I aware of my camera brand's current privacy policy, especially regarding data sharing?
+*   Am I aware of my camera brand's current [privacy policy](https://quvii.com/learn/eufy-security-camera-privacy-policy-update-2026-20260625), especially regarding data sharing?
 
 Older systems might lack advanced AI features that differentiate between threats and nuisance movements, leading to alert fatigue. This can result in important alerts being overlooked. Similarly, older batteries may degrade, requiring more frequent recharging or replacement, which is inconvenient for a vacant property.
 
