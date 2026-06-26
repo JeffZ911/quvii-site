@@ -155,6 +155,6 @@ As of the current firmware (v2026.6), Botslab has not enabled official ONVIF sup
 ## Sources
 
 - Botslab Official Site — https://www.botslab.com
-- PRNewswire: Botslab AI Security Solutions
+- PRNewswire: Botslab [AI Security](https://quvii.com/blog/eufy-edgeagent-local-ai-security-platform-2026) Solutions
 - Android Authority: Botslab Brand Transition
 - Morningstar: Botslab Product Launch News

@@ -74,7 +74,7 @@ The speed of local processing is not just a technical metric; it has real-world 
 Most major brands now require a monthly fee (often $100-150 per year for a multi-camera setup) to distinguish between a person and a pet. Eufy’s EdgeAgent includes these capabilities at the hardware level. This shifts the value proposition: while Eufy hardware may carry a slightly higher upfront cost, the total cost of ownership (TCO) over three years is significantly lower.
 
 ### Enhanced Privacy and Data Control
-Privacy remains a volatile issue in the smart home space. By keeping video data and AI analysis on-device, EdgeAgent minimizes the "attack surface" for hackers. If the video never leaves your house, it cannot be intercepted in transit or accessed via a cloud breach. This aligns with Eufy's updated privacy policy (January 30, 2026), which emphasizes user-controlled encryption keys and local-first data paths.
+Privacy remains a volatile issue in the smart home space. By keeping video data and AI analysis on-device, EdgeAgent minimizes the "attack surface" for hackers. If the video never leaves your house, it cannot be intercepted in transit or accessed via a cloud breach. This aligns with Eufy's updated [privacy policy](https://quvii.com/learn/eufy-security-camera-privacy-policy-update-2026-20260625) (January 30, 2026), which emphasizes user-controlled encryption keys and local-first data paths.
 
 ### Faster, More Accurate Threat Detection
 The integration of dual-radar technology in the Smart Security Shield allows the system to "see" depth in a way that standard PIR (Passive Infrared) sensors cannot. This means the system can distinguish between a car driving past on the street and a person walking up the driveway with much higher accuracy. For buyers in high-traffic areas, this reduction in false positives is the difference between a useful security tool and a nuisance that is eventually muted or ignored.
@@ -128,7 +128,7 @@ For those already owning S330 or E330 units, do not rush to install the "Edge-Re
 
 **Summary of Action Items:**
 1.  **Check Compatibility:** Verify if your specific model numbers are on the H2 2026 support list.
-2.  **Review Privacy Policies:** Read the January 30, 2026, Eufy policy update to ensure you are comfortable with how DSKey identifies your mobile devices.
+2.  **Review Privacy Policies:** Read the January 30, 2026, Eufy [policy update](https://quvii.com/learn/eufy-security-camera-privacy-policy-update-2026-20260625) to ensure you are comfortable with how DSKey identifies your mobile devices.
 3.  **Budget for Hubs:** If you want the 63% speed increase, prepare to purchase an AI Station or AI Core; your current HomeBase 3 may only support a subset of EdgeAgent features.
 
 ## Frequently Asked Questions

@@ -155,7 +155,7 @@ For a detailed guide on setting up and refining Activity Zones in the Google Hom
 
 Managing battery life also goes hand-in-hand with alert management. By reducing [false alerts](https://quvii.com/learn/reolink-camera-motion-detection-false-alerts-fix), you decrease the number of times the camera enters its high-power recording state, directly extending the time between charges.
 
-Finally, understanding the <a href="https://www.amazon.com/s?k=Google+Nest+privacy+policy&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Google Nest privacy policy</a> is essential. Because the Nest Cam (Battery) relies on cloud-based AI to help distinguish between a shadow and a person, your video data is processed on Google's servers. Ensuring you are comfortable with these privacy policies is a key part of the modern smart home experience.
+Finally, understanding the <a href="https://www.amazon.com/s?k=Google+Nest+privacy+policy&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">[Google Nest](https://quvii.com/blog/google-nest-community-migration-outage-fixes-2026-20260625) privacy policy</a> is essential. Because the Nest Cam (Battery) relies on cloud-based AI to help distinguish between a shadow and a person, your video data is processed on Google's servers. Ensuring you are comfortable with these privacy policies is a key part of the modern smart home experience.
 
 ## Frequently Asked Questions
 

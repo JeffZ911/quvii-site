@@ -104,7 +104,7 @@ A connection failure is more than a technical nuisance; it is a total failure of
 
 *   **Security Gaps:** A camera that cannot connect cannot record to the cloud. While it may still record to a local SD card, you have no way of knowing if the camera was tampered with or if a crime is currently in progress.
 *   **Missed Alerts:** The primary value of a smart camera is the "Push Notification." During a connection failure, the camera cannot send the signal that motion was detected. If a package is stolen at 2:00 PM and your camera went offline at 1:45 PM, the system has failed its core mission.
-*   **Data Loss:** For users relying solely on Reolink Cloud, an offline camera means zero footage is backed up. If an intruder steals the camera itself, and it was offline during the event, no evidence remains.
+*   **Data Loss:** For users relying solely on Reolink Cloud, an offline camera means zero footage is backed up. If an intruder steals the camera itself, and it was [offline during](https://quvii.com/blog/wyze-camera-outages-overheating-june-2026) the event, no evidence remains.
 *   **Reduced Functionality:** High-end 2026 features like "Two-Way Talk" or "Remote Siren" are disabled. You cannot warn off a trespasser if you cannot reach the camera's interface.
 
 ## 2026 Reolink Model Comparison & Specs

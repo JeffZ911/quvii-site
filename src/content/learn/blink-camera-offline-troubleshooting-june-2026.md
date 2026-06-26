@@ -46,7 +46,7 @@ When your Blink Home Monitor app reports a device is "Offline," it indicates a b
 
 ### App Status Indicators
 In the 2026 version of the Blink app, an offline state is typically signaled by a dimmed thumbnail and a small "Cloud Disconnected" icon (a cloud with a slash through it). If the entire system is down, you will see a banner at the top of the home screen stating "Sync Module Offline." It is critical to distinguish between these two:
-*   **Camera Offline:** The Sync Module is connected to the internet, but it cannot "see" the specific camera.
+*   **[Camera Offline](https://quvii.com/blog/wyze-camera-outages-overheating-june-2026):** The Sync Module is connected to the internet, but it cannot "see" the specific camera.
 *   **Sync Module Offline:** The hub has lost its Wi-Fi or power connection, rendering all associated battery-powered cameras unreachable.
 
 ### Physical Camera LED Codes

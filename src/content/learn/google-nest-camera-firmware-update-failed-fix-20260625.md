@@ -45,7 +45,7 @@ Firmware is the essential, low-level software embedded directly onto your [Googl
 
 ### Understanding Firmware
 
-Think of firmware as the brain of your Google Nest Camera. Without it, the camera cannot function. When Google releases a new firmware version, it's designed to improve the camera's operation, often by optimizing video processing, refining [motion detection](https://quvii.com/learn/reolink-camera-motion-detection-false-alerts-fix) algorithms, improving battery life, or strengthening encryption standards. These updates are vital for maintaining both the camera's operational efficiency and its security posture against evolving digital threats.
+Think of firmware as the brain of your [Google Nest](https://quvii.com/blog/google-nest-community-migration-outage-fixes-2026-20260625) Camera. Without it, the camera cannot function. When Google releases a new firmware version, it's designed to improve the camera's operation, often by optimizing video processing, refining [motion detection](https://quvii.com/learn/reolink-camera-motion-detection-false-alerts-fix) algorithms, improving battery life, or strengthening encryption standards. These updates are vital for maintaining both the camera's operational efficiency and its security posture against evolving digital threats.
 
 ### Signs of a Failed Update
 
@@ -160,7 +160,7 @@ Several myths surround firmware updates for security cameras, which can lead to 
 
 ### Myth: Updates are Always Perfect
 
-**Reality**: While firmware updates are designed to improve performance and security, they can occasionally introduce new, unforeseen issues. Users have sometimes reported problems such as decreased night vision quality, increased battery drain, or unexpected connectivity issues after an update. These are typically addressed in subsequent patches, but it's important to recognize that no software is entirely bug-free.
+**Reality**: While firmware updates are designed to improve performance and security, they can occasionally introduce new, unforeseen issues. Users have sometimes reported problems such as decreased night vision quality, increased [battery drain](https://quvii.com/blog/eufy-security-camera-battery-drain-june-2026), or unexpected connectivity issues after an update. These are typically addressed in subsequent patches, but it's important to recognize that no software is entirely bug-free.
 
 ### Myth: Updates are Optional
 

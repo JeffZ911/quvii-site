@@ -173,7 +173,7 @@ Standard [night vision](https://quvii.com/learn/unifi-camera-night-vision-stuck-
 ## Sources
 
 - Reolink Argus 4 Pro Official Product Page — https://reolink.com/product/argus-4-pro/
-- Reolink Privacy Policy — https://reolink.com/privacy-policy/
+- Reolink [Privacy Policy](https://quvii.com/learn/eufy-security-camera-privacy-policy-update-2026-20260625) — https://reolink.com/privacy-policy/
 - PCMag Review: Reolink Argus 4 Pro
 - Reolink Support: Choosing a MicroSD Card — https://support.reolink.com/hc/en-us/articles/360005143453-How-to-Choose-a-Micro-SD-Card-for-Reolink-Cameras/
 - Digital Camera World: Reolink Argus 4 Pro Launch News

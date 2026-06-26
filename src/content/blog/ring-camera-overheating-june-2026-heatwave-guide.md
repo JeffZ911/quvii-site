@@ -27,7 +27,7 @@ As record-breaking temperatures sweep across the United States this month, homeo
 
 # Ring Camera Overheating: Why the June 2026 Heatwave is Knocking Devices Offline
 
-**Quick Answer:** Ring cameras are entering 'Device Cooldown' or shutting down entirely during the June 2026 heatwave as ambient temperatures exceed their 122°F limit. Battery-powered models in direct sunlight are most at risk of hardware failure, often disabling recording and charging capabilities to protect internal lithium-ion components.
+**Quick Answer:** Ring cameras are entering 'Device Cooldown' or shutting down entirely during the [June 2026 heatwave](https://quvii.com/blog/wyze-camera-outages-overheating-june-2026) as ambient temperatures exceed their 122°F limit. Battery-powered models in direct sunlight are most at risk of hardware failure, often disabling recording and charging capabilities to protect internal lithium-ion components.
 
 ## What happened
 
