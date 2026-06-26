@@ -167,7 +167,7 @@ Integrating these devices creates a layered defense, providing a more comprehens
 
 Existing owners must understand the privacy policies of their current camera brands, as some may share footage with law enforcement without warrants. Policies can change over time, and what was acceptable when the camera was purchased might have evolved. Brands like Ring, for example, have faced scrutiny over their policies regarding sharing video with law enforcement without user consent in emergency situations.
 
-It is prudent to review the manufacturer's official privacy policy on their website at least annually. Look for clauses related to data collection, storage, third-party sharing, and cooperation with law enforcement requests. If a brand's policy is no longer acceptable, it might be a strong reason to consider switching to a system that prioritizes user privacy and local data control.
+It is prudent to review the manufacturer's official [privacy policy](https://quvii.com/learn/eufy-security-camera-privacy-policy-update-2026-20260625) on their website at least annually. Look for clauses related to data collection, storage, third-party sharing, and cooperation with law enforcement requests. If a brand's policy is no longer acceptable, it might be a strong reason to consider switching to a system that prioritizes user privacy and local data control.
 
 ## What to do now
 

@@ -53,7 +53,7 @@ Depending on the severity of the heat, you may see three distinct messages:
 2.  **"Cooling down"**: The camera has stopped recording and is in a low-power state. It will resume once the internal temperature drops.
 3.  **"Device offline"**: The camera has fully shut down because the temperature reached a critical safety limit.
 
-**Table: Google Nest Cam (Battery) Thermal & Performance Specs**
+**Table: [Google Nest](https://quvii.com/blog/google-nest-community-migration-outage-fixes-2026-20260625) Cam (Battery) Thermal & Performance Specs**
 
 | Feature | Specification | Source |
 | :--- | :--- | :--- |

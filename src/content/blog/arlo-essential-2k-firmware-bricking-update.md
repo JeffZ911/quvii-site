@@ -175,7 +175,7 @@ If your camera is within the standard one-year warranty period, Arlo typically h
 Technically yes, but with major limitations. You can view a live stream and receive basic motion notifications. You will not have any recorded video history, smart alerts (discriminating between a person and a tree), or activity zones. To get any recording capability without a subscription, you must purchase an Arlo SmartHub (VMB4540 or VMB5000) and use a local USB drive or microSD card.
 
 ### What does the blinking blue and orange light mean?
-On an Arlo Essential 2K, alternating blue and orange lights indicate that a firmware update is in progress. If this light pattern persists for more than 10-15 minutes, or if the camera becomes unresponsive afterward, it indicates that the update has failed or the camera is stuck in a boot loop.
+On an [Arlo Essential](https://quvii.com/learn/arlo-essential-firmware-update-issues-june-2026) 2K, alternating blue and orange lights indicate that a firmware update is in progress. If this light pattern persists for more than 10-15 minutes, or if the camera becomes unresponsive afterward, it indicates that the update has failed or the camera is stuck in a boot loop.
 
 ### How do I prevent my Arlo camera from bricking during an update?
 The best prevention is to ensure your camera is either plugged into a permanent power source or has at least 50% battery before an update occurs. Since Arlo often pushes updates automatically, keeping your cameras well-charged is the only way to minimize the risk of a power-loss failure during the critical firmware-writing phase.

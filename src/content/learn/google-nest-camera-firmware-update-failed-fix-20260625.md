@@ -73,7 +73,7 @@ One of the most frequent culprits behind failed [Google Nest](https://quvii.com/
 ### Power and Battery Considerations
 
 A consistent power supply is essential throughout the firmware update cycle.
-*   **Power Interruptions**: For wired Google Nest Cameras, a sudden loss of power during an update can corrupt the firmware, potentially "bricking" the device.
+*   **Power Interruptions**: For wired [Google Nest](https://quvii.com/blog/google-nest-community-migration-outage-fixes-2026-20260625) Cameras, a sudden loss of power during an update can corrupt the firmware, potentially "bricking" the device.
 *   **Insufficient Battery Charge**: Battery-powered Nest Cams require adequate charge to complete an update. For example, the Nest Doorbell (battery) typically needs at least a 10% charge to perform a firmware update. Attempting an update with a low battery can lead to failure if the battery depletes mid-process. It's generally advisable to ensure a full or near-full charge before initiating any significant software update.
 
 ### Software and Server-Side Glitches

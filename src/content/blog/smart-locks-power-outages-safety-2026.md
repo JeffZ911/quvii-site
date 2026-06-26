@@ -179,7 +179,7 @@ The average battery life for a smart lock varies significantly based on its conn
 - Eufy – Eufy Smart Lock Touch & Wi-Fi.
 - Vivint – Smart Locks.
 - Smart Home Explorer – Smart Lock Battery Life.
-- Eufy – Privacy Policy.
+- Eufy – [Privacy Policy](https://quvii.com/learn/eufy-security-camera-privacy-policy-update-2026-20260625).
 - Faster Locksmith – What Happens to Your Smart Lock During a Power Outage?
 - SmartDoorLocks.blog – What Happens to a Smart Lock During a Power Outage?
 - Forbes – Smart Lock Battery Life.
