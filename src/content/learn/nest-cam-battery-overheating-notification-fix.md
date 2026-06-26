@@ -163,7 +163,7 @@ If the ambient temperature is near 100°F, the camera may overheat even without 
 Firmware can optimize how the camera uses power, but it cannot change the physical limits of lithium-ion chemistry. Updates may change *how* the camera notifies you or *when* it throttles features, but the 104°F safety cutoff is likely to remain a hardware-level hard limit.
 
 ## Sources
-- Google Nest Technical Specifications
+- [Google Nest](https://quvii.com/blog/google-nest-community-migration-outage-fixes-2026-20260625) Technical Specifications
 - Google Nest Cam (Battery) Product Page — https://store.google.com/product/nest_cam_battery_specs
 - RTINGS Nest Cam (Battery) Review
 - Lithium-Ion Battery Thermal Safety Standards (IEC 62133) — https://www.iec.ch/dyn/www/f?p=103:38:0::::FSP_ORG_ID,FSP_LANG_ID:1248,25

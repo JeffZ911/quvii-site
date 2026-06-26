@@ -110,7 +110,7 @@ To prevent criminals from taping over your cameras, placement is everything.
 *   **Dual Coverage:** Overlap your camera fields of view. If an intruder tries to tape over Camera A, Camera B should capture the act.
 
 ### Re-evaluating Digital Privacy and Data Access
-Existing owners should revisit their brand's privacy policy. For instance, <a href="https://www.amazon.com/s?k=Ring%27s+Transparency+Report&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Ring's Transparency Report</a> details how many law enforcement requests they receive annually. If you are uncomfortable with the potential for third-party access, 2026 is the year to consider migrating to a system that supports **End-to-End Encryption (E2EE)**. When E2EE is enabled, only your mobile device holds the "key" to decrypt the video; not even the manufacturer can view the footage.
+Existing owners should revisit their brand's [privacy policy](https://quvii.com/learn/eufy-security-camera-privacy-policy-update-2026-20260625). For instance, <a href="https://www.amazon.com/s?k=Ring%27s+Transparency+Report&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Ring's Transparency Report</a> details how many law enforcement requests they receive annually. If you are uncomfortable with the potential for third-party access, 2026 is the year to consider migrating to a system that supports **End-to-End Encryption (E2EE)**. When E2EE is enabled, only your mobile device holds the "key" to decrypt the video; not even the manufacturer can view the footage.
 
 ### Enhancing Network Security for IP Devices
 A camera is a gateway to your network.

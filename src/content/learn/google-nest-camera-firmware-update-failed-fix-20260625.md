@@ -88,7 +88,7 @@ While less common, software-related issues can also contribute to update failure
 ![How it works under the hood](/img/google-nest-camera-firmware-update-failed-fix-20260625/inline-3.webp)
 
 
-Understanding the technical process of a Google Nest Camera firmware update can help in diagnosing failures. Google prioritizes security and reliability throughout this lifecycle.
+Understanding the technical process of a [Google Nest](https://quvii.com/blog/google-nest-community-migration-outage-fixes-2026-20260625) Camera firmware update can help in diagnosing failures. Google prioritizes security and reliability throughout this lifecycle.
 
 ### The Firmware Update Lifecycle
 

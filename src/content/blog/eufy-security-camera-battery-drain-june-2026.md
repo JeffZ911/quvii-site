@@ -52,7 +52,7 @@ Beyond the connection bug, users on <a href="https://www.amazon.com/s?k=r%2FEufy
 | Early May 2026 Update | Frequent "Offline" status; delayed notifications | 10–20% per day |
 | Late May 2026 Update | AI recognition lag; HDD recognition failure | 20–40% per day |
 | June 2026 System Patch | Constant radio polling; solar charging bypass | 40–60% per day |
-| **Normal Operation** | **Standard PIR wake-up; local AI processing** | **< 1% per day** |
+| **Normal Operation** | **Standard PIR wake-up; [local AI](https://quvii.com/blog/eufy-edgeagent-local-ai-security-platform-2026) processing** | **< 1% per day** |
 
 *Note: Firmware version numbers for these specific updates are currently [information unavailable] as Eufy has paused the public versioning display in some regions during the rollout of the fix.*
 
