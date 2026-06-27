@@ -190,5 +190,5 @@ No. A software-based privacy mode relies on the device's firmware to stop the st
 - [SentinelOne — CVE-2026-1315 Vulnerability Report]
 - [9News — Burglars Using Hidden Phones in Lawns]
 - [TP-Link Tapo Official Support — Firmware Security Advisories]
-- [Eufy Privacy Policy — Encryption and Local Storage] — https://www.eufy.com/privacy-commitment
+- [Eufy [Privacy Policy](https://quvii.com/learn/eufy-security-camera-privacy-policy-update-2026-20260625) — Encryption and Local Storage] — https://www.eufy.com/privacy-commitment
 - [Ring Transparency Report — Law Enforcement Requests]

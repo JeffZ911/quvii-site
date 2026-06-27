@@ -26,7 +26,7 @@ The deletion of over a decade of user-generated troubleshooting data and communi
 
 # Google Nest Community Migration Outage 2026: What You Need to Know
 
-**Quick Answer:** The Google Nest Community underwent a significant migration in May 2026, moving from a third-party platform to Google's internal support domain. This transition resulted in the permanent deletion of all old forum posts and user accounts by June 30, 2026, impacting both existing Nest owners and prospective buyers by removing a valuable archive of troubleshooting and user-generated fixes.
+**Quick Answer:** The [Google Nest](https://quvii.com/blog/google-nest-camera-offline-june-2026-update) Community underwent a significant migration in May 2026, moving from a third-party platform to Google's internal support domain. This transition resulted in the permanent deletion of all old forum posts and user accounts by June 30, 2026, impacting both existing Nest owners and prospective buyers by removing a valuable archive of troubleshooting and user-generated fixes.
 
 ## What happened
 

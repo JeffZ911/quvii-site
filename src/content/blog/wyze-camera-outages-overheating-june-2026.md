@@ -184,7 +184,7 @@ Local storage, typically via a microSD card inserted directly into the camera, a
 *   cnet.com — Wyze Solar Cam Pan Recall: What You Need to Know []
 *   isdown.app — Is Wyze Down Right Now? [https://isdown.app/status/wyze]
 *   hindustantimes.com — Wyze security cameras offline: Users report outage, company issues apology []
-*   modemguides.com — Wyze Camera Offline: Troubleshooting and Fixes []
+*   modemguides.com — Wyze [Camera Offline](https://quvii.com/blog/google-nest-camera-offline-june-2026-update): Troubleshooting and Fixes []
 *   wyze.com — Wyze Outdoor Camera v2 [https://www.wyze.com/products/wyze-cam-outdoor-v2]
 *   wyze.com — Wyze Cam Pan v3 [https://www.wyze.com/products/wyze-cam-pan-v3]
 *   wyze.com — Wyze Cam Pan v3 [https://www.wyze.com/products/wyze-cam-pan-v3]

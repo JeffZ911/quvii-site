@@ -93,7 +93,7 @@ Understanding the technical process of a [Google Nest](https://quvii.com/blog/go
 ### The Firmware Update Lifecycle
 
 When Google releases a new firmware version, your Nest Camera typically follows an Over-The-Air (OTA) update process:
-1.  **Check for Updates**: Your Google Nest Camera periodically checks Google's servers for available firmware updates. This usually happens automatically in the background.
+1.  **Check for Updates**: Your [Google Nest Camera](https://quvii.com/blog/google-nest-camera-offline-june-2026-update) periodically checks Google's servers for available firmware updates. This usually happens automatically in the background.
 2.  **Download**: Once an update is detected, the camera downloads the encrypted firmware package over your Wi-Fi network. This download requires a stable internet connection.
 3.  **Verification**: Before installation, the camera verifies the integrity and authenticity of the downloaded file. This step ensures that the package hasn't been tampered with and is a legitimate update from Google.
 4.  **Installation**: The camera then installs the new firmware. During this phase, the camera may become temporarily unresponsive or display a specific LED pattern (like a pulsing green light).
@@ -102,7 +102,7 @@ When Google releases a new firmware version, your Nest Camera typically follows 
 
 ### Security Measures During Updates
 
-Google Nest employs several robust security measures to protect the integrity of firmware updates:
+[Google Nest](https://quvii.com/blog/google-nest-camera-offline-june-2026-update) employs several robust security measures to protect the integrity of firmware updates:
 *   **Cryptographic Verification**: All firmware updates are cryptographically signed by Google. The camera verifies this signature before installation, ensuring that only authentic and untampered software is loaded onto the device.
 *   **Verified Boot**: For Google Nest devices released in 2019 and after, Verified Boot processes are implemented. This technology ensures that every stage of the bootup sequence, from the bootloader to the operating system, is cryptographically verified to prevent unauthorized modifications. This protects against malicious firmware injection.
 *   **Automatic Updates**: Google Nest devices are designed to receive automatic software updates to ensure they always have the latest security features and protection from recently discovered threats. This minimizes the window of vulnerability.

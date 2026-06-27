@@ -76,7 +76,7 @@ The timing is particularly poor for Eufy, as it coincides with the launch of the
 | **Renter** | **Wait.** Until the HomeBase 3 stability is confirmed, the frequent need to unmount cameras for charging is a major inconvenience in temporary housing. |
 | **Homeowner** | **Proceed with Caution.** If you can hardwire your most critical cameras (using Eufy’s outdoor power cables), the software bug is a non-issue. For purely solar installs, wait for the July patch. |
 | **Small Business** | **Look at PoE.** For critical security, the reliability of a battery-powered system is currently too low. Consider the Eufy Professional line or a wired Reolink system. |
-| **Privacy-First User** | **Buy.** Despite the battery bugs, Eufy remains one of the few consumer brands offering 4K local AI processing without a mandatory cloud subscription. |
+| **Privacy-First User** | **Buy.** Despite the battery bugs, Eufy remains one of the few consumer brands offering 4K [local AI](https://quvii.com/blog/eufy-edgeagent-local-ai-security-platform-2026) processing without a mandatory cloud subscription. |
 
 ## Impact on existing owners
 
