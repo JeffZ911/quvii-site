@@ -100,7 +100,7 @@ Repeatedly allowing a lithium-ion battery to discharge to 0% in sub-zero tempera
 ### Feature Loss: When Your 'Smart' Camera Becomes 'Dumb'
 In 2025, several brands introduced "Thermal Throttling" via firmware updates. To save power when the battery is cold and struggling, the camera will automatically disable high-energy features. You may notice:
 *   **Reduced Motion Sensitivity:** The camera stops "looking" for motion as frequently.
-*   **Disabled Local AI:** Instead of the camera identifying a "Person" or "Vehicle" on-device, it sends a raw clip to the cloud, increasing latency.
+*   **Disabled [Local AI](https://quvii.com/blog/eufy-edgeagent-local-ai-security-platform-2026):** Instead of the camera identifying a "Person" or "Vehicle" on-device, it sends a raw clip to the cloud, increasing latency.
 *   **Resolution Downgrade:** A 4K camera may drop to 1080p to reduce the processing load on the ISP (Image Signal Processor).
 
 ### The Maintenance Burden of Wireless Systems

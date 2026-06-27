@@ -105,7 +105,7 @@ When Google releases a new firmware version, your Nest Camera typically follows 
 [Google Nest](https://quvii.com/blog/google-nest-camera-offline-june-2026-update) employs several robust security measures to protect the integrity of firmware updates:
 *   **Cryptographic Verification**: All firmware updates are cryptographically signed by Google. The camera verifies this signature before installation, ensuring that only authentic and untampered software is loaded onto the device.
 *   **Verified Boot**: For [Google Nest](https://quvii.com/blog/google-nest-camera-offline-june-2026-update) devices released in 2019 and after, Verified Boot processes are implemented. This technology ensures that every stage of the bootup sequence, from the bootloader to the operating system, is cryptographically verified to prevent unauthorized modifications. This protects against malicious firmware injection.
-*   **Automatic Updates**: Google Nest devices are designed to receive automatic software updates to ensure they always have the latest security features and protection from recently discovered threats. This minimizes the window of vulnerability.
+*   **Automatic Updates**: [Google Nest](https://quvii.com/blog/google-nest-camera-offline-june-2026-update) devices are designed to receive automatic software updates to ensure they always have the latest security features and protection from recently discovered threats. This minimizes the window of vulnerability.
 
 ## Real-world implications
 
@@ -128,7 +128,7 @@ A failed firmware update can have immediate and long-lasting consequences for yo
 
 ### Step-by-Step Troubleshooting Guide
 
-If your Google Nest Camera firmware update fails, follow these steps in order:
+If your [Google Nest Camera](https://quvii.com/blog/google-nest-camera-offline-june-2026-update) firmware update fails, follow these steps in order:
 
 1.  **Restart your Google Nest Camera**:
     *   **Wired Models**: Unplug the power adapter for about 30 seconds, then plug it back in.

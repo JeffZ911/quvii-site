@@ -42,7 +42,7 @@ For consumers investing in home security, the ability to control video streams l
 
 RTSP, or Real Time Streaming Protocol, is a network control protocol designed for streaming media over Internet Protocol (IP) networks. It acts as a "network remote control" for multimedia servers, allowing users to control the playback of streaming media files, such as starting, pausing, fast-forwarding, or stopping a video stream. For security camera users, RTSP is crucial because it enables direct access to the camera's video feed over a local network. This capability is vital for several reasons: it allows for local recording to Network Video Recorders (NVRs) or Network Attached Storage (NAS) devices, facilitates integration with existing smart home ecosystems and security software, and can help users avoid vendor lock-in and mandatory cloud subscriptions.
 
-Currently, the Wyze Cam v4 does not feature native RTSP firmware. Wyze has clarified that RTSP was never advertised as a feature for the v4 model, and therefore, it was not "removed" in an update, as it was never present to begin with. This distinction is important for understanding the camera's intended functionality. Despite its absence, Wyze has acknowledged user demand and is reportedly developing official RTSP support for the v4, though a specific timeline for its release is currently unavailable.
+Currently, the [Wyze Cam v4](https://quvii.com/learn/wyze-cam-v4-overheating-issues-june-2026-20260627) does not feature native RTSP firmware. Wyze has clarified that RTSP was never advertised as a feature for the v4 model, and therefore, it was not "removed" in an update, as it was never present to begin with. This distinction is important for understanding the camera's intended functionality. Despite its absence, Wyze has acknowledged user demand and is reportedly developing official RTSP support for the v4, though a specific timeline for its release is currently unavailable.
 
 ## Why it exists
 
@@ -55,7 +55,7 @@ Conversely, many camera brands, including Wyze, prioritize business models that 
 
 ### The Push for Cloud Subscriptions
 
-The move towards subscription-based services is a significant industry trend. Companies like Wyze aim to provide enhanced features and convenience through their cloud platforms, which often come with a monthly or annual fee. Wyze Cam Plus, for instance, offers complete motion capture recordings, person detection, and a faster 14-day cloud video history. While these services add value for many users, they also create a dependency on the company's infrastructure and ongoing payments. The absence of native RTSP on the Wyze Cam v4 reinforces this model, encouraging users towards cloud subscriptions for comprehensive functionality.
+The move towards subscription-based services is a significant industry trend. Companies like Wyze aim to provide enhanced features and convenience through their cloud platforms, which often come with a monthly or annual fee. Wyze Cam Plus, for instance, offers complete motion capture recordings, person detection, and a faster 14-day cloud video history. While these services add value for many users, they also create a dependency on the company's infrastructure and ongoing payments. The absence of native RTSP on the Wyze [Cam v4](https://quvii.com/learn/wyze-cam-v4-overheating-issues-june-2026-20260627) reinforces this model, encouraging users towards cloud subscriptions for comprehensive functionality.
 
 ### Historical Context of Wyze RTSP Firmware
 

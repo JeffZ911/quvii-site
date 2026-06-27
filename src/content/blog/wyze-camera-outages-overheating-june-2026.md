@@ -99,7 +99,7 @@ If your camera has a microSD card installed and local recording enabled, it may 
 
 ### Security Camera Feature Comparison
 
-| Feature                 | Wyze Cam v3 Pro | Wyze Cam v4 | Wyze Cam Pan v3 | Wyze Outdoor Cam v2 |
+| Feature                 | Wyze Cam v3 Pro | [Wyze Cam v4](https://quvii.com/learn/wyze-cam-v4-overheating-issues-june-2026-20260627) | Wyze Cam Pan v3 | Wyze Outdoor Cam v2 |
 | :---------------------- | :-------------- | :---------- | :-------------- | :------------------ |
 | **Resolution**          | 2K (2560x1440) | 2K (2560x1440) | 1080p | 1080p |
 | **IR Night Vision Range** | Up to 30 ft | Up to 30 ft | Up to 30 ft | Up to 25 ft |
@@ -123,7 +123,7 @@ To navigate the crowded security camera market, consider your specific needs and
 
 Understanding the long-term cost of a security camera involves more than just the initial purchase price. Here's a hypothetical 3-year TCO breakdown for a single Wyze Cam, considering hardware and optional subscription services:
 
-**Scenario: One Wyze Cam v4 with a Cam Plus subscription and a 64GB microSD card.**
+**Scenario: One Wyze [Cam v4](https://quvii.com/learn/wyze-cam-v4-overheating-issues-june-2026-20260627) with a Cam Plus subscription and a 64GB microSD card.**
 
 1.  **Hardware Cost (Initial):**
     *   Wyze Cam v4: Around $30-40

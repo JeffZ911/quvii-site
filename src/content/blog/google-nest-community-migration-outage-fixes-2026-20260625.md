@@ -149,7 +149,7 @@ Since the official community archives are being deleted, your best options are i
 While the cameras will provide basic live-streaming without a subscription, you will not have access to video history (beyond 3 hours), familiar face detection, or advanced AI alerts. The Standard tier is $10/month, and the Advanced tier is $20/month as of 2026.
 
 ### How can I report a bug if the community archive is gone?
-You should start a new thread on the Google Nest Community site. Be sure to include your firmware version and device model, as you will be starting from a blank slate with the support moderators.
+You should start a new thread on the [Google Nest](https://quvii.com/blog/google-nest-camera-offline-june-2026-update) Community site. Be sure to include your firmware version and device model, as you will be starting from a blank slate with the support moderators.
 
 ## Sources
 - Google Nest Help Center
