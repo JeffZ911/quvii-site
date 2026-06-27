@@ -137,7 +137,7 @@ If your [Google Nest Camera](https://quvii.com/blog/google-nest-camera-offline-j
 3.  **Check Wi-Fi Connection**:
     *   **Signal Strength**: Ensure your camera has a strong, stable Wi-Fi signal. If possible, move the camera closer to the router.
     *   **Interference**: Minimize potential interference from other devices (e.g., microwaves, cordless phones).
-    *   **Network Band**: Google Nest cameras often perform better on a 2.4 GHz Wi-Fi network for range, though some newer models support 5 GHz for faster speeds. Ensure your camera is connected to the appropriate band.
+    *   **Network Band**: [Google Nest](https://quvii.com/blog/google-nest-camera-offline-june-2026-update) cameras often perform better on a 2.4 GHz Wi-Fi network for range, though some newer models support 5 GHz for faster speeds. Ensure your camera is connected to the appropriate band.
     *   **Speed**: Verify your internet speed meets the minimum requirements (typically 5 Mbps upload/download for reliable camera operation). You can use online speed tests.
 4.  **Ensure Adequate Power/Battery**:
     *   **Battery-Powered Cams**: For devices like the Nest Doorbell (Battery), ensure a full charge before attempting an update. It needs at least 10% charge to update.
@@ -164,7 +164,7 @@ Several myths surround firmware updates for security cameras, which can lead to 
 
 ### Myth: Updates are Optional
 
-**Reality**: Skipping firmware updates can leave your Google Nest Camera vulnerable to security exploits. Updates frequently include critical security patches that protect your device from newly discovered threats. Furthermore, you might miss out on important bug fixes, performance enhancements, and access to new features that rely on the latest firmware. Treating updates as optional can compromise your home's security and the camera's functionality.
+**Reality**: Skipping firmware updates can leave your [Google Nest Camera](https://quvii.com/blog/google-nest-camera-offline-june-2026-update) vulnerable to security exploits. Updates frequently include critical security patches that protect your device from newly discovered threats. Furthermore, you might miss out on important bug fixes, performance enhancements, and access to new features that rely on the latest firmware. Treating updates as optional can compromise your home's security and the camera's functionality.
 
 ### Myth: Old Cameras Don't Need Updates
 

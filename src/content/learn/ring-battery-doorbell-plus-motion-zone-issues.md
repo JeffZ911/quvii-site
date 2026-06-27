@@ -94,9 +94,9 @@ The "Motion Frequency" setting is particularly important for battery life. It co
 
 For users with a Ring Protect subscription, AI-powered features significantly enhance motion detection. These "Smart Alerts" include Person Detection and Package Alerts, which use algorithms to identify specific types of motion, reducing false alarms from non-human or non-package events. Person Detection differentiates human figures from other moving objects, while Package Alerts are designed to notify users when a package is delivered or removed from a designated zone. These features require a subscription because they involve cloud processing of video data.
 
-Finally, a stable Wi-Fi signal is critical. A weak Wi-Fi connection forces the device to work harder to transmit data and can lead to delayed notifications or missed events as the camera struggles to stay connected or upload footage. The Ring Battery Doorbell Plus (2nd Gen) supports dual-band Wi-Fi 6 (2.4GHz and 5GHz), which can improve connection stability and speed compared to older 2.4GHz-only models.
+Finally, a stable Wi-Fi signal is critical. A weak Wi-Fi connection forces the device to work harder to transmit data and can lead to delayed notifications or missed events as the camera struggles to stay connected or upload footage. The Ring [Battery Doorbell Plus](https://quvii.com/learn/ring-battery-doorbell-plus-firmware-update-june-2026) (2nd Gen) supports dual-band Wi-Fi 6 (2.4GHz and 5GHz), which can improve connection stability and speed compared to older 2.4GHz-only models.
 
-Here's a summary of key specifications and motion detection features for the Ring Battery Doorbell Plus (2nd Gen):
+Here's a summary of key specifications and motion detection features for the Ring Battery [Doorbell Plus](https://quvii.com/learn/ring-battery-doorbell-plus-firmware-update-june-2026) (2nd Gen):
 
 | Feature                   | Specification                                         | Source    |
 | :------------------------ | :---------------------------------------------------- | :-------- |

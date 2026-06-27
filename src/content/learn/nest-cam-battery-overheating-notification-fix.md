@@ -164,6 +164,6 @@ Firmware can optimize how the camera uses power, but it cannot change the physic
 
 ## Sources
 - [Google Nest](https://quvii.com/blog/google-nest-community-migration-outage-fixes-2026-20260625) Technical Specifications
-- Google Nest Cam (Battery) Product Page — https://store.google.com/product/nest_cam_battery_specs
+- [Google Nest](https://quvii.com/blog/google-nest-camera-offline-june-2026-update) Cam (Battery) Product Page — https://store.google.com/product/nest_cam_battery_specs
 - RTINGS Nest Cam (Battery) Review
 - Lithium-Ion Battery Thermal Safety Standards (IEC 62133) — https://www.iec.ch/dyn/www/f?p=103:38:0::::FSP_ORG_ID,FSP_LANG_ID:1248,25

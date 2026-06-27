@@ -67,13 +67,13 @@ It is critical to distinguish these environmental thermal events from the highly
 ![Why it exists](/img/ring-battery-doorbell-plus-overheating-june-2026/inline-2.webp)
 
 
-The Ring Battery Doorbell Plus is a compact computer housed in a weather-resistant plastic shell. Several factors contribute to the thermal load that can push it into "Device Cooldown" [during June](https://quvii.com/blog/wyze-camera-outages-overheating-june-2026)'s peak sun.
+The Ring [Battery Doorbell Plus](https://quvii.com/learn/ring-battery-doorbell-plus-firmware-update-june-2026) is a compact computer housed in a weather-resistant plastic shell. Several factors contribute to the thermal load that can push it into "Device Cooldown" [during June](https://quvii.com/blog/wyze-camera-outages-overheating-june-2026)'s peak sun.
 
 **Direct Solar Radiation**
 This is the primary culprit for summer overheating. While the ambient air temperature might be a safe 90°F, direct sunlight hitting the dark faceplate of a Ring doorbell can raise the surface temperature to well over 140°F via solar gain. Dark plastics absorb more infrared radiation, effectively turning the doorbell into a small heat trap.
 
 **Internal Heat Generation**
-The Battery Doorbell Plus features a high-resolution 1536p sensor and a wide 150-degree field of view. Processing this amount of data, especially when HDR (High Dynamic Range) is enabled, requires significant work from the internal processor. Additionally, the Wi-Fi radio generates heat while transmitting large video files to the cloud.
+The Battery [Doorbell Plus](https://quvii.com/learn/ring-battery-doorbell-plus-firmware-update-june-2026) features a high-resolution 1536p sensor and a wide 150-degree field of view. Processing this amount of data, especially when HDR (High Dynamic Range) is enabled, requires significant work from the internal processor. Additionally, the Wi-Fi radio generates heat while transmitting large video files to the cloud.
 
 **Battery Chemistry**
 The rechargeable lithium-ion battery pack is sensitive to temperature. High temperatures increase internal resistance, which in turn generates more heat during the discharge process (when the camera is recording). If the battery is being used heavily during a heatwave, it becomes a dual-source heat problem: it is absorbing heat from the environment while generating its own from within.

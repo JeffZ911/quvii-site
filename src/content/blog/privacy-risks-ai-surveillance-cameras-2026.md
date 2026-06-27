@@ -116,7 +116,7 @@ If you are concerned about the trajectory of AI surveillance, there are concrete
 
 | If you are a... | Prioritize... | Recommended Path |
 | :--- | :--- | :--- |
-| **Renter** | Ease of Setup + Privacy | Eufy with HomeBase 3 (Local AI, no drilling) |
+| **Renter** | Ease of Setup + Privacy | Eufy with HomeBase 3 ([Local AI](https://quvii.com/blog/eufy-edgeagent-local-ai-security-platform-2026), no drilling) |
 | **Homeowner** | Long-term Security | Reolink or UniFi (PoE, NVR-based local storage) |
 | **Small Business** | Reliability + Compliance | Synology Surveillance Station (Total data control) |
 | **Tech Enthusiast** | Data Sovereignty | Home Assistant + Scrypted (DIY local-only) |

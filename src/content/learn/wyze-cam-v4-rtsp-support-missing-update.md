@@ -91,11 +91,11 @@ The absence of native RTSP support on the Wyze [Cam v4](https://quvii.com/learn/
 
 ### Impact on Local Recording and Storage
 
-Without native RTSP, directly streaming continuous video to local Network Video Recorders (NVRs) or Network Attached Storage (NAS) devices is not feasible. While the Wyze Cam v4 supports local recording to a microSD card, this offers limited continuous recording capacity and lacks the advanced management features of an NVR or NAS. For users who want 24/7 recording stored securely on their premises, the lack of native RTSP means either relying on intermittent event-based recording to the cloud (with a subscription) or using third-party workarounds, which can be less reliable and more complex to set up and maintain.
+Without native RTSP, directly streaming continuous video to local Network Video Recorders (NVRs) or Network Attached Storage (NAS) devices is not feasible. While the [Wyze Cam v4](https://quvii.com/learn/wyze-cam-v4-overheating-issues-june-2026-20260627) supports local recording to a microSD card, this offers limited continuous recording capacity and lacks the advanced management features of an NVR or NAS. For users who want 24/7 recording stored securely on their premises, the lack of native RTSP means either relying on intermittent event-based recording to the cloud (with a subscription) or using third-party workarounds, which can be less reliable and more complex to set up and maintain.
 
 ### Smart Home Integration Challenges
 
-Native RTSP significantly simplifies integration with popular smart home platforms and security software. Platforms like Home Assistant, open-source NVR software like Frigate, or commercial solutions like Blue Iris can easily pull RTSP streams from compatible cameras. The Wyze Cam v4, without native RTSP, requires complex workarounds (like Docker Wyze Bridge or Scrypted) to achieve similar levels of integration. This added complexity can be a barrier for many users, limiting the camera's ability to participate seamlessly in a broader local smart home ecosystem.
+Native RTSP significantly simplifies integration with popular smart home platforms and security software. Platforms like Home Assistant, open-source NVR software like Frigate, or commercial solutions like Blue Iris can easily pull RTSP streams from compatible cameras. The Wyze [Cam v4](https://quvii.com/learn/wyze-cam-v4-overheating-issues-june-2026-20260627), without native RTSP, requires complex workarounds (like Docker Wyze Bridge or Scrypted) to achieve similar levels of integration. This added complexity can be a barrier for many users, limiting the camera's ability to participate seamlessly in a broader local smart home ecosystem.
 
 ### Subscription Dependency and Privacy
 

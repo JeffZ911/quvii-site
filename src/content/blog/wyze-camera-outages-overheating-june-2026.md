@@ -157,7 +157,7 @@ If your Wyze camera, other than the Solar Cam Pan (WYZESCPWH), is offline, first
 
 ### Can extreme heat cause my Wyze camera to stop working or go offline?
 
-Yes, extreme temperatures can affect the performance of electronics, including security cameras. Most Wyze cameras have specified operating temperature ranges; for example, the Wyze Cam v4 operates between -4°F and 122°F (-20°C to 50°C). Exceeding these limits, especially in direct sunlight during a heatwave, could lead to overheating, temporary shutdowns, or reduced functionality.
+Yes, extreme temperatures can affect the performance of electronics, including security cameras. Most Wyze cameras have specified operating temperature ranges; for example, the [Wyze Cam v4](https://quvii.com/learn/wyze-cam-v4-overheating-issues-june-2026-20260627) operates between -4°F and 122°F (-20°C to 50°C). Exceeding these limits, especially in direct sunlight during a heatwave, could lead to overheating, temporary shutdowns, or reduced functionality.
 
 ### Is my Wyze camera still recording if it's offline in the app?
 
@@ -195,7 +195,7 @@ Local storage, typically via a microSD card inserted directly into the camera, a
 *   wyze.com — Wyze Cam v3 Pro []
 *   wyze.com — Wyze Cam v3 Pro []
 *   wyze.com — How to Update Your Wyze Camera's Firmware [https://support.wyze.com/hc/en-us/articles/360037595172-How-to-Update-Your-Wyze-Camera-s-Firmware]
-*   wyze.com — Wyze Cam v4 [https://www.wyze.com/products/wyze-cam-v4]
+*   wyze.com — Wyze [Cam v4](https://quvii.com/learn/wyze-cam-v4-overheating-issues-june-2026-20260627) [https://www.wyze.com/products/wyze-cam-v4]
 *   wyze.com — Wyze Cam v3 [https://www.wyze.com/products/wyze-cam-v3]
 *   wyze.com — Privacy Policy []
 *   wyze.com — Wyze Cam Outdoor v2 [https://www.wyze.com/products/wyze-cam-outdoor-v2]
