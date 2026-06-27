@@ -35,11 +35,11 @@ inline_image_sections:
   - "Further reading"
 ---
 
-Motion zone issues with your Ring Battery Doorbell Plus can turn a valuable security tool into a source of frustration, leading to missed alerts or an endless stream of false alarms. Understanding the nuances of its motion detection system is key to optimizing its performance and ensuring your home remains securely monitored.
+Motion zone issues with your Ring [Battery Doorbell Plus](https://quvii.com/learn/ring-battery-doorbell-plus-firmware-update-june-2026) can turn a valuable security tool into a source of frustration, leading to missed alerts or an endless stream of false alarms. Understanding the nuances of its motion detection system is key to optimizing its performance and ensuring your home remains securely monitored.
 
 # Ring Battery Doorbell Plus Motion Zone Issues: A Comprehensive Guide
 
-The Ring Battery Doorbell Plus (2nd Gen), while offering 1536p HD+ video and a head-to-toe view, often faces motion zone issues like missed events, [false alerts](https://quvii.com/learn/reolink-camera-motion-detection-false-alerts-fix), or rapid [battery drain](https://quvii.com/learn/blink-outdoor-4-battery-drain-june-2026) due to its battery-powered Passive Infrared (PIR) sensor, Wi-Fi stability, and incorrect in-app settings. Optimizing motion zones, adjusting sensitivity and frequency, and ensuring strong Wi-Fi are crucial for reliable performance.
+The Ring Battery [Doorbell Plus](https://quvii.com/learn/ring-battery-doorbell-plus-firmware-update-june-2026) (2nd Gen), while offering 1536p HD+ video and a head-to-toe view, often faces motion zone issues like missed events, [false alerts](https://quvii.com/learn/reolink-camera-motion-detection-false-alerts-fix), or rapid [battery drain](https://quvii.com/learn/blink-outdoor-4-battery-drain-june-2026) due to its battery-powered Passive Infrared (PIR) sensor, Wi-Fi stability, and incorrect in-app settings. Optimizing motion zones, adjusting sensitivity and frequency, and ensuring strong Wi-Fi are crucial for reliable performance.
 
 ## What it means
 

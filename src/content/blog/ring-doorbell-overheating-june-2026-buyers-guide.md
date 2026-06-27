@@ -83,7 +83,7 @@ The following table compares the stated operating temperatures and power types f
 | Model | Power Type | Resolution | Stated Operating Temp | Local Storage |
 | :--- | :--- | :--- | :--- | :--- |
 | Video Doorbell (2nd Gen) | Battery/Wired | 1080p | -4°F to 122°F | No (Cloud Only) |
-| Battery Doorbell Plus | Battery/Wired | 1536p | -4°F to 122°F | No (Cloud Only) |
+| [Battery Doorbell Plus](https://quvii.com/learn/ring-battery-doorbell-plus-firmware-update-june-2026) | Battery/Wired | 1536p | -4°F to 122°F | No (Cloud Only) |
 | Video Doorbell Pro 2 | Hardwired | 1536p | -5°F to 120°F | No (Cloud Only) |
 | Video Doorbell Elite | Power over Ethernet | 1080p | -5°F to 120°F | No (Cloud Only) |
 

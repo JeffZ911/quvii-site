@@ -108,7 +108,7 @@ With the June 30, 2026, deletion deadline imminent, users must take proactive st
 If you authored valuable guides or participated in long-running technical discussions on the old Nest forum, you must manually copy and save that content immediately. There is no public archive or automated "export" tool provided by Google for the old community platform. Using tools like "Wayback Machine" to check if your most important threads have been crawled is a secondary option, but manual backups are the only guarantee.
 
 ### Navigating the New Support Landscape
-For current issues, users should begin engaging with the new Google Home and Nest Community. While the historical data is gone, Google employees and "Product Experts" are active on the new site. For immediate hardware failures, direct contact via the Google Nest Help 'Contact Us' page remains the fastest route for warranty claims.
+For current issues, users should begin engaging with the new Google Home and Nest Community. While the historical data is gone, Google employees and "Product Experts" are active on the new site. For immediate hardware failures, direct contact via the [Google Nest](https://quvii.com/blog/google-nest-camera-offline-june-2026-update) Help 'Contact Us' page remains the fastest route for warranty claims.
 
 ### Monitoring Independent Forums
 To regain the vendor-neutrality lost in this migration, owners should pivot to independent platforms:

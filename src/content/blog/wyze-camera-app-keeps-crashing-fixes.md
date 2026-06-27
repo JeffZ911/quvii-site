@@ -166,4 +166,4 @@ However, if you are running an iPhone 8, an original iPhone SE, or a Galaxy Tab 
 - RTINGS [Wyze Cam v4](https://quvii.com/blog/cpsc-recall-wyze-cam-v4-power-adapter-status) Independent Lab Test
 - FCC ID Filing for Wyze [Cam v4](https://quvii.com/blog/cpsc-recall-wyze-cam-v4-power-adapter-status) (RF/Wi-Fi Specs) — https://fccid.io/2AUIU-WYZECV4
 - Android Developers: 64-bit Architecture Requirements — https://developer.android.com/distribute/best-practices/develop/64-bit
-- Wyze Privacy Policy and Data Handling (2026 Revision)
+- Wyze [Privacy Policy](https://quvii.com/learn/eufy-security-camera-privacy-policy-update-2026-20260625) and Data Handling (2026 Revision)

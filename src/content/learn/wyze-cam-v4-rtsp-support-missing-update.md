@@ -26,11 +26,11 @@ inline_image_sections:
   - "Further reading"
 ---
 
-For consumers investing in home security, the ability to control video streams locally is a significant concern. Many users seeking advanced integration and local storage options often look for RTSP (Real Time Streaming Protocol) support, but the Wyze Cam v4 presents a distinct situation.
+For consumers investing in home security, the ability to control video streams locally is a significant concern. Many users seeking advanced integration and local storage options often look for RTSP (Real Time Streaming Protocol) support, but the [Wyze Cam v4](https://quvii.com/learn/wyze-cam-v4-overheating-issues-june-2026-20260627) presents a distinct situation.
 
 # Wyze Cam v4 RTSP Support: What You Need to Know in 2026
 
-**Quick Answer:** As of June 2026, the Wyze Cam v4 does not natively support RTSP (Real Time Streaming Protocol), and Wyze has stated it was never advertised for this model. While Wyze is reportedly working on official support, users currently rely on third-party solutions like Docker Wyze Bridge or Tiny Cam Pro for RTSP streaming.
+**Quick Answer:** As of June 2026, the Wyze [Cam v4](https://quvii.com/learn/wyze-cam-v4-overheating-issues-june-2026-20260627) does not natively support RTSP (Real Time Streaming Protocol), and Wyze has stated it was never advertised for this model. While Wyze is reportedly working on official support, users currently rely on third-party solutions like Docker Wyze Bridge or Tiny Cam Pro for RTSP streaming.
 
 ## What it means
 

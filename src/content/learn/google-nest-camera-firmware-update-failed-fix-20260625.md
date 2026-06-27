@@ -104,7 +104,7 @@ When Google releases a new firmware version, your Nest Camera typically follows 
 
 [Google Nest](https://quvii.com/blog/google-nest-camera-offline-june-2026-update) employs several robust security measures to protect the integrity of firmware updates:
 *   **Cryptographic Verification**: All firmware updates are cryptographically signed by Google. The camera verifies this signature before installation, ensuring that only authentic and untampered software is loaded onto the device.
-*   **Verified Boot**: For Google Nest devices released in 2019 and after, Verified Boot processes are implemented. This technology ensures that every stage of the bootup sequence, from the bootloader to the operating system, is cryptographically verified to prevent unauthorized modifications. This protects against malicious firmware injection.
+*   **Verified Boot**: For [Google Nest](https://quvii.com/blog/google-nest-camera-offline-june-2026-update) devices released in 2019 and after, Verified Boot processes are implemented. This technology ensures that every stage of the bootup sequence, from the bootloader to the operating system, is cryptographically verified to prevent unauthorized modifications. This protects against malicious firmware injection.
 *   **Automatic Updates**: Google Nest devices are designed to receive automatic software updates to ensure they always have the latest security features and protection from recently discovered threats. This minimizes the window of vulnerability.
 
 ## Real-world implications
@@ -122,7 +122,7 @@ A failed firmware update can have immediate and long-lasting consequences for yo
 
 ### Long-Term Consequences
 
-*   **Security Vulnerabilities**: Skipping or failing to apply critical security patches leaves your Google Nest Camera vulnerable to exploits. Attackers could potentially gain unauthorized access, disrupt functionality, or compromise your privacy.
+*   **Security Vulnerabilities**: Skipping or failing to apply critical security patches leaves your [Google Nest Camera](https://quvii.com/blog/google-nest-camera-offline-june-2026-update) vulnerable to exploits. Attackers could potentially gain unauthorized access, disrupt functionality, or compromise your privacy.
 *   **Performance Degradation**: Older firmware might contain unaddressed bugs that lead to decreased performance, such as reduced video quality, inaccurate motion detection, or excessive [battery drain](https://quvii.com/blog/eufy-security-camera-battery-drain-june-2026).
 *   **Limited Support**: Google Nest support may require your device to be on a recent firmware version for effective troubleshooting, potentially complicating assistance for persistent issues.
 

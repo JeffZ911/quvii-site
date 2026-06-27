@@ -31,7 +31,7 @@ As outdoor temperatures climb during the summer of 2026, many homeowners are dis
 
 # Ring Battery Doorbell Plus Overheating in June 2026: What You Need to Know
 
-**Quick Answer:** The Ring Battery Doorbell Plus is designed to operate within a temperature range of -5°F to 122°F (-20.5°C to 50°C). When exposed to direct sunlight or high ambient temperatures, particularly in summer months like June, the device may enter a "Device Cooldown" mode, limiting functionality or temporarily shutting down to prevent damage and protect its lithium-ion battery. While user reports of such thermal events exist, there is no widespread, new product recall or confirmed firmware defect specifically causing overheating for the Ring Battery Doorbell Plus in June 2026; the 2020 recall affected a different Ring Video Doorbell model.
+**Quick Answer:** The Ring Battery [Doorbell Plus](https://quvii.com/learn/ring-battery-doorbell-plus-firmware-update-june-2026) is designed to operate within a temperature range of -5°F to 122°F (-20.5°C to 50°C). When exposed to direct sunlight or high ambient temperatures, particularly in summer months like June, the device may enter a "Device Cooldown" mode, limiting functionality or temporarily shutting down to prevent damage and protect its lithium-ion battery. While user reports of such thermal events exist, there is no widespread, new product recall or confirmed firmware defect specifically causing overheating for the Ring Battery Doorbell Plus in June 2026; the 2020 recall affected a different Ring Video Doorbell model.
 
 ## What it means
 
@@ -67,7 +67,7 @@ It is critical to distinguish these environmental thermal events from the highly
 ![Why it exists](/img/ring-battery-doorbell-plus-overheating-june-2026/inline-2.webp)
 
 
-The Ring Battery Doorbell Plus is a compact computer housed in a weather-resistant plastic shell. Several factors contribute to the thermal load that can push it into "Device Cooldown" during June's peak sun.
+The Ring Battery Doorbell Plus is a compact computer housed in a weather-resistant plastic shell. Several factors contribute to the thermal load that can push it into "Device Cooldown" [during June](https://quvii.com/blog/wyze-camera-outages-overheating-june-2026)'s peak sun.
 
 **Direct Solar Radiation**
 This is the primary culprit for summer overheating. While the ambient air temperature might be a safe 90°F, direct sunlight hitting the dark faceplate of a Ring doorbell can raise the surface temperature to well over 140°F via solar gain. Dark plastics absorb more infrared radiation, effectively turning the doorbell into a small heat trap.

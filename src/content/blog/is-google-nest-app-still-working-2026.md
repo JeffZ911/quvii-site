@@ -130,7 +130,7 @@ Google is currently offering a $130 upgrade credit for owners of 1st and 2nd Gen
 If the 2026 "subscription-plus-AI" model is too expensive or intrusive, several brands offer a viable exit strategy:
 *   **Reolink:** Known for high-resolution (12MP) cameras that record directly to a local NVR or SD card with no monthly fees. [RTINGS rates the Reolink Altas PT Ultra](https://www.rtings.com) as a top choice for those wanting 24/7 recording without the cloud.
 *   **Tapo (by TP-Link):** Offers Matter-compatible cameras that can work across different apps, providing more flexibility than the locked-in Google ecosystem.
-*   **Eufy:** While they had privacy hurdles in the past, their 2026 HomeBase 3 system offers local AI processing ([facial recognition](https://quvii.com/blog/ring-facial-recognition-lawsuit-impact-2026)) without a subscription.
+*   **Eufy:** While they had privacy hurdles in the past, their 2026 HomeBase 3 system offers [local AI](https://quvii.com/blog/eufy-edgeagent-local-ai-security-platform-2026) processing ([facial recognition](https://quvii.com/blog/ring-facial-recognition-lawsuit-impact-2026)) without a subscription.
 
 ### Decision Framework: Should You Stay or Go?
 | If you are a... | And you value... | Recommendation |
