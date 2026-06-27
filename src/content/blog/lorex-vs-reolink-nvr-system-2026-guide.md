@@ -79,7 +79,7 @@ The Lorex lawsuits highlight a critical trade-off. Lorex systems are readily ava
 | **Human/Vehicle/Pet** | Standard | Standard |
 | **Natural Language Search** | Yes (Local) | No |
 | **Face Recognition** | Yes (Database-driven) | Yes (Select models only) |
-| **Package Detection** | Advanced (Local AI) | Basic |
+| **Package Detection** | Advanced ([Local AI](https://quvii.com/blog/eufy-edgeagent-local-ai-security-platform-2026)) | Basic |
 | **Cloud Dependency** | 0% | 0% (Optional for alerts) |
 
 ## Impact on existing owners

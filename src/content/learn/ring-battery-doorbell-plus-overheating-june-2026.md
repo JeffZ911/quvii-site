@@ -48,11 +48,11 @@ When the device's internal temperature exceeds 122°F, it triggers a protective 
 2.  **Recording Adjustments:** Video clip lengths may be shortened, or the resolution may be temporarily downscaled.
 3.  **Thermal Shutdown:** If the temperature continues to rise, the device will shut down entirely to prevent permanent damage to the lithium-ion battery and the image sensor.
 
-It is critical to distinguish these environmental thermal events from the highly publicized 2020 Ring recall. That recall specifically targeted the Ring Video Doorbell (2nd Generation), model number 5UM5E5, due to a fire hazard caused by using the wrong mounting screws which could puncture the battery. The Ring Battery Doorbell Plus, released later, utilizes a different mechanical design and a removable battery pack, and is not subject to that historical recall (CPSC Report).
+It is critical to distinguish these environmental thermal events from the highly publicized 2020 Ring recall. That recall specifically targeted the Ring Video Doorbell (2nd Generation), model number 5UM5E5, due to a fire hazard caused by using the wrong mounting screws which could puncture the battery. The Ring [Battery Doorbell Plus](https://quvii.com/learn/ring-battery-doorbell-plus-firmware-update-june-2026), released later, utilizes a different mechanical design and a removable battery pack, and is not subject to that historical recall (CPSC Report).
 
 ### Comparison of Thermal Specs: Ring Battery Models
 
-| Feature | Battery Doorbell Plus | Battery Doorbell Pro | Video Doorbell (2nd Gen) |
+| Feature | Battery [Doorbell Plus](https://quvii.com/learn/ring-battery-doorbell-plus-firmware-update-june-2026) | Battery Doorbell Pro | Video Doorbell (2nd Gen) |
 | :--- | :--- | :--- | :--- |
 | **Operating Temp** | -5°F to 122°F | -5°F to 120°F | -5°F to 120°F |
 | **Video Resolution** | 1536p HD | 1536p HD | 1080p HD |

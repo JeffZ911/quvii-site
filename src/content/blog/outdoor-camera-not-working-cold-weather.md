@@ -131,7 +131,7 @@ When shopping for a winter-proof system in 2026, look for these specific models 
 
 *   **The "Heated" Option:** Some newer consumer-facing models from Lorex and professional-grade Raythink units now include internal heaters. These activate at 32°F and can keep the camera running down to -40°F.
 *   **The PoE Powerhouse:** The **Reolink RLC-823A** (around $150-200) is a PTZ (Pan-Tilt-Zoom) camera that is frequently cited in the [r/HomeSecurity](https://www.reddit.com/r/homesecurity/) community for its resilience in Canadian winters.
-*   **The Hardwired Budget Pick:** The **Eufy S4 Max PoE** (around $100-130) provides 4K resolution and local AI without the battery headaches.
+*   **The Hardwired Budget Pick:** The **Eufy S4 Max PoE** (around $100-130) provides 4K resolution and [local AI](https://quvii.com/blog/eufy-edgeagent-local-ai-security-platform-2026) without the battery headaches.
 
 ### Decision Framework: Choosing Your Winter Strategy
 

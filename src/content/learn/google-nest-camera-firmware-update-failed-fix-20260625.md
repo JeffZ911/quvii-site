@@ -124,13 +124,13 @@ A failed firmware update can have immediate and long-lasting consequences for yo
 
 *   **Security Vulnerabilities**: Skipping or failing to apply critical security patches leaves your [Google Nest Camera](https://quvii.com/blog/google-nest-camera-offline-june-2026-update) vulnerable to exploits. Attackers could potentially gain unauthorized access, disrupt functionality, or compromise your privacy.
 *   **Performance Degradation**: Older firmware might contain unaddressed bugs that lead to decreased performance, such as reduced video quality, inaccurate motion detection, or excessive [battery drain](https://quvii.com/blog/eufy-security-camera-battery-drain-june-2026).
-*   **Limited Support**: Google Nest support may require your device to be on a recent firmware version for effective troubleshooting, potentially complicating assistance for persistent issues.
+*   **Limited Support**: [Google Nest](https://quvii.com/blog/google-nest-camera-offline-june-2026-update) support may require your device to be on a recent firmware version for effective troubleshooting, potentially complicating assistance for persistent issues.
 
 ### Step-by-Step Troubleshooting Guide
 
 If your [Google Nest Camera](https://quvii.com/blog/google-nest-camera-offline-june-2026-update) firmware update fails, follow these steps in order:
 
-1.  **Restart your Google Nest Camera**:
+1.  **Restart your [Google Nest Camera](https://quvii.com/blog/google-nest-camera-offline-june-2026-update)**:
     *   **Wired Models**: Unplug the power adapter for about 30 seconds, then plug it back in.
     *   **Battery-Powered Models (e.g., Nest Cam (battery), Nest Doorbell (battery))**: You might need to remove and reinsert the battery, or if it has a restart button, press and hold it (consult your specific model's manual for details). For the Nest Cam (battery), you can hold the camera's button for about 10 seconds to restart it.
 2.  **Restart your Wi-Fi Router**: Unplug your Wi-Fi router from its power source for at least 30 seconds, then plug it back in. Wait a few minutes for your network to fully re-establish before checking your camera. This can refresh your network connection and resolve temporary glitches.

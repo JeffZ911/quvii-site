@@ -60,7 +60,7 @@ Reliable motion detection is fundamental for effective home security and user pe
 ![Why it exists](/img/ring-battery-doorbell-plus-motion-zone-issues/inline-2.webp)
 
 
-The fundamental purpose of motion zones in security cameras is to intelligently focus monitoring on critical areas while filtering out irrelevant activity. For a battery-powered device like the Ring Battery Doorbell Plus (2nd Gen), this becomes even more crucial due to inherent power constraints. Unlike wired cameras that can continuously process video, battery-operated devices must conserve energy to maximize battery life. This means they are not constantly "watching" every pixel for changes.
+The fundamental purpose of motion zones in security cameras is to intelligently focus monitoring on critical areas while filtering out irrelevant activity. For a battery-powered device like the Ring [Battery Doorbell Plus](https://quvii.com/learn/ring-battery-doorbell-plus-firmware-update-june-2026) (2nd Gen), this becomes even more crucial due to inherent power constraints. Unlike wired cameras that can continuously process video, battery-operated devices must conserve energy to maximize battery life. This means they are not constantly "watching" every pixel for changes.
 
 Motion zones aim to reduce unwanted alerts by allowing users to exclude high-traffic areas, such as public sidewalks, busy streets, or a neighbor's property, from triggering notifications. Without this capability, a doorbell camera facing a street could send dozens or hundreds of alerts daily, quickly overwhelming the user and draining the battery.
 
@@ -71,7 +71,7 @@ Furthermore, optimizing recording storage is a significant benefit, especially f
 ![How it works under the hood](/img/ring-battery-doorbell-plus-motion-zone-issues/inline-3.webp)
 
 
-The Ring Battery Doorbell Plus (2nd Gen), like other battery-powered Ring devices, primarily relies on Passive Infrared (PIR) sensors for initial motion detection. Unlike wired cameras that can continuously analyze pixels in the video stream for changes (pixel-based detection), PIR sensors detect changes in heat signatures, such as those emitted by people or large animals. When a heat signature is detected, it "wakes" the camera, which then begins recording video. This power-saving approach is essential for extending battery life but can be less precise than pixel-based detection, making it susceptible to environmental factors like direct sunlight or sudden temperature shifts.
+The Ring Battery [Doorbell Plus](https://quvii.com/learn/ring-battery-doorbell-plus-firmware-update-june-2026) (2nd Gen), like other battery-powered Ring devices, primarily relies on Passive Infrared (PIR) sensors for initial motion detection. Unlike wired cameras that can continuously analyze pixels in the video stream for changes (pixel-based detection), PIR sensors detect changes in heat signatures, such as those emitted by people or large animals. When a heat signature is detected, it "wakes" the camera, which then begins recording video. This power-saving approach is essential for extending battery life but can be less precise than pixel-based detection, making it susceptible to environmental factors like direct sunlight or sudden temperature shifts.
 
 To enhance the precision of motion detection on battery devices, Ring incorporates "Advanced Motion Detection." This feature allows users to enable and customize motion zones within the Ring app, providing more control over where motion is detected and recorded.
 

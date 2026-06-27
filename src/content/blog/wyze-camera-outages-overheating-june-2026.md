@@ -126,7 +126,7 @@ Understanding the long-term cost of a security camera involves more than just th
 **Scenario: One Wyze [Cam v4](https://quvii.com/learn/wyze-cam-v4-overheating-issues-june-2026-20260627) with a Cam Plus subscription and a 64GB microSD card.**
 
 1.  **Hardware Cost (Initial):**
-    *   Wyze Cam v4: Around $30-40
+    *   [Wyze Cam v4](https://quvii.com/learn/wyze-cam-v4-overheating-issues-june-2026-20260627): Around $30-40
     *   64GB microSD card: Around $10-20 [information unavailable]
     *   **Subtotal (Hardware): Around $40-60**
 
@@ -139,7 +139,7 @@ Understanding the long-term cost of a security camera involves more than just th
     *   The cost of cloud storage is bundled into the Cam Plus subscription. There are no separate additional fees for cloud storage beyond the subscription itself.
 
 4.  **Feature Paywall Trap:**
-    *   Wyze, like many brands, uses subscriptions to unlock advanced features. Without Cam Plus, the Wyze Cam v4 will provide basic motion detection, 12-second cloud event recordings with a 5-minute cooldown, and continuous local recording to a microSD card. Features like full-length event recording, smart detection (person, vehicle, pet), and faster event notifications are behind the Cam Plus paywall. This means that while the camera functions without a subscription, its full capabilities are tied to the ongoing monthly or annual fee.
+    *   Wyze, like many brands, uses subscriptions to unlock advanced features. Without Cam Plus, the Wyze [Cam v4](https://quvii.com/learn/wyze-cam-v4-overheating-issues-june-2026-20260627) will provide basic motion detection, 12-second cloud event recordings with a 5-minute cooldown, and continuous local recording to a microSD card. Features like full-length event recording, smart detection (person, vehicle, pet), and faster event notifications are behind the Cam Plus paywall. This means that while the camera functions without a subscription, its full capabilities are tied to the ongoing monthly or annual fee.
 
 **Estimated 3-Year Total Cost of Ownership:**
 

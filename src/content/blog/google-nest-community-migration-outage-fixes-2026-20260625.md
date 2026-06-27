@@ -152,7 +152,7 @@ While the cameras will provide basic live-streaming without a subscription, you 
 You should start a new thread on the [Google Nest](https://quvii.com/blog/google-nest-camera-offline-june-2026-update) Community site. Be sure to include your firmware version and device model, as you will be starting from a blank slate with the support moderators.
 
 ## Sources
-- Google Nest Help Center
+- [Google Nest](https://quvii.com/blog/google-nest-camera-offline-june-2026-update) Help Center
 - Google Store: Nest Cam Specs — [https://store.google.com/product/nest_cam_battery](https://store.google.com/product/nest_cam_battery)
 - RTINGS: Security Camera Reviews
 - Google Cloud Status Dashboard — https://status.cloud.google.com/

@@ -72,7 +72,7 @@ At its core, the Real Time Streaming Protocol (RTSP) functions as a control prot
 
 ### Bridging the Gap: Third-Party Solutions
 
-Since the Wyze Cam v4 lacks native RTSP support, users have turned to third-party workarounds to achieve similar functionality. These solutions act as intermediaries, connecting to the camera's proprietary stream (often via the same protocol the Wyze app uses) and then converting it into a standard RTSP stream that other applications can understand.
+Since the [Wyze Cam v4](https://quvii.com/learn/wyze-cam-v4-overheating-issues-june-2026-20260627) lacks native RTSP support, users have turned to third-party workarounds to achieve similar functionality. These solutions act as intermediaries, connecting to the camera's proprietary stream (often via the same protocol the Wyze app uses) and then converting it into a standard RTSP stream that other applications can understand.
 
 Common third-party tools include:
 
@@ -87,7 +87,7 @@ These workarounds, while effective, come with limitations. They can be less stab
 ![Real-world implications](/img/wyze-cam-v4-rtsp-support-missing-update/inline-4.webp)
 
 
-The absence of native RTSP support on the Wyze Cam v4 has several significant real-world implications for consumers, particularly those prioritizing local control, robust integration, and privacy.
+The absence of native RTSP support on the Wyze [Cam v4](https://quvii.com/learn/wyze-cam-v4-overheating-issues-june-2026-20260627) has several significant real-world implications for consumers, particularly those prioritizing local control, robust integration, and privacy.
 
 ### Impact on Local Recording and Storage
 
