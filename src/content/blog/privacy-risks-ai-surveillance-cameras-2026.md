@@ -153,5 +153,5 @@ In the United States, there is no federal law banning home facial recognition, t
 - Ring Blog: Update on Neighbors App — https://blog.ring.com/community/update-on-neighbors-app-request-for-assistance-tool/
 - The Verge: Wyze Security Breach Report
 - Amazon Transparency Report — https://www.amazon.com/gp/help/customer/display.html?nodeId=GZ786S59S7Y3TM9U
-- Reolink Official Support: Local AI Processing — https://support.reolink.com/hc/en-us/articles/900000605383-Introduction-to-Smart-Person-Vehicle-Detection/
+- Reolink Official Support: [Local AI](https://quvii.com/blog/eufy-edgeagent-local-ai-security-platform-2026) Processing — https://support.reolink.com/hc/en-us/articles/900000605383-Introduction-to-Smart-Person-Vehicle-Detection/
 - Electronic Frontier Foundation (EFF) Surveillance Guide — https://www.eff.org/pages/surveillance-self-defense

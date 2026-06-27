@@ -114,7 +114,7 @@ Here's a summary of key specifications and motion detection features for the Rin
 ![Real-world implications](/img/ring-battery-doorbell-plus-motion-zone-issues/inline-4.webp)
 
 
-Motion zone issues with the Ring Battery Doorbell Plus (2nd Gen) can have tangible real-world implications, impacting both security effectiveness and user experience.
+Motion zone issues with the Ring [Battery Doorbell Plus](https://quvii.com/learn/ring-battery-doorbell-plus-firmware-update-june-2026) (2nd Gen) can have tangible real-world implications, impacting both security effectiveness and user experience.
 
 ### Missed Events and Security Gaps
 
@@ -122,7 +122,7 @@ One of the most critical implications is the creation of security vulnerabilitie
 
 ### Battery Life Trade-offs
 
-Aggressive motion detection settings, such as high sensitivity and "Frequently" motion frequency, can drastically accelerate [battery drain](https://quvii.com/blog/blink-camera-battery-drain-summer-heat-2026). While Ring advertises a battery life of 6-12 months for its doorbells with normal usage, real-world performance for the Battery Doorbell Plus can drop significantly, with some users reporting needing to recharge every few weeks or even months under high activity. This frequent recharging can be a major inconvenience, transforming a "wire-free" solution into a high-maintenance device. Factors like numerous motion events, frequent Live View access, and a weak Wi-Fi signal all contribute to faster battery depletion.
+Aggressive motion detection settings, such as high sensitivity and "Frequently" motion frequency, can drastically accelerate [battery drain](https://quvii.com/blog/blink-camera-battery-drain-summer-heat-2026). While Ring advertises a battery life of 6-12 months for its doorbells with normal usage, real-world performance for the Battery [Doorbell Plus](https://quvii.com/learn/ring-battery-doorbell-plus-firmware-update-june-2026) can drop significantly, with some users reporting needing to recharge every few weeks or even months under high activity. This frequent recharging can be a major inconvenience, transforming a "wire-free" solution into a high-maintenance device. Factors like numerous motion events, frequent Live View access, and a weak Wi-Fi signal all contribute to faster battery depletion.
 
 ### Privacy Concerns with Wide Coverage
 

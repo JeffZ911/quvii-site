@@ -89,7 +89,7 @@ Installations behind glass storm doors or within recessed entryways can create a
 ![How it works under the hood](/img/ring-battery-doorbell-plus-overheating-june-2026/inline-3.webp)
 
 
-The Ring Battery Doorbell Plus manages heat through a combination of hardware sensors and firmware logic designed to prioritize safety over uptime.
+The Ring [Battery Doorbell Plus](https://quvii.com/learn/ring-battery-doorbell-plus-firmware-update-june-2026) manages heat through a combination of hardware sensors and firmware logic designed to prioritize safety over uptime.
 
 *   **Thermal Sensors:** Multiple thermistors are placed on the main PCBA (Printed Circuit Board Assembly) and near the battery connector. These provide real-time data to the system-on-chip (SoC).
 *   **Firmware Response:** When the SoC receives a signal that the temperature is nearing 120°F, it initiates a "throttling" sequence. This is similar to how a smartphone slows down when it gets too hot. The device may reduce the frame rate of the video or pause the "Pre-Roll" feature (which captures the seconds before a motion event).
@@ -101,7 +101,7 @@ The Ring Battery Doorbell Plus manages heat through a combination of hardware se
 ![Real-world implications](/img/ring-battery-doorbell-plus-overheating-june-2026/inline-4.webp)
 
 
-When a Ring Battery Doorbell Plus overheats in June, the consequences range from minor inconvenience to a total loss of security coverage.
+When a Ring Battery [Doorbell Plus](https://quvii.com/learn/ring-battery-doorbell-plus-firmware-update-june-2026) overheats in June, the consequences range from minor inconvenience to a total loss of security coverage.
 
 ### Impact on Security Monitoring
 The most significant risk is the "security gap." If the device enters cooldown or shuts down, it cannot detect motion, record events, or send alerts. For a homeowner relying on the doorbell to monitor package deliveries or potential intruders, a thermal shutdown at 2:00 PM—the hottest part of the day—means the front door is effectively unmonitored.

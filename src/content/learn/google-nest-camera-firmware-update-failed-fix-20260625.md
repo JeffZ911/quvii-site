@@ -149,7 +149,7 @@ If your [Google Nest Camera](https://quvii.com/blog/google-nest-camera-offline-j
     *   **Warning**: A factory reset will erase all settings, video history, and require you to re-add and re-set up the camera in the Google Home app.
     *   **Process**: The reset process varies by model. Consult your camera's manual or Google's support pages for the exact reset button location and hold duration (typically 5-15 seconds). For Nest Cam (battery), you press and hold the reset button for 5 seconds until the status light pulses yellow, then release it. For Nest Cam (wired), hold the reset button for 12 seconds.
     *   **Important**: If you plan to sell or give away your camera, always remove it from your Google Home app *before* performing a factory reset.
-9.  **Contact Google Nest Support**: If issues persist after trying all troubleshooting steps, reach out to Google Nest support. They can provide advanced diagnostics, check for known service outages, and discuss potential replacement options if your device is still under warranty.
+9.  **Contact [Google Nest](https://quvii.com/blog/google-nest-camera-offline-june-2026-update) Support**: If issues persist after trying all troubleshooting steps, reach out to Google Nest support. They can provide advanced diagnostics, check for known service outages, and discuss potential replacement options if your device is still under warranty.
 
 ## Common misconceptions
 
@@ -179,7 +179,7 @@ For more insights into optimizing your home security setup, explore our guides o
 
 ## Google Nest Camera Comparison
 
-To help illustrate the differences and key specifications across popular Google Nest camera models, here's a comparison table. Note that specific pricing can fluctuate; these are general bands.
+To help illustrate the differences and key specifications across popular [Google Nest camera](https://quvii.com/blog/google-nest-camera-offline-june-2026-update) models, here's a comparison table. Note that specific pricing can fluctuate; these are general bands.
 
 | Feature             | Nest Cam (battery) (2021) | Nest Cam (wired) (2021) | Nest Doorbell (battery) (2021) | Nest Doorbell (wired, 2nd gen) (2022) | Nest Hub Max (2019) |
 | :------------------ | :-------------------------------------- | :------------------------------------- | :------------------------------------------- | :------------------------------------------- | :-------------------------------- |

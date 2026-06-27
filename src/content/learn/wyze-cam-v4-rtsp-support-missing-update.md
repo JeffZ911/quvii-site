@@ -105,7 +105,7 @@ Regarding privacy, Wyze's privacy policy indicates data collection practices tha
 
 Here's a comparison of features and approximate costs:
 
-| Feature/Category           | Wyze Cam v4 (No Subscription)                                    | Wyze Cam v4 (Cam Plus Subscription)                              | RTSP-enabled Camera (e.g., Reolink RLC-520A) + Local NVR/NAS |
+| Feature/Category           | [Wyze Cam v4](https://quvii.com/learn/wyze-cam-v4-overheating-issues-june-2026-20260627) (No Subscription)                                    | Wyze Cam v4 (Cam Plus Subscription)                              | RTSP-enabled Camera (e.g., Reolink RLC-520A) + Local NVR/NAS |
 | :------------------------- | :--------------------------------------------------------------- | :--------------------------------------------------------------- | :------------------------------------------------------------- |
 | **Hardware Cost (approx.)** | Around $35-$40                                        | Around $35-$40                                        | Around $60-$70 (camera) + $150-$300 (NVR/NAS)       |
 | **Video Resolution**       | 2K (2560x1440)                                        | 2K (2560x1440)                                        | 5MP (2560x1920) or higher                            |
@@ -118,7 +118,7 @@ Here's a comparison of features and approximate costs:
 
 **Decision Framework:**
 
-*   **If you prioritize lowest upfront cost and basic event recording:** A Wyze Cam v4 without a subscription is a viable option, understanding its limitations for advanced features and local integration.
+*   **If you prioritize lowest upfront cost and basic event recording:** A Wyze [Cam v4](https://quvii.com/learn/wyze-cam-v4-overheating-issues-june-2026-20260627) without a subscription is a viable option, understanding its limitations for advanced features and local integration.
 *   **If you want advanced AI detection and convenient cloud storage with a Wyze camera:** Opt for the Wyze Cam v4 with a Cam Plus subscription, accepting the recurring cost and cloud dependency.
 *   **If you need 24/7 local recording, robust smart home integration, and complete data ownership:** Prioritize cameras with native RTSP support and invest in a local NVR or NAS system, even if it means a higher initial investment.
 *   **If you are technically proficient and willing to troubleshoot:** Third-party RTSP workarounds for the Wyze Cam v4 can offer some local control, but be prepared for potential instability and maintenance.
