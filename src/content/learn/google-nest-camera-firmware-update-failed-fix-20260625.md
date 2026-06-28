@@ -168,7 +168,7 @@ Several myths surround firmware updates for security cameras, which can lead to 
 
 ### Myth: Old Cameras Don't Need Updates
 
-**Reality**: Google commits to providing automatic critical security updates for Google Nest devices for at least five years from their original sale date. Even older models receive crucial security patches to protect against vulnerabilities. While new feature development might cease for very old devices, security updates remain essential for as long as the product is supported. The idea that an older camera is "done" with updates is incorrect; security is a continuous process.
+**Reality**: Google commits to providing automatic critical security updates for [Google Nest](https://quvii.com/blog/google-nest-cam-familiar-faces-june-2026-update) devices for at least five years from their original sale date. Even older models receive crucial security patches to protect against vulnerabilities. While new feature development might cease for very old devices, security updates remain essential for as long as the product is supported. The idea that an older camera is "done" with updates is incorrect; security is a continuous process.
 
 ## Further reading
 
@@ -194,7 +194,7 @@ To help illustrate the differences and key specifications across popular [Google
 
 ## Decision Framework: Choosing the Right Nest Cam
 
-Selecting a Google Nest Camera involves weighing various factors based on your specific needs. Here's a framework to guide your decision:
+Selecting a [Google Nest Camera](https://quvii.com/blog/google-nest-camera-offline-june-2026-update) involves weighing various factors based on your specific needs. Here's a framework to guide your decision:
 
 *   **If you're a renter or prefer flexibility**: Prioritize **battery-powered Nest Cams (e.g., Nest Cam (battery), Nest Doorbell (battery))**. These offer easy installation and relocation without needing existing wiring. Be mindful of battery life and charging cycles.
 *   **If you need continuous recording and reliable power**: Prioritize **wired Nest Cams (e.g., Nest Cam (wired), Nest Doorbell (wired))**. These provide 24/7 power and often allow for continuous video recording with a Nest Aware Plus subscription.
@@ -269,4 +269,4 @@ Yes, Google commits to providing automatic critical security updates for Google 
 *   <a href="https://www.amazon.com/s?k=Google+Store+-+Nest+Aware+pricing&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Google Store - Nest Aware pricing</a>
 *   <a href="https://www.amazon.com/s?k=Engadget+-+Nest+Hub+Max+review&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Engadget - Nest Hub Max review</a>
 *   <a href="https://www.amazon.com/s?k=Google+Nest+Community+-+Camera+offline+after+update&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">[Google Nest Community](https://quvii.com/blog/google-nest-community-migration-outage-fixes-2026-20260625) - [Camera offline](https://quvii.com/learn/blink-camera-offline-troubleshooting-june-2026) after update</a>
-*   <a href="https://www.amazon.com/s?k=Thurrott+-+Google+Nest+Cam+%28wired%29+review&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Thurrott - Google Nest Cam (wired) review</a>
+*   <a href="https://www.amazon.com/s?k=Thurrott+-+Google+Nest+Cam+%28wired%29+review&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Thurrott - [Google Nest Cam](https://quvii.com/blog/google-nest-cam-familiar-faces-june-2026-update) (wired) review</a>

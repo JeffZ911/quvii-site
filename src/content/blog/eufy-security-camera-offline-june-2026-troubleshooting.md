@@ -166,7 +166,7 @@ The sticker price of a security camera is often just the beginning of its true c
 **Comparison:**
 
 *   **Eufy (Local Storage Focus):** Initial hardware cost for cameras and HomeBase (e.g., EufyCam 3 + HomeBase 3 in the $500-600 range). Optional cloud storage around $30-50/year per camera or for a basic plan. TCO can be lower if relying solely on local storage.
-*   **Subscription-Heavy Brands (e.g., Ring, Arlo, Nest):** Initial hardware cost (e.g., a [Ring Stick Up Cam](/learn/ring-stick-up-cam-pro-overheating-direct-sun) is around $100, an Arlo Essential Spotlight Camera is in the $100-150 range). However, most essential features like video recording, cloud storage, and advanced alerts are locked behind subscriptions, typically costing $30-100+ per camera or per plan annually. Over 3 years, these subscription costs can easily exceed the hardware cost, making the TCO significantly higher than Eufy's local-storage-first approach.
+*   **Subscription-Heavy Brands (e.g., Ring, Arlo, Nest):** Initial hardware cost (e.g., a [Ring Stick Up Cam](/learn/ring-stick-up-cam-pro-overheating-direct-sun) is around $100, an [Arlo Essential](https://quvii.com/learn/arlo-essential-firmware-update-issues-june-2026) Spotlight Camera is in the $100-150 range). However, most essential features like video recording, cloud storage, and advanced alerts are locked behind subscriptions, typically costing $30-100+ per camera or per plan annually. Over 3 years, these subscription costs can easily exceed the hardware cost, making the TCO significantly higher than Eufy's local-storage-first approach.
 
 Understanding these ongoing costs is crucial for making an informed purchasing decision that aligns with both your budget and your security needs over the long term.
 

@@ -126,7 +126,7 @@ Aggressive motion detection settings, such as high sensitivity and "Frequently" 
 
 ### Privacy Concerns with Wide Coverage
 
-The 150° horizontal and 150° vertical field of view of the Ring Battery Doorbell Plus (2nd Gen), while excellent for a head-to-toe perspective, also means the camera captures a wide area. Without carefully defined motion and privacy zones, there's a risk of inadvertently monitoring public spaces or neighbors' property, leading to privacy concerns. Poorly defined zones can result in constant recordings of public sidewalks or adjacent yards, raising ethical questions and potentially infringing on others' privacy. Ring offers customizable privacy zones that allow users to black out specific areas within the camera's view that they do not wish to monitor or record.
+The 150° horizontal and 150° vertical field of view of the Ring [Battery Doorbell Plus](https://quvii.com/learn/ring-battery-doorbell-plus-firmware-update-june-2026) (2nd Gen), while excellent for a head-to-toe perspective, also means the camera captures a wide area. Without carefully defined motion and privacy zones, there's a risk of inadvertently monitoring public spaces or neighbors' property, leading to privacy concerns. Poorly defined zones can result in constant recordings of public sidewalks or adjacent yards, raising ethical questions and potentially infringing on others' privacy. Ring offers customizable privacy zones that allow users to black out specific areas within the camera's view that they do not wish to monitor or record.
 
 Environmental factors also play a significant role in motion detection accuracy. Direct sunlight can create strong shadows or glare that confuse PIR sensors, leading to [false alerts](https://quvii.com/learn/reolink-camera-motion-detection-false-alerts-fix). Reflective surfaces, such as windows or shiny doors, can also interfere with detection. Additionally, rapid temperature changes, especially in colder climates, can affect PIR sensor performance and battery capacity, making the device less reliable.
 
@@ -135,7 +135,7 @@ Environmental factors also play a significant role in motion detection accuracy.
 ![Common misconceptions](/img/ring-battery-doorbell-plus-motion-zone-issues/inline-5.webp)
 
 
-Several misconceptions surround motion detection in battery-powered doorbells like the Ring Battery Doorbell Plus (2nd Gen), often leading to user frustration.
+Several misconceptions surround motion detection in battery-powered doorbells like the Ring Battery [Doorbell Plus](https://quvii.com/learn/ring-battery-doorbell-plus-firmware-update-june-2026) (2nd Gen), often leading to user frustration.
 
 **Misconception: All motion detection is the same (wired vs. battery).**
 **Reality:** Battery-powered devices, including the Ring Battery Doorbell Plus (2nd Gen), primarily use Passive Infrared (PIR) sensors to detect heat signatures, which are inherently different from the pixel-based motion detection often found in continuously powered wired cameras. Wired cameras can constantly analyze video frames for changes, offering more granular control and often quicker, more precise detection. Battery devices must conserve power, leading to a "wake-up" period after PIR detection, which can sometimes result in missed initial moments of an event.

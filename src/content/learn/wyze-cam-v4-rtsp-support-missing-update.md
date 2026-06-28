@@ -119,9 +119,9 @@ Here's a comparison of features and approximate costs:
 **Decision Framework:**
 
 *   **If you prioritize lowest upfront cost and basic event recording:** A Wyze [Cam v4](https://quvii.com/learn/wyze-cam-v4-overheating-issues-june-2026-20260627) without a subscription is a viable option, understanding its limitations for advanced features and local integration.
-*   **If you want advanced AI detection and convenient cloud storage with a Wyze camera:** Opt for the Wyze Cam v4 with a Cam Plus subscription, accepting the recurring cost and cloud dependency.
+*   **If you want advanced AI detection and convenient cloud storage with a Wyze camera:** Opt for the [Wyze Cam v4](https://quvii.com/learn/wyze-cam-v4-overheating-issues-june-2026-20260627) with a Cam Plus subscription, accepting the recurring cost and cloud dependency.
 *   **If you need 24/7 local recording, robust smart home integration, and complete data ownership:** Prioritize cameras with native RTSP support and invest in a local NVR or NAS system, even if it means a higher initial investment.
-*   **If you are technically proficient and willing to troubleshoot:** Third-party RTSP workarounds for the Wyze Cam v4 can offer some local control, but be prepared for potential instability and maintenance.
+*   **If you are technically proficient and willing to troubleshoot:** Third-party RTSP workarounds for the Wyze [Cam v4](https://quvii.com/learn/wyze-cam-v4-overheating-issues-june-2026-20260627) can offer some local control, but be prepared for potential instability and maintenance.
 
 **Total Cost of Ownership (TCO):**
 

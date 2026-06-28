@@ -22,7 +22,7 @@ inline_image_sections:
   - "What to do now"
 ---
 
-For many Google Nest users, the transition into mid-2026 has been marked by unexpected downtime and technical friction. If your camera is currently showing an "Offline" status or failing to load live feeds, you are likely caught in the intersection of a major app migration, a significant infrastructure outage, and the permanent removal of legacy support resources.
+For many [Google Nest](https://quvii.com/blog/google-nest-cam-familiar-faces-june-2026-update) users, the transition into mid-2026 has been marked by unexpected downtime and technical friction. If your camera is currently showing an "Offline" status or failing to load live feeds, you are likely caught in the intersection of a major app migration, a significant infrastructure outage, and the permanent removal of legacy support resources.
 
 # Google Nest Camera Offline After June 2026 Updates: What You Must Know
 

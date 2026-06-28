@@ -26,7 +26,7 @@ The convenience of smart home security cameras often comes with a trade-off: you
 
 # Is the Ring Facial Recognition Lawsuit Affecting Users? What You Need to Know in 2026
 
-A June 2026 class-action lawsuit (`Sigwalt v. Amazon`) alleges Ring’s "Familiar Faces" feature scans visitors without consent. While banned in IL, TX, and Portland, OR, other US users can still use the feature via a Ring Home Premium plan.
+A June 2026 class-action lawsuit (`Sigwalt v. Amazon`) alleges Ring’s "[Familiar Faces](https://quvii.com/blog/google-nest-cam-familiar-faces-june-2026-update)" feature scans visitors without consent. While banned in IL, TX, and Portland, OR, other US users can still use the feature via a Ring Home Premium plan.
 
 ## What happened
 
