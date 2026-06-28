@@ -156,7 +156,7 @@ Several misconceptions often arise concerning RTSP support in security cameras, 
 *   **"All IP cameras support RTSP."** This is not true. While many professional and prosumer IP cameras do offer native RTSP, many consumer-grade cameras, especially those designed for a cloud-first ecosystem, utilize proprietary streaming protocols or rely solely on their manufacturer's cloud services. Wyze [Cam v4](https://quvii.com/learn/wyze-cam-v4-overheating-issues-june-2026-20260627) is a prime example of a popular IP camera that doesn't offer native RTSP out of the box.
 *   **"RTSP is only for advanced users."** While setting up an NVR or integrating with complex smart home systems using RTSP can be technical, the benefits of local control and avoiding subscription models appeal to a broad range of users. Many basic NVRs and software applications offer user-friendly interfaces, making RTSP more accessible than it might initially seem.
 *   **"RTSP guarantees complete privacy."** While RTSP enables local streaming, enhancing privacy by keeping footage off third-party servers, it doesn't automatically guarantee complete privacy if the stream is exposed to the internet without proper security. Internet-connected RTSP streams still require careful network configuration, such as using a Virtual Private Network (VPN) for remote access or robust firewall rules, to prevent unauthorized external access.
-*   **"Wyze removed RTSP from the v4 in an update."** This is incorrect. Wyze has explicitly stated that the Wyze Cam v4 never had native RTSP support to begin with. Therefore, it could not have been removed in a firmware update. This misconception often arises from users familiar with older Wyze models (like the v2 or v3) that did offer RTSP as a separate firmware option.
+*   **"Wyze removed RTSP from the v4 in an update."** This is incorrect. Wyze has explicitly stated that the [Wyze Cam v4](https://quvii.com/learn/wyze-cam-v4-overheating-issues-june-2026-20260627) never had native RTSP support to begin with. Therefore, it could not have been removed in a firmware update. This misconception often arises from users familiar with older Wyze models (like the v2 or v3) that did offer RTSP as a separate firmware option.
 
 ## Further reading
 
@@ -173,7 +173,7 @@ For those looking to deepen their understanding of security camera technologies 
 ## Frequently Asked Questions
 
 ### Does the Wyze Cam v4 support RTSP?
-No, as of June 2026, the Wyze Cam v4 does not natively support RTSP. Wyze has stated that RTSP was never advertised for this model and was not removed in an update.
+No, as of June 2026, the Wyze [Cam v4](https://quvii.com/learn/wyze-cam-v4-overheating-issues-june-2026-20260627) does not natively support RTSP. Wyze has stated that RTSP was never advertised for this model and was not removed in an update.
 
 ### Why is RTSP important for security cameras?
 RTSP is important because it allows users to stream video feeds directly over their local network, enabling local recording to NVRs/NAS, integration with smart home systems, and reducing reliance on cloud subscriptions.

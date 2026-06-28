@@ -59,7 +59,7 @@ Prospective buyers of Ring security cameras, particularly those interested in ad
 
 ### State-by-State Feature Availability
 
-The availability of Ring's "Familiar Faces" feature is not uniform across the United States. Due to strict biometric privacy laws, notably Illinois's Biometric Information Privacy Act (BIPA) and similar legislation in Texas and Portland, Oregon, the "Familiar Faces" feature is currently disabled in these regions. This means that if you reside in Illinois, Texas, or Portland, OR, you will not be able to utilize this specific facial recognition functionality, regardless of your subscription tier. Buyers in these areas should understand that purchasing a Ring camera for this feature would be futile.
+The availability of Ring's "[Familiar Faces](https://quvii.com/blog/google-nest-cam-familiar-faces-june-2026-update)" feature is not uniform across the United States. Due to strict biometric privacy laws, notably Illinois's Biometric Information Privacy Act (BIPA) and similar legislation in Texas and Portland, Oregon, the "Familiar Faces" feature is currently disabled in these regions. This means that if you reside in Illinois, Texas, or Portland, OR, you will not be able to utilize this specific facial recognition functionality, regardless of your subscription tier. Buyers in these areas should understand that purchasing a Ring camera for this feature would be futile.
 
 ### The Hidden Cost of AI Subscriptions
 

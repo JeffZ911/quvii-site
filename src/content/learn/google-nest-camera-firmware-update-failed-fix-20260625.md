@@ -234,10 +234,10 @@ A [Google Nest Camera](https://quvii.com/blog/google-nest-camera-offline-june-20
 While rare, a severe power interruption or data corruption during a firmware update *can* potentially brick your Nest Cam, rendering it inoperable. Most failed updates are recoverable through troubleshooting steps like restarting or factory resetting the device, but it's crucial to maintain stable power and a strong Wi-Fi signal during updates to minimize this risk.
 
 ### How long does a Google Nest Camera firmware update take?
-The duration of a Google Nest Camera firmware update can vary depending on the size of the update file and your internet speed. Typically, an update might take anywhere from 5 to 20 minutes to download and install, including the device reboot.
+The duration of a [Google Nest Camera](https://quvii.com/blog/google-nest-camera-offline-june-2026-update) firmware update can vary depending on the size of the update file and your internet speed. Typically, an update might take anywhere from 5 to 20 minutes to download and install, including the device reboot.
 
 ### Does Google Nest provide security updates for older cameras?
-Yes, Google commits to providing automatic critical security updates for Google Nest devices for at least five years from their original sale date. This ensures that even older, supported models remain protected against known vulnerabilities, although they may not receive new feature updates.
+Yes, Google commits to providing automatic critical security updates for [Google Nest](https://quvii.com/blog/google-nest-cam-familiar-faces-june-2026-update) devices for at least five years from their original sale date. This ensures that even older, supported models remain protected against known vulnerabilities, although they may not receive new feature updates.
 
 ## Sources
 

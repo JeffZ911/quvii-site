@@ -56,7 +56,7 @@ As of 2026, Ring has standardized the operating temperatures for its flagship li
 | :--- | :--- | :--- | :--- |
 | **Battery Doorbell Pro** | Battery/Hardwire | -4°F to 122°F (-20°C to 50°C) | Radar-based Bird's Eye View |
 | **Video Doorbell Pro 2** | Hardwired | -5°F to 120°F (-20.5°C to 48.5°C) | 1536p Head-to-Toe Video |
-| **Battery Doorbell Plus** | Battery/Hardwire | -5°F to 122°F (-20°C to 50°C) | Energy-efficient 1536p |
+| **Battery [Doorbell Plus](https://quvii.com/learn/ring-battery-doorbell-plus-firmware-update-june-2026)** | Battery/Hardwire | -5°F to 122°F (-20°C to 50°C) | Energy-efficient 1536p |
 | **Video Doorbell (2024)** | Battery/Hardwire | -5°F to 120°F (-20.5°C to 48.5°C) | Entry-level value |
 
 *Source: <a href="https://www.amazon.com/s?k=Ring+Help%3A+Extreme+Temperatures+and+Ring+Devices&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Ring Help: Extreme Temperatures and Ring Devices</a>*

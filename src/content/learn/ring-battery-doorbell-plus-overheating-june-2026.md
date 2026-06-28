@@ -178,6 +178,6 @@ The standard 1-year warranty covers manufacturing defects. If you have **Ring Pr
 ## Sources
 - Ring Official Support: Extreme Weather Conditions — https://support.ring.com/hc/en-us/articles/115005939463-Extreme-Weather-Conditions-and-Ring-Devices
 - CPSC: Ring Video Doorbell Recall (2020) — https://www.cpsc.gov/Recalls/2021/Ring-Recalls-Video-Doorbells-and-Reports-of-Fire-and-Burn-Hazards
-- Ring Product Page: Battery Doorbell Plus Specs — https://ring.com/products/battery-doorbell-plus
+- Ring Product Page: [Battery Doorbell Plus](https://quvii.com/learn/ring-battery-doorbell-plus-firmware-update-june-2026) Specs — https://ring.com/products/battery-doorbell-plus
 - Ring Help: Hardwiring your Battery Doorbell — https://support.ring.com/hc/en-us/articles/115003495766
 - Ring Transparency: Changes to Police Requests

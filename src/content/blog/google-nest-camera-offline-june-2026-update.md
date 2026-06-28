@@ -121,7 +121,7 @@ If you rely on a specific forum thread for your setup (e.g., "How to fix Nest Ca
 *   **Reddit Migration:** Many community members are moving their troubleshooting guides to r/Nest or r/GoogleHome. Search those subreddits for mirrored content.
 
 ### Staying Proactive with Updates and Support
-Review the release notes for the June 2026 Google Home update. If you are experiencing persistent issues, document your camera’s firmware version and the exact time it goes offline. This data is essential when contacting Google Nest Support to ensure your ticket isn't dismissed with generic advice.
+Review the release notes for the June 2026 Google Home update. If you are experiencing persistent issues, document your camera’s firmware version and the exact time it goes offline. This data is essential when contacting [Google Nest](https://quvii.com/blog/google-nest-cam-familiar-faces-june-2026-update) Support to ensure your ticket isn't dismissed with generic advice.
 
 ### Considering Alternatives for Future Purchases
 If the recent outages and the forum shutdown have shaken your confidence in cloud-only systems, consider the following decision framework for your next purchase:

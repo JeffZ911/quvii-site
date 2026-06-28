@@ -194,10 +194,10 @@ This calculation highlights that the ongoing subscription fees can significantly
 
 ## Decision Framework
 
-Choosing and configuring a Ring Battery Doorbell Plus (2nd Gen) involves balancing security needs, convenience, and privacy. Here's a decision framework based on common buyer situations:
+Choosing and configuring a Ring [Battery Doorbell Plus](https://quvii.com/learn/ring-battery-doorbell-plus-firmware-update-june-2026) (2nd Gen) involves balancing security needs, convenience, and privacy. Here's a decision framework based on common buyer situations:
 
 *   **If you're a renter or prefer minimal installation and flexibility:**
-    *   **Prioritize:** The battery-powered nature and easy setup of the Ring Battery Doorbell Plus are ideal.
+    *   **Prioritize:** The battery-powered nature and easy setup of the Ring Battery [Doorbell Plus](https://quvii.com/learn/ring-battery-doorbell-plus-firmware-update-june-2026) are ideal.
     *   **Recommendation:** Focus on optimizing motion zones to cover only your immediate entryway and porch, avoiding public walkways to conserve battery and respect privacy. Consider a "No-Drill Mount" accessory for easy installation and removal.
 
 *   **If you experience frequent false alarms from street traffic or pets:**
