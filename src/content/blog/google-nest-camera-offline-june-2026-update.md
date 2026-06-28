@@ -61,7 +61,7 @@ For those currently shopping for a security system, the events of June 2026 serv
 The recurring outages in the first half of 2026 underscore a critical reality: if Google’s servers go down, your security system is effectively blind. For buyers who require high-availability monitoring—such as for a small business or a remote vacation home—the lack of a robust local-only failover mode is a significant drawback. Most Nest models only offer up to one hour of local "on-device" recording during a Wi-Fi outage, but this is useless if the cloud service itself is the point of failure.
 
 ### The Cost of "Smart" Features: Subscription Reliance
-Google Nest cameras are increasingly designed as "hardware-as-a-service." To access the AI features introduced in the June 2026 update, users must subscribe to the Google Home Premium tier (which succeeded the older Nest Aware branding).
+[Google Nest](https://quvii.com/blog/google-nest-cam-familiar-faces-june-2026-update) cameras are increasingly designed as "hardware-as-a-service." To access the AI features introduced in the June 2026 update, users must subscribe to the Google Home Premium tier (which succeeded the older Nest Aware branding).
 *   **Standard Tier:** Around $10/month; provides basic event history.
 *   **Advanced Tier:** Around $20/month; required for 24/7 continuous video recording and the full suite of Gemini AI audio/visual analysis.
 

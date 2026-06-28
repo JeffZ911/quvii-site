@@ -108,7 +108,7 @@ A sync error is more than a technical nuisance; it is a security vulnerability. 
 
 ### Loss of 4K and AI Functionality
 
-The S330's primary selling point is its 4K resolution and BionicMind AI. During a sync error, these features are disabled. The camera will not record to the HomeBase 3's hard drive, and no notifications will be sent to the user's phone. Furthermore, mismatched firmware can cause the AI to malfunction once the camera does reconnect, leading to "false negatives" where familiar faces are treated as strangers or motion is ignored entirely.
+The S330's primary selling point is its 4K resolution and BionicMind AI. During a sync error, these features are disabled. The camera will not record to the HomeBase 3's hard drive, and no notifications will be sent to the user's phone. Furthermore, mismatched firmware can cause the AI to malfunction once the camera does reconnect, leading to "false negatives" where [familiar faces](https://quvii.com/blog/google-nest-cam-familiar-faces-june-2026-update) are treated as strangers or motion is ignored entirely.
 
 ### The 'Ladder Requirement' for Physical Resets
 

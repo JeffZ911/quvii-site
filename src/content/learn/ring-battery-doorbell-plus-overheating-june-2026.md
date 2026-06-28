@@ -141,7 +141,7 @@ If your device reports overheating when the ambient temperature is below 90°F a
 
 
 **The 2020 Recall**
-As noted, many users searching for "Ring overheating" find old news about the 2020 recall. It is important to clarify that the Battery Doorbell Plus was designed after those lessons were learned. It uses a different mounting system that prevents screw-to-battery contact.
+As noted, many users searching for "Ring overheating" find old news about the 2020 recall. It is important to clarify that the [Battery Doorbell Plus](https://quvii.com/learn/ring-battery-doorbell-plus-firmware-update-june-2026) was designed after those lessons were learned. It uses a different mounting system that prevents screw-to-battery contact.
 
 **'Hot to Touch' vs. 'Overheating'**
 A doorbell feeling hot to the touch is not necessarily a failure. Plastic and metal components in the sun will naturally reach high temperatures. A device is only failing if it triggers the software-level "Cooldown" notification or loses functionality.
@@ -167,7 +167,7 @@ For those looking to optimize their home security setup against the summer heat,
 ### Frequently Asked Questions
 
 ### Why is my Ring doorbell not charging in the sun?
-The Ring Battery Doorbell Plus has a safety feature that halts charging if the battery temperature exceeds 113°F (45°C). Even if hardwired, the device will stop taking a charge to prevent battery damage until it cools down below this threshold.
+The Ring Battery [Doorbell Plus](https://quvii.com/learn/ring-battery-doorbell-plus-firmware-update-june-2026) has a safety feature that halts charging if the battery temperature exceeds 113°F (45°C). Even if hardwired, the device will stop taking a charge to prevent battery damage until it cools down below this threshold.
 
 ### Can I change the faceplate to help with overheating?
 Yes. Using a lighter-colored faceplate, such as white or light silver, can help reflect solar radiation. Darker colors like black or dark bronze absorb more heat and can contribute to higher internal temperatures in direct sunlight.

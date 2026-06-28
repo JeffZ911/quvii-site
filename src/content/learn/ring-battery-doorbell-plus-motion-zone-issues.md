@@ -161,7 +161,7 @@ When considering a security camera like the Ring Battery [Doorbell Plus](https:/
 Here’s a breakdown of potential 3-year costs:
 
 **1. Hardware Cost:**
-*   **Ring Battery Doorbell Plus (2nd Gen):** Around $180 (list price, though often discounted to around $120-$180).
+*   **Ring [Battery Doorbell Plus](https://quvii.com/learn/ring-battery-doorbell-plus-firmware-update-june-2026) (2nd Gen):** Around $180 (list price, though often discounted to around $120-$180).
 *   **Optional Accessories:**
     *   Extra Quick Release Battery Pack: around $50.
     *   Solar Charger/Panel: around $50-$60 (can reduce charging frequency).
@@ -175,7 +175,7 @@ Ring's subscription model, renamed in 2026, offers different tiers:
 *   **Ring Pro (for Ring Alarm systems with professional monitoring):** Includes all Multi features plus professional monitoring and other advanced alarm features.
     *   Cost: Around $20/month or $200/year.
 
-For a standalone Ring Battery Doorbell Plus, the **Ring Solo** plan is typically sufficient for unlocking full video recording and smart alerts.
+For a standalone Ring Battery [Doorbell Plus](https://quvii.com/learn/ring-battery-doorbell-plus-firmware-update-june-2026), the **Ring Solo** plan is typically sufficient for unlocking full video recording and smart alerts.
 
 **3. Feature Paywall Trap:**
 Many features that enhance security and convenience are gated behind a subscription:

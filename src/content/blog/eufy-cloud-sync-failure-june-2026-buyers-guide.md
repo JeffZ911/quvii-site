@@ -57,11 +57,11 @@ Community sentiment in May 2026, particularly on platforms like Reddit, indicate
 ![Why it matters for buyers](/img/eufy-cloud-sync-failure-june-2026-buyers-guide/inline-2.webp)
 
 
-Eufy's core value proposition revolves around robust local storage and the promise of no mandatory subscriptions, which appeals greatly to consumers seeking to avoid the recurring costs associated with subscription-heavy incumbents like Ring and Nest. However, cloud sync failures or related local storage issues directly undermine this "privacy-first" and "local-first" promise, even if local recordings theoretically remain accessible.
+Eufy's core value proposition revolves around robust local storage and the promise of no mandatory subscriptions, which appeals greatly to consumers seeking to avoid the recurring costs associated with subscription-heavy incumbents like Ring and Nest. However, cloud sync failures or related local [storage issues](https://quvii.com/learn/eufy-homebase-storage-issues-june-2026-20260628) directly undermine this "privacy-first" and "local-first" promise, even if local recordings theoretically remain accessible.
 
 ### Eufy's Local-First Promise Under Scrutiny
 
-Eufy distinguishes itself by offering significant local storage capabilities, often through a HomeBase unit (like the HomeBase 3) or onboard microSD card slots in SoloCam models. This local storage is touted as a primary benefit, allowing users to keep their footage secure and accessible without relying solely on cloud services. However, incidents like the April 2026 HomeBase storage issue, where local recordings were lost, directly challenge this core promise, raising concerns about the true resilience of local storage when coupled with firmware updates.
+Eufy distinguishes itself by offering significant local storage capabilities, often through a HomeBase unit (like the HomeBase 3) or onboard microSD card slots in SoloCam models. This local storage is touted as a primary benefit, allowing users to keep their footage secure and accessible without relying solely on cloud services. However, incidents like the April 2026 [HomeBase storage](https://quvii.com/learn/eufy-homebase-storage-issues-june-2026-20260628) issue, where local recordings were lost, directly challenge this core promise, raising concerns about the true resilience of local storage when coupled with firmware updates.
 
 ### Cloud-Dependent Features vs. Local Storage
 
@@ -121,7 +121,7 @@ Navigating the landscape of home security cameras requires careful consideration
 *   **Monitor Status:** Regularly check Eufy's official status page and support channels for updates and advisories regarding service interruptions or firmware issues.
 *   **Firmware Management:** Ensure your camera and HomeBase firmware are up to date. However, exercise caution with automatic updates if previous ones have caused issues, and consider waiting for community feedback before applying new updates immediately.
 *   **Verify Local Storage:** Periodically verify local storage functionality (e.g., SD card recording, HomeBase 3) to ensure continuous recording even during cloud outages. Regularly check recorded footage directly from the HomeBase if possible.
-*   **Explore Local Viewing Options:** If available for your specific model, consider setting up local viewing options (e.g., RTSP to an NVR/NAS) to reduce reliance on the Eufy app for live viewing. [information unavailable] Eufy HomeBase 3 supports RTSP for certain cameras, allowing integration with third-party NVRs.
+*   **Explore Local Viewing Options:** If available for your specific model, consider setting up local viewing options (e.g., RTSP to an NVR/NAS) to reduce reliance on the Eufy app for live viewing. [information unavailable] [Eufy HomeBase](https://quvii.com/learn/eufy-homebase-storage-issues-june-2026-20260628) 3 supports RTSP for certain cameras, allowing integration with third-party NVRs.
 *   **Review Security Setup:** Review your personal security setup and identify critical vulnerabilities that could arise if cloud services are temporarily unavailable. Have a backup plan for monitoring if remote access is lost.
 *   **Contact Support:** Contact Eufy support directly if you experience persistent issues, providing detailed information about your devices, firmware versions, and the problems encountered.
 

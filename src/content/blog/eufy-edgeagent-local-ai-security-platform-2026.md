@@ -124,7 +124,7 @@ For prospective buyers, the launch of EdgeAgent in the second half of 2026 repre
 *   **If you need 24/7 Reliability Today:** Be cautious. Given the storage bugs reported in early 2026, users with immediate high-security needs might prefer a more mature, wired NVR (Network Video Recorder) system until EdgeAgent proves its stability.
 
 ### Proceed with Caution on Firmware Updates
-For those already owning S330 or E330 units, do not rush to install the "Edge-Ready" firmware updates the moment they appear in the app. Based on the February-April 2026 storage issues, it is prudent to wait 2-3 weeks after a release to ensure the community hasn't identified new bugs that could compromise your recorded footage.
+For those already owning S330 or E330 units, do not rush to install the "Edge-Ready" firmware updates the moment they appear in the app. Based on the February-April 2026 [storage issues](https://quvii.com/learn/eufy-homebase-storage-issues-june-2026-20260628), it is prudent to wait 2-3 weeks after a release to ensure the community hasn't identified new bugs that could compromise your recorded footage.
 
 **Summary of Action Items:**
 1.  **Check Compatibility:** Verify if your specific model numbers are on the H2 2026 support list.

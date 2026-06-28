@@ -225,10 +225,10 @@ This calculation highlights that the subscription cost can quickly exceed the in
 ## Frequently Asked Questions
 
 ### Why is my Google Nest Camera update stuck?
-A Google Nest Camera update might get stuck due to a weak or unstable Wi-Fi connection, insufficient battery charge, or a temporary server issue. Try restarting your camera and router, then ensure your camera has a strong Wi-Fi signal and adequate power before attempting to update again.
+A [Google Nest Camera](https://quvii.com/blog/google-nest-camera-offline-june-2026-update) update might get stuck due to a weak or unstable Wi-Fi connection, insufficient battery charge, or a temporary server issue. Try restarting your camera and router, then ensure your camera has a strong Wi-Fi signal and adequate power before attempting to update again.
 
 ### How do I manually force a firmware update on my Nest Camera?
-Google Nest cameras typically update automatically. However, you can sometimes prompt a check for updates within the Google Home app. Navigate to your camera's settings, then look for an option under "Technical information" or "Device details" to check for or manually trigger an update.
+[Google Nest](https://quvii.com/blog/google-nest-cam-familiar-faces-june-2026-update) cameras typically update automatically. However, you can sometimes prompt a check for updates within the Google Home app. Navigate to your camera's settings, then look for an option under "Technical information" or "Device details" to check for or manually trigger an update.
 
 ### Can a failed firmware update brick my Nest Cam?
 While rare, a severe power interruption or data corruption during a firmware update *can* potentially brick your Nest Cam, rendering it inoperable. Most failed updates are recoverable through troubleshooting steps like restarting or factory resetting the device, but it's crucial to maintain stable power and a strong Wi-Fi signal during updates to minimize this risk.

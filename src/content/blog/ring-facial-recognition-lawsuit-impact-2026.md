@@ -44,7 +44,7 @@ In June 2026, a federal class-action lawsuit, identified as `Sigwalt v. Amazon`,
 
 ### The 'Familiar Faces' Feature Launch (Dec 2025)
 
-Ring officially introduced its "Familiar Faces" feature to the public in December 2025. Positioned as a premium AI perk, this functionality allows users to tag up to 50 frequent visitors, enabling personalized alerts and more context-rich notifications. For instance, a user could receive an alert stating "Mom is at the front door" rather than a generic "motion detected." The feature is subscription-only, requiring users to subscribe to a higher-tier plan to access its capabilities. While marketed as a convenience, its underlying technology, which involves capturing and analyzing facial characteristics, is precisely what has drawn legal challenge and privacy scrutiny.
+Ring officially introduced its "[Familiar Faces](https://quvii.com/blog/google-nest-cam-familiar-faces-june-2026-update)" feature to the public in December 2025. Positioned as a premium AI perk, this functionality allows users to tag up to 50 frequent visitors, enabling personalized alerts and more context-rich notifications. For instance, a user could receive an alert stating "Mom is at the front door" rather than a generic "motion detected." The feature is subscription-only, requiring users to subscribe to a higher-tier plan to access its capabilities. While marketed as a convenience, its underlying technology, which involves capturing and analyzing facial characteristics, is precisely what has drawn legal challenge and privacy scrutiny.
 
 ### Legacy Privacy Issues: The FTC Settlement Recap
 
