@@ -62,7 +62,7 @@ Even if your video data is stored locally on a 1TB hard drive inside a HomeBase 
 
 Reliability is the primary metric for security hardware. Frequent app-side failures create a "maintenance tax" on the user's time. For a small business owner or a homeowner traveling abroad, a login loop is not just a nuisance; it is a total system failure that leaves the property unmonitored. When comparing Eufy to competitors like Lorex or Ubiquiti UniFi Protect, buyers must weigh Eufy’s superior AI features against its history of software-driven access hurdles.
 
-| Feature | Eufy HomeBase 3 (S380) | Reolink Home Hub | UniFi Protect G5 Pro |
+| Feature | [Eufy HomeBase](https://quvii.com/learn/eufy-homebase-storage-issues-june-2026-20260628) 3 (S380) | Reolink Home Hub | UniFi Protect G5 Pro |
 | :--- | :--- | :--- | :--- |
 | **Primary Storage** | Local (Expandable to 16TB) | Local (microSD/SATA) | Local (HDD/SSD) |
 | **Cloud Login Required** | Yes (for App Access) | Optional (supports LAN) | Optional (supports LAN) |

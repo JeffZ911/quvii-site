@@ -223,7 +223,7 @@ Choosing and configuring a Ring [Battery Doorbell Plus](https://quvii.com/learn/
 ![Further reading](/img/ring-battery-doorbell-plus-motion-zone-issues/inline-6.webp)
 
 
-*   How to optimize Ring Battery Doorbell Plus settings for maximum battery life.
+*   How to optimize Ring [Battery Doorbell Plus](https://quvii.com/learn/ring-battery-doorbell-plus-firmware-update-june-2026) settings for maximum battery life.
 *   Best practices for mounting your Ring doorbell to improve motion detection.
 *   Understanding Ring's privacy policy and data sharing practices.
 *   Subscription-free security camera alternatives for home and small business.
@@ -231,7 +231,7 @@ Choosing and configuring a Ring [Battery Doorbell Plus](https://quvii.com/learn/
 ## Frequently Asked Questions
 
 ### What is the actual video resolution of the Ring Battery Doorbell Plus (2nd Gen)?
-The Ring Battery Doorbell Plus (2nd Gen) records video in 1536p HD+ resolution, which Ring also refers to as Retinal 2K, providing clear, detailed footage. This is an upgrade that allows for a sharper image and enhanced zoom capabilities.
+The Ring Battery [Doorbell Plus](https://quvii.com/learn/ring-battery-doorbell-plus-firmware-update-june-2026) (2nd Gen) records video in 1536p HD+ resolution, which Ring also refers to as Retinal 2K, providing clear, detailed footage. This is an upgrade that allows for a sharper image and enhanced zoom capabilities.
 
 ### Do I need a Ring Protect subscription to use motion zones?
 No, you can set up and customize motion zones in the Ring app without a subscription. However, a Ring Protect subscription is required to unlock advanced features like Person Detection, Package Alerts, and the ability to review and save recorded video clips triggered by motion.

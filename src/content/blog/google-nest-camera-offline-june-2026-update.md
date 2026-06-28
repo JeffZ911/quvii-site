@@ -131,7 +131,7 @@ If the recent outages and the forum shutdown have shaken your confidence in clou
 *   **If you are Privacy-Focused:** Look for systems that support **End-to-End Encryption** or "Local-Only" modes where no data ever leaves your home network (e.g., Ubiquiti UniFi Protect).
 
 **Decision Framework: Subscription vs. Local Storage**
-*   **Choose Google Nest if:** You want the best-in-class AI (Gemini) and don't mind a monthly fee of $10–$20.
+*   **Choose [Google Nest](https://quvii.com/blog/google-nest-cam-familiar-faces-june-2026-update) if:** You want the best-in-class AI (Gemini) and don't mind a monthly fee of $10–$20.
 *   **Choose Local Storage if:** You want to avoid monthly fees and ensure your cameras work 100% of the time, regardless of an internet outage.
 
 ### Total Cost of Ownership (3-Year Estimate)

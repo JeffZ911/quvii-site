@@ -136,7 +136,7 @@ If you are deciding how to handle heat or which model to buy, use this framework
 | Situation | Recommendation | Priority Action |
 | :--- | :--- | :--- |
 | **Unshaded, South-Facing Door** | Use a Hardwired-only model (Pro 2) | Install a 3rd-party sun hood immediately. |
-| **Renter (No Drilling)** | Battery Doorbell Plus | Use a Satin Nickel faceplate; avoid the Black/Bronze. |
+| **Renter (No Drilling)** | [Battery Doorbell Plus](https://quvii.com/learn/ring-battery-doorbell-plus-firmware-update-june-2026) | Use a Satin Nickel faceplate; avoid the Black/Bronze. |
 | **High Heat + High Traffic** | Battery Doorbell Pro | Enable "Low Power Mode" and disable "Pre-Roll" in July/August. |
 | **Extreme Climate (110°F+ Air)** | Switch to PoE (Power over Ethernet) | Move to the Ring Video Doorbell Elite (runs cooler than Wi-Fi models). |
 

@@ -179,13 +179,13 @@ No, as of June 2026, the Wyze [Cam v4](https://quvii.com/learn/wyze-cam-v4-overh
 RTSP is important because it allows users to stream video feeds directly over their local network, enabling local recording to NVRs/NAS, integration with smart home systems, and reducing reliance on cloud subscriptions.
 
 ### Are there any workarounds to get RTSP on Wyze Cam v4?
-Yes, third-party solutions like Docker Wyze Bridge, Tiny Cam Pro (in server mode), or Scrypted can act as intermediaries to convert the Wyze Cam v4's proprietary stream into an RTSP stream.
+Yes, third-party solutions like Docker Wyze Bridge, Tiny Cam Pro (in server mode), or Scrypted can act as intermediaries to convert the [Wyze Cam v4](https://quvii.com/learn/wyze-cam-v4-overheating-issues-june-2026-20260627)'s proprietary stream into an RTSP stream.
 
 ### Does using third-party RTSP solutions for Wyze Cam v4 have downsides?
 Yes, these unofficial methods can be less stable, may require specific older firmware versions, and might not support all camera features. They also introduce additional complexity and potential security considerations.
 
 ### Will Wyze ever add official RTSP support for the Cam v4?
-Wyze has indicated that they are working on official RTSP support for the Wyze Cam v4 due to user demand. However, a specific timeline for its release is currently unavailable.
+Wyze has indicated that they are working on official RTSP support for the Wyze [Cam v4](https://quvii.com/learn/wyze-cam-v4-overheating-issues-june-2026-20260627) due to user demand. However, a specific timeline for its release is currently unavailable.
 
 ## Sources
 

@@ -72,7 +72,7 @@ Facial recognition and other advanced AI features are not included with the basi
 | Video History  | Up to 180 days             | Up to 180 days             | Up to 180 days                 |
 | People Only Alerts | Yes                        | Yes                        | Yes                            |
 | Rich Notifications | Yes                        | Yes                        | Yes                            |
-| Familiar Faces | No                                   | No                                   | Yes                            |
+| [Familiar Faces](https://quvii.com/blog/google-nest-cam-familiar-faces-june-2026-update) | No                                   | No                                   | Yes                            |
 | Active Warnings | No                                   | No                                   | Yes                            |
 | Extended Warranty | No                                   | Yes                        | Yes                            |
 | Professional Monitoring | No                                   | No                                   | Yes (for Ring Alarm)           |
