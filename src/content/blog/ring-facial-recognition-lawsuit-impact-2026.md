@@ -85,7 +85,7 @@ A critical distinction in security camera technology is where the artificial int
 
 Understanding the total cost of ownership is crucial for any security camera purchase. Here's a hypothetical 3-year TCO comparison for a single doorbell camera:
 
-**Scenario 1: Ring Video Doorbell Pro 2 with Familiar Faces**
+**Scenario 1: Ring Video Doorbell Pro 2 with [Familiar Faces](https://quvii.com/blog/google-nest-cam-familiar-faces-june-2026-update)**
 
 *   **Hardware:** Ring Video Doorbell Pro 2: around $200-250
 *   **Subscription:** Ring Home Premium (approx. $25/month) x 36 months = $900

@@ -279,7 +279,7 @@ Eufy's privacy policy, last updated on January 30, 2026, highlights its commitme
 
 ## Impact on existing owners
 
-Existing Eufy owners who experience cloud sync failures or related local storage issues face immediate and significant frustrations. These include the inability to view live feeds remotely, missed critical event notifications, and inaccessible cloud backups if they subscribe to that service. Such disruptions can severely undermine the core purpose of a security system.
+Existing Eufy owners who experience cloud sync failures or related local [storage issues](https://quvii.com/learn/eufy-homebase-storage-issues-june-2026-20260628) face immediate and significant frustrations. These include the inability to view live feeds remotely, missed critical event notifications, and inaccessible cloud backups if they subscribe to that service. Such disruptions can severely undermine the core purpose of a security system.
 
 ### Immediate User Experience and Frustrations
 

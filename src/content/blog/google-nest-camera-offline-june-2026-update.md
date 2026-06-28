@@ -135,7 +135,7 @@ If the recent outages and the forum shutdown have shaken your confidence in clou
 *   **Choose Local Storage if:** You want to avoid monthly fees and ensure your cameras work 100% of the time, regardless of an internet outage.
 
 ### Total Cost of Ownership (3-Year Estimate)
-When calculating the cost of a Google Nest system, the hardware is only the beginning.
+When calculating the cost of a [Google Nest](https://quvii.com/blog/google-nest-cam-familiar-faces-june-2026-update) system, the hardware is only the beginning.
 *   **Hardware (2 Cameras):** Around $300–$400.
 *   **Subscription (3 Years of Premium):** $360–$720.
 *   **Total:** **$660–$1,120.**

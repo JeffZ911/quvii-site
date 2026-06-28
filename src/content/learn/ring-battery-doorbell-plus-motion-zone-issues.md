@@ -237,7 +237,7 @@ The Ring Battery [Doorbell Plus](https://quvii.com/learn/ring-battery-doorbell-p
 No, you can set up and customize motion zones in the Ring app without a subscription. However, a Ring Protect subscription is required to unlock advanced features like Person Detection, Package Alerts, and the ability to review and save recorded video clips triggered by motion.
 
 ### How long does the battery typically last on the Ring Battery Doorbell Plus?
-While Ring suggests a battery life of 6-12 months with normal use, real-world battery life for the Ring Battery Doorbell Plus can vary significantly. With high motion activity, frequent Live View access, or a weak Wi-Fi signal, users may find themselves recharging every 6 weeks to 3 months. Settings adjustments are crucial for extending battery life.
+While Ring suggests a battery life of 6-12 months with normal use, real-world battery life for the Ring [Battery Doorbell Plus](https://quvii.com/learn/ring-battery-doorbell-plus-firmware-update-june-2026) can vary significantly. With high motion activity, frequent Live View access, or a weak Wi-Fi signal, users may find themselves recharging every 6 weeks to 3 months. Settings adjustments are crucial for extending battery life.
 
 ### Can environmental factors really affect motion detection?
 Yes, environmental factors such as direct sunlight, rapidly changing shadows, reflective surfaces (like windows), and extreme temperatures can all impact the accuracy and reliability of the PIR motion sensor in battery-powered Ring doorbells, potentially leading to false alarms or missed events.
@@ -247,7 +247,7 @@ As of 2026, Ring's subscription plans have been renamed from "Ring Protect" to "
 
 ## Sources
 
-*   Ring Battery Doorbell Plus Review - PCMag — https://www.pcmag.com/reviews/ring-battery-doorbell-plus
+*   Ring Battery [Doorbell Plus](https://quvii.com/learn/ring-battery-doorbell-plus-firmware-update-june-2026) Review - PCMag — https://www.pcmag.com/reviews/ring-battery-doorbell-plus
 *   Battery Doorbell Plus (Newest Model) 2nd Gen - Ring
 *   Battery Doorbell Plus - Ring
 *   Using Motion Detection - Ring — https://support.ring.com/hc/en-us/articles/360042735771-Using-Motion-Detection

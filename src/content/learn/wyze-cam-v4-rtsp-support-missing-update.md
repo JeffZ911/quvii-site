@@ -189,7 +189,7 @@ Wyze has indicated that they are working on official RTSP support for the Wyze [
 
 ## Sources
 
-*   Android Police — Wyze Cam V4 review: A great camera with a huge catch — https://www.androidpolice.com/wyze-cam-v4-review/
+*   Android Police — [Wyze Cam V4](https://quvii.com/learn/wyze-cam-v4-overheating-issues-june-2026-20260627) review: A great camera with a huge catch — https://www.androidpolice.com/wyze-cam-v4-review/
 *   Asimily — The Difference Between RTSP and RTPS
 *   FS.com — What Is RTSP (Real-Time Streaming Protocol)? — https://www.fs.com/videos/what-is-rtsp.html
 *   GetStream.io — What is RTSP?
@@ -198,7 +198,7 @@ Wyze has indicated that they are working on official RTSP support for the Wyze [
 *   Reddit — RTSP for Security Cameras - r/HomeSecurity — https://www.reddit.com/r/HomeSecurity/comments/16lry2y/rtsp_for_security_cameras/
 *   Reolink — RLC-520A
 *   Reddit — Wyze Cam RTSP and Docker — https://www.reddit.com/r/wyzecam/comments/18m6e9d/wyze_cam_rtsp_and_docker/
-*   Wyze Community — Wyze Cam v4 RTSP — https://forums.wyzecam.com/t/wyze-cam-v4-rtsp/283626
+*   Wyze Community — Wyze [Cam v4](https://quvii.com/learn/wyze-cam-v4-overheating-issues-june-2026-20260627) RTSP — https://forums.wyzecam.com/t/wyze-cam-v4-rtsp/283626
 *   Wyze — Wyze Cam v4 — https://www.wyze.com/products/wyze-cam-v4
 *   Wyze — Wyze Cam v4 FAQ — https://support.wyze.com/hc/en-us/articles/26792610260499-Wyze-Cam-v4-FAQ
 *   Wyze — Wyze Cam Plus

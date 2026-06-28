@@ -257,7 +257,7 @@ Yes, Google commits to providing automatic critical security updates for [Google
 *   <a href="https://www.amazon.com/s?k=Reddit+-+Nest+Cam+%28battery%29+update+failure&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Reddit - Nest Cam (battery) update failure</a>
 *   Google Support - Internet speed requirements for Nest products
 *   Google Support - Factory reset Nest Cam
-*   <a href="https://www.amazon.com/s?k=Whizz-Experts+-+Google+Nest+Camera+light+meanings&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Whizz-Experts - Google Nest Camera light meanings</a>
+*   <a href="https://www.amazon.com/s?k=Whizz-Experts+-+Google+Nest+Camera+light+meanings&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Whizz-Experts - [Google Nest Camera](https://quvii.com/blog/google-nest-camera-offline-june-2026-update) light meanings</a>
 *   Google Support - Restart Nest Cam (battery)
 *   <a href="https://www.amazon.com/s?k=Reddit+-+Nest+Doorbell+%28battery%29+issues+after+update&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Reddit - Nest Doorbell (battery) issues after update</a>
 *   <a href="https://www.amazon.com/s?k=Reddit+-+Nest+Cam+%28wired%29+night+vision+issues+after+update&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Reddit - Nest Cam (wired) night vision issues after update</a>
