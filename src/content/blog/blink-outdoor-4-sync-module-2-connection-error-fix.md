@@ -88,7 +88,7 @@ The choice between cloud and local storage also has significant privacy implicat
 
 **Local Storage Comparison: Blink vs. Eufy vs. Reolink (2026)**
 
-| Feature                | Blink Sync Module 2              | Eufy HomeBase 3                  | Reolink Argus 4 Pro (Camera-based) |
+| Feature                | Blink Sync Module 2              | [Eufy HomeBase](https://quvii.com/learn/eufy-homebase-storage-issues-june-2026-20260628) 3                  | Reolink Argus 4 Pro (Camera-based) |
 | :--------------------- | :------------------------------- | :------------------------------- | :--------------------------------- |
 | Storage Method         | USB drive via Sync Module 2      | Internal eMMC + HDD/SSD via HomeBase 3 | MicroSD card in camera             |
 | Max Capacity           | 256GB USB drive        | Up to 16TB HDD/SSD (user-added) | Up to 256GB MicroSD card |
@@ -113,7 +113,7 @@ While Blink systems are designed to update firmware automatically, many users ha
 
 ### USB Drive Compatibility and Corruption Risks
 
-Local storage relies heavily on the health and compatibility of the USB drive inserted into the Sync Module 2. Improper handshakes or sudden disconnections due to connectivity issues can lead to file system corruption on the USB media. This means that even if clips eventually record, they may be inaccessible or unplayable, rendering the local storage useless. Furthermore, not all USB drives are compatible, with Blink recommending drives under 256GB and formatted to FAT32. Using an incompatible drive can exacerbate local storage issues.
+Local storage relies heavily on the health and compatibility of the USB drive inserted into the Sync Module 2. Improper handshakes or sudden disconnections due to connectivity issues can lead to file system corruption on the USB media. This means that even if clips eventually record, they may be inaccessible or unplayable, rendering the local storage useless. Furthermore, not all USB drives are compatible, with Blink recommending drives under 256GB and formatted to FAT32. Using an incompatible drive can exacerbate local [storage issues](https://quvii.com/learn/eufy-homebase-storage-issues-june-2026-20260628).
 
 **Benchmark: Battery Life Impact of Poor Sync Module Connectivity**
 

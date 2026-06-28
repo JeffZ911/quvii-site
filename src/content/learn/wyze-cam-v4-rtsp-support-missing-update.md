@@ -127,11 +127,11 @@ Here's a comparison of features and approximate costs:
 
 Understanding the TCO is crucial for security cameras, as sticker price often doesn't tell the whole story.
 
-*   **Wyze Cam v4 (No Subscription):**
+*   **[Wyze Cam v4](https://quvii.com/learn/wyze-cam-v4-overheating-issues-june-2026-20260627) (No Subscription):**
     *   Hardware: Around $35-$40
     *   Subscription: $0
     *   Total 3-Year Cost: Around $35-$40 (assuming no microSD card replacement)
-*   **Wyze Cam v4 (with Cam Plus):**
+*   **Wyze [Cam v4](https://quvii.com/learn/wyze-cam-v4-overheating-issues-june-2026-20260627) (with Cam Plus):**
     *   Hardware: Around $35-$40
     *   Subscription (estimated at $20/year per camera): $60 (3 years)
     *   Total 3-Year Cost: Around $95-$100

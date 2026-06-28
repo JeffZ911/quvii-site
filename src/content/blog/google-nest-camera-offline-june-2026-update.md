@@ -26,7 +26,7 @@ For many [Google Nest](https://quvii.com/blog/google-nest-cam-familiar-faces-jun
 
 # Google Nest Camera Offline After June 2026 Updates: What You Must Know
 
-**Quick Answer:** While no widespread official outage has been confirmed specifically due to a June 2026 firmware update, many Google Nest camera users experienced significant connectivity issues and cameras going offline following a widespread Nest app outage in May 2026. Furthermore, a major Google Home app update rolled out in June 2026, and the critical [Nest community](https://quvii.com/blog/google-nest-community-migration-outage-fixes-2026-20260625) forums are being permanently deleted on June 30, 2026, removing a vital resource for troubleshooting offline cameras and other issues.
+**Quick Answer:** While no widespread official outage has been confirmed specifically due to a June 2026 firmware update, many [Google Nest](https://quvii.com/blog/google-nest-cam-familiar-faces-june-2026-update) camera users experienced significant connectivity issues and cameras going offline following a widespread Nest app outage in May 2026. Furthermore, a major Google Home app update rolled out in June 2026, and the critical [Nest community](https://quvii.com/blog/google-nest-community-migration-outage-fixes-2026-20260625) forums are being permanently deleted on June 30, 2026, removing a vital resource for troubleshooting offline cameras and other issues.
 
 ## What happened
 

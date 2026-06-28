@@ -40,7 +40,7 @@ In the rapidly evolving landscape of smart home security, privacy concerns frequ
 
 ### The 2026 Sigwalt v. Amazon Class Action
 
-In June 2026, a federal class-action lawsuit, identified as `Sigwalt v. Amazon`, was filed in Seattle. This lawsuit specifically targets Ring's "Familiar Faces" feature, which was launched in late 2025. The core allegation of the lawsuit is that Ring cameras, equipped with this feature, scan and store biometric "face prints" of individuals who enter the camera's frame without their explicit knowledge or consent. This includes a wide range of individuals, from regular delivery drivers to casual visitors and neighbors. The plaintiffs contend that this practice violates privacy rights by collecting sensitive biometric data without adequate disclosure or permission.
+In June 2026, a federal class-action lawsuit, identified as `Sigwalt v. Amazon`, was filed in Seattle. This lawsuit specifically targets Ring's "[Familiar Faces](https://quvii.com/blog/google-nest-cam-familiar-faces-june-2026-update)" feature, which was launched in late 2025. The core allegation of the lawsuit is that Ring cameras, equipped with this feature, scan and store biometric "face prints" of individuals who enter the camera's frame without their explicit knowledge or consent. This includes a wide range of individuals, from regular delivery drivers to casual visitors and neighbors. The plaintiffs contend that this practice violates privacy rights by collecting sensitive biometric data without adequate disclosure or permission.
 
 ### The 'Familiar Faces' Feature Launch (Dec 2025)
 

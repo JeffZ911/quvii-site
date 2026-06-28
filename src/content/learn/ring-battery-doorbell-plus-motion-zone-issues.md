@@ -138,7 +138,7 @@ Environmental factors also play a significant role in motion detection accuracy.
 Several misconceptions surround motion detection in battery-powered doorbells like the Ring Battery [Doorbell Plus](https://quvii.com/learn/ring-battery-doorbell-plus-firmware-update-june-2026) (2nd Gen), often leading to user frustration.
 
 **Misconception: All motion detection is the same (wired vs. battery).**
-**Reality:** Battery-powered devices, including the Ring Battery Doorbell Plus (2nd Gen), primarily use Passive Infrared (PIR) sensors to detect heat signatures, which are inherently different from the pixel-based motion detection often found in continuously powered wired cameras. Wired cameras can constantly analyze video frames for changes, offering more granular control and often quicker, more precise detection. Battery devices must conserve power, leading to a "wake-up" period after PIR detection, which can sometimes result in missed initial moments of an event.
+**Reality:** Battery-powered devices, including the Ring [Battery Doorbell Plus](https://quvii.com/learn/ring-battery-doorbell-plus-firmware-update-june-2026) (2nd Gen), primarily use Passive Infrared (PIR) sensors to detect heat signatures, which are inherently different from the pixel-based motion detection often found in continuously powered wired cameras. Wired cameras can constantly analyze video frames for changes, offering more granular control and often quicker, more precise detection. Battery devices must conserve power, leading to a "wake-up" period after PIR detection, which can sometimes result in missed initial moments of an event.
 
 **Misconception: Setting motion zones perfectly will eliminate all [false alerts](https://quvii.com/learn/reolink-camera-motion-detection-false-alerts-fix) and missed events.**
 **Reality:** While optimizing motion zones significantly improves performance, it won't eliminate all issues. Environmental factors like sudden sunlight changes, strong shadows, reflective surfaces, extreme temperatures, and even network stability (Wi-Fi signal strength) still play a substantial role in detection accuracy and notification delivery. Motion zones are a critical tool, but they are part of a larger ecosystem of factors affecting performance.
@@ -156,7 +156,7 @@ Several misconceptions surround motion detection in battery-powered doorbells li
 
 ## Total Cost of Ownership (TCO)
 
-When considering a security camera like the Ring Battery Doorbell Plus (2nd Gen), it's important to look beyond the initial purchase price and evaluate the Total Cost of Ownership (TCO) over several years. The "feature paywall" is a significant factor in the security camera market, where many advanced functionalities are locked behind monthly subscription plans.
+When considering a security camera like the Ring Battery [Doorbell Plus](https://quvii.com/learn/ring-battery-doorbell-plus-firmware-update-june-2026) (2nd Gen), it's important to look beyond the initial purchase price and evaluate the Total Cost of Ownership (TCO) over several years. The "feature paywall" is a significant factor in the security camera market, where many advanced functionalities are locked behind monthly subscription plans.
 
 Here’s a breakdown of potential 3-year costs:
 

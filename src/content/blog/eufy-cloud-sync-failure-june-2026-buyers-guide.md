@@ -22,7 +22,7 @@ inline_image_sections:
   - "What to do now"
 ---
 
-Security camera reliability is paramount for peace of mind, making service disruptions a critical concern for both prospective buyers and existing owners. While no widespread Eufy security camera cloud sync failure was officially reported or widely confirmed for June 2026, users experienced significant issues in April and May 2026, including firmware updates that broke HomeBase storage and 24/7 recording, and an AWS outage that impacted remote access for some HomeBase 3 units, affecting models like the eufyCam and SoloCam series.
+Security camera reliability is paramount for peace of mind, making service disruptions a critical concern for both prospective buyers and existing owners. While no widespread Eufy security camera cloud sync failure was officially reported or widely confirmed for June 2026, users experienced significant issues in April and May 2026, including firmware updates that broke [HomeBase storage](https://quvii.com/learn/eufy-homebase-storage-issues-june-2026-20260628) and 24/7 recording, and an AWS outage that impacted remote access for some HomeBase 3 units, affecting models like the eufyCam and SoloCam series.
 
 # Eufy Cloud Sync Failure June 2026: What Buyers Need to Know
 
@@ -34,7 +34,7 @@ Security camera reliability is paramount for peace of mind, making service disru
 *Related: [Google Nest Camera Offline After June 2026 Updates: What You Must Know](/blog/google-nest-camera-offline-june-2026-update) · [Eufy EdgeAgent: Local AI Security Platform Announced for H2 2026](/blog/eufy-edgeagent-local-ai-security-platform-2026) · [Wyze Camera Outages & Overheating During June 2026: What You Need to K](/blog/wyze-camera-outages-overheating-june-2026)*
 
 
-No official reports or widespread confirmation of a "cloud sync failure" specifically in June 2026 were found through public channels or Eufy's official status page as of June 24, 2026, which reported normal operations. However, significant service disruptions and local storage issues did occur in the preceding months of April and May 2026, impacting the functionality that underpins cloud synchronization.
+No official reports or widespread confirmation of a "cloud sync failure" specifically in June 2026 were found through public channels or Eufy's official status page as of June 24, 2026, which reported normal operations. However, significant service disruptions and local [storage issues](https://quvii.com/learn/eufy-homebase-storage-issues-june-2026-20260628) did occur in the preceding months of April and May 2026, impacting the functionality that underpins cloud synchronization.
 
 ### Absence of a Widespread June 2026 Cloud Sync Failure
 
@@ -42,7 +42,7 @@ As of June 24, 2026, Eufy's official status page indicated that all systems were
 
 ### April-May 2026 Incidents Impacting Connectivity and Storage
 
-The months leading up to June 2026 saw several notable incidents that directly or indirectly affected Eufy camera functionality and the integrity of recorded footage, which is crucial for cloud synchronization. An April 27, 2026, firmware update for Eufy HomeBase units reportedly caused internal storage to be "dropped" or forgotten by the system. This issue led to a loss of several days of 24/7 recording for some users and often required manual reboots to restore functionality. Such a local storage disruption directly impacts the source material for any cloud backup or sync features.
+The months leading up to June 2026 saw several notable incidents that directly or indirectly affected Eufy camera functionality and the integrity of recorded footage, which is crucial for cloud synchronization. An April 27, 2026, firmware update for [Eufy HomeBase](https://quvii.com/learn/eufy-homebase-storage-issues-june-2026-20260628) units reportedly caused internal storage to be "dropped" or forgotten by the system. This issue led to a loss of several days of 24/7 recording for some users and often required manual reboots to restore functionality. Such a local storage disruption directly impacts the source material for any cloud backup or sync features.
 
 In May 2026, an unofficial post-mortem on Reddit described a "rough outage" where some HomeBase 3 units temporarily lost remote access. This incident was attributed to a larger Amazon Web Services (AWS) outage, highlighting Eufy's reliance on third-party cloud infrastructure and a perceived lack of high availability or failover mechanisms for its cloud services. For users, this meant an inability to access their cameras remotely, view live feeds, or retrieve cloud-stored footage during the outage.
 

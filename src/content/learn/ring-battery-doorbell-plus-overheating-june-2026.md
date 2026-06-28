@@ -122,10 +122,10 @@ To prevent thermal shutdowns, users should consider the following:
 | **Mild/Cloudy (e.g., PNW)** | Standard Features | The [Battery Doorbell Plus](https://quvii.com/learn/ring-battery-doorbell-plus-firmware-update-june-2026) is ideal; overheating is unlikely. |
 | **High Desert (e.g., AZ, NV)** | Thermal Mass/Wired | Consider the <a href="https://www.amazon.com/s?k=Ring+Video+Doorbell+Pro+2&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Ring Video Doorbell Pro 2</a> (Wired). It lacks a battery, removing the most heat-sensitive component. |
 | **Humid/Direct Sun (e.g., FL)** | Shading & Airflow | Use the Battery [Doorbell Plus](https://quvii.com/learn/ring-battery-doorbell-plus-firmware-update-june-2026) but *must* install a shading accessory or mount in a porch-shaded area. |
-| **Renter (No wiring)** | Portability | The Battery Doorbell Plus is the best option, but keep a spare battery to swap in case of heat-related drain. |
+| **Renter (No wiring)** | Portability | The [Battery Doorbell Plus](https://quvii.com/learn/ring-battery-doorbell-plus-firmware-update-june-2026) is the best option, but keep a spare battery to swap in case of heat-related drain. |
 
 ### Total Cost of Ownership (3-Year Breakdown)
-When purchasing the Ring Battery Doorbell Plus, the "sticker price" is only the beginning. In 2026, the cost of ownership includes the hardware and the mandatory subscription to make the device useful.
+When purchasing the Ring Battery [Doorbell Plus](https://quvii.com/learn/ring-battery-doorbell-plus-firmware-update-june-2026), the "sticker price" is only the beginning. In 2026, the cost of ownership includes the hardware and the mandatory subscription to make the device useful.
 
 *   **Hardware:** Around $150.
 *   **Ring Protect Basic (3 years):** Around $150 ($4.99/mo or $49.99/yr). This is required for cloud storage; without it, the doorbell only provides real-time alerts without saved video.

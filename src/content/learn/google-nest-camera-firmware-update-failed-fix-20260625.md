@@ -200,11 +200,11 @@ Selecting a [Google Nest Camera](https://quvii.com/blog/google-nest-camera-offli
 *   **If you need continuous recording and reliable power**: Prioritize **wired Nest Cams (e.g., Nest Cam (wired), Nest Doorbell (wired))**. These provide 24/7 power and often allow for continuous video recording with a Nest Aware Plus subscription.
 *   **If you want integrated smart home control and a display**: Consider the **Nest Hub Max**. While primarily a smart display, its integrated camera offers basic Nest Cam functionalities, making it ideal for common areas where you also want voice control and a visual interface.
 *   **If budget is a primary concern**: Look for **older wired Nest Cam models** or consider refurbished options from reputable retailers, but always verify Google's support duration for security updates. The Nest Cam (wired) is generally in a lower price band than its battery-powered counterpart.
-*   **If you prioritize privacy and local processing**: Understand that Google Nest cameras primarily rely on cloud processing and storage. While some models offer limited local event video backup, a Nest Aware subscription is necessary for extended video history and advanced features.
+*   **If you prioritize privacy and local processing**: Understand that [Google Nest](https://quvii.com/blog/google-nest-cam-familiar-faces-june-2026-update) cameras primarily rely on cloud processing and storage. While some models offer limited local event video backup, a Nest Aware subscription is necessary for extended video history and advanced features.
 
 ## Total Cost of Ownership (TCO) for Google Nest Cameras
 
-Beyond the initial purchase price, the true cost of owning a Google Nest Camera over several years includes hardware, subscription fees, and potential hidden costs like feature paywalls. Here's a breakdown for a typical 3-year ownership period:
+Beyond the initial purchase price, the true cost of owning a [Google Nest Camera](https://quvii.com/blog/google-nest-camera-offline-june-2026-update) over several years includes hardware, subscription fees, and potential hidden costs like feature paywalls. Here's a breakdown for a typical 3-year ownership period:
 
 *   **Hardware Cost**: This is the upfront price of the camera. For example, a Nest Cam (battery) is typically in the $150-200 range.
 *   **Subscription Tier (Nest Aware)**: This is often the largest ongoing cost.
