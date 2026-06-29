@@ -139,7 +139,7 @@ While rare, severe overheating can lead to battery swelling. If you notice the c
 
 ### Recall Information for Affected Units
 
-If you own a Nest Cam (battery) manufactured between 2021 and 2023, you should check your serial number via the Google Nest Help Center. Under the November 2024 voluntary recall terms, users with affected units may be eligible for a replacement or a refund, depending on the specific hardware revision and regional consumer protection laws.
+If you own a Nest Cam (battery) manufactured between 2021 and 2023, you should check your serial number via the [Google Nest](https://quvii.com/blog/google-nest-cam-familiar-faces-june-2026-update) Help Center. Under the November 2024 voluntary recall terms, users with affected units may be eligible for a replacement or a refund, depending on the specific hardware revision and regional consumer protection laws.
 
 ## Common misconceptions
 
@@ -214,5 +214,5 @@ No. The Nest Cam (Wired) does not have an internal lithium-ion battery. Because 
 - Google Nest Help: Nest Cam (battery) Specifications
 - Google Nest Help: Safety and Regulatory Information
 - CNET: Nest Cam Battery Review
-- RTINGS: Google Nest Cam (Battery) Testing
+- RTINGS: [Google Nest Cam](https://quvii.com/blog/google-nest-cam-familiar-faces-june-2026-update) (Battery) Testing
 - PCMag: The Best Outdoor Home Security Cameras for 2024 — https://www.pcmag.com/picks/the-best-outdoor-home-security-cameras

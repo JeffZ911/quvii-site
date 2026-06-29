@@ -147,7 +147,7 @@ Yes. The Botslab app allows you to independently toggle the "InView" and "OutVie
 The W101 is a wired camera and does not contain an internal battery. If power is lost, recording will stop. For critical security, we recommend plugging the camera’s USB-C adapter into a small Uninterruptible Power Supply (UPS) to maintain coverage during short outages.
 
 ### Will the electrostatic mount fall off in extreme heat or cold?
-Electrostatic mounts are generally more stable than suction cups in extreme temperatures because they do not rely on a rubber seal that can harden or crack. However, in climates with extreme direct sunlight (over 100°F), the glass temperature can exceed the operating range of the camera itself. Ensure your window has some shade or is double-paned to insulate the device.
+Electrostatic mounts are generally more stable than suction cups in extreme temperatures because they do not rely on a rubber seal that can harden or crack. However, in climates with extreme [direct sunlight](https://quvii.com/learn/google-nest-cam-battery-overheating-direct-sunlight) (over 100°F), the glass temperature can exceed the operating range of the camera itself. Ensure your window has some shade or is double-paned to insulate the device.
 
 ### Does the W101 support ONVIF or RTSP for third-party NVRs?
 As of the current firmware (v2026.6), Botslab has not enabled official ONVIF support for the W101. The device is intended to be used within the Botslab app ecosystem or via official integrations with Alexa and Google Home.

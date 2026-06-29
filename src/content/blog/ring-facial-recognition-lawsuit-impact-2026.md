@@ -133,7 +133,7 @@ To manage your privacy settings and opt out of biometric scanning features on yo
 1.  **Open the Ring App:** Launch the Ring application on your smartphone or tablet.
 2.  **Navigate to Device Settings:** Select the specific Ring camera you wish to adjust.
 3.  **Access "Pro Features":** Look for a section or toggle labeled "Pro Features" or "Advanced Features" within the device settings.
-4.  **Disable 'Familiar Faces':** Within "Pro Features," locate the "Familiar Faces" option and toggle it off. This will prevent your camera from scanning and storing face prints of visitors.
+4.  **Disable '[Familiar Faces](https://quvii.com/blog/google-nest-cam-familiar-faces-june-2026-update)':** Within "Pro Features," locate the "Familiar Faces" option and toggle it off. This will prevent your camera from scanning and storing face prints of visitors.
 5.  **Disable 'Active Warnings':** If present, also consider toggling off "Active Warnings" if you wish to limit automated AI responses based on detected activity.
 6.  **Review Shared Access:** Go to the "Control Center" or "Account Settings" within the Ring App and review "Shared Users." Ensure that only trusted individuals have access to your account, as shared users may be able to view and tag faces without your direct knowledge or consent. Remove any users who no longer require access.
 

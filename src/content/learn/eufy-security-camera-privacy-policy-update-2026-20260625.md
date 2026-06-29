@@ -152,7 +152,7 @@ According to the 2026 policy, Eufy cannot access or share footage stored locally
 No. Unlike many competitors, Eufy cameras provide full access to AI detection, 2K/4K recording, and mobile alerts without a subscription. A subscription is only required if you want off-site cloud backup or professional 24/7 monitoring services.
 
 ### Are Eufy cameras 100% private from the internet?
-Not by default. While footage is stored locally, the cameras must "check in" with Eufy’s servers to provide remote access and notifications. For a truly "air-gapped" system, users would need to use Eufy cameras with a local RTSP/NAS setup and block the cameras from internet access at the router level, though this disables the Eufy Security app features.
+Not by default. While footage is stored locally, the cameras must "check in" with Eufy’s servers to provide remote access and notifications. For a truly "air-gapped" system, users would need to use Eufy cameras with a local RTSP/NAS setup and block the cameras from internet access at the router level, though this disables the [Eufy Security app](https://quvii.com/blog/eufy-security-app-4-8-0-login-issues-fix) features.
 
 ### What happens to my data if Eufy goes out of business?
 Because your footage is stored on a local HomeBase or microSD card, you would still have physical possession of your recordings. However, remote viewing via the Eufy app would likely cease to function without Eufy’s cloud signaling servers.

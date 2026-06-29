@@ -73,7 +73,7 @@ The most common cause of overheating is environmental exposure. While the v4 is 
 Users often attempt to protect their cameras by placing them inside "birdhouse" covers or third-party protective housings. While these may shield the camera from rain, they often trap a pocket of stagnant air around the device. Without the ability to move heat away via convection, the camera's internal temperature will continue to rise until it reaches a failure point. Similarly, mounting a camera in an unconditioned attic or a garage with poor airflow can lead to "thermal soak," where the ambient environment is too hot to accept heat dissipated from the camera.
 
 ### Heavy Workload and Processing
-The Wyze Cam v4 is a high-performance device compared to its predecessors. It processes 2.5K video at higher bitrates and utilizes "Edge AI" to identify objects locally on the device rather than in the cloud. This requires the Image Signal Processor (ISP) and the CPU to work harder. 
+The [Wyze Cam v4](https://quvii.com/blog/wyze-cam-v4-overheating-june-2026-heatwave) is a high-performance device compared to its predecessors. It processes 2.5K video at higher bitrates and utilizes "Edge AI" to identify objects locally on the device rather than in the cloud. This requires the Image Signal Processor (ISP) and the CPU to work harder. 
 *   **Continuous Recording:** Writing 24/7 to a MicroSD card generates constant heat from the card slot and the storage controller.
 *   **Spotlight Usage:** The v4 features dual built-in spotlights. When these are active for long periods, they contribute significantly to the thermal load at the front of the device, near the image sensor.
 
@@ -85,7 +85,7 @@ The v4 requires a stable 5V/2A power supply. Using a third-party power adapter t
 ![How it works under the hood](/img/wyze-cam-v4-overheating-issues-june-2026-20260627/inline-3.webp)
 
 
-To understand why the Wyze Cam v4 reaches certain temperatures, we must look at the internal architecture and how it manages energy.
+To understand why the Wyze [Cam v4](https://quvii.com/blog/wyze-cam-v4-overheating-june-2026-heatwave) reaches certain temperatures, we must look at the internal architecture and how it manages energy.
 
 ### Internal Heat Generators
 The primary heat source is the System-on-a-Chip (SoC). This chip handles the video encoding (H.264/H.265), the Wi-Fi 6 stack, and the AI algorithms. The transition to Wi-Fi 6 in the v4 was intended to improve connection stability and reduce power consumption during data transmission; however, the initial handshake and high-bandwidth streaming of 2.5K video still require significant electrical current.

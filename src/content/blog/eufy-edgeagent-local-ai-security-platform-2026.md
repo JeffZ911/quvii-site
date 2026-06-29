@@ -134,7 +134,7 @@ For those already owning S330 or E330 units, do not rush to install the "Edge-Re
 ## Frequently Asked Questions
 
 ### Does Eufy EdgeAgent require a monthly subscription?
-No, the core AI features of the EdgeAgent platform—including facial recognition, vehicle detection, and local storage management—are designed to function without a mandatory subscription. Eufy continues to offer optional cloud storage plans for users who want a secondary backup, but the "intelligence" of the system is processed locally on the hardware you own.
+No, the core AI features of the EdgeAgent platform—including facial recognition, vehicle detection, and local storage management—are designed to function without a mandatory subscription. Eufy continues to offer optional [cloud storage](https://quvii.com/blog/eufy-cloud-storage-pricing-changes-2026) plans for users who want a secondary backup, but the "intelligence" of the system is processed locally on the hardware you own.
 
 ### What is the difference between HomeBase 3 and the new AI Station?
 While HomeBase 3 (S380) introduced BionicMind AI and expandable local storage, the new AI Station (launching H2 2026) features a more powerful large-model AI chipset. This new hardware is required to achieve the 63% faster processing speeds and the 100-foot recognition range promised by the EdgeAgent platform. HomeBase 3 will likely act as a secondary node or storage expander in the new ecosystem.
