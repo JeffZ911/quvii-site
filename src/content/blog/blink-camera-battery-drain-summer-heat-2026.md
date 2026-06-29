@@ -111,7 +111,7 @@ Mitigating [battery drain](https://quvii.com/blog/eufy-security-camera-battery-d
 
 ### Proactive Maintenance and Support
 
-*   **Strategic Placement:** Position outdoor cameras in shaded locations to protect them from direct sunlight exposure, which can dramatically raise internal temperatures beyond the operating limit. If shade is unavailable, consider protective housings or camera covers designed to deflect sunlight and heat.
+*   **Strategic Placement:** Position outdoor cameras in shaded locations to protect them from [direct sunlight](https://quvii.com/learn/google-nest-cam-battery-overheating-direct-sunlight) exposure, which can dramatically raise internal temperatures beyond the operating limit. If shade is unavailable, consider protective housings or camera covers designed to deflect sunlight and heat.
 *   **Monitor Battery Status:** Proactively check battery levels in the Blink app (under Device Settings > General Settings). Replace batteries when the 'Needs Replacement' or 'High Usage' alert appears to avoid unexpected downtime.
 *   **Contact Blink Support:** If persistent [battery drain](https://quvii.com/blog/eufy-security-camera-battery-drain-june-2026) issues occur despite troubleshooting and optimization efforts, especially within the 1-year limited warranty period, contact Blink customer support for further assistance. Be prepared to provide details about your camera model, environmental conditions, and the troubleshooting steps you've already taken.
 

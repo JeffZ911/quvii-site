@@ -144,5 +144,5 @@ No, the E40 is a battery-powered device and uses a 60GHz radar sensor to "wake u
 - Tom's Guide: Eufy FamiLock Series Launch — https://www.tomsguide.com
 - HomeKit News: Matter Support in Eufy [Smart Locks](https://quvii.com/blog/smart-locks-magnetic-tools-vulnerability-threat) — https://homekitnews.com
 - National Law Review: Biometric Privacy and Local Storage — https://www.natlawreview.com
-- Apple Home Authority: Matter 1.3 and Camera Integration — https://applehomeauthority.com
+- [Apple Home](https://quvii.com/learn/best-smart-locks-apple-home-key-2026) Authority: Matter 1.3 and Camera Integration — https://applehomeauthority.com
 - Modem Guides: [Eufy HomeBase](https://quvii.com/learn/eufy-homebase-storage-issues-june-2026-20260628) 3 Compatibility — https://modemguides.com

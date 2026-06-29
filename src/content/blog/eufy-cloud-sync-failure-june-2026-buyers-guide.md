@@ -228,7 +228,7 @@ Understanding the true cost of a security camera system goes beyond the initial 
 ## Frequently Asked Questions
 
 ### What is the difference between local storage and cloud storage for security cameras?
-Local storage means video footage is saved directly on a device within your home, such as an SD card in the camera or a HomeBase unit. Cloud storage involves uploading video footage to remote servers maintained by the manufacturer or a third-party provider, accessible via the internet.
+Local storage means video footage is saved directly on a device within your home, such as an SD card in the camera or a HomeBase unit. [Cloud storage](https://quvii.com/blog/eufy-cloud-storage-pricing-changes-2026) involves uploading video footage to remote servers maintained by the manufacturer or a third-party provider, accessible via the internet.
 
 ### Will my Eufy camera still record if my internet goes out?
 Yes, Eufy cameras with local storage capabilities (like those recording to a HomeBase or an onboard SD card) are designed to continue recording locally even if your internet connection is lost. However, you will not be able to view live feeds remotely, receive notifications, or access cloud-backed-up footage until your internet connection is restored.

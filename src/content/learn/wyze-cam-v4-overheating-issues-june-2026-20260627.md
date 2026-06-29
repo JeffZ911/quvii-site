@@ -93,7 +93,7 @@ The primary heat source is the System-on-a-Chip (SoC). This chip handles the vid
 The image sensor itself also generates heat, particularly when the Starlight Sensor is operating in low-light modes that require higher gain. This heat is concentrated behind the lens assembly, which is why the front of the camera often feels the warmest to the touch.
 
 ### Passive Cooling Architecture
-Unlike a computer or a high-end NVR, the Wyze Cam v4 has no internal fans. It relies entirely on **passive cooling**. 
+Unlike a computer or a high-end NVR, the [Wyze Cam v4](https://quvii.com/blog/wyze-cam-v4-overheating-june-2026-heatwave) has no internal fans. It relies entirely on **passive cooling**. 
 1.  **Conduction:** Heat moves from the SoC to the internal circuit board and then to the plastic housing.
 2.  **Convection:** The surrounding air carries the heat away from the housing.
 3.  **Radiation:** The housing emits infrared energy into the environment.
@@ -112,7 +112,7 @@ Modern firmware includes "thermal throttling" protocols. If the internal tempera
 ![Real-world implications](/img/wyze-cam-v4-overheating-issues-june-2026-20260627/inline-4.webp)
 
 
-When a Wyze Cam v4 begins to overheat, the effects are usually visible in the user experience before the device actually fails.
+When a Wyze [Cam v4](https://quvii.com/blog/wyze-cam-v4-overheating-june-2026-heatwave) begins to overheat, the effects are usually visible in the user experience before the device actually fails.
 
 ### Performance Degradation and Lag
 The first sign of thermal stress is often a "choppy" live stream. You may notice the timestamp in the corner of the video skipping seconds or the video feed freezing for several moments. This is typically the result of the processor struggling to encode 2.5K video while operating at high temperatures. In June 2026, many users reported that their Wi-Fi 6 connection appeared "weak" during the hottest part of the day, which was actually the Wi-Fi module throttling its power to cool down.

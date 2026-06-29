@@ -211,7 +211,7 @@ No. The Nest Cam (Wired) does not have an internal lithium-ion battery. Because 
 
 ## Sources
 
-- Google Nest Help: Nest Cam (battery) Specifications
+- [Google Nest](https://quvii.com/blog/google-nest-cam-familiar-faces-june-2026-update) Help: Nest Cam (battery) Specifications
 - Google Nest Help: Safety and Regulatory Information
 - CNET: Nest Cam Battery Review
 - RTINGS: [Google Nest Cam](https://quvii.com/blog/google-nest-cam-familiar-faces-june-2026-update) (Battery) Testing

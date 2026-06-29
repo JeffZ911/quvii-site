@@ -93,7 +93,7 @@ The fallout from 6.26.0 wasn't just a minor inconvenience; for many, it resulted
 The Pro 5S and Ultra 2 are marketed for their 6-month [battery life](https://quvii.com/learn/blink-outdoor-4-battery-life-extreme-heat) (based on standard usage). Following the 6.26.[0 update](https://quvii.com/blog/eufy-security-app-4-8-0-login-issues-fix), users reported batteries dropping from 80% to 20% in less than 24 hours. Technical analysis from community members suggests that the 6.26.0 firmware caused cameras to "poll" the server more frequently—essentially asking the cloud for instructions every few seconds rather than entering a low-power sleep state. This constant Wi-Fi activity generates heat and exhausts the lithium-ion cells.
 
 ### The Breakdown of Geofencing and Automations
-Geofencing—the feature that arms the system when you leave home and disarms it when you return—was severely impacted. The 6.26.0 update changed how the app requests location permissions from iOS and Android. Users who did not manually re-verify their location settings found that their cameras remained "Armed Home" (and thus not recording) even while they were miles away at work.
+Geofencing—the feature that arms the system when you leave home and disarms it when you return—was severely impacted. The 6.26.[0 update](https://quvii.com/blog/eufy-security-app-4-8-0-login-issues-fix) changed how the app requests location permissions from iOS and Android. Users who did not manually re-verify their location settings found that their cameras remained "Armed Home" (and thus not recording) even while they were miles away at work.
 
 **Total Cost of Ownership (TCO) Analysis: Arlo Ultra 2 (3-Year Outlook)**
 

@@ -138,7 +138,7 @@ Until recently, battery cameras only recorded when they "felt" motion. This ofte
 Yes. Basic motion and AI-categorized notifications (Person, Vehicle, Pet) are standard features on no-subscription brands like Eufy, Reolink, and Tapo in 2026. You do not need a monthly plan to receive a push alert on your phone while traveling.
 
 ### What happens if a thief steals the camera itself?
-If the camera uses only an internal microSD card, the footage goes with the thief. To prevent this, look for systems that sync to an indoor hub, such as the Eufy HomeBase 3 or a Reolink NVR. These devices stay hidden inside your home and record the footage even if the outdoor camera is destroyed or stolen.
+If the camera uses only an internal microSD card, the footage goes with the thief. To prevent this, look for systems that sync to an indoor hub, such as the [Eufy HomeBase](https://quvii.com/learn/eufy-homebase-storage-issues-june-2026-20260628) 3 or a Reolink NVR. These devices stay hidden inside your home and record the footage even if the outdoor camera is destroyed or stolen.
 
 ### Do I need a special microSD card for 4K travel security?
 Yes. For 4K recording, especially in [summer heat](https://quvii.com/blog/protect-smart-home-cameras-summer-heat), you should use "High Endurance" microSD cards rated for UHS Speed Class 3 (U3) and Video Speed Class 30 (V30). These are designed for continuous overwrite cycles and can withstand the higher temperatures found in outdoor camera housings.

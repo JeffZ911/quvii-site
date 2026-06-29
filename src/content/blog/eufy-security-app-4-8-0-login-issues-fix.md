@@ -133,7 +133,7 @@ When purchasing security cameras, understanding the Total Cost of Ownership (TCO
 **3-Year TCO Breakdown (Illustrative):**
 
 *   **Hardware Cost:** Around $150-200 for a single EufyCam 3 + HomeBase 3 bundle, or under $100 for a SoloCam.
-*   **Subscription Tier/Cloud Storage:** Eufy primarily offers local storage. Optional cloud storage plans are available, typically in the $3-10/month range per camera or for a whole HomeBase system, depending on storage duration and number of devices. Over three years, this could add $100-360+.
+*   **Subscription Tier/[Cloud Storage](https://quvii.com/blog/eufy-cloud-storage-pricing-changes-2026):** Eufy primarily offers local storage. Optional cloud storage plans are available, typically in the $3-10/month range per camera or for a whole HomeBase system, depending on storage duration and number of devices. Over three years, this could add $100-360+.
 *   **"Feature Paywall" Trap:** Eufy largely avoids locking essential features behind subscriptions, unlike some competitors (e.g., Ring Protect plans for video history, Arlo Secure for advanced object detection). However, future app updates or premium features might introduce new paid tiers. The current app issue demonstrates that even "free" features can be inaccessible if the controlling software fails.
 *   **Maintenance & Replacement:** Factor in potential battery replacements (for wireless cams) or device upgrades.
 
