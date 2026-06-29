@@ -128,7 +128,7 @@ If you are considering Eufy in June 2026, **exercise caution**. While the hardwa
 
 ### Immediate Steps for Affected Eufy Owners
 If your system is currently exhibiting offline behavior or [battery drain](https://quvii.com/blog/eufy-security-camera-battery-drain-june-2026):
-1.  **Disable Auto-Update:** In the Eufy Security app, check if you can toggle off "Auto-Update" (though Eufy often pushes "Critical" updates regardless).
+1.  **Disable Auto-Update:** In the [Eufy Security app](https://quvii.com/blog/eufy-security-app-4-8-0-login-issues-fix), check if you can toggle off "Auto-Update" (though Eufy often pushes "Critical" updates regardless).
 2.  **Document Everything:** Take screenshots of your firmware versions and the "Device Offline" screens. This is vital for warranty claims.
 3.  **Manual Reboot:** Many HomeBase 3 issues can be temporarily resolved by a physical power cycle (unplugging the power cable).
 4.  **Check the SSD:** If your 24/7 recording has stopped, try removing the internal SSD and re-inserting it. If the app asks to "Format," remember that all previous footage will be erased.

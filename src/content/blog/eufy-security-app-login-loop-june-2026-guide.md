@@ -139,10 +139,10 @@ This usually occurs when the security token stored on your phone no longer match
 If you use a HomeBase 3 or a camera with a microSD card, the footage is still being recorded. However, you cannot view it through the app during a login loop. You would need to physically remove the microSD card (for SoloCams) or wait until the app's authentication is restored to view HomeBase events.
 
 ### Is Eufy doing away with free local storage?
-No. As of June 2026, Eufy’s core value proposition remains subscription-free local storage. The login issues are technical bugs rather than a policy shift toward a paid model.
+No. As of June 2026, Eufy’s core value proposition remains subscription-free local storage. The [login issues](https://quvii.com/blog/eufy-security-app-4-8-0-login-issues-fix) are technical bugs rather than a policy shift toward a paid model.
 
 ### Does the login loop affect HomeKit users?
-Users who have integrated their Eufy cameras with Apple HomeKit may find that they can still view live feeds through the iOS "Home" app even when the Eufy Security app is looping. This is because HomeKit uses Apple's authentication servers rather than Eufy's.
+Users who have integrated their Eufy cameras with Apple HomeKit may find that they can still view live feeds through the iOS "Home" app even when the Eufy [Security app](https://quvii.com/blog/eufy-security-app-4-8-0-login-issues-fix) is looping. This is because HomeKit uses Apple's authentication servers rather than Eufy's.
 
 ## Sources
 - Eufy Support

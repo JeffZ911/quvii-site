@@ -22,7 +22,7 @@ inline_image_sections:
   - "What to do now"
 ---
 
-Security camera reliability is paramount for peace of mind, making service disruptions a critical concern for both prospective buyers and existing owners. While no widespread Eufy security camera cloud sync failure was officially reported or widely confirmed for June 2026, users experienced significant issues in April and May 2026, including firmware updates that broke [HomeBase storage](https://quvii.com/learn/eufy-homebase-storage-issues-june-2026-20260628) and 24/7 recording, and an AWS outage that impacted remote access for some HomeBase 3 units, affecting models like the eufyCam and SoloCam series.
+Security camera reliability is paramount for peace of mind, making service disruptions a critical concern for both prospective buyers and existing owners. While no widespread Eufy [security camera cloud](https://quvii.com/blog/eufy-cloud-storage-pricing-changes-2026) sync failure was officially reported or widely confirmed for June 2026, users experienced significant issues in April and May 2026, including firmware updates that broke [HomeBase storage](https://quvii.com/learn/eufy-homebase-storage-issues-june-2026-20260628) and 24/7 recording, and an AWS outage that impacted remote access for some HomeBase 3 units, affecting models like the eufyCam and SoloCam series.
 
 # Eufy Cloud Sync Failure June 2026: What Buyers Need to Know
 

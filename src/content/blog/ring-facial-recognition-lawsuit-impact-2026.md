@@ -98,7 +98,7 @@ Understanding the total cost of ownership is crucial for any security camera pur
 *   **Optional [Cloud Storage](https://quvii.com/blog/wyze-cam-v4-cloud-storage-subscription-changes-2026):** around $3-5/month (if desired) x 36 months = $108-180
 *   **Total 3-Year TCO:** around $200-430
 
-This comparison highlights that while the initial hardware cost might be similar, the ongoing subscription fees for cloud-based AI features like "Familiar Faces" can significantly inflate the long-term expense of a Ring system.
+This comparison highlights that while the initial hardware cost might be similar, the ongoing subscription fees for cloud-based AI features like "[Familiar Faces](https://quvii.com/blog/google-nest-cam-familiar-faces-june-2026-update)" can significantly inflate the long-term expense of a Ring system.
 
 ## Impact on existing owners
 

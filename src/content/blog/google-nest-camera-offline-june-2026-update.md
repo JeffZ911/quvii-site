@@ -158,7 +158,7 @@ No, a subscription is not required to keep the camera "online" or to see a live 
 Most modern Nest Cams have a small amount of internal memory that can record up to one hour of "event-based" footage during a Wi-Fi outage. This footage is uploaded to the cloud once the connection is restored. You cannot, however, plug in an SD card or hard drive for permanent local storage.
 
 ## Sources
-- Google Nest Support
+- [Google Nest](https://quvii.com/blog/google-nest-cam-familiar-faces-june-2026-update) Support
 - 9to5Google: Nest App Outage Reports — https://9to5google.com/
 - Google Safety Center: Privacy & Data — https://safety.google/privacy/data/
 - PCMag: Google Home App Gemini Integration — https://www.pcmag.com/

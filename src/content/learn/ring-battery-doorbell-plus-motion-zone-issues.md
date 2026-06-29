@@ -248,8 +248,8 @@ As of 2026, Ring's subscription plans have been renamed from "Ring Protect" to "
 ## Sources
 
 *   Ring Battery [Doorbell Plus](https://quvii.com/learn/ring-battery-doorbell-plus-firmware-update-june-2026) Review - PCMag — https://www.pcmag.com/reviews/ring-battery-doorbell-plus
-*   Battery Doorbell Plus (Newest Model) 2nd Gen - Ring
-*   Battery Doorbell Plus - Ring
+*   [Battery Doorbell Plus](https://quvii.com/learn/ring-battery-doorbell-plus-firmware-update-june-2026) (Newest Model) 2nd Gen - Ring
+*   Battery [Doorbell Plus](https://quvii.com/learn/ring-battery-doorbell-plus-firmware-update-june-2026) - Ring
 *   Using Motion Detection - Ring — https://support.ring.com/hc/en-us/articles/360042735771-Using-Motion-Detection
 *   Fix Ring Battery Doorbell Plus Not Detecting Motion - fixringdoorbell.com — https://fixringdoorbell.com/ring-battery-doorbell-plus-not-detecting-motion/
 *   With the second-gen Ring Battery Video Doorbell Plus, the head-to-toe doorbell finally goes 2K | TechRadar

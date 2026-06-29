@@ -50,7 +50,7 @@ User communities, including discussions on Reddit and Amazon forums, show owners
 | **Night Vision**         | Infrared (IR)                       |
 | **Two-Way Audio**        | Yes                                 |
 | **Local Storage**        | Via Sync Module 2 (USB drive, sold separately) |
-| **Cloud Storage**        | Blink Subscription Plan (optional) |
+| **[Cloud Storage](https://quvii.com/blog/eufy-cloud-storage-pricing-changes-2026)**        | Blink Subscription Plan (optional) |
 
 ## Why it matters for buyers
 

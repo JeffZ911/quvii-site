@@ -65,7 +65,7 @@ For those currently shopping for a security system, the recent Wyze stability is
 
 ### Budget Phone Compatibility Warnings
 
-New buyers often pair affordable cameras like the [Wyze Cam v4](https://quvii.com/blog/cpsc-recall-wyze-cam-v4-power-adapter-status) (usually found in the $35-$50 range) with budget Android devices, such as the Samsung Galaxy A-series or various Motorola Moto G models. However, the 2026 Wyze app is no longer a "lightweight" utility. It is a resource-intensive platform. If you are using a phone with a low-tier processor, you may experience "UI lag" where the app takes 5-10 seconds to open a live stream, or "thermal crashes" where the phone shuts the app down to prevent overheating during 2K streaming.
+New buyers often pair affordable cameras like the [Wyze Cam v4](https://quvii.com/blog/cpsc-recall-wyze-cam-v4-power-adapter-status) (usually found in the $35-$50 range) with budget Android devices, such as the Samsung Galaxy A-series or various Motorola Moto G models. However, the 2026 Wyze app is no longer a "lightweight" utility. It is a resource-intensive platform. If you are using a phone with a low-tier processor, you may experience "UI lag" where the app takes 5-10 seconds to open a live stream, or "thermal crashes" where the phone shuts the app down to prevent [overheating during](https://quvii.com/blog/wyze-cam-v4-overheating-june-2026-heatwave) 2K streaming.
 
 ### The Hidden Cost of Frequent Firmware Updates
 

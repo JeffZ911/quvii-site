@@ -108,7 +108,7 @@ If you currently own a HomeBase 2 or HomeBase 3, the 2026 pricing changes are la
 
 The HomeBase 3 (S380) is not obsolete, but it has reached its feature ceiling. Firmware updates in early 2026 have stabilized its compatibility with almost all Eufy devices (including the older SoloCams and Doorbell batteries), but it lacks the NPU (Neural Processing Unit) power required for the 3D Home Model feature. 
 
-Existing owners are seeing a slight adjustment in annual cloud storage rates—typically an increase of around $5 to $10 per year—to account for inflation and increased AWS hosting costs. If you are on an older annual plan, check your "Subscription Management" tab in the Eufy Security app to see if your next renewal reflects these 2026 rates.
+Existing owners are seeing a slight adjustment in annual cloud storage rates—typically an increase of around $5 to $10 per year—to account for inflation and increased AWS hosting costs. If you are on an older annual plan, check your "Subscription Management" tab in the [Eufy Security app](https://quvii.com/blog/eufy-security-app-4-8-0-login-issues-fix) to see if your next renewal reflects these 2026 rates.
 
 ### The 24/7 Recording Export Hurdle
 

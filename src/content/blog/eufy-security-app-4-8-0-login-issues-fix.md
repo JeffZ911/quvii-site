@@ -117,7 +117,7 @@ If you're experiencing login issues with your Eufy Security app version 4.8.0, s
     *   **iOS:** Search for "Eufy Security" in the App Store.
     *   **Android:** Search for "Eufy Security" in the Google Play Store.
 4.  **Check 2FA Settings:** If you encounter persistent 2FA issues after updating, check your registered email for any "New Login" alerts or 2FA verification codes that might have been sent. Ensure your phone's time and date settings are accurate, as time synchronization can affect 2FA token validity. If problems persist, you may need to reach out to Eufy Support to reset your 2FA.
-5.  **Restart HomeBase and Cameras:** After updating the app, it's a good practice to power cycle your Eufy HomeBase and any affected cameras. Unplug them for 30 seconds, then plug them back in. This can help re-establish a fresh connection with the updated app.
+5.  **Restart HomeBase and Cameras:** After updating the app, it's a good practice to power cycle your [Eufy HomeBase](https://quvii.com/learn/eufy-homebase-storage-issues-june-2026-20260628) and any affected cameras. Unplug them for 30 seconds, then plug them back in. This can help re-establish a fresh connection with the updated app.
 
 ### Alternative Viewing Methods
 

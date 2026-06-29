@@ -27,11 +27,11 @@ inline_image_sections:
   - "Further reading"
 ---
 
-As summer temperatures peak across the United States in June 2026, owners of the Wyze Cam v4 are increasingly monitoring how their hardware handles the heat. While the v4 remains a popular choice for its 2.5K resolution and Wi-Fi 6 support, understanding the threshold between "running warm" and "overheating" is critical for maintaining home security during a heatwave.
+As summer temperatures peak across the United States in June 2026, owners of the [Wyze Cam v4](https://quvii.com/blog/wyze-cam-v4-overheating-june-2026-heatwave) are increasingly monitoring how their hardware handles the heat. While the v4 remains a popular choice for its 2.5K resolution and Wi-Fi 6 support, understanding the threshold between "running warm" and "overheating" is critical for maintaining home security during a heatwave.
 
 # Wyze Cam v4 Overheating: What You Need to Know in Summer 2026
 
-**Quick Answer:** The Wyze Cam v4 (wired, non-pan model) does not have a widespread, officially acknowledged overheating issue or recall as of June 2026. While any security camera can run warm or overheat under specific conditions like direct sunlight or poor ventilation, a separate product, the [Wyze Solar Cam Pan](/blog/how-to-check-wyze-camera-recall-status-2026) Security Camera (model WYZESCPWH), was subject to a recall in June 2026 due to an installation-related battery puncture and overheating risk.
+**Quick Answer:** The Wyze [Cam v4](https://quvii.com/blog/wyze-cam-v4-overheating-june-2026-heatwave) (wired, non-pan model) does not have a widespread, officially acknowledged overheating issue or recall as of June 2026. While any security camera can run warm or overheat under specific conditions like direct sunlight or poor ventilation, a separate product, the [Wyze Solar Cam Pan](/blog/how-to-check-wyze-camera-recall-status-2026) Security Camera (model WYZESCPWH), was subject to a recall in June 2026 due to an installation-related battery puncture and overheating risk.
 
 ## What it means
 
