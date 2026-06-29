@@ -151,7 +151,7 @@ Yes, if you are experiencing login issues with Eufy Security app version 4.8.0 o
 While the primary method of accessing Eufy cameras is through the mobile app, you can use the Eufy web portal at <a href="https://www.amazon.com/s?k=mysecurity.eufylife.com&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">mysecurity.eufylife.com</a> as a fallback. This allows you to view live feeds and recorded events directly from a web browser, bypassing mobile app-specific problems.
 
 ### Will updating the app delete my recorded footage?
-No, updating the Eufy app itself will not delete your recorded footage. If your footage is stored locally on a HomeBase, it remains on the HomeBase. If you have an optional cloud storage subscription, your footage is stored in the cloud. The app is merely the interface for accessing this data.
+No, updating the Eufy app itself will not delete your recorded footage. If your footage is stored locally on a HomeBase, it remains on the HomeBase. If you have an optional [cloud storage](https://quvii.com/blog/eufy-cloud-storage-pricing-changes-2026) subscription, your footage is stored in the cloud. The app is merely the interface for accessing this data.
 
 ### Is Eufy phasing out older cameras?
 Eufy is generally committed to supporting its hardware. However, as app technology evolves, older app versions may lose compatibility with backend services, as seen with version 4.8.0. While Eufy hasn't announced a phase-out of specific camera models, users of older devices might find newer app versions optimized for newer hardware, potentially affecting their user experience.

@@ -29,7 +29,7 @@ Choosing the right storage method for security footage determines whether a syst
 
 # How Home Security Cameras Store Footage: The Complete 2026 Guide
 
-**Quick Answer:** Security cameras store footage locally (SD cards, NVRs) or in the cloud via subscriptions. In 2026, hybrid systems like Eufy HomeBase 3 or Reolink Hubs are the gold standard, offering local privacy with cloud-like remote access.
+**Quick Answer:** Security cameras store footage locally (SD cards, NVRs) or in the cloud via subscriptions. In 2026, hybrid systems like [Eufy HomeBase](https://quvii.com/learn/eufy-homebase-storage-issues-june-2026-20260628) 3 or Reolink Hubs are the gold standard, offering local privacy with cloud-like remote access.
 
 ## What it means
 

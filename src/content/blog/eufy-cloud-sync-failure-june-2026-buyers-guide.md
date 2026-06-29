@@ -234,7 +234,7 @@ Local storage means video footage is saved directly on a device within your home
 Yes, Eufy cameras with local storage capabilities (like those recording to a HomeBase or an onboard SD card) are designed to continue recording locally even if your internet connection is lost. However, you will not be able to view live feeds remotely, receive notifications, or access cloud-backed-up footage until your internet connection is restored.
 
 ### Do Eufy cameras require a subscription?
-Eufy cameras do not require a mandatory subscription for basic functionality, including local recording and live viewing via the app when connected to your home network. However, Eufy offers optional cloud storage plans for off-site backup and extended features, which do incur a monthly fee.
+Eufy cameras do not require a mandatory subscription for basic functionality, including local recording and live viewing via the app when connected to your home network. However, Eufy offers optional [cloud storage](https://quvii.com/blog/eufy-cloud-storage-pricing-changes-2026) plans for off-site backup and extended features, which do incur a monthly fee.
 
 ### How does Eufy protect my privacy?
 Eufy's privacy policy, updated January 30, 2026, states that video footage is encrypted and stored locally on your HomeBase or camera. They emphasize that video data is generally not collected to their cloud or shared with third parties without your separate consent. However, they do utilize third-party cloud service providers like AWS for their cloud infrastructure and integrate with platforms like Amazon Alexa and Google Assistant if enabled.

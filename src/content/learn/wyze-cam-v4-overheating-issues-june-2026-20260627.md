@@ -129,7 +129,7 @@ High heat is the primary enemy of flash memory. If the camera is running hot, th
 Overheating doesn't just affect today's performance; it impacts the 3-year cost of the device. A camera that consistently runs at the edge of its thermal limit will have a shorter lifespan. Components like electrolytic capacitors and the image sensor's color filters degrade faster under heat.
 
 **3-Year TCO Breakdown (Estimated June 2026):**
-*   **Hardware (Wyze Cam v4):** Around $40 - $50
+*   **Hardware ([Wyze Cam v4](https://quvii.com/blog/wyze-cam-v4-overheating-june-2026-heatwave)):** Around $40 - $50
 *   **High-Endurance SD Card (Required for heat):** $15 - $20
 *   **Wyze Cam Plus (3 Years):** ~$60 (based on $1.99/mo or $19.99/yr tiers)
 *   **Replacement Cost:** If the camera fails at year 2 due to heat, the hardware cost doubles.
@@ -140,7 +140,7 @@ Overheating doesn't just affect today's performance; it impacts the 3-year cost 
 ![Common misconceptions](/img/wyze-cam-v4-overheating-issues-june-2026-20260627/inline-5.webp)
 
 
-As news of the Wyze Solar Cam Pan recall spread in mid-2026, several myths regarding the Wyze Cam v4 emerged.
+As news of the Wyze Solar Cam Pan recall spread in mid-2026, several myths regarding the Wyze [Cam v4](https://quvii.com/blog/wyze-cam-v4-overheating-june-2026-heatwave) emerged.
 
 ### "If it's warm, it's broken"
 It is normal for the Wyze Cam v4 to feel warm, especially near the lens and the rear of the unit. The plastic housing is designed to pull heat away from the internal chips. If the camera is functioning, recording, and accessible via the app, a "warm" sensation is simply evidence of the passive cooling system working. It only becomes "overheating" when performance fails.

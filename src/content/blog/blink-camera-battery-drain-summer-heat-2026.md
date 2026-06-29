@@ -156,7 +156,7 @@ This breakdown illustrates that while the initial camera price might seem low, r
 ## Frequently Asked Questions
 
 ### Do Blink cameras work in extreme heat?
-Blink cameras have an official operating temperature range, typically up to 113°F (45°C). While they can function within this range, sustained temperatures at the upper limit or direct sunlight exposure can lead to accelerated battery drain and potentially affect performance.
+Blink cameras have an official operating temperature range, typically up to 113°F (45°C). While they can function within this range, sustained temperatures at the upper limit or [direct sunlight](https://quvii.com/learn/google-nest-cam-battery-overheating-direct-sunlight) exposure can lead to accelerated battery drain and potentially affect performance.
 
 ### How can I stop my Blink camera from draining batteries fast in the summer?
 To prevent fast battery drain in summer heat, optimize your camera settings by reducing motion sensitivity, shortening clip length, and using activity zones. Ensure the camera is placed in a shaded location and consider using external power options like solar panels or a weather-resistant power adapter.

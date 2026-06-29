@@ -183,4 +183,4 @@ To perform a hard reset, press and hold the SYNC button on the camera for approx
 - eufy Trust Center: Privacy and Encryption Policies
 - Reddit: r/eufy Community Troubleshooting for HomeBase 3 — https://www.reddit.com/r/eufy/
 - RTINGS: eufyCam 3 (S330) Review and Technical Specs
-- FCC ID Filing: eufy HomeBase 3 (T8030) RF Exposure and Protocols — https://apps.fcc.gov/oetcf/eas/reports/GenericSearch.cfm (Search Grantee Code: 2AOKB)
+- FCC ID Filing: [eufy HomeBase](https://quvii.com/learn/eufy-homebase-storage-issues-june-2026-20260628) 3 (T8030) RF Exposure and Protocols — https://apps.fcc.gov/oetcf/eas/reports/GenericSearch.cfm (Search Grantee Code: 2AOKB)

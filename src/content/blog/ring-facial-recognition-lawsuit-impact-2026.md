@@ -159,7 +159,7 @@ This article addresses the pressing concerns surrounding Ring's facial recogniti
 Yes, in June 2026, a federal class-action lawsuit, `Sigwalt v. Amazon`, was filed in Seattle, specifically targeting Ring's "[Familiar Faces](https://quvii.com/blog/google-nest-cam-familiar-faces-june-2026-update)" feature. This lawsuit alleges that Ring cameras scan and store biometric data without consent.
 
 ### Can I opt out of Ring's facial recognition?
-Yes, you can disable "Familiar Faces" within the Ring App. Navigate to the "Pro Features" section in your device settings and toggle off the "Familiar Faces" option. You should also review "Shared Users" to ensure only trusted individuals have access to your account.
+Yes, you can disable "[Familiar Faces](https://quvii.com/blog/google-nest-cam-familiar-faces-june-2026-update)" within the Ring App. Navigate to the "Pro Features" section in your device settings and toggle off the "Familiar Faces" option. You should also review "Shared Users" to ensure only trusted individuals have access to your account.
 
 ### Is Ring's "Familiar Faces" feature available everywhere in the US?
 No, the "Familiar Faces" feature is currently disabled in Illinois, Texas, and Portland, Oregon, due to strict biometric privacy laws in those regions. Availability may also be impacted by the outcome of ongoing legal challenges.

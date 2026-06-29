@@ -68,7 +68,7 @@ For example, a modern 4K sensor produces roughly 30% more heat during active pro
 For those shopping for cameras in 2026, heat resistance is no longer a "nice-to-have" specification; it is a core reliability metric. If a camera is offline due to heat, it provides zero security, rendering your investment useless during the brightest, most active parts of the day.
 
 ### Hardware Longevity and Sensor Degradation
-Heat is the primary enemy of electronics, specifically CMOS sensors and Lithium-ion batteries. Manufacturers design these devices with a "Solar Loading" factor in mind—the understanding that a camera in direct sunlight can be 30°F to 50°F hotter than the surrounding air. On a 95°F day, a black-cased camera can easily reach internal temperatures of 145°F. 
+Heat is the primary enemy of electronics, specifically CMOS sensors and Lithium-ion batteries. Manufacturers design these devices with a "Solar Loading" factor in mind—the understanding that a camera in [direct sunlight](https://quvii.com/learn/google-nest-cam-battery-overheating-direct-sunlight) can be 30°F to 50°F hotter than the surrounding air. On a 95°F day, a black-cased camera can easily reach internal temperatures of 145°F. 
 
 Sustained exposure to these temperatures leads to "dark current" increases, which permanently degrades the sensor's ability to capture clear images in low light. Furthermore, Lithium-ion batteries used in wireless models face permanent capacity loss if they are frequently operated or charged in environments exceeding 140°F.
 

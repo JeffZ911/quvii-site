@@ -143,7 +143,7 @@ Because of the "Silent Disarm" bug, the shield icon on your dashboard may be mis
 ### Frequently Asked Questions
 
 **Why did my Arlo system disarm itself after the update?**
-The 6.26.0 update renamed the internal "Modes" used to control your cameras. If the app failed to map your old "Armed" setting to the new "Arm Away" routine, the system defaulted to a safe "Standby" mode to prevent accidental recordings, effectively disarming your security.
+The 6.26.[0 update](https://quvii.com/blog/eufy-security-app-4-8-0-login-issues-fix) renamed the internal "Modes" used to control your cameras. If the app failed to map your old "Armed" setting to the new "Arm Away" routine, the system defaulted to a safe "Standby" mode to prevent accidental recordings, effectively disarming your security.
 
 **How do I stop my Arlo batteries from draining so fast?**
 Rapid drain is usually caused by the camera constantly searching for a Wi-Fi signal. Ensure your SmartHub or router hasn't moved. If the drain started with the 6.26.0 update, try removing the camera from the app and re-syncing it to force a fresh handshake with the cloud servers.
