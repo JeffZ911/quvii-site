@@ -112,7 +112,7 @@ Navigating the landscape of home security cameras requires careful consideration
 | **Resolution**          | 4K (3840x2160)         | 1080p HD                  | 2K (2560x1440)      |
 | **IR Night Vision Range** | Up to 26 ft (8m)       | Up to 30 ft (9m)          | Up to 33 ft (10m)   |
 | **Local Storage**       | HomeBase 3 (16GB eMMC, expandable to 16TB HDD/SSD) | None (Subscription for recorded video) | MicroSD card (up to 128GB) |
-| **Cloud Storage**       | Optional (Subscription required) | Mandatory for recorded video (Subscription) | Optional (Subscription required) |
+| **[Cloud Storage](https://quvii.com/blog/eufy-cloud-storage-pricing-changes-2026)**       | Optional (Subscription required) | Mandatory for recorded video (Subscription) | Optional (Subscription required) |
 | **Subscription Cost/mo (Basic)** | Around $2.99/camera      | Around $4.99/camera       | Around $4.99/camera |
 | **Power Type**          | Battery (rechargeable) | Battery (rechargeable)    | Battery (rechargeable, solar option) |
 

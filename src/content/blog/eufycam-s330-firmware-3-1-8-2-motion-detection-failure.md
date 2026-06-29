@@ -139,7 +139,7 @@ While Eufy remains one of the most cost-effective "premium" options, that value 
 ## Frequently Asked Questions
 
 ### Can I roll back my EufyCam firmware to a previous version?
-Standard users cannot manually roll back firmware through the Eufy Security app. If a specific version like 3.1.8.2 is causing issues, you must contact Eufy customer support and request that they "push" a previous stable version or a newer beta fix to your specific device's Serial Number.
+Standard users cannot manually roll back firmware through the [Eufy Security app](https://quvii.com/blog/eufy-security-app-4-8-0-login-issues-fix). If a specific version like 3.1.8.2 is causing issues, you must contact Eufy customer support and request that they "push" a previous stable version or a newer beta fix to your specific device's Serial Number.
 
 ### Why does my EufyCam S330 miss motion even at high sensitivity?
 This is often due to the "cool-down" period or the PIR sensor's angle. PIR sensors detect changes in heat; if an object moves directly toward the camera, the heat signature changes slowly, often failing to trigger the camera. Ensure the camera is mounted so that people walk across the field of view rather than straight at it.

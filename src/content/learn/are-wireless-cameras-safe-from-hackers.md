@@ -137,7 +137,7 @@ Most "hacks" are actually Account Takeovers. If you use the same password for yo
 
 ### The Local Storage Myth
 
-A common belief is that "local storage is 100% hack-proof." This is false. If your Reolink NVR or Eufy HomeBase is connected to the internet so you can view it on your phone, it is still an IP-based target. While it doesn't store footage on a corporate server, the "bridge" that allows you to see the feed from your office is a potential entry point for hackers if the firmware is not updated.
+A common belief is that "local storage is 100% hack-proof." This is false. If your Reolink NVR or [Eufy HomeBase](https://quvii.com/learn/eufy-homebase-storage-issues-june-2026-20260628) is connected to the internet so you can view it on your phone, it is still an IP-based target. While it doesn't store footage on a corporate server, the "bridge" that allows you to see the feed from your office is a potential entry point for hackers if the firmware is not updated.
 
 ### Physical vs. Digital Security
 

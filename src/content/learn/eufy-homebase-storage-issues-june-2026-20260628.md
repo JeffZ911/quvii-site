@@ -47,7 +47,7 @@ The term "storage issues" in the context of the Eufy ecosystem has evolved from 
 For a typical user, a storage issue might mean a "Disk Full" notification. However, the current landscape involves more technical hurdles:
 *   **Storage Non-Recognition:** The HomeBase 3 (S380) fails to detect an installed 2.5-inch SATA drive, defaulting to the limited internal 16GB eMMC or stopping recording altogether.
 *   **Database Corruption:** Following firmware updates, the index of recorded events may become inaccessible, leading to the "HomeBase is busy" error when users attempt to view historical footage.
-*   **Connectivity Loops:** Storage detection errors are frequently triggering system reboots, causing the HomeBase to appear "Offline" in the Eufy Security app.
+*   **Connectivity Loops:** Storage detection errors are frequently triggering system reboots, causing the HomeBase to appear "Offline" in the Eufy [Security app](https://quvii.com/blog/eufy-security-app-4-8-0-login-issues-fix).
 
 ### Impact on Home Security and Data Integrity
 When storage fails, the security system is effectively blinded. Because Eufy cameras (particularly the eufyCam 3 and 3C series) rely on the HomeBase to process and store video, a storage malfunction means no clips are saved during a motion event. Furthermore, for users utilizing 24/7 continuous recording on wired models like the E330 Professional, a dropped drive results in permanent gaps in surveillance history. This compromises the "local-first" privacy promise, as users find themselves unable to access the very data they bought the system to protect.

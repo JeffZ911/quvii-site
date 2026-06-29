@@ -46,7 +46,7 @@ In the context of consumer electronics, "overheating" occurs when a device's int
 According to the official <a href="https://www.amazon.com/s?k=Wyze+Cam+v4+technical+specifications&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Wyze [Cam v4](https://quvii.com/blog/wyze-cam-v4-overheating-june-2026-heatwave) technical specifications</a>, the device is rated for an operating temperature range of -4°F to 122°F (-20°C to 50°C). This range is standard for IP65-rated outdoor cameras, but it is important to note that "ambient temperature" (the air temperature) is not the same as the "internal temperature." A camera mounted in 100°F weather that is also absorbing direct solar radiation can easily see internal temperatures climb past the 122°F limit.
 
 ### Clarifying the June 2026 Recall
-It is vital for consumers to distinguish between the standard Wyze Cam v4 and the recent safety notices issued by the manufacturer. As of June 2026, there is no recall for the Wyze Cam v4. The confusion often stems from the **Wyze Solar Cam Pan (model WYZESCPWH)**, which was recalled following reports of the internal lithium-ion battery being punctured during certain installation scenarios. Because the v4 is a wired camera without a large internal battery, it does not share the specific fire hazard profile associated with the Solar Cam Pan recall.
+It is vital for consumers to distinguish between the standard [Wyze Cam v4](https://quvii.com/blog/wyze-cam-v4-overheating-june-2026-heatwave) and the recent safety notices issued by the manufacturer. As of June 2026, there is no recall for the Wyze Cam v4. The confusion often stems from the **Wyze Solar Cam Pan (model WYZESCPWH)**, which was recalled following reports of the internal lithium-ion battery being punctured during certain installation scenarios. Because the v4 is a wired camera without a large internal battery, it does not share the specific fire hazard profile associated with the Solar Cam Pan recall.
 
 ### Wyze Cam v4 Core Specifications vs. Operating Limits
 
@@ -64,7 +64,7 @@ It is vital for consumers to distinguish between the standard Wyze Cam v4 and th
 ![Why it exists](/img/wyze-cam-v4-overheating-issues-june-2026-20260627/inline-2.webp)
 
 
-Electronic heat generation is an unavoidable byproduct of processing power. In the Wyze Cam v4, several factors converge to create thermal stress, particularly during the summer months.
+Electronic heat generation is an unavoidable byproduct of processing power. In the Wyze [Cam v4](https://quvii.com/blog/wyze-cam-v4-overheating-june-2026-heatwave), several factors converge to create thermal stress, particularly during the summer months.
 
 ### Environmental Factors
 The most common cause of overheating is environmental exposure. While the v4 is designed for outdoor use, its plastic chassis acts as an insulator. If the camera is mounted on a south-facing wall with no shade, the dark lens face and housing absorb solar energy. In many regions of the US, a 100°F day can result in surface temperatures on dark plastics exceeding 140°F, which is well beyond the [v4's rated 122°F maximum](https://support.wyze.com/hc/en-us/articles/23303102377499-Wyze-Cam-v4-Tech-Specs).

@@ -109,7 +109,7 @@ If you are considering the Eufy FamiLock E40, your next steps should focus on co
 ### Evaluate Your Scenarios
 *   **The "Hands-Full" Homeowner**: If you frequently arrive home with groceries or children, the [facial recognition](https://quvii.com/blog/ring-facial-recognition-lawsuit-impact-2026) feature of the E40 provides the most utility. Prioritize this model over the E35 (palm vein) or E32.
 *   **The Privacy-Conscious Renter**: If you are in a rental that allows lock replacements, ensure you keep the original deadbolt. The E40 is a good choice because it doesn't require a permanent cloud account to function, though its physical size may be more conspicuous to landlords.
-*   **The Matter Enthusiast**: If your home runs entirely on Apple Home or Home Assistant via Matter, the E40 is one of the few high-end video locks that supports the standard, though you should check for the latest firmware updates to ensure full compatibility with your specific hub homekitnews.com.
+*   **The Matter Enthusiast**: If your home runs entirely on [Apple Home](https://quvii.com/learn/best-smart-locks-apple-home-key-2026) or Home Assistant via Matter, the E40 is one of the few high-end video locks that supports the standard, though you should check for the latest firmware updates to ensure full compatibility with your specific hub homekitnews.com.
 
 ### Decision Framework: Choosing the Right FamiLock
 | If you want... | Choose... | Why? |

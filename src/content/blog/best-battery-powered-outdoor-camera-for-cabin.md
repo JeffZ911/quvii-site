@@ -111,7 +111,7 @@ If your cabin is in a region like Minnesota or the Canadian Rockies, standard ba
 
 Assess your connectivity: If you have Starlink or stable Wi-Fi, prioritize the Reolink Altas PT Ultra (around $200 range) for its 360-degree coverage and 24/7 battery recording. The ability to "pan and tilt" the camera remotely is a massive advantage for cabins, as it allows you to check on different areas of the property (e.g., the woodpile, the boat dock, and the front door) with a single device.
 
-Go solar-first: For cabins only visited monthly, ensure you choose a model with a detachable 6W or 12W solar panel to maintain 100% charge through the off-season. Integrated panels, like those on some Eufy models, are convenient but limit your mounting options. A detachable panel allows you to mount the camera under a shaded eave while placing the panel 10 feet away in direct sunlight.
+Go solar-first: For cabins only visited monthly, ensure you choose a model with a detachable 6W or 12W solar panel to maintain 100% charge through the off-season. Integrated panels, like those on some Eufy models, are convenient but limit your mounting options. A detachable panel allows you to mount the camera under a shaded eave while placing the panel 10 feet away in [direct sunlight](https://quvii.com/learn/google-nest-cam-battery-overheating-direct-sunlight).
 
 Audit your storage: Move away from cloud-only brands. Look for cameras with high-endurance microSD support (up to 512GB) or local hub integration. High-endurance cards (specifically marketed for dashcams and security cameras) are essential for the continuous recording features found in 2026 models, as standard "Ultra" cards will burn out their write-cycles within months of 24/7 use.
 

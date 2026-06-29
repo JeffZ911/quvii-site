@@ -98,7 +98,7 @@ It is crucial for buyers to review the privacy policies of camera brands before 
 ### **Decision Framework: Choosing the Right Camera for Your Vacant Home**
 
 *   **If you're a renter with limited modification options:** Prioritize wireless, battery-powered cameras with local storage (microSD) that are easy to install and remove. Look for models with strong Wi-Fi connectivity if available, or consider cellular cameras if Wi-Fi is not permitted or reliable.
-*   **If you're a homeowner with reliable Wi-Fi:** Focus on systems with a central hub offering expandable local storage (e.g., eufy HomeBase) and AI-powered cameras with [solar charging](https://quvii.com/learn/eufycam-s3-pro-solar-charging-efficiency-tips) for minimal maintenance. High-resolution cameras with wide fields of view are beneficial.
+*   **If you're a homeowner with reliable Wi-Fi:** Focus on systems with a central hub offering expandable local storage (e.g., [eufy HomeBase](https://quvii.com/learn/eufy-homebase-storage-issues-june-2026-20260628)) and AI-powered cameras with [solar charging](https://quvii.com/learn/eufycam-s3-pro-solar-charging-efficiency-tips) for minimal maintenance. High-resolution cameras with wide fields of view are beneficial.
 *   **If you're a homeowner without reliable Wi-Fi or have a remote property:** Cellular-enabled cameras (e.g., Reolink Go series) are essential. Factor in the ongoing data plan cost. Ensure the camera has robust battery life, ideally with solar panel compatibility.
 *   **If you're a budget-conscious buyer prioritizing privacy:** Seek out cameras with built-in microSD card slots and strong encryption. Be wary of systems that heavily rely on cloud services, as these often come with hidden subscription costs for full functionality.
 

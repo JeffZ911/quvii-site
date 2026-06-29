@@ -182,7 +182,7 @@ Eufy cameras that are connected to a HomeBase (like HomeBase 2 or 3) can continu
 
 ### How do I manually update my Eufy camera's firmware?
 
-Normally, Eufy devices update their firmware automatically when they have network access. If an automatic update fails, you can manually check for and initiate an update through the Eufy Security app. Navigate to the device's settings (Device Tab > ... icon > Gear icon > Settings > General > About Device) and look for an option to "Check for firmware update."
+Normally, Eufy devices update their firmware automatically when they have network access. If an automatic update fails, you can manually check for and initiate an update through the [Eufy Security app](https://quvii.com/blog/eufy-security-app-4-8-0-login-issues-fix). Navigate to the device's settings (Device Tab > ... icon > Gear icon > Settings > General > About Device) and look for an option to "Check for firmware update."
 
 ### Does Eufy share my video footage with third parties or police?
 

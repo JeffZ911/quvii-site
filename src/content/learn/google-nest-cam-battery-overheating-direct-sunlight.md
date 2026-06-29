@@ -64,7 +64,7 @@ Furthermore, a significant development occurred in late 2024. Google initiated a
 ![Why it exists](/img/google-nest-cam-battery-overheating-direct-sunlight/inline-2.webp)
 
 
-The vulnerability of the Google Nest Cam (battery) to heat is not a singular flaw but a combination of chemical limitations, physics, and industrial design choices.
+The vulnerability of the [Google Nest Cam](https://quvii.com/blog/google-nest-cam-familiar-faces-june-2026-update) (battery) to heat is not a singular flaw but a combination of chemical limitations, physics, and industrial design choices.
 
 ### Lithium-Ion Battery Vulnerability
 
@@ -98,7 +98,7 @@ To understand how the Nest Cam protects itself, we must look at the interplay be
 
 ### Internal Thermal Sensors and Firmware
 
-The Google Nest Cam (battery) is equipped with multiple thermistors—small sensors that change electrical resistance based on temperature. These are typically placed near the battery and the main System-on-a-Chip (SoC). The firmware (the camera's internal software) constantly polls these sensors. 
+The [Google Nest](https://quvii.com/blog/google-nest-cam-familiar-faces-june-2026-update) Cam (battery) is equipped with multiple thermistors—small sensors that change electrical resistance based on temperature. These are typically placed near the battery and the main System-on-a-Chip (SoC). The firmware (the camera's internal software) constantly polls these sensors. 
 
 When the firmware detects that the SoC or battery is approaching the 104°F (40°C) limit, it begins a multi-stage "thermal mitigation" strategy:
 1.  **Stage 1 (Warning):** The camera sends a signal to the Google Home app to warn the user.

@@ -97,7 +97,7 @@ Despite the "local-first" branding, the 2026 policy clarifies three specific ins
 The 2026 policy update has direct consequences for how you use and pay for your security system.
 
 ### Empowering User Control
-The primary implication is that you own your data. If you decide to delete a clip, it is deleted from the local drive immediately. There is no "trash bin" on a corporate server that retains your deleted moments for 30 days. Furthermore, the inclusion of "Advanced Encryption" as a toggle in the Eufy Security app allows users to prioritize security over convenience. Enabling this ensures that even Eufy’s web portal cannot view the stream, though it may limit compatibility with some third-party smart displays.
+The primary implication is that you own your data. If you decide to delete a clip, it is deleted from the local drive immediately. There is no "trash bin" on a corporate server that retains your deleted moments for 30 days. Furthermore, the inclusion of "Advanced Encryption" as a toggle in the Eufy [Security app](https://quvii.com/blog/eufy-security-app-4-8-0-login-issues-fix) allows users to prioritize security over convenience. Enabling this ensures that even Eufy’s web portal cannot view the stream, though it may limit compatibility with some third-party smart displays.
 
 ### Cost Savings and No Subscriptions
 One of the most significant real-world benefits is the Total Cost of Ownership (TCO). Because the 2026 policy supports full functionality—including AI detection and high-resolution recording—without a cloud plan, the long-term savings are substantial compared to the industry standard.

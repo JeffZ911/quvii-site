@@ -73,7 +73,7 @@ For prospective buyers, the 6.26.0 debacle serves as a case study in the risks o
 Arlo does not currently offer a way to "opt-out" of app updates if you wish to maintain remote access. This means that even a stable, working system can be compromised by a buggy software release beyond the user's control. This dependency is a significant differentiator when comparing Arlo to brands like <a href="https://www.amazon.com/s?k=Reolink&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Reolink</a> or Ubiquiti, which allow users to freeze firmware versions or manage updates locally.
 
 ### Evaluating Arlo vs. Local-Storage Alternatives
-If you are currently shopping for a system, the 6.26.0 issues highlight the importance of the SmartHub. While Arlo markets many cameras as "Direct to Wi-Fi," those paired with a SmartHub (VMB5000 or VMB4000) generally recovered faster from the 6.26.0 update because the Hub acts as a buffer for connectivity. However, even with a Hub, the "Silent Disarm" bug persisted because the arming logic resides in the cloud, not the local hardware.
+If you are currently shopping for a system, the 6.26.0 issues highlight the importance of the SmartHub. While Arlo markets many cameras as "Direct to Wi-Fi," those paired with a SmartHub (VMB5000 or VMB4000) generally recovered faster from the 6.26.[0 update](https://quvii.com/blog/eufy-security-app-4-8-0-login-issues-fix) because the Hub acts as a buffer for connectivity. However, even with a Hub, the "Silent Disarm" bug persisted because the arming logic resides in the cloud, not the local hardware.
 
 **Decision Framework: Is Arlo Right for You?**
 

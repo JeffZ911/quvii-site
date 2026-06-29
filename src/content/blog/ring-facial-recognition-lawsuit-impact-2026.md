@@ -113,7 +113,7 @@ Recent 2026 firmware updates for Ring devices have introduced mandatory "Pro Fea
 
 ### How Ring Handles Your Biometric Data
 
-Ring's official policy states that it handles biometric data with specific retention periods. The company claims to delete "unrecognized" face data after 30 days and "recognized" data (faces you have tagged as "Familiar Faces") after 180 days. However, the ongoing `Sigwalt v. Amazon` lawsuit disputes these claims, alleging that Ring's actual data retention and usage practices may differ or are not adequately transparent. The lawsuit seeks to clarify and potentially alter these policies, emphasizing the sensitive nature of biometric information and the need for robust protections.
+Ring's official policy states that it handles biometric data with specific retention periods. The company claims to delete "unrecognized" face data after 30 days and "recognized" data (faces you have tagged as "[Familiar Faces](https://quvii.com/blog/google-nest-cam-familiar-faces-june-2026-update)") after 180 days. However, the ongoing `Sigwalt v. Amazon` lawsuit disputes these claims, alleging that Ring's actual data retention and usage practices may differ or are not adequately transparent. The lawsuit seeks to clarify and potentially alter these policies, emphasizing the sensitive nature of biometric information and the need for robust protections.
 
 ### Will Your Camera Lose Features?
 

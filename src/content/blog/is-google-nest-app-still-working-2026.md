@@ -71,7 +71,7 @@ The most significant change in 2026 is the introduction of Gemini 3.1 into the G
 As noted by [RTINGS in their recent ecosystem review](https://www.rtings.com), these AI features are not processed locally on the camera; they require cloud-side processing, meaning that without a subscription, your high-end Nest Cam IQ is reduced to basic [motion alerts](https://quvii.com/learn/nest-cam-battery-false-motion-alerts-shadows-fixes) and a [live view](https://quvii.com/learn/tapo-camera-live-view-streaming-failure-fix-20260620).
 
 ### Matter Compatibility: The New Standard
-The release of the Nest Learning Thermostat Gen 4 signaled Google's full commitment to Matter, the universal smart home standard. Unlike legacy Nest products that used the proprietary "Weave" protocol, Matter-certified devices can be controlled natively by Apple Home, Amazon Alexa, and Samsung SmartThings without a bridge. If you are buying new in 2026, prioritizing Matter-certified hardware is essential for future-proofing your home against further app sunsets.
+The release of the Nest Learning Thermostat Gen 4 signaled Google's full commitment to Matter, the universal smart home standard. Unlike legacy Nest products that used the proprietary "Weave" protocol, Matter-certified devices can be controlled natively by [Apple Home](https://quvii.com/learn/best-smart-locks-apple-home-key-2026), Amazon Alexa, and Samsung SmartThings without a bridge. If you are buying new in 2026, prioritizing Matter-certified hardware is essential for future-proofing your home against further app sunsets.
 
 ### Total Cost of Ownership (TCO) — 3-Year Projection
 When buying into the Google ecosystem in 2026, the hardware price is only about 40-50% of the three-year cost.
