@@ -93,7 +93,7 @@ Existing owners have reported that refining "Activity Zones" is another common f
 ### Engaging with Eufy customer support
 The experience of contacting support can be varied. According to community consensus, Eufy support typically requests that users:
 *   Provide the camera's Serial Number (SN).
-*   Upload "App Logs" via the Eufy Security app.
+*   Upload "App Logs" via the [Eufy Security app](https://quvii.com/blog/eufy-security-app-4-8-0-login-issues-fix).
 *   Perform a "signal test" to ensure the HomeBase 3 connection is stable.
 
 If the issue is confirmed to be firmware-related, support may "push" a specific beta firmware to the user's account to resolve the bug before it is released to the general public.
@@ -112,7 +112,7 @@ Until a stable firmware patch is widely available, some owners have found succes
 If you are experiencing [motion detection](https://quvii.com/learn/reolink-camera-motion-detection-false-alerts-fix) failures on your eufyCam S330, follow this prioritized checklist to restore your home's security.
 
 ### Immediate troubleshooting steps for owners
-1.  **Force a Firmware Check:** Open the Eufy Security App > Devices > S330 > Settings > General > About > Check for firmware update. If a version newer than 3.1.8.2 is available, install it immediately.
+1.  **Force a Firmware Check:** Open the Eufy [Security App](https://quvii.com/blog/eufy-security-app-4-8-0-login-issues-fix) > Devices > S330 > Settings > General > About > Check for firmware update. If a version newer than 3.1.8.2 is available, install it immediately.
 2.  **Verify Detection Settings:** Ensure "[Motion Detection](https://quvii.com/learn/reolink-camera-motion-detection-false-alerts-fix)" is toggled ON. Experiment with "Optimal Surveillance" mode, which extends clip length and may help capture motion that is being cut off prematurely.
 3.  **The "Hard Reset":** If the camera is completely unresponsive to motion, remove it from the app, press the "Sync" button five times rapidly (or follow the specific model's reset prompt), and re-add it to the HomeBase. This clears the local cache and can often resolve post-update glitches.
 

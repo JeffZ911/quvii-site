@@ -30,7 +30,7 @@ When the mercury rises and the sun beats down on your home's exterior, your secu
 
 # Google Nest Cam (Battery) Overheating in Direct Sunlight: What You Need to Know
 
-**Quick Answer:** The Google Nest Cam (battery) can overheat in direct sunlight, especially models manufactured between 2021-2023, due to its lithium-ion battery and thermal design. This can lead to reduced performance, charging issues, or temporary shutdown when temperatures exceed its 104°F (40°C) operating limit.
+**Quick Answer:** The [Google Nest Cam](https://quvii.com/blog/google-nest-cam-familiar-faces-june-2026-update) (battery) can overheat in direct sunlight, especially models manufactured between 2021-2023, due to its lithium-ion battery and thermal design. This can lead to reduced performance, charging issues, or temporary shutdown when temperatures exceed its 104°F (40°C) operating limit.
 
 ## What it means
 
@@ -40,7 +40,7 @@ When the mercury rises and the sun beats down on your home's exterior, your secu
 *Related: [Eufy HomeBase Storage Issues in June 2026: What You Need to Know](/learn/eufy-homebase-storage-issues-june-2026-20260628) · [Ring Battery Doorbell Plus Overheating: Causes, Fixes & What June 2026](/learn/ring-battery-doorbell-plus-overheating-june-2026) · [Ring Battery Doorbell Plus Firmware Updates: What to Know in June 2026](/learn/ring-battery-doorbell-plus-firmware-update-june-2026)*
 
 
-When a Google Nest Cam (battery) overheats, it is not merely getting "warm to the touch"; it is entering a state of thermal distress that triggers a series of automated self-preservation protocols. These protocols are managed by the device's firmware to prevent permanent hardware failure or safety risks.
+When a [Google Nest](https://quvii.com/blog/google-nest-cam-familiar-faces-june-2026-update) Cam (battery) overheats, it is not merely getting "warm to the touch"; it is entering a state of thermal distress that triggers a series of automated self-preservation protocols. These protocols are managed by the device's firmware to prevent permanent hardware failure or safety risks.
 
 ### Identifying Overheating Symptoms
 

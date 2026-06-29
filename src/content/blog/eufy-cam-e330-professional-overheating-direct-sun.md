@@ -155,7 +155,7 @@ If your camera displays the "Blinking Red LED" and does not recover after the su
 No. The E330 Professional requires the HomeBase 3 (S380) to function, especially for its core features like 24/7 recording and BionicMind AI. While it can connect to your Wi-Fi via Multi-Bridge, the HomeBase 3 acts as the central hub and storage controller.
 
 ### Does the E330 have a fan inside?
-No. Like most consumer-grade outdoor cameras, the E330 uses passive cooling. It relies on internal heat sinks and its outer shell to dissipate heat. This makes it silent and more weather-resistant but more susceptible to overheating in direct sunlight.
+No. Like most consumer-grade outdoor cameras, the E330 uses passive cooling. It relies on internal heat sinks and its outer shell to dissipate heat. This makes it silent and more weather-resistant but more susceptible to [overheating in direct](https://quvii.com/learn/google-nest-cam-battery-overheating-direct-sunlight) sunlight.
 
 ### Will switching to 1080p stop the overheating?
 Lowering the resolution from 4K to 1080p reduces the processing load on the SoC, which can lower internal temperatures by a few degrees. If you are experiencing frequent shutdowns in the summer, this is a viable temporary fix until you can provide physical shade for the unit.

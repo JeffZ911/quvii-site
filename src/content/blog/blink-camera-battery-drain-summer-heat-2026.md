@@ -26,7 +26,7 @@ Summer heat poses a significant challenge for many outdoor security cameras, and
 
 # Blink Camera Battery Drain in Summer Heat 2026: What Buyers Need to Know
 
-**Quick Answer:** [Blink Outdoor](https://quvii.com/learn/blink-outdoor-4-battery-drain-june-2026) cameras, including the Blink [Outdoor 4](https://quvii.com/learn/blink-outdoor-4-battery-drain-june-2026), can experience accelerated [battery drain](https://quvii.com/blog/eufy-security-camera-battery-drain-june-2026) in summer heat, especially when temperatures exceed their operating range of 113°F (45°C) or with direct sunlight exposure. This is exacerbated by frequent [motion detection](https://quvii.com/learn/reolink-camera-motion-detection-false-alerts-fix), extensive live view, and weak Wi-Fi signals, leading to significantly shorter battery life than the advertised "up to two years".
+**Quick Answer:** [Blink Outdoor](https://quvii.com/learn/blink-outdoor-4-battery-drain-june-2026) cameras, including the Blink [Outdoor 4](https://quvii.com/learn/blink-outdoor-4-battery-drain-june-2026), can experience accelerated [battery drain](https://quvii.com/blog/eufy-security-camera-battery-drain-june-2026) in summer heat, especially when temperatures exceed their operating range of 113°F (45°C) or with [direct sunlight](https://quvii.com/learn/google-nest-cam-battery-overheating-direct-sunlight) exposure. This is exacerbated by frequent [motion detection](https://quvii.com/learn/reolink-camera-motion-detection-false-alerts-fix), extensive live view, and weak Wi-Fi signals, leading to significantly shorter battery life than the advertised "up to two years".
 
 ## What happened
 
@@ -139,7 +139,7 @@ When considering a Blink Outdoor camera, it's important to look beyond the initi
     *   Cost per set (2 batteries): Around $5-$8.
     *   Annual cost: $10-$32 (2-4 replacements per year).
     *   3-Year Battery Cost: $30-$96.
-*   **Subscription Plan (Blink Basic, optional but recommended for features like Person Detection and cloud storage):**
+*   **Subscription Plan (Blink Basic, optional but recommended for features like Person Detection and [cloud storage](https://quvii.com/blog/eufy-cloud-storage-pricing-changes-2026)):**
     *   Around $3 per month.
     *   Annual cost: Around $36.
     *   3-Year Subscription Cost: Around $108.

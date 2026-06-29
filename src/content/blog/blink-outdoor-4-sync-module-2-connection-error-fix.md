@@ -205,7 +205,7 @@ As of 2026, common firmware versions for the Blink Sync Module 2 include 16.0.36
 No, you cannot use just any USB drive. The Blink Sync Module 2 requires a USB flash drive formatted to FAT32 and with a maximum capacity of 256GB. Using drives with other formats or larger capacities may result in local storage not working correctly or file corruption.
 
 ### Does Blink require a subscription for local storage?
-No, Blink does not require a subscription for local storage if you use a compatible USB drive with your Sync Module 2. The Sync Module 2 enables clips to be saved directly to the USB drive without any monthly fees. A subscription is only necessary for cloud storage and additional features.
+No, Blink does not require a subscription for local storage if you use a compatible USB drive with your Sync Module 2. The Sync Module 2 enables clips to be saved directly to the USB drive without any monthly fees. A subscription is only necessary for [cloud storage](https://quvii.com/blog/eufy-cloud-storage-pricing-changes-2026) and additional features.
 
 ### How do I know if my Blink camera's battery drain is normal or due to a connection error?
 Normal battery life for a Blink [Outdoor 4 camera](https://quvii.com/learn/blink-outdoor-4-battery-drain-june-2026) is up to two years with lithium AA batteries. If your batteries are depleting in weeks or a few months, especially when accompanied by connection errors like "Camera Busy" or "Sync Module Offline," it's likely due to the camera constantly searching for the Sync Module, which consumes excessive power.

@@ -109,7 +109,7 @@ Existing Ring camera owners are directly affected by the ongoing legal challenge
 
 ### Firmware Updates and Mandatory Consent
 
-Recent 2026 firmware updates for Ring devices have introduced mandatory "Pro Feature" consent screens within the Ring App. Users must now explicitly accept these new terms to continue utilizing advanced AI functionalities, including "Familiar Faces" and "Active Warnings." These prompts are designed to ensure users are aware of and agree to the data collection practices associated with these features. Failure to accept these terms may result in the disabling of these advanced AI capabilities on your device, even if you are subscribed to a plan that includes them. This shift represents a move towards greater transparency, albeit one driven by legal and regulatory pressures.
+Recent 2026 firmware updates for Ring devices have introduced mandatory "Pro Feature" consent screens within the Ring App. Users must now explicitly accept these new terms to continue utilizing advanced AI functionalities, including "[Familiar Faces](https://quvii.com/blog/google-nest-cam-familiar-faces-june-2026-update)" and "Active Warnings." These prompts are designed to ensure users are aware of and agree to the data collection practices associated with these features. Failure to accept these terms may result in the disabling of these advanced AI capabilities on your device, even if you are subscribed to a plan that includes them. This shift represents a move towards greater transparency, albeit one driven by legal and regulatory pressures.
 
 ### How Ring Handles Your Biometric Data
 

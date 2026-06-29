@@ -69,7 +69,7 @@ Wyze has built its reputation on high-spec hardware at an entry-level price poin
 Prospective buyers must decide if the $100-150 savings per camera is worth the risk of losing their security feed during a regional internet or cloud outage.
 
 ### Hardware Longevity and App Compatibility
-The June 2026 update has also highlighted a growing issue: "app-based obsolescence." The v3.15.0 update requires 64-bit architecture and modern operating systems (Android 10+ or iOS 15+). Users who use older tablets as dedicated security monitors have found their hardware suddenly incompatible. This means the "Total Cost of Ownership" (TCO) for a Wyze system may include the cost of upgrading your mobile devices every few years to maintain access to your cameras.
+The June 2026 update has also highlighted a growing issue: "app-based obsolescence." The v3.15.[0 update](https://quvii.com/blog/eufy-security-app-4-8-0-login-issues-fix) requires 64-bit architecture and modern operating systems (Android 10+ or iOS 15+). Users who use older tablets as dedicated security monitors have found their hardware suddenly incompatible. This means the "Total Cost of Ownership" (TCO) for a Wyze system may include the cost of upgrading your mobile devices every few years to maintain access to your cameras.
 
 ### Reliability Comparison: Cloud vs. Local
 | Feature | [Wyze Cam v4](https://quvii.com/blog/wyze-cam-v4-cloud-storage-subscription-changes-2026) (Cloud-Dependent) | Reolink Altas PT (Local-First) | Eufy S220 (Hybrid) |

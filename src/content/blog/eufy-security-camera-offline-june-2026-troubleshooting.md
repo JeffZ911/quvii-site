@@ -87,7 +87,7 @@ For existing Eufy camera owners, an offline device translates to an immediate lo
 
 ### Loss of Monitoring and Security Coverage
 
-When a camera goes offline, the Eufy Security app will display a warning, indicating that live video streams may not be viewable and event videos might have blank spots. If the HomeBase itself goes offline, all connected cameras lose their ability to record locally until the connection is restored, though battery-powered cameras may continue to function if charged. This means that during an outage, any events that occur in the camera's field of view may not be captured or accessible, leaving the property unprotected.
+When a camera goes offline, the [Eufy Security app](https://quvii.com/blog/eufy-security-app-4-8-0-login-issues-fix) will display a warning, indicating that live video streams may not be viewable and event videos might have blank spots. If the HomeBase itself goes offline, all connected cameras lose their ability to record locally until the connection is restored, though battery-powered cameras may continue to function if charged. This means that during an outage, any events that occur in the camera's field of view may not be captured or accessible, leaving the property unprotected.
 
 ### Time and Effort for Resolution
 
@@ -116,7 +116,7 @@ If your Eufy security camera has gone offline, there are several troubleshooting
     *   If applicable, restart your HomeBase by unplugging and plugging in its power adapter.
     *   Reboot your Wi-Fi router to clear any temporary network glitches and refresh the connection.
 3.  **Check Eufy App and Firmware:**
-    *   Ensure your Eufy Security app is updated to the latest version. You can uninstall and reinstall it to guarantee this.
+    *   Ensure your Eufy [Security app](https://quvii.com/blog/eufy-security-app-4-8-0-login-issues-fix) is updated to the latest version. You can uninstall and reinstall it to guarantee this.
     *   Check for any available firmware updates for your camera or HomeBase within the app (Device Settings > General > About Device > Check for firmware update). While updates can sometimes cause issues, they also frequently resolve existing connectivity bugs.
 4.  **Relocate or Re-add Camera:**
     *   If signal strength is weak (which you can check in the Eufy app under camera settings > General > WiFi Connection), try moving the camera closer to the HomeBase or router.

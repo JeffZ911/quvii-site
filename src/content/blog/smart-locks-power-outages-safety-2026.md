@@ -22,7 +22,7 @@ inline_image_sections:
   - "What to do now"
 ---
 
-A sudden power outage can plunge a home into darkness, but what does it mean for the smart locks guarding your doors? As smart home technology becomes increasingly integrated into our daily lives, understanding how these devices perform under duress, especially during a loss of power, is crucial for both prospective buyers and current owners.
+A sudden power outage can plunge a home into darkness, but what does it mean for the [smart locks](https://quvii.com/learn/best-smart-locks-apple-home-key-2026) guarding your doors? As smart home technology becomes increasingly integrated into our daily lives, understanding how these devices perform under duress, especially during a loss of power, is crucial for both prospective buyers and current owners.
 
 # Are Smart Locks Safe During Power Outages in 2026? What Buyers Need to Know
 
