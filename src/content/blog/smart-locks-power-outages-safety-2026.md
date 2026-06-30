@@ -105,7 +105,7 @@ When your home loses power and, consequently, internet access, the most immediat
 
 ### The Importance of Proactive Battery Maintenance
 
-Battery management is arguably the most critical aspect for existing smart lock owners to consider during a power outage. While most smart locks provide low-battery warnings weeks in advance, neglecting these alerts can lead to a complete lockout if an outage occurs when batteries are critically low. Regular battery checks and timely replacements are paramount. It's recommended to proactively replace batteries every 6-12 months, or more frequently for Wi-Fi direct models, rather than waiting for the low-battery notification. Using high-quality, non-rechargeable alkaline or lithium batteries (unless the manufacturer specifies rechargeable ones) is also advisable to ensure optimal performance and longevity.
+Battery management is arguably the most critical aspect for existing smart lock owners to consider during a power outage. While most [smart locks](https://quvii.com/learn/best-smart-locks-apple-home-key-2026) provide low-battery warnings weeks in advance, neglecting these alerts can lead to a complete lockout if an outage occurs when batteries are critically low. Regular battery checks and timely replacements are paramount. It's recommended to proactively replace batteries every 6-12 months, or more frequently for Wi-Fi direct models, rather than waiting for the low-battery notification. Using high-quality, non-rechargeable alkaline or lithium batteries (unless the manufacturer specifies rechargeable ones) is also advisable to ensure optimal performance and longevity.
 
 ### Troubleshooting Common Outage-Related Issues
 

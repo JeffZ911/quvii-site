@@ -92,7 +92,7 @@ The new platform is designed to be "solution-oriented," which in corporate terms
 
 ### Decision Framework: Choosing a Camera Based on Support
 *   **The "Set It and Forget It" User:** If you only plan to use the official app and don't care about historical data, the Google transition is a net positive due to the faster AI-driven response times on the new site.
-*   **The Power User / Smart Home Hobbyist:** If you use platforms like Home Assistant or rely on specific technical workarounds, the loss of the Nest forum is a major blow. You may want to prioritize brands like **Reolink** or **Ubiquiti**, which maintain deep, searchable technical archives.
+*   **The Power User / Smart Home Hobbyist:** If you use platforms like [Home Assistant](https://quvii.com/learn/eufy-security-motion-alerts-not-working-home-assistant) or rely on specific technical workarounds, the loss of the Nest forum is a major blow. You may want to prioritize brands like **Reolink** or **Ubiquiti**, which maintain deep, searchable technical archives.
 *   **The Legacy Hardware Owner:** If you are buying used or refurbished "Nest Cam IQ" or "Nest Hello" units, be aware that your primary source of troubleshooting is about to disappear. Ensure you archive manual setup guides now.
 
 ### Total Cost of Ownership (TCO) and the "Support Tax"

@@ -123,7 +123,7 @@ A failed firmware update can have immediate and long-lasting consequences for yo
 ### Long-Term Consequences
 
 *   **Security Vulnerabilities**: Skipping or failing to apply critical security patches leaves your [Google Nest Camera](https://quvii.com/blog/google-nest-camera-offline-june-2026-update) vulnerable to exploits. Attackers could potentially gain unauthorized access, disrupt functionality, or compromise your privacy.
-*   **Performance Degradation**: Older firmware might contain unaddressed bugs that lead to decreased performance, such as reduced video quality, inaccurate motion detection, or excessive [battery drain](https://quvii.com/blog/eufy-security-camera-battery-drain-june-2026).
+*   **Performance Degradation**: Older firmware might contain unaddressed bugs that lead to decreased performance, such as reduced video quality, inaccurate [motion detection](https://quvii.com/learn/ring-camera-motion-detection-not-streaming-fix-june-2026), or excessive [battery drain](https://quvii.com/blog/eufy-security-camera-battery-drain-june-2026).
 *   **Limited Support**: [Google Nest](https://quvii.com/blog/google-nest-camera-offline-june-2026-update) support may require your device to be on a recent firmware version for effective troubleshooting, potentially complicating assistance for persistent issues.
 
 ### Step-by-Step Troubleshooting Guide

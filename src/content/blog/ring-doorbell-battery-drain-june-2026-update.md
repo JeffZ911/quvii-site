@@ -126,7 +126,7 @@ To reclaim your [battery life](https://quvii.com/learn/blink-outdoor-4-battery-l
 
 ### Hardware Workarounds: Solar and Hardwiring
 If you want to keep the AI features enabled, you must move away from a purely battery-dependent setup.
-*   **Solar Power:** The **2026 Ring USB-C Solar Panel** (around $60) is designed specifically for the higher power draw of the Pro and Plus models. In areas with at least 3–4 hours of direct sunlight, this can keep the battery topped off indefinitely.
+*   **Solar Power:** The **2026 Ring USB-C Solar Panel** (around $60) is designed specifically for the higher power draw of the Pro and Plus models. In areas with at least 3–4 hours of [direct sunlight](https://quvii.com/learn/google-nest-cam-battery-overheating-direct-sunlight), this can keep the battery topped off indefinitely.
 *   **Hardwiring:** If possible, connect your "Battery" doorbell to existing doorbell transformer wires (8-24V AC). While the device will still run off the battery, the hardwire connection provides a "trickle charge" that offsets the daily drain.
 
 ### Decision Framework: Is Ring Still Right for You?

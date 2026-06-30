@@ -144,7 +144,7 @@ No, the Reolink Doorbell PoE does not require a subscription for its core functi
 The primary difference is the power and data connection. The PoE version uses a single Ethernet cable for both power and data, offering a very stable connection. The WiFi version connects to your home network wirelessly and typically requires a separate power source (e.g., existing doorbell wiring or a power adapter).
 
 ### How does Reolink handle user data privacy?
-Reolink emphasizes local storage options, meaning your video recordings can be kept entirely on a microSD card or NVR at your premises. For cloud services, Reolink states it uses AES-128 encryption for cloud storage and RSA-2048/HTTPS for data transmission, aiming to protect user data.
+Reolink emphasizes local storage options, meaning your video recordings can be kept entirely on a microSD card or NVR at your premises. For cloud services, Reolink states it uses AES-128 encryption for [cloud storage](https://quvii.com/blog/eufy-cloud-storage-pricing-changes-2026) and RSA-2048/HTTPS for data transmission, aiming to protect user data.
 
 ## Sources
 

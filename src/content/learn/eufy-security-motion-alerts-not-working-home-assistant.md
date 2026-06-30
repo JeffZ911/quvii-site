@@ -136,7 +136,7 @@ There are several persistent myths regarding how Eufy interacts with Home Assist
 
 ### RTSP vs. API Triggers
 
-A common misconception is that enabling RTSP (Real-Time Streaming Protocol) on a Eufy camera will provide motion detection to Home Assistant. This is false. RTSP is a video-only protocol. While Home Assistant can use the `generic_camera` platform to view an RTSP stream, that stream does not contain the metadata required to trigger a motion sensor. You still need the `eufy_security` integration and its cloud-push dependency to get the "Motion Detected" signal.
+A common misconception is that enabling RTSP (Real-Time Streaming Protocol) on a Eufy camera will provide [motion detection](https://quvii.com/learn/ring-camera-motion-detection-not-streaming-fix-june-2026) to Home Assistant. This is false. RTSP is a video-only protocol. While Home Assistant can use the `generic_camera` platform to view an RTSP stream, that stream does not contain the metadata required to trigger a motion sensor. You still need the `eufy_security` integration and its cloud-push dependency to get the "Motion Detected" signal.
 
 ### The 'Local-Only' Myth
 
