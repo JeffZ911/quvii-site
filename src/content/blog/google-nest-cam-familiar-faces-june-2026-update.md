@@ -50,7 +50,7 @@ Furthermore, this update integrates with Google’s broader "Gemini for Home" in
 ![Why it matters for buyers](/img/google-nest-cam-familiar-faces-june-2026-update/inline-2.webp)
 
 
-For those currently shopping for a security ecosystem, this update shifts the value proposition of the Google Nest Cam. While hardware specs like resolution and field of view remain stagnant, the software's ability to interpret a scene is becoming the primary differentiator.
+For those currently shopping for a security ecosystem, this update shifts the value proposition of the [Google Nest Cam](https://quvii.com/learn/google-nest-cam-battery-overheating-direct-sunlight). While hardware specs like resolution and field of view remain stagnant, the software's ability to interpret a scene is becoming the primary differentiator.
 
 ### Improved Recognition Accuracy
 The primary pain point for AI-driven cameras has always been the "false unknown" alert—where a family member is identified as a stranger because they were wearing a hat or looking down at a phone. By refreshing the library with the most recent data and using body-shape signals, Google is attempting to minimize these friction points. For a buyer, this means a more "quiet" system that only alerts you when someone truly unfamiliar is on the property.
@@ -78,7 +78,7 @@ Buyers should be acutely aware that these features rely on the processing of bio
 ![Impact on existing owners](/img/google-nest-cam-familiar-faces-june-2026-update/inline-3.webp)
 
 
-If you already own a <a href="https://www.amazon.com/s?k=Google+Nest+Cam&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Google Nest Cam</a>, the June 2026 update may change how you interact with your Google Home app daily.
+If you already own a <a href="https://www.amazon.com/s?k=Google+Nest+Cam&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">[Google Nest](https://quvii.com/learn/google-nest-cam-battery-overheating-direct-sunlight) Cam</a>, the June 2026 update may change how you interact with your Google Home app daily.
 
 ### Tier-Based Benefits
 The impact is bifurcated by your subscription status. If you are on the standard Nest Aware plan, you will see improved accuracy in facial recognition thanks to the new library management logic, but you will not see "Person identified by clothing" tags in your timeline. To access the full suite of "persistence" features, an upgrade to the Premium Advanced tier is required.

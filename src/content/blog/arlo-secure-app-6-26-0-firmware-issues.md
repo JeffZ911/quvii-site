@@ -146,7 +146,7 @@ Because of the "Silent Disarm" bug, the shield icon on your dashboard may be mis
 The 6.26.[0 update](https://quvii.com/blog/eufy-security-app-4-8-0-login-issues-fix) renamed the internal "Modes" used to control your cameras. If the app failed to map your old "Armed" setting to the new "Arm Away" routine, the system defaulted to a safe "Standby" mode to prevent accidental recordings, effectively disarming your security.
 
 **How do I stop my Arlo batteries from draining so fast?**
-Rapid drain is usually caused by the camera constantly searching for a Wi-Fi signal. Ensure your SmartHub or router hasn't moved. If the drain started with the 6.26.0 update, try removing the camera from the app and re-syncing it to force a fresh handshake with the cloud servers.
+Rapid drain is usually caused by the camera constantly searching for a Wi-Fi signal. Ensure your SmartHub or router hasn't moved. If the drain started with the 6.26.[0 update](https://quvii.com/blog/eufy-security-app-4-8-0-login-issues-fix), try removing the camera from the app and re-syncing it to force a fresh handshake with the cloud servers.
 
 **Can I use my Arlo cameras without the Secure App?**
 You can view a live stream via the web portal at my.arlo.com, but most management features require the app. For local-only control, you would need to use a third-party integration like HomeKit or Home Assistant, though these still rely on Arlo's cloud APIs to function.

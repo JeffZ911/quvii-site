@@ -143,10 +143,10 @@ Overheating doesn't just affect today's performance; it impacts the 3-year cost 
 As news of the Wyze Solar Cam Pan recall spread in mid-2026, several myths regarding the Wyze [Cam v4](https://quvii.com/blog/wyze-cam-v4-overheating-june-2026-heatwave) emerged.
 
 ### "If it's warm, it's broken"
-It is normal for the Wyze Cam v4 to feel warm, especially near the lens and the rear of the unit. The plastic housing is designed to pull heat away from the internal chips. If the camera is functioning, recording, and accessible via the app, a "warm" sensation is simply evidence of the passive cooling system working. It only becomes "overheating" when performance fails.
+It is normal for the [Wyze Cam v4](https://quvii.com/blog/wyze-cam-v4-overheating-june-2026-heatwave) to feel warm, especially near the lens and the rear of the unit. The plastic housing is designed to pull heat away from the internal chips. If the camera is functioning, recording, and accessible via the app, a "warm" sensation is simply evidence of the passive cooling system working. It only becomes "overheating" when performance fails.
 
 ### "All Wyze cameras have the same overheating problem"
-This is a common generalization found in community forums like r/Wyze. The June 2026 recall for the **Solar Cam Pan** was due to a specific physical design flaw involving the battery and the mounting screws. The Wyze Cam v4 is a fundamentally different architecture. While it can overheat due to environmental factors, it does not share the specific "fire hazard" defect of the Solar Pan model.
+This is a common generalization found in community forums like r/Wyze. The June 2026 recall for the **Solar Cam Pan** was due to a specific physical design flaw involving the battery and the mounting screws. The Wyze [Cam v4](https://quvii.com/blog/wyze-cam-v4-overheating-june-2026-heatwave) is a fundamentally different architecture. While it can overheat due to environmental factors, it does not share the specific "fire hazard" defect of the Solar Pan model.
 
 ### "Firmware can always fix heat issues"
 While Wyze frequently releases firmware updates to optimize performance (such as the June 2026 stability patch), firmware cannot override the laws of physics. If a camera is mounted in a glass-enclosed sunroom in Arizona, no amount of software optimization will keep it cool. Firmware can only manage *how* the camera reacts to the heat, not prevent the heat from entering.

@@ -42,7 +42,7 @@ Storage in the context of security cameras is the digital "filing cabinet" where
 
 1.  **Local Storage:** Data is saved directly onto hardware you own and control. This includes microSD cards inserted into the camera, a Network Video Recorder (NVR) in your home, or a Network Attached Storage (NAS) device. Local storage is generally a one-time purchase with no monthly fees.
 2.  **Cloud Storage:** Video is encrypted and transmitted over your internet connection to remote servers managed by the manufacturer (e.g., Ring, Arlo, or Nest). These servers are typically hosted on platforms like Amazon Web Services (AWS) or Microsoft Azure. Accessing this footage requires a monthly or annual subscription.
-3.  **Hybrid Storage:** This 2026 trend combines the two. Systems like the <a href="https://www.amazon.com/s?k=Eufy+HomeBase+3&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Eufy HomeBase 3</a> record high-resolution footage to a local drive while simultaneously sending low-resolution "rich notifications" or backup clips to the cloud. This ensures that even if the camera is stolen or the internet goes down, you have a record of the event.
+3.  **Hybrid Storage:** This 2026 trend combines the two. Systems like the <a href="https://www.amazon.com/s?k=Eufy+HomeBase+3&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">[Eufy HomeBase](https://quvii.com/learn/eufy-homebase-storage-issues-june-2026-20260628) 3</a> record high-resolution footage to a local drive while simultaneously sending low-resolution "rich notifications" or backup clips to the cloud. This ensures that even if the camera is stolen or the internet goes down, you have a record of the event.
 
 ### Edge Storage: Why the Camera Itself is Getting Smarter
 

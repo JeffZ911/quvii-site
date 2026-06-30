@@ -79,13 +79,13 @@ To minimize conflict, buyers are shifting toward "discreet-first" hardware. Came
 | Model | Resolution | Storage Type | 2026 Sub Cost (Year) | Key HOA Benefit |
 | :--- | :--- | :--- | :--- | :--- |
 | **eufy Indoor Cam C120** | 2K | Local (microSD) | $0 (Optional Cloud) | Compact; no recurring fee. |
-| **Wyze Cam v4** | 2.5K | Local + Cloud | around $40 | Official window mount hides LEDs. |
+| **[Wyze Cam v4](https://quvii.com/blog/wyze-cam-v4-overheating-june-2026-heatwave)** | 2.5K | Local + Cloud | around $40 | Official window mount hides LEDs. |
 | **Reolink E1 Pro** | 4MP | Local (microSD) | $0 | Pan/Tilt allows "stowing" the lens. |
 | **Ring Indoor Cam (2nd Gen)** | 1080p | Cloud Only | around $50 | Physical privacy shutter for board proof. |
 
 **Decision Framework: Choosing Your Setup**
 *   **If you are a Renter in an HOA:** Prioritize non-permanent mounts. Use the **Wyze Window Mount** which adheres to the glass and prevents interior light reflection (glare), making the camera nearly invisible from the street.
-*   **If you have a strict HOA Board:** Prioritize cameras with **Privacy Masking**. Features in the <a href="https://www.amazon.com/s?k=eufy+Security+app&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">eufy Security app</a> or <a href="https://www.amazon.com/s?k=Reolink+app&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Reolink app</a> allow you to black out specific areas of the video feed (like a neighbor’s window). Showing this to a board can often settle privacy disputes.
+*   **If you have a strict HOA Board:** Prioritize cameras with **Privacy Masking**. Features in the <a href="https://www.amazon.com/s?k=eufy+Security+app&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">[eufy Security app](https://quvii.com/blog/eufy-security-app-4-8-0-login-issues-fix)</a> or <a href="https://www.amazon.com/s?k=Reolink+app&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Reolink app</a> allow you to black out specific areas of the video feed (like a neighbor’s window). Showing this to a board can often settle privacy disputes.
 *   **If you are in a high-theft area:** Prioritize **Local Storage**. If an HOA demands you remove a camera, having the footage stored on an internal SD card ensures you don't lose evidence during the dispute period.
 
 ## Impact on existing owners
@@ -167,7 +167,7 @@ Legally, you do not need a neighbor's permission to record from your own propert
 - California Legislative Information — Civil Code Section 4750
 - Florida Senate — HB 1203 Homeowners' Associations
 - Eufy Official Site — [Indoor Cam C120 Specs](https://www.eufy.com)
-- Wyze Official Site — <a href="https://www.amazon.com/s?k=Wyze+Cam+v4+and+Window+Mount&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Wyze Cam v4 and Window Mount</a>
+- Wyze Official Site — <a href="https://www.amazon.com/s?k=Wyze+Cam+v4+and+Window+Mount&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Wyze [Cam v4](https://quvii.com/blog/wyze-cam-v4-overheating-june-2026-heatwave) and Window Mount</a>
 - Reolink Official Site — [E1 Pro 4MP Security Camera](https://reolink.com)
 - Associa Online — HOA Security Camera Policies
 - LS Carlson Law — HOA Privacy and Camera Disputes

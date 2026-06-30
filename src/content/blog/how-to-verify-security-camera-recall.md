@@ -103,7 +103,7 @@ Most manufacturers place the model and serial number (S/N) in one of three place
 For the June 2026 Wyze recall, the danger is specific to how the solar panel was mounted. Owners who used the **long, flat-head wood screw** (approximately 1.25 inches) to attach the solar panel bracket directly into the camera's mounting point are at the highest risk. 
 
 **Warning signs of a compromised battery include:**
-*   The camera body feels hot to the touch, even when not in direct sunlight.
+*   The camera body feels hot to the touch, even when not in [direct sunlight](https://quvii.com/learn/google-nest-cam-battery-overheating-direct-sunlight).
 *   The plastic casing appears slightly warped or melted near the mounting screw.
 *   The camera fails to hold a charge despite receiving full sun.
 *   An unusual "sweet" chemical smell (indicative of leaking electrolyte).

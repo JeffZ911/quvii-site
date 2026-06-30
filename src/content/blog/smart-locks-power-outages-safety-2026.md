@@ -57,7 +57,7 @@ Understanding the nuances of smart lock operation during a power outage is param
 
 ### Smart Lock Functionality: What Stays, What Goes
 
-Most smart locks are designed with independent power sources, typically standard AA or AAA batteries, to ensure their core locking and unlocking mechanisms remain functional during a power outage. This means you can still use physical keys, keypad codes, or fingerprint sensors (if equipped) to gain entry or exit locally. However, advanced features that rely on a home's internet connection, such as remote control via a smartphone app, real-time notifications, or integration with other smart home devices, will likely be unavailable. Without power to your Wi-Fi router and internet modem, the lock loses its ability to communicate remotely.
+Most [smart locks](https://quvii.com/learn/best-smart-locks-apple-home-key-2026) are designed with independent power sources, typically standard AA or AAA batteries, to ensure their core locking and unlocking mechanisms remain functional during a power outage. This means you can still use physical keys, keypad codes, or fingerprint sensors (if equipped) to gain entry or exit locally. However, advanced features that rely on a home's internet connection, such as remote control via a smartphone app, real-time notifications, or integration with other smart home devices, will likely be unavailable. Without power to your Wi-Fi router and internet modem, the lock loses its ability to communicate remotely.
 
 ### The Domino Effect on Your Security Camera System
 

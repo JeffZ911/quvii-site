@@ -22,7 +22,7 @@ inline_image_sections:
   - "What to do now"
 ---
 
-Reports of forced software installations and deleted local recordings have surfaced among users of the Yoosee mobile app in June 2026, signaling a significant security risk for owners of budget-tier cameras. If your security app is prompting you to install "Kingshot" or any other third-party game to maintain access to your footage, your data and device security are at immediate risk.
+Reports of forced software installations and deleted local recordings have surfaced among users of the Yoosee mobile app in June 2026, signaling a significant security risk for owners of budget-tier cameras. If your [security app](https://quvii.com/blog/eufy-security-app-4-8-0-login-issues-fix) is prompting you to install "Kingshot" or any other third-party game to maintain access to your footage, your data and device security are at immediate risk.
 
 # Yoosee App Alert: Forced 'Kingshot' Game Installs and Deleted Footage Reports (June 2026)
 

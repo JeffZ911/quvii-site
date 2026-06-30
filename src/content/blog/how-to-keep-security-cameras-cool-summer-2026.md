@@ -144,7 +144,7 @@ As the industry evolves, Quvii tracks these trade-offs across the category to en
 While a fan provides convective cooling, it is generally ineffective for outdoor security cameras. Most consumer cameras are "weather-sealed" (IP65/IP66), meaning they are airtight. A fan will blow air over the exterior plastic, but it won't cool the internal components effectively unless the camera has a metal housing that acts as a heat sink.
 
 ### Does the color of the camera really matter for heat?
-Yes, significantly. Black and dark-colored housings absorb a much wider spectrum of solar radiation, converting it into heat. Switching to a white housing or a white silicone skin can lower the surface temperature of the device by over 15°F in direct sunlight, which is often the difference between a functional camera and a thermal shutdown.
+Yes, significantly. Black and dark-colored housings absorb a much wider spectrum of solar radiation, converting it into heat. Switching to a white housing or a white silicone skin can lower the surface temperature of the device by over 15°F in [direct sunlight](https://quvii.com/learn/google-nest-cam-battery-overheating-direct-sunlight), which is often the difference between a functional camera and a thermal shutdown.
 
 ### Why does my solar-powered camera stop charging when it's sunny?
 Most solar cameras have a safety "cut-off" for the battery. Lithium-ion batteries become unstable if charged at temperatures above 113°F (45°C). On a hot summer day, the internal temperature of the camera often exceeds this limit, so the system disables charging to prevent a fire or battery swelling, even if the solar panel is producing plenty of power.

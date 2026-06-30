@@ -81,7 +81,7 @@ For hardwired cameras, particularly **Power over Ethernet (PoE)** models, electr
 Battery-powered cameras (e.g., **Reolink Altas PT Ultra**) provide a natural "air gap" from the electrical grid, making them inherently safer from line surges. When paired with integrated solar panels, these cameras can maintain 24/7 operation during extended power outages, provided they have local storage.
 
 ### Local Storage for Continuous Recording
-Data resilience is the final pillar of storm safety. If a storm knocks out your Wi-Fi, a cloud-only camera (like many older Ring models) stops recording. Modern 2026 units prioritize **Local Storage via microSD** or a local hub (like the **Eufy HomeBase 3**). This ensures that even if the internet is down, the camera continues to capture footage to internal memory, syncing it to the cloud once the connection is restored.
+Data resilience is the final pillar of storm safety. If a storm knocks out your Wi-Fi, a cloud-only camera (like many older Ring models) stops recording. Modern 2026 units prioritize **Local Storage via microSD** or a local hub (like the **[Eufy HomeBase](https://quvii.com/learn/eufy-homebase-storage-issues-june-2026-20260628) 3**). This ensures that even if the internet is down, the camera continues to capture footage to internal memory, syncing it to the cloud once the connection is restored.
 
 ### Maintaining Connectivity: Wi-Fi, Cellular, and PoE
 *   **Wi-Fi (2.4 GHz vs. 5 GHz):** 2.4 GHz signals penetrate rain and walls better than 5 GHz, making it more reliable during heavy downpours.
