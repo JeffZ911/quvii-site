@@ -191,7 +191,7 @@ If the cloud-dependency of Eufy becomes a dealbreaker, consider these alternativ
 ## Frequently Asked Questions
 
 ### Does Eufy HomeBase 3 work with Home Assistant?
-Yes, the HomeBase 3 is supported via the `eufy-security-ws` community integration. It allows for motion detection, AI person/pet identification labels, and siren control, though it still requires a cloud connection for push-notification-based triggers.
+Yes, the HomeBase 3 is supported via the `eufy-security-ws` community integration. It allows for [motion detection](https://quvii.com/learn/ring-camera-motion-detection-not-streaming-fix-june-2026), AI person/pet identification labels, and siren control, though it still requires a cloud connection for push-notification-based triggers.
 
 ### Why does my Eufy camera log me out of Home Assistant?
 This happens because Eufy only allows one active session per account. If you log into the Eufy app on your phone using the same account as Home Assistant, the HA session is kicked. You must create a dedicated "Guest" account for Home Assistant to prevent this.

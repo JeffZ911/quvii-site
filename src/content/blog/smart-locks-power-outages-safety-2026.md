@@ -124,7 +124,7 @@ For owners with Z-Wave or Zigbee locks, the reliance on a smart home hub adds an
 ![What to do now](/img/smart-locks-power-outages-safety-2026/inline-4.webp)
 
 
-Preparing your smart locks and overall home security system for power outages is a proactive step that can save you stress and maintain safety.
+Preparing your [smart locks](https://quvii.com/learn/best-smart-locks-apple-home-key-2026) and overall home security system for power outages is a proactive step that can save you stress and maintain safety.
 
 ### Prepare Your Smart Locks for the Unexpected
 
@@ -154,7 +154,7 @@ Smart locks are almost universally battery-powered for their core functions. The
 It is possible to be locked out if your smart lock's batteries die and you do not have a backup entry method. This is why it's crucial to choose a smart lock with a mechanical key override and to diligently replace batteries on a schedule. Many locks provide low-battery warnings weeks in advance to prevent this situation.
 
 ### Will my security cameras still record if my smart lock goes offline?
-Your security cameras' recording capabilities during a power outage depend on their power source and storage method. Wired cameras will stop recording without backup power. Battery-powered cameras may continue to record locally to an SD card (edge recording) but will lose remote access and cloud storage features if your Wi-Fi and internet are down.
+Your security cameras' recording capabilities during a power outage depend on their power source and storage method. Wired cameras will stop recording without backup power. Battery-powered cameras may continue to record locally to an SD card (edge recording) but will lose remote access and [cloud storage](https://quvii.com/blog/eufy-cloud-storage-pricing-changes-2026) features if your Wi-Fi and internet are down.
 
 ### What is the average battery life for a smart lock?
 The average battery life for a smart lock varies significantly based on its connectivity type and usage. Wi-Fi direct locks typically last 3-6 months, while Z-Wave or Zigbee locks, which communicate through a hub, can last 12-18 months or more due to their lower power consumption. Factors like frequent use and extreme temperatures can also affect battery longevity.

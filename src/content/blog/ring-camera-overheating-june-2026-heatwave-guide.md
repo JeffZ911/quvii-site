@@ -146,7 +146,7 @@ As climate patterns continue to challenge consumer electronics, the "install and
 ## Frequently Asked Questions
 
 ### Why does my Ring camera say "Device Cooldown" when it's only 95 degrees outside?
-While the air temperature may be 95°F, direct sunlight hitting the dark plastic casing of a Ring camera can raise its internal temperature well above 120°F. The "Device Cooldown" mode is triggered by the internal sensor, not the local weather report.
+While the air temperature may be 95°F, [direct sunlight](https://quvii.com/learn/google-nest-cam-battery-overheating-direct-sunlight) hitting the dark plastic casing of a Ring camera can raise its internal temperature well above 120°F. The "Device Cooldown" mode is triggered by the internal sensor, not the local weather report.
 
 ### Can I use an ice pack to cool down my Ring doorbell?
 No. Rapid temperature changes can cause condensation to form inside the lens and housing, leading to permanent water damage or short circuits. It is better to provide shade and allow the device to cool naturally.

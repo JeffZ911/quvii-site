@@ -29,7 +29,7 @@ As summer temperatures peak in June 2026, a recurring challenge for smart home s
 > 📝 **Editorial Note:** This guide is AI-assisted and game data evolves rapidly. Please cross-reference with in-game information. _Updated: 2026-06-24._
 
 
-**Quick Answer:** As of June 2026, there is no widespread recall or new official statement from Ring regarding a general overheating defect. However, some users are reporting "too hot" messages, particularly with models like the Doorbell Pro 2, when exposed to prolonged direct sunlight in warm weather. Ring devices are designed to operate within specific temperature ranges, and extreme heat can trigger a "Device Cooldown" mode or temporary shutdown.
+**Quick Answer:** As of June 2026, there is no widespread recall or new official statement from Ring regarding a general overheating defect. However, some users are reporting "too hot" messages, particularly with models like the Doorbell Pro 2, when exposed to prolonged [direct sunlight](https://quvii.com/learn/google-nest-cam-battery-overheating-direct-sunlight) in warm weather. Ring devices are designed to operate within specific temperature ranges, and extreme heat can trigger a "Device Cooldown" mode or temporary shutdown.
 
 ## What happened
 

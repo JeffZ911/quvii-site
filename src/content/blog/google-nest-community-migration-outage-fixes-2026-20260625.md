@@ -93,7 +93,7 @@ The migration exacerbates existing frustrations regarding the transition to Gemi
 
 **Key Community Functions Lost:**
 *   **Legacy Hardware Support:** Documentation for discontinued products like Nest Secure.
-*   **Third-Party Integration Guides:** Unofficial "bridges" for Home Assistant or Hubitat.
+*   **Third-Party Integration Guides:** Unofficial "bridges" for [Home Assistant](https://quvii.com/learn/eufy-security-motion-alerts-not-working-home-assistant) or Hubitat.
 *   **Verified Bug Tracking:** Long-running threads that forced Google to acknowledge hardware defects.
 *   **Reputation Systems:** The ability to identify "Expert" users whose advice was more reliable than standard support.
 

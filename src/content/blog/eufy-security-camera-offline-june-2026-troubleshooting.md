@@ -36,7 +36,7 @@ inline_image_sections:
   - "What to do now"
 ---
 
-Is your Eufy security camera showing as offline, leaving a gap in your home's watchful eye? While no widespread Eufy security camera outage has been officially reported for June 2026, individual cameras can go offline due to common issues like Wi-Fi connectivity problems, power loss, or firmware glitches. Owners should first check power, Wi-Fi signal strength, and the Eufy app for device status and potential firmware updates.
+Is your Eufy security camera showing as offline, leaving a gap in your home's watchful eye? While no widespread Eufy security camera outage has been officially reported for June 2026, individual cameras can go offline due to common issues like Wi-Fi connectivity problems, power loss, or firmware glitches. Owners should first check power, Wi-Fi signal strength, and the [Eufy app](https://quvii.com/learn/eufy-app-performance-issues-june-2026-20260630) for device status and potential firmware updates.
 
 ### Eufy Security Camera Offline: Troubleshooting & What to Do in June 2026
 

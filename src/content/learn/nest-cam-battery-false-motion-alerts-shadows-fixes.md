@@ -31,7 +31,7 @@ Shadows are the most frequent cause of "ghost" notifications for outdoor securit
 
 # Nest Cam (Battery) False Motion Alerts from Shadows: Understanding and Fixing the Problem
 
-**Quick Answer:** Nest Cam (battery) false [motion alerts](https://quvii.com/learn/eufy-security-motion-alerts-not-working-home-assistant) from shadows occur because the camera's motion detection interprets rapid pixel changes caused by moving shadows or shifting light as actual movement. To reduce these, adjust the camera's wake-up sensitivity to "Low" and configure Activity Zones in the Google Home app to exclude areas prone to shadow movement.
+**Quick Answer:** Nest Cam (battery) false [motion alerts](https://quvii.com/learn/eufy-security-motion-alerts-not-working-home-assistant) from shadows occur because the camera's [motion detection](https://quvii.com/learn/ring-camera-motion-detection-not-streaming-fix-june-2026) interprets rapid pixel changes caused by moving shadows or shifting light as actual movement. To reduce these, adjust the camera's wake-up sensitivity to "Low" and configure Activity Zones in the Google Home app to exclude areas prone to shadow movement.
 
 ## What it means
 
