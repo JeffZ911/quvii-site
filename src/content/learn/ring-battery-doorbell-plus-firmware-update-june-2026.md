@@ -103,7 +103,7 @@ As the smart home landscape shifts toward the Matter and Thread standards, firmw
 
 ### Temporary Service Interruption
 The most significant drawback is the temporary loss of security coverage. While the firmware is installing:
-1.  **No Motion Alerts:** The device will not detect or notify you of visitors.
+1.  **No [Motion Alerts](https://quvii.com/learn/eufy-security-motion-alerts-not-working-home-assistant):** The device will not detect or notify you of visitors.
 2.  **No Recording:** Events occurring during the 15-minute window are not captured to the cloud.
 3.  **No Live View:** You cannot "peek" through the camera via the app.
 Because Ring schedules these updates automatically, they may occur at inconvenient times. However, they are typically staggered to avoid high-traffic periods based on the device's historical usage patterns.

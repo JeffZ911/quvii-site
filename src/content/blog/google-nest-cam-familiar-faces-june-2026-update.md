@@ -144,7 +144,7 @@ The system uses "temporal consistency." It identifies you by your face when you 
 Due to strict biometric privacy laws (like BIPA in Illinois), Google has historically disabled Familiar Faces in certain jurisdictions. While the 2026 update includes more "non-biometric" signals, the core of the feature still relies on facial geometry, meaning it remains unavailable in regions with restricted biometric processing laws.
 
 ## Sources
-- Google Nest Support
+- [Google Nest](https://quvii.com/learn/google-nest-cam-battery-overheating-direct-sunlight) Support
 - Google Safety Center
 - 9to5Google
 - Android Headlines

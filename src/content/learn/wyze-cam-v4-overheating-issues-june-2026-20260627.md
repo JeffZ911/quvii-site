@@ -180,7 +180,7 @@ For those looking to optimize their 2026 security setup beyond thermal managemen
 ## Frequently Asked Questions
 
 ### Does the Wyze Cam v4 have a recall in 2026?
-No, the Wyze Cam v4 is not part of the June 2026 recall. The recall specifically affects the Wyze Solar Cam Pan (model WYZESCPWH) due to a battery puncture risk. The v4 remains safe for use according to current manufacturer and CPSC guidelines.
+No, the [Wyze Cam v4](https://quvii.com/blog/wyze-cam-v4-overheating-june-2026-heatwave) is not part of the June 2026 recall. The recall specifically affects the Wyze Solar Cam Pan (model WYZESCPWH) due to a battery puncture risk. The v4 remains safe for use according to current manufacturer and CPSC guidelines.
 
 ### What should I do if my Wyze Cam v4 keeps going offline in the sun?
 First, try to relocate the camera to a shaded area, such as under a roof eave. If relocation isn't possible, consider adding a small "sun shield" accessory. You should also ensure you are using the original Wyze power adapter, as third-party power sources can contribute to internal heat.
@@ -193,7 +193,7 @@ Using the v4 behind a window can lead to overheating if the window receives dire
 
 ## Sources
 
-*   Wyze Official Product Page: <a href="https://www.amazon.com/s?k=Wyze+Cam+v4+Specs&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Wyze Cam v4 Specs</a>
+*   Wyze Official Product Page: <a href="https://www.amazon.com/s?k=Wyze+Cam+v4+Specs&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Wyze [Cam v4](https://quvii.com/blog/wyze-cam-v4-overheating-june-2026-heatwave) Specs</a>
 *   Wyze Support: [Operating Temperature and Environment Guide](https://support.wyze.com/hc/en-us/articles/23303102377499-Wyze-Cam-v4-Tech-Specs)
 *   CPSC Recall Database: <a href="https://www.amazon.com/s?k=Wyze+Solar+Cam+Pan+Recall+Notice+June+2026&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Wyze Solar Cam Pan Recall Notice June 2026</a>
 *   Wyze Community Forums: [Thermal Performance Discussions June 2026](https://forums.wyze.com/)

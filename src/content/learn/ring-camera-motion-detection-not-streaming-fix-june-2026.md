@@ -206,7 +206,7 @@ You should regularly check for and apply updates to both your Ring app and camer
 ## Sources
 
 *   Ring.com — Understanding RSSI on Your Ring Device: How to Get the Best Signal []
-*   Asurion.com — Ring Motion Detection Not Working? Here’s How to Fix It []
+*   Asurion.com — Ring Motion Detection [Not Working](https://quvii.com/learn/eufy-security-motion-alerts-not-working-home-assistant)? Here’s How to Fix It []
 *   security.org — Ring Camera Review [https://www.security.org/security-cameras/ring/]
 *   goabode.com — Ring Camera Not Working? Here’s the Fix []
 *   youtube.com — How To Fix Ring Camera Motion Detection Not Working [https://www.youtube.com/watch?v=F3a7-J233xI]

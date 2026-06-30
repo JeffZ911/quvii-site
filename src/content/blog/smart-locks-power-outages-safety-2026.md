@@ -79,7 +79,7 @@ The type of wireless connectivity a smart lock uses significantly impacts its ba
 *   **Z-Wave/Zigbee Locks:** These locks communicate with a central smart home hub rather than directly with your Wi-Fi router. They are generally more power-efficient, offering battery life of 12-18 months or more. If the hub has a battery backup, some local automations might still function, but remote access still relies on the hub's connection to the internet.
 *   **Bluetooth Locks:** Primarily used for proximity-based unlocking, Bluetooth locks offer good battery life but their "smart" features are limited to when you are within range of the lock.
 
-Here's a comparison of popular smart locks and their backup features:
+Here's a comparison of popular [smart locks](https://quvii.com/learn/best-smart-locks-apple-home-key-2026) and their backup features:
 
 | Smart Lock Model (2026) | Connectivity Type | Estimated Battery Life | Mechanical Key Override | Emergency Power Port | Other Backup |
 | :---------------------- | :---------------- | :--------------------- | :---------------------- | :------------------- | :----------- |

@@ -124,7 +124,7 @@ If you're experiencing login issues with your Eufy Security app version 4.8.0, s
 If the mobile app remains unresponsive, you still have options to access your cameras:
 
 *   **Web Portal Fallback:** Eufy provides a web portal at <a href="https://www.amazon.com/s?k=mysecurity.eufylife.com&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">mysecurity.eufylife.com</a>. You can log in here using your Eufy account credentials to view live streams and access recorded events. This is a crucial fallback that bypasses mobile app-specific issues.
-*   **Third-Party Integrations (Limited):** For some users, integrating Eufy cameras with smart home platforms like Homey or Home Assistant might offer alternative viewing methods, though this often requires more technical setup and might not provide full feature parity. This is not a direct fix for the app login issue but an alternative access path for advanced users.
+*   **Third-Party Integrations (Limited):** For some users, integrating Eufy cameras with smart home platforms like Homey or [Home Assistant](https://quvii.com/learn/eufy-security-motion-alerts-not-working-home-assistant) might offer alternative viewing methods, though this often requires more technical setup and might not provide full feature parity. This is not a direct fix for the app login issue but an alternative access path for advanced users.
 
 ### Total Cost of Ownership (TCO) Considerations
 

@@ -109,7 +109,7 @@ If you are considering the Eufy FamiLock E40, your next steps should focus on co
 ### Evaluate Your Scenarios
 *   **The "Hands-Full" Homeowner**: If you frequently arrive home with groceries or children, the [facial recognition](https://quvii.com/blog/ring-facial-recognition-lawsuit-impact-2026) feature of the E40 provides the most utility. Prioritize this model over the E35 (palm vein) or E32.
 *   **The Privacy-Conscious Renter**: If you are in a rental that allows lock replacements, ensure you keep the original deadbolt. The E40 is a good choice because it doesn't require a permanent cloud account to function, though its physical size may be more conspicuous to landlords.
-*   **The Matter Enthusiast**: If your home runs entirely on [Apple Home](https://quvii.com/learn/best-smart-locks-apple-home-key-2026) or Home Assistant via Matter, the E40 is one of the few high-end video locks that supports the standard, though you should check for the latest firmware updates to ensure full compatibility with your specific hub homekitnews.com.
+*   **The Matter Enthusiast**: If your home runs entirely on [Apple Home](https://quvii.com/learn/best-smart-locks-apple-home-key-2026) or [Home Assistant](https://quvii.com/learn/eufy-security-motion-alerts-not-working-home-assistant) via Matter, the E40 is one of the few high-end video locks that supports the standard, though you should check for the latest firmware updates to ensure full compatibility with your specific hub homekitnews.com.
 
 ### Decision Framework: Choosing the Right FamiLock
 | If you want... | Choose... | Why? |
@@ -137,7 +137,7 @@ The E40 features a dual-battery system. The main 15,000mAh battery powers the ca
 Yes, the E40 uses 3D structured light or dual-lens depth mapping (depending on the specific sensor revision) to ensure that a 2D photograph cannot trick the [facial recognition](https://quvii.com/blog/ring-facial-recognition-lawsuit-impact-2026) system. This AI-driven depth perception is designed to require a living, three-dimensional subject to trigger an unlock.
 
 ### Is the 2K camera recording all the time?
-No, the E40 is a battery-powered device and uses a 60GHz radar sensor to "wake up" the camera when motion is detected. This preserves [battery life](https://quvii.com/learn/blink-outdoor-4-battery-life-extreme-heat). Users can adjust the detection sensitivity and "activity zones" within the Eufy app to determine exactly when the camera should record and send notifications.
+No, the E40 is a battery-powered device and uses a 60GHz radar sensor to "wake up" the camera when motion is detected. This preserves [battery life](https://quvii.com/learn/blink-outdoor-4-battery-life-extreme-heat). Users can adjust the detection sensitivity and "activity zones" within the [Eufy app](https://quvii.com/learn/eufy-app-performance-issues-june-2026-20260630) to determine exactly when the camera should record and send notifications.
 
 ## Sources
 - Eufy Official Product Page — https://www.eufy.com
