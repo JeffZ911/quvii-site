@@ -67,7 +67,7 @@ A power outage extends its impact far beyond just your smart lock; it affects th
 
 When selecting a smart lock, prioritizing models with robust backup access methods is crucial for uninterrupted entry and exit during power failures.
 
-*   **Mechanical Key Override:** This is the most fundamental and reliable backup. Many smart locks, like the Schlage Encode Plus, retain a traditional keyhole, allowing entry with a physical key.
+*   **Mechanical Key Override:** This is the most fundamental and reliable backup. Many [smart locks](https://quvii.com/learn/best-smart-locks-apple-home-key-2026), like the Schlage Encode Plus, retain a traditional keyhole, allowing entry with a physical key.
 *   **Emergency Power Ports:** Some locks feature external contacts for a 9V battery, providing a temporary power boost to the keypad or biometric scanner if the internal batteries die. The Eufy Smart Lock Touch & Wi-Fi, for example, includes a micro-USB port for emergency charging.
 *   **Robust Local Keypad/Biometric Access:** Ensure the keypad is durable and responsive, and if considering a biometric lock, verify its reliability and speed.
 

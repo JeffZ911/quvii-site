@@ -156,7 +156,7 @@ The sticker price of a security camera is often just the beginning of its true c
 
 *   **Hardware Cost:** This is the upfront purchase price of the camera(s) and any necessary hubs (e.g., [Eufy HomeBase](https://quvii.com/learn/eufy-homebase-storage-issues-june-2026-20260628)).
     *   *Example:* One EufyCam 3 with HomeBase 3: Around $500-600.
-*   **Optional Cloud Storage Subscription Fees:** Many brands, including Eufy, offer optional cloud storage plans. While Eufy emphasizes local storage, cloud backup provides redundancy and easier access.
+*   **Optional [Cloud Storage](https://quvii.com/blog/eufy-cloud-storage-pricing-changes-2026) Subscription Fees:** Many brands, including Eufy, offer optional cloud storage plans. While Eufy emphasizes local storage, cloud backup provides redundancy and easier access.
     *   *Example:* Eufy Cloud Storage for one camera: Around $30-50 per year. Over 3 years: $90-150.
 *   **Feature Paywall Trap:** Some brands lock advanced features (e.g., rich notifications, longer video history, advanced AI detection) behind monthly or annual subscription plans, even if basic local recording is free.
     *   *Example:* If a desired AI feature is only available with a paid plan, this becomes a mandatory cost for that functionality.

@@ -125,7 +125,7 @@ If Eufy decides to change their encryption protocol or update their app's API (a
 To maintain a working system, you cannot "set it and forget it." You must:
 1.  Monitor the `eufy-security-ws` logs for "Token Expired" errors.
 2.  Ensure the "Guest Account" used by HA hasn't been locked due to suspicious login activity.
-3.  Keep the Eufy Security app on your phone updated to ensure the cloud doesn't deprecate the API version your account is using.
+3.  Keep the [Eufy Security app](https://quvii.com/blog/eufy-security-app-4-8-0-login-issues-fix) on your phone updated to ensure the cloud doesn't deprecate the API version your account is using.
 
 ## Common misconceptions
 
@@ -200,7 +200,7 @@ This happens because Eufy only allows one active session per account. If you log
 No. As of early 2026, all Eufy motion triggers in Home Assistant rely on Firebase Cloud Messaging (FCM). While the video storage is local, the "alert" signal must travel through Eufy’s cloud servers to reach the integration.
 
 ### How do I fix the 'Include Thumbnail' requirement?
-In the Eufy Security app, go to Settings > Notifications > Content Distribution and select "Include Thumbnail" or "Full Effect." If set to "Most Efficient," the cloud sends a bare-bones alert that often lacks the metadata required for the Home Assistant integration to identify the motion event.
+In the Eufy [Security app](https://quvii.com/blog/eufy-security-app-4-8-0-login-issues-fix), go to Settings > Notifications > Content Distribution and select "Include Thumbnail" or "Full Effect." If set to "Most Efficient," the cloud sends a bare-bones alert that often lacks the metadata required for the Home Assistant integration to identify the motion event.
 
 ## Sources
 - bropat eufy-security-ws GitHub — https://github.com/bropat/eufy-security-ws

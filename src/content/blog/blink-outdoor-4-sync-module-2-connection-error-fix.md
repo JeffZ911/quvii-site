@@ -202,7 +202,7 @@ Your Blink Sync Module 2 might be going offline due to weak Wi-Fi signal, interf
 As of 2026, common firmware versions for the Blink Sync Module 2 include 16.0.36 and 4.5.38. It's recommended to keep your Sync Module 2 updated to the latest available version, which often happens automatically, but can sometimes require a manual push from support.
 
 ### Can I use any USB drive for local storage with the Blink Sync Module 2?
-No, you cannot use just any USB drive. The Blink Sync Module 2 requires a USB flash drive formatted to FAT32 and with a maximum capacity of 256GB. Using drives with other formats or larger capacities may result in local storage not working correctly or file corruption.
+No, you cannot use just any USB drive. The Blink Sync Module 2 requires a USB flash drive formatted to FAT32 and with a maximum capacity of 256GB. Using drives with other formats or larger capacities may result in local storage [not working](https://quvii.com/learn/eufy-security-motion-alerts-not-working-home-assistant) correctly or file corruption.
 
 ### Does Blink require a subscription for local storage?
 No, Blink does not require a subscription for local storage if you use a compatible USB drive with your Sync Module 2. The Sync Module 2 enables clips to be saved directly to the USB drive without any monthly fees. A subscription is only necessary for [cloud storage](https://quvii.com/blog/eufy-cloud-storage-pricing-changes-2026) and additional features.

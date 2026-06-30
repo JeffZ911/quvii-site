@@ -101,7 +101,7 @@ For existing smart home camera owners, understanding the signs of heat stress is
 
 The impact of heat on lithium-ion batteries in wireless cameras cannot be overstated. Research indicates that operating a lithium-ion battery at 95°F (35°C) can reduce its lifespan by 40% compared to 77°F (25°C), and at 113°F (45°C), the lifespan can be halved. This means that a battery designed to last several years might only last one or two summers if consistently exposed to high temperatures, leading to premature battery replacement or the need for a new camera entirely.
 
-Beyond performance, operating a camera outside its specified temperature range can have significant warranty implications. Most manufacturers explicitly state in their terms and conditions that damage resulting from environmental conditions outside the recommended operating parameters is not covered. This means if your camera fails due to overheating because it was installed in direct sunlight in a region with consistently high temperatures, you might be responsible for the full cost of repair or replacement. Always consult your camera's user manual and the manufacturer's warranty policy to understand these limitations.
+Beyond performance, operating a camera outside its specified temperature range can have significant warranty implications. Most manufacturers explicitly state in their terms and conditions that damage resulting from environmental conditions outside the recommended operating parameters is not covered. This means if your camera fails due to overheating because it was installed in [direct sunlight](https://quvii.com/learn/google-nest-cam-battery-overheating-direct-sunlight) in a region with consistently high temperatures, you might be responsible for the full cost of repair or replacement. Always consult your camera's user manual and the manufacturer's warranty policy to understand these limitations.
 
 **Total Cost of Ownership (TCO) Considerations:**
 
@@ -192,7 +192,7 @@ Yes, a physical sun shield or cover can significantly help. By blocking direct s
 
 ### Does heat affect wired cameras differently than wireless cameras?
 
-Yes, heat tends to affect wired and wireless cameras differently. Wired cameras generally have better heat tolerance because they lack a large internal lithium-ion battery, which is highly susceptible to heat degradation. Wireless cameras, relying on batteries, are more prone to rapid [battery drain](https://quvii.com/learn/blink-outdoor-4-battery-drain-june-2026), reduced lifespan, and performance issues in high temperatures.
+Yes, heat tends to affect wired and wireless cameras differently. Wired cameras generally have better heat tolerance because they lack a large internal lithium-ion battery, which is highly susceptible to heat degradation. Wireless cameras, relying on batteries, are more prone to rapid [battery drain](https://quvii.com/learn/blink-outdoor-4-battery-drain-june-2026), reduced lifespan, and [performance issues](https://quvii.com/learn/eufy-app-performance-issues-june-2026-20260630) in high temperatures.
 
 ### Will my camera's warranty be voided if it overheats?
 

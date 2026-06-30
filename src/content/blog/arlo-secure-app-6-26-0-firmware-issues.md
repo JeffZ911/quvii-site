@@ -149,7 +149,7 @@ The 6.26.[0 update](https://quvii.com/blog/eufy-security-app-4-8-0-login-issues-
 Rapid drain is usually caused by the camera constantly searching for a Wi-Fi signal. Ensure your SmartHub or router hasn't moved. If the drain started with the 6.26.[0 update](https://quvii.com/blog/eufy-security-app-4-8-0-login-issues-fix), try removing the camera from the app and re-syncing it to force a fresh handshake with the cloud servers.
 
 **Can I use my Arlo cameras without the Secure App?**
-You can view a live stream via the web portal at my.arlo.com, but most management features require the app. For local-only control, you would need to use a third-party integration like HomeKit or Home Assistant, though these still rely on Arlo's cloud APIs to function.
+You can view a live stream via the web portal at my.arlo.com, but most management features require the app. For local-only control, you would need to use a third-party integration like HomeKit or [Home Assistant](https://quvii.com/learn/eufy-security-motion-alerts-not-working-home-assistant), though these still rely on Arlo's cloud APIs to function.
 
 **Is Arlo fixing the 6.26.0 bugs?**
 Yes, Arlo has acknowledged the issues on their community forums and has begun rolling out version 6.27.0. This patch specifically addresses the "Arm Away" migration logic and the SmartHub connectivity drops.

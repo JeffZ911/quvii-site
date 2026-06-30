@@ -104,7 +104,7 @@ Buyers looking for 24/7 recording often compare the E330 with the Reolink CX810 
 If you already own an E330 Professional, you may have noticed changes in how the camera behaves during the summer months. Recent firmware updates have introduced more conservative thermal management strategies.
 
 ### Firmware Updates and Feature Loss
-In late 2025 and early 2026, eufy pushed updates to the HomeBase 3 and E330 series aimed at "system stability." Some users have noted that under high-heat conditions, the eufy app may temporarily "grey out" the 24/7 recording toggle or display a warning that the "Edge Connection" (the direct link between camera and HomeBase) is unstable. 
+In late 2025 and early 2026, eufy pushed updates to the HomeBase 3 and E330 series aimed at "system stability." Some users have noted that under high-heat conditions, the [eufy app](https://quvii.com/learn/eufy-app-performance-issues-june-2026-20260630) may temporarily "grey out" the 24/7 recording toggle or display a warning that the "Edge Connection" (the direct link between camera and HomeBase) is unstable. 
 
 This is essentially thermal throttling. By forcing the camera into an "Event-Only" mode, the system reduces the SoC load, allowing the unit to cool down without a full shutdown. While this preserves the hardware, it defeats the purpose of a 24/7 recording camera.
 

@@ -51,7 +51,7 @@ According to <a href="https://www.amazon.com/s?k=Eufy%E2%80%99s+updated+2026+ser
 
 The most notable change in 2026 is the introduction of the "eufy Expert GPT Assistant." This is a generative AI interface that allows users to query their security footage using natural language—for example, "Show me every time a delivery driver wearing red walked onto the porch last week." 
 
-Processing these queries requires significantly more server-side power than standard PIR (Passive Infrared) motion detection. Consequently, the GPT Assistant and the new "3D Home Model" visualization—which creates a digital twin of your property to show exactly where an intruder moved in three-dimensional space—are only available to those on a paid cloud plan. These features rely on metadata being sent to Eufy’s AWS-hosted environment for processing, moving the brand further away from its "100% local" origins.
+Processing these queries requires significantly more server-side power than standard PIR (Passive Infrared) [motion detection](https://quvii.com/learn/ring-camera-motion-detection-not-streaming-fix-june-2026). Consequently, the GPT Assistant and the new "3D Home Model" visualization—which creates a digital twin of your property to show exactly where an intruder moved in three-dimensional space—are only available to those on a paid cloud plan. These features rely on metadata being sent to Eufy’s AWS-hosted environment for processing, moving the brand further away from its "100% local" origins.
 
 | Feature | Local Storage (HB3) | Basic Plan (S1/Cloud) | Premier Plan (Cloud) |
 | :--- | :--- | :--- | :--- |
@@ -114,7 +114,7 @@ Existing owners are seeing a slight adjustment in annual cloud storage rates—t
 
 A persistent frustration for Eufy owners in 2026 remains the "Export Problem." While Eufy allows for 24/7 recording on its wired cameras (like the E330 Professional), downloading large chunks of that footage remains cumbersome. 
 
-Unlike professional NVRs that allow for a simple USB export of raw .mp4 files, the Eufy app still encourages "manual recording" (screen recording) for clips longer than 5 minutes. While the 2026 app update introduced a "Bulk Export" feature for the HomeBase 3, it is restricted to event-based clips, not the continuous 24/7 stream. This is a deliberate design choice to push users toward cloud event storage, where clips are pre-trimmed and easier to share with law enforcement.
+Unlike professional NVRs that allow for a simple USB export of raw .mp4 files, the [Eufy app](https://quvii.com/learn/eufy-app-performance-issues-june-2026-20260630) still encourages "manual recording" (screen recording) for clips longer than 5 minutes. While the 2026 app update introduced a "Bulk Export" feature for the HomeBase 3, it is restricted to event-based clips, not the continuous 24/7 stream. This is a deliberate design choice to push users toward cloud event storage, where clips are pre-trimmed and easier to share with law enforcement.
 
 ### Privacy and Notification Thumbnails
 

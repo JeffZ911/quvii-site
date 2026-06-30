@@ -71,7 +71,7 @@ Security is the most frequent driver for updates. As hackers discover new vulner
 Updates can occasionally unlock hardware potential that was dormant at launch. For example, the 2nd Generation Essential cameras received firmware tweaks in early 2026 to improve the latency of "Cross-Triggering," where one camera tells another to start recording. These updates refine the communication protocols between the camera and the Arlo Secure cloud.
 
 ### Resolving Known Issues
-Bug fixes are the "maintenance" side of firmware. If users report that cameras are dropping Wi-Fi connections every 48 hours or that the spotlight is triggering during the day, a firmware patch is designed to recalibrate the logic governing those sensors. In the months leading up to June 2026, Arlo released several patches specifically aimed at reducing "false positive" motion alerts caused by swaying shadows.
+Bug fixes are the "maintenance" side of firmware. If users report that cameras are dropping Wi-Fi connections every 48 hours or that the spotlight is triggering during the day, a firmware patch is designed to recalibrate the logic governing those sensors. In the months leading up to June 2026, Arlo released several patches specifically aimed at reducing "false positive" [motion alerts](https://quvii.com/learn/eufy-security-motion-alerts-not-working-home-assistant) caused by swaying shadows.
 
 ## How it works under the hood
 

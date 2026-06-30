@@ -156,7 +156,7 @@ The "Outdoor" or "IP65" rating refers to water and dust ingress, not thermal imm
 
 ## Decision Framework: Managing Heat in Your Setup
 
-If you are deciding where to place your Wyze Cam v4 or whether to buy one during a heatwave, use the following matrix:
+If you are deciding where to place your [Wyze Cam v4](https://quvii.com/blog/wyze-cam-v4-overheating-june-2026-heatwave) or whether to buy one during a heatwave, use the following matrix:
 
 | If your situation is... | Prioritize this... | Recommendation |
 | :--- | :--- | :--- |
@@ -175,7 +175,7 @@ For those looking to optimize their 2026 security setup beyond thermal managemen
 *   **Choosing the Best Outdoor Security Camera:** A guide on balancing resolution, price, and environmental durability across brands like Reolink, Eufy, and Wyze.
 *   **Understanding Security Camera IP Ratings:** Learn why an IP65 rating protects against a thunderstorm but won't help against a 110-degree heatwave.
 *   **Local vs. Cloud Storage:** An analysis of how continuous recording to an SD card impacts camera longevity compared to event-only cloud recording.
-*   **Wyze Cam v4 Privacy and Data Security:** A review of Wyze's 2026 transparency reports and end-to-end encryption standards for the v4 line.
+*   **Wyze [Cam v4](https://quvii.com/blog/wyze-cam-v4-overheating-june-2026-heatwave) Privacy and Data Security:** A review of Wyze's 2026 transparency reports and end-to-end encryption standards for the v4 line.
 
 ## Frequently Asked Questions
 

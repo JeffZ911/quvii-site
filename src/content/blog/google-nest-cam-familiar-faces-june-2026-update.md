@@ -97,7 +97,7 @@ Existing owners should re-read the updated biometric privacy disclosures within 
 ![What to do now](/img/google-nest-cam-familiar-faces-june-2026-update/inline-4.webp)
 
 
-The decision to lean into the Google Nest ecosystem or look elsewhere depends largely on your tolerance for recurring costs and your need for high-accuracy AI alerts.
+The decision to lean into the [Google Nest](https://quvii.com/learn/google-nest-cam-battery-overheating-direct-sunlight) ecosystem or look elsewhere depends largely on your tolerance for recurring costs and your need for high-accuracy AI alerts.
 
 ### For Prospective Buyers
 1.  **Evaluate Subscription Needs:** If you don't plan to pay for the Premium Advanced tier (around $20/month), you are buying a camera that is effectively "locked" out of its best features. If you want high-end AI without the fee, consider local-processing brands.
@@ -120,7 +120,7 @@ The decision to lean into the Google Nest ecosystem or look elsewhere depends la
 | **Privacy-Focused** | Data Sovereignty | Disable Familiar Faces and use the camera for "Person Detection" only, or switch to a local-storage brand. |
 
 ### Total Cost of Ownership (3-Year Estimate)
-When calculating the cost of a Google Nest Cam (Battery) under the new June 2026 guidelines, the hardware price is only the beginning.
+When calculating the cost of a [Google Nest Cam](https://quvii.com/learn/google-nest-cam-battery-overheating-direct-sunlight) (Battery) under the new June 2026 guidelines, the hardware price is only the beginning.
 
 *   **Hardware:** Around $180
 *   **Subscription (Premium Advanced):** $200/year x 3 years = $600
