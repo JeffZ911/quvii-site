@@ -220,7 +220,7 @@ Direct sunlight significantly increases the camera's internal temperature beyond
 To extend battery life in hot climates, place the camera in a shaded location to avoid direct sunlight. Additionally, optimize camera settings by reducing video quality, shortening clip lengths, and lowering motion sensitivity. For continuous power, consider using the Blink Weather Resistant Power Adapter.
 
 ### Will my Blink Outdoor 4 camera shut down if it gets too hot?
-While the camera is designed to operate within its specified temperature range, prolonged exposure to temperatures significantly above 113°F (45°C) can cause performance issues or lead to temporary shutdown to prevent damage. However, the more common outcome in extreme heat within the operating range is accelerated [battery drain](https://quvii.com/learn/blink-outdoor-4-battery-drain-june-2026) rather than immediate camera failure.
+While the camera is designed to operate within its specified temperature range, prolonged exposure to temperatures significantly above 113°F (45°C) can cause [performance issues](https://quvii.com/learn/eufy-app-performance-issues-june-2026-20260630) or lead to temporary shutdown to prevent damage. However, the more common outcome in extreme heat within the operating range is accelerated [battery drain](https://quvii.com/learn/blink-outdoor-4-battery-drain-june-2026) rather than immediate camera failure.
 
 ## Sources
 

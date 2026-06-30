@@ -105,7 +105,7 @@ The most severe implication is the 15-minute notification gap. For users with a 
 In March 2026, a bug was reported where the Eufy app occasionally displayed "placeholder" thumbnails from different cameras within the same user account during high-latency periods. While Eufy clarified in their [Privacy Policy](https://www.eufy.com/privacy-policy) that this was a local caching error and not a cross-user data leak, it highlights the risks of a bloated app architecture where local data and cloud-cached thumbnails are not perfectly synchronized.
 
 ### Hardware Longevity
-The app-induced battery drain on smartphones is another concern. Because the v6.0.x app struggles to maintain a background connection, it frequently "wakes" the phone's processor. Users have documented idle battery usage of up to 15% per hour just from the Eufy Security app running in the background. Similarly, the constant "re-indexing" bug in firmware v3.8.2.0 increases the read/write cycles on HomeBase SSDs, potentially shortening the lifespan of budget-tier SATA drives.
+The app-induced battery drain on smartphones is another concern. Because the v6.0.x app struggles to maintain a background connection, it frequently "wakes" the phone's processor. Users have documented idle battery usage of up to 15% per hour just from the [Eufy Security app](https://quvii.com/blog/eufy-security-app-4-8-0-login-issues-fix) running in the background. Similarly, the constant "re-indexing" bug in firmware v3.8.2.0 increases the read/write cycles on HomeBase SSDs, potentially shortening the lifespan of budget-tier SATA drives.
 
 ## Common misconceptions
 
@@ -163,7 +163,7 @@ If the v6.0.x app issues are a dealbreaker, the market for subscription-free cam
 ## Frequently Asked Questions
 
 ### Why is my Eufy camera taking 20 seconds to load in June 2026?
-This is primarily due to the Eufy Security app v6.0.x attempting to authenticate with cloud servers and load integrated smart home modules (Eufy Clean/Life) before starting the camera stream. It can also be caused by a bug in firmware v3.8.2.0 that slows down the HomeBase 3's response time.
+This is primarily due to the Eufy [Security app](https://quvii.com/blog/eufy-security-app-4-8-0-login-issues-fix) v6.0.x attempting to authenticate with cloud servers and load integrated smart home modules (Eufy Clean/Life) before starting the camera stream. It can also be caused by a bug in firmware v3.8.2.0 that slows down the HomeBase 3's response time.
 
 ### Does Eufy still work without a subscription in 2026?
 Yes, Eufy remains one of the few major brands offering local storage without a monthly fee. However, features like "Rich Notifications" (thumbnails) still rely on Eufy's cloud servers, which are currently experiencing the latency issues described in this guide.

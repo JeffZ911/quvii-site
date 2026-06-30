@@ -27,7 +27,7 @@ A sudden inability to access your Eufy security cameras can be alarming, especia
 
 # Eufy Security App 4.8.0 Login Issues: Is Your Legacy App Being Phased Out?
 
-Eufy Security app 4.8.0 login failures are caused by a June 2026 server-side update. Users see 'Login Error 18201' or password rejections. To fix, you must update to the latest unified Eufy app or use the web portal.
+Eufy Security app 4.8.0 login failures are caused by a June 2026 server-side update. Users see 'Login Error 18201' or password rejections. To fix, you must update to the latest unified [Eufy app](https://quvii.com/learn/eufy-app-performance-issues-june-2026-20260630) or use the web portal.
 
 ## What happened
 

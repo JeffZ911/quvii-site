@@ -38,7 +38,7 @@ Shadows are the most frequent cause of "ghost" notifications for outdoor securit
 ![What it means](/img/nest-cam-battery-false-motion-alerts-shadows-fixes/inline-1.webp)
 
 
-False motion alerts are notifications triggered by non-threatening environmental changes rather than actual security threats. In the context of the Nest Cam (Battery), a "false alert" typically means your phone pings you with a "Motion detected" notification, but when you check the clip, there is no person, animal, or vehicle—only the shifting silhouette of a tree or a passing cloud.
+False [motion alerts](https://quvii.com/learn/eufy-security-motion-alerts-not-working-home-assistant) are notifications triggered by non-threatening environmental changes rather than actual security threats. In the context of the Nest Cam (Battery), a "false alert" typically means your phone pings you with a "Motion detected" notification, but when you check the clip, there is no person, animal, or vehicle—only the shifting silhouette of a tree or a passing cloud.
 
 For the Nest Cam (battery), shadows moving across the camera's field of view are a primary culprit, leading to frequent and irrelevant alerts. This is particularly common during the "golden hours" of sunrise and sunset when shadows are longest and move most rapidly across the ground or walls.
 

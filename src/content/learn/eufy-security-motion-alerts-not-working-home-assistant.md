@@ -97,7 +97,7 @@ While motion triggers rely on the cloud, the integration also uses Point-to-Poin
 
 | Feature | Local P2P (No Cloud) | Cloud Push Required | 2026 Integration Stability |
 | :--- | :--- | :--- | :--- |
-| **Motion Detection** | No | Yes | Moderate |
+| **[Motion Detection](https://quvii.com/learn/ring-camera-motion-detection-not-streaming-fix-june-2026)** | No | Yes | Moderate |
 | **Live Streaming** | Yes (after handshake) | No (after handshake) | High |
 | **BionicMind AI Labels**| No | Yes | Moderate |
 | **Audio Detection** | No | Yes | Low |

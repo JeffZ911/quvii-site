@@ -109,7 +109,7 @@ If the mobile app remains unresponsive, the Eufy Web Portal often functions inde
 
 ### Future-Proofing with RTSP
 
-To avoid being locked out of your own hardware in the future, consider enabling RTSP (Real-Time Streaming Protocol) for compatible cameras. Most Eufy Indoor Cams and some SoloCam models support RTSP, allowing you to view streams through third-party apps like VLC, Blue Iris, or Home Assistant.
+To avoid being locked out of your own hardware in the future, consider enabling RTSP (Real-Time Streaming Protocol) for compatible cameras. Most Eufy Indoor Cams and some SoloCam models support RTSP, allowing you to view streams through third-party apps like VLC, Blue Iris, or [Home Assistant](https://quvii.com/learn/eufy-security-motion-alerts-not-working-home-assistant).
 *   **Limitation:** Battery-powered cameras connected to HomeBase 3 generally do not support continuous RTSP to preserve [battery life](https://quvii.com/learn/blink-outdoor-4-battery-life-extreme-heat), though some "NAS" storage options exist in the settings menu for specific event-based recording.
 
 ## Decision Framework: Choosing the Right System

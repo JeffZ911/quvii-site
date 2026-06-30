@@ -188,7 +188,7 @@ No, heat resistance varies significantly between models and brands. Wired camera
 
 ### Will a sun shield really help protect my camera from heat?
 
-Yes, a physical sun shield or cover can significantly help. By blocking direct sunlight from hitting the camera's casing, it reduces the amount of solar radiation absorbed, thereby lowering the internal operating temperature and protecting components from overheating.
+Yes, a physical sun shield or cover can significantly help. By blocking [direct sunlight](https://quvii.com/learn/google-nest-cam-battery-overheating-direct-sunlight) from hitting the camera's casing, it reduces the amount of solar radiation absorbed, thereby lowering the internal operating temperature and protecting components from overheating.
 
 ### Does heat affect wired cameras differently than wireless cameras?
 

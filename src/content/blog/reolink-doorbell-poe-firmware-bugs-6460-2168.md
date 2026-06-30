@@ -67,7 +67,7 @@ Firmware bugs can directly compromise the core functionality of a security doorb
 
 ### Undermining the No-Subscription Advantage
 
-Many consumers choose Reolink for its robust, subscription-free local storage options, often involving an SD card or Network Video Recorder (NVR). This avoids recurring cloud storage fees common with other brands. However, if core features like notifications or chime functionality become unreliable due to firmware bugs, the inherent value proposition of a system that eschews monthly fees is diminished. The expectation is that the hardware, once purchased, will function reliably without ongoing costs, and firmware stability is paramount to upholding this promise. Unexpected troubleshooting or the need for manual intervention due to bugs can detract from the initial cost savings.
+Many consumers choose Reolink for its robust, subscription-free local storage options, often involving an SD card or Network Video Recorder (NVR). This avoids recurring [cloud storage](https://quvii.com/blog/eufy-cloud-storage-pricing-changes-2026) fees common with other brands. However, if core features like notifications or chime functionality become unreliable due to firmware bugs, the inherent value proposition of a system that eschews monthly fees is diminished. The expectation is that the hardware, once purchased, will function reliably without ongoing costs, and firmware stability is paramount to upholding this promise. Unexpected troubleshooting or the need for manual intervention due to bugs can detract from the initial cost savings.
 
 **Reolink Doorbell PoE Core Features Overview**
 
