@@ -69,7 +69,7 @@ Renter-friendly wireless video doorbells integrate several technologies to provi
 
 ### Powering Your Wireless Doorbell
 
-The primary power source for these devices is typically a built-in, rechargeable battery. For instance, the Eufy Video Doorbell E340 comes with a 6500mAh battery, while the Reolink Battery Doorbell boasts a 6000mAh battery. These batteries are designed to offer several months of operation on a single charge, though actual battery life can vary based on usage frequency, motion detection events, and local temperature conditions. Some models, like the Eufy Dual Cam, may offer prolonged battery life due to efficient power management or larger capacities.
+The primary power source for these devices is typically a built-in, rechargeable battery. For instance, the Eufy Video Doorbell E340 comes with a 6500mAh battery, while the Reolink Battery Doorbell boasts a 6000mAh battery. These batteries are designed to offer several months of operation on a single charge, though actual battery life can vary based on usage frequency, [motion detection](https://quvii.com/learn/ring-camera-motion-detection-not-streaming-fix-june-2026) events, and local temperature conditions. Some models, like the Eufy Dual Cam, may offer prolonged battery life due to efficient power management or larger capacities.
 
 ### Connecting to Your Home Network
 

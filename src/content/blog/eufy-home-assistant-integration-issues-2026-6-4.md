@@ -45,7 +45,7 @@ It is important to distinguish between a "breaking change" in the [Home Assistan
 Because the `eufy_security` custom integration (available via HACS) relies on a middle-man server—the `eufy-security-ws` wrapper—any minor change in how Eufy’s mobile app communicates with its servers can break the integration. In June 2026, reports on the [eufy_security GitHub repository](https://github.com/fuatakgun/eufy_security) indicated that the integration was failing to discover HomeBase 3 units and the newer S340 Dual-Lens cameras, even after users attempted to re-share devices or create fresh "guest" accounts.
 
 ### Eufy's Integration History with Home Assistant
-Eufy does not provide an official, documented API for third-party developers. This means every Home Assistant integration for Eufy is essentially "reverse-engineered." This history is marked by a cycle of functionality followed by sudden breakage. 
+Eufy does not provide an official, documented API for third-party developers. This means every [Home Assistant](https://quvii.com/blog/home-assistant-2026-7-0b0-camera-breaking-changes) integration for Eufy is essentially "reverse-engineered." This history is marked by a cycle of functionality followed by sudden breakage. 
 
 Earlier in February 2026, a similar crisis occurred when the Home Assistant 2026.02 update changed how camera entities handled image streams, causing popular models like the Indoor Cam C220 to stop updating event snapshots. The current June 2026 issues appear to be a recurrence of this fragility, likely triggered by Eufy's push for more aggressive proprietary encryption on their P2P (peer-to-peer) streams, which the community integration must struggle to decode in real-time.
 

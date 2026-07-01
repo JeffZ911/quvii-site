@@ -30,7 +30,7 @@ When the mercury rises and the sun beats down on your home's exterior, your secu
 
 # Google Nest Cam (Battery) Overheating in Direct Sunlight: What You Need to Know
 
-**Quick Answer:** The [Google Nest Cam](https://quvii.com/blog/google-nest-cam-familiar-faces-june-2026-update) (battery) can overheat in direct sunlight, especially models manufactured between 2021-2023, due to its lithium-ion battery and thermal design. This can lead to reduced performance, charging issues, or temporary shutdown when temperatures exceed its 104°F (40°C) operating limit.
+**Quick Answer:** The [Google Nest Cam](https://quvii.com/blog/google-nest-cam-familiar-faces-june-2026-update) (battery) can overheat in direct sunlight, especially models manufactured between 2021-2023, due to its lithium-ion battery and thermal design. This can lead to reduced performance, [charging issues](https://quvii.com/learn/reolink-argus-3-pro-solar-charging-issues-2026), or temporary shutdown when temperatures exceed its 104°F (40°C) operating limit.
 
 ## What it means
 
@@ -198,7 +198,7 @@ It is also vital to understand understanding IP ratings for security cameras to 
 ## Frequently Asked Questions
 
 ### Can I use a solar panel to stop my Nest Cam from overheating?
-Actually, a solar panel might make it worse during peak heat. While it provides "green" power, the act of charging the battery generates internal heat. If your camera is already struggling with 100°F sunlight, the added heat from solar charging can trigger a thermal shutdown faster.
+Actually, a solar panel might make it worse during peak heat. While it provides "green" power, the act of charging the battery generates internal heat. If your camera is already struggling with 100°F sunlight, the added heat from [solar charging](https://quvii.com/learn/reolink-argus-3-pro-solar-charging-issues-2026) can trigger a thermal shutdown faster.
 
 ### Is the 2024 Google Nest Cam recall only for overheating?
 The November 2024 recall for units made between 2021 and 2023 primarily addressed the magnetic mount's potential to fail, causing the camera to fall. However, the recall also covered internal hardware issues where cameras were failing to charge or shutting down prematurely in high-heat environments.

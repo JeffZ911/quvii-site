@@ -175,7 +175,7 @@ For those looking to optimize their setup, the community-led documentation is th
 ### Advanced Troubleshooting Logs
 
 If alerts stop, the first place to look is the **Add-on Logs** for `eufy-security-ws`. Look for the following strings:
-*   `Push notification connection closed`: Indicates a network or firewall issue blocking Google’s FCM servers.
+*   `[Push notification](https://quvii.com/blog/eufy-security-notification-failure-june-2026) connection closed`: Indicates a network or firewall issue blocking Google’s FCM servers.
 *   `Incompatible version`: Indicates Eufy has updated their app protocol and you must update the Add-on.
 *   `2FA Code Required`: You must go to the Integration configuration in HA and re-submit your credentials to trigger a new 2FA prompt.
 

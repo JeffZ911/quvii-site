@@ -131,7 +131,7 @@ When evaluating the price, look beyond the initial kit cost.
 | **Maximum Detail** | Reolink | 24MP sensors outperform Lorex 4K. |
 | **Privacy/Security** | Reolink | Cleaner supply chain and [local AI](https://quvii.com/blog/eufy-edgeagent-local-ai-security-platform-2026). |
 | **Retail Support** | Lorex | Easy returns at Costco/Best Buy. |
-| **[Smart Home](https://quvii.com/blog/smart-home-security-privacy-trends-2026) Integration** | Reolink | Better Home Assistant/Homey support. |
+| **[Smart Home](https://quvii.com/blog/smart-home-security-privacy-trends-2026) Integration** | Reolink | Better [Home Assistant](https://quvii.com/blog/home-assistant-2026-7-0b0-camera-breaking-changes)/Homey support. |
 | **Hybrid Wired/Wireless** | Lorex | Superior Wi-Fi 7 integration in NVRs. |
 
 ### The Quvii Recommendation for 2026

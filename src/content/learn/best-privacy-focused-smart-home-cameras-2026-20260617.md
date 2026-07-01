@@ -137,7 +137,7 @@ For 2026, several models stand out for their commitment to privacy, offering rob
 
 | Model                     | Resolution | Storage Type        | On-Device AI Detection | Price Band     | E2EE Claimed |
 | :------------------------ | :--------- | :------------------ | :--------------------- | :------------- | :----------- |
-| Reolink Argus 4 Pro       | 4K UHD     | microSD             | Person, Vehicle, Pet   | Under $150     | Yes          |
+| [Reolink Argus](https://quvii.com/learn/reolink-argus-3-pro-solar-charging-issues-2026) 4 Pro       | 4K UHD     | microSD             | Person, Vehicle, Pet   | Under $150     | Yes          |
 | Eufy Indoor Cam E30 (S350)| 4K UHD     | microSD             | Person, Pet            | Under $55      | Yes          |
 | Lorex 4K Spotlight Camera | 4K         | microSD, NVR        | Person, Vehicle        | $150-200       | Yes          |
 | TP-Link Tapo C120         | 2K QHD     | microSD             | Person                 | Around $40-50  | Yes          |

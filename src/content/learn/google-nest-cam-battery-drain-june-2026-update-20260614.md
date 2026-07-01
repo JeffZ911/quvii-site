@@ -92,7 +92,7 @@ The June update appears to have modified the Delivery Traffic Indication Message
 A core component of the June update is a feature designed to reduce "latency to first frame." When you open the Google Home app, the camera is already partially awake so the video loads instantly. However, a bug in the [information unavailable] kernel prevents the ARM processor from returning to its [information unavailable] state after you close the app. The camera remains in an "Active Idle" mode, consuming power as if it were streaming video even when the lens is inactive.
 
 ### Zoomed-in Previews
-The update introduced "Enhanced Previews," which capture a high-resolution sub-stream for notifications. This allows the user to see a clear, zoomed-in image of a face or license plate in the push notification. Capturing this high-res sub-stream simultaneously with the main recording doubles the initial power draw during the first 5 seconds of any trigger.
+The update introduced "Enhanced Previews," which capture a high-resolution sub-stream for notifications. This allows the user to see a clear, zoomed-in image of a face or license plate in the [push notification](https://quvii.com/blog/eufy-security-notification-failure-june-2026). Capturing this high-res sub-stream simultaneously with the main recording doubles the initial power draw during the first 5 seconds of any trigger.
 
 ## Real-world implications
 

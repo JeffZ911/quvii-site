@@ -132,7 +132,7 @@ The Argus 4 Pro remains fully compatible with the existing [Reolink App](https:/
 ![What to do now](/img/reolink-argus-4-pro-new-release-features-20260613/inline-4.webp)
 
 
-If you are considering the Reolink Argus 4 Pro, your first step should be a site survey of your property.
+If you are considering the [Reolink Argus](https://quvii.com/learn/reolink-argus-3-pro-solar-charging-issues-2026) 4 Pro, your first step should be a site survey of your property.
 
 ### Assess Your Needs
 

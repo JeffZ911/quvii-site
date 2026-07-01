@@ -115,7 +115,7 @@ If your Eufy security camera has gone offline, there are several troubleshooting
     *   Try restarting the individual camera by unplugging and re-plugging it, or by pressing its SYNC button.
     *   If applicable, restart your HomeBase by unplugging and plugging in its power adapter.
     *   Reboot your Wi-Fi router to clear any temporary network glitches and refresh the connection.
-3.  **Check Eufy App and Firmware:**
+3.  **Check [Eufy App](https://quvii.com/learn/eufy-app-performance-issues-june-2026-20260630) and Firmware:**
     *   Ensure your Eufy [Security app](https://quvii.com/blog/eufy-security-app-4-8-0-login-issues-fix) is updated to the latest version. You can uninstall and reinstall it to guarantee this.
     *   Check for any available firmware updates for your camera or HomeBase within the app (Device Settings > General > About Device > Check for firmware update). While updates can sometimes cause issues, they also frequently resolve existing connectivity bugs.
 4.  **Relocate or Re-add Camera:**
