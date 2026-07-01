@@ -27,7 +27,7 @@ For smart home enthusiasts, the promise of Eufy security cameras has long been "
 
 # Eufy Security Integration Issues with Home Assistant Core 2026.6.4: What You Need to Know
 
-While Home Assistant Core 2026.6.4 did not introduce a specific breaking change for Eufy, users of the unofficial `eufy_security` custom integration reported renewed instability and cameras suddenly stopping functionality around June 2026. These issues often stem from Eufy's cloud reliance and proprietary firmware updates, challenging seamless local control and privacy for Home Assistant users.
+While [Home Assistant](https://quvii.com/blog/home-assistant-2026-7-0b0-camera-breaking-changes) Core 2026.6.4 did not introduce a specific breaking change for Eufy, users of the unofficial `eufy_security` custom integration reported renewed instability and cameras suddenly stopping functionality around June 2026. These issues often stem from Eufy's cloud reliance and proprietary firmware updates, challenging seamless local control and privacy for Home Assistant users.
 
 ## What happened
 
@@ -75,7 +75,7 @@ The June 2026 issues also reignite conversations around privacy. Because the int
 For those who already have a house full of Eufy gear, the June 2026 instability is more than a technical glitch; it is a security gap.
 
 ### Loss of Functionality and Security Gaps
-When the integration fails, the cameras don't just stop showing video; they stop sending triggers. If you have an automation that turns on the porch light when the Eufy camera detects a person, that automation is now dead. Users have reported that while the Eufy app continues to send notifications to their phones, Home Assistant remains oblivious to those events. This can lead to missed security incidents if the user relies on Home Assistant for centralized logging or secondary recording.
+When the integration fails, the cameras don't just stop showing video; they stop sending triggers. If you have an automation that turns on the porch light when the Eufy camera detects a person, that automation is now dead. Users have reported that while the [Eufy app](https://quvii.com/learn/eufy-app-performance-issues-june-2026-20260630) continues to send notifications to their phones, Home Assistant remains oblivious to those events. This can lead to missed security incidents if the user relies on Home Assistant for centralized logging or secondary recording.
 
 ### Troubleshooting Challenges
 The troubleshooting flow for Eufy in June 2026 has become notoriously complex. To fix the "unavailable" status, users are often forced to:

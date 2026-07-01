@@ -124,7 +124,7 @@ Without the subscription, you lose Activity Zones and the Gemini-powered descrip
     *   **Reality:** While AI helps differentiate objects (people, animals, vehicles), complex shadow patterns can still confuse even advanced algorithms. If a shadow mimics the "skeletal" movement of a person, the AI may categorize it as a person event.
 *   **Misconception:** Adjusting sensitivity once is a permanent fix.
     *   **Reality:** Environmental conditions change with the seasons. A tree that has no leaves in winter won't cast many shadows, but in summer, its full canopy may trigger dozens of alerts. Users must periodically review and adjust their Activity Zones as foliage grows and the sun’s path changes.
-*   **Misconception:** All motion detection processing happens on the camera itself.
+*   **Misconception:** All [motion detection](https://quvii.com/learn/ring-camera-motion-detection-not-streaming-fix-june-2026) processing happens on the camera itself.
     *   **Reality:** For the Nest Cam (battery), basic person/animal/vehicle detection happens on-device. However, more advanced features, long-term event history, and the Gemini-based natural language summaries require the video to be processed on Google’s cloud servers.
 
 ## Decision Framework: Managing Your Alerts

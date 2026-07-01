@@ -51,7 +51,7 @@ Beyond the connection bug, users on <a href="https://www.amazon.com/s?k=r%2FEufy
 | :--- | :--- | :--- |
 | Early May 2026 Update | Frequent "Offline" status; delayed notifications | 10–20% per day |
 | Late May 2026 Update | AI recognition lag; HDD recognition failure | 20–40% per day |
-| June 2026 System Patch | Constant radio polling; solar charging bypass | 40–60% per day |
+| June 2026 System Patch | Constant radio polling; [solar charging](https://quvii.com/learn/reolink-argus-3-pro-solar-charging-issues-2026) bypass | 40–60% per day |
 | **Normal Operation** | **Standard PIR wake-up; [local AI](https://quvii.com/blog/eufy-edgeagent-local-ai-security-platform-2026) processing** | **< 1% per day** |
 
 *Note: Firmware version numbers for these specific updates are currently [information unavailable] as Eufy has paused the public versioning display in some regions during the rollout of the fix.*
@@ -117,7 +117,7 @@ If your cameras are currently losing more than 5% of their charge per day, follo
 
 ### Step-by-Step Troubleshooting Guide
 1.  **Check Firmware Status:** In the Eufy [Security app](https://quvii.com/blog/eufy-security-app-4-8-0-login-issues-fix), go to **Device Settings > General > About Device**. Check both the HomeBase 3 and the individual cameras. If the "Check for firmware update" button shows no new versions, you are likely on the bugged June 2026 build.
-2.  **The "Custom Mode" Workaround:** This is the most successful community-discovered fix. Navigate to the **Security** tab in the app, select your HomeBase, and create a **Custom Mode**. Mirror your "Away" settings exactly, but ensure that "Record Video" and "Push Notification" are the only active toggles. Switching to this custom profile appears to reset the polling interval and has reduced drain for many users.
+2.  **The "Custom Mode" Workaround:** This is the most successful community-discovered fix. Navigate to the **Security** tab in the app, select your HomeBase, and create a **Custom Mode**. Mirror your "Away" settings exactly, but ensure that "Record Video" and "[Push Notification](https://quvii.com/blog/eufy-security-notification-failure-june-2026)" are the only active toggles. Switching to this custom profile appears to reset the polling interval and has reduced drain for many users.
 3.  **Optimize Power Manager:** Go to **Device Settings > Power Manager**. Ensure the camera is set to "Optimal Battery Life." While "Optimal Surveillance" is tempting for its 60-second clips, it will accelerate the current drain bug.
 4.  **Lower Detection Sensitivity:** Reduce the "[Motion Detection](https://quvii.com/learn/reolink-camera-motion-detection-false-alerts-fix)" sensitivity to Level 3 or lower. This minimizes the "Ghost Triggers" mentioned earlier, giving the AI less work to do while the software is unstable.
 

@@ -145,7 +145,7 @@ The recent app issues underscore that even with a commitment to local storage, t
 Your Eufy Security app version 4.8.0 likely stopped working due to recent server-side updates by Eufy in June 2026. These updates, particularly to Two-Factor Authentication protocols, have made the older app version incompatible with current authentication services, leading to login errors and access issues.
 
 ### Do I need to update my Eufy app?
-Yes, if you are experiencing login issues with Eufy Security app version 4.8.0 or older, you need to update to the latest unified Eufy app (version 6.x or newer) available on your device's app store. This is the most effective way to restore functionality and ensure compatibility with Eufy's current server architecture.
+Yes, if you are experiencing login issues with Eufy Security app version 4.8.0 or older, you need to update to the latest unified [Eufy app](https://quvii.com/learn/eufy-app-performance-issues-june-2026-20260630) (version 6.x or newer) available on your device's app store. This is the most effective way to restore functionality and ensure compatibility with Eufy's current server architecture.
 
 ### Can I still access my Eufy cameras without the app?
 While the primary method of accessing Eufy cameras is through the mobile app, you can use the Eufy web portal at <a href="https://www.amazon.com/s?k=mysecurity.eufylife.com&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">mysecurity.eufylife.com</a> as a fallback. This allows you to view live feeds and recorded events directly from a web browser, bypassing mobile app-specific problems.

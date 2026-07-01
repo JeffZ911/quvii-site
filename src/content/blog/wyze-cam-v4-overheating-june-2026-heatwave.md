@@ -29,7 +29,7 @@ High-temperature alerts are flooding user forums as the June 2026 heatwave pushe
 > 📝 **Editorial Note:** This guide is AI-assisted and game data evolves rapidly. Please cross-reference with in-game information. _Updated: 2026-06-29._
 
 
-**Quick Answer:** The June 2026 heatwave is causing Wyze Cam v4 units to exceed their 122°F operating limit, leading to thermal shutdowns and purple image tints. Update to firmware v4.52.x and move cameras out of direct sunlight immediately.
+**Quick Answer:** The June 2026 heatwave is causing Wyze Cam v4 units to exceed their 122°F operating limit, leading to thermal shutdowns and purple image tints. Update to firmware v4.52.x and move cameras out of [direct sunlight](https://quvii.com/learn/google-nest-cam-battery-overheating-direct-sunlight) immediately.
 
 ## What happened
 

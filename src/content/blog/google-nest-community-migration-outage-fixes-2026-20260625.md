@@ -125,7 +125,7 @@ For consumers frustrated by the "cloud-dependent" nature of Nest and the volatil
 | :--- | :--- | :--- |
 | **A Renter** | Easy Setup / Battery Power | Nest Cam (Battery) + Standard Sub |
 | **A Homeowner** | Reliability / No Fees | Local Storage Cameras (Reolink/Amcrest) |
-| **A Legacy Nest User** | Keeping Old Gear Alive | Move to Home Assistant or Hubitat |
+| **A Legacy Nest User** | Keeping Old Gear Alive | Move to [Home Assistant](https://quvii.com/blog/home-assistant-2026-7-0b0-camera-breaking-changes) or Hubitat |
 | **Privacy Conscious** | Data Sovereignty | Encrypted Local Storage (No Cloud) |
 
 ### Total Cost of Ownership (3-Year Analysis)

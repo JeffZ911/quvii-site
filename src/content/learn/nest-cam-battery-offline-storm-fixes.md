@@ -56,7 +56,7 @@ The primary consequence of an offline status is the immediate loss of real-time 
 Storms create a "perfect storm" of technical failures that can knock a wireless camera offline. Understanding these triggers helps in prioritizing which part of your home infrastructure to fix first.
 
 ### Power Outages and Wi-Fi Dependency
-The most common reason a Nest Cam goes offline after a storm is the loss of power to your network equipment. Even though the camera has its own battery, your Wi-Fi router and modem likely do not. If the storm causes a local power flicker or a sustained outage, your router shuts down, and the camera loses its bridge to the internet. According to Google Nest Support, the camera requires a constant Wi-Fi connection to remain "online" in the app interface.
+The most common reason a Nest Cam goes offline after a storm is the loss of power to your network equipment. Even though the camera has its own battery, your Wi-Fi router and modem likely do not. If the storm causes a local power flicker or a sustained outage, your router shuts down, and the camera loses its bridge to the internet. According to [Google Nest](https://quvii.com/learn/google-nest-cam-battery-overheating-direct-sunlight) Support, the camera requires a constant Wi-Fi connection to remain "online" in the app interface.
 
 ### Internet Service Provider Disruptions
 Even if your home has a backup power solution (like a UPS or generator) for your router, the storm may have damaged the infrastructure of your Internet Service Provider (ISP). Fallen trees can sever fiber or cable lines, and lightning strikes can damage neighborhood nodes. In these cases, your Wi-Fi network may be active, but there is no "gateway" to the cloud. The camera will stay connected to the router but will show as offline because it cannot reach Google’s servers.
@@ -170,6 +170,6 @@ Indirectly, yes. While the rain itself doesn't drain the battery, the motion cau
 ## Sources
 - Google Nest Support: Nest Cam technical specifications
 - Google Nest Support: How Nest cameras record when offline
-- RTINGS: Google Nest Cam (Battery) Review
+- RTINGS: [Google Nest Cam](https://quvii.com/learn/google-nest-cam-battery-overheating-direct-sunlight) (Battery) Review
 - <a href="https://www.amazon.com/s?k=FCC+ID+Filing%3A+Google+G3AL9+%28Nest+Cam+Battery%29&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">FCC ID Filing: Google G3AL9 (Nest Cam Battery)</a>
 - <a href="https://www.amazon.com/s?k=Google+Nest+Community%3A+Troubleshooting+Offline+Cameras&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Google Nest Community: Troubleshooting Offline Cameras</a>

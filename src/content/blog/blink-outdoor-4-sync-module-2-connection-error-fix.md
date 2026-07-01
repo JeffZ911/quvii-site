@@ -88,7 +88,7 @@ The choice between cloud and local storage also has significant privacy implicat
 
 **Local Storage Comparison: Blink vs. Eufy vs. Reolink (2026)**
 
-| Feature                | Blink Sync Module 2              | [Eufy HomeBase](https://quvii.com/learn/eufy-homebase-storage-issues-june-2026-20260628) 3                  | Reolink Argus 4 Pro (Camera-based) |
+| Feature                | Blink Sync Module 2              | [Eufy HomeBase](https://quvii.com/learn/eufy-homebase-storage-issues-june-2026-20260628) 3                  | [Reolink Argus](https://quvii.com/learn/reolink-argus-3-pro-solar-charging-issues-2026) 4 Pro (Camera-based) |
 | :--------------------- | :------------------------------- | :------------------------------- | :--------------------------------- |
 | Storage Method         | USB drive via Sync Module 2      | Internal eMMC + HDD/SSD via HomeBase 3 | MicroSD card in camera             |
 | Max Capacity           | 256GB USB drive        | Up to 16TB HDD/SSD (user-added) | Up to 256GB MicroSD card |

@@ -107,7 +107,7 @@ Navigating the landscape of home security cameras requires careful consideration
 
 **Security Camera Comparison Table (June 2026)**
 
-| Feature                 | EufyCam 3 (HomeBase 3) | [Ring Stick Up Cam](/learn/ring-stick-up-cam-pro-overheating-direct-sun) Battery | Reolink Argus 3 Pro |
+| Feature                 | EufyCam 3 (HomeBase 3) | [Ring Stick Up Cam](/learn/ring-stick-up-cam-pro-overheating-direct-sun) Battery | [Reolink Argus 3](https://quvii.com/learn/reolink-argus-3-pro-solar-charging-issues-2026) Pro |
 | :---------------------- | :-------------------------------- | :----------------------------------- | :----------------------------- |
 | **Resolution**          | 4K (3840x2160)         | 1080p HD                  | 2K (2560x1440)      |
 | **IR Night Vision Range** | Up to 26 ft (8m)       | Up to 30 ft (9m)          | Up to 33 ft (10m)   |
@@ -216,7 +216,7 @@ For users prioritizing complete control over their footage and minimal cloud dep
 
 Understanding the true cost of a security camera system goes beyond the initial hardware price. Recurring subscription fees for [cloud storage](https://quvii.com/blog/eufy-cloud-storage-pricing-changes-2026) and advanced features significantly impact the 3-year Total Cost of Ownership.
 
-| Cost Component        | Eufy (e.g., eufyCam 3 + HomeBase 3) | Ring (e.g., Stick Up Cam Battery) | Reolink (e.g., Argus 3 Pro) |
+| Cost Component        | Eufy (e.g., eufyCam 3 + HomeBase 3) | Ring (e.g., Stick Up Cam Battery) | Reolink (e.g., [Argus 3 Pro](https://quvii.com/learn/reolink-argus-3-pro-solar-charging-issues-2026)) |
 | :-------------------- | :------------------------------------------------- | :------------------------------------------- | :------------------------------------ |
 | **Hardware (approx.)** | Around $150-250 (per camera + HomeBase)            | Under $100 (per camera)                      | Around $80-120 (per camera)           |
 | **Subscription (3-Year)** | Optional: $2.99/camera/month ($107.64)             | Mandatory: $4.99/camera/month ($179.64)      | Optional: $4.99/camera/month ($179.64) |
@@ -322,7 +322,7 @@ For users prioritizing complete control over their footage and minimal cloud dep
 
 Understanding the true cost of a security camera system goes beyond the initial hardware price. Recurring subscription fees for [cloud storage](https://quvii.com/blog/eufy-cloud-storage-pricing-changes-2026) and advanced features significantly impact the 3-year Total Cost of Ownership.
 
-| Cost Component        | Eufy (e.g., eufyCam 3 + HomeBase 3) [cite: 14, 20] | Ring (e.g., Stick Up Cam Battery) [cite: 23] | Reolink (e.g., Argus 3 Pro) [cite: 26] |
+| Cost Component        | Eufy (e.g., eufyCam 3 + HomeBase 3) [cite: 14, 20] | Ring (e.g., Stick Up Cam Battery) [cite: 23] | Reolink (e.g., [Argus 3](https://quvii.com/learn/reolink-argus-3-pro-solar-charging-issues-2026) Pro) [cite: 26] |
 | :-------------------- | :------------------------------------------------- | :------------------------------------------- | :------------------------------------ |
 | **Hardware (approx.)** | Around $150-250 (per camera + HomeBase)            | Under $100 (per camera)                      | Around $80-120 (per camera)           |
 | **Subscription (3-Year)** | Optional: $2.99/camera/month ($107.64)             | Mandatory: $4.99/camera/month ($179.64)      | Optional: $4.99/camera/month ($179.64) |

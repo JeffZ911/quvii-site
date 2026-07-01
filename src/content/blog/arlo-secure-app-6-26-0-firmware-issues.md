@@ -124,7 +124,7 @@ Because of the "Silent Disarm" bug, the shield icon on your dashboard may be mis
 *   Navigate to the **"Routines"** tab.
 *   Select **"Arm Away."**
 *   Tap on the gear icon for "Arm Away" and verify that each camera has a rule assigned to it (e.g., "If Motion, then Record Video").
-*   Walk in front of a camera. If you do not receive a push notification within 10 seconds, the system logic is still hung, and you may need to delete and recreate the "Arm Away" routine.
+*   Walk in front of a camera. If you do not receive a [push notification](https://quvii.com/blog/eufy-security-notification-failure-june-2026) within 10 seconds, the system logic is still hung, and you may need to delete and recreate the "Arm Away" routine.
 
 [Image Description: An Arlo SmartHub VMB5000 being power-cycled by a user in a home office setting to resolve connectivity issues.]
 
