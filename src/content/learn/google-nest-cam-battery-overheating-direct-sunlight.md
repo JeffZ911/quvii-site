@@ -44,7 +44,7 @@ When a [Google Nest](https://quvii.com/blog/google-nest-cam-familiar-faces-june-
 
 ### Identifying Overheating Symptoms
 
-The first sign of overheating is often a push notification from the Google Home app stating that the "Camera is too hot." However, the symptoms can manifest in more subtle ways before a total shutdown occurs:
+The first sign of overheating is often a [push notification](https://quvii.com/blog/eufy-security-notification-failure-june-2026) from the Google Home app stating that the "Camera is too hot." However, the symptoms can manifest in more subtle ways before a total shutdown occurs:
 
 *   **Temperature Warnings:** Users may see a yellow or red status indicator in the app's live view.
 *   **Feature Throttling:** To reduce internal heat generation, the camera may disable power-hungry features such as "Talk & Listen" (two-way audio) or high-resolution live streaming.

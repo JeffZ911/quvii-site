@@ -119,7 +119,7 @@ If you are concerned about the trajectory of AI surveillance, there are concrete
 | **Renter** | Ease of Setup + Privacy | Eufy with HomeBase 3 ([Local AI](https://quvii.com/blog/eufy-edgeagent-local-ai-security-platform-2026), no drilling) |
 | **Homeowner** | Long-term Security | Reolink or UniFi (PoE, NVR-based local storage) |
 | **Small Business** | Reliability + Compliance | Synology Surveillance Station (Total data control) |
-| **Tech Enthusiast** | Data Sovereignty | Home Assistant + Scrypted (DIY local-only) |
+| **Tech Enthusiast** | Data Sovereignty | [Home Assistant](https://quvii.com/blog/home-assistant-2026-7-0b0-camera-breaking-changes) + Scrypted (DIY local-only) |
 
 ### Switching to Local-First Systems
 The most effective way to mitigate AI privacy risks is to move to a "Local-First" architecture. Brands like **Reolink** and **Eufy** (specifically when paired with the **HomeBase 3**) process person and vehicle detection on the device itself. 

@@ -47,7 +47,7 @@ Because the `eufy_security` custom integration (available via HACS) relies on a 
 ### Eufy's Integration History with Home Assistant
 Eufy does not provide an official, documented API for third-party developers. This means every [Home Assistant](https://quvii.com/blog/home-assistant-2026-7-0b0-camera-breaking-changes) integration for Eufy is essentially "reverse-engineered." This history is marked by a cycle of functionality followed by sudden breakage. 
 
-Earlier in February 2026, a similar crisis occurred when the Home Assistant 2026.02 update changed how camera entities handled image streams, causing popular models like the Indoor Cam C220 to stop updating event snapshots. The current June 2026 issues appear to be a recurrence of this fragility, likely triggered by Eufy's push for more aggressive proprietary encryption on their P2P (peer-to-peer) streams, which the community integration must struggle to decode in real-time.
+Earlier in February 2026, a similar crisis occurred when the [Home Assistant](https://quvii.com/blog/home-assistant-2026-7-0b0-camera-breaking-changes) 2026.02 update changed how camera entities handled image streams, causing popular models like the Indoor Cam C220 to stop updating event snapshots. The current June 2026 issues appear to be a recurrence of this fragility, likely triggered by Eufy's push for more aggressive proprietary encryption on their P2P (peer-to-peer) streams, which the community integration must struggle to decode in real-time.
 
 ## Why it matters for buyers
 

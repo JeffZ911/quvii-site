@@ -109,7 +109,7 @@ If your Eufy system is currently experiencing delayed notifications or "loading 
 ### The 'Unbricking' Protocol
 Most notification failures are currently tied to corrupted local app data.
 1.  **Force Stop and Clear Cache:** On Android, go to Settings > Apps > Eufy Security > Storage > Clear Cache. On iOS, you must delete and reinstall the app, as Apple does not allow manual cache clearing for third-party apps.
-2.  **Reset Authentication:** Log out of the Eufy app, toggle Airplane Mode on and off to reset your network stack, and log back in. This forces the app to generate a new security token with Eufy’s push servers.
+2.  **Reset Authentication:** Log out of the [Eufy app](https://quvii.com/learn/eufy-app-performance-issues-june-2026-20260630), toggle Airplane Mode on and off to reset your network stack, and log back in. This forces the app to generate a new security token with Eufy’s push servers.
 
 ### Hard Drive Troubleshooting
 The "media restructuring" bug is particularly aggressive for users who have installed an internal 2.5-inch SSD or HDD in their HomeBase 3. 

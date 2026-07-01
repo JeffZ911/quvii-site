@@ -163,7 +163,7 @@ Finally, understanding the <a href="https://www.amazon.com/s?k=Google+Nest+priva
 Yes. In the Google Home app, go to Settings > Events > Seen Events. You can uncheck "Motion" while keeping "People," "Animals," or "Vehicles" checked. This is the most effective way to stop shadows from triggering phone notifications, as the AI will only alert you when it identifies a specific object.
 
 ### Why does my Nest Cam (Battery) record shadows even if I have Activity Zones set up?
-Activity Zones primarily control *notifications*, not always the *recording* itself. If the camera's PIR sensor detects motion (even from a shadow triggering a heat-change illusion), the camera may still wake up and record the event to your timeline, even if it doesn't send a push notification to your phone.
+Activity Zones primarily control *notifications*, not always the *recording* itself. If the camera's PIR sensor detects motion (even from a shadow triggering a heat-change illusion), the camera may still wake up and record the event to your timeline, even if it doesn't send a [push notification](https://quvii.com/blog/eufy-security-notification-failure-june-2026) to your phone.
 
 ### Does the Nest Cam (Battery) use heat or pixels to detect motion?
 It uses both. It uses a Passive Infrared (PIR) sensor to detect heat signatures and "wake up" from its low-power state. Once awake, it uses its onboard TPU and pixel-based analysis to categorize the motion as a person, animal, vehicle, or generic movement.
