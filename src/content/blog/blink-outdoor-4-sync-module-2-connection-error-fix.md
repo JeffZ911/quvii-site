@@ -218,6 +218,6 @@ Normal battery life for a Blink [Outdoor 4 camera](https://quvii.com/learn/blink
 *   blinkforhome.com — Blink Privacy Notice
 *   support.blinkforhome.com — Blink Support - Using Local Storage with Sync Module 2
 *   us.eufy.com — Eufy Security - HomeBase 3
-*   reolink.com — Reolink Argus 4 Pro
+*   reolink.com — [Reolink Argus](https://quvii.com/learn/reolink-argus-3-pro-solar-charging-issues-2026) 4 Pro
 *   us.eufy.com — Eufy Security - HomeBase 3 Specifications
 *   support.blinkforhome.com — Blink Support - Battery Life and Type for Blink Cameras

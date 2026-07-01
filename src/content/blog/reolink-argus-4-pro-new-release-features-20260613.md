@@ -111,15 +111,15 @@ For those already within the Reolink ecosystem or owning older Argus models, the
 
 ### Argus 3 Pro/Ultra Owners: To Upgrade or Not?
 
-The Argus 3 Pro and Argus 3 Ultra have been staples of the "prosumer" battery camera market for years. However, the Argus 4 Pro introduces several hardware-level changes that cannot be added via firmware.
+The [Argus 3 Pro](https://quvii.com/learn/reolink-argus-3-pro-solar-charging-issues-2026) and Argus 3 Ultra have been staples of the "prosumer" battery camera market for years. However, the Argus 4 Pro introduces several hardware-level changes that cannot be added via firmware.
 
-1.  **Field of View:** The Argus 3 series typically offers a horizontal field of view around 105° to 125°. Moving to 180° is a massive jump that fundamentally changes how much area one camera can cover.
+1.  **Field of View:** The [Argus 3](https://quvii.com/learn/reolink-argus-3-pro-solar-charging-issues-2026) series typically offers a horizontal field of view around 105° to 125°. Moving to 180° is a massive jump that fundamentally changes how much area one camera can cover.
 2.  **Low Light Performance:** While the Argus 3 Ultra has 4K resolution, it relies on traditional infrared or spotlights for [night vision](https://quvii.com/learn/wyze-cam-v4-night-vision-flickering-fix). The Argus 4 Pro’s F/1.0 aperture sensor is significantly more light-sensitive, resulting in clearer images with less noise in low-light conditions.
 3.  **Connectivity:** The jump to Wi-Fi 6 is particularly relevant for 4K video. Older models on Wi-Fi 4 or 5 often suffer from "stuttering" live feeds or delayed notifications if the signal is weak.
 
 ### Is the Upgrade Worth It?
 
-If your current Argus 3 Pro is covering a narrow hallway or a small porch, the upgrade may be unnecessary. However, if you find yourself wishing your current camera could "see just a bit further to the left," or if you are frustrated by the glare of spotlights at night, the Argus 4 Pro is a justified upgrade.
+If your current Argus [3 Pro](https://quvii.com/learn/reolink-argus-3-pro-solar-charging-issues-2026) is covering a narrow hallway or a small porch, the upgrade may be unnecessary. However, if you find yourself wishing your current camera could "see just a bit further to the left," or if you are frustrated by the glare of spotlights at night, the Argus 4 Pro is a justified upgrade.
 
 One concern for existing owners was the battery capacity. The Argus 4 Pro uses a 5000mAh battery, which is smaller than the 6000mAh battery found in some older models. However, Reolink claims that the ColorX technology and more efficient Wi-Fi 6 chip result in a [30% improvement in energy efficiency](https://reolink.com/blog/reolink-argus-4-pro-launch/). Because the camera does not need to power bright white LEDs for [night vision](https://quvii.com/learn/unifi-camera-night-vision-stuck-daytime-fix), the overall draw on the battery during nighttime events is significantly lower.
 

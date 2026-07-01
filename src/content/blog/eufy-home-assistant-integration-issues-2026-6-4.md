@@ -37,7 +37,7 @@ While [Home Assistant](https://quvii.com/blog/home-assistant-2026-7-0b0-camera-b
 *Related: [Home Assistant 2026.7.0b0: Camera Integration Breaking Changes Explain](/blog/home-assistant-2026-7-0b0-camera-breaking-changes) · [Eufy Security Notification Failure: June 2026 Update Issues & Fixes](/blog/eufy-security-notification-failure-june-2026) · [HOA Fines for Window Security Cameras: What Homeowners Need to Know in](/blog/hoa-fines-window-security-cameras-2026)*
 
 
-In the weeks surrounding the release of Home Assistant Core 2026.6.4 in June 2026, the community-maintained integration for Eufy devices experienced a significant spike in failure reports. Users who had previously enjoyed stable (if complex) setups found their entities "unavailable" or their HomeBase hubs failing to authenticate.
+In the weeks surrounding the release of [Home Assistant](https://quvii.com/blog/home-assistant-2026-7-0b0-camera-breaking-changes) Core 2026.6.4 in June 2026, the community-maintained integration for Eufy devices experienced a significant spike in failure reports. Users who had previously enjoyed stable (if complex) setups found their entities "unavailable" or their HomeBase hubs failing to authenticate.
 
 ### The Role of Home Assistant Core 2026.6.4
 It is important to distinguish between a "breaking change" in the Home Assistant Core itself and an external failure of a custom integration. Home Assistant Core 2026.6.4 was largely a maintenance release focused on streamlining the Matter protocol and enhancing energy dashboard visualizations. However, its release coincided with a backend update to Eufy’s own cloud infrastructure. 
@@ -80,7 +80,7 @@ When the integration fails, the cameras don't just stop showing video; they stop
 ### Troubleshooting Challenges
 The troubleshooting flow for Eufy in June 2026 has become notoriously complex. To fix the "unavailable" status, users are often forced to:
 1. Delete the integration and the `eufy-security-ws` Docker container.
-2. Create a secondary "Guest" account in the Eufy app (to avoid 2FA conflicts).
+2. Create a secondary "Guest" account in the [Eufy app](https://quvii.com/learn/eufy-app-performance-issues-june-2026-20260630) (to avoid 2FA conflicts).
 3. Re-share all cameras to that guest account.
 4. Re-configure the integration in Home Assistant using the new credentials.
 

@@ -45,7 +45,7 @@ Securing your home or small business as a renter often means navigating a delica
 
 The term "wireless" for these doorbells primarily denotes two key aspects: battery power and Wi-Fi connectivity. Battery operation eliminates the need to hardwire the doorbell to existing electrical circuits, offering flexibility in placement and simplifying installation for those without existing doorbell wiring or electrical expertise. Wi-Fi connectivity allows the doorbell to communicate with your home network and smartphone, enabling remote access and notifications.
 
-Core features of a video doorbell, whether renter-friendly or not, include a live video feed accessible via a smartphone app, two-way audio communication to speak with visitors, motion detection to alert you to activity, and video recording capabilities to capture events at your doorstep.
+Core features of a video doorbell, whether renter-friendly or not, include a live video feed accessible via a smartphone app, two-way audio communication to speak with visitors, [motion detection](https://quvii.com/learn/ring-camera-motion-detection-not-streaming-fix-june-2026) to alert you to activity, and video recording capabilities to capture events at your doorstep.
 
 ## Why it exists
 

@@ -140,7 +140,7 @@ Navigating the complexities of 2026 surveillance requires a balanced approach be
 For indoor cameras, don't rely solely on "Privacy Mode." If your camera lacks a physical shutter, aftermarket sliding covers (similar to those used for webcams) are available for a few dollars. For outdoor cameras, ensure they are out of arm's reach. If you are a renter and cannot drill holes to mount cameras high, consider "window-mounted" cameras that look out through the glass from the inside, making them impossible for an intruder to tape over.
 
 ### Firmware Updates and Account Security
-Set a recurring calendar reminder to check for firmware updates every 90 days. Most modern apps (Eufy, Ring, Arlo) will send a push notification when an update is available, but these can be easily missed. 
+Set a recurring calendar reminder to check for firmware updates every 90 days. Most modern apps (Eufy, Ring, Arlo) will send a [push notification](https://quvii.com/blog/eufy-security-notification-failure-june-2026) when an update is available, but these can be easily missed. 
 
 ### Advanced Network Hardening
 If you have more than three cameras, consider a dedicated Network Video Recorder (NVR). Systems from brands like Reolink or Amcrest allow you to keep your cameras completely off the internet. They record to a local hard drive, and you only connect them to the web if you specifically want remote viewing. This effectively "tapes over" the digital lens of the internet, preventing remote hackers from ever seeing your feed.

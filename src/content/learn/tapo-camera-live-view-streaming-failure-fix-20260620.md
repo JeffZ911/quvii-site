@@ -79,7 +79,7 @@ To fix a Tapo stream, you must understand the path the data takes. Tapo cameras 
 3.  **The Role of RTSP/ONVIF:** Many Tapo models support the Real-Time Streaming Protocol (RTSP), allowing you to view the feed on a PC using VLC or a Network Video Recorder (NVR). According to <a href="https://www.amazon.com/s?k=TP-Link%27s+official+developer+documentation&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">TP-Link's official developer documentation</a>, this bypasses the Tapo app entirely. If the RTSP stream works but the app doesn't, the issue lies with the Tapo app or cloud services, not the camera hardware.
 4.  **RSSI Thresholds:** Tapo cameras generally require an RSSI better than -60dBm for a stable 2K or 4K stream. Once the signal drops to -70dBm or lower, the packet loss becomes too high for the H.265 decoder to maintain a fluid image, leading to the "spinning wheel."
 
-| Feature | Tapo C210 (Indoor) | Tapo C320WS (Outdoor) | Tapo C425 (Battery) | Tapo C520WS (Pan/Tilt) |
+| Feature | [Tapo C210](https://quvii.com/learn/tapo-c210-firmware-motion-tracking-bug-fix) (Indoor) | Tapo C320WS (Outdoor) | Tapo C425 (Battery) | Tapo C520WS (Pan/Tilt) |
 | :--- | :--- | :--- | :--- | :--- |
 | **Resolution** | 2K (3MP) | 2K QHD (4MP) | 2K QHD (4MP) | 2K QHD (4MP) |
 | **Connectivity** | 2.4GHz Wi-Fi | 2.4GHz + Ethernet | 2.4GHz Wi-Fi | 2.4GHz + Ethernet |

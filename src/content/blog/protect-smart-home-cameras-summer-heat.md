@@ -65,7 +65,7 @@ Consider the following operating temperature ranges for popular outdoor security
 | :---------------------------- | :--------------------------------------- | :------------------------------------ | :--------- | :--------------------------------------- |
 | EufyCam 2 Pro                 | -4°F to 122°F                            | -20°C to 50°C                         | Battery    |                               |
 | EufyCam 3                     | -4°F to 122°F                            | -20°C to 50°C                         | Battery    |                               |
-| Reolink Argus 3 Pro           | 14°F to 131°F                            | -10°C to 55°C                         | Battery    |                               |
+| [Reolink Argus 3](https://quvii.com/learn/reolink-argus-3-pro-solar-charging-issues-2026) Pro           | 14°F to 131°F                            | -10°C to 55°C                         | Battery    |                               |
 | Reolink RLC-811A              | 14°F to 131°F                            | -10°C to 55°C                         | Wired PoE  |                               |
 | Wyze Cam v3 Pro               | -4°F to 113°F                            | -20°C to 45°C                         | Wired      |                               |
 | [Blink Outdoor 4](https://quvii.com/learn/blink-outdoor-4-battery-life-extreme-heat)               | -4°F to 113°F                            | -20°C to 45°C                         | Battery    |                               |
@@ -165,7 +165,7 @@ For sustained protection and when planning future purchases, consider these long
     *   **Consider:** Installing all cameras under significant natural shade or with dedicated sun shields.
     *   **Avoid:** Battery-powered cameras in direct, unshaded sunlight.
 *   **If you need a battery-powered camera for flexibility:**
-    *   **Prioritize:** Models with a robust operating temperature range (e.g., EufyCam 3 or Reolink Argus 3 Pro) and plan for regular battery replacements or supplemental solar panels with proper shading.
+    *   **Prioritize:** Models with a robust operating temperature range (e.g., EufyCam 3 or Reolink [Argus 3 Pro](https://quvii.com/learn/reolink-argus-3-pro-solar-charging-issues-2026)) and plan for regular battery replacements or supplemental solar panels with proper shading.
     *   **Consider:** Shaded installation spots or aftermarket sun shields as mandatory.
 *   **If you are a renter or prefer easy installation:**
     *   **Prioritize:** Cameras that are easy to relocate to shaded areas or that are compatible with clip-on sun shields.

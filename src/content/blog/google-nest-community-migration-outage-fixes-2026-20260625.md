@@ -143,7 +143,7 @@ By contrast, a subscription-free camera with local storage might cost $150-200 u
 No. All accounts from the third-party platform were deleted. You must create a new profile on the Google internal support domain using your Google Account. Any badges, ranks, or posting history from before May 2026 are permanently lost.
 
 ### Where can I find troubleshooting for discontinued products like Nest Secure?
-Since the official community archives are being deleted, your best options are independent forums like Reddit (r/Nest) or the Home Assistant community. Google’s new support site focuses primarily on currently sold hardware and the Gemini for Home ecosystem.
+Since the official community archives are being deleted, your best options are independent forums like Reddit (r/Nest) or the [Home Assistant](https://quvii.com/blog/home-assistant-2026-7-0b0-camera-breaking-changes) community. Google’s new support site focuses primarily on currently sold hardware and the Gemini for Home ecosystem.
 
 ### Is the Google Home Premium subscription required for Nest cameras?
 While the cameras will provide basic live-streaming without a subscription, you will not have access to video history (beyond 3 hours), familiar face detection, or advanced AI alerts. The Standard tier is $10/month, and the Advanced tier is $20/month as of 2026.

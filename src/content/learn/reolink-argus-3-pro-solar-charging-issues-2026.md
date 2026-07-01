@@ -93,7 +93,7 @@ To combat these issues, the 2026-era **Reolink Solar Panel 2S** was introduced. 
 This bypasses the camera’s thermal pause issues; even if the camera is too hot to charge at noon, the Solar Panel 2S stores that energy and delivers it later in the evening when the camera has cooled down.
 
 ### PIR vs. Charging
-The Argus 3 Pro uses a Passive Infrared (PIR) sensor for motion detection. In high-traffic environments, the PIR sensor triggers the camera to wake up, initialize Wi-Fi, and record to the SD card. Each "wake event" consumes a burst of power. In 2026, with increased 2K bitrates and AI detection features, the power draw per event is higher than it was at launch. If a camera faces a busy street, it may consume power faster than a standard solar panel can replenish it, leading to a slow net drain.
+The Argus 3 Pro uses a Passive Infrared (PIR) sensor for [motion detection](https://quvii.com/learn/ring-camera-motion-detection-not-streaming-fix-june-2026). In high-traffic environments, the PIR sensor triggers the camera to wake up, initialize Wi-Fi, and record to the SD card. Each "wake event" consumes a burst of power. In 2026, with increased 2K bitrates and AI detection features, the power draw per event is higher than it was at launch. If a camera faces a busy street, it may consume power faster than a standard solar panel can replenish it, leading to a slow net drain.
 
 ## Real-world implications
 
