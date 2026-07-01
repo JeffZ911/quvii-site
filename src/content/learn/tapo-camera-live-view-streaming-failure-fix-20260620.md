@@ -116,7 +116,7 @@ A failure in live viewing isn't just a technical nuisance; it has tangible secur
 
 To minimize streaming failures, match your hardware to your environment using this framework:
 
-*   **If you are a Renter:** Prioritize the **Tapo C210**. It is affordable and easy to move. Since you likely cannot drill holes for Ethernet, ensure your router is within 20 feet of the camera and use the 2.4GHz band with a fixed channel (1, 6, or 11) to avoid interference.
+*   **If you are a Renter:** Prioritize the **[Tapo C210](https://quvii.com/learn/tapo-c210-firmware-motion-tracking-bug-fix)**. It is affordable and easy to move. Since you likely cannot drill holes for Ethernet, ensure your router is within 20 feet of the camera and use the 2.4GHz band with a fixed channel (1, 6, or 11) to avoid interference.
 *   **If you are a Homeowner:** Prioritize wired outdoor models like the **Tapo C320WS** or **C520WS**. Crucially, use the built-in Ethernet port whenever possible. A hardwired connection eliminates 99% of live view failures.
 *   **If you have no outdoor power:** The **Tapo C425** is the best option, but it requires the strongest Wi-Fi signal because it enters a deep sleep state to save power. If your live view fails to "wake up" the camera, you may need a Wi-Fi access point closer to the mounting location.
 *   **If you prioritize privacy:** Use a high-end microSD card (Max Endurance) for local storage and use the "Privacy Mode" in the app, which physically shutters the lens on models like the C225.

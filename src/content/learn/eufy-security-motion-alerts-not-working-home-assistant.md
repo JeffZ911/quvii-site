@@ -87,7 +87,7 @@ The backbone of the Eufy-HA connection is the `eufy-security-ws` (Websocket) ser
 
 ### FCM (Firebase) and Push Token Interception
 
-When you set up the integration, it registers itself with Google’s Firebase Cloud Messaging as if it were an Android device. This is the "secret sauce" for real-time alerts. When Eufy sends a push notification to your phone, it also sends one to the "device" known as `eufy-security-ws`. 
+When you set up the integration, it registers itself with Google’s Firebase Cloud Messaging as if it were an Android device. This is the "secret sauce" for real-time alerts. When Eufy sends a [push notification](https://quvii.com/blog/eufy-security-notification-failure-june-2026) to your phone, it also sends one to the "device" known as `eufy-security-ws`. 
 
 Crucially, the integration parses the *text* and *metadata* of the notification to determine the state of the sensor. For example, if the notification says "Person detected at Front Door," the integration flips the `binary_sensor` to "on." If push notifications are disabled in the Eufy app, or if the notification style is set to "Basic" (no thumbnail/detail), the FCM packet may lack the specific metadata the integration needs to identify which camera triggered.
 

@@ -29,7 +29,7 @@ For many homeowners and small business operators, the decision to install a secu
 
 # Eufy Security Camera Privacy Policy Update 2026: What You Need to Know
 
-**Quick Answer:** As of its January 30, 2026, update, Eufy's privacy policy emphasizes local storage and on-device processing for features like facial recognition, with data encrypted both in transit and at rest. While Eufy champions a local-first approach to minimize cloud reliance, users should be aware of optional cloud storage, the brief cloud hosting of push notification thumbnails, and the mandatory Eufy account for device setup and management.
+**Quick Answer:** As of its January 30, 2026, update, Eufy's privacy policy emphasizes local storage and on-device processing for features like facial recognition, with data encrypted both in transit and at rest. While Eufy champions a local-first approach to minimize cloud reliance, users should be aware of optional cloud storage, the brief cloud hosting of [push notification](https://quvii.com/blog/eufy-security-notification-failure-june-2026) thumbnails, and the mandatory Eufy account for device setup and management.
 
 ## What it means
 <!-- auto-related -->

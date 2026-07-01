@@ -92,7 +92,7 @@ If you already own a Lorex or Reolink system, the 2026 landscape requires a stra
 ### Firmware Stability and Security Patches
 Existing Lorex owners should pay close attention to [firmware update](https://quvii.com/blog/reolink-argus-4-pro-firmware-update-issues) logs. As legal pressures mount, there is a risk that certain features—specifically those relying on "Lorex Cloud" for remote viewing—could see service interruptions if the brand is forced to restructure its server architecture to comply with new US privacy mandates. 
 
-Reolink owners have seen a different trend: improved third-party integration. In 2026, Reolink released official drivers for Home Assistant and Homey, making it the preferred choice for those who want their cameras to trigger smart lights or locks without relying on a closed ecosystem.
+Reolink owners have seen a different trend: improved third-party integration. In 2026, Reolink released official drivers for [Home Assistant](https://quvii.com/blog/home-assistant-2026-7-0b0-camera-breaking-changes) and Homey, making it the preferred choice for those who want their cameras to trigger smart lights or locks without relying on a closed ecosystem.
 
 ### Upgrading Your Existing NVR Storage
 With the jump to 16MP and 24MP video, storage requirements have skyrocketed. A single 24MP camera recording at 20fps can consume over 200GB of storage per day. 

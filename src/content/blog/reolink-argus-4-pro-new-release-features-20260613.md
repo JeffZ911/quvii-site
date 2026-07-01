@@ -114,7 +114,7 @@ For those already within the Reolink ecosystem or owning older Argus models, the
 The [Argus 3 Pro](https://quvii.com/learn/reolink-argus-3-pro-solar-charging-issues-2026) and Argus 3 Ultra have been staples of the "prosumer" battery camera market for years. However, the Argus 4 Pro introduces several hardware-level changes that cannot be added via firmware.
 
 1.  **Field of View:** The [Argus 3](https://quvii.com/learn/reolink-argus-3-pro-solar-charging-issues-2026) series typically offers a horizontal field of view around 105° to 125°. Moving to 180° is a massive jump that fundamentally changes how much area one camera can cover.
-2.  **Low Light Performance:** While the Argus 3 Ultra has 4K resolution, it relies on traditional infrared or spotlights for [night vision](https://quvii.com/learn/wyze-cam-v4-night-vision-flickering-fix). The Argus 4 Pro’s F/1.0 aperture sensor is significantly more light-sensitive, resulting in clearer images with less noise in low-light conditions.
+2.  **Low Light Performance:** While the [Argus 3](https://quvii.com/learn/reolink-argus-3-pro-solar-charging-issues-2026) Ultra has 4K resolution, it relies on traditional infrared or spotlights for [night vision](https://quvii.com/learn/wyze-cam-v4-night-vision-flickering-fix). The Argus 4 Pro’s F/1.0 aperture sensor is significantly more light-sensitive, resulting in clearer images with less noise in low-light conditions.
 3.  **Connectivity:** The jump to Wi-Fi 6 is particularly relevant for 4K video. Older models on Wi-Fi 4 or 5 often suffer from "stuttering" live feeds or delayed notifications if the signal is weak.
 
 ### Is the Upgrade Worth It?

@@ -27,7 +27,7 @@ inline_image_sections:
   - "Further reading"
 ---
 
-Few experiences in home security are more frustrating than a smartphone that buzzes every time the wind blows through a maple tree. For Reolink users, mastering motion detection settings is the difference between a reliable security tool and a persistent digital nuisance.
+Few experiences in home security are more frustrating than a smartphone that buzzes every time the wind blows through a maple tree. For Reolink users, mastering [motion detection](https://quvii.com/learn/ring-camera-motion-detection-not-streaming-fix-june-2026) settings is the difference between a reliable security tool and a persistent digital nuisance.
 
 # How to Fix Reolink Camera Motion Detection False Alerts (2026 Guide)
 

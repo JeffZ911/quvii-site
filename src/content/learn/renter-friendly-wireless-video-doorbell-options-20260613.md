@@ -58,7 +58,7 @@ Beyond landlord restrictions, these devices address the desire for simplified in
 
 Another significant driver is the desire for portable security. Unlike wired systems that are fixed to a property, renter-friendly wireless doorbells can be easily removed and taken to a new residence, allowing tenants to retain their investment in security equipment. This portability enhances the value proposition for temporary residents.
 
-Finally, a growing frustration with subscription-heavy incumbents has fueled the market for alternatives. Many traditional video doorbells lock essential features, such as video recording storage or advanced motion detection, behind mandatory monthly cloud storage fees. Renter-friendly options often prioritize local storage solutions, offering robust features without recurring costs, appealing to budget-conscious consumers seeking long-term value.
+Finally, a growing frustration with subscription-heavy incumbents has fueled the market for alternatives. Many traditional video doorbells lock essential features, such as video recording storage or advanced [motion detection](https://quvii.com/learn/ring-camera-motion-detection-not-streaming-fix-june-2026), behind mandatory monthly cloud storage fees. Renter-friendly options often prioritize local storage solutions, offering robust features without recurring costs, appealing to budget-conscious consumers seeking long-term value.
 
 ## How it works under the hood
 

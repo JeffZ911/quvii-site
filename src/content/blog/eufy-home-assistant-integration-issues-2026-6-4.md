@@ -40,7 +40,7 @@ While [Home Assistant](https://quvii.com/blog/home-assistant-2026-7-0b0-camera-b
 In the weeks surrounding the release of [Home Assistant](https://quvii.com/blog/home-assistant-2026-7-0b0-camera-breaking-changes) Core 2026.6.4 in June 2026, the community-maintained integration for Eufy devices experienced a significant spike in failure reports. Users who had previously enjoyed stable (if complex) setups found their entities "unavailable" or their HomeBase hubs failing to authenticate.
 
 ### The Role of Home Assistant Core 2026.6.4
-It is important to distinguish between a "breaking change" in the Home Assistant Core itself and an external failure of a custom integration. Home Assistant Core 2026.6.4 was largely a maintenance release focused on streamlining the Matter protocol and enhancing energy dashboard visualizations. However, its release coincided with a backend update to Eufy’s own cloud infrastructure. 
+It is important to distinguish between a "breaking change" in the [Home Assistant](https://quvii.com/blog/home-assistant-2026-7-0b0-camera-breaking-changes) Core itself and an external failure of a custom integration. Home Assistant Core 2026.6.4 was largely a maintenance release focused on streamlining the Matter protocol and enhancing energy dashboard visualizations. However, its release coincided with a backend update to Eufy’s own cloud infrastructure. 
 
 Because the `eufy_security` custom integration (available via HACS) relies on a middle-man server—the `eufy-security-ws` wrapper—any minor change in how Eufy’s mobile app communicates with its servers can break the integration. In June 2026, reports on the [eufy_security GitHub repository](https://github.com/fuatakgun/eufy_security) indicated that the integration was failing to discover HomeBase 3 units and the newer S340 Dual-Lens cameras, even after users attempted to re-share devices or create fresh "guest" accounts.
 
@@ -115,7 +115,7 @@ For current Eufy owners, the best resource is the [GitHub Issue Tracker for eufy
 ### Leverage RTSP Where Possible
 Some Eufy models (primarily the indoor cams and the older eufyCam 2 series) support RTSP (Real-Time Streaming Protocol). If your camera supports this, you can bypass the `eufy_security` integration entirely for the video feed and use the generic "Camera" integration in Home Assistant. 
 *   **Pros:** Much more stable; works even if Eufy’s cloud is down.
-*   **Cons:** RTSP often disables "AI" features like human detection within the Eufy app, and it is generally not available on battery-powered or solar-powered models (like the S330) to preserve battery life.
+*   **Cons:** RTSP often disables "AI" features like human detection within the [Eufy app](https://quvii.com/learn/eufy-app-performance-issues-june-2026-20260630), and it is generally not available on battery-powered or solar-powered models (like the S330) to preserve battery life.
 
 ### Decision Framework: Should You Switch?
 *   **If you are a Renter:** Eufy's battery-powered cameras remain a top choice for ease of installation. If Home Assistant integration is just a "nice to have," stick with Eufy and rely on the official app for critical alerts.
