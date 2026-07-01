@@ -62,7 +62,7 @@ The 2026 Congressional inquiry focuses on whether Eufy cameras—which are manuf
 For the average consumer, the Eufy controversy highlights a critical technical reality: "Local Storage" is rarely 100% local if you want modern features like remote viewing and smart notifications.
 
 ### The Hidden Cost of 'Free' Local Storage
-Eufy’s primary selling point has always been its lack of a monthly subscription. By using the [HomeBase 3](https://quvii.com/learn/eufycam-s330-homebase-3-firmware-sync-error) (S380), users can store weeks of 4K footage on a local hard drive. However, to send a "Rich Notification" (a push notification that includes a picture of the person at your door), the camera must upload that image to a cloud server so your phone can download it anywhere in the world.
+Eufy’s primary selling point has always been its lack of a monthly subscription. By using the [HomeBase 3](https://quvii.com/learn/eufycam-s330-homebase-3-firmware-sync-error) (S380), users can store weeks of 4K footage on a local hard drive. However, to send a "Rich Notification" (a [push notification](https://quvii.com/blog/eufy-security-notification-failure-june-2026) that includes a picture of the person at your door), the camera must upload that image to a cloud server so your phone can download it anywhere in the world.
 
 Buyers must now choose between:
 1.  **Convenience:** Getting a photo on their lock screen (requires cloud upload).

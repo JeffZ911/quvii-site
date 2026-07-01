@@ -153,7 +153,7 @@ Compare this to a "no-subscription" competitor where the hardware might cost $20
 No. Rapid temperature changes can cause condensation to form inside the lens or housing, leading to permanent water damage or fogging. It is better to provide shade and allow the device to cool naturally.
 
 ### Does the color of the Ring doorbell faceplate matter for heat?
-Yes. Darker colors (like "Venetian Bronze") absorb more solar radiation than lighter colors (like "Satin Nickel"). If your doorbell is in direct sunlight, choosing a silver or white faceplate can help keep the internal temperature slightly lower.
+Yes. Darker colors (like "Venetian Bronze") absorb more solar radiation than lighter colors (like "Satin Nickel"). If your doorbell is in [direct sunlight](https://quvii.com/learn/google-nest-cam-battery-overheating-direct-sunlight), choosing a silver or white faceplate can help keep the internal temperature slightly lower.
 
 ### Why does my battery-powered Ring doorbell die faster in the summer?
 Heat causes lithium-ion batteries to discharge more quickly and struggle to accept a charge from solar chargers or trickle-charging wires. If the battery gets too hot, the device will stop charging entirely to prevent a fire hazard.

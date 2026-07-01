@@ -113,7 +113,7 @@ For current issues, users should begin engaging with the new Google Home and Nes
 ### Monitoring Independent Forums
 To regain the vendor-neutrality lost in this migration, owners should pivot to independent platforms:
 *   **r/GoogleHome and r/Nest on Reddit:** These remain the best sources for real-time outage reports and unofficial fixes.
-*   **Home Assistant Community:** Excellent for those trying to keep legacy Nest hardware working in a local-control environment.
+*   **[Home Assistant](https://quvii.com/blog/home-assistant-2026-7-0b0-camera-breaking-changes) Community:** Excellent for those trying to keep legacy Nest hardware working in a local-control environment.
 *   **X (formerly Twitter):** Following the @googlenest account can sometimes provide faster (though less technical) status updates.
 
 ### Evaluating Future Camera Purchases

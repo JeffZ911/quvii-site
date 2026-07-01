@@ -23,7 +23,7 @@ inline_image_sections:
   - "What to do now"
 ---
 
-For smart home enthusiasts, the promise of Eufy security cameras has long been "local-first" storage without monthly fees, but the bridge between Eufy hardware and the Home Assistant ecosystem remains notoriously fragile. As of June 2026, a new wave of connectivity issues has left many users with broken dashboards and silent automations.
+For smart home enthusiasts, the promise of Eufy security cameras has long been "local-first" storage without monthly fees, but the bridge between Eufy hardware and the [Home Assistant](https://quvii.com/blog/home-assistant-2026-7-0b0-camera-breaking-changes) ecosystem remains notoriously fragile. As of June 2026, a new wave of connectivity issues has left many users with broken dashboards and silent automations.
 
 # Eufy Security Integration Issues with Home Assistant Core 2026.6.4: What You Need to Know
 
@@ -62,7 +62,7 @@ Eufy’s marketing heavily emphasizes that your footage is stored on the HomeBas
 Buyers who want a "forever" system that works even if their internet goes down or if the manufacturer goes out of business should be wary. As noted in Home Assistant’s integration documentation, official integrations are preferred over custom ones because they are vetted for stability. Eufy remains a "Custom Integration" only, placing the burden of maintenance on volunteer developers rather than the brand itself.
 
 ### The Risk of Unofficial Integrations
-When you buy a Eufy camera for use with Home Assistant, you are effectively betting on the continued altruism of a few community developers. If those developers stop updating the code, your $150-200 camera becomes a "dumb" device that can only be viewed through the official Eufy app. This "integration tax" is often hidden from new buyers who see "Works with Google/Alexa" on the box and assume that translates to open-source compatibility.
+When you buy a Eufy camera for use with Home Assistant, you are effectively betting on the continued altruism of a few community developers. If those developers stop updating the code, your $150-200 camera becomes a "dumb" device that can only be viewed through the official [Eufy app](https://quvii.com/learn/eufy-app-performance-issues-june-2026-20260630). This "integration tax" is often hidden from new buyers who see "Works with Google/Alexa" on the box and assume that translates to open-source compatibility.
 
 ### Privacy Implications
 The June 2026 issues also reignite conversations around privacy. Because the integration requires your Eufy credentials to function, any instability often forces users to lower their security settings (such as disabling 2FA or using "legacy" authentication modes) just to get the cameras back online. Given Eufy's past controversies regarding unencrypted cloud streams, privacy-conscious buyers in 2026 are increasingly looking toward brands that offer true local APIs, such as Reolink or Amcrest.

@@ -206,5 +206,5 @@ In the Eufy [Security app](https://quvii.com/blog/eufy-security-app-4-8-0-login-
 - bropat eufy-security-ws GitHub — https://github.com/bropat/eufy-security-ws
 - fuatakgun eufy_security Home Assistant Integration — https://github.com/fuatakgun/eufy_security
 - Eufy Official Support: Notification Settings
-- Home Assistant Community: Eufy Security Integration Thread
+- Home Assistant Community: [Eufy Security Integration](https://quvii.com/blog/eufy-home-assistant-integration-issues-2026-6-4) Thread
 - RTINGS: Eufy Cam 3 (S330) Review
