@@ -82,7 +82,7 @@ The troubleshooting flow for Eufy in June 2026 has become notoriously complex. T
 1. Delete the integration and the `eufy-security-ws` Docker container.
 2. Create a secondary "Guest" account in the [Eufy app](https://quvii.com/learn/eufy-app-performance-issues-june-2026-20260630) (to avoid 2FA conflicts).
 3. Re-share all cameras to that guest account.
-4. Re-configure the integration in Home Assistant using the new credentials.
+4. Re-configure the integration in [Home Assistant](https://quvii.com/blog/home-assistant-2026-7-0b0-camera-breaking-changes) using the new credentials.
 
 This process can take hours and, as many users on r/HomeAssistant have noted, often only provides a temporary fix until the next firmware update.
 

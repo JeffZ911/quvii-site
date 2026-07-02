@@ -26,7 +26,7 @@ inline_image_sections:
   - "Further reading"
 ---
 
-Effective motion detection is the difference between a security system that provides peace of mind and one that becomes a source of constant notification fatigue. For EZVIZ users, mastering detection zones is the primary way to filter out environmental noise and focus on genuine security events.
+Effective [motion detection](https://quvii.com/blog/ring-camera-motion-streaming-issues-july-2026) is the difference between a security system that provides peace of mind and one that becomes a source of constant notification fatigue. For EZVIZ users, mastering detection zones is the primary way to filter out environmental noise and focus on genuine security events.
 
 # EZVIZ Camera Motion Detection Zones: Your Guide to Smarter Security
 

@@ -108,7 +108,7 @@ While motion triggers rely on the cloud, the integration also uses Point-to-Poin
 ![Real-world implications](/img/eufy-security-motion-alerts-not-working-home-assistant/inline-4.webp)
 
 
-Relying on Eufy motion alerts for high-stakes security automations carries inherent risks due to the architecture described above.
+Relying on Eufy [motion alerts](https://quvii.com/blog/reolink-camera-chime-motion-alerts-guide-2026) for high-stakes security automations carries inherent risks due to the architecture described above.
 
 ### The Latency Penalty
 
