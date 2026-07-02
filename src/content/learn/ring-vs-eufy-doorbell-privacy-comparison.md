@@ -90,7 +90,7 @@ However, this comes with a "privacy tax." Enabling E2EE on Ring typically disabl
 ### Eufy's BionicMind AI and Local Storage Architecture
 Eufy’s HomeBase 3 utilizes "Edge AI" (BionicMind). Instead of sending a face to the cloud to determine if it’s "John," the HomeBase processes the biometric data locally using its own NPU (Neural Processing Unit). 
 
-The "Thumbnail Leak" problem, however, is a technical nuance often overlooked. To send a "Rich Notification" (a push notification with a picture of the person) to your phone, Eufy must upload that small image to a cloud proxy. Even if your video storage is 100% local, these unencrypted thumbnails were historically a point of failure. In 2026, Eufy's firmware now allows users to opt-out of "Rich Notifications" to ensure that not even a single frame of video ever touches a cloud server.
+The "Thumbnail Leak" problem, however, is a technical nuance often overlooked. To send a "Rich Notification" (a [push notification](https://quvii.com/blog/eufy-security-notification-failure-june-2026) with a picture of the person) to your phone, Eufy must upload that small image to a cloud proxy. Even if your video storage is 100% local, these unencrypted thumbnails were historically a point of failure. In 2026, Eufy's firmware now allows users to opt-out of "Rich Notifications" to ensure that not even a single frame of video ever touches a cloud server.
 
 ### Network Traffic Comparison
 *   **Ring:** Doorbell → Router → Amazon AWS → Phone. (High cloud dependency).

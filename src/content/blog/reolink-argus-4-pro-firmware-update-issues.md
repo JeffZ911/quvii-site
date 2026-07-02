@@ -118,7 +118,7 @@ The requirement to email support@reolink.com creates a 24-48 hour turnaround. Fo
 | :--- | :--- |
 | **Renter / Homeowner (Stable System)** | **Wait.** If your camera is currently recording and notifying correctly, do not seek a manual push. |
 | **Experiencing [Battery Drain](https://quvii.com/blog/ring-doorbell-battery-drain-june-2026-update)** | **Update.** Contact support immediately; this is almost always a firmware-related PIR or Wi-Fi wake issue. |
-| **Using Home Assistant/Scrypted** | **Research.** Check the latest integration notes before updating, as new firmware often breaks API paths. |
+| **Using [Home Assistant](https://quvii.com/blog/home-assistant-2026-7-0b0-camera-breaking-changes)/Scrypted** | **Research.** Check the latest integration notes before updating, as new firmware often breaks API paths. |
 | **Using Solar Panels** | **Verify.** If you lose the "Smart Battery" menu, you may lose the ability to stop charging at 80% (to preserve battery health). |
 
 ## What to do now

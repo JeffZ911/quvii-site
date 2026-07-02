@@ -167,4 +167,4 @@ No, motion zones are a processing filter and do not change the resolution or bit
 - EZVIZ Product Page: BC1C Battery Camera Specs
 - EZVIZ Product Page: C3W Pro AI Features
 - EZVIZ CloudPlay Subscription Tiers
-- RTINGS: Security Camera Motion Detection Testing Methodology
+- RTINGS: Security [Camera Motion Detection](https://quvii.com/blog/ring-camera-motion-streaming-issues-july-2026) Testing Methodology

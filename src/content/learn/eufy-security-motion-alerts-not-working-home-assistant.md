@@ -41,7 +41,7 @@ Eufy [motion alerts](https://quvii.com/blog/reolink-camera-chime-motion-alerts-g
 *Related: [Best Smart Locks for Apple Home Key in 2026: A Buyer's Guide](/learn/best-smart-locks-apple-home-key-2026) · [Google Nest Cam Battery Overheating: Causes, Fixes & What You Need to ](/learn/google-nest-cam-battery-overheating-direct-sunlight) · [Eufy HomeBase Storage Issues in June 2026: What You Need to Know](/learn/eufy-homebase-storage-issues-june-2026-20260628)*
 
 
-When motion alerts fail within a Home Assistant (HA) environment, it signifies a communication break between the Eufy cloud (or HomeBase) and the local `eufy-security-ws` server. Even if the camera is physically recording video to an SD card or HomeBase 3, the "event" signal never reaches the Home Assistant state machine.
+When [motion alerts](https://quvii.com/blog/reolink-camera-chime-motion-alerts-guide-2026) fail within a Home Assistant (HA) environment, it signifies a communication break between the Eufy cloud (or HomeBase) and the local `eufy-security-ws` server. Even if the camera is physically recording video to an SD card or HomeBase 3, the "event" signal never reaches the Home Assistant state machine.
 
 ### Identifying the 'Silent Trigger' Symptom
 

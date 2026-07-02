@@ -152,7 +152,7 @@ If basic cleaning doesn't work, try a "hard reset." Locate the reset pinhole on 
 | **High Heat (Arizona/Texas)** | Thermal Cutoff | Upgrade to Solar Panel 2S (Buffer Battery). |
 | **Old Unit (Purchased 2021)** | Battery Degradation | Replace camera; TCO of repair is too high. |
 | **North-Facing Wall** | Low Voltage | Relocate panel using 4m extension cable. |
-| **Frequent "Offline"** | PIR Drain | Reduce "Detection Zone" sensitivity in app. |
+| **Frequent "Offline"** | PIR Drain | Reduce "[Detection Zone](https://quvii.com/learn/ezviz-camera-motion-detection-zones-setup-guide)" sensitivity in app. |
 
 ## Frequently Asked Questions
 

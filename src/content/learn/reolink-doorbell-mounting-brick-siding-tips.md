@@ -120,7 +120,7 @@ Reolink includes one 15° wedge in the box, but third-party manufacturers like W
 ![Real-world implications](/img/reolink-doorbell-mounting-brick-siding-tips/inline-4.webp)
 
 
-The quality of your mounting job directly impacts the doorbell's performance over its 5-to-10-year lifespan. A loose mount on brick will vibrate during high winds, potentially triggering false motion alerts or causing the video feed to appear shaky.
+The quality of your mounting job directly impacts the doorbell's performance over its 5-to-10-year lifespan. A loose mount on brick will vibrate during high winds, potentially triggering false [motion alerts](https://quvii.com/blog/reolink-camera-chime-motion-alerts-guide-2026) or causing the video feed to appear shaky.
 
 ### Field of View and "Wall Wash"
 On brick surfaces, the 15° wedge is almost always mandatory. Because bricks have a rough texture, IR light from the doorbell's LEDs can bounce off the adjacent brick and back into the lens. This causes the foreground (the brick) to look incredibly bright while the background (your walkway) remains pitch black. Using the wedge to angle the camera *away* from the immediate brick wall solves this "wall wash" issue, ensuring clear night vision.

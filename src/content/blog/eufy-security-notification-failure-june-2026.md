@@ -142,7 +142,7 @@ No. While some users reported seeing incorrect thumbnails ("ghost images"), Eufy
 Currently, Eufy does not provide a user-facing toggle to disable "forced" firmware updates for the HomeBase 3, as these often include critical security patches. However, you can prevent the mobile app from updating by disabling "Auto-update apps" in the Google Play Store or iOS App Store settings.
 
 ### Does Eufy HomeBase 3 work without internet?
-The HomeBase 3 can record motion events to its local storage without an internet connection. However, you will not receive push notifications, and you will not be able to view live feeds or recordings remotely until the internet connection is restored. The June 2026 failure mimicked this "offline" behavior even when the internet was connected.
+The HomeBase 3 can record motion events to its local storage without an internet connection. However, you will not receive [push notifications](https://quvii.com/blog/eufy-motion-push-notifications-failing-july-2026), and you will not be able to view live feeds or recordings remotely until the internet connection is restored. The June 2026 failure mimicked this "offline" behavior even when the internet was connected.
 
 ## Sources
 - Eufy Support — HomeBase 3 (S380) Firmware Update Log
