@@ -183,4 +183,4 @@ If your camera was working fine for months and suddenly began draining 10% or mo
 - [Reolink Argus](https://quvii.com/blog/reolink-argus-4-pro-new-release-features-20260613) [4 Pro](https://quvii.com/blog/reolink-argus-4-pro-new-release-features-20260613) Product Page — [https://reolink.com/product/argus-4-pro/](https://reolink.com/product/argus-4-pro/)
 - Reddit r/ReolinkCam Community Firmware Archive — https://www.reddit.com/r/ReolinkCam/
 - RTINGS Security Camera Reviews
-- Home Assistant Reolink Integration Documentation — https://www.home-assistant.io/integrations/reolink/
+- [Home Assistant](https://quvii.com/blog/home-assistant-2026-7-0b0-camera-breaking-changes) Reolink Integration Documentation — https://www.home-assistant.io/integrations/reolink/

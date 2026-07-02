@@ -159,7 +159,7 @@ The Argus 4 Pro stands as a benchmark for what consumer-grade, wire-free securit
 ## Frequently Asked Questions
 
 ### Does the Reolink Argus 4 Pro require a monthly subscription?
-No. Unlike brands like Ring or Arlo, Reolink provides all core features—including 4K recording, person/vehicle/animal AI detection, and push notifications—for free. Users can store footage locally on a microSD card (up to 512GB) or a Reolink Home Hub without recurring fees.
+No. Unlike brands like Ring or Arlo, Reolink provides all core features—including 4K recording, person/vehicle/animal AI detection, and [push notifications](https://quvii.com/blog/eufy-motion-push-notifications-failing-july-2026)—for free. Users can store footage locally on a microSD card (up to 512GB) or a Reolink Home Hub without recurring fees.
 
 ### How does the 180° view work without distorting the image?
 The Argus 4 Pro uses two separate lenses and sensors. The internal processor uses an "image stitching" algorithm to combine the two feeds into a single, seamless panoramic view. This minimizes the "fisheye" distortion commonly seen in single-lens ultra-wide cameras.

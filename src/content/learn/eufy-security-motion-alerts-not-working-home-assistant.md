@@ -68,7 +68,7 @@ Even though Eufy markets many of its products, like the eufyCam 3 (S330), as "lo
 
 ### Authentication and 2FA Hurdles
 
-Eufy’s security policies have tightened significantly. If you use the same account for both your primary smartphone and your Home Assistant integration, Eufy will frequently log out the older session when the new one begins. This "session hijacking" kills the websocket connection required for motion alerts. Furthermore, Eufy’s mandatory Two-Factor Authentication (2FA) can cause the integration to hang if the session token expires and the user is not present to input a new code into the HA configuration flow.
+Eufy’s security policies have tightened significantly. If you use the same account for both your primary smartphone and your Home Assistant integration, Eufy will frequently log out the older session when the new one begins. This "session hijacking" kills the websocket connection required for [motion alerts](https://quvii.com/blog/reolink-camera-chime-motion-alerts-guide-2026). Furthermore, Eufy’s mandatory Two-Factor Authentication (2FA) can cause the integration to hang if the session token expires and the user is not present to input a new code into the HA configuration flow.
 
 ### Power Management and Deep Sleep Cycles
 
