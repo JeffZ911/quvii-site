@@ -46,7 +46,7 @@ Beyond Reolink, the Hikvision integration in 2026.7.0b0 has reported issues with
 
 Furthermore, some very outdated integrations have been removed from the core. This action primarily affects users relying on older, less maintained camera platforms, which may now lose direct integration capabilities with Home Assistant. This cleanup is a regular part of Home Assistant's development cycle, encouraging the use of more current and actively supported integrations.
 
-Previous Home Assistant updates have also seen significant changes impacting camera integrations. For instance, the 2024.11 release introduced WebRTC (Web Real-Time Communication) changes that caused streaming issues for some generic and Amcrest camera integrations. These past instances highlight a history of evolving camera API handling within Home Assistant, underscoring the need for users to stay current with release notes.
+Previous Home Assistant updates have also seen significant changes impacting camera integrations. For instance, the 2024.11 release introduced WebRTC (Web Real-Time Communication) changes that caused [streaming issues](https://quvii.com/blog/ring-camera-motion-streaming-issues-july-2026) for some generic and Amcrest camera integrations. These past instances highlight a history of evolving camera API handling within Home Assistant, underscoring the need for users to stay current with release notes.
 
 ### Automation Trigger and Condition Updates
 

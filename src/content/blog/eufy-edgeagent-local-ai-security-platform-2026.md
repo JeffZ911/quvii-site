@@ -140,7 +140,7 @@ No, the core AI features of the EdgeAgent platform—including facial recognitio
 While HomeBase 3 (S380) introduced BionicMind AI and expandable local storage, the new AI Station (launching H2 2026) features a more powerful large-model AI chipset. This new hardware is required to achieve the 63% faster processing speeds and the 100-foot recognition range promised by the EdgeAgent platform. HomeBase 3 will likely act as a secondary node or storage expander in the new ecosystem.
 
 ### Can EdgeAgent work without an internet connection?
-EdgeAgent is designed for local-first processing, meaning it can detect threats, recognize faces, and trigger local alarms (like sirens or lights) without an active internet connection. However, an internet connection is still required for remote viewing on your smartphone, receiving push notifications when away from home, and receiving firmware security patches.
+EdgeAgent is designed for local-first processing, meaning it can detect threats, recognize faces, and trigger local alarms (like sirens or lights) without an active internet connection. However, an internet connection is still required for remote viewing on your smartphone, receiving [push notifications](https://quvii.com/blog/eufy-motion-push-notifications-failing-july-2026) when away from home, and receiving firmware security patches.
 
 ### What is the Smart Security Shield?
 The Smart Security Shield is a new hardware component of the EdgeAgent platform. It is a beacon-style device that uses dual-radar technology to detect movement more accurately than traditional cameras. It serves as a "first line of defense," identifying people via DSKey before they reach your front door and providing 360-degree illumination and audible warnings.

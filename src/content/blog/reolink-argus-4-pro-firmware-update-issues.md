@@ -56,7 +56,7 @@ Because Reolink does not typically host standalone firmware files for battery ca
 | :--- | :--- | :--- |
 | v3.0.0.3867 | Legacy | Initial launch firmware; reported Wi-Fi 6 handshake drops. |
 | v3.0.0.4978 | Stable | Improved ColorX night calibration; added better PIR sensitivity controls. |
-| [Information Unavailable] | Current 2026 Build | Reported to address "Smart Battery" menu bugs and Home Assistant polling. |
+| [Information Unavailable] | Current 2026 Build | Reported to address "Smart Battery" menu bugs and [Home Assistant](https://quvii.com/blog/home-assistant-2026-7-0b0-camera-breaking-changes) polling. |
 | Hardware ID | [Information Unavailable] | Varies by manufacturing batch; check Device Info for specific string. |
 
 ### The 'Push' Update Bottleneck

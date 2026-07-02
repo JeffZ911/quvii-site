@@ -110,7 +110,7 @@ The Blink Outdoor 4 requires Energizer Ultimate Lithium AA batteries. Using alka
 *   **Annual Cost:** If your camera drains every 3 months, you are spending $60-100 per year, per camera, just on power.
 
 ### 3-Year TCO Comparison (Blink vs. Alternatives)
-| Component | Blink Outdoor 4 | [Ring Stick Up Cam](/learn/ring-stick-up-cam-pro-overheating-direct-sun) (Battery) | Reolink Argus Series |
+| Component | Blink Outdoor 4 | [Ring Stick Up Cam](/learn/ring-stick-up-cam-pro-overheating-direct-sun) (Battery) | [Reolink Argus](https://quvii.com/learn/reolink-argus-3-pro-solar-charging-issues-2026) Series |
 | :--- | :--- | :--- | :--- |
 | **Hardware Cost** | $80-120 range | $80-100 range | $70-110 range |
 | **3-Year Battery Cost** | $45-180 (Lithium AAs) | $0 (Rechargeable) | $0 (Rechargeable/Solar) |

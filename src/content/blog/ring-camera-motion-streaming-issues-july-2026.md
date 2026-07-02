@@ -132,7 +132,7 @@ This is usually caused by high latency between your camera, the Ring cloud serve
 Ring’s current policy states they will not share footage with law enforcement without a warrant or your consent, *except* in "emergency" situations involving imminent danger of death or serious physical injury. You can manage these settings in the Ring Control Center.
 
 ### Can I use a Ring camera without a monthly subscription?
-Yes, but functionality is extremely limited. You will receive motion alerts and can view the "Live View" if you click the notification immediately, but you will not have any recorded video history, person detection, or rich notifications.
+Yes, but functionality is extremely limited. You will receive [motion alerts](https://quvii.com/blog/reolink-camera-chime-motion-alerts-guide-2026) and can view the "Live View" if you click the notification immediately, but you will not have any recorded video history, person detection, or rich notifications.
 
 ### How do I fix delayed motion notifications?
 Ensure your "Motion Frequency" is set to "Frequent" and check that your "Motion Zones" are not blocked by physical objects. For battery-powered cameras, ensure the battery is above 20%, as some units enter a power-saving mode that slows down detection.
