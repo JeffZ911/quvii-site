@@ -171,7 +171,7 @@ The transition to 2026.7.0 is part of the "Year of the Voice" legacy, where the 
 If the automated update via HACS fails, users have found success by manually deleting the `pickle` files in the `.storage` directory and re-authenticating using the "Built-in App" method rather than the "SMS/Email" method. This bypasses the partitioned cookie requirement by utilizing a more modern OAuth2 flow.
 
 ### The Future of the Open Home Foundation
-As we move further into 2026, the Open Home Foundation (the entity behind Home Assistant) is working toward a "Matter-native" bridge for Alexa. This would eventually replace the `alexa_media_player` integration with a standardized, local protocol that doesn't rely on unofficial APIs or cookie-scraping, potentially ending the cycle of breaking changes for good.
+As we move further into 2026, the Open Home Foundation (the entity behind Home Assistant) is working toward a "Matter-native" bridge for Alexa. This would eventually replace the `alexa_media_player` integration with a standardized, local protocol that doesn't rely on unofficial APIs or cookie-scraping, potentially ending the cycle of [breaking changes](https://quvii.com/blog/home-assistant-2026-7-0b0-camera-breaking-changes) for good.
 
 ## Frequently Asked Questions
 

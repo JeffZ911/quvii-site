@@ -31,7 +31,7 @@ When a security camera fails to report motion to your smart home hub, the system
 
 # Why Your Eufy Motion Alerts Aren’t Working in Home Assistant
 
-Eufy motion alerts in Home Assistant usually fail because push notifications are disabled in the Eufy app or the eufy-security-ws add-on is disconnected. Ensure notifications are set to 'Include Thumbnail' in the Eufy app to trigger the HA event.
+Eufy [motion alerts](https://quvii.com/blog/reolink-camera-chime-motion-alerts-guide-2026) in Home Assistant usually fail because push notifications are disabled in the Eufy app or the eufy-security-ws add-on is disconnected. Ensure notifications are set to 'Include Thumbnail' in the Eufy app to trigger the HA event.
 
 ## What it means
 

@@ -162,7 +162,7 @@ Some users believe that by plugging the Nest Cam (battery) into a permanent powe
 
 ### Variations Across Battery Camera Models
 
-Not all battery cameras are created equal. While the Nest Cam (battery) has a 104°F limit, competitors like the Arlo Pro 5S or Reolink Argus series often have slightly higher or lower tolerances based on their specific battery chemistry and housing volume.
+Not all battery cameras are created equal. While the Nest Cam (battery) has a 104°F limit, competitors like the Arlo Pro 5S or [Reolink Argus](https://quvii.com/learn/reolink-argus-3-pro-solar-charging-issues-2026) series often have slightly higher or lower tolerances based on their specific battery chemistry and housing volume.
 
 **Decision Framework: Is the Nest Cam (Battery) Right for Your Location?**
 

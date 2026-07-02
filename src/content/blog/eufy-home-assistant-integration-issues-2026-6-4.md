@@ -57,7 +57,7 @@ Earlier in February 2026, a similar crisis occurred when the [Home Assistant](ht
 For a consumer shopping for a security camera in 2026, the "Eufy vs. [Home Assistant](https://quvii.com/blog/home-assistant-2026-7-0b0-camera-breaking-changes)" saga serves as a cautionary tale regarding the difference between "local storage" and "local control."
 
 ### Local Control vs. Cloud Dependency
-Eufy’s marketing heavily emphasizes that your footage is stored on the HomeBase or an SD card, not the cloud. While this is true for the video files, the *control signal*—the command that tells the camera to start streaming or tells Home Assistant that motion was detected—often still travels through Eufy’s servers. When these cloud servers change their "handshake" protocol, Home Assistant users lose access. 
+Eufy’s marketing heavily emphasizes that your footage is stored on the HomeBase or an SD card, not the cloud. While this is true for the video files, the *control signal*—the command that tells the camera to start streaming or tells [Home Assistant](https://quvii.com/blog/home-assistant-2026-7-0b0-camera-breaking-changes) that motion was detected—often still travels through Eufy’s servers. When these cloud servers change their "handshake" protocol, Home Assistant users lose access. 
 
 Buyers who want a "forever" system that works even if their internet goes down or if the manufacturer goes out of business should be wary. As noted in Home Assistant’s integration documentation, official integrations are preferred over custom ones because they are vetted for stability. Eufy remains a "Custom Integration" only, placing the burden of maintenance on volunteer developers rather than the brand itself.
 

@@ -30,7 +30,7 @@ Effective motion detection is the difference between a security system that prov
 
 # EZVIZ Camera Motion Detection Zones: Your Guide to Smarter Security
 
-EZVIZ camera motion detection zones allow users to define specific areas within the camera's field of view where motion triggers alerts, reducing false alarms from irrelevant movements. This feature is configurable through the EZVIZ app, often alongside adjustable sensitivity and AI-powered detection types like human or vehicle recognition.
+EZVIZ [camera motion detection](https://quvii.com/blog/ring-camera-motion-streaming-issues-july-2026) zones allow users to define specific areas within the camera's field of view where motion triggers alerts, reducing false alarms from irrelevant movements. This feature is configurable through the EZVIZ app, often alongside adjustable sensitivity and AI-powered detection types like human or vehicle recognition.
 
 ## What it means
 
@@ -42,7 +42,7 @@ EZVIZ camera motion detection zones allow users to define specific areas within 
 
 Motion detection zones are a software-defined filter applied to a camera’s video feed. Instead of the camera monitoring every single pixel for movement, the user "paints" or selects a grid over the specific areas they want to monitor. In the EZVIZ ecosystem, this is handled entirely through the EZVIZ mobile app or the EZVIZ Studio software on PC.
 
-When you set a detection zone, you are essentially telling the camera’s processor to ignore any pixel changes occurring outside that boundary. For example, if you have a camera facing your front yard, you might draw a zone that covers only your porch and walkway. Any motion occurring on the public sidewalk or the street—such as passing cars or pedestrians—will still be visible in a live view, but it will not trigger a push notification or start a recording event.
+When you set a detection zone, you are essentially telling the camera’s processor to ignore any pixel changes occurring outside that boundary. For example, if you have a camera facing your front yard, you might draw a zone that covers only your porch and walkway. Any motion occurring on the public sidewalk or the street—such as passing cars or pedestrians—will still be visible in a live view, but it will not trigger a [push notification](https://quvii.com/blog/eufy-security-notification-failure-june-2026) or start a recording event.
 
 EZVIZ typically offers two ways to define these zones depending on the camera model and firmware version. Some models use a grid-based system where you tap individual squares to activate them, while newer AI-enabled models often allow for more precise, free-form drawing of polygons to match the exact contours of a driveway or entryway.
 
