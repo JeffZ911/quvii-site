@@ -73,7 +73,7 @@ However, camera features significantly impact power consumption. The EufyCam S3 
 ![Real-world implications](/img/eufycam-s3-pro-solar-charging-efficiency-tips/inline-4.webp)
 
 
-Achieving truly continuous power with the EufyCam S3 Pro's solar charging requires careful consideration of its real-world operating environment.
+Achieving truly continuous power with the EufyCam S3 Pro's [solar charging](https://quvii.com/learn/reolink-argus-3-pro-solar-charging-issues-2026) requires careful consideration of its real-world operating environment.
 
 ### Placement Strategies for Maximum Sun Exposure
 

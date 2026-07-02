@@ -75,7 +75,7 @@ The June 2026 issues also reignite conversations around privacy. Because the int
 For those who already have a house full of Eufy gear, the June 2026 instability is more than a technical glitch; it is a security gap.
 
 ### Loss of Functionality and Security Gaps
-When the integration fails, the cameras don't just stop showing video; they stop sending triggers. If you have an automation that turns on the porch light when the Eufy camera detects a person, that automation is now dead. Users have reported that while the [Eufy app](https://quvii.com/learn/eufy-app-performance-issues-june-2026-20260630) continues to send notifications to their phones, Home Assistant remains oblivious to those events. This can lead to missed security incidents if the user relies on Home Assistant for centralized logging or secondary recording.
+When the integration fails, the cameras don't just stop showing video; they stop sending triggers. If you have an automation that turns on the porch light when the Eufy camera detects a person, that automation is now dead. Users have reported that while the [Eufy app](https://quvii.com/learn/eufy-app-performance-issues-june-2026-20260630) continues to send notifications to their phones, [Home Assistant](https://quvii.com/blog/home-assistant-2026-7-0b0-camera-breaking-changes) remains oblivious to those events. This can lead to missed security incidents if the user relies on Home Assistant for centralized logging or secondary recording.
 
 ### Troubleshooting Challenges
 The troubleshooting flow for Eufy in June 2026 has become notoriously complex. To fix the "unavailable" status, users are often forced to:

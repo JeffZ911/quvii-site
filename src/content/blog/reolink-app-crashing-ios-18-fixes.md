@@ -143,7 +143,7 @@ No. Reolink app updates are provided free of charge through the Apple App Store.
 Yes. You can use the Reolink Client for Windows or macOS, which is often more stable than the mobile version. Additionally, if your cameras are connected to a Reolink NVR, you can view them directly on a monitor or TV connected to the NVR via HDMI.
 
 ### Is iOS 18 specifically known for breaking security apps?
-Major iOS updates often change how "Background App Refresh" and "Push Notifications" work. While not specific to Reolink, many security brands (including Wyze and Lorex) have historically faced similar stability issues during the first 3-6 months of a new iOS release.
+Major iOS updates often change how "Background App Refresh" and "[Push Notifications](https://quvii.com/blog/eufy-motion-push-notifications-failing-july-2026)" work. While not specific to Reolink, many security brands (including Wyze and Lorex) have historically faced similar stability issues during the first 3-6 months of a new iOS release.
 
 ## Sources
 - Reolink Official Support — [https://support.reolink.com/](https://support.reolink.com/)

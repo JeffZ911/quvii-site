@@ -79,7 +79,7 @@ Battery-powered models, such as the SoloCam S340 or eufyCam 2C, utilize aggressi
 ![How it works under the hood](/img/eufy-security-motion-alerts-not-working-home-assistant/inline-3.webp)
 
 
-To fix motion alerts, you must understand the data path. The integration is not "watching" the video for motion; it is waiting for a digital "flag" to be flipped by a bridge server.
+To fix [motion alerts](https://quvii.com/blog/reolink-camera-chime-motion-alerts-guide-2026), you must understand the data path. The integration is not "watching" the video for motion; it is waiting for a digital "flag" to be flipped by a bridge server.
 
 ### The Websocket Bridge Explained
 
