@@ -51,7 +51,7 @@ The 2026 market has bifurcated into two distinct philosophies. Cloud-dependent s
 
 ### 2026 Travel-Ready Camera Comparison
 
-| Feature | Eufy SoloCam S340 | Reolink Altas PT Ultra | TP-Link Tapo C425 | [Reolink Argus 4 Pro](/blog/reolink-argus-4-pro-new-release-features-20260613) |
+| Feature | Eufy SoloCam S340 | Reolink Altas PT Ultra | TP-Link [Tapo C425](https://quvii.com/blog/tapo-c425-battery-drain-june-update-impact) | [Reolink Argus 4 Pro](/blog/reolink-argus-4-pro-new-release-features-20260613) |
 | :--- | :--- | :--- | :--- | :--- |
 | **Resolution** | 3K (Dual Lens) | 4K UHD | 2K QHD | 4K UHD |
 | **Field of View** | 360° Pan/Tilt | 360° Pan/Tilt | 150° Fixed | 180° Wide (Dual) |

@@ -75,7 +75,7 @@ The "BionicMind" AI is the software engine that identifies people, pets, and veh
 
 ### Cloud Service Interactions
 Despite the "local-first" branding, the 2026 policy clarifies three specific instances where the cloud (AWS) is utilized:
-1.  **Push Notifications:** To send a notification with a thumbnail of the event, Eufy briefly hosts a small image on AWS. The 2026 policy states these are end-to-end encrypted and deleted immediately after the notification is delivered or after a short expiration period.
+1.  **[Push Notifications](https://quvii.com/blog/eufy-motion-push-notifications-failing-july-2026):** To send a notification with a thumbnail of the event, Eufy briefly hosts a small image on AWS. The 2026 policy states these are end-to-end encrypted and deleted immediately after the notification is delivered or after a short expiration period.
 2.  **Account Management:** User authentication, device settings, and sharing permissions are managed via Eufy’s cloud servers to allow for remote access.
 3.  **Optional Cloud Backup:** For users who want off-site redundancy in case of theft of the HomeBase itself, Eufy offers a paid cloud storage tier. This data is encrypted, and Eufy claims it does not hold the keys to decrypt this footage.
 

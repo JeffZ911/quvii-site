@@ -134,7 +134,7 @@ Users should also migrate their existing "state-based" triggers (e.g., triggerin
 ### Total Cost of Ownership (TCO) Analysis
 While Home Assistant itself is free, maintaining a high-performance Alexa-integrated camera system has hidden costs over a 3-year period.
 
-*   **Hardware:** A high-quality 4K PoE camera (e.g., Reolink or Amcrest) costs **$100–$180**.
+*   **Hardware:** A high-quality 4K [PoE camera](https://quvii.com/blog/reolink-poe-firmware-june-2026-issues) (e.g., Reolink or Amcrest) costs **$100–$180**.
 *   **Subscription:** While HA doesn't require one, **Nabu Casa ($65/year)** is highly recommended for secure Alexa integration. (3-year cost: **$195**).
 *   **Storage:** A 2TB surveillance-grade HDD for local NVR storage costs **around $70**.
 *   **Power:** A PoE switch or injector adds **$20–$50**.

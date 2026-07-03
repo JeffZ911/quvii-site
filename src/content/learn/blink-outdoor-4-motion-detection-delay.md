@@ -30,7 +30,7 @@ The effectiveness of a home security camera hinges not just on its resolution or
 
 # Blink Outdoor 4 Motion Detection Delay: What You Need to Know in 2026
 
-The Blink Outdoor 4 camera, like many battery-powered security cameras, can experience a motion detection delay of approximately 3-6 seconds. This latency is primarily due to the camera's power-saving 'sleep' mode and the time it takes for its Passive Infrared (PIR) sensors to wake up, detect heat signatures, process the event, and transmit an alert over Wi-Fi.
+The Blink Outdoor 4 camera, like many battery-powered security cameras, can experience a [motion detection](https://quvii.com/blog/ring-camera-motion-streaming-issues-july-2026) delay of approximately 3-6 seconds. This latency is primarily due to the camera's power-saving 'sleep' mode and the time it takes for its Passive Infrared (PIR) sensors to wake up, detect heat signatures, process the event, and transmit an alert over Wi-Fi.
 
 ## What it means
 

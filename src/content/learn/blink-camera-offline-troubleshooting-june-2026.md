@@ -52,7 +52,7 @@ In the 2026 version of the Blink app, an offline state is typically signaled by 
 ### Physical Camera LED Codes
 Blink has refined its LED signaling for the [Outdoor 4](https://quvii.com/learn/blink-outdoor-4-motion-detection-delay) and Mini 2K+ models to provide better diagnostic feedback without needing to open the app.
 
-| LED Pattern | Meaning (Outdoor 4 / Mini 2K+) | Action Required |
+| LED Pattern | Meaning ([Outdoor 4](https://quvii.com/learn/blink-outdoor-4-motion-detection-delay) / Mini 2K+) | Action Required |
 | :--- | :--- | :--- |
 | **Solid Red** | Hardware/Boot Error or Battery Failure | Replace batteries immediately. |
 | **Flashing Red (5x)** | Low Voltage / Failed Wake-up | Check battery type (must be 1.5V Lithium). |

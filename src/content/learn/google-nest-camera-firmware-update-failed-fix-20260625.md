@@ -259,7 +259,7 @@ Yes, Google commits to providing automatic critical security updates for [Google
 *   Google Support - Factory reset Nest Cam
 *   <a href="https://www.amazon.com/s?k=Whizz-Experts+-+Google+Nest+Camera+light+meanings&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Whizz-Experts - [Google Nest Camera](https://quvii.com/blog/google-nest-camera-offline-june-2026-update) light meanings</a>
 *   Google Support - Restart Nest Cam (battery)
-*   <a href="https://www.amazon.com/s?k=Reddit+-+Nest+Doorbell+%28battery%29+issues+after+update&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Reddit - Nest Doorbell (battery) issues after update</a>
+*   <a href="https://www.amazon.com/s?k=Reddit+-+Nest+Doorbell+%28battery%29+issues+after+update&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Reddit - Nest Doorbell (battery) [issues after](https://quvii.com/blog/tapo-c425-battery-drain-june-update-impact) update</a>
 *   <a href="https://www.amazon.com/s?k=Reddit+-+Nest+Cam+%28wired%29+night+vision+issues+after+update&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Reddit - Nest Cam (wired) night vision issues after update</a>
 *   <a href="https://www.amazon.com/s?k=Reddit+-+Nest+Cam+%28battery%29+battery+drain+after+update&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Reddit - Nest Cam (battery) [battery drain](https://quvii.com/blog/eufy-security-camera-battery-drain-june-2026) after update</a>
 *   <a href="https://www.amazon.com/s?k=Google+Store+-+Nest+Doorbell+%28wired%2C+2nd+gen%29+specs&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Google Store - Nest Doorbell (wired, 2nd gen) specs</a>

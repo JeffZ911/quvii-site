@@ -107,7 +107,7 @@ If your goal is a stable, locally-controlled smart home, consider brands that of
 | **Ubiquiti** | G5 Bullet | PoE | Yes (Protect) | No |
 | **Eufy** | S330 (eufyCam 3) | Wi-Fi | No (Custom) | No |
 
-*Data compiled from [manufacturer spec sheets](https://www.reolink.com) and Home Assistant Integration lists*.
+*Data compiled from [manufacturer spec sheets](https://www.reolink.com) and [Home Assistant](https://quvii.com/learn/home-assistant-2026-7-alexa-media-player-breaking-changes) Integration lists*.
 
 ### Monitor Community & Integration Updates
 For current Eufy owners, the best resource is the [GitHub Issue Tracker for eufy_security](https://github.com/fuatakgun/eufy_security/issues). Developers often post "beta" versions of the integration that address specific firmware changes before they are officially released to HACS. Check your `eufy-security-ws` version; often, updating the underlying websocket server is more important than updating the Home Assistant integration itself.

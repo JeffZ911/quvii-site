@@ -26,7 +26,7 @@ The landscape of smart home security is constantly evolving, and for those who r
 
 # Home Assistant 2026.7.0b0: What Its Camera Integration Breaking Changes Mean for Your Security Setup
 
-The Home Assistant 2026.7.0b0 beta, leading to the 2026.7 final release, introduces significant breaking changes for security camera users, most notably affecting dual-lens Reolink cameras, which are now exposed as sub-devices per lens. Additionally, changes to purpose-specific automation triggers and conditions may require updates to existing camera-related automations, impacting local control and event handling for various camera brands.
+The [Home Assistant](https://quvii.com/learn/home-assistant-2026-7-alexa-media-player-breaking-changes) 2026.7.0b0 beta, leading to the 2026.7 final release, introduces significant [breaking changes](https://quvii.com/learn/home-assistant-2026-7-alexa-media-player-breaking-changes) for security camera users, most notably affecting dual-lens Reolink cameras, which are now exposed as sub-devices per lens. Additionally, changes to purpose-specific automation triggers and conditions may require updates to existing camera-related automations, impacting local control and event handling for various camera brands.
 
 ## What happened
 

@@ -74,7 +74,7 @@ Overheating doesn't just turn the camera off; it degrades the user experience be
 *   Delayed motion notifications.
 *   Reduced video resolution or frame rate.
 *   Disabled "Pre-Roll" or "Birds-Eye View" features.
-*   Inability to use Two-Way Talk.
+*   Inability to use Two-[Way Talk](https://quvii.com/blog/reolink-doorbell-two-way-talk-not-working).
 
 ### Comparison of Ring Doorbell Models (2026 Specs)
 

@@ -71,7 +71,7 @@ The promise of wire-free operation is intrinsically linked to placement flexibil
 ![Impact on existing owners](/img/tapo-c425-battery-drain-june-update-impact/inline-3.webp)
 
 
-Existing Tapo C425 owners who installed the June update are experiencing significant frustration due to the sudden increase in charging frequency. Many owners purchased the C425 for its long battery life (up to 300 days under specific conditions), and the current drain rates are far below expectations. Troubleshooting steps often involve checking camera settings like motion detection sensitivity, activity zones, and Wi-Fi signal strength, as these factors heavily influence battery consumption. Some users have reported that optimizing settings, such as reducing 'Wake-up Times' (event detection and AI filtering) and 'Time of Use' (live streaming/playback), can help, but may not fully resolve the post-update drain. Contacting Tapo support is a necessary step for affected owners to report the issue and seek official guidance or potential firmware rollbacks/fixes. For those severely impacted, investing in a Tapo A200 solar panel (sold separately) might become a necessity to maintain continuous operation, despite the initial appeal of a wire-free setup.
+Existing Tapo C425 owners who installed the June update are experiencing significant frustration due to the sudden increase in charging frequency. Many owners purchased the C425 for its long battery life (up to 300 days under specific conditions), and the current drain rates are far below expectations. Troubleshooting steps often involve checking camera settings like [motion detection](https://quvii.com/blog/ring-camera-motion-streaming-issues-july-2026) sensitivity, activity zones, and Wi-Fi signal strength, as these factors heavily influence battery consumption. Some users have reported that optimizing settings, such as reducing 'Wake-up Times' (event detection and AI filtering) and 'Time of Use' (live streaming/playback), can help, but may not fully resolve the post-update drain. Contacting Tapo support is a necessary step for affected owners to report the issue and seek official guidance or potential firmware rollbacks/fixes. For those severely impacted, investing in a Tapo A200 solar panel (sold separately) might become a necessity to maintain continuous operation, despite the initial appeal of a wire-free setup.
 
 ### Troubleshooting Steps for Current Owners
 
@@ -180,7 +180,7 @@ Tapo states that its cameras use encryption to protect user data, including vide
 *   Reolink — Argus 4 Pro Product Page:
 *   Ring — [Stick Up](https://quvii.com/learn/ring-stick-up-cam-solar-charging-issues-2026) Cam Battery Product Page: [https://ring.com/products/stick-up-cam-battery](https://ring.com/products/stick-up-cam-battery)
 *   Ring — Ring Alarm Pro:
-*   ImpulseGamer — Ring Stick Up Cam Battery Review:
+*   ImpulseGamer — [Ring Stick Up](https://quvii.com/learn/ring-stick-up-cam-solar-charging-issues-2026) Cam Battery Review:
 *   Ring — Ring Protect Plans: [https://ring.com/protect-plans](https://ring.com/protect-plans)
 *   TP-Link — Tapo A200 Solar Panel Product Page:
 *   TP-Link — Tapo Security & Privacy FAQs: https://www.tp-link.com/us/support/faq/3241/

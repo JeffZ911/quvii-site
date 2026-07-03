@@ -56,7 +56,7 @@ For those using Alexa as a primary interface for security camera alerts—such a
 ![Why it exists](/img/home-assistant-alexa-media-player-broken-2026-fixes/inline-2.webp)
 
 
-The fundamental reason for the instability of the Alexa Media Player integration lies in its origin: it is a custom component that relies on reverse-engineering. Unlike official integrations, AMP does not use a documented, public API provided by Amazon for third-party media control. Instead, it emulates the behavior of the Alexa web portal and mobile app.
+The fundamental reason for the instability of the [Alexa Media Player](https://quvii.com/learn/home-assistant-2026-7-alexa-media-player-breaking-changes) integration lies in its origin: it is a custom component that relies on reverse-engineering. Unlike official integrations, AMP does not use a documented, public API provided by Amazon for third-party media control. Instead, it emulates the behavior of the Alexa web portal and mobile app.
 
 Amazon frequently updates its internal APIs, login flows, and security headers to protect its infrastructure and user data. Because these changes are not announced to the developer community, the maintainers of AMP must reactively update the code whenever Amazon "breaks" the connection. This "cat and mouse" game is the primary driver of the integration's fragility.
 
@@ -105,7 +105,7 @@ The instability of AMP in 2026 has forced many users to re-evaluate their smart 
 
 ### Comparison: AMP vs. Official Alexa Integration (2026 Data)
 
-| Feature | Alexa Media Player (AMP) | Official Alexa Integration |
+| Feature | Alexa [Media Player](https://quvii.com/learn/home-assistant-2026-7-alexa-media-player-breaking-changes) (AMP) | Official Alexa Integration |
 | :--- | :--- | :--- |
 | **API Type** | Unofficial / Reverse-Engineered | Official Smart Home API |
 | **Stability** | Low (Breaks with HA Core/Amazon updates) | High (Documented & Supported) |
@@ -121,7 +121,7 @@ Choosing between the custom AMP component and the official integration depends o
 
 *   **If you are a "Set and Forget" homeowner:** Prioritize the **Official Alexa Integration via Nabu Casa**. The cost (around $65/year) is generally worth the elimination of "Invalid flow" errors and the guarantee that your security camera announcements will function reliably.
 *   **If you are a power user on a budget:** Prioritize the **Manual Official Integration**. It provides the same stability as Nabu Casa without the subscription fee, provided you are comfortable managing AWS Lambda and SSL certificates.
-*   **If you need advanced media features (e.g., seeing song titles on your dashboard):** You may still need **Alexa Media Player (AMP)**. However, it is highly recommended to use it *alongside* the official integration, using the official path for critical security alerts and AMP only for non-essential media controls.
+*   **If you need advanced media features (e.g., seeing song titles on your dashboard):** You may still need **[Alexa Media](https://quvii.com/learn/home-assistant-2026-7-alexa-media-player-breaking-changes) Player (AMP)**. However, it is highly recommended to use it *alongside* the official integration, using the official path for critical security alerts and AMP only for non-essential media controls.
 *   **If you live in an area with unreliable internet:** Neither integration is ideal. Consider local alternatives like ESPHome-based speakers or Zigbee/Z-Wave sirens for your security notifications to ensure they work even when the cloud is down.
 
 ## Total Cost of Ownership (TCO)

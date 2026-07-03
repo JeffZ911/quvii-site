@@ -220,4 +220,4 @@ Normal [battery life](https://quvii.com/blog/tapo-c425-battery-drain-june-update
 *   us.eufy.com — Eufy Security - HomeBase 3
 *   reolink.com — [Reolink Argus](https://quvii.com/learn/reolink-argus-3-pro-solar-charging-issues-2026) 4 Pro
 *   us.eufy.com — Eufy Security - HomeBase 3 Specifications
-*   support.blinkforhome.com — Blink Support - Battery Life and Type for Blink Cameras
+*   support.blinkforhome.com — Blink Support - [Battery Life](https://quvii.com/blog/tapo-c425-battery-drain-june-update-impact) and Type for Blink Cameras

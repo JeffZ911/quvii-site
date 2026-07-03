@@ -115,7 +115,7 @@ The app-induced battery drain on smartphones is another concern. Because the v6.
 As users seek solutions, several myths have surfaced regarding how to fix the June 2026 lag.
 
 ### The Local Storage Fallacy
-Many users believe that because they use a HomeBase 3 with a 2TB SSD, their system is "offline" and immune to internet-related lag. **Fact:** Eufy cameras still require an active internet connection for the initial handshake, push notifications, and AI face-matching updates. If Eufy’s servers are slow, your "local" system will feel slow. Only by using a dedicated NVR with RTSP (Real-Time Streaming Protocol) can you truly bypass the app's cloud dependency.
+Many users believe that because they use a HomeBase 3 with a 2TB SSD, their system is "offline" and immune to internet-related lag. **Fact:** Eufy cameras still require an active internet connection for the initial handshake, [push notifications](https://quvii.com/blog/eufy-motion-push-notifications-failing-july-2026), and AI face-matching updates. If Eufy’s servers are slow, your "local" system will feel slow. Only by using a dedicated NVR with RTSP (Real-Time Streaming Protocol) can you truly bypass the app's cloud dependency.
 
 ### Wi-Fi vs. App Latency
 When a stream fails to load, the first instinct is to reboot the router. However, if other apps (like YouTube or Netflix) are streaming 4K content without issue, the problem is likely the Eufy app's v6.0.x resource management. Users on [RTINGS' community boards](https://www.rtings.com/) have noted that even with a -40dBm signal (excellent), the live view delay remains constant, confirming the issue is software-side.

@@ -27,7 +27,7 @@ inline_image_sections:
   - "Further reading"
 ---
 
-As the Reolink Argus 3 Pro enters its fifth year of widespread deployment, many units are encountering solar charging failures during the peak heat of June 2026. This guide provides technical solutions for thermal cutoffs, battery degradation, and firmware-induced charging discrepancies.
+As the Reolink Argus 3 Pro enters its fifth year of widespread deployment, many units are encountering [solar charging](https://quvii.com/learn/ring-stick-up-cam-solar-charging-issues-2026) failures during the peak heat of June 2026. This guide provides technical solutions for thermal cutoffs, battery degradation, and firmware-induced charging discrepancies.
 
 # Reolink Argus 3 Pro Solar Charging Issues: 2026 Troubleshooting Guide
 

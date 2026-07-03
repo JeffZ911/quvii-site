@@ -125,7 +125,7 @@ For those who need reliable security under $100, the [Tapo C425](https://quvii.c
 
 | If you are a... | Prioritize... | Recommended Model |
 | :--- | :--- | :--- |
-| **Renter** | Easy removal & magnetic mounts | **Tapo C425** |
+| **Renter** | Easy removal & magnetic mounts | **[Tapo C425](https://quvii.com/blog/tapo-c425-battery-drain-june-update-impact)** |
 | **Homeowner (No Wires)** | Solar power & Dual-lens coverage | **Eufy SoloCam S340** |
 | **Homeowner (Security First)** | 24/7 continuous battery recording | **Reolink Altas PT Ultra** |
 | **Small Business** | NVR compatibility & 4K detail | **Reolink RLC-811A (Wired)** |
