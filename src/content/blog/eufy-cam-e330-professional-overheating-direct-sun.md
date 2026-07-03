@@ -143,7 +143,7 @@ While eufy does not sell official sunshields for the E330, the third-party marke
 | :--- | :--- |
 | **Renter (No drilling/Eaves)** | Avoid E330 on sunny balconies; use the battery-powered S300/S330 which generates less heat. |
 | **Homeowner (Deep Eaves)** | The E330 is ideal. The shade will keep it within the 122°F limit easily. |
-| **Business (Exposed Pole)** | Avoid E330. Prioritize a metal-bodied PoE camera like the Reolink CX810 or Lorex E896DD. |
+| **Business (Exposed Pole)** | Avoid E330. Prioritize a metal-bodied [PoE camera](https://quvii.com/blog/reolink-poe-firmware-june-2026-issues) like the Reolink CX810 or Lorex E896DD. |
 | **High-Desert Resident** | Use a third-party sun shroud and ensure the HomeBase 3 is on Ethernet to minimize Wi-Fi heat. |
 
 ### When to Request an RMA

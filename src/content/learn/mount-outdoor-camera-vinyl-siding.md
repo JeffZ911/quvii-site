@@ -151,7 +151,7 @@ When choosing a mounting method, consider the long-term costs associated with th
 
 | Component | Budget (No-Drill) | Mid-Range (No-Drill) | Pro (Block Mount) |
 | :--- | :--- | :--- | :--- |
-| **Hardware** | ~$100 (Blink) | ~$200 (Eufy) | ~$250 (Reolink PoE) |
+| **Hardware** | ~$100 (Blink) | ~$200 (Eufy) | ~$250 ([Reolink PoE](https://quvii.com/blog/reolink-poe-firmware-june-2026-issues)) |
 | **Mounting Hardware** | ~$15 (Clips) | ~$20 (Solar Mount) | ~$45 (Block + Sealant) |
 | **Subscription (3 Yrs)** | ~$150 ($50/yr) | $0 (Local Storage) | $0 (NVR Storage) |
 | **Battery Replacement** | ~$30 (Lithium AAs) | $0 (Solar) | $0 (PoE) |

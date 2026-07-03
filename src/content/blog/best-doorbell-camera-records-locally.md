@@ -51,7 +51,7 @@ Furthermore, the hardware for storing this data has evolved. The Eufy [HomeBase 
 | **Ring Battery Doorbell Pro** | Cloud Only | ~$60–$120 | $400–$550 | Cloud-processed |
 | **Nest Doorbell (Gen 2)** | Cloud Only | ~$80–$150 | $420–$630 | Cloud-processed |
 | **Eufy [Video Doorbell](https://quvii.com/learn/renter-friendly-wireless-video-doorbell-options-20260613) E340** | Local ([HomeBase 3](https://quvii.com/learn/eufycam-s330-homebase-3-firmware-sync-error)) | $0 | ~$180–$250 | On-device Edge AI |
-| **Reolink PoE Doorbell** | Local (NVR/SD) | $0 | ~$100–$350* | On-device Edge AI |
+| **[Reolink PoE](https://quvii.com/blog/reolink-poe-firmware-june-2026-issues) Doorbell** | Local (NVR/SD) | $0 | ~$100–$350* | On-device Edge AI |
 | **Aqara G4** | Local (SD/HomeKit) | $0 | ~$120 | On-device Edge AI |
 
 *\*Includes estimated cost of a dedicated NVR for 24/7 recording.*

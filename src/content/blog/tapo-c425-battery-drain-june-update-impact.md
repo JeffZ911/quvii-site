@@ -33,7 +33,7 @@ Following a recent June firmware update, some Tapo C425 battery camera owners ar
 ![What happened](/img/tapo-c425-battery-drain-june-update-impact/inline-1.webp)
 
 
-A firmware update for the Tapo C425 battery camera was reportedly rolled out in June 2026, intended to improve performance or add features. Shortly after this update, a number of users began reporting a noticeable and rapid decline in their camera's battery life, with some experiencing drain rates far exceeding typical usage patterns. Instead of the advertised "up to 300 days" of battery life, users are reporting durations as short as a few weeks or even days, requiring frequent recharging. Initial community discussions suggest potential causes could include increased background activity, altered motion detection sensitivity, or changes in Wi-Fi communication protocols introduced by the new firmware.
+A firmware update for the Tapo C425 battery camera was reportedly rolled out in June 2026, intended to improve performance or add features. Shortly after this update, a number of users began reporting a noticeable and rapid decline in their camera's battery life, with some experiencing drain rates far exceeding typical usage patterns. Instead of the advertised "up to 300 days" of battery life, users are reporting durations as short as a few weeks or even days, requiring frequent recharging. Initial community discussions suggest potential causes could include increased background activity, altered [motion detection](https://quvii.com/blog/ring-camera-motion-streaming-issues-july-2026) sensitivity, or changes in Wi-Fi communication protocols introduced by the new firmware.
 
 ### The June 2026 Firmware Rollout
 
@@ -122,7 +122,7 @@ When evaluating battery-powered security cameras, your specific needs will dicta
 
 *   **If you prioritize maximum battery life and minimal maintenance:** Look for cameras with larger battery capacities (e.g., 9000+ mAh) and strong community feedback on long-term performance. Consider models that offer effective power-saving modes or solar panel compatibility.
 *   **If local storage and privacy are paramount:** Prioritize cameras with built-in microSD card slots and robust encryption. Always review the brand's privacy policy regarding data handling and third-party sharing.
-*   **If you need 24/7 recording or high-traffic area monitoring:** A battery camera might not be ideal. Consider wired cameras or battery models with continuous solar charging for reliable, uninterrupted surveillance.
+*   **If you need 24/7 recording or high-traffic area monitoring:** A battery camera might not be ideal. Consider wired cameras or battery models with continuous [solar charging](https://quvii.com/learn/reolink-argus-3-pro-solar-charging-issues-2026) for reliable, uninterrupted surveillance.
 *   **If budget is a primary concern but you want features:** Weigh the initial camera cost against potential recurring subscription fees and the cost of accessories like solar panels to understand the total cost of ownership.
 
 ### Total Cost of Ownership (TCO) for Battery Cameras
@@ -176,7 +176,7 @@ Tapo states that its cameras use encryption to protect user data, including vide
 *   Walmart — TP-Link Tapo C425 2K QHD Wire-Free Smart Security Camera: https://www.walmart.com/ip/TP-Link-Tapo-C425-2K-QHD-Wire-Free-Smart-Security-Camera-9050mAh-Battery-Color-Night-Vision-IP66-AI-Detection-Local-Cloud-Storage-Works-with-Alexa-Google-Home/2567958564
 *   Basic-Tutorials.com — TP-Link Tapo C425 review: The battery cam with a huge battery:
 *   TP-Link — Tapo Care Subscription Plans:
-*   Digital Camera World — Reolink Argus 4 Pro review: https://www.digitalcameraworld.com/reviews/reolink-argus-4-pro-review
+*   Digital Camera World — [Reolink Argus](https://quvii.com/learn/reolink-argus-3-pro-solar-charging-issues-2026) 4 Pro review: https://www.digitalcameraworld.com/reviews/reolink-argus-4-pro-review
 *   Reolink — Argus 4 Pro Product Page:
 *   Ring — Stick Up Cam Battery Product Page: [https://ring.com/products/stick-up-cam-battery](https://ring.com/products/stick-up-cam-battery)
 *   Ring — Ring Alarm Pro:

@@ -144,7 +144,7 @@ With the release of the HomeBase 3 (S380), many buyers believed the system would
 
 ### Dedicated Account Requirements
 
-Many users try to fix motion alerts by logging out of the Eufy app on their phone, thinking it will "free up" the connection for Home Assistant. This does not work. The correct solution is to create a second Eufy account with a different email address, share your cameras from the main account to this "Guest" account, and use the Guest credentials exclusively for Home Assistant. This prevents session conflicts and is the single most effective way to stabilize motion alerts.
+Many users try to fix [motion alerts](https://quvii.com/blog/reolink-camera-chime-motion-alerts-guide-2026) by logging out of the Eufy app on their phone, thinking it will "free up" the connection for Home Assistant. This does not work. The correct solution is to create a second Eufy account with a different email address, share your cameras from the main account to this "Guest" account, and use the Guest credentials exclusively for Home Assistant. This prevents session conflicts and is the single most effective way to stabilize motion alerts.
 
 ## Decision Framework: Is Eufy Right for Your HA Setup?
 

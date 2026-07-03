@@ -154,7 +154,7 @@ Once setup is complete, perform a series of tests to ensure the integration is r
 
 1.  **Test the Primary Command:** Say, "Alexa, show me the [Camera Name]." A successful link should display the video feed in under 3 seconds on an Echo Show 11 or 21.
 2.  **Set up an Alexa Routine:** In the Alexa app, go to **More > Routines**. Create a routine where "When [Camera] detects a person," the action is "Alexa, show [Camera] on [Echo Show Name]."
-3.  **Check Two-Way Talk:** Tap the **Mic** icon on your Echo Show's screen while viewing a live feed. Verify that you can hear audio from the camera and that your voice is audible through the camera's speaker.
+3.  **Check Two-[Way Talk](https://quvii.com/blog/reolink-doorbell-two-way-talk-not-working):** Tap the **Mic** icon on your Echo Show's screen while viewing a live feed. Verify that you can hear audio from the camera and that your voice is audible through the camera's speaker.
 4.  **Verify Local Storage:** If you are using a setup like undisclosed, check your camera's native app to ensure that viewing the feed via Alexa hasn't triggered an unwanted cloud upload, preserving your privacy and bandwidth.
 
 ### Essential Alexa Voice Commands for 2026

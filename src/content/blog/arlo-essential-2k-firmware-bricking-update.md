@@ -154,7 +154,7 @@ If the "bricking" reports and subscription costs have soured your view of Arlo, 
 | :--- | :--- | :--- | :--- |
 | **Eufy** | <a href="https://www.amazon.com/s?k=eufyCam+S220&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">eufyCam S220</a> | HomeBase 3 (Local) | On-Device (Free) |
 | **Reolink** | [Argus 4 Pro](https://reolink.com/) | MicroSD / Hub | On-Device (Free) |
-| **TP-Link Tapo** | <a href="https://www.amazon.com/s?k=Tapo+C425&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Tapo C425</a> | MicroSD / Cloud | On-Device (Free) |
+| **TP-Link Tapo** | <a href="https://www.amazon.com/s?k=Tapo+C425&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">[Tapo C425](https://quvii.com/blog/tapo-c425-battery-drain-june-update-impact)</a> | MicroSD / Cloud | On-Device (Free) |
 | **Lorex** | [2K Battery Camera](https://www.lorex.com/) | Home Center (Local) | On-Device (Free) |
 
 Data based on manufacturer spec sheets as of June 2026.

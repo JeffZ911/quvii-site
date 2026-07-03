@@ -172,7 +172,7 @@ If you are planning a full-scale installation, the physical infrastructure is ju
 ## Sources
 
 - IEEE 802.3bt-2018 Standard for Ethernet — [https://standards.ieee.org/ieee/802.3bt/6061/](https://standards.ieee.org/ieee/802.3bt/6061/)
-- Reolink PoE Camera Power Consumption Specs — [https://reolink.com/product/rlk16-800b8/](https://reolink.com/product/rlk16-800b8/)
+- [Reolink PoE Camera](https://quvii.com/blog/reolink-poe-firmware-june-2026-issues) Power Consumption Specs — [https://reolink.com/product/rlk16-800b8/](https://reolink.com/product/rlk16-800b8/)
 - Lorex Fusion Series Technical Documentation — [https://www.lorex.com/pages/fusion](https://www.lorex.com/pages/fusion)
 - WD Purple Surveillance Drive Specification Sheet — https://www.westerndigital.com/products/internal-drives/wd-purple-sata-hdd
 - Blue Iris Software Local Processing Requirements — https://blueirissoftware.com/

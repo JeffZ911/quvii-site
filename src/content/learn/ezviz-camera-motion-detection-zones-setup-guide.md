@@ -40,7 +40,7 @@ EZVIZ [camera motion detection](https://quvii.com/blog/ring-camera-motion-stream
 *Related: [Tapo C210 Motion Tracking Issues: Understanding Firmware & Fixes](/learn/tapo-c210-firmware-motion-tracking-bug-fix) · [Nest Cam (Battery) Offline After Storm: Causes & Fixes](/learn/nest-cam-battery-offline-storm-fixes) · [Fixing Reolink Argus 3 Pro Solar Charging Issues (June 2026)](/learn/reolink-argus-3-pro-solar-charging-issues-2026)*
 
 
-Motion detection zones are a software-defined filter applied to a camera’s video feed. Instead of the camera monitoring every single pixel for movement, the user "paints" or selects a grid over the specific areas they want to monitor. In the EZVIZ ecosystem, this is handled entirely through the EZVIZ mobile app or the EZVIZ Studio software on PC.
+[Motion detection](https://quvii.com/blog/ring-camera-motion-streaming-issues-july-2026) zones are a software-defined filter applied to a camera’s video feed. Instead of the camera monitoring every single pixel for movement, the user "paints" or selects a grid over the specific areas they want to monitor. In the EZVIZ ecosystem, this is handled entirely through the EZVIZ mobile app or the EZVIZ Studio software on PC.
 
 When you set a detection zone, you are essentially telling the camera’s processor to ignore any pixel changes occurring outside that boundary. For example, if you have a camera facing your front yard, you might draw a zone that covers only your porch and walkway. Any motion occurring on the public sidewalk or the street—such as passing cars or pedestrians—will still be visible in a live view, but it will not trigger a [push notification](https://quvii.com/blog/eufy-security-notification-failure-june-2026) or start a recording event.
 

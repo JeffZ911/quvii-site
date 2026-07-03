@@ -87,7 +87,7 @@ The troubleshooting flow for Eufy in June 2026 has become notoriously complex. T
 This process can take hours and, as many users on r/HomeAssistant have noted, often only provides a temporary fix until the next firmware update.
 
 ### Firmware Update Risks
-Existing owners also face risks from Eufy’s mandatory firmware updates. In April 2026, a HomeBase 3 update reportedly caused some internal storage drives to be "dropped" or unmounted, which stopped 24/7 recording without notifying the user. When combined with the Home Assistant integration issues in June, owners found themselves in a "blind spot" where neither their local NVR nor their smart home dashboard was recording footage.
+Existing owners also face risks from Eufy’s mandatory firmware updates. In April 2026, a HomeBase 3 update reportedly caused some internal storage drives to be "dropped" or unmounted, which stopped 24/7 recording without notifying the user. When combined with the [Home Assistant](https://quvii.com/blog/home-assistant-2026-7-0b0-camera-breaking-changes) integration issues in June, owners found themselves in a "blind spot" where neither their local NVR nor their smart home dashboard was recording footage.
 
 ## What to do now
 

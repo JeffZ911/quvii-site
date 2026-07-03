@@ -27,7 +27,7 @@ The frustration of a video doorbell that allows you to see a visitor but prevent
 
 # Reolink Doorbell Two-Way Talk Not Working: Causes & Fixes
 
-**Quick Answer:** Reolink doorbell two-way talk issues often stem from recent firmware updates that alter audio codecs, conflicts with third-party smart home integrations (like HomeKit, Home Assistant, Frigate, or Scrypted), incorrect app settings, or even inadequate power supply. The latest firmware (v3.0.0.6460 as of June 2026 for WiFi doorbells) claims to fix some bugs, but specific audio fixes are not always detailed in the changelogs. Restoring functionality typically requires verifying audio permissions, updating the Reolink app, or configuring specialized middleware like go2rtc for third-party platforms.
+**Quick Answer:** Reolink doorbell two-way talk issues often stem from recent firmware updates that alter audio codecs, conflicts with third-party smart home integrations (like HomeKit, [Home Assistant](https://quvii.com/blog/home-assistant-2026-7-0b0-camera-breaking-changes), Frigate, or Scrypted), incorrect app settings, or even inadequate power supply. The latest firmware (v3.0.0.6460 as of June 2026 for WiFi doorbells) claims to fix some bugs, but specific audio fixes are not always detailed in the changelogs. Restoring functionality typically requires verifying audio permissions, updating the Reolink app, or configuring specialized middleware like go2rtc for third-party platforms.
 
 ## What happened
 

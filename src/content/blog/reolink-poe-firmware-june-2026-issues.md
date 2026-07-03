@@ -43,7 +43,7 @@ Reolink maintains a consistent schedule for firmware releases, aimed at refining
 Reolink typically releases firmware in "waves" rather than a single global push for all devices. This staggered approach allows the manufacturer to monitor for regressions before an update reaches the entire install base. For PoE models like the RLC-811A or the newer 16MP Duo 3 series, updates often focus on the "Smart Detection" sensitivity—improving the camera's ability to distinguish between a swaying branch and a human intruder.
 
 ### Specific June 2026 Activity (Doorbell Example)
-While the PoE camera line has seen incremental stability patches this month, a notable firmware update (v3.0.0.6460) was recently highlighted for Reolink doorbells. This update introduced "World Cup" themed elements, animated GIF push notifications (available for those on a cloud plan), and enhanced video recording encryption. While this specific version was tailored for doorbells, it signals Reolink's current development focus: moving toward richer notification data and more robust encryption standards across their entire IP camera portfolio.
+While the PoE camera line has seen incremental stability patches this month, a notable firmware update (v3.0.0.6460) was recently highlighted for Reolink doorbells. This update introduced "World Cup" themed elements, animated GIF [push notifications](https://quvii.com/blog/eufy-motion-push-notifications-failing-july-2026) (available for those on a cloud plan), and enhanced video recording encryption. While this specific version was tailored for doorbells, it signals Reolink's current development focus: moving toward richer notification data and more robust encryption standards across their entire IP camera portfolio.
 
 ### Common Firmware Update Challenges
 Despite the lack of a "breaking" update in June 2026, the Reolink ecosystem faces recurring technical hurdles during the update process. According to <a href="https://www.amazon.com/s?k=Reolink+Support+documentation&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Reolink Support documentation</a>, users frequently encounter three primary error states:
@@ -144,7 +144,7 @@ To minimize the risk of failure, adhere to this checklist before initiating a fi
 *   [ ] **Check Hardware Version:** Go to Settings > Device > Info and note the "Hardware No."
 *   [ ] **Stable Power:** Ensure the PoE switch is not under heavy load or connected to an unstable power source.
 *   [ ] **Wired Connection:** Do not update cameras over a Wi-Fi bridge if they are PoE; ensure they are plugged directly into the NVR or a PoE switch on the same subnet as your computer.
-*   [ ] **Backup Settings:** While firmware updates usually preserve settings, it is wise to screenshot your "Detection Zone" and "Schedule" pages in case a factory reset is required.
+*   [ ] **Backup Settings:** While firmware updates usually preserve settings, it is wise to screenshot your "[Detection Zone](https://quvii.com/learn/ezviz-camera-motion-detection-zones-setup-guide)" and "Schedule" pages in case a factory reset is required.
 *   [ ] **Transitional Firmware:** If your camera is running a version from 2022 or earlier, do not jump directly to a June 2026 release. Consult support to see if an intermediate version is required to bridge the database changes.
 
 ### Community and Support Engagement
