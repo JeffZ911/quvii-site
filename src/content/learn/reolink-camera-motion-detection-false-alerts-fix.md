@@ -41,7 +41,7 @@ Few experiences in home security are more frustrating than a smartphone that buz
 *Related: [How to Protect Outdoor Security Cameras from Summer Storms](/learn/protect-outdoor-security-cameras-summer-storms) · [Ring Doorbell Overheating: 2026 Guide to Summer Heat Fixes](/learn/ring-doorbell-overheating-summer-heat-fix) · [Nest Cam Battery Overheating Notification: 2026 Fix Guide](/learn/nest-cam-battery-overheating-notification-fix)*
 
 
-In the context of home security, a "false alert" is any notification or recording triggered by an event that does not pose a security threat. For Reolink users, these typically manifest as push notifications for non-human movement. While the camera is technically doing its job—detecting change in its field of view—the relevance of that change determines the system's utility.
+In the context of home security, a "false alert" is any notification or recording triggered by an event that does not pose a security threat. For Reolink users, these typically manifest as [push notifications](https://quvii.com/blog/eufy-motion-push-notifications-failing-july-2026) for non-human movement. While the camera is technically doing its job—detecting change in its field of view—the relevance of that change determines the system's utility.
 
 Common triggers for Reolink false alerts include:
 *   **Environmental movement:** Swaying tree branches, tall grass, or bushes moving in the wind.

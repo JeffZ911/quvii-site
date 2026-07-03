@@ -57,7 +57,7 @@ Many Ring doorbells feature wide-angle lenses to achieve comprehensive coverage.
 
 Motion detection capabilities also contribute to this phenomenon. Ring doorbells typically have adjustable motion detection ranges that can extend significantly, often up to 30 feet or more, depending on the model and settings. This means the camera can be triggered and begin recording even when activity occurs well beyond the immediate property line, such as a neighbor walking their dog on the sidewalk or pulling into their driveway.
 
-Furthermore, most Ring devices come with active audio recording enabled by default. The built-in microphones are sensitive and designed for two-way talk, but they can also pick up ambient sounds and conversations from a considerable distance, potentially capturing discussions happening on a neighbor's property or a public street.
+Furthermore, most Ring devices come with active audio recording enabled by default. The built-in microphones are sensitive and designed for two-[way talk](https://quvii.com/blog/reolink-doorbell-two-way-talk-not-working), but they can also pick up ambient sounds and conversations from a considerable distance, potentially capturing discussions happening on a neighbor's property or a public street.
 
 Finally, Ring's cloud-centric architecture means that, by default, all recorded footage is uploaded to Amazon's servers. Unlike some other brands, most Ring models do not offer local storage options without additional hardware like the Ring Alarm Pro, meaning recordings are always processed and stored remotely. This reliance on cloud storage means that any footage, whether intentionally or unintentionally captured, resides on Ring's infrastructure.
 

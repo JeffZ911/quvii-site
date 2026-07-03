@@ -40,7 +40,7 @@ The [Home Assistant](https://quvii.com/learn/home-assistant-2026-7-alexa-media-p
 
 ### Specific Camera Integration Changes
 
-A notable breaking change in the 2026.7 release specifically targets dual-lens Reolink cameras, including both Power over Ethernet (PoE) and Wi-Fi models. Previously, these cameras might have been exposed as a single entity within Home Assistant. Now, with the 2026.7 update, each lens of a dual-lens Reolink camera is exposed as an individual sub-device. This change means that the entity IDs associated with these cameras will be altered, requiring users to update any dashboards, automations, or scripts that reference these devices. For example, a Reolink TrackMix camera, which features both wide-angle and telephoto lenses, would now appear as two distinct camera entities rather than one unified device.
+A notable breaking change in the 2026.7 release specifically targets dual-lens Reolink cameras, including both Power over Ethernet (PoE) and Wi-Fi models. Previously, these cameras might have been exposed as a single entity within [Home Assistant](https://quvii.com/learn/home-assistant-2026-7-alexa-media-player-breaking-changes). Now, with the 2026.7 update, each lens of a dual-lens Reolink camera is exposed as an individual sub-device. This change means that the entity IDs associated with these cameras will be altered, requiring users to update any dashboards, automations, or scripts that reference these devices. For example, a Reolink TrackMix camera, which features both wide-angle and telephoto lenses, would now appear as two distinct camera entities rather than one unified device.
 
 Beyond Reolink, the Hikvision integration in 2026.7.0b0 has reported issues with unsupported 'storageDetection' sensor types and a failure to generate unique IDs for devices. This could lead to difficulties in monitoring storage-related events or in reliably identifying Hikvision cameras within the Home Assistant environment.
 
@@ -97,7 +97,7 @@ Additionally, owners of Hikvision cameras using the affected integration may enc
 ![What to do now](/img/home-assistant-2026-7-0b0-camera-breaking-changes/inline-4.webp)
 
 
-Navigating breaking changes in Home Assistant can seem daunting, but by following a structured approach, existing owners and new buyers can mitigate disruptions and ensure their security camera setups remain functional and secure.
+Navigating [breaking changes](https://quvii.com/learn/home-assistant-2026-7-alexa-media-player-breaking-changes) in Home Assistant can seem daunting, but by following a structured approach, existing owners and new buyers can mitigate disruptions and ensure their security camera setups remain functional and secure.
 
 ### Pre-Update Preparations
 

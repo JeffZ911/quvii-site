@@ -62,20 +62,20 @@ To protect its circuitry, the [Ring Stick Up](https://quvii.com/learn/ring-stick
 The Ring [Stick Up](https://quvii.com/learn/ring-stick-up-cam-solar-charging-issues-2026) Cam Pro is a "Pro" model because it includes 3D Motion Detection and Bird’s Eye View—features that require more processing power than standard PIR-based cameras. This increased capability comes with a higher thermal baseline.
 
 ### The Impact of Direct Sunlight
-Solar radiation is the most common cause of overheating for outdoor cameras. The sun emits ultraviolet (UV) and infrared (IR) radiation that vibrates the molecules in the camera's plastic housing, generating heat. This is known as "solar loading." Because the Stick Up Cam Pro is a sealed unit to maintain its [IPX5 weather-resistance rating](https://ring.com/products/stick-up-cam-pro), there are no vents for hot air to escape. If the camera is mounted on a south-facing wall with no shade, it acts as a heat trap.
+Solar radiation is the most common cause of overheating for outdoor cameras. The sun emits ultraviolet (UV) and infrared (IR) radiation that vibrates the molecules in the camera's plastic housing, generating heat. This is known as "solar loading." Because the [Stick Up Cam](https://quvii.com/learn/ring-stick-up-cam-solar-charging-issues-2026) Pro is a sealed unit to maintain its [IPX5 weather-resistance rating](https://ring.com/products/stick-up-cam-pro), there are no vents for hot air to escape. If the camera is mounted on a south-facing wall with no shade, it acts as a heat trap.
 
 ### Heat from Internal Components and Battery
 The "Pro" designation refers to the inclusion of radar-based 3D Motion Detection. Unlike simple motion sensors that wait for heat signatures to pass by, radar sensors actively emit and receive signals to determine the distance and path of an object. This requires constant processing by the onboard chip. Additionally, the Wi-Fi radio generates heat during high-definition video transmission. If the camera is frequently triggered by traffic or wind, the internal "duty cycle" remains high, preventing the device from cooling down between events.
 
 ### Camera Material and Thermal Design Limitations
-The Stick Up Cam Pro uses a high-grade polycarbonate (plastic) shell. While plastic is excellent for Wi-Fi signal transparency and weatherproofing, it is a poor thermal conductor compared to aluminum or magnesium. In high-end industrial cameras, metal housings act as a "heat sink" to pull warmth away from the sensor. In consumer-grade cameras like Ring, the plastic acts more like an insulator, keeping the heat trapped inside. This design choice prioritizes cost, weight, and signal strength over extreme thermal management.
+The [Stick Up](https://quvii.com/learn/ring-stick-up-cam-solar-charging-issues-2026) Cam Pro uses a high-grade polycarbonate (plastic) shell. While plastic is excellent for Wi-Fi signal transparency and weatherproofing, it is a poor thermal conductor compared to aluminum or magnesium. In high-end industrial cameras, metal housings act as a "heat sink" to pull warmth away from the sensor. In consumer-grade cameras like Ring, the plastic acts more like an insulator, keeping the heat trapped inside. This design choice prioritizes cost, weight, and signal strength over extreme thermal management.
 
 ## How it works under the hood
 
 ![How it works under the hood](/img/ring-stick-up-cam-pro-overheating-direct-sun/inline-3.webp)
 
 
-The Stick Up Cam Pro manages heat through a combination of hardware sensors and software logic designed to prioritize "self-preservation" over "surveillance" when conditions become extreme.
+The Stick [Up Cam](https://quvii.com/learn/ring-stick-up-cam-solar-charging-issues-2026) Pro manages heat through a combination of hardware sensors and software logic designed to prioritize "self-preservation" over "surveillance" when conditions become extreme.
 
 ### Internal Temperature Monitoring
 The camera's motherboard contains thermistors—small sensors that change electrical resistance based on temperature. These are strategically placed near the image sensor and the battery charging controller. The firmware constantly polls these sensors. If the temperature crosses a "Warning" threshold, the camera begins to throttle its performance. If it crosses the "Critical" threshold, the device initiates a hard shutdown.

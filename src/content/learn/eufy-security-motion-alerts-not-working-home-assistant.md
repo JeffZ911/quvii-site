@@ -53,7 +53,7 @@ In the Home Assistant Developer Tools, you may observe that the `last_changed` a
 
 It is vital to distinguish between a "dead" integration and a "silent" one. 
 *   **Integration Failure:** All entities (camera, sensors, switches) appear as "Unavailable" or "Entity not defined." This usually points to a crash in the `eufy-security-ws` Docker container or an expired authentication session.
-*   **Silent Failure:** The entities appear "Healthy" and "Online," and you may even be able to start a P2P video stream, but the motion sensor never toggles to "Detected." This is almost always a configuration issue regarding how push notifications are routed from Eufy’s servers to the integration.
+*   **Silent Failure:** The entities appear "Healthy" and "Online," and you may even be able to start a P2P video stream, but the motion sensor never toggles to "Detected." This is almost always a configuration issue regarding how [push notifications](https://quvii.com/blog/eufy-motion-push-notifications-failing-july-2026) are routed from Eufy’s servers to the integration.
 
 ## Why it exists
 

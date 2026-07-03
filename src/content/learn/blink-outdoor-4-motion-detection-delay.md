@@ -49,7 +49,7 @@ It's crucial to distinguish between detection (when the camera's sensor physical
 ![Why it exists](/img/blink-outdoor-4-motion-detection-delay/inline-2.webp)
 
 
-The presence of motion detection delay in devices like the Blink Outdoor 4 is a direct consequence of the design choices made to achieve a balance between performance, battery life, and cost. Several technical factors contribute to this latency.
+The presence of [motion detection](https://quvii.com/blog/ring-camera-motion-streaming-issues-july-2026) delay in devices like the Blink Outdoor 4 is a direct consequence of the design choices made to achieve a balance between performance, battery life, and cost. Several technical factors contribute to this latency.
 
 ### The Role of Battery Life
 

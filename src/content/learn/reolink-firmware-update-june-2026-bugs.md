@@ -62,7 +62,7 @@ The necessity of regular firmware updates stems from the evolving landscape of b
 
 1.  **Security Hardening:** As security researchers discover new "exploits" or ways to bypass camera security, manufacturers must release patches. Without these, a camera could potentially be used as an entry point into a home network.
 2.  **AI Refinement:** Reolink’s person, vehicle, and animal detection algorithms are constantly being trained. Firmware updates often include updated "models" for these algorithms, reducing false positives caused by swaying trees or shadows.
-3.  **Hardware Optimization:** Updates can sometimes extend the life of hardware. For example, a firmware tweak might optimize the power consumption of a battery-powered Argus camera or improve the frame rate stability of a 12MP PoE camera under high-load scenarios.
+3.  **Hardware Optimization:** Updates can sometimes extend the life of hardware. For example, a firmware tweak might optimize the power consumption of a battery-powered Argus camera or improve the frame rate stability of a 12MP [PoE camera](https://quvii.com/blog/reolink-poe-firmware-june-2026-issues) under high-load scenarios.
 4.  **Ecosystem Compatibility:** As Reolink releases new hardware, such as the Home Hub Pro or updated NVRs, older cameras require firmware updates to remain compatible with the latest centralized management features and encryption standards.
 5.  **Addressing "Known Bugs":** No software is perfect at launch. Manufacturers use firmware updates to squash persistent issues reported by the user community, such as the specific "known bugs" addressed in the June 2026 doorbell update.
 

@@ -79,7 +79,7 @@ For current Tapo C425 owners experiencing rapid battery drain, several troublesh
 
 *   **Check Firmware Version:** Ensure your camera is running the latest firmware. Sometimes, a subsequent patch might be released to address bugs from a previous update.
 *   **Review Activity Zones:** Adjusting activity zones to focus only on critical areas can reduce unnecessary [motion detection](https://quvii.com/blog/ring-camera-motion-streaming-issues-july-2026) and recording, thereby conserving battery life.
-*   **Adjust Motion Detection Sensitivity:** Lowering the motion detection sensitivity can decrease the number of "Wake-up Times," where the camera activates to record an event.
+*   **Adjust [Motion Detection](https://quvii.com/blog/ring-camera-motion-streaming-issues-july-2026) Sensitivity:** Lowering the motion detection sensitivity can decrease the number of "Wake-up Times," where the camera activates to record an event.
 *   **Optimize "Working Mode":** Within the Tapo app, navigate to the camera settings and explore "Working Mode" options. Switching to a "Power Saving Mode" can prioritize battery longevity over continuous monitoring or frequent alerts.
 *   **Evaluate Wi-Fi Signal Strength:** A weak Wi-Fi signal can cause the camera to work harder to maintain a connection, leading to increased battery consumption. Ensure your camera is within a strong Wi-Fi range.
 *   **Limit Live View and Playback:** Frequent live streaming or playing back recorded footage, referred to as "Time of Use," can significantly drain the battery. Minimize these activities where possible.

@@ -113,9 +113,9 @@ If your goal is a stable, locally-controlled smart home, consider brands that of
 For current Eufy owners, the best resource is the [GitHub Issue Tracker for eufy_security](https://github.com/fuatakgun/eufy_security/issues). Developers often post "beta" versions of the integration that address specific firmware changes before they are officially released to HACS. Check your `eufy-security-ws` version; often, updating the underlying websocket server is more important than updating the [Home Assistant](https://quvii.com/learn/home-assistant-2026-7-alexa-media-player-breaking-changes) integration itself.
 
 ### Leverage RTSP Where Possible
-Some Eufy models (primarily the indoor cams and the older eufyCam 2 series) support RTSP (Real-Time Streaming Protocol). If your camera supports this, you can bypass the `eufy_security` integration entirely for the video feed and use the generic "Camera" integration in Home Assistant. 
+Some Eufy models (primarily the indoor cams and the older eufyCam 2 series) support RTSP (Real-Time Streaming Protocol). If your camera supports this, you can bypass the `eufy_security` integration entirely for the video feed and use the generic "Camera" integration in [Home Assistant](https://quvii.com/learn/home-assistant-2026-7-alexa-media-player-breaking-changes). 
 *   **Pros:** Much more stable; works even if Eufy’s cloud is down.
-*   **Cons:** RTSP often disables "AI" features like human detection within the [Eufy app](https://quvii.com/learn/eufy-app-performance-issues-june-2026-20260630), and it is generally not available on battery-powered or solar-powered models (like the S330) to preserve battery life.
+*   **Cons:** RTSP often disables "AI" features like human detection within the [Eufy app](https://quvii.com/learn/eufy-app-performance-issues-june-2026-20260630), and it is generally not available on battery-powered or solar-powered models (like the S330) to preserve [battery life](https://quvii.com/blog/tapo-c425-battery-drain-june-update-impact).
 
 ### Decision Framework: Should You Switch?
 *   **If you are a Renter:** Eufy's battery-powered cameras remain a top choice for ease of installation. If Home Assistant integration is just a "nice to have," stick with Eufy and rely on the official app for critical alerts.
