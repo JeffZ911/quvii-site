@@ -151,7 +151,7 @@ When comparing a "cheap" battery camera to a "reliable" [PoE camera](https://quv
     *   Replacement Battery (Year 2): ~$50
     *   **Total: $790** (Plus the risk of winter downtime)
 
-*   **PoE Camera (e.g., Reolink RLC-811A):**
+*   **[PoE Camera](https://quvii.com/blog/reolink-poe-firmware-june-2026-issues) (e.g., Reolink RLC-811A):**
     *   Hardware: ~$110
     *   NVR/Local Storage: ~$200
     *   Subscription: $0

@@ -36,15 +36,15 @@ Summer heat poses a significant challenge for many outdoor security cameras, and
 *Related: [How to Keep Security Cameras Cool: 2026 Summer Heatwave Guide](/blog/how-to-keep-security-cameras-cool-summer-2026) · [AI Surveillance Privacy Risks: What Homeowners Must Know in 2026](/blog/privacy-risks-ai-surveillance-cameras-2026) · [Ring Camera Overheating: 2026 Heatwave Failures & Fixes](/blog/ring-camera-overheating-june-2026-heatwave-guide)*
 
 
-In the summer of 2026, reports from users in warmer climates indicate that Blink Outdoor cameras, notably the Blink Outdoor 4, are experiencing accelerated [battery drain](https://quvii.com/blog/eufy-security-camera-battery-drain-june-2026). These devices are designed with an official operating temperature range of typically -4°F to 113°F (-20°C to 45°C). However, direct and prolonged exposure to intense sunlight can cause the camera's internal temperature to exceed these specified limits, contributing to a faster rate of battery depletion.
+In the summer of 2026, reports from users in warmer climates indicate that [Blink Outdoor](https://quvii.com/learn/blink-outdoor-4-motion-detection-delay) cameras, notably the [Blink Outdoor 4](https://quvii.com/learn/blink-outdoor-4-motion-detection-delay), are experiencing accelerated [battery drain](https://quvii.com/blog/eufy-security-camera-battery-drain-june-2026). These devices are designed with an official operating temperature range of typically -4°F to 113°F (-20°C to 45°C). However, direct and prolonged exposure to intense sunlight can cause the camera's internal temperature to exceed these specified limits, contributing to a faster rate of battery depletion.
 
 User communities, including discussions on Reddit and Amazon forums, show owners reporting that even the recommended 1.5V non-rechargeable lithium AA batteries are lasting only weeks or a few months, rather than the "up to two years" advertised under default settings. Beyond environmental factors, frequent [motion detection](https://quvii.com/learn/reolink-camera-motion-detection-false-alerts-fix) events, prolonged Live View sessions, and weak Wi-Fi signal strength are identified as significant contributors. These activities require the camera's processor and radio to work harder, increasing power consumption, which is further amplified in hot conditions.
 
-| Feature                  | Blink Outdoor 4                               |
+| Feature                  | Blink [Outdoor 4](https://quvii.com/learn/blink-outdoor-4-motion-detection-delay)                               |
 | :----------------------- | :-------------------------------------------- |
 | **Operating Temperature**| -4°F to 113°F (-20°C to 45°C) |
 | **Battery Type**         | 2x 1.5V AA Lithium Metal (non-rechargeable) |
-| **Advertised Battery Life** | Up to two years               |
+| **Advertised [Battery Life](https://quvii.com/blog/tapo-c425-battery-drain-june-update-impact)** | Up to two years               |
 | **Video Resolution**     | 1080p HD                            |
 | **Field of View**        | 143° diagonal                       |
 | **Night Vision**         | Infrared (IR)                       |

@@ -27,11 +27,11 @@ inline_image_sections:
   - "Further reading"
 ---
 
-For many Home Assistant users, the sudden silence of a smart doorbell chime or the failure of a "Person Detected" voice announcement is the first sign that the Alexa Media Player integration has hit another roadblock. As of mid-2026, several core updates to Home Assistant and shifts in Amazon’s authentication requirements have made maintaining this custom component a significant challenge for the average smart home administrator.
+For many Home Assistant users, the sudden silence of a smart doorbell chime or the failure of a "Person Detected" voice announcement is the first sign that the [Alexa Media Player](https://quvii.com/learn/home-assistant-2026-7-alexa-media-player-breaking-changes) integration has hit another roadblock. As of mid-2026, several core updates to Home Assistant and shifts in Amazon’s authentication requirements have made maintaining this custom component a significant challenge for the average smart home administrator.
 
 # Home Assistant Alexa Media Player Integration Broken in 2026: What You Need to Know
 
-**Quick Answer:** The Alexa Media Player (AMP) custom component for Home Assistant has experienced several disruptions in 2026 due to Home Assistant Core updates (e.g., 2026.2.2, 2026.3.4, 2026.7.0b1) and Amazon API changes, often requiring troubleshooting or component updates. The official "Alexa Devices" integration is now a more stable alternative for many users.
+**Quick Answer:** The Alexa [Media Player](https://quvii.com/learn/home-assistant-2026-7-alexa-media-player-breaking-changes) (AMP) custom component for Home Assistant has experienced several disruptions in 2026 due to Home Assistant Core updates (e.g., 2026.2.2, 2026.3.4, 2026.7.0b1) and Amazon API changes, often requiring troubleshooting or component updates. The official "Alexa Devices" integration is now a more stable alternative for many users.
 
 ## What it means
 
@@ -41,7 +41,7 @@ For many Home Assistant users, the sudden silence of a smart doorbell chime or t
 *Related: [Ring Stick Up Cam Solar Charging Issues: 2026 Troubleshooting Guide](/learn/ring-stick-up-cam-solar-charging-issues-2026) · [Blink Outdoor 4 Motion Detection Delay: What You Need to Know](/learn/blink-outdoor-4-motion-detection-delay) · [Reolink Doorbell Mounting on Brick Siding: A DIY Guide](/learn/reolink-doorbell-mounting-brick-siding-tips)*
 
 
-When a user reports that the Alexa Media Player (AMP) is "broken," they are typically referring to a state where Echo devices appear as "unavailable" or "unavailable" in the Home Assistant dashboard, or where service calls—such as `notify.alexa_media`—simply fail to execute. In 2026, these failures have become more frequent due to the evolving nature of both the Home Assistant ecosystem and Amazon’s security protocols.
+When a user reports that the [Alexa Media](https://quvii.com/learn/home-assistant-2026-7-alexa-media-player-breaking-changes) Player (AMP) is "broken," they are typically referring to a state where Echo devices appear as "unavailable" or "unavailable" in the Home Assistant dashboard, or where service calls—such as `notify.alexa_media`—simply fail to execute. In 2026, these failures have become more frequent due to the evolving nature of both the Home Assistant ecosystem and Amazon’s security protocols.
 
 The disruptions observed throughout the first half of 2026 have been tied to specific software milestones:
 
@@ -145,7 +145,7 @@ This is the most common point of confusion. AMP is a third-party "custom compone
 Many users believe that by connecting Alexa to Home Assistant, the Echo devices will process commands locally. This is false. The official Alexa Devices integration still requires a round-trip to Amazon’s cloud servers. If your internet goes out, your Echo Show will not be able to announce motion from your cameras, even if the cameras and Home Assistant are still running locally.
 
 **"All Alexa integrations for Home Assistant are equally unstable."**
-While both can face challenges, the official integration is significantly more resilient. Because it uses a documented API, Amazon provides advance notice for most breaking changes to partners, and the Home Assistant Core team prioritizes keeping the official pathway functional.
+While both can face challenges, the official integration is significantly more resilient. Because it uses a documented API, Amazon provides advance notice for most [breaking changes](https://quvii.com/learn/home-assistant-2026-7-alexa-media-player-breaking-changes) to partners, and the Home Assistant Core team prioritizes keeping the official pathway functional.
 
 **"A broken Alexa integration indicates a fundamental flaw in my entire Home Assistant setup."**
 If your Alexa entities disappear, it doesn't mean your Home Assistant database is corrupted or your Zigbee network is failing. These issues are almost always isolated to the specific authentication "handshake" between your local server and Amazon’s cloud.

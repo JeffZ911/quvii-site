@@ -97,7 +97,7 @@ Existing owners also face risks from Eufy’s mandatory firmware updates. In Apr
 If you are currently facing integration issues or are planning a new security setup, the following steps are recommended based on the current 2026 landscape.
 
 ### Evaluate Alternatives for New Purchases
-If your goal is a stable, locally-controlled smart home, consider brands that offer official Home Assistant integrations or robust RTSP/ONVIF support. These protocols allow Home Assistant to talk directly to the camera without needing to check in with a corporate cloud server.
+If your goal is a stable, locally-controlled smart home, consider brands that offer official [Home Assistant](https://quvii.com/learn/home-assistant-2026-7-alexa-media-player-breaking-changes) integrations or robust RTSP/ONVIF support. These protocols allow Home Assistant to talk directly to the camera without needing to check in with a corporate cloud server.
 
 | Brand | Model Example | Connection Type | Local API? | Sub. Fee? |
 | :--- | :--- | :--- | :--- | :--- |

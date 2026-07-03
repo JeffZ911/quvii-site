@@ -55,7 +55,7 @@ Not all models are failing at the same rate. Hardwired units, which lack a large
 | Video Doorbell Wired | Hardwired | 122°F (50°C) | Throttles resolution; rarely shuts down |
 | Spotlight Cam Pro | Battery | 122°F (50°C) | Disables spotlight and siren first |
 | Floodlight Cam Wired Pro| Hardwired | 122°F (50°C) | Sustains high heat via metal chassis |
-| Stick Up Cam | Battery | 120°F (48.5°C) | Rapid [battery drain](https://quvii.com/learn/blink-outdoor-4-battery-drain-june-2026) due to heat stress |
+| [Stick Up Cam](https://quvii.com/learn/ring-stick-up-cam-solar-charging-issues-2026) | Battery | 120°F (48.5°C) | Rapid [battery drain](https://quvii.com/learn/blink-outdoor-4-battery-drain-june-2026) due to heat stress |
 
 ## Why it matters for buyers
 

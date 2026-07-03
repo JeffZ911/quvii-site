@@ -160,7 +160,7 @@ Several myths surround firmware updates for security cameras, which can lead to 
 
 ### Myth: Updates are Always Perfect
 
-**Reality**: While firmware updates are designed to improve performance and security, they can occasionally introduce new, unforeseen issues. Users have sometimes reported problems such as decreased night vision quality, increased [battery drain](https://quvii.com/blog/eufy-security-camera-battery-drain-june-2026), or unexpected connectivity issues after an update. These are typically addressed in subsequent patches, but it's important to recognize that no software is entirely bug-free.
+**Reality**: While firmware updates are designed to improve performance and security, they can occasionally introduce new, unforeseen issues. Users have sometimes reported problems such as decreased night vision quality, increased [battery drain](https://quvii.com/blog/eufy-security-camera-battery-drain-june-2026), or unexpected connectivity [issues after](https://quvii.com/blog/tapo-c425-battery-drain-june-update-impact) an update. These are typically addressed in subsequent patches, but it's important to recognize that no software is entirely bug-free.
 
 ### Myth: Updates are Optional
 

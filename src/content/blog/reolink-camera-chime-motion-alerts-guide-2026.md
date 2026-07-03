@@ -131,7 +131,7 @@ Understanding the 3-year Total Cost of Ownership (TCO) is crucial when investing
 *   **Cloud Storage (Optional):** Reolink offers optional cloud plans. For a single camera, a basic plan might be around $3-5 per month, or around $30-50 annually. For multiple cameras or extended history, costs increase. However, this is entirely optional for most users due to robust local storage.
 
 **Feature Paywall Trap:**
-Unlike many competitors, Reolink largely avoids the "feature paywall" trap. Core features like person/vehicle/package detection, customizable motion zones, and push notifications are typically included with the camera purchase, without requiring a monthly subscription. This significantly reduces long-term costs compared to brands that lock these essential features behind recurring fees.
+Unlike many competitors, Reolink largely avoids the "feature paywall" trap. Core features like person/vehicle/package detection, customizable motion zones, and [push notifications](https://quvii.com/blog/eufy-motion-push-notifications-failing-july-2026) are typically included with the camera purchase, without requiring a monthly subscription. This significantly reduces long-term costs compared to brands that lock these essential features behind recurring fees.
 
 **Estimated 3-Year TCO Example (for a single AI-enabled outdoor camera with microSD):**
 *   **Hardware:** Around $100-180 (camera + microSD card)

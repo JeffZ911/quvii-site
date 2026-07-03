@@ -50,7 +50,7 @@ In the 2026 version of the Blink app, an offline state is typically signaled by 
 *   **Sync Module Offline:** The hub has lost its Wi-Fi or power connection, rendering all associated battery-powered cameras unreachable.
 
 ### Physical Camera LED Codes
-Blink has refined its LED signaling for the Outdoor 4 and Mini 2K+ models to provide better diagnostic feedback without needing to open the app.
+Blink has refined its LED signaling for the [Outdoor 4](https://quvii.com/learn/blink-outdoor-4-motion-detection-delay) and Mini 2K+ models to provide better diagnostic feedback without needing to open the app.
 
 | LED Pattern | Meaning (Outdoor 4 / Mini 2K+) | Action Required |
 | :--- | :--- | :--- |
@@ -134,7 +134,7 @@ If a camera remains offline for a weekend, it can drain a fresh pair of Lithium 
 Many "fixes" suggested in community forums are actually counterproductive for the 2026 Blink hardware ecosystem.
 
 ### The Rechargeable Battery Myth
-"I just charged them, so they should work." This is the most common error. Standard NiMH rechargeable batteries (like Eneloop) have a nominal voltage of 1.2V. Even when "full," they are already at the failure threshold for a Blink Outdoor 4 camera. The camera requires the 1.5V (and ideally 1.7V peak) provided by Energizer Ultimate Lithium AA batteries. Using rechargeables or alkalines will lead to "Offline" errors during high-drain events like night vision recording.
+"I just charged them, so they should work." This is the most common error. Standard NiMH rechargeable batteries (like Eneloop) have a nominal voltage of 1.2V. Even when "full," they are already at the failure threshold for a Blink [Outdoor 4 camera](https://quvii.com/learn/blink-outdoor-4-motion-detection-delay). The camera requires the 1.5V (and ideally 1.7V peak) provided by Energizer Ultimate Lithium AA batteries. Using rechargeables or alkalines will lead to "Offline" errors during high-drain events like night vision recording.
 
 ### The 'Reset Button' Fallacy
 Many users immediately reach for a paperclip to reset the camera. On Blink devices, a factory reset should be the *last* step. Resetting the camera deletes its encryption tokens. If the issue was actually a router glitch, resetting the camera forces you to go through the entire "Add Device" workflow again, which often fails if the underlying network issue hasn't been resolved. Always power cycle the Sync Module (unplug for 30 seconds) before touching the camera.
@@ -192,5 +192,5 @@ You cannot update an offline camera. You must first bring it back online by movi
 - Blink Support: Battery Requirements
 - Blink Support: Troubleshooting Offline Devices
 - FCC ID Search (Blink Sync Module XR RF Specs) — https://apps.fcc.gov/oetcf/eas/reports/GenericSearch.cfm
-- RTINGS: Blink Outdoor 4 Review & Connectivity Testing
+- RTINGS: [Blink Outdoor 4](https://quvii.com/learn/blink-outdoor-4-motion-detection-delay) Review & Connectivity Testing
 - The Verge: Amazon's Blink Ecosystem Update — https://www.theverge.com/search?q=blink+camera

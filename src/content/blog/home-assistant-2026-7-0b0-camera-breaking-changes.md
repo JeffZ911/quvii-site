@@ -22,7 +22,7 @@ inline_image_sections:
   - "What to do now"
 ---
 
-The landscape of smart home security is constantly evolving, and for those who rely on Home Assistant for local control and advanced automation, staying informed about platform updates is crucial. The recent Home Assistant 2026.7.0b0 beta, which has now culminated in the 2026.7 final release on July 1, 2026, introduces a series of significant, backward-incompatible changes that directly impact how security cameras integrate and function within your system. These breaking changes, particularly affecting specific camera types and automation configurations, necessitate attention from both prospective buyers and existing owners to ensure a seamless and secure smart home experience.
+The landscape of smart home security is constantly evolving, and for those who rely on [Home Assistant](https://quvii.com/learn/home-assistant-2026-7-alexa-media-player-breaking-changes) for local control and advanced automation, staying informed about platform updates is crucial. The recent Home Assistant 2026.7.0b0 beta, which has now culminated in the 2026.7 final release on July 1, 2026, introduces a series of significant, backward-incompatible changes that directly impact how security cameras integrate and function within your system. These [breaking changes](https://quvii.com/learn/home-assistant-2026-7-alexa-media-player-breaking-changes), particularly affecting specific camera types and automation configurations, necessitate attention from both prospective buyers and existing owners to ensure a seamless and secure smart home experience.
 
 # Home Assistant 2026.7.0b0: What Its Camera Integration Breaking Changes Mean for Your Security Setup
 

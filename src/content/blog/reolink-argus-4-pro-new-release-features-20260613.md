@@ -56,7 +56,7 @@ The following table outlines the core technical specifications of the Argus 4 Pr
 | **Local Storage** | microSD Card (up to 512GB) |
 | **Smart AI** | Person, Vehicle, Animal Detection (On-device) |
 | **Weather Resistance** | IP66 Rated |
-| **Audio** | Two-way talk; Built-in Siren |
+| **Audio** | Two-[way talk](https://quvii.com/blog/reolink-doorbell-two-way-talk-not-working); Built-in Siren |
 
 ### Design and Build Quality
 

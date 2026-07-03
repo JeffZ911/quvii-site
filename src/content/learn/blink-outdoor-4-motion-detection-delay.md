@@ -26,7 +26,7 @@ inline_image_sections:
   - "Further reading"
 ---
 
-The effectiveness of a home security camera hinges not just on its resolution or field of view, but critically on how quickly it can detect an event and alert you. For battery-powered cameras like the Blink Outdoor 4, understanding the inherent "motion detection delay" is key to setting realistic expectations and optimizing your security setup.
+The effectiveness of a home security camera hinges not just on its resolution or field of view, but critically on how quickly it can detect an event and alert you. For battery-powered cameras like the Blink Outdoor 4, understanding the inherent "[motion detection](https://quvii.com/blog/ring-camera-motion-streaming-issues-july-2026) delay" is key to setting realistic expectations and optimizing your security setup.
 
 # Blink Outdoor 4 Motion Detection Delay: What You Need to Know in 2026
 

@@ -125,7 +125,7 @@ Firmware updates or downgrades are typically performed manually. You will need t
 
 ### Seeking Official and Community Support
 
-If you are unsure about which firmware to use, cannot find the correct file, or experience persistent issues after attempting an update or downgrade, contact Reolink's official support team. They can provide specific guidance for your device and may offer beta firmware versions with fixes not yet publicly released.
+If you are unsure about which firmware to use, cannot find the correct file, or experience persistent [issues after](https://quvii.com/blog/tapo-c425-battery-drain-june-update-impact) attempting an update or downgrade, contact Reolink's official support team. They can provide specific guidance for your device and may offer beta firmware versions with fixes not yet publicly released.
 
 Additionally, monitor community forums such as r/reolinkcam on Reddit. These platforms often provide real-time user experiences, workarounds, and announcements regarding new firmware releases or bug fixes from other users. Engaging with the community can offer valuable insights and peer support.
 

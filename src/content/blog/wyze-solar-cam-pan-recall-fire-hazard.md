@@ -161,7 +161,7 @@ Eufy’s S340 is a "dual-lens" camera, offering both a wide-angle and a telephot
 *   **Best For:** Those looking for the highest image quality and optical zoom capability.
 
 #### 3. TP-Link Tapo C425 with Solar Panel
-TP-Link has rapidly gained market share by offering "Wyze-like" pricing with "Pro-like" build quality. The Tapo C425 is a magnetic-mount camera that can be paired with a Tapo solar panel. The hardware is UL-certified for safety, and the installation process is highly streamlined.
+TP-Link has rapidly gained market share by offering "Wyze-like" pricing with "Pro-like" build quality. The [Tapo C425](https://quvii.com/blog/tapo-c425-battery-drain-june-update-impact) is a magnetic-mount camera that can be paired with a Tapo solar panel. The hardware is UL-certified for safety, and the installation process is highly streamlined.
 *   **Price Band:** $100 - $130 (including panel)
 *   **Best For:** Renters or DIYers who want a simple, magnetically attached setup.
 

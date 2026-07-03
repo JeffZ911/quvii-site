@@ -115,7 +115,7 @@ Eufy has perfected the "set it and forget it" outdoor camera. The S340 is a dual
 *   **Best For:** Users who want the smartest AI features and a cohesive app experience without a monthly fee.
 
 ### Top Pick (Budget): TP-Link Tapo C425
-For those who need reliable security under $100, the Tapo C425 is the current value king.
+For those who need reliable security under $100, the [Tapo C425](https://quvii.com/blog/tapo-c425-battery-drain-june-update-impact) is the current value king.
 *   **Key Specs:** 2K QHD resolution, a 10,000mAh battery (rated for up to 300 days on a single charge), and a magnetic mount that makes installation a breeze.
 *   **Storage:** Local microSD support up to 512GB.
 *   **Price Range:** Under $100.

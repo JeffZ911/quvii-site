@@ -161,7 +161,7 @@ Insects are attracted to the heat and light of the IR LEDs. You can reduce these
 Yes, the 2026 Reolink Home Hub (and AI Box) uses a more powerful processor than what is found inside individual cameras. It can perform more complex image analysis, which helps it better distinguish between a human and a pet or a swaying branch, even in low-light conditions where individual cameras might struggle.
 
 ### Can I set different sensitivity levels for day and night?
-Yes, most Reolink PoE and Wi-Fi cameras allow you to set a "Detection Schedule" with different sensitivity settings for different times. Since cameras are more prone to noise at night due to IR reflections and insects, many users set a lower sensitivity for the nighttime hours.
+Yes, most [Reolink PoE](https://quvii.com/blog/reolink-poe-firmware-june-2026-issues) and Wi-Fi cameras allow you to set a "Detection Schedule" with different sensitivity settings for different times. Since cameras are more prone to noise at night due to IR reflections and insects, many users set a lower sensitivity for the nighttime hours.
 
 ### What is the "Alarm Delay" setting in the Reolink app?
 Alarm Delay (available on most non-battery models) requires the detected motion to continue for a specific duration (e.g., 1 or 2 seconds) before the camera triggers an alarm. This is highly effective at filtering out "instant" triggers like a bird flying past or a quick flash of light.

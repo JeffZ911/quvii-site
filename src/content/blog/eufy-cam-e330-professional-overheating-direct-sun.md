@@ -161,7 +161,7 @@ No. Like most consumer-grade outdoor cameras, the E330 uses passive cooling. It 
 Lowering the resolution from 4K to 1080p reduces the processing load on the SoC, which can lower internal temperatures by a few degrees. If you are experiencing frequent shutdowns in the summer, this is a viable temporary fix until you can provide physical shade for the unit.
 
 ### Is the Reolink CX810 a better alternative for hot climates?
-The Reolink CX810 has a slightly higher official temperature rating (131°F vs 122°F) and utilizes an aluminum housing which is better at shedding heat. Because it is a PoE camera, it also lacks the heat-generating Wi-Fi radio found in the E330. However, it requires running Ethernet cables to the camera location.
+The Reolink CX810 has a slightly higher official temperature rating (131°F vs 122°F) and utilizes an aluminum housing which is better at shedding heat. Because it is a [PoE camera](https://quvii.com/blog/reolink-poe-firmware-june-2026-issues), it also lacks the heat-generating Wi-Fi radio found in the E330. However, it requires running Ethernet cables to the camera location.
 
 ## Sources
 

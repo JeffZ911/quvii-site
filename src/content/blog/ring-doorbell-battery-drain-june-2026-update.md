@@ -120,7 +120,7 @@ If your Ring doorbell is experiencing rapid drain following the recent updates, 
 To reclaim your [battery life](https://quvii.com/learn/blink-outdoor-4-battery-life-extreme-heat), you must reduce the "active" time of the camera's processor. Follow these steps in the Ring App:
 
 1.  **Disable Video Descriptions:** Go to *Device Settings > Smart Alerts*. Toggle off "Video Descriptions." This stops the camera from generating the metadata summaries that keep the SoC active.
-2.  **Adjust Alexa+ Greetings:** If you do not receive many visitors, consider turning off Alexa+ Greetings or setting it to a shorter delay. This reduces the time the camera spends in an active two-way talk state.
+2.  **Adjust Alexa+ Greetings:** If you do not receive many visitors, consider turning off Alexa+ Greetings or setting it to a shorter delay. This reduces the time the camera spends in an active two-[way talk](https://quvii.com/blog/reolink-doorbell-two-way-talk-not-working) state.
 3.  **Modify Motion Frequency:** Under *Motion Settings > Motion Frequency*, change the setting to "Periodic" or "Regular." The "Frequent" setting prevents the camera from entering deep sleep between back-to-back events.
 4.  **Check RSSI:** In *Device Health*, look at your Signal Strength (RSSI). If it is higher than -60 (e.g., -70 or -80), your camera is working harder to maintain a Wi-Fi connection, which compounds the [battery drain](https://quvii.com/learn/blink-outdoor-4-battery-drain-june-2026). A <a href="https://www.amazon.com/s?k=Ring+Chime+Pro&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Ring Chime Pro</a> can act as a Wi-Fi extender to improve this.
 
