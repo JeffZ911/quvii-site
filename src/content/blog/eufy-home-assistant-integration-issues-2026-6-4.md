@@ -110,7 +110,7 @@ If your goal is a stable, locally-controlled smart home, consider brands that of
 *Data compiled from [manufacturer spec sheets](https://www.reolink.com) and [Home Assistant](https://quvii.com/learn/home-assistant-2026-7-alexa-media-player-breaking-changes) Integration lists*.
 
 ### Monitor Community & Integration Updates
-For current Eufy owners, the best resource is the [GitHub Issue Tracker for eufy_security](https://github.com/fuatakgun/eufy_security/issues). Developers often post "beta" versions of the integration that address specific firmware changes before they are officially released to HACS. Check your `eufy-security-ws` version; often, updating the underlying websocket server is more important than updating the Home Assistant integration itself.
+For current Eufy owners, the best resource is the [GitHub Issue Tracker for eufy_security](https://github.com/fuatakgun/eufy_security/issues). Developers often post "beta" versions of the integration that address specific firmware changes before they are officially released to HACS. Check your `eufy-security-ws` version; often, updating the underlying websocket server is more important than updating the [Home Assistant](https://quvii.com/learn/home-assistant-2026-7-alexa-media-player-breaking-changes) integration itself.
 
 ### Leverage RTSP Where Possible
 Some Eufy models (primarily the indoor cams and the older eufyCam 2 series) support RTSP (Real-Time Streaming Protocol). If your camera supports this, you can bypass the `eufy_security` integration entirely for the video feed and use the generic "Camera" integration in Home Assistant. 

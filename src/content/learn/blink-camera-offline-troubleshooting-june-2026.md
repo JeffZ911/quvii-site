@@ -147,7 +147,7 @@ In 2026, most homes use Mesh Wi-Fi (e.g., Eero, Orbi). These systems often use "
 ### Total Cost of Ownership (3-Year Estimate)
 Buying a Blink camera is a low-entry-cost decision, but the maintenance of a stable connection adds up.
 
-*   **Hardware:** Around $100 (Outdoor 4 Two-Pack).
+*   **Hardware:** Around $100 ([Outdoor 4](https://quvii.com/learn/blink-outdoor-4-motion-detection-delay) Two-Pack).
 *   **Batteries:** $40–$60 (Replacing 1.5V Lithiums every 12-18 months across two cameras).
 *   **Subscription:** $30/year (Basic) or $100/year (Plus).
 *   **Total 3-Year Cost:** Approximately $230 - $460.

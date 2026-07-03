@@ -82,7 +82,7 @@ Firmware controls how data is encrypted and transmitted. While there have been n
 
 | Advertised Benefit | 2026 Firmware Reality |
 | :--- | :--- |
-| **365-Day Battery Life** | Reduced to <7 days for some users on v3.7.6.8. |
+| **365-Day [Battery Life](https://quvii.com/blog/tapo-c425-battery-drain-june-update-impact)** | Reduced to <7 days for some users on v3.7.6.8. |
 | **No Monthly Fees** | True, but hardware instability may require more frequent replacements. |
 | **Local 24/7 Recording** | Interrupted by storage "dropping" bugs in v3.8.2.0. |
 | **Expandable Storage** | Risk of data loss during hub updates. |

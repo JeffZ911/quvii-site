@@ -83,7 +83,7 @@ Lithium discharge rates are affected by extreme temperatures. While Energizer Ul
 To fix the drain, you must understand the "Handshake" between the camera, the Sync Module, and your router.
 
 ### LFR vs. Wi-Fi: The Balancing Act
-The Blink Outdoor 4 does not stay connected to Wi-Fi. It stays in a "sleep" state, listening only to the 900MHz LFR (Low Frequency Radio) signal from the Sync Module. 
+The [Blink Outdoor 4](https://quvii.com/learn/blink-outdoor-4-motion-detection-delay) does not stay connected to Wi-Fi. It stays in a "sleep" state, listening only to the 900MHz LFR (Low Frequency Radio) signal from the Sync Module. 
 1. **The Wake-Up:** The PIR (Passive Infrared) sensor detects heat-in-motion.
 2. **The Handshake:** The camera sends an LFR signal to the Sync Module to "check in."
 3. **The Connection:** The camera then powers up its 2.4GHz Wi-Fi radio to connect to your router.
@@ -92,7 +92,7 @@ The Blink Outdoor 4 does not stay connected to Wi-Fi. It stays in a "sleep" stat
 If the Sync Module is too far away, the LFR handshake fails or requires multiple attempts. This keeps the camera's high-power processor active for longer than necessary.
 
 ### Firmware Update Analysis
-As of June 2026, the current stable firmware for the Blink Outdoor 4 is [information unavailable]. Historically, Blink releases updates that adjust the "polling interval"—how often the camera checks the LFR signal for system commands (like "Arm" or "Disarm"). While specific details of the April 2026 maintenance updates remain [information unavailable], the general trend in Blink's 2026 firmware logic has been to prioritize connection stability over extreme power saving, which may lead to a slight baseline increase in idle drain compared to 2024 versions.
+As of June 2026, the current stable firmware for the [Blink Outdoor](https://quvii.com/learn/blink-outdoor-4-motion-detection-delay) 4 is [information unavailable]. Historically, Blink releases updates that adjust the "polling interval"—how often the camera checks the LFR signal for system commands (like "Arm" or "Disarm"). While specific details of the April 2026 maintenance updates remain [information unavailable], the general trend in Blink's 2026 firmware logic has been to prioritize connection stability over extreme power saving, which may lead to a slight baseline increase in idle drain compared to 2024 versions.
 
 ### The 'Uneven Discharge' Mystery
 While community members frequently discuss one battery dying before the other, technical analysis of the Outdoor 4's circuit board shows a parallel battery path. Any "uneven" drain is typically a result of contact resistance. If the battery terminals have even a microscopic layer of oxidation or if the spring tension is weak, the camera will draw more current from the path of least resistance. This is why cleaning terminals with isopropyl alcohol is a standard 2026 troubleshooting step.

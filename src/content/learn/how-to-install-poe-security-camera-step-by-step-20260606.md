@@ -144,7 +144,7 @@ Once plugged in, the NVR will typically assign an IP address to the camera autom
 
 | Component | Price Band | Notes |
 | :--- | :--- | :--- |
-| **4K PoE Camera** | $60 – $150 | Higher end includes dual lenses or optical zoom. |
+| **4K [PoE Camera](https://quvii.com/blog/reolink-poe-firmware-june-2026-issues)** | $60 – $150 | Higher end includes dual lenses or optical zoom. |
 | **8-Channel NVR** | $200 – $500 | Includes 2TB–4TB of pre-installed storage. |
 | **Cat6 Bulk Cable** | $80 – $130 | Per 500ft spool of high-quality riser-rated cable. |
 | **Installation Tools** | $60 – $100 | One-time purchase for crimpers, testers, and rods. |

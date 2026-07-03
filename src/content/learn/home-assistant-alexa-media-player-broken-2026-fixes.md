@@ -138,7 +138,7 @@ When evaluating these integrations, the "free" price tag of a custom component c
 ![Common misconceptions](/img/home-assistant-alexa-media-player-broken-2026-fixes/inline-5.webp)
 
 
-**"Alexa Media Player is an official Home Assistant or Amazon integration."**
+**"[Alexa Media Player](https://quvii.com/learn/home-assistant-2026-7-alexa-media-player-breaking-changes) is an official Home Assistant or Amazon integration."**
 This is the most common point of confusion. AMP is a third-party "custom component." It is not reviewed by Amazon, nor is it part of the Home Assistant Core codebase. Its existence depends entirely on community volunteers.
 
 **"The official Home Assistant Alexa integration offers local control for Echo devices."**
@@ -171,13 +171,13 @@ Yes. Many users are moving toward Wyoming Protocol and local voice satellites us
 
 *   Official Home Assistant Documentation for Alexa Devices Integration
 *   [Alexa Media Player GitHub Repository (Issues & Wiki)](https://github.com/custom-components/alexa_media_player)
-*   Home Assistant Community: Alexa Media Player Troubleshooting Thread
+*   Home Assistant Community: Alexa [Media Player](https://quvii.com/learn/home-assistant-2026-7-alexa-media-player-breaking-changes) Troubleshooting Thread
 *   Nabu Casa: Home Assistant Cloud Features and Pricing
 
 ## Sources
 
 - Home Assistant Documentation — https://www.home-assistant.io/integrations/alexa/
-- Alexa Media Player GitHub — https://github.com/custom-components/alexa_media_player
+- [Alexa Media](https://quvii.com/learn/home-assistant-2026-7-alexa-media-player-breaking-changes) Player GitHub — https://github.com/custom-components/alexa_media_player
 - Amazon Alexa Developer Portal
 - Nabu Casa — https://www.nabucasa.com/config/amazon_alexa/
 - Python Release Schedule (Python 3.14) — https://peps.python.org/pep-0745/

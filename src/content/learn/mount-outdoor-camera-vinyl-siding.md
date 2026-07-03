@@ -97,7 +97,7 @@ For heavier 2026 models, such as 4K PTZ (Pan-Tilt-Zoom) cameras, weight distribu
 
 A professional mounting block (like the Arlington 8141F) works by replacing a small section of the siding or sitting over it with an integrated J-channel. 
 1.  **Leveling:** The block provides a perfectly flat surface, compensating for the 15-degree or 12-degree slope of the siding.
-2.  **Cable Management:** The block is hollow, providing a "junction box" environment to hide the pigtail connectors of a PoE camera, which are notoriously difficult to tuck into a standard drill hole.
+2.  **Cable Management:** The block is hollow, providing a "junction box" environment to hide the pigtail connectors of a [PoE camera](https://quvii.com/blog/reolink-poe-firmware-june-2026-issues), which are notoriously difficult to tuck into a standard drill hole.
 3.  **Expansion Gap:** The block is designed so the siding can slide in and out of the block's perimeter, allowing for thermal movement while maintaining a water-tight seal.
 
 **Table 2: 2026 Camera Weights & Mounting Compatibility**
