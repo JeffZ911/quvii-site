@@ -118,7 +118,7 @@ Some Eufy models (primarily the indoor cams and the older eufyCam 2 series) supp
 *   **Cons:** RTSP often disables "AI" features like human detection within the [Eufy app](https://quvii.com/learn/eufy-app-performance-issues-june-2026-20260630), and it is generally not available on battery-powered or solar-powered models (like the S330) to preserve [battery life](https://quvii.com/blog/tapo-c425-battery-drain-june-update-impact).
 
 ### Decision Framework: Should You Switch?
-*   **If you are a Renter:** Eufy's battery-powered cameras remain a top choice for ease of installation. If Home Assistant integration is just a "nice to have," stick with Eufy and rely on the official app for critical alerts.
+*   **If you are a Renter:** Eufy's battery-powered cameras remain a top choice for ease of installation. If [Home Assistant](https://quvii.com/learn/home-assistant-2026-7-alexa-media-player-breaking-changes) integration is just a "nice to have," stick with Eufy and rely on the official app for critical alerts.
 *   **If you are a Homeowner:** Prioritize PoE (Power over Ethernet) cameras like Reolink or Amcrest. The stability of a hardwired connection and an official API far outweighs the convenience of Eufy’s wireless setup.
 *   **If Privacy is your #1 Priority:** Move away from Eufy. Look for cameras that are "NDAA Compliant" and support local-only VLAN isolation, ensuring the camera has no physical way to reach the internet.
 

@@ -65,7 +65,7 @@ The presence of [motion detection](https://quvii.com/blog/ring-camera-motion-str
 
 **Network Transmission:** After processing, the encoded video and alert data must be sent from the camera. The Blink Outdoor 4 relies on a Blink Sync Module to connect to your home's Wi-Fi network and manage communications. The data travels from the camera to the Sync Module, then from the Sync Module to Blink's cloud servers, and finally from the cloud to your smartphone. Each hop in this chain adds to the overall delay.
 
-**Wi-Fi and Internet Latency:** The quality and speed of your home Wi-Fi network and internet service provider (ISP) connection play a significant role. Factors such as weak Wi-Fi signal strength at the camera's location, network congestion from other devices, and your ISP's upload and download speeds can all exacerbate the motion detection delay. A strong, stable Wi-Fi connection is crucial for minimizing this aspect of latency.
+**Wi-Fi and Internet Latency:** The quality and speed of your home Wi-Fi network and internet service provider (ISP) connection play a significant role. Factors such as weak Wi-Fi signal strength at the camera's location, network congestion from other devices, and your ISP's upload and download speeds can all exacerbate the [motion detection](https://quvii.com/blog/ring-camera-motion-streaming-issues-july-2026) delay. A strong, stable Wi-Fi connection is crucial for minimizing this aspect of latency.
 
 ## How it works under the hood
 

@@ -61,7 +61,7 @@ The [Blink Outdoor](https://quvii.com/learn/blink-outdoor-4-motion-detection-del
 ![Why it exists](/img/blink-outdoor-4-battery-drain-june-2026/inline-2.webp)
 
 
-[Battery drain](https://quvii.com/blog/blink-camera-battery-drain-summer-heat-2026) in the Outdoor 4 is rarely caused by a single factor. Instead, it is usually a "death by a thousand cuts" scenario involving environmental stress and software-driven processing power.
+[Battery drain](https://quvii.com/blog/blink-camera-battery-drain-summer-heat-2026) in the [Outdoor 4](https://quvii.com/learn/blink-outdoor-4-motion-detection-delay) is rarely caused by a single factor. Instead, it is usually a "death by a thousand cuts" scenario involving environmental stress and software-driven processing power.
 
 ### The Impact of Person Detection AI
 The Outdoor 4 introduced on-device Person Detection, which is available with a <a href="https://www.amazon.com/s?k=Blink+Subscription+Plan&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Blink Subscription Plan</a>. While this feature reduces "nuisance" alerts (like swaying trees), the initial motion trigger still wakes the camera's processor. The camera must then run a computer vision algorithm to determine if the motion was a person. This extra processing "tax" occurs for every motion event, even if you never receive a notification. In high-traffic areas, the AI overhead can reduce battery life by 15-20% compared to standard PIR [motion detection](https://quvii.com/learn/reolink-camera-motion-detection-false-alerts-fix).
@@ -151,7 +151,7 @@ In both cases, the camera's Wi-Fi radio is active for the same amount of time. L
 | :--- | :--- |
 | **Maximum Battery Life** | Set Sensitivity to 4 or lower; disable "Early Notification"; use 10-second clip lengths. |
 | **Security Accuracy** | Enable Person Detection (Subscription required); set Sensitivity to 6; use "Early Notification." (Expect 4-6 month battery life). |
-| **Zero Maintenance** | Switch to the Blink Outdoor 4 + <a href="https://www.amazon.com/s?k=Blink+Solar+Panel+Mount&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Blink Solar Panel Mount</a>. |
+| **Zero Maintenance** | Switch to the [Blink Outdoor 4](https://quvii.com/learn/blink-outdoor-4-motion-detection-delay) + <a href="https://www.amazon.com/s?k=Blink+Solar+Panel+Mount&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Blink Solar Panel Mount</a>. |
 | **High Traffic Areas** | Consider a wired camera like the Blink Mini 2 or a competitor's NVR system. |
 
 ## Further reading
@@ -163,7 +163,7 @@ In both cases, the camera's Wi-Fi radio is active for the same amount of time. L
 To optimize the LFR link, the Sync Module should be positioned centrally. Avoid placing it behind a TV or inside a metal cabinet, as these act as Faraday cages for the 900MHz signal. Ideally, the Sync Module should have a clear "line of sight" to the wall closest to your outdoor cameras.
 
 ### Comparing the Outdoor 4 to the 2025 Outdoor 2K+
-The newer **Blink Outdoor 2K+** (released late 2025) offers higher resolution but theoretically higher power demands. However, search data regarding its specific "Low Power Mode" efficiency compared to the Outdoor 4 is [information unavailable]. Early community consensus suggests the 2K+ requires even more stringent adherence to the "70 seconds per day" rule to reach its marketed battery targets.
+The newer **[Blink Outdoor](https://quvii.com/learn/blink-outdoor-4-motion-detection-delay) 2K+** (released late 2025) offers higher resolution but theoretically higher power demands. However, search data regarding its specific "Low Power Mode" efficiency compared to the Outdoor 4 is [information unavailable]. Early community consensus suggests the 2K+ requires even more stringent adherence to the "70 seconds per day" rule to reach its marketed battery targets.
 
 ### Transitioning to Local-First Security
 If the cost and waste of lithium batteries become unsustainable, many users in 2026 are transitioning to Power-over-Ethernet (PoE) systems or local-first NVRs (Network Video Recorders). These systems remove the "cloud tax" and the "battery tax" entirely, though they require more complex initial wiring.

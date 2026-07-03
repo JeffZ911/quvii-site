@@ -76,7 +76,7 @@ Crucially, all Ring doorbells offer customizable motion zones and privacy zones 
 
 ### Audio Recording Range
 
-Ring doorbells are equipped with built-in microphones that facilitate two-way talk and record ambient sounds. These microphones are sensitive and can pick up audio from distances of 15 to 30 feet away, and even further in quiet environments. Audio recording is typically enabled by default on Ring devices. While useful for capturing verbal interactions at your door, this range means conversations happening on an adjacent sidewalk or even a neighbor's yard can be inadvertently captured, raising significant privacy concerns.
+Ring doorbells are equipped with built-in microphones that facilitate two-[way talk](https://quvii.com/blog/reolink-doorbell-two-way-talk-not-working) and record ambient sounds. These microphones are sensitive and can pick up audio from distances of 15 to 30 feet away, and even further in quiet environments. Audio recording is typically enabled by default on Ring devices. While useful for capturing verbal interactions at your door, this range means conversations happening on an adjacent sidewalk or even a neighbor's yard can be inadvertently captured, raising significant privacy concerns.
 
 ### Cloud Storage vs. Local Storage
 

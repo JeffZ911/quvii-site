@@ -42,7 +42,7 @@ The [Home Assistant](https://quvii.com/learn/home-assistant-2026-7-alexa-media-p
 
 A notable breaking change in the 2026.7 release specifically targets dual-lens Reolink cameras, including both Power over Ethernet (PoE) and Wi-Fi models. Previously, these cameras might have been exposed as a single entity within [Home Assistant](https://quvii.com/learn/home-assistant-2026-7-alexa-media-player-breaking-changes). Now, with the 2026.7 update, each lens of a dual-lens Reolink camera is exposed as an individual sub-device. This change means that the entity IDs associated with these cameras will be altered, requiring users to update any dashboards, automations, or scripts that reference these devices. For example, a Reolink TrackMix camera, which features both wide-angle and telephoto lenses, would now appear as two distinct camera entities rather than one unified device.
 
-Beyond Reolink, the Hikvision integration in 2026.7.0b0 has reported issues with unsupported 'storageDetection' sensor types and a failure to generate unique IDs for devices. This could lead to difficulties in monitoring storage-related events or in reliably identifying Hikvision cameras within the Home Assistant environment.
+Beyond Reolink, the Hikvision integration in 2026.7.0b0 has reported issues with unsupported 'storageDetection' sensor types and a failure to generate unique IDs for devices. This could lead to difficulties in monitoring storage-related events or in reliably identifying Hikvision cameras within the [Home Assistant](https://quvii.com/learn/home-assistant-2026-7-alexa-media-player-breaking-changes) environment.
 
 Furthermore, some very outdated integrations have been removed from the core. This action primarily affects users relying on older, less maintained camera platforms, which may now lose direct integration capabilities with Home Assistant. This cleanup is a regular part of Home Assistant's development cycle, encouraging the use of more current and actively supported integrations.
 
@@ -103,7 +103,7 @@ Navigating [breaking changes](https://quvii.com/learn/home-assistant-2026-7-alex
 
 The single most critical step before attempting any major Home Assistant update is to **backup your Home Assistant instance**. This allows for a complete and easy revert if any issues arise during or after the update. Home Assistant provides robust backup options, typically found under `Settings > System > Backups`. A full backup ensures that your entire configuration, including integrations, automations, and dashboards, can be restored.
 
-Next, **thoroughly review the official Home Assistant 2026.7 release notes**. Pay close attention to the "Breaking Changes" section, specifically looking for any entries related to camera integrations, ONVIF, RTSP, or automation triggers and conditions. These notes will provide the most comprehensive list of backward-incompatible changes and often offer migration paths or solutions.
+Next, **thoroughly review the official Home Assistant 2026.7 release notes**. Pay close attention to the "[Breaking Changes](https://quvii.com/learn/home-assistant-2026-7-alexa-media-player-breaking-changes)" section, specifically looking for any entries related to camera integrations, ONVIF, RTSP, or automation triggers and conditions. These notes will provide the most comprehensive list of backward-incompatible changes and often offer migration paths or solutions.
 
 ### Post-Update Troubleshooting and Configuration
 

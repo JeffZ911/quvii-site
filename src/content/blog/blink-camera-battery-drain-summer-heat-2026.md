@@ -81,7 +81,7 @@ The most critical impact is on the reliability of the security system. Reduced [
 
 While Blink offers a 1-year limited warranty covering hardware defects under "ordinary consumer use," it typically excludes issues arising from "accident, misuse, neglect, fire or other external causes". Battery issues directly linked to operating in extreme heat or [direct sunlight](https://quvii.com/learn/google-nest-cam-battery-overheating-direct-sunlight) might be interpreted by the manufacturer as "environmental factors" or "external causes," potentially limiting warranty claims for premature battery depletion due not to a defect but to environmental stress. Older [Blink camera](https://quvii.com/learn/blink-camera-offline-troubleshooting-june-2026) models may also be more susceptible to heat-related [battery drain](https://quvii.com/blog/eufy-security-camera-battery-drain-june-2026) as their internal components age and potentially become less efficient at managing power in adverse conditions.
 
-| Usage Scenario              | Typical Advertised Battery Life | Reported Battery Life in Extreme Heat (User Reports) |
+| Usage Scenario              | Typical Advertised [Battery Life](https://quvii.com/blog/tapo-c425-battery-drain-june-update-impact) | Reported Battery Life in Extreme Heat (User Reports) |
 | :-------------------------- | :------------------------------ | :--------------------------------------------------- |
 | Default settings, moderate activity | Up to two years       | —                                                    |
 | High motion, Live View, optimal temp | 6-12 months (estimated)         | —                                                    |
@@ -187,7 +187,7 @@ Direct, prolonged exposure to intense sunlight can cause the camera's internal t
 *   Bevigor.com — [Blink Camera](https://quvii.com/learn/blink-camera-offline-troubleshooting-june-2026) Protective Housing
 *   Blinkforhome.com — Optimize Blink Battery Life
 *   Reddit.com — [Blink Outdoor](https://quvii.com/learn/blink-outdoor-4-motion-detection-delay) [Battery Life Issues](https://quvii.com/blog/tapo-c425-battery-drain-june-update-impact)
-*   Amazonforum.com — Solar Panel for Blink Outdoor
+*   Amazonforum.com — Solar Panel for [Blink Outdoor](https://quvii.com/learn/blink-outdoor-4-motion-detection-delay)
 *   Clippingpathassociate.com — How to Protect Security Camera from Sun
 *   Youtube.com — Blink [Outdoor 4](https://quvii.com/learn/blink-outdoor-4-motion-detection-delay) Review (The Hook Up)
 *   Blinkforhome.com — Blink Mini 2 Weather Resistant Power Adapter

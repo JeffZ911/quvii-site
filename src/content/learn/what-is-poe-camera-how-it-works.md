@@ -95,7 +95,7 @@ In 2026, we primarily see three standards in the security market. Most fixed tur
 PoE operates at a nominal 48V DC. The maximum distance for a standard PoE run is 100 meters (328 feet). Beyond this distance, voltage drop and data attenuation occur. For larger properties, installers use PoE extenders or "Long-Reach PoE" switches, though these often reduce data speeds to 10 Mbps—sufficient for a single camera but not for a high-traffic network link.
 
 ### Injectors vs. PoE Switches: Which do you need?
-If you are only adding one PoE camera to an existing non-PoE network, a **PoE Injector** is the most cost-effective tool. It is a small brick that "injects" power into a standard Ethernet line. However, if you are installing four or more cameras, a **PoE Switch** is superior. A switch provides a central power budget and manages data traffic more efficiently than a series of individual injectors.
+If you are only adding one [PoE camera](https://quvii.com/blog/reolink-poe-firmware-june-2026-issues) to an existing non-PoE network, a **PoE Injector** is the most cost-effective tool. It is a small brick that "injects" power into a standard Ethernet line. However, if you are installing four or more cameras, a **PoE Switch** is superior. A switch provides a central power budget and manages data traffic more efficiently than a series of individual injectors.
 
 ## Real-world implications
 

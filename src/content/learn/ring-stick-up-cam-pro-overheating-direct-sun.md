@@ -81,7 +81,7 @@ The Stick [Up Cam](https://quvii.com/learn/ring-stick-up-cam-solar-charging-issu
 The camera's motherboard contains thermistors—small sensors that change electrical resistance based on temperature. These are strategically placed near the image sensor and the battery charging controller. The firmware constantly polls these sensors. If the temperature crosses a "Warning" threshold, the camera begins to throttle its performance. If it crosses the "Critical" threshold, the device initiates a hard shutdown.
 
 ### Mechanisms of Heat Dissipation
-Without fans, the Stick Up Cam Pro uses two primary methods to stay cool:
+Without fans, the [Stick Up Cam](https://quvii.com/learn/ring-stick-up-cam-solar-charging-issues-2026) Pro uses two primary methods to stay cool:
 1.  **Conduction:** Heat moves from the processor to the internal frame and eventually to the outer shell.
 2.  **Convection:** The air moving over the surface of the camera carries the heat away.
 This is why mounting a camera in a "dead air" space, such as a tight corner or under a very deep, unventilated eave, can lead to higher temperatures than mounting it where there is a slight breeze.
@@ -107,10 +107,10 @@ The first thing users notice during a heat event is a degradation in video quali
 Electronics have a "useful life" that is shortened by heat. High temperatures can cause "electromigration" in the processor, where the tiny paths on the chip slowly degrade over time. Furthermore, the plastic housing can become brittle after years of extreme thermal cycling (heating up in the sun and cooling down at night), eventually leading to cracks that compromise the camera's weatherproofing.
 
 ### Battery Performance and Longevity
-The Stick Up Cam Pro Battery version is particularly vulnerable. Lithium-ion batteries are chemically sensitive to heat. According to battery safety standards cited by Battery University, operating a lithium battery at sustained temperatures above 104°F (40°C) accelerates capacity loss. If your camera frequently overheats, you may find that the battery which used to last three months now only lasts six weeks, and eventually, it may refuse to hold a charge altogether.
+The [Stick Up](https://quvii.com/learn/ring-stick-up-cam-solar-charging-issues-2026) Cam Pro Battery version is particularly vulnerable. Lithium-ion batteries are chemically sensitive to heat. According to battery safety standards cited by Battery University, operating a lithium battery at sustained temperatures above 104°F (40°C) accelerates capacity loss. If your camera frequently overheats, you may find that the battery which used to last three months now only lasts six weeks, and eventually, it may refuse to hold a charge altogether.
 
 ### Reliability of Motion Detection and Alerts
-The Stick Up Cam Pro’s 3D Motion Detection relies on radar, which is generally more stable than PIR in heat. However, the software that interprets those radar signals can lag if the processor is being throttled due to temperature. This can lead to delayed notifications—where you receive an alert after a person has already left the frame—or missed events entirely if the camera is in a "Cooldown" cycle when an intruder arrives.
+The Stick [Up Cam](https://quvii.com/learn/ring-stick-up-cam-solar-charging-issues-2026) Pro’s 3D Motion Detection relies on radar, which is generally more stable than PIR in heat. However, the software that interprets those radar signals can lag if the processor is being throttled due to temperature. This can lead to delayed notifications—where you receive an alert after a person has already left the frame—or missed events entirely if the camera is in a "Cooldown" cycle when an intruder arrives.
 
 ### Warranty Considerations
 Ring’s [Limited Warranty](https://ring.com/warranty) covers "defects in materials and workmanship under normal use." While "normal use" includes being outdoors, the warranty typically excludes damage caused by "misuse" or "external causes." If a camera is mounted in a way that violates the 120°F operating spec (e.g., inside a glass enclosure or against a black metal surface in the desert), a warranty claim could theoretically be denied, though Ring is generally known for flexible support in standard residential use cases.

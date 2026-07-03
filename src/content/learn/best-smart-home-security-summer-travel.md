@@ -150,6 +150,6 @@ Most 2026 solar cameras are designed to operate for 3 to 6 months on a single ch
 
 - Eufy Security — [https://www.eufy.com/products/t81701w1](https://www.eufy.com/products/t81701w1)
 - Reolink Altas PT Ultra Product Page — [https://reolink.com/product/altas-pt-ultra/](https://reolink.com/product/altas-pt-ultra/)
-- TP-Link Tapo C425 Specifications — https://www.tapo.com/us/product/smart-camera/tapo-c425/
+- TP-Link [Tapo C425](https://quvii.com/blog/tapo-c425-battery-drain-june-update-impact) Specifications — https://www.tapo.com/us/product/smart-camera/tapo-c425/
 - Matter Smart Home Standards — https://csa-iot.org/all-solutions/matter/
 - RTINGS Security Camera Reviews
