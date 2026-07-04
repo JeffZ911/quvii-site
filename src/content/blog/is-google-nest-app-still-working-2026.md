@@ -107,7 +107,7 @@ Furthermore, residents of Illinois continue to face restrictions. Due to the **B
 A small but vocal percentage of users (approximately 3-5% based on community polls) report that their 1st Gen Nest Cams become "bricked" during the migration process. Common symptoms include:
 *   The camera showing a solid blue light but appearing "Offline" in both apps.
 *   The QR code being rejected by the Google Home app after being removed from the Nest app.
-*   **Workaround:** Users on [r/HomeSecurity](https://www.reddit.com/r/homesecurity/) suggest performing a "hard factory reset" (using a paperclip in the reset hole for 15 seconds) *before* attempting to remove the device from the old Nest app.
+*   **Workaround:** Users on [r/HomeSecurity](https://www.reddit.com/r/homesecurity/) suggest performing a "hard [factory reset](https://quvii.com/learn/arlo-pro-vmc4030-factory-reset-failure-july-2026)" (using a paperclip in the reset hole for 15 seconds) *before* attempting to remove the device from the old Nest app.
 
 ## What to do now
 

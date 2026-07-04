@@ -185,7 +185,7 @@ Direct, prolonged exposure to intense sunlight can cause the camera's internal t
 *   Doorbellmount.com — Blink Solar Panel Mount Review
 *   Kentfaith.com — KF Concept Solar Panel Charger for Blink
 *   Bevigor.com — [Blink Camera](https://quvii.com/learn/blink-camera-offline-troubleshooting-june-2026) Protective Housing
-*   Blinkforhome.com — Optimize Blink Battery Life
+*   Blinkforhome.com — Optimize Blink [Battery Life](https://quvii.com/blog/tapo-c425-battery-drain-june-update-impact)
 *   Reddit.com — [Blink Outdoor](https://quvii.com/learn/blink-outdoor-4-motion-detection-delay) [Battery Life Issues](https://quvii.com/blog/tapo-c425-battery-drain-june-update-impact)
 *   Amazonforum.com — Solar Panel for [Blink Outdoor](https://quvii.com/learn/blink-outdoor-4-motion-detection-delay)
 *   Clippingpathassociate.com — How to Protect Security Camera from Sun

@@ -35,7 +35,7 @@ inline_image_sections:
   - "Further reading"
 ---
 
-Motion zone issues with your Ring [Battery Doorbell Plus](https://quvii.com/learn/ring-battery-doorbell-plus-firmware-update-june-2026) can turn a valuable security tool into a source of frustration, leading to missed alerts or an endless stream of false alarms. Understanding the nuances of its motion detection system is key to optimizing its performance and ensuring your home remains securely monitored.
+Motion zone issues with your Ring [Battery Doorbell Plus](https://quvii.com/learn/ring-battery-doorbell-plus-firmware-update-june-2026) can turn a valuable security tool into a source of frustration, leading to missed alerts or an endless stream of false alarms. Understanding the nuances of its [motion detection](https://quvii.com/learn/blink-outdoor-4-motion-detection-delay) system is key to optimizing its performance and ensuring your home remains securely monitored.
 
 # Ring Battery Doorbell Plus Motion Zone Issues: A Comprehensive Guide
 

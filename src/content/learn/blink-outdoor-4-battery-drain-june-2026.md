@@ -130,7 +130,7 @@ The [Outdoor 4](https://quvii.com/learn/blink-outdoor-4-motion-detection-delay)'
 
 ### Why You Can't Use Rechargeable Batteries
 A common user error is attempting to use NiMH (1.2V) or Li-ion (3.7V) rechargeable batteries.
-*   **NiMH:** These provide 1.2V, which is too low for the Outdoor 4's 1.5V requirement. The camera will report "Low Battery" immediately, even if they are fully charged.
+*   **NiMH:** These provide 1.2V, which is too low for the [Outdoor 4](https://quvii.com/learn/blink-outdoor-4-motion-detection-delay)'s 1.5V requirement. The camera will report "Low Battery" immediately, even if they are fully charged.
 *   **Li-ion Rechargeables:** Most 14500 Li-ion cells provide 3.7V, which can physically fry the Blink's motherboard. Even "regulated" 1.5V Li-ion rechargeables often have a discharge curve that confuses the Blink's voltage sensors, leading to sudden, un-alerted shutdowns.
 
 ### The Truth About Activity Zones

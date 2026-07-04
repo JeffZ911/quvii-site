@@ -46,7 +46,7 @@ With Ring's adoption of Retinal 2K, the decision between these two brands no lon
 ### The Death of the Free Tier
 In 2026, the "out of the box" experience for both cameras is significantly more limited than in previous years. Without a monthly fee, both the [Arlo Pro](https://quvii.com/learn/arlo-pro-vmc4030-factory-reset-failure-july-2026) 6 and Ring [Stick Up](https://quvii.com/learn/ring-stick-up-cam-pro-overheating-direct-sun) Cam Pro are relegated to basic [motion alerts](https://quvii.com/learn/nest-cam-battery-false-motion-alerts-shadows-fixes) and live-viewing. Features that were previously considered standard, such as "Activity Zones" (which prevent a swaying tree from triggering an alert), are now locked behind [Arlo Secure](https://quvii.com/blog/arlo-secure-app-6-26-0-firmware-issues) and Ring Home subscriptions. This shift has pushed many users toward local-storage alternatives, though Arlo continues to offer a local-save option via the <a href="https://www.amazon.com/s?k=Arlo+SmartHub+VMB5000&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Arlo SmartHub VMB5000</a>, provided the user buys the hub separately.
 
-| Feature | Arlo Pro 6 | [Ring Stick](https://quvii.com/learn/ring-stick-up-cam-pro-overheating-direct-sun) [Up Cam](https://quvii.com/learn/ring-stick-up-cam-pro-overheating-direct-sun) Pro |
+| Feature | [Arlo Pro](https://quvii.com/learn/arlo-pro-vmc4030-factory-reset-failure-july-2026) 6 | [Ring Stick](https://quvii.com/learn/ring-stick-up-cam-pro-overheating-direct-sun) [Up Cam](https://quvii.com/learn/ring-stick-up-cam-pro-overheating-direct-sun) Pro |
 | :--- | :--- | :--- |
 | **Resolution** | 2K with HDR | Retinal 2K |
 | **Field of View (FOV)** | 160° Diagonal | 140° Diagonal |

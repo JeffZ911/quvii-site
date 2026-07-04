@@ -73,7 +73,7 @@ When selecting a smart lock, prioritizing models with robust backup access metho
 
 ### Connectivity and Battery Considerations
 
-The type of wireless connectivity a smart lock uses significantly impacts its battery life and performance during an internet outage.
+The type of wireless connectivity a smart lock uses significantly impacts its [battery life](https://quvii.com/blog/tapo-c425-battery-drain-june-update-impact) and performance during an internet outage.
 
 *   **Wi-Fi Direct Locks:** These locks connect directly to your home's Wi-Fi network. While convenient, they often consume more power, leading to shorter battery life, typically around 2-4 months. During an internet outage, remote functions will be lost.
 *   **Z-Wave/Zigbee Locks:** These locks communicate with a central smart home hub rather than directly with your Wi-Fi router. They are generally more power-efficient, offering battery life of 12-18 months or more. If the hub has a battery backup, some local automations might still function, but remote access still relies on the hub's connection to the internet.
