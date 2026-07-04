@@ -171,7 +171,7 @@ This breakdown illustrates that the subscription cost quickly surpasses the init
 ### Further reading
 
 *   Optimizing Wi-Fi for Smart Cameras: A Comprehensive Guide
-*   Understanding Security Camera Privacy: Local vs. Cloud Storage Options
+*   Understanding Security [Camera Privacy](https://quvii.com/learn/doorbell-camera-privacy-federal-agents-porch-visit): Local vs. Cloud Storage Options
 *   Choosing the Right Security Camera Subscription: Beyond Ring, Nest, and Arlo
 *   Troubleshooting Common Security Camera Offline Issues
 

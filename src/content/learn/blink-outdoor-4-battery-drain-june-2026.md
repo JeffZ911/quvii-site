@@ -121,7 +121,7 @@ The [Blink Outdoor 4](https://quvii.com/learn/blink-outdoor-4-motion-detection-d
 Battery-powered cameras are often used in sensitive areas. It is important to understand that Amazon (Blink's parent company) utilizes the **ALERT (Law Enforcement Request Tracker)** system. According to the [Amazon Privacy Policy](https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MH7XNJ), they may share video footage with law enforcement without a warrant in "emergency situations" involving imminent danger. Because battery cameras often experience "gaps" in coverage when they die, users may inadvertently lose the very footage they need for legal defense or insurance claims.
 
 ### Sustainability Concerns
-The Outdoor 4's reliance on non-rechargeable lithium batteries creates significant electronic waste. By June 2026, several US states have introduced "Right to Repair" and battery disposal regulations that may impact how these units are serviced. Discarding 8-12 lithium batteries per year per household is increasingly viewed as a sustainability drawback of the Blink ecosystem compared to the 2025/2026 trend toward integrated solar panels.
+The [Outdoor 4](https://quvii.com/learn/blink-outdoor-4-motion-detection-delay)'s reliance on non-rechargeable lithium batteries creates significant electronic waste. By June 2026, several US states have introduced "Right to Repair" and battery disposal regulations that may impact how these units are serviced. Discarding 8-12 lithium batteries per year per household is increasingly viewed as a sustainability drawback of the Blink ecosystem compared to the 2025/2026 trend toward integrated solar panels.
 
 ## Common misconceptions
 

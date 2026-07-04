@@ -149,7 +149,7 @@ No, but any camera that uses the Yoosee, ICSee, or UBox apps is subject to the w
 ## Sources
 - Yoosee Official Site — https://yoosee.app/
 - Reddit r/HomeSecurity Community — https://www.reddit.com/r/homesecurity/
-- Forbes: Security Camera Privacy Guide — https://www.forbes.com/advisor/home-improvement/security-camera-privacy/
+- Forbes: Security [Camera Privacy](https://quvii.com/learn/doorbell-camera-privacy-federal-agents-porch-visit) Guide — https://www.forbes.com/advisor/home-improvement/security-camera-privacy/
 - BeVigil App Security Database — https://bevigil.com/search
 - ONVIF Conformant Product Search — https://www.onvif.org/conformant-products/
 - Wirecutter: Best Home Security Cameras

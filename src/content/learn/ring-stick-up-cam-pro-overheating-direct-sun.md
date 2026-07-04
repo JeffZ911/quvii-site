@@ -197,7 +197,7 @@ Ring cameras have a safety feature that disables battery charging when the batte
 It depends on the skin. A white or light-colored skin with a "brim" can help by providing shade to the camera body. However, a poorly designed, tight-fitting skin can act as a thermal blanket, trapping heat against the plastic shell. Always choose skins specifically marketed as "thermal" or "sun-shielding" for the Stick [Up Cam](https://quvii.com/learn/ring-stick-up-cam-solar-charging-issues-2026) Pro.
 
 ## Sources
-- Ring Product Page: Stick Up Cam Pro — https://ring.com/products/stick-up-cam-pro
+- Ring Product Page: [Stick Up Cam](https://quvii.com/learn/ring-stick-up-cam-solar-charging-issues-2026) Pro — https://ring.com/products/stick-up-cam-pro
 - Ring Support: Device Operating Temperatures — https://support.ring.com/hc/en-us/articles/115005234746-Ring-Device-Operating-Temperatures
 - Battery University: Prolonging Lithium-based Batteries — https://batteryuniversity.com/article/bu-808-how-to-prolong-lithium-based-batteries
 - Ring Warranty Information — https://ring.com/warranty

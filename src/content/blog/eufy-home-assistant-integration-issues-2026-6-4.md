@@ -146,7 +146,7 @@ Only partially. While video can be stored locally on a HomeBase, the cameras sti
 The "Indoor Cam" series (C24, C120, C220) tend to be more stable because they support a persistent power source and often have RTSP options. Battery-powered cameras are significantly more difficult to integrate due to their "sleep" states.
 
 ## Sources
-- Home Assistant Official Integrations List — https://www.home-assistant.io/integrations/
+- [Home Assistant](https://quvii.com/blog/eufy-home-assistant-integration-issues-july-2026) Official Integrations List — https://www.home-assistant.io/integrations/
 - [Eufy Security GitHub Integration Repository — https://github.com/fuatakgun/eufy_security](https://github.com/fuatakgun/eufy_security)
 - The Verge: Eufy's Unencrypted Stream Controversy
 - <a href="https://www.amazon.com/s?k=Eufy+Official+Support%3A+Using+RTSP+with+Eufy+%E2%80%94+https%3A%2F%2Fsupport.eufy.com%2Fs%2Farticle%2FUsing-RTSP-on-eufySecurity-Devices&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Eufy Official Support: Using RTSP with Eufy — </a>

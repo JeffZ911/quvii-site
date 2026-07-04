@@ -154,7 +154,7 @@ The deletion of the [Nest Community](https://quvii.com/blog/google-nest-communit
 No, your Google Account and your access to the Google Home app will remain unchanged. Only the data on the community forum website (`googlenestcommunity.com`) is being deleted. Your camera footage, subscription status, and device settings are not affected by this migration.
 
 ### Can I still get help for my older Nest Cam IQ or Nest Hello?
-You can still post questions on the new Google Support forum, but you will no longer be able to search the decade-old archive of existing solutions. Official Google support for legacy hardware is often limited to "factory reset" suggestions, so losing the community-driven "deep fixes" is a significant loss for owners of older devices.
+You can still post questions on the new Google Support forum, but you will no longer be able to search the decade-old archive of existing solutions. Official Google support for legacy hardware is often limited to "[factory reset](https://quvii.com/learn/arlo-pro-vmc4030-factory-reset-failure-july-2026)" suggestions, so losing the community-driven "deep fixes" is a significant loss for owners of older devices.
 
 ### Why didn't Google just move the posts to the new site?
 Google has cited "data privacy and platform compatibility" as the reasons for not migrating content. Because the old forum was hosted by a third-party vendor (Khoros), moving thousands of user-generated posts and personal profiles into Google’s internal support infrastructure presented legal and technical hurdles that the company chose not to clear.

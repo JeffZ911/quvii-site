@@ -180,7 +180,7 @@ Direct, prolonged exposure to intense sunlight can cause the camera's internal t
 *   Blinkforhome.com — Blink Video Doorbell Product Page
 *   Blinkforhome.com — Blink Indoor Camera Product Page
 *   Blinkforhome.com — Blink Sync Module 2 Product Page
-*   Amazonforum.com — [Blink Outdoor 4](https://quvii.com/learn/blink-outdoor-4-motion-detection-delay) Battery Life Concerns
+*   Amazonforum.com — [Blink Outdoor 4](https://quvii.com/learn/blink-outdoor-4-motion-detection-delay) [Battery Life](https://quvii.com/blog/tapo-c425-battery-drain-june-update-impact) Concerns
 *   Amazonforum.com — Blink [Camera Battery Drain](https://quvii.com/blog/eufy-security-camera-battery-drain-june-2026)
 *   Doorbellmount.com — Blink Solar Panel Mount Review
 *   Kentfaith.com — KF Concept Solar Panel Charger for Blink

@@ -152,7 +152,7 @@ In an outdoor environment, 100% accuracy is an unrealistic goal. Spiders will al
 ## Frequently Asked Questions
 
 ### Why does my Reolink camera alert me when the lights turn on or off?
-This is usually caused by "Pixel-Based Motion Detection." When lights flip, the camera's IR cut-filter often engages or disengages to adjust to the light level, causing a massive change in pixel values. To fix this, enable "Smart Detection" and set the camera to only notify you for "Person" or "Vehicle" alerts, ignoring the general "Motion" category.
+This is usually caused by "Pixel-Based [Motion Detection](https://quvii.com/learn/blink-outdoor-4-motion-detection-delay)." When lights flip, the camera's IR cut-filter often engages or disengages to adjust to the light level, causing a massive change in pixel values. To fix this, enable "Smart Detection" and set the camera to only notify you for "Person" or "Vehicle" alerts, ignoring the general "Motion" category.
 
 ### How do I stop insects from triggering my Reolink camera at night?
 Insects are attracted to the heat and light of the IR LEDs. You can reduce these alerts by lowering the "Sensitivity" for motion at night, using the "Object Size" filter to exclude small moving objects, or by turning off the built-in IR LEDs and using a separate, external IR illuminator mounted several feet away from the camera.
