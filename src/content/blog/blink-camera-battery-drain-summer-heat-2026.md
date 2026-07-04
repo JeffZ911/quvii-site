@@ -165,7 +165,7 @@ To prevent fast battery drain in summer heat, optimize your camera settings by r
 Blink officially recommends 1.5V non-rechargeable lithium AA batteries for optimal performance and longevity. While some users experiment with rechargeable NiMH batteries, they may not provide consistent voltage or perform as well in extreme temperatures, potentially leading to shorter life or unreliable operation.
 
 ### Does a strong Wi-Fi signal affect Blink camera battery life?
-Yes, a strong and stable Wi-Fi connection is crucial for battery life. If the camera has a weak signal, it expends more power trying to maintain connectivity, which can significantly accelerate battery drain, especially when combined with high temperatures.
+Yes, a strong and stable Wi-Fi connection is crucial for [battery life](https://quvii.com/blog/tapo-c425-battery-drain-june-update-impact). If the camera has a weak signal, it expends more power trying to maintain connectivity, which can significantly accelerate battery drain, especially when combined with high temperatures.
 
 ### Will direct sunlight damage my Blink camera?
 Direct, prolonged exposure to intense sunlight can cause the camera's internal temperature to exceed its operating limits, potentially degrading performance, reducing device longevity, and accelerating battery drain. While not necessarily "damage" in a single instance, it contributes to wear and tear.

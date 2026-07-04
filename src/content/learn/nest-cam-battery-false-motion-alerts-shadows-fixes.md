@@ -149,7 +149,7 @@ To determine the best course of action for your specific environment, use the fo
 ![Further reading](/img/nest-cam-battery-false-motion-alerts-shadows-fixes/inline-6.webp)
 
 
-Optimizing your camera placement is the single most effective way to minimize shadow interference. Placing the camera away from direct overhead foliage or using a mounting wedge to angle the lens away from the horizon can significantly reduce the "depth" of shadows in the frame.
+Optimizing your [camera placement](https://quvii.com/learn/doorbell-camera-vs-security-camera-placement) is the single most effective way to minimize shadow interference. Placing the camera away from direct overhead foliage or using a mounting wedge to angle the lens away from the horizon can significantly reduce the "depth" of shadows in the frame.
 
 For a detailed guide on setting up and refining Activity Zones in the Google Home app, users should explore the "Settings > Events" menu, where you can customize up to four distinct zones per camera.
 

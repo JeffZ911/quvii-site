@@ -191,7 +191,7 @@ Eufy emphasizes local storage and on-device AI processing to enhance privacy. Ho
 *   [reddit.com] - <a href="https://www.amazon.com/s?k=r%2FEufyCam+-+HomeBase+3+Firmware+3.8.2.0+and+3.8.2.8+Issues&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">r/EufyCam - HomeBase 3 Firmware 3.8.2.0 and 3.8.2.8 Issues</a>
 *   [reddit.com] - <a href="https://www.amazon.com/s?k=r%2FEufyCam+-+Notification+Issues+April+2026&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">r/EufyCam - Notification Issues April 2026</a>
 *   [reddit.com] - <a href="https://www.amazon.com/s?k=r%2FEufyCam+-+Battery+Drain+after+Firmware+Update&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">r/EufyCam - Battery Drain after Firmware Update</a>
-*   [tomsguide.com] - Eufy security camera privacy concerns
+*   [tomsguide.com] - Eufy security [camera privacy](https://quvii.com/learn/doorbell-camera-privacy-federal-agents-porch-visit) concerns
 *   [bgr.com] - <a href="https://www.amazon.com/s?k=Eufy+Security+Camera+Privacy+Issues&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Eufy Security Camera Privacy Issues</a>
 *   [ring.com] - <a href="https://www.amazon.com/s?k=Ring+Protect+Plans&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Ring Protect Plans</a>
 *   [reolink.com] - <a href="https://www.amazon.com/s?k=Reolink+Cloud+Plans&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Reolink Cloud Plans</a>

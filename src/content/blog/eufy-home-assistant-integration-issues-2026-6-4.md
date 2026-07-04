@@ -134,7 +134,7 @@ While Eufy remains cheaper than subscription-heavy brands like Ring, it often tr
 ## Frequently Asked Questions
 
 ### Does Eufy officially support Home Assistant?
-No. Eufy does not provide an official API or integration for Home Assistant. Any integration currently available is community-made and relies on reverse-engineering Eufy's private web and app protocols.
+No. Eufy does not provide an official API or integration for [Home Assistant](https://quvii.com/blog/eufy-home-assistant-integration-issues-july-2026). Any integration currently available is community-made and relies on reverse-engineering Eufy's private web and app protocols.
 
 ### Why do my Eufy cameras keep showing "Unavailable" in Home Assistant?
 This is usually caused by a mismatch between the `eufy-security-ws` server and Eufy’s cloud authentication. It can also happen if you have 2FA (Two-Factor Authentication) enabled on the account used for the integration, as the integration cannot always handle the 2FA prompt.

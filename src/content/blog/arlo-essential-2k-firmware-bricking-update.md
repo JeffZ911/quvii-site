@@ -119,7 +119,7 @@ As users discard bricked cameras, privacy becomes a concern. Arlo’s [Privacy P
 *   Geographic location data.
 *   Personal identifiers for marketing.
 
-The policy notes that Arlo may share this data with business partners for promotions. Under the California Consumer Privacy Act (CCPA) and CPRA, some of these data-sharing practices may be categorized as a "sale" of information. For owners of bricked devices, the concern is whether their data remains in Arlo’s ecosystem even after the hardware is in a landfill. Users are advised to perform a "factory reset" via the app (if the device is still partially reachable) or remove the device from their account before disposal to sever the link between the hardware ID and their personal data.
+The policy notes that Arlo may share this data with business partners for promotions. Under the California Consumer Privacy Act (CCPA) and CPRA, some of these data-sharing practices may be categorized as a "sale" of information. For owners of bricked devices, the concern is whether their data remains in Arlo’s ecosystem even after the hardware is in a landfill. Users are advised to perform a "[factory reset](https://quvii.com/learn/arlo-pro-vmc4030-factory-reset-failure-july-2026)" via the app (if the device is still partially reachable) or remove the device from their account before disposal to sever the link between the hardware ID and their personal data.
 
 ## What to do now
 

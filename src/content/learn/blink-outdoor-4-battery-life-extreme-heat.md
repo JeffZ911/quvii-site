@@ -239,6 +239,6 @@ While the camera is designed to operate within its specified temperature range, 
 *   Target.com — [Blink Outdoor 4](https://quvii.com/blog/blink-outdoor-4-sync-module-2-connection-error-fix)
 *   Pcmag.com — Blink [Outdoor 4](https://quvii.com/blog/blink-outdoor-4-sync-module-2-connection-error-fix) Review
 *   Amazon.com — Energizer Ultimate Lithium AA Batteries
-*   Techgearlab.com — Security Camera Placement Tips
+*   Techgearlab.com — [Security Camera Placement](https://quvii.com/learn/doorbell-camera-vs-security-camera-placement) Tips
 *   Citylabs.net — Understanding IP Ratings
 *   Reddit.com — [Blink Outdoor 4](https://quvii.com/blog/blink-outdoor-4-sync-module-2-connection-error-fix) in Arizona Heat
