@@ -37,7 +37,7 @@ Eufy’s promise of "Forever Power" is facing its toughest test yet as a wave of
 *Related: [Ring Doorbell Overheating in June 2026: What Buyers Need to Know](/blog/ring-doorbell-overheating-june-2026-buyers-guide) · [Blink Camera Battery Drain in Summer Heat 2026: What Buyers Need to Kn](/blog/blink-camera-battery-drain-summer-heat-2026) · [How to Keep Security Cameras Cool: 2026 Summer Heatwave Guide](/blog/how-to-keep-security-cameras-cool-summer-2026)*
 
 
-In May and June 2026, the Eufy user community began reporting a sharp, unexplained decline in battery health across several flagship models. While Eufy’s marketing traditionally promises up to 365 days of battery life on a single charge, many users are currently seeing their cameras go from 100% to zero in less than a week.
+In May and June 2026, the Eufy user community began reporting a sharp, unexplained decline in battery health across several flagship models. While Eufy’s marketing traditionally promises up to 365 days of [battery life](https://quvii.com/blog/tapo-c425-battery-drain-june-update-impact) on a single charge, many users are currently seeing their cameras go from 100% to zero in less than a week.
 
 The crisis is primarily linked to the HomeBase 3 (S380), the central hub responsible for processing AI and storing footage locally. Following a series of system-wide updates deployed in late Q2 2026, the communication protocol between the hub and the cameras appears to be malfunctioning. Instead of the camera "waking up" only when motion is detected, the HomeBase is keeping the camera’s wireless radio and AI processor in a high-power state.
 

@@ -115,7 +115,7 @@ If a specific camera integration breaks or is removed, consider exploring altern
 
 ### Leveraging Community Support and Alternative Integrations
 
-The Home Assistant Community forums (e.g., r/HomeAssistant) are an invaluable resource for troubleshooting. **Check for community solutions** where users often share discussions, workarounds, or custom component updates related to camera integrations impacted by breaking changes. You might find that a solution or a custom component has already been developed to address your specific issue.
+The Home Assistant Community forums (e.g., r/HomeAssistant) are an invaluable resource for troubleshooting. **Check for community solutions** where users often share discussions, workarounds, or custom component updates related to camera integrations impacted by [breaking changes](https://quvii.com/learn/home-assistant-2026-7-alexa-media-player-breaking-changes). You might find that a solution or a custom component has already been developed to address your specific issue.
 
 For critical security setups, it may be prudent to **delay updates if necessary**. Wait until community feedback confirms stability for your specific camera hardware and integrations. This cautious approach can prevent unexpected outages in your security monitoring.
 

@@ -129,7 +129,7 @@ When comparing Eufy to competitors, don't just look at the sticker price. While 
 *   **Reolink 4K PoE System:** ~$350 upfront + $0/mo = **$350 total over 3 years.**
 *   **Ring/Arlo Equivalent:** ~$300 upfront + $10/mo sub = **$660 total over 3 years.**
 
-While Eufy remains cheaper than subscription-heavy brands like Ring, it often trails behind other "local-first" brands like Reolink in both price and Home Assistant reliability.
+While Eufy remains cheaper than subscription-heavy brands like Ring, it often trails behind other "local-first" brands like Reolink in both price and [Home Assistant](https://quvii.com/blog/eufy-home-assistant-integration-issues-july-2026) reliability.
 
 ## Frequently Asked Questions
 

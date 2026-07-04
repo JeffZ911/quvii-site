@@ -160,6 +160,6 @@ Quvii tracks these trade-offs across the category to help buyers navigate the sh
 ## Sources
 - Reolink Duo 3 PoE Specifications — https://reolink.com/product/reolink-duo-3-poe/#specifications
 - Netgear: What is PoE? — https://www.netgear.com/business/solutions/poe/
-- Amcrest 4K PoE Camera Data Sheet — https://amcrest.com/4k-poe-ip-camera-turret-white-ip8m-2493ew-v2.html
+- Amcrest 4K [PoE Camera](https://quvii.com/blog/reolink-poe-firmware-june-2026-issues) Data Sheet — https://amcrest.com/4k-poe-ip-camera-turret-white-ip8m-2493ew-v2.html
 - IEEE 802.3 Ethernet Working Group — https://standards.ieee.org/standard/802_3-2022.html
 - r/HomeSecurity Wiki: PoE vs Wi-Fi — https://www.reddit.com/r/HomeSecurity/wiki/index/

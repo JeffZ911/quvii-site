@@ -107,7 +107,7 @@ Mitigating [battery drain](https://quvii.com/blog/eufy-security-camera-battery-d
 *   **Use Recommended Batteries:** Always use 1.5V non-rechargeable lithium AA batteries (such as Energizer Ultimate Lithium), as recommended by Blink. These batteries offer superior performance and longevity, especially in a wider range of temperatures, compared to alkaline or some rechargeable NiMH batteries which may not provide consistent voltage or perform well in heat.
 *   **Consider Alternative Power Sources:** For cameras in high-traffic areas or locations exposed to extreme heat and [direct sunlight](https://quvii.com/learn/google-nest-cam-battery-overheating-direct-sunlight), explore external power options.
     *   **Blink Weather Resistant Power Adapter:** Available for models like the Blink Mini 2, this adapter provides continuous power, eliminating reliance on internal batteries.
-    *   **Compatible Solar Panel Mounts:** For [Blink Outdoor](https://quvii.com/learn/blink-outdoor-4-motion-detection-delay) models, third-party solar panel mounts are available that can trickle-charge the camera, significantly extending battery life or providing continuous power. Ensure compatibility and look for reputable brands.
+    *   **Compatible Solar Panel Mounts:** For [Blink Outdoor](https://quvii.com/learn/blink-outdoor-4-motion-detection-delay) models, third-party solar panel mounts are available that can trickle-charge the camera, significantly extending [battery life](https://quvii.com/blog/tapo-c425-battery-drain-june-update-impact) or providing continuous power. Ensure compatibility and look for reputable brands.
 
 ### Proactive Maintenance and Support
 

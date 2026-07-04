@@ -123,13 +123,13 @@ Ring’s [Limited Warranty](https://ring.com/warranty) covers "defects in materi
 Understanding the limits of outdoor hardware helps in setting realistic expectations for your security system.
 
 ### 'Outdoor cameras are built for all weather, including direct sun.'
-This is perhaps the most common misconception. "Outdoor rated" usually refers to moisture and dust protection (IP ratings), not infinite heat tolerance. Even professional-grade hardware has limits. A camera rated for "outdoor use" is tested to survive rain and snow, but the 120°F upper limit of the Stick Up Cam Pro is a hard physical constraint of its consumer-grade components.
+This is perhaps the most common misconception. "Outdoor rated" usually refers to moisture and dust protection (IP ratings), not infinite heat tolerance. Even professional-grade hardware has limits. A camera rated for "outdoor use" is tested to survive rain and snow, but the 120°F upper limit of the [Stick Up Cam](https://quvii.com/learn/ring-stick-up-cam-solar-charging-issues-2026) Pro is a hard physical constraint of its consumer-grade components.
 
 ### 'A warm camera is normal and not a problem.'
-It is true that the Stick Up Cam Pro will feel warm during normal operation, especially if it has been recording frequently. However, if the camera is too hot to hold comfortably or if the Ring app is showing thermal warnings, it is not "normal." Frequent thermal warnings are a leading indicator of premature hardware failure.
+It is true that the [Stick Up](https://quvii.com/learn/ring-stick-up-cam-solar-charging-issues-2026) Cam Pro will feel warm during normal operation, especially if it has been recording frequently. However, if the camera is too hot to hold comfortably or if the Ring app is showing thermal warnings, it is not "normal." Frequent thermal warnings are a leading indicator of premature hardware failure.
 
 ### 'Overheating is purely a battery issue.'
-While the battery is a major heat source, the "Plug-In" version of the Stick Up Cam Pro can also overheat. In wired models, the AC-to-DC power conversion process generates its own heat. The image sensor and the Wi-Fi radio are significant contributors to the thermal budget, regardless of the power source.
+While the battery is a major heat source, the "Plug-In" version of the Stick [Up Cam](https://quvii.com/learn/ring-stick-up-cam-solar-charging-issues-2026) Pro can also overheat. In wired models, the AC-to-DC power conversion process generates its own heat. The image sensor and the Wi-Fi radio are significant contributors to the thermal budget, regardless of the power source.
 
 ### 'Darker cameras always overheat more than lighter ones.'
 There is some truth to this—black surfaces absorb more solar energy than white ones. However, internal thermal management matters more. A white camera with a high-duty cycle (constant recording) may run hotter than a black camera that is mostly idle. That said, if you live in a high-heat climate like Arizona or Florida, choosing the "White" color option for the Stick Up Cam Pro provides a measurable thermal advantage in [direct sun](https://quvii.com/blog/eufy-cam-e330-professional-overheating-direct-sun).
