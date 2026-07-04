@@ -141,7 +141,7 @@ Software can help by making the camera more efficient, but it cannot override th
 
 To understand where the [Stick Up](https://quvii.com/learn/ring-stick-up-cam-solar-charging-issues-2026) Cam Pro sits in the market, we compare its thermal and operational specs against other Ring outdoor options.
 
-| Feature | Stick [Up Cam](https://quvii.com/learn/ring-stick-up-cam-solar-charging-issues-2026) Pro | Stick Up Cam (Battery/Plug-in) | Spotlight Cam Pro |
+| Feature | Stick [Up Cam](https://quvii.com/learn/ring-stick-up-cam-solar-charging-issues-2026) Pro | [Stick Up Cam](https://quvii.com/learn/ring-stick-up-cam-solar-charging-issues-2026) (Battery/Plug-in) | Spotlight Cam Pro |
 | :--- | :--- | :--- | :--- |
 | **Max Operating Temp** | 120°F (48.5°C) | 120°F (48.5°C) | 120°F (48.5°C) |
 | **Motion Detection** | 3D (Radar) | PIR (Infrared) | 3D (Radar) |
@@ -163,7 +163,7 @@ To understand where the [Stick Up](https://quvii.com/learn/ring-stick-up-cam-sol
 
 ## Total Cost of Ownership (3-Year Estimate)
 
-When purchasing the Stick Up Cam Pro, the sticker price is only the beginning. If the camera overheats and kills the battery prematurely, your TCO increases.
+When purchasing the [Stick Up](https://quvii.com/learn/ring-stick-up-cam-solar-charging-issues-2026) Cam Pro, the sticker price is only the beginning. If the camera overheats and kills the battery prematurely, your TCO increases.
 
 *   **Hardware:** $150 - $180 (depending on promotions).
 *   **Subscription (Ring Protect Basic):** $4.99/mo or ~$50/yr. Over 3 years: **$150**.
@@ -194,7 +194,7 @@ It can, but it requires careful installation. In desert environments where ambie
 Ring cameras have a safety feature that disables battery charging when the battery temperature exceeds approximately 113°F (45°C). This often happens when a solar panel is working hardest. It is a protective measure to prevent the lithium-ion battery from swelling or catching fire. Charging will resume automatically once the temperature drops.
 
 ### Will a silicone skin help or hurt with overheating?
-It depends on the skin. A white or light-colored skin with a "brim" can help by providing shade to the camera body. However, a poorly designed, tight-fitting skin can act as a thermal blanket, trapping heat against the plastic shell. Always choose skins specifically marketed as "thermal" or "sun-shielding" for the Stick Up Cam Pro.
+It depends on the skin. A white or light-colored skin with a "brim" can help by providing shade to the camera body. However, a poorly designed, tight-fitting skin can act as a thermal blanket, trapping heat against the plastic shell. Always choose skins specifically marketed as "thermal" or "sun-shielding" for the Stick [Up Cam](https://quvii.com/learn/ring-stick-up-cam-solar-charging-issues-2026) Pro.
 
 ## Sources
 - Ring Product Page: Stick Up Cam Pro — https://ring.com/products/stick-up-cam-pro

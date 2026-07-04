@@ -166,7 +166,7 @@ Quvii tracks these trade-offs across the category to ensure buyers aren't caught
 ## Frequently Asked Questions
 
 ### Can I fix a bricked Arlo Essential 2K myself?
-Generally, no. Because the Essential 2K lacks a physical data port (like USB-C for data transfer) and relies on an integrated battery, there is no way for a consumer to manually "flash" the firmware if the bootloader is corrupted. If a factory reset (holding the sync button for 15+ seconds) does not work, the device usually requires a warranty replacement from Arlo.
+Generally, no. Because the Essential 2K lacks a physical data port (like USB-C for data transfer) and relies on an integrated battery, there is no way for a consumer to manually "flash" the firmware if the bootloader is corrupted. If a [factory reset](https://quvii.com/learn/arlo-pro-vmc4030-factory-reset-failure-july-2026) (holding the sync button for 15+ seconds) does not work, the device usually requires a warranty replacement from Arlo.
 
 ### Does Arlo offer a warranty for cameras bricked by firmware?
 If your camera is within the standard one-year warranty period, Arlo typically honors a replacement for firmware-related failures. However, if the camera is outside the warranty period, even if the failure was caused by an Arlo-initiated update, users report that the company often refuses free replacements and instead offers discount codes for new hardware.

@@ -209,7 +209,7 @@ Choosing and configuring a Ring [Battery Doorbell Plus](https://quvii.com/learn/
     *   **Recommendation:** Set Motion Frequency to "Periodically" and reduce Motion Sensitivity. Minimize Live View usage and Snapshot Capture frequency. Consider purchasing a Ring Solar Panel or Solar Charger if your doorbell gets adequate direct sunlight, or hardwiring to an existing doorbell transformer for trickle charging if possible.
 
 *   **If you need reliable package detection and detailed event recording:**
-    *   **Prioritize:** A Ring Protect subscription and optimal camera placement.
+    *   **Prioritize:** A Ring Protect subscription and optimal [camera placement](https://quvii.com/learn/doorbell-camera-vs-security-camera-placement).
     *   **Recommendation:** Subscribe to a Ring Protect plan to unlock Package Alerts and video recording history. Ensure your doorbell is mounted at a height and angle that provides a clear, unobstructed view of your entire doorstep, from head-to-toe, to maximize the effectiveness of package detection.
 
 *   **If privacy and data sharing are your primary concerns:**

@@ -172,7 +172,7 @@ Direct, prolonged exposure to intense sunlight can cause the camera's internal t
 
 ## Sources
 
-*   Blinkforhome.com — Troubleshooting [Blink Camera](https://quvii.com/learn/blink-camera-offline-troubleshooting-june-2026) Battery Life
+*   Blinkforhome.com — Troubleshooting [Blink Camera](https://quvii.com/learn/blink-camera-offline-troubleshooting-june-2026) [Battery Life](https://quvii.com/blog/tapo-c425-battery-drain-june-update-impact)
 *   Blinkforhome.com — Blink Subscription Plans
 *   Reddit.com — [Blink Outdoor 4 battery](/learn/blink-outdoor-4-battery-life-extreme-heat) life in hot weather
 *   Blinkforhome.com — Blink Mini 2 Product Page

@@ -98,7 +98,7 @@ For those who already own Eufy hardware, the July 2026 notification issues range
 
 ### Loss of Real-Time Alerts
 
-Owners who have built elaborate smart home ecosystems using Homebridge or Home Assistant are currently facing the most significant impact. Because the `eufy-security-client` push channel is silent, any automation triggered by motion—such as turning on porch lights or announcing a visitor via smart speakers—has ceased to function. This renders the integration ineffective for real-time security, forcing owners back into the official Eufy app, which itself may be suffering from delays.
+Owners who have built elaborate smart home ecosystems using Homebridge or [Home Assistant](https://quvii.com/blog/eufy-home-assistant-integration-issues-july-2026) are currently facing the most significant impact. Because the `eufy-security-client` push channel is silent, any automation triggered by motion—such as turning on porch lights or announcing a visitor via smart speakers—has ceased to function. This renders the integration ineffective for real-time security, forcing owners back into the official Eufy app, which itself may be suffering from delays.
 
 ### Frustration with System Reliability
 

@@ -97,7 +97,7 @@ Even standalone devices like the <a href="https://www.amazon.com/s?k=SoloCam+S34
 A particularly concerning side effect of the June update was the appearance of "ghost images." Some users reported seeing thumbnails in their event history that appeared to be from different angles or even different cameras than the one labeled. Eufy addressed this in a technical advisory, clarifying that this was a local cache error caused by the new indexing system and not a cross-user data breach. However, for a brand that has previously faced privacy scrutiny regarding its cloud-based thumbnails, any anomaly in image handling is met with significant skepticism.
 
 ### Battery Drain
-Battery-powered cameras, such as the eufyCam S3 Pro, experienced accelerated battery drain during this period. When the HomeBase 3 failed to acknowledge a motion event notification, the cameras would remain in a "high-power" state, repeatedly attempting to handshake with the hub. Some users reported a 10–15% drop in battery life in a single week—a significant deviation for cameras designed to last months on a single charge.
+Battery-powered cameras, such as the eufyCam S3 Pro, experienced accelerated battery drain during this period. When the HomeBase 3 failed to acknowledge a motion event notification, the cameras would remain in a "high-power" state, repeatedly attempting to handshake with the hub. Some users reported a 10–15% drop in [battery life](https://quvii.com/blog/tapo-c425-battery-drain-june-update-impact) in a single week—a significant deviation for cameras designed to last months on a single charge.
 
 ## What to do now
 

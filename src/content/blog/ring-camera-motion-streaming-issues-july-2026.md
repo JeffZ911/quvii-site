@@ -108,7 +108,7 @@ The landscape of home security in 2026 offers more choices than ever. Whether yo
 
 *   **If you are a Renter:** Prioritize battery-powered Ring or Eufy models. Ring’s ecosystem is excellent for temporary setups, provided you have a strong Wi-Fi signal.
 *   **If you are a Homeowner (Privacy-First):** Prioritize brands like Reolink or Lorex. These systems offer local NVR (Network Video Recorder) storage, meaning your footage never leaves your house unless you want it to.
-*   **If you have poor Wi-Fi:** Avoid Ring. Look for "Power over Ethernet" (PoE) cameras or systems that support local storage and don't rely on constant cloud pings for motion detection.
+*   **If you have poor Wi-Fi:** Avoid Ring. Look for "Power over Ethernet" (PoE) cameras or systems that support local storage and don't rely on constant cloud pings for [motion detection](https://quvii.com/learn/blink-outdoor-4-motion-detection-delay).
 *   **If you are deep in the Alexa Ecosystem:** Stick with Ring, but invest in a dedicated Wi-Fi 6 or 7 router to minimize the streaming latency issues currently reported.
 
 ### Recommendations for Prospective Buyers

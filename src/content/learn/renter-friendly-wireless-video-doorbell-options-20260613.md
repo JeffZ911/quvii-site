@@ -166,7 +166,7 @@ Several misunderstandings often surround renter-friendly wireless video doorbell
 
 "**All video doorbells require a monthly subscription**": This is a significant misconception. While many popular brands push cloud subscriptions, a core advantage of renter-friendly options from companies like Eufy and Reolink is their emphasis on local storage. This allows users to record and review footage without any mandatory monthly fees, making them truly subscription-free for essential functions.
 
-"**Peephole cameras are always inferior**": Modern peephole cameras, such as the Aqara G4, have evolved significantly. They can offer high-resolution video, smart motion detection, and two-way audio, often integrating seamlessly with existing smart home ecosystems. While their placement might differ from traditional doorbells, their feature set can be quite comparable.
+"**Peephole cameras are always inferior**": Modern peephole cameras, such as the Aqara G4, have evolved significantly. They can offer high-resolution video, smart [motion detection](https://quvii.com/learn/blink-outdoor-4-motion-detection-delay), and two-way audio, often integrating seamlessly with existing smart home ecosystems. While their placement might differ from traditional doorbells, their feature set can be quite comparable.
 
 "**Installation is always complicated**": Renter-friendly options are specifically designed for quick and easy DIY setup. Methods like adhesive mounts, peephole replacements, or over-the-door brackets require minimal tools and expertise, making installation a straightforward process that most users can complete in minutes.
 

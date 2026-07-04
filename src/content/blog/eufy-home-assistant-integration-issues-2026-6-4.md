@@ -140,7 +140,7 @@ No. Eufy does not provide an official API or integration for [Home Assistant](ht
 This is usually caused by a mismatch between the `eufy-security-ws` server and Eufy’s cloud authentication. It can also happen if you have 2FA (Two-Factor Authentication) enabled on the account used for the integration, as the integration cannot always handle the 2FA prompt.
 
 ### Can I use Eufy cameras without the cloud?
-Only partially. While video can be stored locally on a HomeBase, the cameras still require an internet connection to "handshake" with Eufy’s servers for initial setup, notifications, and streaming to the mobile app or Home Assistant.
+Only partially. While video can be stored locally on a HomeBase, the cameras still require an internet connection to "handshake" with Eufy’s servers for initial setup, notifications, and streaming to the mobile app or [Home Assistant](https://quvii.com/blog/eufy-home-assistant-integration-issues-july-2026).
 
 ### Which Eufy cameras work best with Home Assistant?
 The "Indoor Cam" series (C24, C120, C220) tend to be more stable because they support a persistent power source and often have RTSP options. Battery-powered cameras are significantly more difficult to integrate due to their "sleep" states.

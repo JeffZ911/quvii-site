@@ -31,7 +31,7 @@ The release of Home Assistant 2026.7.0 brings significant performance upgrades t
 
 # Home Assistant 2026.7.0b0 & Alexa Media Player: Fixing Your Camera Automations
 
-**Quick Answer:** The 2026.7.0 update breaks Alexa Media Player due to aiohttp cookie changes. Update to v5.15.5+ to restore Echo Show camera feeds and use the new 'Purpose-Specific Triggers' for faster doorbell notifications.
+**Quick Answer:** The 2026.7.0 update breaks [Alexa Media Player](https://quvii.com/learn/home-assistant-alexa-media-player-broken-2026-fixes) due to aiohttp cookie changes. Update to v5.15.5+ to restore Echo Show camera feeds and use the new 'Purpose-Specific Triggers' for faster doorbell notifications.
 
 ## What it means
 
@@ -146,7 +146,7 @@ While Home Assistant itself is free, maintaining a high-performance Alexa-integr
 
 
 **Misconception: "Amazon has blocked Home Assistant."**
-Reality: Every time a major integration breaks, rumors circulate that Amazon is "closing the garden." In the case of 2026.7.0, the issue is purely technical. It is a conflict between the `aiohttp` library and the way the custom integration stores session data. Amazon's official Smart Home API remains open to developers, though the unofficial "Media Player" method remains a cat-and-mouse game of library updates.
+Reality: Every time a major integration breaks, rumors circulate that Amazon is "closing the garden." In the case of 2026.7.0, the issue is purely technical. It is a conflict between the `aiohttp` library and the way the custom integration stores session data. Amazon's official Smart Home API remains open to developers, though the unofficial "[Media Player](https://quvii.com/learn/home-assistant-alexa-media-player-broken-2026-fixes)" method remains a cat-and-mouse game of library updates.
 
 **Misconception: "I need a new Echo Show to get the fast 2-second streaming."**
 Reality: Even an older 2nd Gen Echo Show or an original Echo Show 5 supports WebRTC. The latency bottleneck is almost always the *server* (Home Assistant) or the *protocol* (HLS). By configuring the `go2rtc` addon in Home Assistant 2026.7, you can force the older Echo hardware to use the faster WebRTC protocol.
@@ -190,7 +190,7 @@ This error occurs when the integration cannot save the authentication token. Ens
 ## Sources
 
 - Home Assistant Release Notes 2026.7 — https://www.home-assistant.io/blog/2026/07/01/release-20267/
-- Alexa Media Player GitHub Issue Tracker — https://github.com/keatontaylor/alexa_media_player/issues
+- [Alexa Media](https://quvii.com/learn/home-assistant-alexa-media-player-broken-2026-fixes) Player GitHub Issue Tracker — https://github.com/keatontaylor/alexa_media_player/issues
 - Amazon Developer: WebRTC Requirements for Cameras
 - Python 3.14 Release Schedule and Changes — https://docs.python.org/3.14/whatsnew/3.14.html
 - aiohttp Documentation: Cookie Management — https://docs.aiohttp.org/en/stable/client_reference.html#cookiejar

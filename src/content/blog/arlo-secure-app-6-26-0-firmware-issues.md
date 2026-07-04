@@ -60,7 +60,7 @@ Beyond the arming bug, the 6.26.[0 update](https://quvii.com/blog/eufy-security-
 ### Firmware Update Timing
 A recurring complaint involves Arlo’s mandatory update window. Firmware pushes for the 6.26.0 and subsequent 6.27.0 patches often occurred around 3:00 AM local time. While intended to minimize disruption, the update process requires the camera to reboot. In several documented cases on the <a href="https://www.amazon.com/s?k=Arlo+Community+Forums&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Arlo Community Forums</a>, cameras remained in a "reboot loop" for several hours, leaving homes unmonitored during the high-risk pre-dawn window.
 
-[Image Description: A close-up of a smartphone held in a living room showing the Arlo Secure App dashboard with a 'Device Offline' warning on an Arlo Pro 5S camera tile.]
+[Image Description: A close-up of a smartphone held in a living room showing the Arlo Secure App dashboard with a 'Device Offline' warning on an [Arlo Pro](https://quvii.com/learn/arlo-pro-vmc4030-factory-reset-failure-july-2026) 5S camera tile.]
 
 ## Why it matters for buyers
 
