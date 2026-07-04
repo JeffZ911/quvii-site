@@ -57,7 +57,7 @@ The 2026.7 release finalizes new purpose-specific triggers and conditions for au
 ![Why it matters for buyers](/img/home-assistant-2026-7-0b0-camera-breaking-changes/inline-2.webp)
 
 
-For consumers exploring options for home and small-business security, Home Assistant represents a powerful alternative to proprietary, cloud-dependent systems. It offers crucial local control, advanced automation capabilities, and enhanced privacy by keeping sensitive data within their own network, rather than relying on third-party servers.
+For consumers exploring options for home and small-business security, [Home Assistant](https://quvii.com/blog/eufy-home-assistant-integration-issues-july-2026) represents a powerful alternative to proprietary, cloud-dependent systems. It offers crucial local control, advanced automation capabilities, and enhanced privacy by keeping sensitive data within their own network, rather than relying on third-party servers.
 
 ### Maintaining Local Control and Privacy
 

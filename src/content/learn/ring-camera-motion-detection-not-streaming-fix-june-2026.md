@@ -32,7 +32,7 @@ A Ring camera that detects motion but fails to stream video can be a frustrating
 
 ### What it means
 
-When your Ring camera detects motion but doesn't stream video, it means the camera's sensors register activity, often triggering a notification to your smartphone, but the live video feed either won't load, appears as a black screen, or fails to save a recording to your event history. This is distinct from a complete motion detection failure, where the camera doesn't even register an event. Instead, the camera "sees" something but is unable to transmit or store the visual evidence.
+When your Ring camera detects motion but doesn't stream video, it means the camera's sensors register activity, often triggering a notification to your smartphone, but the live video feed either won't load, appears as a black screen, or fails to save a recording to your event history. This is distinct from a complete [motion detection](https://quvii.com/learn/blink-outdoor-4-motion-detection-delay) failure, where the camera doesn't even register an event. Instead, the camera "sees" something but is unable to transmit or store the visual evidence.
 
 This specific problem can severely impact your home security. It creates a false sense of security, as you might believe your property is being monitored when, in fact, critical events such as package theft, suspicious loitering, or attempted break-ins could go unrecorded and unviewed. Without a reliable video stream or saved recording, you lose the ability to review footage for evidence, identify individuals, or understand the context of an event.
 
