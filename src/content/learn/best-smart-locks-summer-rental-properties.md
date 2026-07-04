@@ -59,7 +59,7 @@ Furthermore, hardware durability is categorized by ANSI/BHMA (American National 
 | **Weather Rating** | IP54 Equivalent | IPX5 | IP65 |
 | **Price Band** | $300 - $350 | $200 - $260 | $300 - $380 |
 
-*Data synthesized from Schlage.com, YaleHome.com, and <a href="https://www.amazon.com/s?k=Eufy.com&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Eufy.com</a>.*
+*Data synthesized from Schlage.com, YaleHome.com, and [Eufy.com](https://Eufy.com).*
 
 ## Why it exists
 

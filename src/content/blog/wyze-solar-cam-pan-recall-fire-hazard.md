@@ -27,7 +27,7 @@ On June 4, 2026, federal safety regulators and Wyze Labs issued an urgent recall
 
 # Wyze Solar Cam Pan Recall: 320,000 Units Flagged for Fire and Explosion Risks
 
-**Quick Answer:** Wyze recalled the Solar Cam Pan (Model WYZESCPWH) on June 4, 2026, due to a severe fire hazard. Incorrect documentation led users to puncture the internal lithium-ion battery with long mounting screws during installation. This has resulted in reports of overheating, fires, and minor burns. Stop using the device immediately, disconnect the solar panel, and visit <a href="https://www.amazon.com/s?k=wyze.com%2FSCPrecall&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">wyze.com/SCPrecall</a> to claim a full refund or a replacement kit.
+**Quick Answer:** Wyze recalled the Solar Cam Pan (Model WYZESCPWH) on June 4, 2026, due to a severe fire hazard. Incorrect documentation led users to puncture the internal lithium-ion battery with long mounting screws during installation. This has resulted in reports of overheating, fires, and minor burns. Stop using the device immediately, disconnect the solar panel, and visit [wyze.com/SCPrecall](https://wyze.com/SCPrecall) to claim a full refund or a replacement kit.
 
 ## What happened
 
@@ -131,8 +131,8 @@ If you own the recalled model, your priority is safety first, followed by claimi
 Wyze is offering three options for affected consumers: a full refund of the purchase price, a replacement camera kit (which includes a redesigned mounting system), or a Wyze store gift card with a small "loyalty bonus."
 
 1.  **Power Down:** Immediately unplug the solar panel from the camera.
-2.  **Capture Proof:** Take a photo of the back of the camera showing the model number (WYZESCPWH) and a photo of your original receipt (if available). If you bought it on <a href="https://www.amazon.com/s?k=Wyze.com&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Wyze.com</a> or Amazon, a screenshot of your order history is sufficient.
-3.  **Submit Claim:** Visit the official recall portal at <a href="https://www.amazon.com/s?k=wyze.com%2FSCPrecall&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">wyze.com/SCPrecall</a>. You will be asked to enter your serial number and attest that you will dispose of the unit at a hazardous waste facility.
+2.  **Capture Proof:** Take a photo of the back of the camera showing the model number (WYZESCPWH) and a photo of your original receipt (if available). If you bought it on [Wyze.com](https://Wyze.com) or Amazon, a screenshot of your order history is sufficient.
+3.  **Submit Claim:** Visit the official recall portal at [wyze.com/SCPrecall](https://wyze.com/SCPrecall). You will be asked to enter your serial number and attest that you will dispose of the unit at a hazardous waste facility.
 4.  **Contact Support:** If you have trouble with the online portal, call Wyze Labs at **888-832-7226** between 8 AM and 6 PM CT, Monday through Friday.
 
 ### Total Cost of Ownership (TCO) Analysis

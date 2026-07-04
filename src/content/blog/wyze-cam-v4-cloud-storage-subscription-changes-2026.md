@@ -116,7 +116,7 @@ A common point of confusion for those upgrading from older Wyze Cam v2 or v3 uni
 The 2026 landscape requires a more strategic approach to using Wyze hardware. To maintain the "budget" benefit of the brand, users should pivot toward local-first storage strategies.
 
 ### The Web Portal Hack for Lower Rates
-To avoid the mobile platform markups, users should never subscribe through the app. Always log in to <a href="https://www.amazon.com/s?k=my.wyze.com&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">my.wyze.com</a> to manage subscriptions. This ensures you are paying the base rate rather than the inflated "App Store" price. Additionally, Wyze frequently offers "loyalty" discounts on the web portal for users migrating from legacy plans that are not visible in the mobile app interface.
+To avoid the mobile platform markups, users should never subscribe through the app. Always log in to [my.wyze.com](https://my.wyze.com) to manage subscriptions. This ensures you are paying the base rate rather than the inflated "App Store" price. Additionally, Wyze frequently offers "loyalty" discounts on the web portal for users migrating from legacy plans that are not visible in the mobile app interface.
 
 ### Maximizing the 256GB MicroSD Slot
 The Wyze [Cam v4](https://quvii.com/learn/wyze-cam-v4-rtsp-support-missing-update) officially supports microSD cards up to 256GB. In 2026, this is the most effective way to bypass subscription hikes. By using a high-endurance card, you can record 2.5K footage continuously, providing a safety net if the 14-day cloud clip is insufficient.

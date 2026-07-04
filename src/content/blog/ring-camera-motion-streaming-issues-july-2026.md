@@ -70,7 +70,7 @@ Ring has increasingly moved core features behind the <a href="https://www.amazon
 | **Monthly Cost** | Around $5.00/mo (Basic) | $0 | $0 |
 | **3-Year TCO** | Around $330 - $380 | Around $180 - $220 | Around $100 - $130 |
 | **AI Detection** | Paywalled (Cloud) | On-Device (Free) | On-Device (Free) |
-| **Source** | <a href="https://www.amazon.com/s?k=Ring.com&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Ring.com</a> | <a href="https://www.amazon.com/s?k=Eufy.com&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Eufy.com</a> | <a href="https://www.amazon.com/s?k=Reolink.com&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Reolink.com</a> |
+| **Source** | [Ring.com](https://Ring.com) | [Eufy.com](https://Eufy.com) | [Reolink.com](https://Reolink.com) |
 
 ### Privacy Implications and Data Control
 Privacy remains a polarizing topic for Ring. While the company has improved transparency, its policy still allows for the sharing of footage with law enforcement in "emergency" situations without a warrant, as detailed in their Law Enforcement Guidelines. Furthermore, while End-to-End Encryption (E2EE) is available, enabling it disables several key features, including the ability to view video on an Echo Show or use the "Rich Notifications" feature. Buyers are essentially forced to choose between maximum privacy and maximum utility.

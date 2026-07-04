@@ -165,8 +165,8 @@ For most users, the standard AI (Human/Vehicle/Pet detection) is sufficient. The
 
 ## Sources
 
-- Eufy Official — <a href="https://www.amazon.com/s?k=eufy.com%2Fcloud-storage-pricing&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">eufy.com/cloud-storage-pricing</a>
-- Eufy Privacy Policy — <a href="https://www.amazon.com/s?k=eufy.com%2Fprivacy-policy&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">eufy.com/privacy-policy</a>
+- Eufy Official — [eufy.com/cloud-storage-pricing](https://eufy.com/cloud-storage-pricing)
+- Eufy Privacy Policy — [eufy.com/privacy-policy](https://eufy.com/privacy-policy)
 - The Verge — theverge.com/2022/11/30/23486758/eufy-security-camera-unencrypted-cloud-storage
 - RTINGS — rtings.com/camera/reviews/eufy/cam-3-s330
 - FCC ID Search (Anker Innovations) — fccid.io/2AOKB

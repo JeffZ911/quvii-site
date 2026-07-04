@@ -55,7 +55,7 @@ Integration is the primary driver of satisfaction for these devices. A Nest Cam'
 | **Smart Display Support** | Nest Hub, Chromecast | Echo Show, Fire TV |
 | **Matter Support** | Yes (Bridge/Controller required) | Yes (via Alexa/Matter Controller) |
 | **Third-Party Apps** | Limited (IFTTT, ADT) | Broad (SmartThings, IFTTT) |
-| **Desktop Viewing** | home.google.com | <a href="https://www.amazon.com/s?k=ring.com%2Fusers%2Flogin&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">ring.com/users/login</a> |
+| **Desktop Viewing** | home.google.com | [ring.com/users/login](https://ring.com/users/login) |
 
 ### Hardware Versatility: Battery vs. Wired
 

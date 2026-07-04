@@ -122,7 +122,7 @@ If you are an existing Eufy owner experiencing [motion push notification](https:
 
 If issues persist after troubleshooting, gather specific details such as device models, current firmware versions, and the exact times of missed notifications. Contact Eufy customer support via email, phone, or live chat. Eufy offers various support channels including a dedicated support page with FAQs, a community forum, and direct contact options.
 
-*   **Online Support Center:** <a href="https://www.amazon.com/s?k=eufy.com%2Fsupport&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">eufy.com/support</a>
+*   **Online Support Center:** [eufy.com/support](https://eufy.com/support)
 *   **Email Support:** [support@eufy.com](mailto:support@eufy.com)
 *   **Phone Support (US):** 1-800-988-8566 (Monday-Friday 6:30 AM-5:30 PM PST, Saturday-Sunday 6:30 AM-3:30 PM PST)
 *   **Live Chat:** Available via the support website during business hours

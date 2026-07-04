@@ -211,8 +211,8 @@ For optimal performance, ensure your Wi-Fi router is within a reasonable range o
 
 *   topratedbycraig.com
 *   smarteyecctv.com
-*   <a href="https://www.amazon.com/s?k=reolink.com&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">reolink.com</a>
-*   <a href="https://www.amazon.com/s?k=eufy.com&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">eufy.com</a>
+*   [reolink.com](https://reolink.com)
+*   [eufy.com](https://eufy.com)
 *   doorbellmount.com
 *   goabode.com
 *   hindustantimes.com
@@ -220,31 +220,31 @@ For optimal performance, ensure your Wi-Fi router is within a reasonable range o
 *   youtube.com
 *   aqara.com
 *   walmart.com
-*   <a href="https://www.amazon.com/s?k=reolink.com&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">reolink.com</a>
-*   <a href="https://www.amazon.com/s?k=eufy.com&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">eufy.com</a>
-*   <a href="https://www.amazon.com/s?k=eufy.com&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">eufy.com</a>
-*   <a href="https://www.amazon.com/s?k=reolink.com&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">reolink.com</a>
+*   [reolink.com](https://reolink.com)
+*   [eufy.com](https://eufy.com)
+*   [eufy.com](https://eufy.com)
+*   [reolink.com](https://reolink.com)
 *   youtube.com
 *   pcmag.com
-*   <a href="https://www.amazon.com/s?k=reolink.com&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">reolink.com</a>
-*   <a href="https://www.amazon.com/s?k=eufy.com&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">eufy.com</a>
-*   <a href="https://www.amazon.com/s?k=eufy.com&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">eufy.com</a>
+*   [reolink.com](https://reolink.com)
+*   [eufy.com](https://eufy.com)
+*   [eufy.com](https://eufy.com)
 *   pvrblog.com
-*   <a href="https://www.amazon.com/s?k=eufy.com&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">eufy.com</a>
+*   [eufy.com](https://eufy.com)
 *   youtube.com
 *   safehome.org
 *   youtube.com
 *   vxb.com
-*   <a href="https://www.amazon.com/s?k=ring.com&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">ring.com</a>
-*   <a href="https://www.amazon.com/s?k=lorex.com&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">lorex.com</a>
+*   [ring.com](https://ring.com)
+*   [lorex.com](https://lorex.com)
 *   bestdoorbellguide.blog
 *   pcworld.com
 *   videwintercom.com
 *   safewise.com
-*   <a href="https://www.amazon.com/s?k=aosulife.com&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">aosulife.com</a>
-*   <a href="https://www.amazon.com/s?k=eufy.com&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">eufy.com</a>
-*   <a href="https://www.amazon.com/s?k=eufy.com&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">eufy.com</a>
-*   <a href="https://www.amazon.com/s?k=eufy.com&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">eufy.com</a>
+*   [aosulife.com](https://aosulife.com)
+*   [eufy.com](https://eufy.com)
+*   [eufy.com](https://eufy.com)
+*   [eufy.com](https://eufy.com)
 *   techradar.com
 *   mozillafoundation.org
 *   techbrew.com

@@ -27,7 +27,7 @@ For users relying on the Eufy Security ecosystem, persistent authentication fail
 
 # Eufy Security App Login Loop: What’s Happening in June 2026 and How to Fix It
 
-**Quick Answer:** The June 2026 Eufy login loop is characterized by users being repeatedly redirected to the login screen or receiving "Session Expired" notices despite entering correct credentials. While the provided outline suggests a link to [HomeBase 3 firmware](https://quvii.com/learn/eufycam-s330-homebase-3-firmware-sync-error) 3.8.2.8, [information connecting this specific firmware version to a login loop is not yet publicly verified as of June 14, 2026]. To resolve current access issues, users should clear their mobile app cache, re-authenticate via the Eufy web portal at <a href="https://www.amazon.com/s?k=mysecurity.eufylife.com&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">mysecurity.eufylife.com</a>, and ensure 2FA codes are processed within the active session window.
+**Quick Answer:** The June 2026 Eufy login loop is characterized by users being repeatedly redirected to the login screen or receiving "Session Expired" notices despite entering correct credentials. While the provided outline suggests a link to [HomeBase 3 firmware](https://quvii.com/learn/eufycam-s330-homebase-3-firmware-sync-error) 3.8.2.8, [information connecting this specific firmware version to a login loop is not yet publicly verified as of June 14, 2026]. To resolve current access issues, users should clear their mobile app cache, re-authenticate via the Eufy web portal at [mysecurity.eufylife.com](https://mysecurity.eufylife.com), and ensure 2FA codes are processed within the active session window.
 
 ## What happened
 
@@ -70,7 +70,7 @@ Reliability is the primary metric for security hardware. Frequent app-side failu
 | **Max Resolution** | 4K (Model dependent) | 4K / 12MP | 4K |
 | **AI Processing** | Edge-based (BionicMind) | Edge-based | Edge-based |
 
-*Data sourced from <a href="https://www.amazon.com/s?k=eufy.com&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">eufy.com</a>, <a href="https://www.amazon.com/s?k=reolink.com&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">reolink.com</a>, and ui.com.*
+*Data sourced from [eufy.com](https://eufy.com), [reolink.com](https://reolink.com), and ui.com.*
 
 ## Impact on existing owners
 
@@ -103,7 +103,7 @@ If you are experiencing the login loop as of June 2026, follow this sequence to 
 ### Using the Web Portal as a Backup
 
 If the mobile app remains unresponsive, the Eufy Web Portal often functions independently of the mobile app's token manager.
-*   Navigate to <a href="https://www.amazon.com/s?k=mysecurity.eufylife.com&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">mysecurity.eufylife.com</a>.
+*   Navigate to [mysecurity.eufylife.com](https://mysecurity.eufylife.com).
 *   Log in with your credentials.
 *   [Check if](https://quvii.com/blog/how-to-check-wyze-camera-recall-status-2026) your cameras are visible and if you can view live streams. If the web portal works, the issue is strictly isolated to the mobile app's local authentication storage.
 

@@ -150,7 +150,7 @@ To understand where the Stick Up Cam Pro sits in the market, we compare its ther
 | **Est. Price Band** | $150 - $200 | $80 - $120 | $180 - $230 |
 | **Thermal Risk** | High (Radar + HDR) | Moderate (Standard) | High (Radar + Lights) |
 
-*Data sourced from <a href="https://www.amazon.com/s?k=Ring.com&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Ring.com</a> and <a href="https://www.amazon.com/s?k=Ring+Support&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Ring Support</a>.*
+*Data sourced from [Ring.com](https://Ring.com) and <a href="https://www.amazon.com/s?k=Ring+Support&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Ring Support</a>.*
 
 ## Decision Framework: Managing Heat Based on Your Situation
 

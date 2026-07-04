@@ -114,7 +114,7 @@ Geofencing—the feature that arms the system when you leave home and disarms it
 If your system is currently showing "Device Offline" or you suspect your cameras aren't recording, follow these steps to bypass the bugs in version 6.26.0.
 
 ### Step-by-Step Connectivity Restore
-1.  **Check the Web Portal:** Before troubleshooting your phone, log in to <a href="https://www.amazon.com/s?k=my.arlo.com&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">my.arlo.com</a>. If your cameras appear online there, the issue is strictly with the mobile app UI.
+1.  **Check the Web Portal:** Before troubleshooting your phone, log in to [my.arlo.com](https://my.arlo.com). If your cameras appear online there, the issue is strictly with the mobile app UI.
 2.  **The "Power Cycle" Fix:** For cameras connected to a SmartHub, do not reset the cameras yet. Unplug the SmartHub (VMB5000/4540) from its power source for exactly 30 seconds. Plug it back in and wait for the LED to turn solid Blue (or Green on older models).
 3.  **Resync Stuck Cameras:** If a camera is still "Offline," bring it within 3 feet of the Hub or your Wi-Fi router. Press the sync button on the camera briefly—do not hold it, as this may trigger a factory reset.
 4.  **Update to 6.27.0:** Arlo began pushing a "hotfix" (version 6.27.0) in early May 2026. Check the App Store or Google Play Store to ensure you have moved past the 6.26.0 build.

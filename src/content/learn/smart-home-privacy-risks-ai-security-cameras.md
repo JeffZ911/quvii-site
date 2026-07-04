@@ -215,12 +215,12 @@ End-to-end encryption (E2EE) is crucial for securing your video stream's content
 *   medium.com
 *   bakerdatacounsel.com
 *   backstreet-surveillance.com
-*   <a href="https://www.amazon.com/s?k=eufy.com&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">eufy.com</a>
-*   <a href="https://www.amazon.com/s?k=ring.com&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">ring.com</a>
+*   [eufy.com](https://eufy.com)
+*   [ring.com](https://ring.com)
 *   support.google.com
 *   oag.ca.gov
 *   ilga.gov
 *   scholarship.law.wm.edu
 *   researchgate.net
-*   <a href="https://www.amazon.com/s?k=reolink.com&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">reolink.com</a>
-*   <a href="https://www.amazon.com/s?k=arlo.com&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">arlo.com</a>
+*   [reolink.com](https://reolink.com)
+*   [arlo.com](https://arlo.com)

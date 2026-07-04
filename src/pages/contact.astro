@@ -1,0 +1,51 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+---
+
+<BaseLayout
+  title="Contact Quvii"
+  description="Get in touch with the Quvii editorial team — corrections, research questions, press, and partnership inquiries."
+>
+  <div class="container-page py-14 lg:py-20">
+    <div class="max-w-3xl">
+      <p class="text-xs font-medium uppercase tracking-[0.18em] text-primary-600">Contact</p>
+      <h1 class="mt-4 font-display text-display-sm sm:text-display tracking-display text-ink leading-[1.05]">
+        Talk to the team.
+      </h1>
+      <p class="mt-6 text-lg text-body-muted leading-relaxed">
+        We read everything. Pick the right inbox below and we'll get back to
+        you — corrections get priority.
+      </p>
+    </div>
+
+    <div class="mt-14 grid gap-10 sm:grid-cols-2 max-w-3xl">
+      <div>
+        <h2 class="font-display text-xl font-semibold tracking-tight text-ink">Corrections</h2>
+        <p class="mt-3 text-body leading-relaxed">
+          Found an error in an article — a spec, a price, a firmware detail?
+          Email <a href="mailto:corrections@quvii.com" class="font-medium text-primary-600 hover:underline">corrections@quvii.com</a>
+          with the article URL and what's wrong. Verified corrections are
+          fixed and noted on the page.
+        </p>
+      </div>
+      <div>
+        <h2 class="font-display text-xl font-semibold tracking-tight text-ink">Everything else</h2>
+        <p class="mt-3 text-body leading-relaxed">
+          Research questions, press, review-unit logistics, or partnership
+          inquiries: <a href="mailto:hello@quvii.com" class="font-medium text-primary-600 hover:underline">hello@quvii.com</a>.
+          Please note our <a href="/editorial-policy/" class="font-medium text-primary-600 hover:underline">editorial policy</a> —
+          coverage can't be bought, and paid placements are declined.
+        </p>
+      </div>
+    </div>
+
+    <div class="mt-14 max-w-3xl border-t border-ink/10 pt-8">
+      <p class="text-sm text-body-muted leading-relaxed">
+        Affiliate questions? See our
+        <a href="/affiliate-disclosure/" class="font-medium text-primary-600 hover:underline">affiliate disclosure</a>.
+        We may earn a commission on qualifying purchases made through links on
+        this site; it never affects what we recommend.
+      </p>
+    </div>
+  </div>
+</BaseLayout>

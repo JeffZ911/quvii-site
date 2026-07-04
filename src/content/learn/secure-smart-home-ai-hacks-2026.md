@@ -206,8 +206,8 @@ AI hacks are often silent. Indicators include unusual network traffic spikes (es
 
 ## Sources
 
-- Reolink — <a href="https://www.amazon.com/s?k=reolink.com%2Fblog%2Fadversarial-attacks-on-security-cameras%2F&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">reolink.com/blog/adversarial-attacks-on-security-cameras/</a>
-- Arlo Privacy Policy — <a href="https://www.amazon.com/s?k=arlo.com%2Fen-us%2Fabout%2Fprivacy-policy%2F&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">arlo.com/en-us/about/privacy-policy/</a>
+- Reolink — [reolink.com/blog/adversarial-attacks-on-security-cameras/](https://reolink.com/blog/adversarial-attacks-on-security-cameras/)
+- Arlo Privacy Policy — [arlo.com/en-us/about/privacy-policy/](https://arlo.com/en-us/about/privacy-policy/)
 - Verizon 2026 DBIR (Mock/Projected Trends) — verizon.com/business/resources/reports/dbir/
 - Yubico — yubico.com/resources/glossary/fido2/
 - CSA Matter 2.0 Specifications — csa-iot.org/all-solutions/matter/
