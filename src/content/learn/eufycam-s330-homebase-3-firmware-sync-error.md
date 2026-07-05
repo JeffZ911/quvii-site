@@ -121,7 +121,7 @@ If you encounter a sync error, follow this logic to minimize effort:
 *   **If the camera is reachable without a ladder:** Perform a physical 10-second SYNC button hold immediately.
 *   **If the camera is high-mounted:** Power cycle the HomeBase 3 first (unplug for 30 seconds). This often forces the hub to re-broadcast the update "Ready" signal.
 *   **If the error occurs after a storm:** Check the battery level in the app. If it is below 20%, wait for a sunny day or use a USB-C external power bank to jump-start the charge before attempting another sync.
-*   **If you have multiple cameras failing:** The issue is likely the HomeBase 3 or the SATA drive. Check the <a href="https://www.amazon.com/s?k=eufy+privacy+settings&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">eufy privacy settings</a> and system logs for storage errors.
+*   **If you have multiple cameras failing:** The issue is likely the HomeBase 3 or the SATA drive. Check the <a href="https://www.amazon.com/s?k=eufy+privacy+settings&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">eufy [privacy settings](https://quvii.com/learn/eufy-camera-privacy-settings-summer-guests-20260705)</a> and system logs for storage errors.
 
 ## Common misconceptions
 

@@ -140,7 +140,7 @@ To avoid missing future alerts, homeowners should:
 ### Decision Framework: Replacing a Recalled Camera
 If you are currently affected by a recall, use this framework to choose your next step:
 
-*   **If you prioritize maximum safety:** Opt for a camera with a **removable battery** (like the Arlo Pro 5S or [Reolink Argus](https://quvii.com/blog/reolink-argus-4-pro-firmware-update-issues) [4 Pro](https://quvii.com/blog/reolink-argus-4-pro-firmware-update-issues)). If a battery swells or fails, you can replace the cell without discarding the entire camera.
+*   **If you prioritize maximum safety:** Opt for a camera with a **removable battery** (like the [Arlo Pro](https://quvii.com/learn/arlo-pro-vmc4030-factory-reset-failure-july-2026) 5S or [Reolink Argus](https://quvii.com/blog/reolink-argus-4-pro-firmware-update-issues) [4 Pro](https://quvii.com/blog/reolink-argus-4-pro-firmware-update-issues)). If a battery swells or fails, you can replace the cell without discarding the entire camera.
 *   **If you are a renter:** Choose a camera with a "No-Drill" mount. Recalls like the 2026 Wyze event often stem from complex mounting requirements. Simplified mounts reduce the chance of user error.
 *   **If you are a business owner:** Prioritize **Power over Ethernet (PoE)** cameras. By removing the lithium-ion battery entirely and powering the camera via a data cable, you eliminate the fire risk associated with battery-operated units.
 

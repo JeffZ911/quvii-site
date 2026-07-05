@@ -49,7 +49,7 @@ The April 27, 2026 update (v3.8.2.0) was intended to fix the February ghosting i
 
 | Model | Lens Material | [Night Vision](https://quvii.com/learn/wyze-cam-v4-night-vision-flickering-fix) Tech | IR Range (Rated) | 2026 Reliability Rating |
 | :--- | :--- | :--- | :--- | :--- |
-| **SoloCam S340** | Polycarbonate | Dual IR LED | 25-30 ft | Low (UV Hazing) |
+| **[SoloCam S340](https://quvii.com/learn/reolink-argus-4-pro-vs-eufy-solocam-s340)** | Polycarbonate | Dual IR LED | 25-30 ft | Low (UV Hazing) |
 | **[EufyCam S330](https://quvii.com/learn/eufycam-s330-homebase-3-firmware-sync-error)** | Glass | Dual IR + Spotlight | 33 ft | Medium (Firmware Lag) |
 | **[EufyCam S3 Pro](https://quvii.com/learn/eufycam-s3-pro-solar-charging-efficiency-tips)** | High-Transmittance Glass | MaxColor Vision | 40 ft+ | High (New Sensor) |
 | **SoloCam S220** | Polycarbonate | Single IR LED | 20 ft | Low (UV Hazing) |

@@ -115,7 +115,7 @@ To resolve the [Blink Outdoor](https://quvii.com/blog/blink-outdoor-4-sync-modul
 5.  **Power Cycle Camera:** If only one camera is looping, remove its back cover and pull the batteries for 10 seconds. This forces a hardware "soft reset."
 6.  **Check Camera Batteries:** Ensure you are using **Energizer Ultimate Lithium AA 1.5V** batteries. Alkaline or rechargeable NiMH batteries do not provide the consistent voltage required for the [Outdoor 4](https://quvii.com/blog/blink-outdoor-4-sync-module-2-connection-error-fix)’s radio and will frequently cause offline loops as their voltage sag occurs.
 7.  **Reduce Wi-Fi Interference:** If you have many neighbors, your Wi-Fi channel might be crowded. Access your router settings and change the 2.4 GHz channel to a static channel (1, 6, or 11 are standard) rather than "Auto."
-8.  **Factory Reset (Last Resort):** Use a paperclip to press the reset button on the side of the Sync Module 2 until the lights turn red. You will have to delete the module from the app and re-add it, which also requires re-syncing all cameras.
+8.  **[Factory Reset](https://quvii.com/learn/arlo-pro-vmc4030-factory-reset-failure-july-2026) (Last Resort):** Use a paperclip to press the reset button on the side of the Sync Module 2 until the lights turn red. You will have to delete the module from the app and re-add it, which also requires re-syncing all cameras.
 
 ### Decision Framework: Resolving Connectivity
 

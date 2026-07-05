@@ -146,7 +146,7 @@ When your Ring camera detects motion but isn't streaming, consider your specific
 *   **If you recently received a subscription expiration notice or changed your plan:** Focus on **Subscription Plan Limitations**. Confirm your Ring Protect plan is active and includes video recording.
 *   **If your camera previously streamed correctly but stopped recently without network changes:** Investigate **Software and Firmware Glitches** and **Camera Configuration Errors**. Update your Ring app and camera firmware, then review motion settings, schedules, and motion zones.
 *   **If your battery-powered camera is frequently offline or performing poorly:** Check **Power Supply Issues**. Ensure the battery is fully charged and consider a solar charger or wired option for continuous power.
-*   **If you've enabled advanced privacy features:** Review **Privacy Settings Conflicts**. Temporarily disable End-to-End Encryption to see if it restores streaming, then re-evaluate your privacy vs. feature needs.
+*   **If you've enabled advanced privacy features:** Review **[Privacy Settings](https://quvii.com/learn/eufy-camera-privacy-settings-summer-guests-20260705) Conflicts**. Temporarily disable End-to-End Encryption to see if it restores streaming, then re-evaluate your privacy vs. feature needs.
 
 ### Total Cost of Ownership
 

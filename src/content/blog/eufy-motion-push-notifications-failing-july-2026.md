@@ -62,7 +62,7 @@ Unreliable motion [push notifications](https://quvii.com/blog/eufy-push-notifica
 
 ### Compromised Security and False Sense of Protection
 
-The most significant implication for buyers is the compromised security. If push notifications are delayed or not delivered, users might not be aware of intruders, package thefts, or other important events in real-time. This can lead to missed opportunities to intervene, collect evidence promptly, or alert authorities. A security camera system that doesn't reliably alert its owner can instill a false sense of protection, leaving properties vulnerable despite the presence of surveillance hardware.
+The most significant implication for buyers is the compromised security. If [push notifications](https://quvii.com/blog/eufy-push-notifications-broken-haos-2026-6-4) are delayed or not delivered, users might not be aware of intruders, package thefts, or other important events in real-time. This can lead to missed opportunities to intervene, collect evidence promptly, or alert authorities. A security camera system that doesn't reliably alert its owner can instill a false sense of protection, leaving properties vulnerable despite the presence of surveillance hardware.
 
 ### Impact on Subscription-Free Value Proposition
 

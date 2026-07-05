@@ -106,7 +106,7 @@ From a Total Cost of Ownership (TCO) perspective, Eufy represents a "buy once, o
 | **Total 3-Year Cost** | **Around $500** | **Around $750 - $940** |
 
 ### Understanding Eufy's Encryption Protocols
-Eufy utilizes AES-128 for local storage encryption on the HomeBase and AES-256 for data in transit. In 2026, Eufy has standardized on TLS 1.3 for all app-to-cloud communications. While thumbnails for push notifications are briefly hosted on AWS servers to enable quick viewing, these are end-to-end encrypted unless the user opts for "Basic" notifications that do not include images.
+Eufy utilizes AES-128 for local storage encryption on the HomeBase and AES-256 for data in transit. In 2026, Eufy has standardized on TLS 1.3 for all app-to-cloud communications. While thumbnails for [push notifications](https://quvii.com/blog/eufy-push-notifications-broken-haos-2026-6-4) are briefly hosted on AWS servers to enable quick viewing, these are end-to-end encrypted unless the user opts for "Basic" notifications that do not include images.
 
 **Comparison of Popular Eufy Models (2026 Specs)**
 | Model | Type | Resolution | Privacy Features | Power |

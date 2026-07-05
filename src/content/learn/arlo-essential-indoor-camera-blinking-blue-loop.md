@@ -152,7 +152,7 @@ If your camera is stuck in a blinking blue loop, use this logic to identify the 
 | **New setup, stuck on slow blue** | Camera can't see the phone's QR code | Clean lens; adjust phone brightness to 100%. |
 | **Setup fails after scanning QR** | 5 GHz Wi-Fi interference | Temporarily disable 5 GHz on router; use 2.4 GHz. |
 | **Was working, now blinking blue** | Router rebooted or IP conflict | Power cycle the camera (unplug for 30 seconds). |
-| **Blinking blue after firmware alert** | Interrupted update | Perform a factory reset using the physical button. |
+| **Blinking blue after firmware alert** | Interrupted update | Perform a [factory reset](https://quvii.com/learn/arlo-pro-vmc4030-factory-reset-failure-july-2026) using the physical button. |
 
 ## Total Cost of Ownership (3-Year Estimate)
 

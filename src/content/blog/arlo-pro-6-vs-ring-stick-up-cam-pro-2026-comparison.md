@@ -127,7 +127,7 @@ If the 2026 price hikes and the gating of Activity Zones are dealbreakers, the m
 
 | If you are a... | Prioritize... | Recommended Model |
 | :--- | :--- | :--- |
-| **Apple HomeKit User** | Privacy & HKSV | Arlo Pro 6 |
+| **Apple HomeKit User** | Privacy & HKSV | [Arlo Pro](https://quvii.com/learn/arlo-pro-vmc4030-factory-reset-failure-july-2026) 6 |
 | **Renter (1-2 Cameras)** | Portability & Low Entry Cost | [Ring Stick](https://quvii.com/learn/ring-stick-up-cam-pro-overheating-direct-sun) [Up Cam Pro](https://quvii.com/learn/ring-stick-up-cam-pro-overheating-direct-sun) |
 | **Homeowner (4+ Cameras)** | Long-term Subscription Savings | Ring [Stick Up](https://quvii.com/learn/ring-stick-up-cam-pro-overheating-direct-sun) Cam Pro |
 | **Rural/Large Property** | Wide Field of View (160°) | Arlo Pro 6 |
