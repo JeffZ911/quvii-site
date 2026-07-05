@@ -23,7 +23,7 @@ inline_image_sections:
   - "What to do now"
 ---
 
-The reliability of a smart home security system hinges on the speed and consistency of its alerts. For users of the Eufy Security ecosystem integrated into Home Assistant, the latest software update has introduced a significant hurdle.
+The reliability of a smart home security system hinges on the speed and consistency of its alerts. For users of the Eufy Security ecosystem integrated into [Home Assistant](https://quvii.com/blog/eufy-home-assistant-integration-issues-july-2026), the latest software update has introduced a significant hurdle.
 
 # Eufy Security Push Notifications Broken in HAOS Core 2026.6.4: The Quvii Troubleshooting Guide
 
@@ -43,7 +43,7 @@ The release of Home Assistant Operating System (HAOS) Core 2026.6.4 has triggere
 At the heart of the issue is the transition to the "HassKey" architecture. Starting with the 2026.6 release cycle, Home Assistant Core tightened its requirements for incoming webhooks. Previously, many integrations, including the community-driven Eufy-security-ws (Web Socket), utilized long-lived access tokens that were relatively permissive. The new HassKey requirement demands a stricter handshake for data validation. Because the Eufy integration relies on a cloud-relay to "push" notifications from Eufy’s servers back to the local Home Assistant instance, the mismatch in credential headers causes the HA Core to reject the incoming motion payload as unauthenticated.
 
 ### Python 3.14 and the Asyncio Bottleneck
-HAOS 2026.6.4 also marks the full migration to Python 3.14. This version of Python introduced significant changes to the `asyncio` library, which governs how the system handles multiple simultaneous tasks—like streaming video while listening for motion alerts. The `eufy-security-ws` add-on, which acts as the bridge between Eufy’s proprietary cloud and the Home Assistant interface, has encountered "race conditions." In these scenarios, the notification packet arrives, but the underlying Python process is delayed by new security overhead, leading to a timeout. To the user, this looks like a camera that is "online" but never reports motion.
+HAOS 2026.6.4 also marks the full migration to Python 3.14. This version of Python introduced significant changes to the `asyncio` library, which governs how the system handles multiple simultaneous tasks—like [streaming video](https://quvii.com/blog/ring-plugin-not-streaming-video-july-2026-fix) while listening for motion alerts. The `eufy-security-ws` add-on, which acts as the bridge between Eufy’s proprietary cloud and the Home Assistant interface, has encountered "race conditions." In these scenarios, the notification packet arrives, but the underlying Python process is delayed by new security overhead, leading to a timeout. To the user, this looks like a camera that is "online" but never reports motion.
 
 ### The Eufy Cloud-Relay Problem
 Compounding the software conflict is a recent firmware update for the Eufy HomeBase 3 (v3.4.8 and above). Users have observed that following this update, the Eufy app occasionally resets the "Security Modes" to a default state. In many cases, the "Push Notification" toggle within the Home or Away modes is unchecked automatically. Since the Home Assistant integration "listens" to these same push notifications to trigger sensors, a disabled toggle in the official app effectively silences the integration in Home Assistant.
@@ -141,7 +141,7 @@ If your app settings are correct but HA is still silent:
 1.  Navigate to **Settings > Add-ons** in Home Assistant.
 2.  Locate **eufy-security-ws** and ensure it is updated to **v1.8.4** or higher. This version contains the initial patch for Python 3.14 compatibility.
 3.  Go to **Settings > Devices & Services**.
-4.  Find the Eufy Security integration, click the three dots, and select **Reload**.
+4.  Find the [Eufy Security integration](https://quvii.com/blog/eufy-home-assistant-integration-issues-july-2026), click the three dots, and select **Reload**.
 5.  Check the **Core Logs** (Settings > System > Logs). If you see "Webhook authentication failed (HassKey mismatch)," you must delete the integration and re-add it. This forces the generation of a new, valid HassKey.
 
 ### Long-term Hardware Workarounds

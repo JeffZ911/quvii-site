@@ -52,7 +52,7 @@ A Ring Protect subscription is often essential for full video functionality. Wit
 
 #### Camera Configuration Errors
 
-Incorrect settings within the Ring app can also prevent streaming. This includes having motion detection inadvertently turned off, setting motion sensitivity too low to trigger recording, or improperly configuring motion zones. Motion zones define the specific areas your camera monitors for activity, and if critical areas are excluded or the zones are too narrow, desired events might be detected but not recorded. Active motion schedules that disable detection during certain times, or activating "People Only" mode which filters out non-human motion, can also lead to missed recordings.
+Incorrect settings within the Ring app can also prevent streaming. This includes having [motion detection](https://quvii.com/learn/blink-outdoor-4-motion-detection-delay) inadvertently turned off, setting motion sensitivity too low to trigger recording, or improperly configuring motion zones. Motion zones define the specific areas your camera monitors for activity, and if critical areas are excluded or the zones are too narrow, desired events might be detected but not recorded. Active motion schedules that disable detection during certain times, or activating "People Only" mode which filters out non-human motion, can also lead to missed recordings.
 
 #### Software and Firmware Glitches
 
@@ -106,7 +106,7 @@ After initial detection, the camera typically sends a burst of data, including a
 
 #### The Streaming Pathway
 
-Once motion is detected and any preliminary cloud processing is complete, the camera attempts to establish a secure video stream. Ring cameras typically use Real-Time Streaming Protocol (RTSP) over HTTPS, encrypted with TLS 1.3, to transmit video data to Ring's cloud servers. From the cloud, this stream is then relayed to your Ring app. This entire pathway is highly dependent on a stable internet connection and sufficient upload bandwidth from your home network to Ring's servers. Any bottleneck along this path—be it weak Wi-Fi, low upload speed, or network congestion—can disrupt the stream, leading to the "motion detected but not streaming" issue.
+Once motion is detected and any preliminary cloud processing is complete, the camera attempts to establish a secure video stream. Ring cameras typically use Real-Time Streaming Protocol (RTSP) over HTTPS, encrypted with TLS 1.3, to transmit video data to Ring's cloud servers. From the cloud, this stream is then relayed to your Ring app. This entire pathway is highly dependent on a stable internet connection and sufficient upload bandwidth from your home network to Ring's servers. Any bottleneck along this path—be it weak Wi-Fi, low upload speed, or network congestion—can disrupt the stream, leading to the "motion detected but [not streaming](https://quvii.com/blog/ring-plugin-not-streaming-video-july-2026-fix)" issue.
 
 #### Role of RSSI and Upload Speed
 

@@ -27,7 +27,7 @@ For smart home enthusiasts using third-party integrations, a "Succeed" message i
 
 # Eufy Security "Push Channel Silent Registration Succeeds": The 2026 Privacy Breakdown
 
-**Quick Answer:** The "push channel silent registration succeeds" log indicates your Eufy camera has connected to the cloud, but a June 2026 backend change is blocking event data from reaching third-party apps like Homebridge or Home Assistant.
+**Quick Answer:** The "push channel silent registration succeeds" log indicates your Eufy camera has connected to the cloud, but a June 2026 backend change is blocking event data from reaching third-party apps like Homebridge or [Home Assistant](https://quvii.com/blog/eufy-home-assistant-integration-issues-july-2026).
 
 ## What happened
 
@@ -116,7 +116,7 @@ If the 2026 changes have broken your trust or your automations, it may be time t
 **Decision Framework: What should you buy?**
 
 *   **If you are a Renter:** Stick with Eufy or look at the **Reolink Altas PT Ultra**. It offers similar battery-powered flexibility but with better RTSP support for local recording.
-*   **If you are a Homeowner seeking Privacy:** Transition to **UniFi Protect** or **Reolink PoE** cameras. These systems do not require a "push registration" with a central cloud server to function; they communicate directly with your local NVR.
+*   **If you are a Homeowner seeking Privacy:** Transition to **UniFi Protect** or **[Reolink PoE](https://quvii.com/blog/reolink-poe-firmware-june-2026-issues)** cameras. These systems do not require a "push registration" with a central cloud server to function; they communicate directly with your local NVR.
 *   **If you want Apple Home integration:** Prioritize cameras that support **HomeKit Secure Video (HKSV)**, such as the older Eufy 2K Indoor Cam (if still available) or the **Ecobee SmartCamera**. HKSV forces end-to-end encryption through Apple's servers, bypassing the manufacturer's secondary cloud pings.
 
 ### Total Cost of Ownership (3-Year Estimate)

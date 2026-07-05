@@ -163,7 +163,7 @@ In both cases, the camera's Wi-Fi radio is active for the same amount of time. L
 To optimize the LFR link, the Sync Module should be positioned centrally. Avoid placing it behind a TV or inside a metal cabinet, as these act as Faraday cages for the 900MHz signal. Ideally, the Sync Module should have a clear "line of sight" to the wall closest to your outdoor cameras.
 
 ### Comparing the Outdoor 4 to the 2025 Outdoor 2K+
-The newer **[Blink Outdoor](https://quvii.com/learn/blink-outdoor-4-motion-detection-delay) 2K+** (released late 2025) offers higher resolution but theoretically higher power demands. However, search data regarding its specific "Low Power Mode" efficiency compared to the Outdoor 4 is [information unavailable]. Early community consensus suggests the 2K+ requires even more stringent adherence to the "70 seconds per day" rule to reach its marketed battery targets.
+The newer **[Blink Outdoor](https://quvii.com/learn/blink-outdoor-4-motion-detection-delay) 2K+** (released late 2025) offers higher resolution but theoretically higher power demands. However, search data regarding its specific "Low Power Mode" efficiency compared to the [Outdoor 4](https://quvii.com/learn/blink-outdoor-4-motion-detection-delay) is [information unavailable]. Early community consensus suggests the 2K+ requires even more stringent adherence to the "70 seconds per day" rule to reach its marketed battery targets.
 
 ### Transitioning to Local-First Security
 If the cost and waste of lithium batteries become unsustainable, many users in 2026 are transitioning to Power-over-Ethernet (PoE) systems or local-first NVRs (Network Video Recorders). These systems remove the "cloud tax" and the "battery tax" entirely, though they require more complex initial wiring.

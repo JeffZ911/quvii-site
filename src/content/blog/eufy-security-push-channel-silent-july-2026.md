@@ -27,7 +27,7 @@ Reliable alerts are the foundation of a proactive security system, yet for many 
 
 # Eufy Security Push Channel Silent: What Buyers & Owners Need to Know (July 2026)
 
-**Quick Answer:** As of July 2026, reports indicate a "silent push channel" issue primarily affecting third-party integrations with Eufy security systems, stemming from a backend change in May-June 2026. While the official Eufy app generally still receives notifications, some users are experiencing significant delays of up to 10 minutes, potentially compromising real-time security alerts.
+**Quick Answer:** As of July 2026, reports indicate a "silent [push channel](https://quvii.com/blog/eufy-push-channel-silent-registration-succeeds-explained)" issue primarily affecting third-party integrations with Eufy security systems, stemming from a backend change in May-June 2026. While the official Eufy app generally still receives notifications, some users are experiencing significant delays of up to 10 minutes, potentially compromising real-time security alerts.
 
 ## What happened
 
@@ -41,7 +41,7 @@ The current notification crisis within the Eufy ecosystem appears to be a two-pr
 
 ### Backend Changes and Third-Party Integrations
 
-In late June 2026, developers and maintainers of community-driven Eufy integrations—most notably those using the `eufy-security-client` library for Homebridge and [Home Assistant](https://quvii.com/blog/eufy-home-assistant-integration-issues-july-2026)—identified a critical failure in event delivery. According to [GitHub issue reports](https://github.com/bropat/eufy-security-client/issues), the client libraries are successfully registering for push notifications via Google’s Firebase Cloud Messaging (FCM), but the Eufy backend is failing to send the actual event data.
+In late June 2026, developers and maintainers of community-driven Eufy integrations—most notably those using the `eufy-security-client` library for Homebridge and [Home Assistant](https://quvii.com/blog/eufy-home-assistant-integration-issues-july-2026)—identified a critical failure in event delivery. According to [GitHub issue reports](https://github.com/bropat/eufy-security-client/issues), the client libraries are successfully registering for [push notifications](https://quvii.com/blog/eufy-push-notifications-broken-haos-2026-6-4) via Google’s Firebase Cloud Messaging (FCM), but the Eufy backend is failing to send the actual event data.
 
 Specifically, momentary push events, such as `event_type:3103` (doorbell rings) and `3102` ([motion detection](https://quvii.com/learn/blink-outdoor-4-motion-detection-delay)), stopped reaching these libraries around June 24, 2026. Technical analysis suggests this is correlated with a broad Eufy backend change implemented between May and June 2026. The shift may involve changes in FCM project routing or new "client gating" protocols that prevent non-official apps from receiving the push stream, even with valid credentials. While the registration process returns a "success" status, the channel remains "silent," providing no actionable alerts for those who rely on these integrations for automated home security.
 
@@ -163,7 +163,7 @@ Not necessarily. While the HomeBase 3 offers superior local AI and processing po
 ## Sources
 
 - Eufy Official Privacy Policy (Updated Jan 30, 2026) — https://www.eufy.com/privacy-policy
-- GitHub Issue: eufy-security-client Push Channel Silent — https://github.com/bropat/eufy-security-client/issues
+- GitHub Issue: eufy-security-client [Push Channel Silent](https://quvii.com/blog/eufy-push-channel-silent-registration-succeeds-explained) — https://github.com/bropat/eufy-security-client/issues
 - Eufy Support: Troubleshooting Notifications
 - Eufy Support: HomeBase 3 (S380) Specifications — https://support.eufy.com/s/product/a0b5g000004E2S0AAK/homebase-3-(s380)
 - Reddit r/EufyCam: Discussion on Notification Delays (2026) — https://www.reddit.com/r/EufyCam/

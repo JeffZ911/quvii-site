@@ -105,7 +105,7 @@ The "feature paywall" trap is absent here; you do not need a monthly plan to unl
 For those who already have Reolink cameras mounted and running, a firmware update is not a "set it and forget it" event. It carries operational risks that must be managed to avoid system downtime.
 
 ### Risk of Camera Malfunction
-The most severe impact on an existing owner is the "bricked" camera. If a PoE switch power-cycles or a cable is unplugged while the camera is writing to its flash memory, the device may become unbootable. While Reolink hardware is generally resilient, a failed update can occasionally void the ease of a remote fix, requiring the owner to take down the camera for a physical factory reset or a serial-to-USB recovery in extreme cases.
+The most severe impact on an existing owner is the "bricked" camera. If a PoE switch power-cycles or a cable is unplugged while the camera is writing to its flash memory, the device may become unbootable. While Reolink hardware is generally resilient, a failed update can occasionally void the ease of a remote fix, requiring the owner to take down the camera for a physical [factory reset](https://quvii.com/learn/arlo-pro-vmc4030-factory-reset-failure-july-2026) or a serial-to-USB recovery in extreme cases.
 
 ### Feature Loss and Performance Degradation
 Occasionally, a firmware update intended to fix one issue may introduce another. Owners have reported instances where "Person Detection" sensitivity became too aggressive after an update, leading to a flood of false notifications. Monitoring community feedback on [r/HomeSecurity](https://www.reddit.com/r/HomeSecurity/) before hitting "Update" is a common best practice among veteran installers.

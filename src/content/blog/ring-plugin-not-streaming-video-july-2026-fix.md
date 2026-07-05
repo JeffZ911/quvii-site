@@ -86,15 +86,15 @@ Users with wall-mounted tablets (frequently using ActionTiles or Scrypted) are r
 The timing of this update coincides with the rollout of Android 16. Owners of the Samsung S26 Ultra have reported that the Ring app restarts automatically when zooming into "Enhanced" video clips. This appears to be a memory management conflict between the app's new AI overlay and the high-resolution rendering engine of the S26 Ultra.
 
 ### End-of-Life for Legacy Ring Hardware
-July 2026 marks a final milestone for several older devices. The 1st Generation Stick Up Cam (FCC ID: YOPGS2011MIE) has officially reached "End of Support." While these devices may still appear in the app, they are losing the ability to stream live video entirely as the cloud backend moves to a codec that the 1st Gen hardware cannot decode.
+July 2026 marks a final milestone for several older devices. The 1st Generation [Stick Up Cam](https://quvii.com/learn/ring-stick-up-cam-solar-charging-issues-2026) (FCC ID: YOPGS2011MIE) has officially reached "End of Support." While these devices may still appear in the app, they are losing the ability to stream live video entirely as the cloud backend moves to a codec that the 1st Gen hardware cannot decode.
 
 #### 2026 Ring Hardware Status Table
 | Model | Max Resolution | Power Type | 2026 Support Status |
 | :--- | :--- | :--- | :--- |
 | **Video Doorbell Pro 2** | 1536p | Wired | Fully Supported |
 | **Floodlight Cam Wired Pro** | 1080p | Wired | Fully Supported |
-| **Stick Up Cam (1st Gen)** | 720p | Battery/Wired | **End of Life (EOL)** |
-| **Stick Up Cam Pro (2023)** | 1080p | Multi | Fully Supported |
+| **[Stick Up](https://quvii.com/learn/ring-stick-up-cam-solar-charging-issues-2026) Cam (1st Gen)** | 720p | Battery/Wired | **End of Life (EOL)** |
+| **Stick [Up Cam](https://quvii.com/learn/ring-stick-up-cam-solar-charging-issues-2026) Pro (2023)** | 1080p | Multi | Fully Supported |
 
 ## What to do now
 

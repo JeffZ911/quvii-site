@@ -23,7 +23,7 @@ inline_image_sections:
   - "What to do now"
 ---
 
-For many Eufy security camera owners, the promise of reliable, local-storage-based home monitoring is a significant draw. However, recurring issues with motion push notifications have become a source of frustration, with a notable increase in reports leading into July 2026.
+For many Eufy security camera owners, the promise of reliable, local-storage-based home monitoring is a significant draw. However, recurring issues with motion [push notifications](https://quvii.com/blog/eufy-push-notifications-broken-haos-2026-6-4) have become a source of frustration, with a notable increase in reports leading into July 2026.
 
 # Eufy Security Motion Push Notifications: Understanding Recent Failures (July 2026)
 
