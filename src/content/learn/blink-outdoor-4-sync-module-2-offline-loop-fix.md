@@ -157,7 +157,7 @@ In the vast majority of cases we see in the consumer security market, offline is
 There are several versions. The original Sync Module (black) does not support local storage. The Sync Module 2 (black with a USB port) is the standard for [Outdoor 4](https://quvii.com/blog/blink-outdoor-4-sync-module-2-connection-error-fix). Newer versions like the Sync Module XR offer extended range for specific compatible cameras, though the Outdoor 4 is primarily optimized for the Sync Module 2.
 
 **"Blink sells my video data"**
-Blink's privacy policy states that they do not sell or rent personal information. However, like most Amazon-owned entities, they do share data with affiliates and third-party service providers to facilitate cloud processing. Users concerned about privacy should review the "Privacy Settings" in the Blink app to opt-out of supplemental data collection.
+Blink's privacy policy states that they do not sell or rent personal information. However, like most Amazon-owned entities, they do share data with affiliates and third-party service providers to facilitate cloud processing. Users concerned about privacy should review the "[Privacy Settings](https://quvii.com/learn/eufy-camera-privacy-settings-summer-guests-20260705)" in the Blink app to opt-out of supplemental data collection.
 
 ## Frequently Asked Questions
 

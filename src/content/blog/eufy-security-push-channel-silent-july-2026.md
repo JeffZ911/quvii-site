@@ -84,7 +84,7 @@ While Eufy states these thumbnails are automatically deleted after the notificat
 
 | If you are... | Priority | Recommendation |
 |:---|:---|:---|
-| **A Renter** | Easy install / No fees | Eufy SoloCam series is still a strong choice for local storage, but test notifications immediately within the return window. |
+| **A Renter** | Easy install / No fees | [Eufy SoloCam](https://quvii.com/learn/reolink-argus-4-pro-vs-eufy-solocam-s340) series is still a strong choice for local storage, but test notifications immediately within the return window. |
 | **A Homeowner** | Maximum Reliability | Consider a hybrid approach. Use Eufy for general monitoring, but avoid relying on it for critical life-safety alerts until the notification lag is resolved. |
 | **A Smart Home Hobbyist** | Third-party Integration | **Proceed with Caution.** The current silent [push channel](https://quvii.com/blog/eufy-push-channel-silent-registration-succeeds-explained) issue makes Homebridge and [Home Assistant](https://quvii.com/blog/eufy-home-assistant-integration-issues-july-2026) integrations unreliable for real-time triggers. |
 | **A Small Business** | Liability / Speed | If you require immediate alerts for unauthorized entry, the current 10-minute delay reports make Eufy difficult to recommend for primary business security. |
@@ -149,7 +149,7 @@ Quvii tracks these trade-offs across the security category, and the July 2026 no
 ## Frequently Asked Questions
 
 ### Why am I getting Eufy notifications on my phone but not in Home Assistant?
-This is likely due to the "silent push channel" issue identified in June 2026. Eufy’s backend appears to have changed how it routes events to third-party clients. While the official app uses a specific secure channel, third-party libraries using FCM are currently receiving "success" signals for registration but no actual event data (like motion or rings).
+This is likely due to the "silent [push channel](https://quvii.com/blog/eufy-push-channel-silent-registration-succeeds-explained)" issue identified in June 2026. Eufy’s backend appears to have changed how it routes events to third-party clients. While the official app uses a specific secure channel, third-party libraries using FCM are currently receiving "success" signals for registration but no actual event data (like motion or rings).
 
 ### Can a slow internet connection cause Eufy notification delays?
 Yes. If your upload speed is low, the camera may struggle to send the notification trigger or the encrypted thumbnail to the Eufy cloud. This can result in the notification "timing out" or arriving significantly later. Eufy recommends an upload speed of at least 2Mbps for optimal performance with their 4K camera lines.

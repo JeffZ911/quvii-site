@@ -128,7 +128,7 @@ For Ring users and those considering a purchase, understanding how to manage [pr
 
 ### Step-by-Step Privacy Audit for Ring Users
 
-To manage your privacy settings and opt out of biometric scanning features on your Ring device, follow these steps:
+To manage your [privacy settings](https://quvii.com/learn/eufy-camera-privacy-settings-summer-guests-20260705) and opt out of biometric scanning features on your Ring device, follow these steps:
 
 1.  **Open the Ring App:** Launch the Ring application on your smartphone or tablet.
 2.  **Navigate to Device Settings:** Select the specific Ring camera you wish to adjust.

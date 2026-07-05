@@ -51,7 +51,7 @@ This 2026 Wyze event mirrors the <a href="https://www.amazon.com/s?k=2020+Ring+V
 ### Digital 'Recalls': When Firmware is the Fix
 It is important to distinguish between a CPSC-mandated hardware recall and a "security recall" or [vulnerability patch](https://quvii.com/blog/june-2026-android-security-update-camera-vulnerability). In 2024 and 2025, several brands issued urgent firmware updates to patch "zero-day" exploits that allowed unauthorized remote viewing. While the media often calls these "recalls," they do not usually require returning the hardware. If your camera has a software flaw, the fix is a digital update; if it has a hardware recall like the current Wyze situation, the device must typically be decommissioned or physically modified.
 
-| Feature | [Wyze Solar](https://quvii.com/blog/wyze-solar-cam-pan-recall-fire-hazard) [Cam Pan](https://quvii.com/blog/wyze-solar-cam-pan-recall-fire-hazard) (Recalled) | [Reolink Argus 4](https://quvii.com/blog/reolink-argus-4-pro-firmware-update-issues) Pro | Arlo Pro 5S 2K |
+| Feature | [Wyze Solar](https://quvii.com/blog/wyze-solar-cam-pan-recall-fire-hazard) [Cam Pan](https://quvii.com/blog/wyze-solar-cam-pan-recall-fire-hazard) (Recalled) | [Reolink Argus 4](https://quvii.com/blog/reolink-argus-4-pro-firmware-update-issues) Pro | [Arlo Pro](https://quvii.com/learn/arlo-pro-vmc4030-factory-reset-failure-july-2026) 5S 2K |
 | :--- | :--- | :--- | :--- |
 | **Model Number** | WYZESCPWH | [Argus 4 Pro](https://quvii.com/blog/reolink-argus-4-pro-firmware-update-issues) | VMC4060A |
 | **Power Type** | Solar/Battery (Internal) | Solar/Battery (Removable) | Battery (Removable) |

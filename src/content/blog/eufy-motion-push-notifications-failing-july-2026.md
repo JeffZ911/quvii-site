@@ -58,7 +58,7 @@ The HomeBase 3, intended as a central hub for enhanced AI and local storage, has
 ![Why it matters for buyers](/img/eufy-motion-push-notifications-failing-july-2026/inline-2.webp)
 
 
-Unreliable motion push notifications undermine the core purpose of a security camera system, creating a false sense of security and potentially leading to missed critical events. A security camera's primary function, beyond recording, is to provide timely alerts when unusual activity is detected, allowing for immediate action or review. When these alerts fail, the system's effectiveness is severely compromised.
+Unreliable motion [push notifications](https://quvii.com/blog/eufy-push-notifications-broken-haos-2026-6-4) undermine the core purpose of a security camera system, creating a false sense of security and potentially leading to missed critical events. A security camera's primary function, beyond recording, is to provide timely alerts when unusual activity is detected, allowing for immediate action or review. When these alerts fail, the system's effectiveness is severely compromised.
 
 ### Compromised Security and False Sense of Protection
 

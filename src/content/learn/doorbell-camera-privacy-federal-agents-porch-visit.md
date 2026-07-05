@@ -84,7 +84,7 @@ The policy landscape changed significantly in early 2024. Here is the current st
 
 *   **Ring (Amazon):** As of January 2024, Ring discontinued its "Request for Assistance" tool, which previously allowed local police to request footage directly from users through the Neighbors app. However, Ring still complies with valid judicial warrants and subpoenas. Crucially, Ring reserves the right to share footage without a warrant in "emergency" cases.
 *   **Google Nest:** Google’s policy states they may provide data to government agencies in response to valid legal processes or emergency requests. Like Ring, they notify users of these requests unless legally barred from doing so (e.g., by a "gag order").
-*   **Eufy (Anker):** Eufy’s privacy model is built on local storage. While they provide small thumbnails to the cloud to facilitate push notifications, the actual video files remain on the user's hardware. This makes it difficult for federal agents to bypass the homeowner; they typically must seize the physical hardware or obtain a warrant directed at the homeowner rather than the company.
+*   **Eufy (Anker):** Eufy’s privacy model is built on local storage. While they provide small thumbnails to the cloud to facilitate [push notifications](https://quvii.com/blog/eufy-push-notifications-broken-haos-2026-6-4), the actual video files remain on the user's hardware. This makes it difficult for federal agents to bypass the homeowner; they typically must seize the physical hardware or obtain a warrant directed at the homeowner rather than the company.
 
 ### Doorbell Camera Specification Comparison (2026 Models)
 

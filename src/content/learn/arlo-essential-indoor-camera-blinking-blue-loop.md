@@ -134,7 +134,7 @@ A common misconception is that a blinking blue light always means the camera is 
 
 ### Over-reliance on Factory Reset
 
-Many community guides on <a href="https://www.amazon.com/s?k=r%2FArlo&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">r/Arlo</a> suggest a factory reset as the first step for any blue light issue. However, if the cause is a router settings issue (such as a hidden SSID or a full DHCP table), resetting the camera will not help. A factory reset should be the *last* resort, as it requires you to remove the device from the Arlo app and re-configure all motion zones and sensitivity settings from scratch.
+Many community guides on <a href="https://www.amazon.com/s?k=r%2FArlo&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">r/Arlo</a> suggest a [factory reset](https://quvii.com/learn/arlo-pro-vmc4030-factory-reset-failure-july-2026) as the first step for any blue light issue. However, if the cause is a router settings issue (such as a hidden SSID or a full DHCP table), resetting the camera will not help. A factory reset should be the *last* resort, as it requires you to remove the device from the Arlo app and re-configure all motion zones and sensitivity settings from scratch.
 
 ### Universal Arlo LED Behavior
 
