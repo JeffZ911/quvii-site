@@ -112,7 +112,7 @@ If you are currently prompted by the Yoosee app to install "Kingshot," do not co
 ### How to Isolate Your Security Traffic
 If you cannot replace the cameras immediately, you must isolate them. 
 1.  **Block Internet Access:** Use your router's settings to block the camera's MAC address from accessing the WAN (Wide Area Network). 
-2.  **Use a 'Sandbox' Device:** If you must use the app, install it on an old phone that has been factory reset and contains no SIM card, no contacts, and no personal accounts. 
+2.  **Use a 'Sandbox' Device:** If you must use the app, install it on an old phone that has been [factory reset](https://quvii.com/learn/arlo-pro-vmc4030-factory-reset-failure-july-2026) and contains no SIM card, no contacts, and no personal accounts. 
 3.  **VLAN Tagging:** Place the cameras on a dedicated IoT VLAN (Virtual Local Area Network) so they cannot communicate with your primary computers or NAS.
 
 ### Switching to Third-Party VMS

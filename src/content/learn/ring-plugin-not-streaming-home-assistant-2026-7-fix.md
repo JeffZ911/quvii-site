@@ -141,7 +141,7 @@ When a stream fails, the first instinct of many users is to troubleshoot their h
 ![Further reading](/img/ring-plugin-not-streaming-home-assistant-2026-7-fix/inline-6.webp)
 
 
-Fixing this issue requires moving away from the "Core" Ring integration's default settings or applying a community-developed patch.
+Fixing this issue requires moving away from the "Core" [Ring integration](https://quvii.com/blog/ring-home-assistant-integration-broken-july-2026)'s default settings or applying a community-developed patch.
 
 ### Community Fixes and Workarounds
 The most reliable current fix is the **HAWebRTCFix** custom component developed by community member TeejMcSteez. This component acts as a shim, intercepting the SDP Offer and stripping the incompatible "send direction" attributes before they reach the browser. 

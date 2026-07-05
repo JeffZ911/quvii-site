@@ -143,7 +143,7 @@ Quvii tracks these trade-offs across the category to ensure buyers aren't just l
 
 ## Sources
 - Reolink Altas PT Ultra Official Specs — <a href="https://www.amazon.com/s?k=https%3A%2F%2Freolink.com%2Fproduct%2Faltas-pt-ultra%2F&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">https://reolink.com/product/altas-pt-ultra/</a>
-- Eufy SoloCam S340 Product Page — <a href="https://www.amazon.com/s?k=https%3A%2F%2Fwww.eufy.com%2Fproducts%2Ft81701w1&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">https://www.eufy.com/products/t81701w1</a>
+- [Eufy SoloCam S340](https://quvii.com/learn/reolink-argus-4-pro-vs-eufy-solocam-s340) Product Page — <a href="https://www.amazon.com/s?k=https%3A%2F%2Fwww.eufy.com%2Fproducts%2Ft81701w1&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">https://www.eufy.com/products/t81701w1</a>
 - TP-Link [Tapo C425](https://quvii.com/blog/tapo-c425-battery-drain-june-update-impact) Specifications — <a href="https://www.amazon.com/s?k=https%3A%2F%2Fwww.tapo.com%2Fus%2Fproduct%2Fsmart-camera%2Ftapo-c425%2F&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">https://www.tapo.com/us/product/smart-camera/tapo-c425/</a>
 - The Verge: Ring and Nest Price Hikes — [https://www.theverge.com/2024/2/2/24059002/amazon-ring-protect-basic-subscription-price-increase](https://www.theverge.com/2024/2/2/24059002/amazon-ring-protect-basic-subscription-price-increase)
 - CSA (Connectivity Standards Alliance): Matter 1.4 Update

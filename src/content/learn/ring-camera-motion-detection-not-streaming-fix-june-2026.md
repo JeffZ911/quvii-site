@@ -193,7 +193,7 @@ You can check your Ring camera's Wi-Fi signal strength (RSSI) in the Ring app. N
 
 ### What upload speed does Ring recommend for its cameras?
 
-Ring recommends a minimum upload speed of at least 1 Mbps per device for optimal performance, especially for streaming video. Higher resolution cameras (1080p, 4K) or multiple cameras on the same network will require more upload bandwidth.
+Ring recommends a minimum upload speed of at least 1 Mbps per device for optimal performance, especially for [streaming video](https://quvii.com/blog/ring-plugin-not-streaming-video-july-2026-fix). Higher resolution cameras (1080p, 4K) or multiple cameras on the same network will require more upload bandwidth.
 
 ### Does End-to-End Encryption affect Ring camera features?
 

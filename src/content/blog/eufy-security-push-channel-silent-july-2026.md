@@ -68,7 +68,7 @@ For a prospective buyer in July 2026, the reliability of [push notifications](ht
 
 ### The Core Promise of Real-Time Security
 
-The primary utility of a smart security camera is the ability to intervene. Whether it is speaking to a delivery driver through a doorbell or calling the authorities during a break-in, these actions require immediate awareness. When push notifications are silent or delayed by several minutes, the "security" aspect of the camera is effectively neutralized. If a burglar can enter and exit a property within five minutes, a notification that arrives ten minutes later serves only as a notification of a past event, not a real-time alert.
+The primary utility of a smart security camera is the ability to intervene. Whether it is speaking to a delivery driver through a doorbell or calling the authorities during a break-in, these actions require immediate awareness. When [push notifications](https://quvii.com/blog/eufy-push-notifications-broken-haos-2026-6-4) are silent or delayed by several minutes, the "security" aspect of the camera is effectively neutralized. If a burglar can enter and exit a property within five minutes, a notification that arrives ten minutes later serves only as a notification of a past event, not a real-time alert.
 
 ### Impact on Subscription-Free Value
 
@@ -98,7 +98,7 @@ For those who already own Eufy hardware, the July 2026 notification issues range
 
 ### Loss of Real-Time Alerts
 
-Owners who have built elaborate smart home ecosystems using Homebridge or [Home Assistant](https://quvii.com/blog/eufy-home-assistant-integration-issues-july-2026) are currently facing the most significant impact. Because the `eufy-security-client` push channel is silent, any automation triggered by motion—such as turning on porch lights or announcing a visitor via smart speakers—has ceased to function. This renders the integration ineffective for real-time security, forcing owners back into the official Eufy app, which itself may be suffering from delays.
+Owners who have built elaborate smart home ecosystems using Homebridge or [Home Assistant](https://quvii.com/blog/eufy-home-assistant-integration-issues-july-2026) are currently facing the most significant impact. Because the `eufy-security-client` [push channel](https://quvii.com/blog/eufy-push-channel-silent-registration-succeeds-explained) is silent, any automation triggered by motion—such as turning on porch lights or announcing a visitor via smart speakers—has ceased to function. This renders the integration ineffective for real-time security, forcing owners back into the official Eufy app, which itself may be suffering from delays.
 
 ### Frustration with System Reliability
 

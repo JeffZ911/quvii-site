@@ -80,7 +80,7 @@ The "sticker price" of these cameras is only a fraction of the total cost. In 20
 
 | Brand | Hardware Cost (Est.) | 5-Year Sub. Cost | Total 5-Year TCO |
 | :--- | :--- | :--- | :--- |
-| **Arlo Pro 6** | ~$650 | ~$900 | ~$1,550 |
+| **[Arlo Pro](https://quvii.com/learn/arlo-pro-vmc4030-factory-reset-failure-july-2026) 6** | ~$650 | ~$900 | ~$1,550 |
 | **Ring [Stick Up](https://quvii.com/learn/ring-stick-up-cam-pro-overheating-direct-sun) Cam Pro** | ~$500 | ~$600 | ~$1,100 |
 
 ### Privacy and Transparency

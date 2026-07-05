@@ -85,7 +85,7 @@ If you already own a Eufy system, the June 2026 backend shift may have already d
 
 ### Broken Homebridge and Home Assistant Integrations
 
-As of July 2026, there is no comprehensive fix for the silent push channel. Users report that while they can still see a static thumbnail of their cameras, live streams and motion alerts are non-functional in third-party dashboards. This is because the "push token" required to wake the camera from its low-power state is being ignored by Eufy's new "eufy_mega" servers. For owners who spent hundreds of dollars on a Eufy ecosystem specifically for Home Assistant integration, the hardware has effectively been "nerfed."
+As of July 2026, there is no comprehensive fix for the silent push channel. Users report that while they can still see a static thumbnail of their cameras, live streams and motion alerts are non-functional in third-party dashboards. This is because the "push token" required to wake the camera from its low-power state is being ignored by Eufy's new "eufy_mega" servers. For owners who spent hundreds of dollars on a Eufy ecosystem specifically for [Home Assistant](https://quvii.com/blog/eufy-home-assistant-integration-issues-july-2026) integration, the hardware has effectively been "nerfed."
 
 ### Firmware v3.8.2.0 and the Storage 'Amnesia' Bug
 

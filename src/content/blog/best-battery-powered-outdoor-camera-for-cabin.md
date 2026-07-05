@@ -46,7 +46,7 @@ Furthermore, 4K resolution has moved from a premium feature to the baseline for 
 For over a decade, the trade-off for going wireless was the loss of "pre-roll" or continuous footage. If a thief ran past a camera, the user often saw only the back of their head as they exited the frame. In 2026, the Altas PT Ultra and similar flagship models utilize a "Pre-Record" buffer or full continuous recording modes. According to <a href="https://www.amazon.com/s?k=Reolink%27s+official+specifications&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Reolink's official specifications</a>, the camera can maintain a continuous stream to a local microSD card, providing the same level of forensic detail previously reserved for hardwired PoE (Power over Ethernet) systems.
 
 ### Solar Efficiency Breakthroughs in 2026
-Solar panels for security cameras have evolved from 2W or 3W trickles to 6W and 12W high-efficiency modules. This is critical for cabins located in high-latitude or heavily forested areas where "peak sun hours" are limited. Eufy’s integrated solar panels on the SoloCam S340 series now require as little as two hours of [direct sunlight](https://quvii.com/learn/google-nest-cam-battery-overheating-direct-sunlight) per day to maintain a full charge under standard operating conditions, according to <a href="https://www.amazon.com/s?k=Eufy%27s+support+documentation&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Eufy's support documentation</a>.
+Solar panels for security cameras have evolved from 2W or 3W trickles to 6W and 12W high-efficiency modules. This is critical for cabins located in high-latitude or heavily forested areas where "peak sun hours" are limited. Eufy’s integrated solar panels on the [SoloCam S340](https://quvii.com/learn/reolink-argus-4-pro-vs-eufy-solocam-s340) series now require as little as two hours of [direct sunlight](https://quvii.com/learn/google-nest-cam-battery-overheating-direct-sunlight) per day to maintain a full charge under standard operating conditions, according to <a href="https://www.amazon.com/s?k=Eufy%27s+support+documentation&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Eufy's support documentation</a>.
 
 ### 2026 Flagship Comparison Table
 
@@ -137,7 +137,7 @@ The SoloCam S340 is ideal for users who want a "set it and forget it" installati
 
 ## Sources
 - Reolink Altas PT Ultra Product Page — https://reolink.com/product/altas-pt-ultra/
-- Eufy SoloCam S340 Specifications
+- [Eufy SoloCam S340](https://quvii.com/learn/reolink-argus-4-pro-vs-eufy-solocam-s340) Specifications
 - [Arlo Pro](https://quvii.com/learn/arlo-pro-vmc4030-factory-reset-failure-july-2026) 5S 2K Datasheet — https://www.arlo.com/en-us/cameras/pro/arlo-pro-5.html
 - RTINGS Security Camera Reviews
 - Reddit r/HomeSecurity Wiki — https://www.reddit.com/r/homesecurity/wiki/index/
