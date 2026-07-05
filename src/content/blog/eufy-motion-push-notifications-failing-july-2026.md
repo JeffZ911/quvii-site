@@ -27,7 +27,7 @@ For many Eufy security camera owners, the promise of reliable, local-storage-bas
 
 # Eufy Security Motion Push Notifications: Understanding Recent Failures (July 2026)
 
-Eufy security camera users have reported recurring issues with motion push notifications, often linked to recent firmware updates for HomeBase 3 and various camera models (February-May 2026) and app-related glitches, which can lead to delayed or missed alerts in July 2026. While Eufy provides extensive troubleshooting, some problems stem from software bugs acknowledged by the company.
+Eufy security camera users have reported recurring issues with motion [push notifications](https://quvii.com/blog/eufy-push-notifications-broken-haos-2026-6-4), often linked to recent firmware updates for HomeBase 3 and various camera models (February-May 2026) and app-related glitches, which can lead to delayed or missed alerts in July 2026. While Eufy provides extensive troubleshooting, some problems stem from software bugs acknowledged by the company.
 
 ## What happened
 

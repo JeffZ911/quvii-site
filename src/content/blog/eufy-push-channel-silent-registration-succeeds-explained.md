@@ -81,7 +81,7 @@ As shown above, while Eufy competes well on the "no fee" front, it lags behind b
 ![Impact on existing owners](/img/eufy-push-channel-silent-registration-succeeds-explained/inline-3.webp)
 
 
-If you already own a Eufy system, the June 2026 backend shift may have already degraded your experience. The primary victims are those who used Homebridge to bring Eufy cameras into Apple Home, or Home Assistant for advanced automation (e.g., "turn on the porch light when the Eufy camera detects a person").
+If you already own a Eufy system, the June 2026 backend shift may have already degraded your experience. The primary victims are those who used Homebridge to bring Eufy cameras into Apple Home, or [Home Assistant](https://quvii.com/blog/eufy-home-assistant-integration-issues-july-2026) for advanced automation (e.g., "turn on the porch light when the Eufy camera detects a person").
 
 ### Broken Homebridge and Home Assistant Integrations
 

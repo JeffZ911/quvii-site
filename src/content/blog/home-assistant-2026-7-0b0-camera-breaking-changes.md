@@ -119,7 +119,7 @@ The Home Assistant Community forums (e.g., r/HomeAssistant) are an invaluable re
 
 For critical security setups, it may be prudent to **delay updates if necessary**. Wait until community feedback confirms stability for your specific camera hardware and integrations. This cautious approach can prevent unexpected outages in your security monitoring.
 
-Finally, always **monitor privacy settings**. Regularly review Home Assistant's privacy settings and any third-party integration permissions, especially concerning camera data. This ensures you maintain your desired levels of data control and that no unintended data sharing occurs.
+Finally, always **monitor [privacy settings](https://quvii.com/learn/eufy-camera-privacy-settings-summer-guests-20260705)**. Regularly review Home Assistant's privacy settings and any third-party integration permissions, especially concerning camera data. This ensures you maintain your desired levels of data control and that no unintended data sharing occurs.
 
 ## Total Cost of Ownership (TCO) for Home Security Cameras
 

@@ -38,7 +38,7 @@ This specific problem can severely impact your home security. It creates a false
 
 ### Why it exists
 
-Several factors, ranging from network issues to subscription limitations and configuration errors, can prevent your Ring camera from streaming video despite detecting motion. Pinpointing the exact cause often involves a systematic review of your camera's environment and settings.
+Several factors, ranging from network issues to subscription limitations and configuration errors, can prevent your Ring camera from [streaming video](https://quvii.com/blog/ring-plugin-not-streaming-video-july-2026-fix) despite detecting motion. Pinpointing the exact cause often involves a systematic review of your camera's environment and settings.
 
 #### Network Connectivity Challenges
 

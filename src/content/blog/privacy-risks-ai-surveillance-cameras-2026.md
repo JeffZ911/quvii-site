@@ -78,7 +78,7 @@ When you agree to the terms of service for most cloud-based AI cameras, you are 
 ### The Warrantless Access Reality
 One of the most critical privacy risks is the "Emergency Access" loophole. Amazon and Google maintain policies that allow them to provide footage to law enforcement without a warrant if they believe there is an "imminent danger of death or serious physical injury." 
 
-According to [Amazon’s own Transparency Reports](https://www.amazon.com/gp/help/customer/display.html?nodeId=GZ786S59S7Y3TM9U), the company continues to fulfill dozens of these requests annually. For a buyer, this means that despite your own privacy settings, a third party (the vendor) holds the ultimate "master key" to your video feed.
+According to [Amazon’s own Transparency Reports](https://www.amazon.com/gp/help/customer/display.html?nodeId=GZ786S59S7Y3TM9U), the company continues to fulfill dozens of these requests annually. For a buyer, this means that despite your own [privacy settings](https://quvii.com/learn/eufy-camera-privacy-settings-summer-guests-20260705), a third party (the vendor) holds the ultimate "master key" to your video feed.
 
 ### The Cost of 'Smart' Features (TCO)
 The "Feature Paywall" has become the standard business model in 2026. Brands like Arlo and Nest sell hardware at a relatively low entry price but lock essential AI features—such as person detection or package alerts—behind monthly subscriptions.

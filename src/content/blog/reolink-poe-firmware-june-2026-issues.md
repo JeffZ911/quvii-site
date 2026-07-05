@@ -144,7 +144,7 @@ To minimize the risk of failure, adhere to this checklist before initiating a fi
 *   [ ] **Check Hardware Version:** Go to Settings > Device > Info and note the "Hardware No."
 *   [ ] **Stable Power:** Ensure the PoE switch is not under heavy load or connected to an unstable power source.
 *   [ ] **Wired Connection:** Do not update cameras over a Wi-Fi bridge if they are PoE; ensure they are plugged directly into the NVR or a PoE switch on the same subnet as your computer.
-*   [ ] **Backup Settings:** While firmware updates usually preserve settings, it is wise to screenshot your "[Detection Zone](https://quvii.com/learn/ezviz-camera-motion-detection-zones-setup-guide)" and "Schedule" pages in case a factory reset is required.
+*   [ ] **Backup Settings:** While firmware updates usually preserve settings, it is wise to screenshot your "[Detection Zone](https://quvii.com/learn/ezviz-camera-motion-detection-zones-setup-guide)" and "Schedule" pages in case a [factory reset](https://quvii.com/learn/arlo-pro-vmc4030-factory-reset-failure-july-2026) is required.
 *   [ ] **Transitional Firmware:** If your camera is running a version from 2022 or earlier, do not jump directly to a June 2026 release. Consult support to see if an intermediate version is required to bridge the database changes.
 
 ### Community and Support Engagement

@@ -71,7 +71,7 @@ The failure of Ring streaming in the 2026.7.0b0 beta cycle is a "perfect storm" 
 ### The 2026.7 VoIP Stack Overhaul
 The primary driver for this regression is Home Assistant’s migration to a full SIP (Session Initiation Protocol) and VoIP media stack. This update was designed to improve native support for ESPHome-based intercoms and better two-way audio for cameras. However, the new media handler enforces stricter adherence to RFC 8866 (SDP: Session Description Protocol) standards. 
 
-The existing Ring integration, which has long relied on a specific "relaxed" interpretation of SDP to communicate with Ring’s proprietary servers, now finds its "Offer" rejected by the core HA media engine.
+The existing [Ring integration](https://quvii.com/blog/ring-home-assistant-integration-broken-july-2026), which has long relied on a specific "relaxed" interpretation of SDP to communicate with Ring’s proprietary servers, now finds its "Offer" rejected by the core HA media engine.
 
 ### Chromium's Role in the Handshake Failure
 Simultaneously, recent updates to the Chromium engine (which powers Chrome, Edge, and the HA Companion App) have deprecated certain legacy WebRTC "Plan B" attributes in favor of "Unified Plan" only. When the Home Assistant 2026.7.0b0 frontend attempts to render the stream, the browser detects the mismatched media direction attributes and terminates the connection for security reasons. Because Ring’s cloud API is a "black box," the Home Assistant community cannot simply update the Ring firmware; they must instead patch how HA translates the Ring signal.
