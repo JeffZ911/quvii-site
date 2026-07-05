@@ -141,7 +141,7 @@ The "Local-First" model remains the most cost-effective and secure path for thos
 In the June 2026 version (v6.43.1), reports indicate the prompt is "persistent," meaning it overlays the entire interface. You cannot view live video or access settings without interacting with the prompt. Furthermore, ignoring it may lead to the camera disabling motion recording features.
 
 ### Will factory resetting my Yoosee camera fix the problem?
-A factory reset will clear the camera's settings, but it will not change the app's behavior. As soon as you re-add the camera to the Yoosee app, the "Kingshot" prompt will likely reappear because the requirement is tied to the app version and your account, not the camera's local firmware.
+A [factory reset](https://quvii.com/learn/arlo-pro-vmc4030-factory-reset-failure-july-2026) will clear the camera's settings, but it will not change the app's behavior. As soon as you re-add the camera to the Yoosee app, the "Kingshot" prompt will likely reappear because the requirement is tied to the app version and your account, not the camera's local firmware.
 
 ### Are all cheap cameras on Amazon affected by this?
 No, but any camera that uses the Yoosee, ICSee, or UBox apps is subject to the whims of those specific developers. Always check which app a camera requires before purchasing. If the app has a history of aggressive advertising or forced installs, avoid the hardware regardless of how high the Amazon star rating appears.

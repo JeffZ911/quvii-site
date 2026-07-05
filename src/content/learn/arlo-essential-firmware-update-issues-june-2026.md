@@ -160,7 +160,7 @@ There is a misconception that if an update fails, the manufacturer did it on pur
 ## Frequently Asked Questions
 
 ### How do I know if my Arlo Essential camera is bricked?
-If your camera is unresponsive, won't join your Wi-Fi even after a battery pull, and shows a solid amber LED or no LED at all when plugged into power, it may be bricked. Your first step should be a factory reset by holding the sync button for 15 seconds while the camera has power.
+If your camera is unresponsive, won't join your Wi-Fi even after a battery pull, and shows a solid amber LED or no LED at all when plugged into power, it may be bricked. Your first step should be a [factory reset](https://quvii.com/learn/arlo-pro-vmc4030-factory-reset-failure-july-2026) by holding the sync button for 15 seconds while the camera has power.
 
 ### Can I roll back an Arlo firmware update if it causes issues?
 No. Arlo does not currently provide a mechanism for users to "downgrade" firmware to a previous version. Once an update is installed, you must wait for a subsequent patch from Arlo to resolve any new bugs.

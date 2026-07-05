@@ -141,7 +141,7 @@ If you are currently experiencing silent or delayed notifications, follow these 
 ### Long-Term Monitoring and Support
 
 If these steps do not resolve the issue, the problem is likely server-side. 
-*   **Monitor Community Forums:** Keep an eye on the [Eufy Security GitHub](https://github.com/bropat/eufy-security-client) for updates on the third-party push channel fix.
+*   **Monitor Community Forums:** Keep an eye on the [Eufy Security GitHub](https://github.com/bropat/eufy-security-client) for updates on the third-party [push channel](https://quvii.com/blog/eufy-push-channel-silent-registration-succeeds-explained) fix.
 *   **Contact Support:** Reach out to <a href="https://www.amazon.com/s?k=Eufy+Customer+Support&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Eufy Customer Support</a> directly. Provide them with your HomeBase serial number and specific examples of delay times. The more users report this, the higher it is prioritized in their engineering backlog.
 
 Quvii tracks these trade-offs across the security category, and the July 2026 notification issues serve as a reminder that "no monthly fee" systems still rely on a complex, cloud-dependent infrastructure that requires constant manufacturer maintenance.
@@ -155,7 +155,7 @@ This is likely due to the "silent push channel" issue identified in June 2026. E
 Yes. If your upload speed is low, the camera may struggle to send the notification trigger or the encrypted thumbnail to the Eufy cloud. This can result in the notification "timing out" or arriving significantly later. Eufy recommends an upload speed of at least 2Mbps for optimal performance with their 4K camera lines.
 
 ### Does Eufy charge a fee for push notifications with thumbnails?
-No, Eufy does not currently charge a subscription fee for basic push notifications or those including a thumbnail. However, the thumbnail is briefly stored on Eufy’s cloud servers (AWS) to facilitate the push to your phone. This is different from their "Cloud Storage" subscription, which saves full video clips to the cloud.
+No, Eufy does not currently charge a subscription fee for basic [push notifications](https://quvii.com/blog/eufy-push-notifications-broken-haos-2026-6-4) or those including a thumbnail. However, the thumbnail is briefly stored on Eufy’s cloud servers (AWS) to facilitate the push to your phone. This is different from their "Cloud Storage" subscription, which saves full video clips to the cloud.
 
 ### Will the HomeBase 3 fix my notification delay issues?
 Not necessarily. While the HomeBase 3 offers superior local AI and processing power, current reports from July 2026 indicate that the notification delay issue affects both HomeBase 2 and HomeBase 3 users. The bottleneck appears to be in the cloud-based delivery system (FCM) or Eufy's backend routing, rather than the local hardware processing.

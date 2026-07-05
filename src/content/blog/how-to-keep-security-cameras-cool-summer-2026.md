@@ -54,7 +54,7 @@ For example, a modern 4K sensor produces roughly 30% more heat during active pro
 | **[Google Nest](https://quvii.com/blog/google-nest-community-migration-outage-fixes-2026-20260625) Cam (Battery)** | 1080p | Battery | 104°F (40°C) | Automatic charging halt at 113°F |
 | **Ring Battery Doorbell Pro** | 1536p | Battery | 120°F (48.5°C) | High-heat performance mode |
 | **Eufy SoloCam S340** | 3K (Dual) | Battery/Solar | 122°F (50°C) | Integrated solar thermal management |
-| **Arlo Pro 5S 2K** | 2K | Battery | 113°F (45°C) | Low-power thermal state |
+| **[Arlo Pro](https://quvii.com/learn/arlo-pro-vmc4030-factory-reset-failure-july-2026) 5S 2K** | 2K | Battery | 113°F (45°C) | Low-power thermal state |
 | **[Reolink Argus 4 Pro](/blog/reolink-argus-4-pro-new-release-features-20260613)** | 4K | Battery | 131°F (55°C) | Advanced heat dissipation housing |
 | **Reolink RLC-811A** | 4K | PoE | 131°F (55°C) | Aluminum alloy heat-sink body |
 

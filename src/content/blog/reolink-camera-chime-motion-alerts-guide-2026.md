@@ -103,7 +103,7 @@ Beyond standard [push notifications](https://quvii.com/blog/eufy-motion-push-not
 
 ### Reviewing Privacy Settings and Detection Zones
 
-Regularly reviewing your camera's privacy settings and detection zones is vital for maintaining personal privacy and effective monitoring. Utilize privacy mask features to block out specific areas within the camera's field of view that you do not wish to record, such as a neighbor's window or public property. Ensure your detection zones are precisely drawn to focus on areas relevant to your security, avoiding unnecessary surveillance of public spaces. This balance helps ensure you capture critical events while respecting privacy.
+Regularly reviewing your camera's [privacy settings](https://quvii.com/learn/eufy-camera-privacy-settings-summer-guests-20260705) and detection zones is vital for maintaining personal privacy and effective monitoring. Utilize privacy mask features to block out specific areas within the camera's field of view that you do not wish to record, such as a neighbor's window or public property. Ensure your detection zones are precisely drawn to focus on areas relevant to your security, avoiding unnecessary surveillance of public spaces. This balance helps ensure you capture critical events while respecting privacy.
 
 ### Decision Framework: Choosing and Configuring Reolink Alerts
 

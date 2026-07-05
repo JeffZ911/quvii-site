@@ -47,7 +47,7 @@ In April 2026, many users experienced a widespread failure where multiple Eufy d
 
 ### App-Related Notification Glitches
 
-Beyond firmware, Eufy's mobile application itself can contribute to notification inconsistencies. Users frequently report that even with correct camera and HomeBase settings, the Eufy Security app might fail to process or deliver push notifications reliably due to background app restrictions, power optimization settings on smartphones, or general app bugs. Issues like notifications being delayed by several minutes or not appearing until the app is manually opened are common complaints, indicating a potential disconnect between the camera's detection, the HomeBase's processing, and the app's notification delivery mechanism.
+Beyond firmware, Eufy's mobile application itself can contribute to notification inconsistencies. Users frequently report that even with correct camera and HomeBase settings, the Eufy Security app might fail to process or deliver [push notifications](https://quvii.com/blog/eufy-push-notifications-broken-haos-2026-6-4) reliably due to background app restrictions, power optimization settings on smartphones, or general app bugs. Issues like notifications being delayed by several minutes or not appearing until the app is manually opened are common complaints, indicating a potential disconnect between the camera's detection, the HomeBase's processing, and the app's notification delivery mechanism.
 
 ### Specific Camera and HomeBase 3 Impacts
 

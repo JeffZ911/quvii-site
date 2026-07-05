@@ -60,7 +60,7 @@ For a new buyer in 2026, the "silent registration" issue is a wake-up call regar
 
 ### The 'Local-Only' Illusion
 
-When you buy a Eufy SoloCam S340 or a HomeBase 3, the marketing materials emphasize that your video is stored on a hard drive in your living room. While the video bits may stay local, the "trigger" to view those bits is not. When the camera detects motion, it must first notify Eufy's AWS-hosted servers, which then push a notification back to your phone. If Eufy’s backend decides to "silence" those push tokens—as seen in the June 2026 logs—your locally stored video becomes inaccessible via any third-party interface, and potentially delayed even in the official app.
+When you buy a [Eufy SoloCam S340](https://quvii.com/learn/reolink-argus-4-pro-vs-eufy-solocam-s340) or a HomeBase 3, the marketing materials emphasize that your video is stored on a hard drive in your living room. While the video bits may stay local, the "trigger" to view those bits is not. When the camera detects motion, it must first notify Eufy's AWS-hosted servers, which then push a notification back to your phone. If Eufy’s backend decides to "silence" those push tokens—as seen in the June 2026 logs—your locally stored video becomes inaccessible via any third-party interface, and potentially delayed even in the official app.
 
 ### Subscription-Free vs. Cloud-Tethered
 

@@ -124,7 +124,7 @@ The outcome of the `Sigwalt v. Amazon` lawsuit could have significant implicatio
 ![What to do now](/img/ring-facial-recognition-lawsuit-impact-2026/inline-4.webp)
 
 
-For Ring users and those considering a purchase, understanding how to manage privacy settings and explore alternatives is crucial in light of the ongoing facial recognition lawsuit. Taking proactive steps can help safeguard your biometric data and ensure your security setup aligns with your privacy preferences.
+For Ring users and those considering a purchase, understanding how to manage [privacy settings](https://quvii.com/learn/eufy-camera-privacy-settings-summer-guests-20260705) and explore alternatives is crucial in light of the ongoing facial recognition lawsuit. Taking proactive steps can help safeguard your biometric data and ensure your security setup aligns with your privacy preferences.
 
 ### Step-by-Step Privacy Audit for Ring Users
 
