@@ -98,7 +98,7 @@ Energy harvesting has seen a significant leap. 2026 solar panels use high-effici
 Choosing a no-subscription, local-storage system changes the operational reality of home security, particularly regarding reliability and long-term costs.
 
 ### The "Internet-Down" Security Test
-A common failure point during summer travel is a home router freezing or a service provider outage caused by heat or storms. In a cloud-dependent system, the camera becomes a "brick" during the outage, failing to record any events. A local-storage system continues to operate. If a burglary occurs while the internet is down, the footage is safely recorded to the internal microSD card or HomeBase, ready for review once you return or the connection is restored.
+A common failure point [during summer](https://quvii.com/learn/nest-camera-offline-summer-storms-2026) travel is a home router freezing or a service provider outage caused by heat or storms. In a cloud-dependent system, the camera becomes a "brick" during the outage, failing to record any events. A local-storage system continues to operate. If a burglary occurs while the internet is down, the footage is safely recorded to the internal microSD card or HomeBase, ready for review once you return or the connection is restored.
 
 ### Calculating Your Long-Term ROI
 The Total Cost of Ownership (TCO) is the most critical metric for the 2026 buyer. While a "subscription-free" camera may have a higher upfront cost, the 3-year savings are substantial.

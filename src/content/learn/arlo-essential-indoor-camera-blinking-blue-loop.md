@@ -173,7 +173,7 @@ This is usually due to screen glare or low brightness on your smartphone. Ensure
 The 1st Generation (VMC2040) is strictly 2.4 GHz. The 2nd Generation (VMC3050) added support for dual-band networks, but 2.4 GHz is still recommended for better range through walls, which often prevents connection loops.
 
 ### Can I use the Arlo Essential Indoor without a subscription?
-Yes, but functionality is limited. Without a plan, you receive basic motion notifications and can view the live stream, but you will not have any video recordings saved to the cloud, and the AI features (Person/Pet detection) will be disabled.
+Yes, but functionality is limited. Without a plan, you receive basic [motion notifications](https://quvii.com/learn/eufy-camera-motion-notifications-not-working) and can view the live stream, but you will not have any video recordings saved to the cloud, and the AI features (Person/Pet detection) will be disabled.
 
 ### How do I factory reset the Arlo Essential Indoor?
 Locate the reset button on the bottom or back of the camera (it may require a paperclip on older revisions). Press and hold it for about 15 seconds until the LED flashes amber, then release. The camera will reboot and eventually enter the slow-blinking blue pairing mode.

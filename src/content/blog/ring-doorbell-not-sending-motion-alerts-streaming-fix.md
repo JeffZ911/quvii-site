@@ -70,7 +70,7 @@ Many users assume that because the doorbell "lights up," it has sufficient power
 If your Ring is already mounted but failing, you may need to reseat the wiring or adjust the physical positioning. Proper installation is the prerequisite for reliable [motion detection](https://quvii.com/blog/eufy-doorbell-motion-detection-not-working-july-2026).
 
 ### Physical Mounting for Better Detection
-Ring doorbells use Passive Infrared (PIR) sensors or Radar-based "3D Motion Detection" (on Pro models). These sensors are calibrated for a specific height.
+Ring doorbells use Passive Infrared (PIR) sensors or Radar-based "3D [Motion Detection](https://quvii.com/blog/eufy-doorbell-motion-detection-not-working-july-2026)" (on Pro models). These sensors are calibrated for a specific height.
 *   **The 48-Inch Rule:** Mount the bracket exactly 48 inches (1.2m) from the ground. Mounting the camera at eye level (60+ inches) may seem intuitive, but it causes the PIR sensor to overshoot approaching heat signatures, leading to missed alerts until the person is directly in front of the lens.
 *   **Wedge Kits:** If your door is at the top of a set of stairs, use a "Wedge Kit" to angle the camera downward. Without this, the sensor will monitor the horizon rather than the path leading to your door.
 

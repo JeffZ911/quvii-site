@@ -80,7 +80,7 @@ This update demonstrates the "Ecosystem Fragility" of the Ring platform. Because
 If you already own a Ring system, the July 2026 update may have already altered your daily experience, particularly if you use modern mobile hardware or legacy cameras.
 
 ### The 'Activating Command' Loop
-Users with wall-mounted tablets (frequently using ActionTiles or Scrypted) are reporting an "Activating Command" hang. This occurs because the tablet's browser is unable to negotiate the new encrypted stream headers introduced with the "Retinal Tuning" update. The screen remains black, even though motion notifications continue to arrive on mobile devices.
+Users with wall-mounted tablets (frequently using ActionTiles or Scrypted) are reporting an "Activating Command" hang. This occurs because the tablet's browser is unable to negotiate the new encrypted stream headers introduced with the "Retinal Tuning" update. The screen remains black, even though [motion notifications](https://quvii.com/learn/eufy-camera-motion-notifications-not-working) continue to arrive on mobile devices.
 
 ### Android 16 and App Crashes
 The timing of this update coincides with the rollout of Android 16. Owners of the Samsung S26 Ultra have reported that the Ring app restarts automatically when zooming into "Enhanced" video clips. This appears to be a memory management conflict between the app's new AI overlay and the high-resolution rendering engine of the S26 Ultra.

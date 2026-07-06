@@ -185,7 +185,7 @@ Eufy emphasizes local storage and on-device AI processing to enhance privacy. Ho
 
 ## Sources
 
-*   [eufy.com] - <a href="https://www.amazon.com/s?k=How+to+Set+Up+Push+Notifications+on+eufySecurity+App&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">How to Set Up Push Notifications on eufySecurity App</a>
+*   [eufy.com] - <a href="https://www.amazon.com/s?k=How+to+Set+Up+Push+Notifications+on+eufySecurity+App&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">How to Set Up [Push Notifications](https://quvii.com/blog/eufy-push-notifications-broken-haos-2026-6-4) on eufySecurity App</a>
 *   [eufy.com] - Eufy Official Website
 *   [eufy.com] - Eufy Privacy Policy
 *   [reddit.com] - r/EufyCam - HomeBase 3 Firmware 3.8.2.0 and 3.8.2.8 Issues

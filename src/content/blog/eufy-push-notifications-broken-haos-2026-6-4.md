@@ -53,7 +53,7 @@ Compounding the software conflict is a recent firmware update for the Eufy HomeB
 | **eufyCam S330 (Cam 3)** | HomeBase 3 | 4K (3840x2160) | BionicMind (Face/Vehicle) | Cloud-to-Webhook |
 | **eufyCam S300 (Cam 3C)** | HomeBase 3 | 4K (3840x2160) | BionicMind (Face/Vehicle) | Cloud-to-Webhook |
 | **Video Doorbell Dual** | HomeBase 3 / Wi-Fi | 2K (2560x1920) | Package/Face Detection | Cloud-to-Webhook |
-| **SoloCam S340** | Wi-Fi / HomeBase 3 | 3K (2880x1620) | Human/Vehicle | Cloud-to-Webhook |
+| **[SoloCam S340](https://quvii.com/learn/reolink-argus-4-pro-vs-eufy-solocam-s340)** | Wi-Fi / HomeBase 3 | 3K (2880x1620) | Human/Vehicle | Cloud-to-Webhook |
 | **Indoor Cam S350** | Wi-Fi / HomeBase 3 | 4K (Dual Lens) | Human/Pet | Cloud-to-Webhook |
 
 *Data sourced from eufy.com product specifications and community hardware logs.*
@@ -134,7 +134,7 @@ The first step is to address the most common "silent" failure point.
 2.  Tap the **Security** tab at the bottom.
 3.  Select your **HomeBase** or standalone camera.
 4.  Check your active mode (e.g., "Home" or "Away").
-5.  Ensure the **Push Notification** checkbox is enabled. Eufy firmware v3.4.8+ has been known to uncheck this during the update. If this is off, Eufy's cloud will never send the signal that Home Assistant is waiting for.
+5.  Ensure the **Push Notification** checkbox is enabled. Eufy firmware v3.4.8+ has been known to uncheck this during the update. If this is off, Eufy's cloud will never send the signal that [Home Assistant](https://quvii.com/learn/ring-plugin-not-streaming-home-assistant-2026-7-fix) is waiting for.
 
 ### Re-syncing the Integration
 If your app settings are correct but HA is still silent:
