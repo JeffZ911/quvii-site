@@ -53,7 +53,7 @@ The primary consequence of an offline status is the immediate loss of real-time 
 ![Why it exists](/img/nest-cam-battery-offline-storm-fixes/inline-2.webp)
 
 
-Storms create a "perfect storm" of technical failures that can knock a wireless camera offline. Understanding these triggers helps in prioritizing which part of your home infrastructure to fix first.
+Storms create a "perfect storm" of technical failures that can knock a wireless [camera offline](https://quvii.com/learn/nest-camera-offline-summer-storms-2026). Understanding these triggers helps in prioritizing which part of your home infrastructure to fix first.
 
 ### Power Outages and Wi-Fi Dependency
 The most common reason a Nest Cam goes offline after a storm is the loss of power to your network equipment. Even though the camera has its own battery, your Wi-Fi router and modem likely do not. If the storm causes a local power flicker or a sustained outage, your router shuts down, and the camera loses its bridge to the internet. According to [Google Nest](https://quvii.com/learn/google-nest-cam-battery-overheating-direct-sunlight) Support, the camera requires a constant Wi-Fi connection to remain "online" in the app interface.

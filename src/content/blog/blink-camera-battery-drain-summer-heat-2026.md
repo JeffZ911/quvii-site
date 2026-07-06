@@ -92,7 +92,7 @@ While Blink offers a 1-year limited warranty covering hardware defects under "or
 ![What to do now](/img/blink-camera-battery-drain-summer-heat-2026/inline-4.webp)
 
 
-Mitigating [battery drain](https://quvii.com/blog/eufy-security-camera-battery-drain-june-2026) in Blink cameras, especially during summer heat, involves a combination of optimized settings, strategic placement, and appropriate power management.
+Mitigating [battery drain](https://quvii.com/blog/eufy-security-camera-battery-drain-june-2026) in Blink cameras, especially [during summer](https://quvii.com/learn/nest-camera-offline-summer-storms-2026) heat, involves a combination of optimized settings, strategic placement, and appropriate power management.
 
 ### Optimizing Camera Settings for Battery Life
 

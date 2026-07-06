@@ -147,7 +147,7 @@ Protecting your neighbors' privacy while maintaining your home security is a bal
 
 ### Maximizing Your Ring's Privacy Controls
 
-To minimize recording beyond your property, effective use of your Ring app's privacy settings is essential.
+To minimize recording beyond your property, effective use of your Ring app's [privacy settings](https://quvii.com/learn/eufy-camera-privacy-settings-summer-guests-20260705) is essential.
 *   **Motion Zones:** Carefully draw custom motion zones to include only your property and exclude public pathways or neighboring yards. Test these zones thoroughly to ensure they are not triggered by unintended activity.
 *   **Privacy Zones:** Utilize privacy zones to black out specific areas within the camera's field of view that you absolutely do not want to record, such as a neighbor's window or backyard.
 *   **Audio Recording:** If not essential for your security needs, consider disabling audio recording in the device settings. This significantly reduces [privacy risks](https://quvii.com/learn/smart-home-privacy-risks-ai-security-cameras), especially in "two-party consent" states.

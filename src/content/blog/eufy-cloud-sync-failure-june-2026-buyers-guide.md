@@ -46,7 +46,7 @@ The months leading up to June 2026 saw several notable incidents that directly o
 
 In May 2026, an unofficial post-mortem on Reddit described a "rough outage" where some HomeBase 3 units temporarily lost remote access. This incident was attributed to a larger Amazon Web Services (AWS) outage, highlighting Eufy's reliance on third-party cloud infrastructure and a perceived lack of high availability or failover mechanisms for its cloud services. For users, this meant an inability to access their cameras remotely, view live feeds, or retrieve cloud-stored footage during the outage.
 
-Further complicating matters, a February 2026 firmware update for SoloCam S340 units caused widespread Wi-Fi connectivity loss and, for some users, effectively "bricked" their cameras in March 2026. This rendered both local recording and cloud synchronization impossible, as the devices were inoperable.
+Further complicating matters, a February 2026 firmware update for [SoloCam S340](https://quvii.com/learn/reolink-argus-4-pro-vs-eufy-solocam-s340) units caused widespread Wi-Fi connectivity loss and, for some users, effectively "bricked" their cameras in March 2026. This rendered both local recording and cloud synchronization impossible, as the devices were inoperable.
 
 ### Community Response to Recent Disruptions
 

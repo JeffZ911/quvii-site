@@ -25,7 +25,7 @@ For smart home enthusiasts, the promise of Eufy Security has always been "local-
 
 # Eufy Security & Home Assistant: Unpacking Recent Integration Challenges (July 2026)
 
-**Quick Answer:** While there isn't a single, system-wide 'broken' event for Eufy Security's Home Assistant integration in July 2026, users have reported several significant and recurring issues, including devices suddenly becoming unavailable, broken notification pushes, and problems with event image updates, particularly following recent Home Assistant and Eufy firmware updates.
+**Quick Answer:** While there isn't a single, system-wide 'broken' event for Eufy Security's [Home Assistant](https://quvii.com/learn/ring-plugin-not-streaming-home-assistant-2026-7-fix) integration in July 2026, users have reported several significant and recurring issues, including devices suddenly becoming unavailable, broken notification pushes, and problems with event image updates, particularly following recent Home Assistant and Eufy firmware updates.
 
 ## What happened
 <!-- auto-related -->

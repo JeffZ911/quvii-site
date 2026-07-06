@@ -70,7 +70,7 @@ Understanding chime compatibility is crucial for doorbell owners, as newer Reoli
 | Reolink Series | Typical [Motion Detection](https://quvii.com/blog/ring-camera-motion-streaming-issues-july-2026) Features | Typical Chime/Audio Features | Power Type (Common) | Local Storage (Common) |
 | :------------- | :-------------------------------- | :--------------------------- | :------------------ | :--------------------- |
 | RLC Series (e.g., RLC-811A, RLC-510A) | Person/Vehicle Detection, Customizable Zones, Sensitivity, Object Size | Two-way audio, Siren, NVR Buzzer | PoE, DC 12V | MicroSD, NVR |
-| Argus Series (e.g., [Argus 3 Pro](https://quvii.com/learn/reolink-argus-3-pro-solar-charging-issues-2026), Argus 4 Pro) | Person/Vehicle Detection, Customizable Zones, Sensitivity, Object Size | Two-way audio, Siren | Battery, Solar Panel | MicroSD |
+| Argus Series (e.g., [Argus 3 Pro](https://quvii.com/learn/reolink-argus-3-pro-solar-charging-issues-2026), [Argus 4 Pro](https://quvii.com/learn/reolink-argus-4-pro-vs-eufy-solocam-s340)) | Person/Vehicle Detection, Customizable Zones, Sensitivity, Object Size | Two-way audio, Siren | Battery, Solar Panel | MicroSD |
 | E Series (e.g., E1 Outdoor, E1 Zoom) | Person/Pet Detection, Customizable Zones, Sensitivity | Two-way audio, Siren | DC 5V (USB) | MicroSD, NVR |
 | Video Doorbell (WiFi/PoE/Battery) | Person/Vehicle/Package Detection, Customizable Zones, Sensitivity | Built-in speaker, Dedicated Wireless Chime, Wired Chime Compatibility (8-24VAC) | PoE, AC 8-24V, Battery | MicroSD, NVR |
 
