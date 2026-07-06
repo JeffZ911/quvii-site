@@ -189,7 +189,7 @@ First, try to relocate the camera to a shaded area, such as under a roof eave. I
 Firmware updates can help by optimizing how the processor handles tasks like AI and video encoding, which can lower the "internal" heat generated. However, firmware cannot protect a camera from "external" heat caused by direct sunlight or high ambient temperatures.
 
 ### Is it safe to use the Wyze Cam v4 inside a window?
-Using the v4 behind a window can lead to overheating if the window receives direct sunlight. The glass can create a "greenhouse effect," trapping heat between the lens and the pane. Additionally, the v4's window mount can limit airflow, so monitor the camera closely if used in this configuration during summer.
+Using the v4 behind a window can lead to overheating if the window receives direct sunlight. The glass can create a "greenhouse effect," trapping heat between the lens and the pane. Additionally, the v4's window mount can limit airflow, so monitor the camera closely if used in this configuration [during summer](https://quvii.com/learn/nest-camera-offline-summer-storms-2026).
 
 ## Sources
 

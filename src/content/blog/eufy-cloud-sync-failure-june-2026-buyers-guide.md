@@ -177,7 +177,7 @@ Existing Eufy owners who experience cloud sync failures or related local [storag
 
 ### Immediate User Experience and Frustrations
 
-The April 2026 HomeBase firmware issue, which caused the loss of 24/7 recording for some users and required manual intervention, exemplifies a critical failure mode: silent data loss. Users might not immediately realize that their system is not recording, leaving gaps in their security coverage. The March 2026 SoloCam S340 firmware issue was more severe, rendering some cameras completely inoperable due to lost Wi-Fi connectivity. Reports from May 2026 further indicated issues with videos becoming corrupt or disappearing after updates, contributing to a general sense of system unreliability. These experiences translate directly into diminished security and significant user frustration.
+The April 2026 HomeBase firmware issue, which caused the loss of 24/7 recording for some users and required manual intervention, exemplifies a critical failure mode: silent data loss. Users might not immediately realize that their system is not recording, leaving gaps in their security coverage. The March 2026 [SoloCam S340](https://quvii.com/learn/reolink-argus-4-pro-vs-eufy-solocam-s340) firmware issue was more severe, rendering some cameras completely inoperable due to lost Wi-Fi connectivity. Reports from May 2026 further indicated issues with videos becoming corrupt or disappearing after updates, contributing to a general sense of system unreliability. These experiences translate directly into diminished security and significant user frustration.
 
 ### Firmware Update Risks and Data Integrity
 

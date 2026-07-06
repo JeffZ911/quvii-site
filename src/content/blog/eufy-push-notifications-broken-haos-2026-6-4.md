@@ -160,7 +160,7 @@ If you rely on Eufy for home security and the fixes above do not work, rolling b
 ## Frequently Asked Questions
 
 ### Why does Eufy need the cloud if it has a HomeBase?
-While video is stored on the HomeBase, the notification "handshake" that alerts your phone or Home Assistant still travels through Eufy's servers. This allows alerts to reach you when you are away from home without requiring complex port forwarding on your router.
+While video is stored on the HomeBase, the notification "handshake" that alerts your phone or [Home Assistant](https://quvii.com/learn/ring-plugin-not-streaming-home-assistant-2026-7-fix) still travels through Eufy's servers. This allows alerts to reach you when you are away from home without requiring complex port forwarding on your router.
 
 ### Will Matter support fix these Eufy notification issues?
 If Eufy releases a Matter-over-Bridge update for the HomeBase 3, it would allow the HomeBase to talk directly to Home Assistant over the local network. This would bypass the cloud-relay and the webhook issues entirely. However, as of mid-2026, this support remains limited to specific models and basic functions.

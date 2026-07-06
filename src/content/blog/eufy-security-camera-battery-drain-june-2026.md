@@ -147,7 +147,7 @@ Eufy typically offers a 12-month limited warranty. If your camera's battery heal
 ## Sources
 - Eufy Official Support - Battery Optimization Guide
 - eufyCam S3 Pro Product Specifications
-- SoloCam S340 Dual-Lens Tech Specs
+- [SoloCam S340](https://quvii.com/learn/reolink-argus-4-pro-vs-eufy-solocam-s340) Dual-Lens Tech Specs
 - Eufy Privacy and Security Commitment
 - Community Discussion: HomeBase 3 Connectivity Issues (r/EufyCam)
 

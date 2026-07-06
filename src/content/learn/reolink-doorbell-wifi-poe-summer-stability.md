@@ -55,7 +55,7 @@ In contrast, the Reolink Video Doorbell PoE model uses a single Ethernet cable f
 ![Why it exists](/img/reolink-doorbell-wifi-poe-summer-stability/inline-2.webp)
 
 
-The co-existence of both Wi-Fi and PoE doorbell cameras reflects an evolution driven by diverse homeowner needs. Early doorbell cameras were often wired, but the demand for easier installation and greater flexibility led to the proliferation of Wi-Fi models. However, the inherent challenges of outdoor electronics, especially during summer, highlighted the need for more robust solutions.
+The co-existence of both Wi-Fi and PoE doorbell cameras reflects an evolution driven by diverse homeowner needs. Early doorbell cameras were often wired, but the demand for easier installation and greater flexibility led to the proliferation of Wi-Fi models. However, the inherent challenges of outdoor electronics, especially [during summer](https://quvii.com/learn/nest-camera-offline-summer-storms-2026), highlighted the need for more robust solutions.
 
 ### Installation Flexibility vs. Performance Needs
 

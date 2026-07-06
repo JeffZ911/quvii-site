@@ -162,7 +162,7 @@ This is usually caused by a combination of "Motion Sensitivity" being too low an
 The Chime Pro can reduce delays if your doorbell has a poor Wi-Fi signal (RSSI). It acts as a dedicated access point. However, if your home's main internet speed is slow or the delay is caused by cloud processing, the Chime Pro will not significantly improve notification speed.
 
 ### Can I use a Ring doorbell without a subscription in 2026?
-Yes, but functionality is severely limited. You will receive real-time motion alerts and can use Live View, but you will not have any recorded video history. In 2026, many of the "Smart Alerts" that reduce false positives are also locked behind the Ring Solo or Multi plans.
+Yes, but functionality is severely limited. You will receive real-time [motion alerts](https://quvii.com/blog/ring-doorbell-not-sending-motion-alerts-streaming-fix) and can use Live View, but you will not have any recorded video history. In 2026, many of the "Smart Alerts" that reduce false positives are also locked behind the Ring Solo or Multi plans.
 
 ### Is Wi-Fi 6 necessary for a security camera?
 While not strictly necessary, Wi-Fi 6 (found in the Wired Pro 3rd Gen) handles "congested" networks much better. If you have many smart home devices, Wi-Fi 6 reduces the "wait time" for the camera to talk to the router, which can shave a second or two off notification delivery.

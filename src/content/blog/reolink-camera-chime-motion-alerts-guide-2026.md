@@ -155,7 +155,7 @@ No, Reolink cameras generally do not require a subscription for basic [motion al
 For dedicated Reolink wireless chimes, you can adjust the volume (usually five levels) and select from ten different ringtones directly through the Reolink App. Navigate to your doorbell's settings and look for the "Chime Settings" or similar option to customize these preferences.
 
 ### What is the Reolink AI Box and how does it help with motion detection?
-The Reolink AI Box is an independent device designed to bring advanced local AI processing capabilities (like person/vehicle detection) to older Reolink cameras that do not have these features built-in. It acts as a hub, processing video streams locally to generate more intelligent and accurate motion alerts without needing cloud subscriptions.
+The Reolink AI Box is an independent device designed to bring advanced local AI processing capabilities (like person/vehicle detection) to older Reolink cameras that do not have these features built-in. It acts as a hub, processing video streams locally to generate more intelligent and accurate [motion alerts](https://quvii.com/blog/ring-doorbell-not-sending-motion-alerts-streaming-fix) without needing cloud subscriptions.
 
 ## Sources
 
