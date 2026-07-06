@@ -47,7 +47,7 @@ Specifically, momentary push events, such as `event_type:3103` (doorbell rings) 
 
 ### Widespread User Reports of Delays
 
-While the "silent channel" is a total failure for third-party tools, users of the official Eufy Security app have been reporting a different, but equally concerning, symptom: extreme latency. Since March and April 2026, a growing number of users on community platforms like <a href="https://www.amazon.com/s?k=r%2FEufyCam&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">r/EufyCam</a> have documented "very slow push messages." 
+While the "silent channel" is a total failure for third-party tools, users of the official Eufy Security app have been reporting a different, but equally concerning, symptom: extreme latency. Since March and April 2026, a growing number of users on community platforms like r/EufyCam have documented "very slow push messages." 
 
 These delays are not minor lags of a few seconds; reports indicate "huge delays" where notifications arrive up to 10 minutes after the event has occurred. This issue appears agnostic to hardware generations, affecting both older HomeBase 2 setups and the flagship HomeBase 3 (S380) ecosystems. Despite an iOS app update and a HomeBase 3 firmware rollout in January 2026 intended to improve stability, the notification lag has persisted and, in some cases, worsened throughout the first half of 2026.
 
@@ -76,7 +76,7 @@ Eufy’s market position is built on the "no monthly fee" promise. By offering l
 
 ### Privacy Implications of Notification Handling
 
-Privacy-conscious buyers should also note how Eufy handles these notifications. Per the <a href="https://www.amazon.com/s?k=Eufy+Privacy+Policy+%28updated+January+30%2C+2026%29&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Eufy Privacy Policy (updated January 30, 2026)</a>, when "Include Thumbnail" is selected for notifications, the camera captures a small image, encrypts it, and briefly hosts it on an AWS-based cloud server. This allows the image to be pushed to your phone's lock screen. 
+Privacy-conscious buyers should also note how Eufy handles these notifications. Per the Eufy Privacy Policy (updated January 30, 2026), when "Include Thumbnail" is selected for notifications, the camera captures a small image, encrypts it, and briefly hosts it on an AWS-based cloud server. This allows the image to be pushed to your phone's lock screen. 
 
 While Eufy states these thumbnails are automatically deleted after the notification is delivered, past controversies regarding Eufy’s transparency about cloud usage remain a point of discussion in the community. The current "silent push" and delay issues highlight that even a "local" system still relies heavily on cloud-based routing (via FCM and Eufy’s servers) to function as a modern security system.
 
@@ -142,7 +142,7 @@ If you are currently experiencing silent or delayed notifications, follow these 
 
 If these steps do not resolve the issue, the problem is likely server-side. 
 *   **Monitor Community Forums:** Keep an eye on the [Eufy Security GitHub](https://github.com/bropat/eufy-security-client) for updates on the third-party [push channel](https://quvii.com/blog/eufy-push-channel-silent-registration-succeeds-explained) fix.
-*   **Contact Support:** Reach out to <a href="https://www.amazon.com/s?k=Eufy+Customer+Support&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Eufy Customer Support</a> directly. Provide them with your HomeBase serial number and specific examples of delay times. The more users report this, the higher it is prioritized in their engineering backlog.
+*   **Contact Support:** Reach out to Eufy Customer Support directly. Provide them with your HomeBase serial number and specific examples of delay times. The more users report this, the higher it is prioritized in their engineering backlog.
 
 Quvii tracks these trade-offs across the security category, and the July 2026 notification issues serve as a reminder that "no monthly fee" systems still rely on a complex, cloud-dependent infrastructure that requires constant manufacturer maintenance.
 

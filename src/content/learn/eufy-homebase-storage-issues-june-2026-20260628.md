@@ -77,7 +77,7 @@ HomeBase 3 allows for expansion up to 16TB via a 2.5-inch SATA drive. However, n
 | **AI Processing** | Basic Motion/Human | BionicMind (Face/Pet/Vehicle) |
 | **Power Specs** | 12V/2A Adapter | 12V/2A Adapter |
 
-*Data sourced from <a href="https://www.amazon.com/s?k=eufy.com+product+specifications&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">eufy.com product specifications</a>.*
+*Data sourced from eufy.com product specifications.*
 
 ## How it works under the hood
 
@@ -163,8 +163,8 @@ First, ensure the drive is properly seated in the SATA bay. If the issue persist
 ![Further reading](/img/eufy-homebase-storage-issues-june-2026-20260628/inline-6.webp)
 
 
-*   **Official Eufy Support:** Visit the <a href="https://www.amazon.com/s?k=Eufy+HomeBase+3+FAQ&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Eufy HomeBase 3 FAQ</a> for the most recent compatibility lists and firmware release notes.
-*   **Community Discussion:** The <a href="https://www.amazon.com/s?k=r%2FEufyCam+subreddit&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">r/EufyCam subreddit</a> is the most active hub for real-time reports on firmware bugs and user-discovered workarounds for storage issues.
+*   **Official Eufy Support:** Visit the Eufy HomeBase 3 FAQ for the most recent compatibility lists and firmware release notes.
+*   **Community Discussion:** The r/EufyCam subreddit is the most active hub for real-time reports on firmware bugs and user-discovered workarounds for storage issues.
 *   **Technical Specifications:** Review the <a href="https://www.amazon.com/s?k=eufy+BionicMind+technology+overview&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">eufy BionicMind technology overview</a> to understand how local storage interacts with AI facial recognition.
 
 ## Sources

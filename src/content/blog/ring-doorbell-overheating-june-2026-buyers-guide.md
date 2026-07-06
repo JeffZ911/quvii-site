@@ -43,13 +43,13 @@ The onset of the 2026 summer season has brought a wave of technical queries rega
 
 ### Current User Experiences (June 2026)
 
-Recent user reports in June 2026 indicate that some Ring doorbell models, most notably the high-performance <a href="https://www.amazon.com/s?k=Ring+Video+Doorbell+Pro+2&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Ring Video Doorbell Pro 2</a>, are displaying "too hot" warnings. These reports are concentrated in regions experiencing early heatwaves, where devices mounted in direct, unshaded sunlight are experiencing temporary shutdowns. Users on platforms like <a href="https://www.amazon.com/s?k=r%2FRing&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">r/Ring</a> have noted that the device's faceplate can become hot to the touch, leading to a notification within the Ring app stating that the device must cool down before resuming normal operation. This often occurs during the hottest part of the afternoon when the sun is positioned directly opposite the front door.
+Recent user reports in June 2026 indicate that some Ring doorbell models, most notably the high-performance <a href="https://www.amazon.com/s?k=Ring+Video+Doorbell+Pro+2&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Ring Video Doorbell Pro 2</a>, are displaying "too hot" warnings. These reports are concentrated in regions experiencing early heatwaves, where devices mounted in direct, unshaded sunlight are experiencing temporary shutdowns. Users on platforms like r/Ring have noted that the device's faceplate can become hot to the touch, leading to a notification within the Ring app stating that the device must cool down before resuming normal operation. This often occurs during the hottest part of the afternoon when the sun is positioned directly opposite the front door.
 
 ### Ring's Official Stance on Temperature
 
 Ring's official operating temperature range for most devices, including the [Video Doorbell (2nd Generation)](https://ring.com/products/video-doorbell-v2) and the [Battery Doorbell Plus](https://ring.com/products/battery-doorbell-plus), is between -4°F and 122°F (-20°C and 50°C). However, the company notes that optimal performance is typically achieved around 75°F (25°C). 
 
-The company acknowledges that extreme temperatures can cause devices to overheat. When internal sensors detect temperatures exceeding safe thresholds, the device enters a "Device Cooldown" mode. According to <a href="https://www.amazon.com/s?k=Ring%E2%80%99s+Support+documentation&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Ring’s Support documentation</a>, this mode limits power-intensive features, reduces video quality, or initiates an automatic shutdown to prevent permanent hardware damage.
+The company acknowledges that extreme temperatures can cause devices to overheat. When internal sensors detect temperatures exceeding safe thresholds, the device enters a "Device Cooldown" mode. According to Ring’s Support documentation, this mode limits power-intensive features, reduces video quality, or initiates an automatic shutdown to prevent permanent hardware damage.
 
 ### Historical Context: The 2020 Recall
 
@@ -78,7 +78,7 @@ Overheating doesn't just turn the camera off; it degrades the user experience be
 
 ### Comparison of Ring Doorbell Models (2026 Specs)
 
-The following table compares the stated operating temperatures and power types for current Ring models, based on <a href="https://www.amazon.com/s?k=Ring%27s+2026+technical+specifications&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Ring's 2026 technical specifications</a>.
+The following table compares the stated operating temperatures and power types for current Ring models, based on Ring's 2026 technical specifications.
 
 | Model | Power Type | Resolution | Stated Operating Temp | Local Storage |
 | :--- | :--- | :--- | :--- | :--- |
@@ -106,7 +106,7 @@ The most significant impact is the loss of surveillance. When a device shuts dow
 
 ### Warranty and Reliability Concerns
 
-Owners of the recalled 2020 model (5UM5E5) should have already received notification, but those who purchased second-hand or never registered their device should verify their serial number on <a href="https://www.amazon.com/s?k=Ring%E2%80%99s+Recall+Page&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Ring’s Recall Page</a>. Using the wrong screws on this specific model remains a fire risk regardless of the external weather.
+Owners of the recalled 2020 model (5UM5E5) should have already received notification, but those who purchased second-hand or never registered their device should verify their serial number on Ring’s Recall Page. Using the wrong screws on this specific model remains a fire risk regardless of the external weather.
 
 ## What to do now
 

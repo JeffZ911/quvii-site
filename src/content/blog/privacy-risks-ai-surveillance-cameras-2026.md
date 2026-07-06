@@ -124,7 +124,7 @@ If you are concerned about the trajectory of AI surveillance, there are concrete
 ### Switching to Local-First Systems
 The most effective way to mitigate AI privacy risks is to move to a "Local-First" architecture. Brands like **Reolink** and **Eufy** (specifically when paired with the **HomeBase 3**) process person and vehicle detection on the device itself. 
 
-When a Reolink camera identifies a person, it doesn't ask a cloud server for help; it uses its internal processor. This allows you to block the camera's internet access entirely while still receiving alerts on your local Wi-Fi network. According to <a href="https://www.amazon.com/s?k=Reolink%E2%80%99s+official+specs&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Reolink’s official specs</a>, their "Smart Detection" features function entirely offline.
+When a Reolink camera identifies a person, it doesn't ask a cloud server for help; it uses its internal processor. This allows you to block the camera's internet access entirely while still receiving alerts on your local Wi-Fi network. According to Reolink’s official specs, their "Smart Detection" features function entirely offline.
 
 ### Hardening Your Network
 For those who must use cloud-connected cameras, "Network Isolation" is essential. By placing your cameras on a **VLAN (Virtual Local Area Network)**, you ensure that if a camera is compromised, the attacker cannot "jump" from the camera to your personal computer or phone. 

@@ -55,7 +55,7 @@ The current Arlo Essential lineup for 2026 includes:
 *   **Arlo Essential Pan & Tilt (2nd Generation):** An indoor-focused model with mechanical rotation.
 *   **Legacy Arlo Essential (1st Generation):** The 1080p VMC2030 models, which are increasingly seeing "End of Life" (EOL) policy shifts that affect firmware support.
 
-Reports from the <a href="https://www.amazon.com/s?k=Arlo+Community+forums&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Arlo Community forums</a> suggest that firmware versions starting with 1.090 or 2.0.x have been the primary focus of stability discussions in the first half of 2026.
+Reports from the Arlo Community forums suggest that firmware versions starting with 1.090 or 2.0.x have been the primary focus of stability discussions in the first half of 2026.
 
 ## Why it exists
 
@@ -93,7 +93,7 @@ For a firmware update to succeed, the camera must meet specific environmental cr
 3.  **Power Consistency:** For Essential cameras plugged into a solar panel or outdoor charging cable, the update logic ensures that power is steady before proceeding.
 
 ### Understanding LED Indicators
-During a firmware update, the small LED on the front of the Essential camera provides a status report. According to the <a href="https://www.amazon.com/s?k=Arlo+Essential+Support+documentation&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Arlo Essential Support documentation</a>, an alternating blue and amber blink indicates a firmware update is in progress. If the LED turns solid amber, it may indicate an update failure or a low-battery warning.
+During a firmware update, the small LED on the front of the Essential camera provides a status report. According to the Arlo Essential Support documentation, an alternating blue and amber blink indicates a firmware update is in progress. If the LED turns solid amber, it may indicate an update failure or a low-battery warning.
 
 ## Real-world implications
 
@@ -106,7 +106,7 @@ The impact of firmware updates in 2026 has been a mixed bag for the Arlo communi
 When an update works as intended, users see improved "Time to First Frame" (TTFF)—the speed at which the live view appears after clicking play in the app. Updates in early 2026 have also focused on HDR (High Dynamic Range) tuning for the Essential Outdoor 2K, helping to prevent "blown out" faces in direct sunlight.
 
 ### Potential Risks and Reported Failures (Early 2026)
-In the first half of 2026, threads on <a href="https://www.amazon.com/s?k=r%2FArlo&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">r/Arlo</a> have highlighted a recurring issue where cameras fail to reconnect to the Wi-Fi network after a firmware reboot. This "post-update offline" status often requires the user to physically climb a ladder, remove the camera, and perform a [factory reset](https://quvii.com/learn/arlo-pro-vmc4030-factory-reset-failure-july-2026) by holding the sync button for 15 seconds.
+In the first half of 2026, threads on r/Arlo have highlighted a recurring issue where cameras fail to reconnect to the Wi-Fi network after a firmware reboot. This "post-update offline" status often requires the user to physically climb a ladder, remove the camera, and perform a [factory reset](https://quvii.com/learn/arlo-pro-vmc4030-factory-reset-failure-july-2026) by holding the sync button for 15 seconds.
 
 ### Impact on Subscription Features and Device Longevity
 A point of contention in June 2026 remains the "feature paywall." Some users have noted that firmware updates have transitioned certain local processing tasks to the cloud, effectively requiring an <a href="https://www.amazon.com/s?k=Arlo+Secure+subscription&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Arlo Secure subscription</a> for features that were previously perceived as "on-device," such as basic person detection.

@@ -84,7 +84,7 @@ Before starting, gather the following tools. Using the wrong bit is the most com
 
 ### Step-by-Step Installation Process
 
-1.  **Positioning:** Hold the mounting plate (and the 15° wedge, if needed) against the brick at roughly 48 inches from the ground. This height is the industry standard for capturing faces and packages simultaneously (<a href="https://www.amazon.com/s?k=Reolink+Support&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Reolink Support</a>).
+1.  **Positioning:** Hold the mounting plate (and the 15° wedge, if needed) against the brick at roughly 48 inches from the ground. This height is the industry standard for capturing faces and packages simultaneously (Reolink Support).
 2.  **Marking:** Use a pencil or a thin marker to mark the screw holes. **Pro Tip:** If possible, align the holes with the mortar joints (the cement between bricks). Mortar is easier to drill and much easier to repair if you ever move the doorbell.
 3.  **Drilling:** Set your drill to "hammer" mode. Hold the drill perfectly perpendicular to the wall. Apply steady pressure but let the drill do the work. Drill approximately 1/4" deeper than the length of the anchor.
 4.  **Clearing the Hole:** Blow out the dust from the hole using a can of compressed air or a straw. Dust left in the hole can prevent the anchor from seating fully.
@@ -136,7 +136,7 @@ Unlike competitors like Ring or Arlo, Reolink does not "paywall" its core featur
 
 *   **Hardware:** Around $90 - $140 depending on the model.
 *   **Storage:** $15 - $25 for a high-end 256GB MicroSD card (High Endurance recommended).
-*   **Subscription:** $0. Reolink offers person/vehicle detection and local recording without a monthly fee (<a href="https://www.amazon.com/s?k=Reolink+Policy&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Reolink Policy</a>).
+*   **Subscription:** $0. Reolink offers person/vehicle detection and local recording without a monthly fee (Reolink Policy).
 *   **Tools:** If you don't own a hammer drill, expect to spend $60 - $100 for a mid-range DIY model or $20 for a 24-hour rental.
 *   **3-Year Total:** Approximately $130 - $250. Compare this to a Ring Doorbell ($100) + Ring Protect Basic ($5/mo), which totals $280 over three years.
 

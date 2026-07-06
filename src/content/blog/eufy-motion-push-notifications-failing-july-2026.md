@@ -186,20 +186,20 @@ Eufy emphasizes local storage and on-device AI processing to enhance privacy. Ho
 ## Sources
 
 *   [eufy.com] - <a href="https://www.amazon.com/s?k=How+to+Set+Up+Push+Notifications+on+eufySecurity+App&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">How to Set Up Push Notifications on eufySecurity App</a>
-*   [eufy.com] - <a href="https://www.amazon.com/s?k=Eufy+Official+Website&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Eufy Official Website</a>
-*   [eufy.com] - <a href="https://www.amazon.com/s?k=Eufy+Privacy+Policy&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Eufy Privacy Policy</a>
-*   [reddit.com] - <a href="https://www.amazon.com/s?k=r%2FEufyCam+-+HomeBase+3+Firmware+3.8.2.0+and+3.8.2.8+Issues&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">r/EufyCam - HomeBase 3 Firmware 3.8.2.0 and 3.8.2.8 Issues</a>
-*   [reddit.com] - <a href="https://www.amazon.com/s?k=r%2FEufyCam+-+Notification+Issues+April+2026&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">r/EufyCam - Notification Issues April 2026</a>
-*   [reddit.com] - <a href="https://www.amazon.com/s?k=r%2FEufyCam+-+Battery+Drain+after+Firmware+Update&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">r/EufyCam - Battery Drain after Firmware Update</a>
+*   [eufy.com] - Eufy Official Website
+*   [eufy.com] - Eufy Privacy Policy
+*   [reddit.com] - r/EufyCam - HomeBase 3 Firmware 3.8.2.0 and 3.8.2.8 Issues
+*   [reddit.com] - r/EufyCam - Notification Issues April 2026
+*   [reddit.com] - r/EufyCam - Battery Drain after Firmware Update
 *   [tomsguide.com] - Eufy security [camera privacy](https://quvii.com/learn/doorbell-camera-privacy-federal-agents-porch-visit) concerns
-*   [bgr.com] - <a href="https://www.amazon.com/s?k=Eufy+Security+Camera+Privacy+Issues&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Eufy Security [Camera Privacy](https://quvii.com/learn/doorbell-camera-privacy-federal-agents-porch-visit) Issues</a>
+*   [bgr.com] - Eufy Security [Camera Privacy](https://quvii.com/learn/doorbell-camera-privacy-federal-agents-porch-visit) Issues
 *   [ring.com] - <a href="https://www.amazon.com/s?k=Ring+Protect+Plans&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Ring Protect Plans</a>
 *   [reolink.com] - <a href="https://www.amazon.com/s?k=Reolink+Cloud+Plans&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Reolink Cloud Plans</a>
 *   [reolink.com] - <a href="https://www.amazon.com/s?k=Reolink+Argus+3+Pro+Product+Page&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">[Reolink Argus 3](https://quvii.com/learn/reolink-argus-3-pro-solar-charging-issues-2026) Pro Product Page</a>
 *   [tapo.com] - <a href="https://www.amazon.com/s?k=Tapo+C220+Product+Page&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Tapo C220 Product Page</a>
 *   [wyze.com] - <a href="https://www.amazon.com/s?k=Wyze+Cam+v3+Pro+Product+Page&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Wyze Cam v3 Pro Product Page</a>
 *   [safewise.com] - <a href="https://www.amazon.com/s?k=Eufy+vs+Ring%3A+Which+is+Better%3F&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Eufy vs Ring: Which is Better?</a>
-*   [zomgthehandyman.com] - <a href="https://www.amazon.com/s?k=Eufy+Troubleshooting+Guide&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Eufy Troubleshooting Guide</a>
+*   [zomgthehandyman.com] - Eufy Troubleshooting Guide
 *   [guardianalarm.com] - Local Storage Security Cameras
-*   [sipkosecurity.com] - <a href="https://www.amazon.com/s?k=Eufy+HomeBase+3+Specs&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Eufy HomeBase 3 Specs</a>
-*   [privacysmarthome.com] - <a href="https://www.amazon.com/s?k=Eufy+Privacy+Review&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Eufy Privacy Review</a>
+*   [sipkosecurity.com] - Eufy HomeBase 3 Specs
+*   [privacysmarthome.com] - Eufy Privacy Review

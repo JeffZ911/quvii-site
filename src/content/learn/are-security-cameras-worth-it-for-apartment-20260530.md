@@ -49,7 +49,7 @@ In a single-family home, a person walking up the driveway is an anomaly. In an a
 ### The Evolution of Renter-Friendly Hardware
 Historically, security cameras required drilling into studs and running coaxial or Ethernet cables—actions that would violate almost any standard lease. The "Renter's Dilemma" was the choice between security and keeping a security deposit.
 
-The industry responded with "no-drill" hardware. By 2026, high-bond adhesives (like high-strength adhesive strips) and over-the-door tension mounts have become the standard. According to <a href="https://www.amazon.com/s?k=Reolink%E2%80%99s+2026+product+documentation&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Reolink’s 2026 product documentation</a>, over 40% of their consumer-grade battery cameras are now sold with non-destructive mounting kits as standard accessories.
+The industry responded with "no-drill" hardware. By 2026, high-bond adhesives (like high-strength adhesive strips) and over-the-door tension mounts have become the standard. According to Reolink’s 2026 product documentation, over 40% of their consumer-grade battery cameras are now sold with non-destructive mounting kits as standard accessories.
 
 ## How it works under the hood
 The technical landscape of 2026 has solved the two biggest hurdles for apartment cameras: signal congestion and interoperability.
@@ -135,9 +135,9 @@ To understand how your data is handled, review the [2026 Transparency Reports](h
 
 ## Sources
 - Federal Bureau of Investigation (FBI) — Crime Data Explorer 2025/2026
-- <a href="https://www.amazon.com/s?k=Eufy+Security+%E2%80%94+BionicMind+AI+and+Local+Storage+Specs&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Eufy Security — BionicMind AI and Local Storage Specs</a>
-- <a href="https://www.amazon.com/s?k=Reolink+%E2%80%94+Argus+4+Pro+Official+Product+Page&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Reolink — [Argus 4](https://quvii.com/blog/reolink-argus-4-pro-firmware-update-issues) Pro Official Product Page</a>
-- <a href="https://www.amazon.com/s?k=TP-Link+Tapo+%E2%80%94+C120+Product+Specifications&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">TP-Link Tapo — C120 Product Specifications</a>
+- Eufy Security — BionicMind AI and Local Storage Specs
+- Reolink — [Argus 4](https://quvii.com/blog/reolink-argus-4-pro-firmware-update-issues) Pro Official Product Page
+- TP-Link Tapo — C120 Product Specifications
 - [The Verge — The State of Smart Home Encryption 2025](https://www.theverge.com/smart-home)
 - [FCC ID Search — Equipment Authorization Database](https://www.fcc.gov/oet/ea/fccid)
 - Matter Standard — Connectivity Standards Alliance (CSA) Matter 1.4/1.5 Updates

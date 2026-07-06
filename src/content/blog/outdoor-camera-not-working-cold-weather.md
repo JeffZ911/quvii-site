@@ -54,7 +54,7 @@ Data from the 2025-2026 winter cycle indicates that "integrated battery" models�
 | **Eufy S340 (Dual Cam)** | -4°F (-20°C) | 32°F (0°C) | Limits PTZ (Pan/Tilt) movement |
 | **Reolink RLC-823A (PoE)** | -14°F (-25°C) | N/A (No Battery) | Full functionality maintained |
 
-*Data sourced from <a href="https://www.amazon.com/s?k=Ring+Support&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Ring Support</a> and [Google Nest](https://quvii.com/learn/google-nest-cam-battery-drain-june-2026-update-20260614) Specifications.*
+*Data sourced from Ring Support and [Google Nest](https://quvii.com/learn/google-nest-cam-battery-drain-june-2026-update-20260614) Specifications.*
 
 ### The 'Trickle Charge' Myth: Why Wiring Your Battery Camera Doesn't Always Help
 A common misconception among owners of the Ring Spotlight Cam or Nest Cam is that keeping the device "plugged in" bypasses the battery. In reality, most of these consumer models still run the camera's primary circuitry off the battery, using the outdoor power cable only to "trickle charge" that battery. 

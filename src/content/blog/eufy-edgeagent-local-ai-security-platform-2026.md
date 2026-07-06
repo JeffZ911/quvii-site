@@ -102,7 +102,7 @@ Owners of these devices can expect enhanced BionicMind AI integration, allowing 
 Existing owners should anticipate a wave of firmware updates in late 2026. These updates are intended to optimize local storage handling and improve communication between older cameras and the new AI Stations. The goal is to create a cohesive ecosystem where an older S330 camera can trigger a response from a new Smart Security Shield.
 
 ### Addressing Recent Firmware Stability Concerns
-A significant point of caution for existing owners is the recent track record of Eufy's software updates. Between February and April 2026, a series of firmware rollouts for the HomeBase 3 and S330 cameras resulted in widespread reports of broken 24/7 recording and localized storage failures (as documented in <a href="https://www.amazon.com/s?k=r%2FEufyCam+community+threads&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">r/EufyCam community threads</a>). 
+A significant point of caution for existing owners is the recent track record of Eufy's software updates. Between February and April 2026, a series of firmware rollouts for the HomeBase 3 and S330 cameras resulted in widespread reports of broken 24/7 recording and localized storage failures (as documented in r/EufyCam community threads). 
 
 Many users reported that their cameras stopped saving clips to the internal hard drive or lost connectivity entirely after the updates. Given these recent stability issues, existing owners are advised to approach the EdgeAgent transition with caution. It is recommended to wait for community verification before applying the major platform updates that will accompany the H2 2026 launch.
 

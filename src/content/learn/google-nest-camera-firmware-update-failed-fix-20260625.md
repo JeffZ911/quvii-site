@@ -243,30 +243,30 @@ Yes, Google commits to providing automatic critical security updates for [Google
 
 *   Google Support - Nest Cam update failed
 *   Google Support - What the lights on your [Google Nest camera](https://quvii.com/blog/google-nest-camera-offline-june-2026-update) mean
-*   <a href="https://www.amazon.com/s?k=Google+Store+-+Nest+Cam+%28battery%29+specs&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Google Store - Nest Cam (battery) specs</a>
-*   <a href="https://www.amazon.com/s?k=Google+Store+-+Nest+Doorbell+%28battery%29+specs&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Google Store - Nest Doorbell (battery) specs</a>
+*   Google Store - Nest Cam (battery) specs
+*   Google Store - Nest Doorbell (battery) specs
 *   <a href="https://www.amazon.com/s?k=Google+Safety+Center+-+Security+updates+for+Nest+devices&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Google Safety Center - Security updates for Nest devices</a>
 *   <a href="https://www.amazon.com/s?k=YouTube+-+How+to+Fix+Nest+Cam+Offline+Issue+%282024%29&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">YouTube - How to Fix Nest Cam Offline Issue (2024)</a>
 *   <a href="https://www.amazon.com/s?k=YouTube+-+Nest+Camera+not+connecting+to+WiFi+-+Quick+fix&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">YouTube - Nest Camera not connecting to WiFi - Quick fix</a>
 *   <a href="https://www.amazon.com/s?k=YouTube+-+How+To+Fix+Google+Nest+Camera+Not+Recording&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">YouTube - How To Fix [Google Nest](https://quvii.com/blog/google-nest-cam-familiar-faces-june-2026-update) Camera Not Recording</a>
-*   <a href="https://www.amazon.com/s?k=Google+Store+-+Nest+Hub+Max+specs&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Google Store - Nest Hub Max specs</a>
+*   Google Store - Nest Hub Max specs
 *   Business Insider - Google Home app AI diagnostic tools
 *   Google Support - Nest Doorbell (battery) charging and battery life
-*   <a href="https://www.amazon.com/s?k=Google+Store+-+Nest+Cam+%28wired%29+specs&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Google Store - Nest Cam (wired) specs</a>
+*   Google Store - Nest Cam (wired) specs
 *   <a href="https://www.amazon.com/s?k=Google+Blog+-+How+Nest+devices+stay+secure&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Google Blog - How Nest devices stay secure</a>
-*   <a href="https://www.amazon.com/s?k=Reddit+-+Nest+Cam+%28battery%29+update+failure&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Reddit - Nest Cam (battery) update failure</a>
+*   Reddit - Nest Cam (battery) update failure
 *   Google Support - Internet speed requirements for Nest products
 *   Google Support - Factory reset Nest Cam
 *   <a href="https://www.amazon.com/s?k=Whizz-Experts+-+Google+Nest+Camera+light+meanings&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Whizz-Experts - [Google Nest Camera](https://quvii.com/blog/google-nest-camera-offline-june-2026-update) light meanings</a>
 *   Google Support - Restart Nest Cam (battery)
-*   <a href="https://www.amazon.com/s?k=Reddit+-+Nest+Doorbell+%28battery%29+issues+after+update&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Reddit - Nest Doorbell (battery) [issues after](https://quvii.com/blog/tapo-c425-battery-drain-june-update-impact) update</a>
-*   <a href="https://www.amazon.com/s?k=Reddit+-+Nest+Cam+%28wired%29+night+vision+issues+after+update&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Reddit - Nest Cam (wired) night vision [issues after](https://quvii.com/blog/tapo-c425-battery-drain-june-update-impact) update</a>
-*   <a href="https://www.amazon.com/s?k=Reddit+-+Nest+Cam+%28battery%29+battery+drain+after+update&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Reddit - Nest Cam (battery) [battery drain](https://quvii.com/blog/eufy-security-camera-battery-drain-june-2026) after update</a>
-*   <a href="https://www.amazon.com/s?k=Google+Store+-+Nest+Doorbell+%28wired%2C+2nd+gen%29+specs&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Google Store - Nest Doorbell (wired, 2nd gen) specs</a>
+*   Reddit - Nest Doorbell (battery) [issues after](https://quvii.com/blog/tapo-c425-battery-drain-june-update-impact) update
+*   Reddit - Nest Cam (wired) night vision [issues after](https://quvii.com/blog/tapo-c425-battery-drain-june-update-impact) update
+*   Reddit - Nest Cam (battery) [battery drain](https://quvii.com/blog/eufy-security-camera-battery-drain-june-2026) after update
+*   Google Store - Nest Doorbell (wired, 2nd gen) specs
 *   <a href="https://www.amazon.com/s?k=YouTube+-+Nest+Cam+%28battery%29+firmware+update+issues&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">YouTube - Nest Cam (battery) [firmware update issues](https://quvii.com/blog/eufy-camera-firmware-update-issues-june-2026)</a>
-*   <a href="https://www.amazon.com/s?k=Reddit+-+Nest+Cam+%28battery%29+connectivity+issues+after+update&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Reddit - Nest Cam (battery) connectivity [issues after](https://quvii.com/blog/tapo-c425-battery-drain-june-update-impact) update</a>
+*   Reddit - Nest Cam (battery) connectivity [issues after](https://quvii.com/blog/tapo-c425-battery-drain-june-update-impact) update
 *   CNET - Nest Doorbell (wired, 2nd gen) review
 *   <a href="https://www.amazon.com/s?k=Google+Store+-+Nest+Aware+pricing&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Google Store - Nest Aware pricing</a>
 *   <a href="https://www.amazon.com/s?k=Engadget+-+Nest+Hub+Max+review&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Engadget - Nest Hub Max review</a>
-*   <a href="https://www.amazon.com/s?k=Google+Nest+Community+-+Camera+offline+after+update&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">[Google Nest Community](https://quvii.com/blog/google-nest-community-migration-outage-fixes-2026-20260625) - [Camera offline](https://quvii.com/learn/blink-camera-offline-troubleshooting-june-2026) after update</a>
+*   [Google Nest Community](https://quvii.com/blog/google-nest-community-migration-outage-fixes-2026-20260625) - [Camera offline](https://quvii.com/learn/blink-camera-offline-troubleshooting-june-2026) after update
 *   <a href="https://www.amazon.com/s?k=Thurrott+-+Google+Nest+Cam+%28wired%29+review&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Thurrott - [Google Nest Cam](https://quvii.com/blog/google-nest-cam-familiar-faces-june-2026-update) (wired) review</a>

@@ -43,9 +43,9 @@ The Tapo C210 remains a staple in the entry-level indoor security market due to 
 
 The TP-Link Tapo C210 is a 2K (3MP) indoor security camera designed to provide high-definition monitoring with a mechanical pan-and-tilt base. Its standout feature is "Motion Tracking," which differs from standard "Motion Detection." While detection simply alerts you that something moved, tracking instructs the camera’s internal motors to physically follow the subject, keeping them centered in the frame as they walk across a room.
 
-According to <a href="https://www.amazon.com/s?k=TP-Link%E2%80%99s+official+product+specifications&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">TP-Link’s official product specifications</a>, the C210 offers a 360-degree horizontal range and a 114-degree vertical range. When the motion tracking feature is functioning correctly, it acts as a virtual security guard, pivoting the lens to ensure a subject cannot simply "walk out of frame." However, software is the conductor of this mechanical orchestra. 
+According to TP-Link’s official product specifications, the C210 offers a 360-degree horizontal range and a 114-degree vertical range. When the motion tracking feature is functioning correctly, it acts as a virtual security guard, pivoting the lens to ensure a subject cannot simply "walk out of frame." However, software is the conductor of this mechanical orchestra. 
 
-Firmware version 1.3.10, which rolled out to various hardware revisions of the C210, has been identified by users in community forums like <a href="https://www.amazon.com/s?k=r%2FTapo&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">r/Tapo</a> as a version where tracking reliability began to fluctuate. Specifically, users reported "tracking fatigue," where the camera would follow a subject halfway across a room and then suddenly snap back to its home position or stop moving entirely. In other instances, the toggle for "Motion Tracking" in the Tapo app would spontaneously switch to the "Off" position after a reboot or a specific detection event.
+Firmware version 1.3.10, which rolled out to various hardware revisions of the C210, has been identified by users in community forums like r/Tapo as a version where tracking reliability began to fluctuate. Specifically, users reported "tracking fatigue," where the camera would follow a subject halfway across a room and then suddenly snap back to its home position or stop moving entirely. In other instances, the toggle for "Motion Tracking" in the Tapo app would spontaneously switch to the "Off" position after a reboot or a specific detection event.
 
 ### The Role of Firmware in Camera Performance
 Firmware is the permanent software programmed into the camera's read-only memory. It controls everything from the image sensor's exposure levels to the precise voltage sent to the pan-tilt motors. In a device like the C210, the firmware must process visual data in milliseconds to decide where the motor should move next. If the firmware logic is flawed—as seen in some iterations of the 1.3.x branch—the camera may suffer from "hunting," where it jitters back and forth, or "stalling," where the tracking algorithm crashes and requires a manual reset of the feature within the app.
@@ -180,10 +180,10 @@ This is usually a calibration issue. In the Tapo app, there is an option for "Pa
 ![Further reading](/img/tapo-c210-firmware-motion-tracking-bug-fix/inline-6.webp)
 
 
-*   <a href="https://www.amazon.com/s?k=TP-Link+Tapo+Privacy+Policy+and+Data+Handling&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">TP-Link Tapo Privacy Policy and Data Handling</a>
+*   TP-Link Tapo Privacy Policy and Data Handling
 *   Optimizing Motion Detection Activity Zones
 *   Guide to High-Endurance MicroSD Cards for Security Cameras
-*   <a href="https://www.amazon.com/s?k=Troubleshooting+Tapo+Camera+Connectivity+Issues&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Troubleshooting Tapo Camera Connectivity Issues</a>
+*   Troubleshooting Tapo Camera Connectivity Issues
 
 ## Sources
 

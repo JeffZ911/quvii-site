@@ -59,7 +59,7 @@ The issue is not limited to a single Ring device but rather impacts any Ring har
 | **Floodlight Cam Wired Plus** | 1080p HD | 2.4GHz Wi-Fi | Hardwired |
 | **Video Doorbell 4** | 1080p HD | Dual-Band Wi-Fi | Battery/Hardwired |
 
-*Data sourced from <a href="https://www.amazon.com/s?k=Ring.com+Product+Specs&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Ring.com Product Specs</a> and [RTINGS Camera Reviews](https://www.rtings.com).*
+*Data sourced from Ring.com Product Specs and [RTINGS Camera Reviews](https://www.rtings.com).*
 
 ## Why it exists
 

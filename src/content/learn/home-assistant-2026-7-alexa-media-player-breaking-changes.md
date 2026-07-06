@@ -76,7 +76,7 @@ Additionally, Home Assistant OS 18.0, which often accompanies this core update, 
 | **Browser Support** | Requires plugin/buffer | Native (No buffer) |
 | **HA Version** | 2024.x and older | 2026.7.0+ Recommended |
 
-*Data cited from <a href="https://www.amazon.com/s?k=Amazon+Developer+SnapshotProvider+API&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Amazon Developer SnapshotProvider API</a> and [Home Assistant Architecture Discussion](https://github.com/home-assistant/architecture).*
+*Data cited from Amazon Developer SnapshotProvider API and [Home Assistant Architecture Discussion](https://github.com/home-assistant/architecture).*
 
 ## How it works under the hood
 

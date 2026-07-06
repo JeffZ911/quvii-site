@@ -40,14 +40,14 @@ As of June 2026, Eufy users have reported significant firmware update issues, in
 The first six months of 2026 have been uncharacteristically turbulent for the Eufy ecosystem. While Eufy has historically been praised for its "no monthly fee" local storage model, the software delivery pipeline has recently introduced bugs that impact the hardware's core utility. These issues are not isolated to a single product but span the flagship HomeBase 3 (S380) and several standalone SoloCam models.
 
 ### HomeBase 3 Connectivity and Storage Failures
-The most widespread disruption stemmed from the May 2026 rollout of **HomeBase 3 firmware version 3.8.2.8**. According to community reports on <a href="https://www.amazon.com/s?k=r%2FEufyCam&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">r/EufyCam</a>, this update caused the central hub to enter a "reboot loop" or lose its handshake with connected eufyCam 3 (S330) and S3 Pro units. When the HomeBase goes offline, the entire security perimeter is effectively neutralized, as these cameras rely on the hub for AI processing and storage.
+The most widespread disruption stemmed from the May 2026 rollout of **HomeBase 3 firmware version 3.8.2.8**. According to community reports on r/EufyCam, this update caused the central hub to enter a "reboot loop" or lose its handshake with connected eufyCam 3 (S330) and S3 Pro units. When the HomeBase goes offline, the entire security perimeter is effectively neutralized, as these cameras rely on the hub for AI processing and storage.
 
 Furthermore, an earlier April 2026 update (**v3.8.2.0**) introduced a critical bug regarding internal storage management. Users reported that the HomeBase would "forget" expanded hard drives (SATA SSDs/HDDs). This led to an immediate loss of 24/7 continuous recording—a feature many users specifically buy the HomeBase 3 to enable. In some cases, the system required a full reformat of the drive to regain recognition, resulting in the total loss of historical security footage.
 
 ### SoloCam S340 Wi-Fi Loss and Bricking Concerns
 The [SoloCam S340](https://quvii.com/learn/reolink-argus-4-pro-vs-eufy-solocam-s340), a popular dual-lens solar camera, faced a specific crisis following a February 2026 update. A segment of the user base reported that their units stopped connecting to Wi-Fi entirely after the firmware was applied. Because the S340 is a standalone Wi-Fi device, the loss of connectivity prevents the camera from receiving a "fix" update over the air (OTA). 
 
-On the <a href="https://www.amazon.com/s?k=Eufy+Support+Forums&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Eufy Support Forums</a>, users described these units as "bricked," as there is no external USB-based firmware flashing utility available to the public. While Eufy support has reportedly replaced some units under warranty, owners outside the warranty window have found themselves with expensive, non-functional hardware.
+On the Eufy Support Forums, users described these units as "bricked," as there is no external USB-based firmware flashing utility available to the public. While Eufy support has reportedly replaced some units under warranty, owners outside the warranty window have found themselves with expensive, non-functional hardware.
 
 ### EufyCam Battery Drain After Updates
 Battery longevity is a primary selling point for the EufyCam S3 Pro and [SoloCam S340](https://quvii.com/learn/reolink-argus-4-pro-vs-eufy-solocam-s340), often advertised with 365-day or "forever" solar power. However, **HomeBase 3 firmware v3.7.6.8** (March 2026) appears to have altered the "heartbeat" interval between the hub and the cameras. This caused the cameras to "wake up" more frequently to check for a signal, leading to catastrophic [battery drain](https://quvii.com/blog/eufy-security-camera-battery-drain-june-2026). Some users reported their S3 Pro cameras dropping from 100% to 0% in less than a week, even with [direct sunlight](https://quvii.com/learn/google-nest-cam-battery-overheating-direct-sunlight) on the integrated solar panels.
@@ -136,7 +136,7 @@ If your system is currently exhibiting offline behavior or [battery drain](https
 ### Long-Term Strategies for Firmware Management
 To minimize future disruptions, treat your security system like a critical IT infrastructure:
 *   **Staggered Deployment:** If you have multiple HomeBases, update one first and wait a week before updating the others.
-*   **Community Monitoring:** Before manually clicking "Update" in the app, check the <a href="https://www.amazon.com/s?k=Eufy+subreddit&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Eufy subreddit</a> to see if other users are reporting "Day 1" bugs.
+*   **Community Monitoring:** Before manually clicking "Update" in the app, check the Eufy subreddit to see if other users are reporting "Day 1" bugs.
 *   **Backup Critical Footage:** Do not rely solely on the HomeBase internal drive. Use the "Manual Download" feature in the app to save important clips to your phone or a cloud service (like Dropbox or Google Photos) immediately.
 
 ### When to Consider Alternatives

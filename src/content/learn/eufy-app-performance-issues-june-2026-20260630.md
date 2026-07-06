@@ -65,7 +65,7 @@ On mobile devices running iOS 26 and Android 16, the "spinning wheel of death" h
 The degradation of the Eufy experience is the result of "ecosystem bloat" and a shift in how the app handles local-to-cloud communication. While Eufy markets itself as a local storage brand, the software infrastructure has become increasingly dependent on external handshakes.
 
 ### The 'Eufy Life' Integration Factor
-A major contributor to app sluggishness is the integration of the "Eufy Life" and "Eufy Clean" ecosystems into the primary [Security app](https://quvii.com/blog/eufy-security-app-4-8-0-login-issues-fix). In June 2026, the [Eufy Security app](https://quvii.com/blog/eufy-security-app-4-8-0-login-issues-fix) v6.0.x is no longer just a camera viewer; it now manages robotic vacuums, smart scales, and health trackers. This integration has increased the app's background resource consumption significantly. According to community analysis on <a href="https://www.amazon.com/s?k=r%2FEufyCam&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">r/EufyCam</a>, the app now loads multiple trackers and ad-related scripts for Anker’s other product lines before it even attempts to initiate a local camera stream.
+A major contributor to app sluggishness is the integration of the "Eufy Life" and "Eufy Clean" ecosystems into the primary [Security app](https://quvii.com/blog/eufy-security-app-4-8-0-login-issues-fix). In June 2026, the [Eufy Security app](https://quvii.com/blog/eufy-security-app-4-8-0-login-issues-fix) v6.0.x is no longer just a camera viewer; it now manages robotic vacuums, smart scales, and health trackers. This integration has increased the app's background resource consumption significantly. According to community analysis on r/EufyCam, the app now loads multiple trackers and ad-related scripts for Anker’s other product lines before it even attempts to initiate a local camera stream.
 
 ### Push Notification Server Architecture
 Eufy’s transition to a hybrid cloud model for "Rich Notifications" (which include a thumbnail of the event) means that even if your video is stored locally on a HomeBase 3, the alert must follow a complex path. The local event is detected, a thumbnail is uploaded to Eufy’s AWS-hosted servers, and then the server pushes the alert to Apple’s or Google’s notification service. In June 2026, bottlenecks at the Eufy server-side handshake have caused "Step 3" of this process to lag, resulting in notifications arriving long after the person has left the camera's field of view.
@@ -175,8 +175,8 @@ This is a known issue with firmware v3.8.2.0. To resolve it, try a soft reboot v
 While Eufy has not issued a formal recall, their support forums indicate that a "stability patch" (likely v3.8.2.1 or higher) is in development to address the server-side handshake bottlenecks and the HomeBase 3 indexing bugs.
 
 ## Sources
-- <a href="https://www.amazon.com/s?k=Eufy+Support+%E2%80%94+HomeBase+3+%28S380%29+Specifications&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Eufy Support — HomeBase 3 (S380) Specifications</a>
-- <a href="https://www.amazon.com/s?k=Eufy+Privacy+Policy+%E2%80%94+2026+Update&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Eufy Privacy Policy — 2026 Update</a>
+- Eufy Support — HomeBase 3 (S380) Specifications
+- Eufy Privacy Policy — 2026 Update
 - RTINGS — Eufy SoloCam S340 Review & Testing
 - [FCC ID Filing — Anker/Eufy HomeBase 3 Wireless Frequencies](https://apps.fcc.gov/oetcf/eas/reports/ViewExhibitReport.cfm?mode=Exhibits&RequestTimeout=500&calledFromFrame=N&application_id=123456&fcc_id=2AOKB-T8030) (Note: Placeholder ID for illustrative purposes in 2026 context)
 - [The Verge — The State of Subscription-Free Security 2026](https://www.theverge.com/reviews)

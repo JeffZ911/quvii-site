@@ -61,7 +61,7 @@ The following table covers the standard LED behaviors for the 2026 lineup, inclu
 | **[Argus 4 Pro](https://quvii.com/blog/reolink-argus-4-pro-firmware-update-issues)** | Flashing Blue/Red | [Firmware update](https://quvii.com/blog/reolink-argus-4-pro-firmware-update-issues) in progress (Do not power off) |
 | **[Argus 4](https://quvii.com/blog/reolink-argus-4-pro-firmware-update-issues) Pro** | No Light | Battery exhausted or LED disabled in settings |
 
-<a href="https://www.amazon.com/s?k=Source%3A+Reolink+Support+-+LED+Indicator+Status+Guide&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Source: Reolink Support - LED Indicator Status Guide</a>
+Source: Reolink Support - LED Indicator Status Guide
 
 ## Why it exists
 
@@ -100,7 +100,7 @@ If the P2P relay server is throttled or if your ISP is blocking UDP packets, the
 ### Local Subnets and the Reolink Home Hub
 The 2026 Reolink Home Hub Pro introduces a new architectural layer. It creates a private, isolated Wi-Fi subnet (typically in the 172.16.25.xx range) specifically for the cameras. This is designed to reduce congestion on your main home Wi-Fi. However, if the Home Hub itself loses its WAN connection to your main router, every camera attached to it will simultaneously report as "offline," even if the cameras themselves are fully powered and communicating with the Hub.
 
-<a href="https://www.amazon.com/s?k=Source%3A+Reolink+Home+Hub+Product+Specifications&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Source: Reolink Home Hub Product Specifications</a>
+Source: Reolink Home Hub Product Specifications
 
 ## Real-world implications
 

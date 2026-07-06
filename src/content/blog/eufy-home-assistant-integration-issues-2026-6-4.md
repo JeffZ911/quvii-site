@@ -149,5 +149,5 @@ The "Indoor Cam" series (C24, C120, C220) tend to be more stable because they su
 - [Home Assistant](https://quvii.com/blog/eufy-home-assistant-integration-issues-july-2026) Official Integrations List — https://www.home-assistant.io/integrations/
 - [Eufy Security GitHub Integration Repository — https://github.com/fuatakgun/eufy_security](https://github.com/fuatakgun/eufy_security)
 - The Verge: Eufy's Unencrypted Stream Controversy
-- <a href="https://www.amazon.com/s?k=Eufy+Official+Support%3A+Using+RTSP+with+Eufy+%E2%80%94+https%3A%2F%2Fsupport.eufy.com%2Fs%2Farticle%2FUsing-RTSP-on-eufySecurity-Devices&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Eufy Official Support: Using RTSP with Eufy — </a>
+- Eufy Official Support: Using RTSP with Eufy — 
 - Reddit r/HomeAssistant Community Discussions — https://www.reddit.com/r/homeassistant/

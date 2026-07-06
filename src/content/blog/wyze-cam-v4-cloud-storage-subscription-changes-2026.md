@@ -149,8 +149,8 @@ VerifiedView is a security feature introduced in early 2026. It embeds a hashed 
 Recent updates in firmware 4.52.9.6119 have tightened API restrictions to support the new subscription tiers. While TinyCam Pro still functions, many users report that "Webview" must be enabled in the Wyze account for the stream to remain stable, and some third-party integrations may experience more frequent timeouts than in previous years.
 
 ## Sources
-- <a href="https://www.amazon.com/s?k=Wyze+Official%3A+Service+Plans+and+Pricing+2026&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Wyze Official: Service Plans and Pricing 2026</a>
-- <a href="https://www.amazon.com/s?k=FCC+ID+2AUIUWYZEC4%3A+Wyze+Cam+v4+Radio+Frequency+Report&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">FCC ID 2AUIUWYZEC4: Wyze [Cam v4](https://quvii.com/learn/wyze-cam-v4-rtsp-support-missing-update) Radio Frequency Report</a>
+- Wyze Official: Service Plans and Pricing 2026
+- FCC ID 2AUIUWYZEC4: Wyze [Cam v4](https://quvii.com/learn/wyze-cam-v4-rtsp-support-missing-update) Radio Frequency Report
 - RTINGS: [Wyze Cam v4](https://quvii.com/learn/wyze-cam-v4-rtsp-support-missing-update) Review & Test Results
 - The Verge: Wyze Overhauls Subscription Tiers Amid Rising Costs
-- <a href="https://www.amazon.com/s?k=Wyze+Support%3A+MicroSD+Card+Compatibility+and+Sizes&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Wyze Support: MicroSD Card Compatibility and Sizes</a>
+- Wyze Support: MicroSD Card Compatibility and Sizes

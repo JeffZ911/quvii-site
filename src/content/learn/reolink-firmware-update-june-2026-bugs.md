@@ -96,7 +96,7 @@ After the progress bar reaches 100%, the camera will perform a warm boot. In som
 The June 2026 update cycle has highlighted both the benefits and the potential pitfalls of the firmware ecosystem. 
 
 ### Potential Bugs and User Reports (June 2026)
-In June 2026, Reolink released firmware **v3.0.0.6460** for its wired doorbell series. The release notes explicitly mention "fixed some known bugs" and the addition of video recording encryption. However, community discussions on platforms like <a href="https://www.amazon.com/s?k=r%2Freolinkcam&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">r/reolinkcam</a> have noted that some users experienced issues with the Reolink Windows App following recent updates, including UI flickering or cameras appearing "Offline" despite being accessible on mobile devices.
+In June 2026, Reolink released firmware **v3.0.0.6460** for its wired doorbell series. The release notes explicitly mention "fixed some known bugs" and the addition of video recording encryption. However, community discussions on platforms like r/reolinkcam have noted that some users experienced issues with the Reolink Windows App following recent updates, including UI flickering or cameras appearing "Offline" despite being accessible on mobile devices.
 
 Furthermore, issues reported in May 2026 regarding the **Home Hub Pro** firmware suggest that centralized management devices can sometimes struggle with synchronization after a batch update of connected cameras. If you are using a Home Hub or NVR, it is often safer to update the recorder's firmware *before* updating the individual cameras.
 
@@ -165,10 +165,10 @@ Check the "Hardware Version" in your device settings. Reolink's firmware is hard
 ![Further reading](/img/reolink-firmware-update-june-2026-bugs/inline-6.webp)
 
 
-*   Consult the <a href="https://www.amazon.com/s?k=Official+Reolink+Download+Center&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Official Reolink Download Center</a> for the latest firmware versions specific to your camera model and hardware version.
-*   Visit the <a href="https://www.amazon.com/s?k=Reolink+Support+Page&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Reolink Support Page</a> for detailed guides on manual firmware installation and troubleshooting.
-*   Engage with the <a href="https://www.amazon.com/s?k=Reolink+Community+on+Reddit&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Reolink Community on Reddit</a> to see user-reported issues and community-driven solutions for the June 2026 releases.
-*   Review <a href="https://www.amazon.com/s?k=Reolink%27s+Privacy+Policy&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Reolink's Privacy Policy</a> to understand how the new video encryption features protect your data.
+*   Consult the Official Reolink Download Center for the latest firmware versions specific to your camera model and hardware version.
+*   Visit the Reolink Support Page for detailed guides on manual firmware installation and troubleshooting.
+*   Engage with the Reolink Community on Reddit to see user-reported issues and community-driven solutions for the June 2026 releases.
+*   Review Reolink's Privacy Policy to understand how the new video encryption features protect your data.
 
 *Quvii tracks these trade-offs across the security camera category to help users navigate the complexities of local vs. cloud-based security ecosystems.*
 

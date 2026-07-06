@@ -37,7 +37,7 @@ The frustration of a video doorbell that allows you to see a visitor but prevent
 *Related: [Reolink Camera Chime & Motion Alerts: 2026 Setup Guide](/blog/reolink-camera-chime-motion-alerts-guide-2026) · [Ring Camera Motion & Streaming Issues: What Buyers Need to Know (July ](/blog/ring-camera-motion-streaming-issues-july-2026) · [Eufy Security Motion Push Notifications: Understanding Recent Failures](/blog/eufy-motion-push-notifications-failing-july-2026)*
 
 
-For many users, the Reolink Video Doorbell (available in both PoE and WiFi versions) is a top-tier choice due to its 2K+ resolution and lack of mandatory subscription fees. However, community reports on platforms like <a href="https://www.amazon.com/s?k=r%2Freolink&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">r/reolink</a> and GitHub indicate that two-way audio is often the most fragile feature in the stack.
+For many users, the Reolink Video Doorbell (available in both PoE and WiFi versions) is a top-tier choice due to its 2K+ resolution and lack of mandatory subscription fees. However, community reports on platforms like r/reolink and GitHub indicate that two-way audio is often the most fragile feature in the stack.
 
 ### Firmware Update Complications
 Firmware is the "brain" of the camera, and Reolink frequently pushes updates to improve security and feature sets. However, these updates sometimes introduce regressions. Users have noted that specific versions, such as v3.0.0.3215, occasionally altered how the camera handles audio streams. A common culprit is a shift in the default audio codec—for instance, moving from PCMA to PCMU (G.711u). While the official Reolink app is designed to adapt to these changes, third-party software that "scrapes" or "restreams" the doorbell's feed often breaks when the codec changes unexpectedly.
@@ -81,7 +81,7 @@ The Reolink doorbell is often marketed as a "plug-and-play" solution, but the re
 | **Protocols** | RTSP, ONVIF, HTTPS | Proprietary (mostly) | RTSP, ONVIF |
 | **Power Type** | Wired (PoE or 24V AC) | Battery or Wired | Wired (16-24V AC) |
 
-*Data sourced from <a href="https://www.amazon.com/s?k=Reolink+Spec+Sheets&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Reolink Spec Sheets</a> and <a href="https://www.amazon.com/s?k=Eufy+Support&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Eufy Support</a>.*
+*Data sourced from Reolink Spec Sheets and Eufy Support.*
 
 ## Impact on existing owners
 
@@ -162,6 +162,6 @@ Yes, the Reolink Client for Windows and macOS supports two-way talk. However, yo
 ## Sources
 - Reolink Official Support — [Video Doorbell WiFi Specifications](https://reolink.com/product/reolink-video-doorbell-wifi/#specifications)
 - Reolink Download Center — Latest Firmware Updates
-- Home Assistant Community — <a href="https://www.amazon.com/s?k=Reolink+Integration+Troubleshooting&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Reolink Integration Troubleshooting</a>
+- Home Assistant Community — Reolink Integration Troubleshooting
 - GitHub — [go2rtc Project Page (Audio Backchannel)](https://github.com/AlexxIT/go2rtc)
-- Reddit — <a href="https://www.amazon.com/s?k=r%2Freolink+community+discussions+on+doorbell+audio&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">r/reolink community discussions on doorbell audio</a>
+- Reddit — r/reolink community discussions on doorbell audio

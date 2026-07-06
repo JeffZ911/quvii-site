@@ -45,7 +45,7 @@ Eufy has stabilized its cloud storage tiers for 2026 into two primary buckets: t
 
 The HomeBase Professional S1 is Eufy's first high-end bridge designed to compete with "prosumer" NVRs. Unlike the HomeBase 3 (S380), the S1 includes an integrated 4G LTE radio for cellular backup. To activate this backup—and to utilize the multi-path connectivity that prevents burglars from using Wi-Fi jammers—users must subscribe to a paid tier. 
 
-According to <a href="https://www.amazon.com/s?k=Eufy%E2%80%99s+updated+2026+service+terms&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Eufy’s updated 2026 service terms</a>, the S1 is marketed as "subscription-ready." While it still supports a 2.5-inch SATA drive for local video storage, the advanced logic that manages cross-camera tracking and cellular failover is gated behind the new Basic Plan. This represents the first time Eufy has "paywalled" hardware-level features, a move that has sparked significant debate in the r/HomeSecurity community.
+According to Eufy’s updated 2026 service terms, the S1 is marketed as "subscription-ready." While it still supports a 2.5-inch SATA drive for local video storage, the advanced logic that manages cross-camera tracking and cellular failover is gated behind the new Basic Plan. This represents the first time Eufy has "paywalled" hardware-level features, a move that has sparked significant debate in the r/HomeSecurity community.
 
 ### AI Feature Creep: The GPT Assistant and 3D Modeling
 

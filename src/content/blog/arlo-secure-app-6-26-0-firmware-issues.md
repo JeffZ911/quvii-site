@@ -37,7 +37,7 @@ When a security system "silently disarms" itself during a routine software updat
 *Related: [Wyze Cam v4 Cloud Storage: 2026 Subscription Changes & Costs](/blog/wyze-cam-v4-cloud-storage-subscription-changes-2026) · [Google Nest Community Forum Deletion June 30: Save Your Data](/blog/google-nest-community-forum-deletion-june-30) · [Wyze Solar Cam Pan Recall 2026: How to Check Your Model](/blog/how-to-check-wyze-camera-recall-status-2026)*
 
 
-In late April 2026, Arlo released version 6.26.0 of its Secure App, intended to streamline the "Routines" interface and improve the handoff between Wi-Fi and Cellular data. Instead, the update triggered a series of cascading failures across the Arlo ecosystem, specifically affecting the Pro 5S, Ultra 2, and the Essential Gen 2 product lines. Within 48 hours of the release, community forums like <a href="https://www.amazon.com/s?k=r%2FArlo&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">r/Arlo</a> and the <a href="https://www.amazon.com/s?k=Arlo+Official+Community&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Arlo Official Community</a> were flooded with reports of cameras failing to record motion and SmartHubs dropping offline entirely.
+In late April 2026, Arlo released version 6.26.0 of its Secure App, intended to streamline the "Routines" interface and improve the handoff between Wi-Fi and Cellular data. Instead, the update triggered a series of cascading failures across the Arlo ecosystem, specifically affecting the Pro 5S, Ultra 2, and the Essential Gen 2 product lines. Within 48 hours of the release, community forums like r/Arlo and the Arlo Official Community were flooded with reports of cameras failing to record motion and SmartHubs dropping offline entirely.
 
 ### The 'Arm Away' Migration Failure
 The most critical failure involved a backend logic change. Arlo attempted to migrate users from the legacy "Arm All Devices" toggle to a new, standardized "Arm Away" state. However, the migration script failed to carry over the "Active" status for millions of users. Consequently, many systems defaulted to a "Standby" or "Disarmed" state without sending a [push notification](https://quvii.com/blog/eufy-security-notification-failure-june-2026) to the user. Homeowners went to sleep believing their perimeter was secured, only to find the next morning that no events had been recorded because the system was technically "Off."
@@ -55,10 +55,10 @@ Beyond the arming bug, the 6.26.[0 update](https://quvii.com/blog/eufy-security-
 | **Arlo Video Doorbell** | 2K | 3:00 AM Update Reboot Loop | Direct Wi-Fi |
 | **SmartHub VMB5000** | N/A | Solid Amber Light (Firmware Hang) | Ethernet to Router |
 
-*Data synthesized from <a href="https://www.amazon.com/s?k=Arlo+Support+Documentation&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Arlo Support Documentation</a> and user-reported telemetry.*
+*Data synthesized from Arlo Support Documentation and user-reported telemetry.*
 
 ### Firmware Update Timing
-A recurring complaint involves Arlo’s mandatory update window. Firmware pushes for the 6.26.0 and subsequent 6.27.0 patches often occurred around 3:00 AM local time. While intended to minimize disruption, the update process requires the camera to reboot. In several documented cases on the <a href="https://www.amazon.com/s?k=Arlo+Community+Forums&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Arlo Community Forums</a>, cameras remained in a "reboot loop" for several hours, leaving homes unmonitored during the high-risk pre-dawn window.
+A recurring complaint involves Arlo’s mandatory update window. Firmware pushes for the 6.26.0 and subsequent 6.27.0 patches often occurred around 3:00 AM local time. While intended to minimize disruption, the update process requires the camera to reboot. In several documented cases on the Arlo Community Forums, cameras remained in a "reboot loop" for several hours, leaving homes unmonitored during the high-risk pre-dawn window.
 
 [Image Description: A close-up of a smartphone held in a living room showing the Arlo Secure App dashboard with a 'Device Offline' warning on an [Arlo Pro](https://quvii.com/learn/arlo-pro-vmc4030-factory-reset-failure-july-2026) 5S camera tile.]
 

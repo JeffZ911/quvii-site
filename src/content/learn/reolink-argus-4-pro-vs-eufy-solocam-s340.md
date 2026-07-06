@@ -80,7 +80,7 @@ The shift toward dual-lens systems is a direct response to three major pain poin
 The technical architectures of these two cameras reveal why they perform so differently in the field.
 
 ### Optics and Sensors: ColorX vs. Standard IR
-The Reolink Argus 4 Pro utilizes Reolink’s proprietary "ColorX" technology. This system pairs an F/1.0 super-aperture lens with a large 1/1.8" sensor. According to <a href="https://www.amazon.com/s?k=Reolink%27s+technical+specifications&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Reolink's technical specifications</a>, this allows the camera to capture four times more light than standard F/2.0 lenses. The result is full-color night vision in environments with as little as 0.01 lux—effectively near-total darkness—without needing to turn on a visible spotlight or switch to black-and-white infrared (IR).
+The Reolink Argus 4 Pro utilizes Reolink’s proprietary "ColorX" technology. This system pairs an F/1.0 super-aperture lens with a large 1/1.8" sensor. According to Reolink's technical specifications, this allows the camera to capture four times more light than standard F/2.0 lenses. The result is full-color night vision in environments with as little as 0.01 lux—effectively near-total darkness—without needing to turn on a visible spotlight or switch to black-and-white infrared (IR).
 
 The Eufy SoloCam S340 uses a more traditional sensor array but compensates with its dual-focal length. The 3K wide-angle lens captures the broad scene, while the 2K telephoto lens engages when the AI detects motion or the user zooms in. For night vision, the S340 relies on high-intensity IR LEDs for stealthy black-and-white footage or an integrated spotlight for color.
 

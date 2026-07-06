@@ -49,7 +49,7 @@ Alexa+ Greetings uses a more advanced natural language processing model to inter
 Video Descriptions, on the other hand, is a visual analysis tool. When the camera detects motion, it doesn't just record; it analyzes the scene to provide a text-based summary in the notification (e.g., "A person in a red shirt is carrying a package to your door"). To generate these descriptions, the camera's System-on-Chip (SoC) must remain in a high-power state to process the "Retinal 2K" video feed before or during the cloud upload.
 
 ### Firmware cam-1.29.11000: The Technical Breakdown
-Community reports on platforms like <a href="https://www.amazon.com/s?k=r%2FRing&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">r/Ring</a> indicate that after the firmware update, cameras are failing to return to "Deep Sleep" mode as quickly as they did previously. In the camera industry, [battery life](https://quvii.com/learn/blink-outdoor-4-battery-life-extreme-heat) is managed through aggressive power states. A doorbell spends 99% of its time in a low-power "hibernation," waking up only when the Passive Infrared (PIR) sensor or radar (in the Pro models) triggers an event.
+Community reports on platforms like r/Ring indicate that after the firmware update, cameras are failing to return to "Deep Sleep" mode as quickly as they did previously. In the camera industry, [battery life](https://quvii.com/learn/blink-outdoor-4-battery-life-extreme-heat) is managed through aggressive power states. A doorbell spends 99% of its time in a low-power "hibernation," waking up only when the Passive Infrared (PIR) sensor or radar (in the Pro models) triggers an event.
 
 With firmware cam-1.29.11000, the "wake time" per event has reportedly increased by 40–60%. This is due to the additional metadata generation required for the new AI features. For a home with 20–30 motion events per day, this extra processing time compounds rapidly, leading to the severe depletion noted by users.
 
@@ -157,8 +157,8 @@ Yes, but ensure you are using the newer USB-C version of the Solar Panel. The Ba
 Yes, significantly. By turning off Smart Alerts (specifically "Person" and "Other Motion" filtering), the camera spends less time analyzing the video feed to determine what caused the motion, allowing it to return to a low-power state faster.
 
 ## Sources
-- <a href="https://www.amazon.com/s?k=Ring+Support%3A+Troubleshooting+Battery+Drain&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Ring Support: Troubleshooting [Battery Drain](https://quvii.com/learn/blink-outdoor-4-battery-drain-june-2026)</a>
+- Ring Support: Troubleshooting [Battery Drain](https://quvii.com/learn/blink-outdoor-4-battery-drain-june-2026)
 - <a href="https://www.amazon.com/s?k=Ring+Protect+Plan+Features&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Ring Protect Plan Features</a>
-- <a href="https://www.amazon.com/s?k=Reddit+r%2FRing%3A+Community+Firmware+Discussions&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Reddit r/Ring: Community Firmware Discussions</a>
+- Reddit r/Ring: Community Firmware Discussions
 - RTINGS: Best Video Doorbells of 2026
 - [FCC ID Search: Ring LLC Wireless Devices](https://apps.fcc.gov/oetcf/eas/reports/GenericSearch.cfm)

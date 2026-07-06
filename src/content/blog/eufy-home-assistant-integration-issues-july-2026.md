@@ -58,7 +58,7 @@ For the average consumer, a security camera is a standalone appliance managed vi
 
 ### Eufy's Value Proposition for Privacy-Focused Buyers
 
-Eufy has positioned itself as the "Anti-Ring." While brands like Ring and Arlo often require a subscription (ranging from $50 to $150+ per year) to view recorded clips, Eufy emphasizes local storage via SD cards or the HomeBase. According to <a href="https://www.amazon.com/s?k=Eufy%E2%80%99s+privacy+policy&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Eufy’s privacy policy</a>, the brand commits to local processing of biometric data, which is a significant draw for users who want to keep their video data off third-party servers.
+Eufy has positioned itself as the "Anti-Ring." While brands like Ring and Arlo often require a subscription (ranging from $50 to $150+ per year) to view recorded clips, Eufy emphasizes local storage via SD cards or the HomeBase. According to Eufy’s privacy policy, the brand commits to local processing of biometric data, which is a significant draw for users who want to keep their video data off third-party servers.
 
 ### The Role of Home Assistant in Local Control
 
@@ -162,8 +162,8 @@ Yes, the HomeBase 3 (S380) is supported by the community integration, but it is 
 
 ## Sources
 
-- <a href="https://www.amazon.com/s?k=Eufy+Security+Official+Privacy+Policy+%26+Trust+Center&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Eufy Security Official Privacy Policy & Trust Center</a>
-- <a href="https://www.amazon.com/s?k=Home+Assistant+Community%3A+Eufy+Security+Integration+Thread&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Home Assistant Community: Eufy Security Integration Thread</a>
+- Eufy Security Official Privacy Policy & Trust Center
+- Home Assistant Community: Eufy Security Integration Thread
 - [GitHub: eufy-security-client (bropat)](https://github.com/bropat/eufy-security-client) — https://github.com/bropat/eufy-security-client
 - RTINGS: Eufy eufyCam 3 (S330) Review & Specs
 - [GitHub: Home Assistant Eufy Security (fuatakgun)](https://github.com/fuatakgun/eufy_security) — https://github.com/fuatakgun/eufy_security

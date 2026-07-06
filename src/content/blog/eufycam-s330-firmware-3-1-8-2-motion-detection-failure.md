@@ -49,7 +49,7 @@ According to user feedback regarding version 3.1.8.2 and similar incremental upd
 These issues are often reported immediately following an automatic overnight update. In some instances, users have noted that while the camera's integrated solar panel continues to report a high battery state, the software logic responsible for waking the camera from its low-power "sleep" state to a "recording" state appears to hang.
 
 ### Eufy's firmware update cycle and bug fixes
-Eufy operates on an agile deployment schedule, often pushing updates to the HomeBase 3 and the individual S330 units independently. According to <a href="https://www.amazon.com/s?k=Eufy%E2%80%99s+support+documentation&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Eufy’s support documentation</a>, these updates are intended to refine the sensitivity of the PIR sensor and improve the accuracy of the BionicMind facial recognition system. 
+Eufy operates on an agile deployment schedule, often pushing updates to the HomeBase 3 and the individual S330 units independently. According to Eufy’s support documentation, these updates are intended to refine the sensitivity of the PIR sensor and improve the accuracy of the BionicMind facial recognition system. 
 
 When a specific version like 3.1.8.2 shows signs of instability, the manufacturer typically responds by "rolling" the update—releasing a subsequent patch (e.g., 3.1.8.3 or higher) to recalibrate the motion-triggering thresholds. Because Eufy cameras rely on a combination of heat-sensing PIR and pixel-based AI analysis, a bug in the firmware's "handshake" between these two systems can cause the camera to ignore valid motion.
 
@@ -151,8 +151,8 @@ Yes. Since the HomeBase 3 performs the AI processing (BionicMind) for the S330, 
 The S330 remains a top-tier choice for users who want 4K resolution and integrated solar power without monthly fees. However, buyers should be prepared to occasionally monitor their "Event" logs to ensure firmware updates haven't altered their detection settings, as is common with many software-defined security products.
 
 ## Sources
-- <a href="https://www.amazon.com/s?k=Eufy+Official+Support%3A+Troubleshooting+Motion+Detection&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Eufy Official Support: Troubleshooting [Motion Detection](https://quvii.com/learn/reolink-camera-motion-detection-false-alerts-fix)</a>
-- <a href="https://www.amazon.com/s?k=Reddit%3A+r%2FEufyCam+Community+Discussions+on+Firmware+Updates&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Reddit: r/EufyCam Community Discussions on Firmware Updates</a>
-- <a href="https://www.amazon.com/s?k=Mozilla+Foundation%3A+Eufy+Security+Privacy+Review&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Mozilla Foundation: Eufy Security Privacy Review</a>
+- Eufy Official Support: Troubleshooting [Motion Detection](https://quvii.com/learn/reolink-camera-motion-detection-false-alerts-fix)
+- Reddit: r/EufyCam Community Discussions on Firmware Updates
+- Mozilla Foundation: Eufy Security Privacy Review
 - RTINGS: Eufy eufyCam 3 (S330) Review and Specs
-- <a href="https://www.amazon.com/s?k=Eufy+Community%3A+Official+Firmware+Release+Notes&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Eufy Community: Official Firmware Release Notes</a>
+- Eufy Community: Official Firmware Release Notes

@@ -51,7 +51,7 @@ To diagnose this, users must look past the "bars" on their phone and examine the
 The "Device Offline" badge in the Ring app is a post-mortem indicator. It does not trigger the moment a packet is dropped; rather, it appears after the device fails multiple "heartbeat" check-ins with Ring’s servers. If you see this badge frequently but your internet is otherwise fine, the issue is likely localized to the distance between the camera and the router, or physical interference.
 
 ### RSSI vs. Internet Speed
-A common point of confusion is the distinction between signal strength (RSSI) and internet speed (bandwidth). You can have a 1Gbps fiber connection, but if the RSSI at your front door is -78, the camera will still disconnect. Ring cameras typically require at least 2Mbps of dedicated *upload* speed per device to maintain a 1080p or 4K stream <a href="https://www.amazon.com/s?k=according+to+Ring%E2%80%99s+official+system+requirements&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">according to Ring’s official system requirements</a>.
+A common point of confusion is the distinction between signal strength (RSSI) and internet speed (bandwidth). You can have a 1Gbps fiber connection, but if the RSSI at your front door is -78, the camera will still disconnect. Ring cameras typically require at least 2Mbps of dedicated *upload* speed per device to maintain a 1080p or 4K stream according to Ring’s official system requirements.
 
 ## Why it exists
 

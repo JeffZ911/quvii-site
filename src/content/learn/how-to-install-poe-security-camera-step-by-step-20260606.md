@@ -192,7 +192,7 @@ Installing PoE cameras is often the "gateway" to a fully hardwired smart home. T
 
 - IEEE 802.3bt Standard Overview — phihong.com
 - PoE Cabling Best Practices — ui.com
-- <a href="https://www.amazon.com/s?k=Security+Camera+Pricing+and+Specs+%E2%80%94+lorex.com&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Security Camera Pricing and Specs — lorex.com</a>
-- <a href="https://www.amazon.com/s?k=Reolink+PoE+Camera+Specifications+%E2%80%94+reolink.com&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">[Reolink PoE Camera](https://quvii.com/blog/reolink-poe-firmware-june-2026-issues) Specifications — reolink.com</a>
+- Security Camera Pricing and Specs — lorex.com
+- [Reolink PoE Camera](https://quvii.com/blog/reolink-poe-firmware-june-2026-issues) Specifications — reolink.com
 - [Home Security Community Wiki — reddit.com/r/HomeSecurity](https://www.reddit.com/r/homesecurity/)
 - [Independent Camera Testing — rtings.com](https://www.rtings.com)

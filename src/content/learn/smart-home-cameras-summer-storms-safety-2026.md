@@ -115,7 +115,7 @@ When evaluating storm safety, you must consider the 3-year TCO. While a **Ring**
 *   **If you need 24/7 high-definition monitoring:** Choose **PoE** but invest in a **PoE Surge Protector** and a **UPS (Uninterruptible Power Supply)** for your NVR. (Recommendation: **Reolink Duo 3 PoE**)
 
 ### Protecting Your Investment: Warranties and Replacements
-It is a common industry reality that many "Limited Lifetime" or "1-Year" warranties specifically exclude "Acts of God," which includes lightning strikes and flood damage. According to <a href="https://www.amazon.com/s?k=Arlo%27s+warranty+policy&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Arlo's warranty policy</a>, damage from external causes is generally not covered. Checking your homeowners' insurance for "electronics riders" is often a more effective way to protect a $500+ multi-camera system than relying on the manufacturer's warranty.
+It is a common industry reality that many "Limited Lifetime" or "1-Year" warranties specifically exclude "Acts of God," which includes lightning strikes and flood damage. According to Arlo's warranty policy, damage from external causes is generally not covered. Checking your homeowners' insurance for "electronics riders" is often a more effective way to protect a $500+ multi-camera system than relying on the manufacturer's warranty.
 
 ### Installation Strategies for Enhanced Durability
 1.  **Eave Mounting:** Whenever possible, mount cameras under roof overhangs. This provides a physical shield against the majority of rainfall and direct sun, extending the life of the rubber seals.
@@ -163,8 +163,8 @@ If a storm is predicted to have winds exceeding the camera's mounting specificat
 ## Sources
 
 - Reolink — [Official Duo 3 PoE Product Page and IP66 Certification](https://reolink.com/product/reolink-duo-3-poe/)
-- Eufy — <a href="https://www.amazon.com/s?k=SoloCam+S340+Technical+Specifications+and+IP67+Rating&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">SoloCam S340 Technical Specifications and IP67 Rating</a>
-- Arlo — <a href="https://www.amazon.com/s?k=Arlo+Pro+5S+2K+Outdoor+Security+Camera+Specs&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Arlo Pro 5S 2K Outdoor Security Camera Specs</a>
+- Eufy — SoloCam S340 Technical Specifications and IP67 Rating
+- Arlo — Arlo Pro 5S 2K Outdoor Security Camera Specs
 - RTINGS — Environmental Testing for Outdoor Smart Cameras
 - FCC ID Filings — [RF and Weather Sealing Documentation for Consumer Hardware](https://www.fcc.gov/oet/ea/fccid)
 - Ubiquiti — Ethernet Surge Protector (ETH-SP-G2) Data Sheet

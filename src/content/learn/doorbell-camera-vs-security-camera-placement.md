@@ -172,8 +172,8 @@ The recommended height is 8 to 10 feet. This is high enough to be out of reach f
 
 ## Sources
 - <a href="https://www.amazon.com/s?k=Eufy+Video+Doorbell+E340+Product+Page&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Eufy Video Doorbell E340 Product Page</a> — Manufacturer specifications for dual-camera systems.
-- <a href="https://www.amazon.com/s?k=Ring+Battery+Doorbell+Pro+Specs&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Ring Battery Doorbell Pro Specs</a> — Official FOV and radar detection data.
-- <a href="https://www.amazon.com/s?k=Reolink+Altas+PT+Ultra+Documentation&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Reolink Altas PT Ultra Documentation</a> — Technical details on 4K continuous battery recording and IR range.
+- Ring Battery Doorbell Pro Specs — Official FOV and radar detection data.
+- Reolink Altas PT Ultra Documentation — Technical details on 4K continuous battery recording and IR range.
 - <a href="https://www.amazon.com/s?k=Arlo+Pro+5S+2K+Features&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Arlo Pro 5S 2K Features</a> — Details on wide-angle FOV and night vision capabilities.
 - RTINGS - Best Video Doorbells — Independent testing data on resolution and latency.
 

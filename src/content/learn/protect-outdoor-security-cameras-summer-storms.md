@@ -139,7 +139,7 @@ A common mistake is using a pressure washer to clean a camera lens. An IP67 rati
 
 ### Warranty Exclusions
 It is a common misconception that manufacturer warranties cover storm damage. Reviewing the 2026 terms of service for major brands:
-*   **Ring:** Explicitly excludes damage caused by "Acts of God," including lightning and floods (<a href="https://www.amazon.com/s?k=Ring+Terms+of+Service&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Ring Terms of Service</a>).
+*   **Ring:** Explicitly excludes damage caused by "Acts of God," including lightning and floods (Ring Terms of Service).
 *   **Arlo:** Excludes damage from "external causes," including weather and power surges.
 *   **Nest (Google):** Standard limited warranty does not cover "natural disasters" or "accidents."
 

@@ -56,7 +56,7 @@ Compounding the software conflict is a recent firmware update for the Eufy HomeB
 | **SoloCam S340** | Wi-Fi / HomeBase 3 | 3K (2880x1620) | Human/Vehicle | Cloud-to-Webhook |
 | **Indoor Cam S350** | Wi-Fi / HomeBase 3 | 4K (Dual Lens) | Human/Pet | Cloud-to-Webhook |
 
-*Data sourced from <a href="https://www.amazon.com/s?k=eufy.com+product+specifications&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">eufy.com product specifications</a> and community hardware logs.*
+*Data sourced from eufy.com product specifications and community hardware logs.*
 
 ## Why it matters for buyers
 

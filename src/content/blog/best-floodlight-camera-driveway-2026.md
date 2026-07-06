@@ -89,7 +89,7 @@ Newer models like the <a href="https://www.amazon.com/s?k=Eufy+Floodlight+Cam+E3
 If you currently own a floodlight camera purchased between 2020 and 2023, 2026 is a year of technical friction. Legacy hardware is struggling to keep up with modern software demands, and the transition to Matter 1.4 has left many older units behind.
 
 ### The 2026 Firmware Crisis
-The push for advanced AI and Matter compatibility has led to "firmware bloat." Community reports on platforms like <a href="https://www.amazon.com/s?k=r%2FEufyCam&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">r/EufyCam</a> have highlighted issues with recent updates (specifically the 1.6.x.x series for the E340 and [HomeBase 3](https://quvii.com/learn/eufycam-s330-homebase-3-firmware-sync-error)). Some users have experienced "bricking" or unpairing events where cameras mounted 15 feet high on a garage gable suddenly require a manual button press to reconnect after a mandatory update. 
+The push for advanced AI and Matter compatibility has led to "firmware bloat." Community reports on platforms like r/EufyCam have highlighted issues with recent updates (specifically the 1.6.x.x series for the E340 and [HomeBase 3](https://quvii.com/learn/eufycam-s330-homebase-3-firmware-sync-error)). Some users have experienced "bricking" or unpairing events where cameras mounted 15 feet high on a garage gable suddenly require a manual button press to reconnect after a mandatory update. 
 
 For owners of the <a href="https://www.amazon.com/s?k=Reolink+Duo+series&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Reolink Duo series</a>, firmware stability has been better, but the high bandwidth of 16MP streams has exposed weaknesses in older Wi-Fi 5 (802.11ac) home routers. If you upgrade the camera without upgrading your network, you may experience significant "spinning wheel" lag when trying to view a live stream.
 
@@ -128,9 +128,9 @@ However, most US homes are pre-wired with a standard round junction box for a fl
 The 2026 market offers a clear path away from the monthly "security tax" of the previous decade. By prioritizing high-resolution local storage and Matter-compatible hardware, homeowners can secure their driveways with equipment that is both more capable and more private than ever before. Quvii continues to track these firmware shifts and hardware releases to ensure your security investment remains relevant in an accelerating market.
 
 ## Sources
-- Reolink — <a href="https://www.amazon.com/s?k=Reolink+Duo+3+PoE+16MP+Spec+Sheet&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Reolink Duo 3 PoE 16MP Spec Sheet</a>
+- Reolink — Reolink Duo 3 PoE 16MP Spec Sheet
 - Eufy Security — [Floodlight Cam E340 Dual-Lens Specifications](https://www.eufy.com/products/t8423)
 - Connectivity Standards Alliance — Matter 1.4 Specification Announcement
-- Reddit — <a href="https://www.amazon.com/s?k=r%2FEufyCam+Community+Discussion+on+Firmware+1.6.x&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">r/EufyCam Community Discussion on [Firmware 1](https://quvii.com/blog/wyze-window-cam-firmware-1-3-0-48-update-security-performance).6.x</a>
-- Reddit — <a href="https://www.amazon.com/s?k=r%2FReolinkCam+16MP+Panoramic+Performance+Reviews&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">r/ReolinkCam 16MP Panoramic Performance Reviews</a>
+- Reddit — r/EufyCam Community Discussion on [Firmware 1](https://quvii.com/blog/wyze-window-cam-firmware-1-3-0-48-update-security-performance).6.x
+- Reddit — r/ReolinkCam 16MP Panoramic Performance Reviews
 - FCC ID Search — [Verification of Wi-Fi 6/6E Radio Frequency Filings for Security Hardware](https://www.fcc.gov/oet/ea/fccid)

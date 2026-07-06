@@ -166,7 +166,7 @@ If the basic "Auto" toggle doesn't solve your issue, you may need to take more a
 
 ### Manual Firmware Rollback Guide
 If a specific update broke your night vision, you can revert to a previous version. Unlike other brands, Wyze allows manual flashing via the MicroSD card.
-1.  Download a stable firmware version (e.g., an older 4.52.9.x version) from the <a href="https://www.amazon.com/s?k=Wyze+Support+site&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Wyze Support site</a>.
+1.  Download a stable firmware version (e.g., an older 4.52.9.x version) from the Wyze Support site.
 2.  Rename the file to `recovery_wcv4.bin` or `demo_v4.bin` (check the specific release notes for the v4 naming convention; older `demo.bin` files will not work).
 3.  Turn off the camera and insert the MicroSD card.
 4.  Hold the "Setup" button while plugging the power back in. Hold until the light turns solid purple/blue.

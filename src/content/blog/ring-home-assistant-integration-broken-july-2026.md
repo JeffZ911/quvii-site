@@ -69,7 +69,7 @@ Ring’s business model is built on a "walled garden" approach. By design, Ring 
 When you buy a Ring camera, you are not just buying hardware; you are entering a long-term service agreement with Amazon. If that service—or the community-maintained bridge to that service—fails, your hardware becomes a "dumb" device that only works within the official Ring app. This is the definition of vendor lock-in.
 
 ### Subscription-Free Security Benefits and Privacy Concerns
-Beyond the technical breakage, the shift toward local-first cameras is driven by privacy. Ring’s privacy policies have historically been a point of contention. While Ring updated its policies in early 2024 to stop allowing law enforcement to request footage directly through the Neighbors app, the company maintains the right to share video without a warrant in "emergency" cases involving imminent danger (<a href="https://www.amazon.com/s?k=Ring+Privacy+Policy&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Ring Privacy Policy</a>). 
+Beyond the technical breakage, the shift toward local-first cameras is driven by privacy. Ring’s privacy policies have historically been a point of contention. While Ring updated its policies in early 2024 to stop allowing law enforcement to request footage directly through the Neighbors app, the company maintains the right to share video without a warrant in "emergency" cases involving imminent danger (Ring Privacy Policy). 
 
 For many Home Assistant users, the goal is to keep video data off the cloud entirely. Integration failures like the one in July 2026 often act as the final push for users to migrate to brands that offer local storage and private AI processing.
 

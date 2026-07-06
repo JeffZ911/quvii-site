@@ -78,7 +78,7 @@ Because it emulates the Alexa app, it can perform functions that official APIs o
 *   **Sequence Commands:** Triggering Alexa routines or "simulated" voice commands.
 
 ### Official Alexa Devices Integration
-The official integration (often managed via Home Assistant Cloud/Nabu Casa) uses the <a href="https://www.amazon.com/s?k=Amazon+Alexa+Smart+Home+API&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Amazon Alexa Smart Home API</a>. This is a formal, documented pathway. 
+The official integration (often managed via Home Assistant Cloud/Nabu Casa) uses the Amazon Alexa Smart Home API. This is a formal, documented pathway. 
 
 There are two ways to implement this:
 1.  **Nabu Casa (Home Assistant Cloud):** A paid subscription that handles the SSL certificates, AWS Lambda functions, and account linking for you.

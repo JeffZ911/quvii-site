@@ -82,7 +82,7 @@ There is a significant financial impact to heat-related failures that goes beyon
 *   **Replacement Cost:** $150 (Assuming one out-of-warranty heat failure in 3 years)
 *   **Total 3-Year Investment:** ~$710
 
-When a camera shuts down for 4 hours a day during a heatwave, you are effectively losing 16% of the service you are paying for. Furthermore, brands like Arlo and Ring generally specify that warranties do not cover damage resulting from "misuse," which can sometimes include operating the device outside of the published temperature range found in the <a href="https://www.amazon.com/s?k=Ring+Terms+of+Service&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Ring Terms of Service</a>.
+When a camera shuts down for 4 hours a day during a heatwave, you are effectively losing 16% of the service you are paying for. Furthermore, brands like Arlo and Ring generally specify that warranties do not cover damage resulting from "misuse," which can sometimes include operating the device outside of the published temperature range found in the Ring Terms of Service.
 
 ### Decision Framework: Choosing the Right Hardware for Your Climate
 

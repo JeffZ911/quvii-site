@@ -42,7 +42,7 @@ As of July 6, 2026, a significant volume of technical support requests and commu
 The problem specifically targets the "Human Only" detection setting. When a person approaches the door, the doorbell’s physical sensors often trigger—evidenced by the LED ring illuminating—but the BionicMind AI fails to categorize the event as a human. Consequently, the HomeBase 3 does not record the clip or push a notification to the user's smartphone. This "silent failure" has been traced back to firmware v3.2.3.0 for the E340 and the v3.4.x firmware branch for the HomeBase 3.
 
 ### The HomeBase 3 Connection Bug
-The HomeBase 3 is designed to offload AI processing from the camera to a centralized hub. This "Edge" processing is intended to improve accuracy and battery life. However, in the current July 2026 service climate, the communication link between the doorbell's raw motion trigger and the HomeBase 3's BionicMind AI processing appears to be timing out or returning a "null" result. Users on <a href="https://www.amazon.com/s?k=r%2FEufyCam&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">r/EufyCam</a> have noted that while the doorbell functions perfectly in "Standalone" mode (connected directly to Wi-Fi without a HomeBase), the integration with the S380 hub is where the detection logic collapses.
+The HomeBase 3 is designed to offload AI processing from the camera to a centralized hub. This "Edge" processing is intended to improve accuracy and battery life. However, in the current July 2026 service climate, the communication link between the doorbell's raw motion trigger and the HomeBase 3's BionicMind AI processing appears to be timing out or returning a "null" result. Users on r/EufyCam have noted that while the doorbell functions perfectly in "Standalone" mode (connected directly to Wi-Fi without a HomeBase), the integration with the S380 hub is where the detection logic collapses.
 
 ### Human Only vs. All Motion: The AI Breakdown
 The failure is localized within the BionicMind AI's filtering layer. Eufy doorbells use a two-step detection process:
@@ -100,7 +100,7 @@ The most immediate consequence is the "silent front door." Owners have reported 
 For owners of the battery-powered E340 and S330, the July 2026 bug is also a battery killer. When the AI processing fails, the camera often enters a "processing loop" where it stays awake longer than necessary trying to analyze a motion event that it eventually fails to categorize. Furthermore, switching to "All Motion" forces the camera to wake up and record far more frequently. Users who typically see 3-6 months of battery life are reporting depletion in as little as 10-14 days during this disruption.
 
 ### User Sentiment Analysis
-On community platforms like <a href="https://www.amazon.com/s?k=r%2FEufyCam&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">r/EufyCam</a>, the consensus is one of frustration. Users who invested in the HomeBase 3 for its expanded AI capabilities feel that the "Edge" ecosystem is currently less stable than the older, simpler HomeBase 2 or standalone Wi-Fi setups. There is a growing demand for a "Legacy Mode" that would allow the doorbell to perform basic motion detection without HomeBase 3 intervention during these firmware crises.
+On community platforms like r/EufyCam, the consensus is one of frustration. Users who invested in the HomeBase 3 for its expanded AI capabilities feel that the "Edge" ecosystem is currently less stable than the older, simpler HomeBase 2 or standalone Wi-Fi setups. There is a growing demand for a "Legacy Mode" that would allow the doorbell to perform basic motion detection without HomeBase 3 intervention during these firmware crises.
 
 ## What to do now
 
@@ -137,9 +137,9 @@ Yes, formatting the internal storage or the added hard drive/SSD will clear the 
 No, Eufy does not currently gate its AI features behind a subscription. If the local AI fails, you do not lose money on a subscription, but you do lose the core functionality of the camera. This is the primary difference between Eufy and competitors like Arlo or Ring, where AI is handled in the cloud via a paid plan.
 
 ## Sources
-- <a href="https://www.amazon.com/s?k=Eufy+Official+Support%3A+Video+Doorbell+E340+Specs&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Eufy Official Support: Video Doorbell E340 Specs</a>
-- <a href="https://www.amazon.com/s?k=Reddit%3A+r%2FEufyCam+Community+Troubleshooting+Thread+July+2026&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Reddit: r/EufyCam Community Troubleshooting Thread July 2026</a>
-- <a href="https://www.amazon.com/s?k=Eufy+Privacy+Policy+%26+Data+Handling&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Eufy Privacy Policy & Data Handling</a>
+- Eufy Official Support: Video Doorbell E340 Specs
+- Reddit: r/EufyCam Community Troubleshooting Thread July 2026
+- Eufy Privacy Policy & Data Handling
 - RTINGS: Eufy Video Doorbell Dual Review & Lab Tests
 
 *Quvii tracks these trade-offs across the security camera category to provide vendor-neutral buying intelligence.*

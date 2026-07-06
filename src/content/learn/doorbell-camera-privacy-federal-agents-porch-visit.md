@@ -182,11 +182,11 @@ No. In the United States, you generally have a First Amendment right to record l
 
 ## Sources
 
-- <a href="https://www.amazon.com/s?k=Ring+Law+Enforcement+Disclosure+Policy&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Ring Law Enforcement Disclosure Policy</a>
-- <a href="https://www.amazon.com/s?k=Google+Nest+Transparency+Report+%26+Policies&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Google Nest Transparency Report & Policies</a>
+- Ring Law Enforcement Disclosure Policy
+- Google Nest Transparency Report & Policies
 - Electronic Communications Privacy Act (ECPA) - DOJ
-- <a href="https://www.amazon.com/s?k=Eufy+Privacy+Commitment&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Eufy Privacy Commitment</a>
-- <a href="https://www.amazon.com/s?k=Reolink+Product+Specifications&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Reolink Product Specifications</a>
+- Eufy Privacy Commitment
+- Reolink Product Specifications
 - <a href="https://www.amazon.com/s?k=AP+News%3A+Ring+to+stop+allowing+police+to+request+doorbell+footage&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">AP News: Ring to stop allowing police to request doorbell footage</a>
 
 *Quvii tracks these trade-offs across the doorbell camera category to help homeowners align their security hardware with their personal privacy standards.*

@@ -94,7 +94,7 @@ Privacy remains a critical differentiator. Arlo’s 2026 "Privacy Pledge" emphas
 If you already own previous generations of these cameras, the 2026 updates bring a mix of feature upgrades and frustrating restrictions.
 
 ### The Arlo Subscription Squeeze
-The most significant impact on the Arlo community in early 2026 was the removal of "Activity Zones" for non-subscribers. This move sparked significant backlash on <a href="https://www.amazon.com/s?k=r%2FArlo&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">r/Arlo</a>, as users who previously relied on local storage found their cameras flooded with "nuisance alerts" from street traffic that they could no longer filter out via the app. For existing Pro 4 or Pro 5S owners, upgrading to the Pro 6 provides better battery and USB-C convenience, but it does not escape the new subscription reality.
+The most significant impact on the Arlo community in early 2026 was the removal of "Activity Zones" for non-subscribers. This move sparked significant backlash on r/Arlo, as users who previously relied on local storage found their cameras flooded with "nuisance alerts" from street traffic that they could no longer filter out via the app. For existing Pro 4 or Pro 5S owners, upgrading to the Pro 6 provides better battery and USB-C convenience, but it does not escape the new subscription reality.
 
 ### Ring's Gen-AI Feature Rollout
 Existing Ring owners are seeing a more feature-rich transition. Users on legacy "Protect Plus" plans are being automatically migrated to "Ring Home Multi." This migration includes the rollout of "Video Descriptions," a generative AI feature that provides a text summary of events (e.g., "A delivery driver in a red shirt left a package and petted the dog"). This feature significantly reduces the time spent scrubbing through footage to find a specific event.
@@ -140,10 +140,10 @@ Quvii tracks these trade-offs across the category to help buyers navigate an inc
 
 ## Sources
 
-- Arlo Technologies — <a href="https://www.amazon.com/s?k=Arlo+Pro+6+Official+Product+Page&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Arlo Pro 6 Official Product Page</a>
+- Arlo Technologies — Arlo Pro 6 Official Product Page
 - Ring (Amazon) — [Stick Up Cam Pro Specs and Retinal 2K Announcement](https://www.ring.com)
 - Ring (Amazon) — <a href="https://www.amazon.com/s?k=Ring+Home+Subscription+Tier+Details&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Ring Home Subscription Tier Details</a>
 - Arlo Technologies — <a href="https://www.amazon.com/s?k=Arlo+Secure+Plan+Pricing+and+Feature+Matrix&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">[Arlo Secure](https://quvii.com/blog/arlo-secure-app-6-26-0-firmware-issues) Plan Pricing and Feature Matrix</a>
 - Federal Trade Commission — [FTC Settlement and Privacy Mandates for Ring](https://www.ftc.gov)
-- Arlo Technologies — <a href="https://www.amazon.com/s?k=Arlo+Privacy+Pledge+and+Data+Transparency+Report&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Arlo Privacy Pledge and Data Transparency Report</a>
+- Arlo Technologies — Arlo Privacy Pledge and Data Transparency Report
 - Reddit r/HomeSecurity — [2026 Community Comparison: Arlo vs. Ring Subscription Hikes](https://www.reddit.com/r/homesecurity/)

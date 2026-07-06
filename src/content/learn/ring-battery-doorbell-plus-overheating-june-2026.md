@@ -60,7 +60,7 @@ It is critical to distinguish these environmental thermal events from the highly
 | **Heat Management** | Passive Airflow | Advanced Radar/Passive | Passive Airflow |
 | **Typical Price Band** | $130 - $160 | $180 - $230 | $80 - $110 |
 
-*Data sourced from <a href="https://www.amazon.com/s?k=Ring.com+product+specifications&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Ring.com product specifications</a> as of 2026.*
+*Data sourced from Ring.com product specifications as of 2026.*
 
 ## Why it exists
 
@@ -79,7 +79,7 @@ The Battery [Doorbell Plus](https://quvii.com/learn/ring-battery-doorbell-plus-f
 The rechargeable lithium-ion battery pack is sensitive to temperature. High temperatures increase internal resistance, which in turn generates more heat during the discharge process (when the camera is recording). If the battery is being used heavily during a heatwave, it becomes a dual-source heat problem: it is absorbing heat from the environment while generating its own from within.
 
 **Trickle Charging and Wiring**
-Many users hardwire their battery doorbells to existing low-voltage transformers (8-24V AC) to avoid manual recharging. While this provides a "trickle charge," the process of converting AC to DC power and charging the battery generates additional heat. If the transformer is underpowered or the wiring has high resistance, the charging circuit may work harder, contributing to a higher baseline temperature (<a href="https://www.amazon.com/s?k=Ring+Help%3A+Hardwiring+your+Doorbell&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Ring Help: Hardwiring your Doorbell</a>).
+Many users hardwire their battery doorbells to existing low-voltage transformers (8-24V AC) to avoid manual recharging. While this provides a "trickle charge," the process of converting AC to DC power and charging the battery generates additional heat. If the transformer is underpowered or the wiring has high resistance, the charging circuit may work harder, contributing to a higher baseline temperature (Ring Help: Hardwiring your Doorbell).
 
 **Environmental Factors**
 Installations behind glass storm doors or within recessed entryways can create a "greenhouse effect." Without adequate airflow to carry away the heat dissipated by the plastic housing, the ambient air immediately surrounding the device can stay significantly hotter than the actual outdoor temperature.
@@ -161,7 +161,7 @@ For those looking to optimize their home security setup against the summer heat,
 
 *   **Optimizing Battery Life:** Learn how motion zones and "Frequency" settings impact the thermal load on your device during peak summer.
 *   **Wired vs. Battery:** A comparison of how wired doorbells (which lack large lithium-ion batteries) handle extreme heat better than battery-powered counterparts.
-*   **Privacy and Data:** Understanding Ring’s 2024 policy shift, which ended the "Request for Assistance" (RFA) tool, meaning police can no longer request footage directly through the Neighbors app without a warrant (<a href="https://www.amazon.com/s?k=Ring+Transparency+Report&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Ring Transparency Report</a>).
+*   **Privacy and Data:** Understanding Ring’s 2024 policy shift, which ended the "Request for Assistance" (RFA) tool, meaning police can no longer request footage directly through the Neighbors app without a warrant (Ring Transparency Report).
 *   **DIY Shading:** Community-driven solutions for 3D-printed or store-bought shades that can lower doorbell temperatures by 10-15 degrees.
 
 ### Frequently Asked Questions

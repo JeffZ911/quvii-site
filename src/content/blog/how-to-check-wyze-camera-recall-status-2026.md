@@ -150,7 +150,7 @@ You will need your device’s unique identifier to file a claim. This can be fou
 *   On the original packaging (if you still have it).
 
 ### Step 3: Claiming Your Refund or Replacement
-Visit the official <a href="https://www.amazon.com/s?k=Wyze+Recall+Participation+Form&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Wyze Recall Participation Form</a> (Note: This link is specific to the 2026 Solar Cam Pan recall). You will be asked to enter your serial number and provide proof of purchase (Amazon order ID or a photo of the receipt).
+Visit the official Wyze Recall Participation Form (Note: This link is specific to the 2026 Solar Cam Pan recall). You will be asked to enter your serial number and provide proof of purchase (Amazon order ID or a photo of the receipt).
 
 Wyze is offering three options:
 1.  **Free Replacement:** A new Solar Cam Pan with a redesigned solar accessory and safe mounting hardware.

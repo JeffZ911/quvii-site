@@ -43,7 +43,7 @@ As summer temperatures peak across the United States in June 2026, owners of the
 
 In the context of consumer electronics, "overheating" occurs when a device's internal components reach a thermal saturation point that exceeds their safe operating limits. For the [Wyze Cam v4](https://quvii.com/blog/wyze-cam-v4-overheating-june-2026-heatwave), this threshold is defined by its engineering specifications and the physical properties of its internal silicon. When these limits are breached, the camera may initiate a "thermal shutdown" or experience significant performance degradation to prevent permanent hardware damage.
 
-According to the official <a href="https://www.amazon.com/s?k=Wyze+Cam+v4+technical+specifications&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Wyze [Cam v4](https://quvii.com/blog/wyze-cam-v4-overheating-june-2026-heatwave) technical specifications</a>, the device is rated for an operating temperature range of -4°F to 122°F (-20°C to 50°C). This range is standard for IP65-rated outdoor cameras, but it is important to note that "ambient temperature" (the air temperature) is not the same as the "internal temperature." A camera mounted in 100°F weather that is also absorbing direct solar radiation can easily see internal temperatures climb past the 122°F limit.
+According to the official Wyze [Cam v4](https://quvii.com/blog/wyze-cam-v4-overheating-june-2026-heatwave) technical specifications, the device is rated for an operating temperature range of -4°F to 122°F (-20°C to 50°C). This range is standard for IP65-rated outdoor cameras, but it is important to note that "ambient temperature" (the air temperature) is not the same as the "internal temperature." A camera mounted in 100°F weather that is also absorbing direct solar radiation can easily see internal temperatures climb past the 122°F limit.
 
 ### Clarifying the June 2026 Recall
 It is vital for consumers to distinguish between the standard [Wyze Cam v4](https://quvii.com/blog/wyze-cam-v4-overheating-june-2026-heatwave) and the recent safety notices issued by the manufacturer. As of June 2026, there is no recall for the Wyze Cam v4. The confusion often stems from the **Wyze Solar Cam Pan (model WYZESCPWH)**, which was recalled following reports of the internal lithium-ion battery being punctured during certain installation scenarios. Because the v4 is a wired camera without a large internal battery, it does not share the specific fire hazard profile associated with the Solar Cam Pan recall.
@@ -193,7 +193,7 @@ Using the v4 behind a window can lead to overheating if the window receives dire
 
 ## Sources
 
-*   Wyze Official Product Page: <a href="https://www.amazon.com/s?k=Wyze+Cam+v4+Specs&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Wyze [Cam v4](https://quvii.com/blog/wyze-cam-v4-overheating-june-2026-heatwave) Specs</a>
+*   Wyze Official Product Page: Wyze [Cam v4](https://quvii.com/blog/wyze-cam-v4-overheating-june-2026-heatwave) Specs
 *   Wyze Support: [Operating Temperature and Environment Guide](https://support.wyze.com/hc/en-us/articles/23303102377499-Wyze-Cam-v4-Tech-Specs)
-*   CPSC Recall Database: <a href="https://www.amazon.com/s?k=Wyze+Solar+Cam+Pan+Recall+Notice+June+2026&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Wyze Solar Cam Pan Recall Notice June 2026</a>
+*   CPSC Recall Database: Wyze Solar Cam Pan Recall Notice June 2026
 *   Wyze Community Forums: [Thermal Performance Discussions June 2026](https://forums.wyze.com/)

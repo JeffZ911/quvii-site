@@ -122,7 +122,7 @@ Optimizing your Reolink system isn't just about stopping annoying pings; it fund
 When a notification arrives from a properly tuned camera, the user knows it is likely a person on the porch rather than a squirrel. This restores the "alert" status of the notification, ensuring the user actually looks at the feed.
 
 **Optimized Battery Life**
-For battery-powered cameras, every false alert is a "wake event." According to community data on <a href="https://www.amazon.com/s?k=r%2FReolinkCam&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">r/ReolinkCam</a>, a camera triggered 50 times a day by wind may only last two weeks, whereas a tuned camera triggered 5 times a day can last months on a single charge.
+For battery-powered cameras, every false alert is a "wake event." According to community data on r/ReolinkCam, a camera triggered 50 times a day by wind may only last two weeks, whereas a tuned camera triggered 5 times a day can last months on a single charge.
 
 **Efficient Storage Management**
 Whether you use <a href="https://www.amazon.com/s?k=Reolink+local+storage+options&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Reolink local storage options</a> like a microSD card or a dedicated NVR, false alerts waste space. Filtering out 90% of "noise" recordings means you can keep several additional weeks of relevant footage on the same hard drive.
@@ -179,6 +179,6 @@ Alarm Delay (available on most non-battery models) requires the detected motion 
 ## Sources
 - Reolink Official — [How to Config Motion Detection Settings](https://support.reolink.com/hc/en-us/articles/360006397133-How-to-Set-up-Motion-Detection-for-Reolink-Cameras/)
 - Reolink Official — [Smart Person/Vehicle Detection FAQ](https://support.reolink.com/hc/en-us/articles/900002836643-Introduction-to-Smart-Person-Vehicle-Detection/)
-- Reddit — <a href="https://www.amazon.com/s?k=r%2FReolinkCam+Community+Wiki+%26+Troubleshooting&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">r/ReolinkCam Community Wiki & Troubleshooting</a>
+- Reddit — r/ReolinkCam Community Wiki & Troubleshooting
 - Reolink Official — [Argus 4 Pro Product Specifications](https://reolink.com/product/argus-4-pro/#specifications)
 - PR Newswire — <a href="https://www.amazon.com/s?k=Reolink+at+CES+2024%3A+Home+Hub+and+AI+Enhancements&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Reolink at CES 2024: Home Hub and AI Enhancements</a>

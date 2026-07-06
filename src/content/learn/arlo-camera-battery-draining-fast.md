@@ -54,7 +54,7 @@ The following table compares current Arlo flagship specifications against real-w
 | **Essential XL Gen 2** | 2K | 12 Months | 7–9 Months | Integrated Battery Capacity |
 | **Arlo Pro 5S** | 2K | 8 Months | 4–5 Months | Low-power Wi-Fi management |
 
-*Data synthesized from <a href="https://www.amazon.com/s?k=Arlo.com+product+specifications&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Arlo.com product specifications</a> and community testing data from r/Arlo.*
+*Data synthesized from Arlo.com product specifications and community testing data from r/Arlo.*
 
 ### The 48-Hour Cliff: When to suspect a hardware defect
 If a camera drains from 100% to zero within 48 hours despite having no recorded clips, this is rarely a settings issue. This "cliff" usually indicates a hardware short, often caused by moisture ingress in the charging port or a degraded lithium-ion cell that can no longer hold a nominal voltage. In these cases, firmware resets rarely work, and warranty replacement is the standard path.

@@ -99,7 +99,7 @@ Eufy now offers an "Advanced Encryption" toggle in the settings for most newer m
 | **Third-Party Integration** | Alexa/Google/HomeKit | Disabled |
 | **Thumbnail Notifications** | Encrypted in transit | Text-only (No image) |
 
-*Data sourced from <a href="https://www.amazon.com/s?k=Eufy+Support+Documentation&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Eufy Support Documentation</a> and independent community testing.*
+*Data sourced from Eufy Support Documentation and independent community testing.*
 
 ### Is Your Device Still Secure?
 From a purely technical standpoint, a Eufy camera updated with 2026 firmware is significantly more secure than it was in 2022. The "low-hanging fruit" exploits have been patched. However, the security of the device now depends heavily on the user's willingness to sacrifice features (like web viewing and fast load times) for the sake of encryption.
@@ -159,4 +159,4 @@ The Eufy controversy has served as a wake-up call for the [smart home](https://q
 - New York Attorney General — Press Releases on Consumer Fraud Settlements
 - U.S. House of Representatives — <a href="https://www.amazon.com/s?k=Select+Committee+on+the+CCP%3A+Letters+to+Anker+Innovations&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Select Committee on the CCP: Letters to Anker Innovations</a>
 - RTINGS — Eufy S330 (eufyCam 3) Review and Technical Specs
-- Mozilla Foundation — <a href="https://www.amazon.com/s?k=Privacy+Not+Included%3A+Eufy+Security+Review&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Privacy Not Included: Eufy Security Review</a>
+- Mozilla Foundation — Privacy Not Included: Eufy Security Review

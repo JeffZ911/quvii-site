@@ -120,7 +120,7 @@ Many "failure" symptoms that users mistake for hardware defects are actually pow
 
 ### Wyze Support Channels in 2026
 
-If you suspect your adapter is faulty, Wyze typically offers a 1-year limited warranty for cameras purchased through authorized retailers (Amazon, Wyze.com, Home Depot). In 2026, the primary method for filing a claim is through the <a href="https://www.amazon.com/s?k=Wyze+Support+Portal&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Wyze Support Portal</a>. Be prepared to provide:
+If you suspect your adapter is faulty, Wyze typically offers a 1-year limited warranty for cameras purchased through authorized retailers (Amazon, Wyze.com, Home Depot). In 2026, the primary method for filing a claim is through the Wyze Support Portal. Be prepared to provide:
 *   A photo of the bottom of the camera showing the MAC address and Model Number (WYZEC4).
 *   A photo of the regulatory markings on the power adapter.
 *   Proof of purchase (digital receipt).

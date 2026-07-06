@@ -186,7 +186,7 @@ If the cloud-dependency of Eufy becomes a dealbreaker, consider these alternativ
 *   **Amcrest:** Offers robust RTSP and local API triggers that do not require an internet connection once configured.
 *   **Foscam:** While older, their local API remains one of the most stable for simple motion triggers.
 
-[Information unavailable] regarding any official 2026 Eufy transparency reports; users should refer to the standard <a href="https://www.amazon.com/s?k=Eufy+Privacy+Policy&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Eufy Privacy Policy</a> for current data handling and police cooperation terms. Quvii tracks these trade-offs across the category to help users choose between convenience and hard-wired reliability.
+[Information unavailable] regarding any official 2026 Eufy transparency reports; users should refer to the standard Eufy Privacy Policy for current data handling and police cooperation terms. Quvii tracks these trade-offs across the category to help users choose between convenience and hard-wired reliability.
 
 ## Frequently Asked Questions
 

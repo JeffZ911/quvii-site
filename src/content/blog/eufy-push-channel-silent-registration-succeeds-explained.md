@@ -89,7 +89,7 @@ As of July 2026, there is no comprehensive fix for the silent push channel. User
 
 ### Firmware v3.8.2.0 and the Storage 'Amnesia' Bug
 
-Compounding the API issues, Eufy released Firmware v3.8.2.0 for the HomeBase 3 in April 2026. This update has been linked to a "storage amnesia" bug. Users on the <a href="https://www.amazon.com/s?k=Eufy+Community+forums&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Eufy Community forums</a> report that the HomeBase 3 occasionally fails to recognize the internal SATA drive, leading to gaps in 24/7 recording. In some cases, the system defaults back to the 16GB of onboard eMMC storage without alerting the user, meaning weeks of footage may be lost if the user assumes their 2TB SSD is still the primary target.
+Compounding the API issues, Eufy released Firmware v3.8.2.0 for the HomeBase 3 in April 2026. This update has been linked to a "storage amnesia" bug. Users on the Eufy Community forums report that the HomeBase 3 occasionally fails to recognize the internal SATA drive, leading to gaps in 24/7 recording. In some cases, the system defaults back to the 16GB of onboard eMMC storage without alerting the user, meaning weeks of footage may be lost if the user assumes their 2TB SSD is still the primary target.
 
 Affected models currently include:
 *   **SoloCam S340:** Experiencing notification delays up to 10 seconds.

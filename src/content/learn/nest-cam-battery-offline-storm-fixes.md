@@ -172,4 +172,4 @@ Indirectly, yes. While the rain itself doesn't drain the battery, the motion cau
 - Google Nest Support: How Nest cameras record when offline
 - RTINGS: [Google Nest Cam](https://quvii.com/learn/google-nest-cam-battery-overheating-direct-sunlight) (Battery) Review
 - <a href="https://www.amazon.com/s?k=FCC+ID+Filing%3A+Google+G3AL9+%28Nest+Cam+Battery%29&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">FCC ID Filing: Google G3AL9 (Nest Cam Battery)</a>
-- <a href="https://www.amazon.com/s?k=Google+Nest+Community%3A+Troubleshooting+Offline+Cameras&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Google Nest Community: Troubleshooting Offline Cameras</a>
+- Google Nest Community: Troubleshooting Offline Cameras

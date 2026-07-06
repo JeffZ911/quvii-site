@@ -45,7 +45,7 @@ The crisis is primarily linked to the HomeBase 3 (S380), the central hub respons
 The core of the problem lies in what community developers call a "keep-alive" loop. Under normal conditions, a wireless Eufy camera remains in a low-power hibernation state until its Passive Infrared (PIR) sensor triggers. In the current June 2026 scenario, the HomeBase 3 is frequently pinging the cameras to verify their encrypted connection status. When a camera fails to respond instantly, the HomeBase initiates a high-power reconnection cycle. This cycle repeats indefinitely, draining the battery even if no motion is ever detected.
 
 ### Ghost Triggers and AI Processing Overhead
-Beyond the connection bug, users on <a href="https://www.amazon.com/s?k=r%2FEufyCam&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">r/EufyCam</a> have documented an increase in "ghost triggers." These occur when the camera’s BionicMind AI attempts to categorize an object—such as a swaying branch or a shadow—but fails to reach a confidence threshold to record. Normally, this process is nearly instantaneous. However, the recent firmware has increased the processing time for these non-events. The camera remains "awake" and active for 10–20 seconds per trigger, leading to massive cumulative drain in high-traffic areas or windy conditions.
+Beyond the connection bug, users on r/EufyCam have documented an increase in "ghost triggers." These occur when the camera’s BionicMind AI attempts to categorize an object—such as a swaying branch or a shadow—but fails to reach a confidence threshold to record. Normally, this process is nearly instantaneous. However, the recent firmware has increased the processing time for these non-events. The camera remains "awake" and active for 10–20 seconds per trigger, leading to massive cumulative drain in high-traffic areas or windy conditions.
 
 | Firmware Event | Reported Symptoms | Observed Drain Rate |
 | :--- | :--- | :--- |
@@ -145,10 +145,10 @@ The bug affects the communication protocol between the HomeBase 3 and its connec
 Eufy typically offers a 12-month limited warranty. If your camera's battery health has significantly degraded due to these deep discharge cycles and you are within the warranty period, you should document your battery percentage charts in the app to support an RMA (Return Merchandise Authorization) claim.
 
 ## Sources
-- <a href="https://www.amazon.com/s?k=Eufy+Official+Support+-+Battery+Optimization+Guide&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Eufy Official Support - Battery Optimization Guide</a>
-- <a href="https://www.amazon.com/s?k=eufyCam+S3+Pro+Product+Specifications&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">eufyCam S3 Pro Product Specifications</a>
-- <a href="https://www.amazon.com/s?k=SoloCam+S340+Dual-Lens+Tech+Specs&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">SoloCam S340 Dual-Lens Tech Specs</a>
-- <a href="https://www.amazon.com/s?k=Eufy+Privacy+and+Security+Commitment&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Eufy Privacy and Security Commitment</a>
-- <a href="https://www.amazon.com/s?k=Community+Discussion%3A+HomeBase+3+Connectivity+Issues+%28r%2FEufyCam%29&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Community Discussion: HomeBase 3 Connectivity Issues (r/EufyCam)</a>
+- Eufy Official Support - Battery Optimization Guide
+- eufyCam S3 Pro Product Specifications
+- SoloCam S340 Dual-Lens Tech Specs
+- Eufy Privacy and Security Commitment
+- Community Discussion: HomeBase 3 Connectivity Issues (r/EufyCam)
 
 *Quvii tracks these software trade-offs across the security category to help buyers understand the long-term reliability of "subscription-free" hardware.*
