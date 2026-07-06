@@ -49,7 +49,7 @@ To combat these delays, Ring introduced several key updates at CES 2026. The mos
 
 Additionally, Ring has overhauled its software backend with "AI Unusual Event Alerts" and "Active Warnings." These features, now part of the rebranded Ring Protect tiers, use machine learning to distinguish between a routine mail delivery and a person lingering near the door. While these features aim to make notifications more "relevant," the processing still occurs primarily in the cloud, meaning the speed of the alert is still tethered to the user's upload speed and Ring’s server latency.
 
-[Image description: A Ring doorbell mounted on a front door, with a person approaching, illustrating a motion detection event. Aspect ratio 16:9.]
+[Image description: A Ring doorbell mounted on a front door, with a person approaching, illustrating a [motion detection](https://quvii.com/blog/eufy-doorbell-motion-detection-not-working-july-2026) event. Aspect ratio 16:9.]
 
 ## Why it matters for buyers
 

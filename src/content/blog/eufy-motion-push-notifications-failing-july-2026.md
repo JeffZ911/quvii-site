@@ -181,7 +181,7 @@ As of July 2026, user reports indicate that HomeBase 3 firmware versions 3.8.2.0
 
 ### Are Eufy cameras truly private with local storage?
 
-Eufy emphasizes local storage and on-device AI processing to enhance privacy. However, past incidents have raised questions about data handling and encryption, particularly regarding temporary cloud uploads for push notifications. While Eufy states that footage is encrypted and stored locally on the HomeBase, users should review Eufy's current privacy policy for the most up-to-date information on data practices.
+Eufy emphasizes local storage and on-device AI processing to enhance privacy. However, past incidents have raised questions about data handling and encryption, particularly regarding temporary cloud uploads for [push notifications](https://quvii.com/blog/eufy-push-notifications-broken-haos-2026-6-4). While Eufy states that footage is encrypted and stored locally on the HomeBase, users should review Eufy's current privacy policy for the most up-to-date information on data practices.
 
 ## Sources
 

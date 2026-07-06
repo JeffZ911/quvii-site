@@ -67,7 +67,7 @@ Many users assume that because the doorbell "lights up," it has sufficient power
 ![Step-by-step installation](/img/ring-doorbell-not-sending-motion-alerts-streaming-fix/inline-2.webp)
 
 
-If your Ring is already mounted but failing, you may need to reseat the wiring or adjust the physical positioning. Proper installation is the prerequisite for reliable motion detection.
+If your Ring is already mounted but failing, you may need to reseat the wiring or adjust the physical positioning. Proper installation is the prerequisite for reliable [motion detection](https://quvii.com/blog/eufy-doorbell-motion-detection-not-working-july-2026).
 
 ### Physical Mounting for Better Detection
 Ring doorbells use Passive Infrared (PIR) sensors or Radar-based "3D Motion Detection" (on Pro models). These sensors are calibrated for a specific height.

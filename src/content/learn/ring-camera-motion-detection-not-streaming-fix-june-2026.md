@@ -173,7 +173,7 @@ This breakdown illustrates that the subscription cost quickly surpasses the init
 *   Optimizing Wi-Fi for Smart Cameras: A Comprehensive Guide
 *   Understanding Security [Camera Privacy](https://quvii.com/learn/doorbell-camera-privacy-federal-agents-porch-visit): Local vs. Cloud Storage Options
 *   Choosing the Right Security Camera Subscription: Beyond Ring, Nest, and Arlo
-*   Troubleshooting Common Security Camera Offline Issues
+*   Troubleshooting Common Security [Camera Offline](https://quvii.com/learn/nest-camera-offline-summer-storms-2026) Issues
 
 ## Frequently Asked Questions
 
@@ -219,8 +219,8 @@ You should regularly check for and apply updates to both your Ring app and camer
 *   androidauthority.com — Ring's Neighborhoods feature is now called Neighbors []
 *   eufy.com — What is End-to-End Encryption? []
 *   homeguide.com — Ring Doorbell Installation Cost []
-*   youtube.com — Ring Doorbell Not Recording Motion - How to Fix It [https://www.youtube.com/watch?v=eCq-uS8rG6Y]
-*   asurion.com — Ring Doorbell Not Recording Motion? Here’s How to Fix It []
+*   youtube.com — [Ring Doorbell Not](https://quvii.com/blog/ring-doorbell-not-sending-motion-alerts-streaming-fix) Recording Motion - How to Fix It [https://www.youtube.com/watch?v=eCq-uS8rG6Y]
+*   asurion.com — Ring [Doorbell Not](https://quvii.com/blog/ring-doorbell-not-sending-motion-alerts-streaming-fix) Recording Motion? Here’s How to Fix It []
 *   reolink.com — How to Troubleshoot When Security Camera Not Recording []
 *   reddit.com — Ring camera not recording motion? [https://www.reddit.com/r/Ring/comments/1816z7y/ring_camera_not_recording_motion/]
 *   Ring.com — Troubleshooting Your Ring Device []

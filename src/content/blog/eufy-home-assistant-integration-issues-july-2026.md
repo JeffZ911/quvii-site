@@ -32,7 +32,7 @@ For smart home enthusiasts, the promise of Eufy Security has always been "local-
 *Related: [Ring Home Assistant Integration Broken: What to Know (July 2026)](/blog/ring-home-assistant-integration-broken-july-2026) · [Tapo C425 Battery Drain: What the June Update Means for Your Camera](/blog/tapo-c425-battery-drain-june-update-impact) · [Reolink PoE Camera Firmware: June 2026 Update Status & Common Issues](/blog/reolink-poe-firmware-june-2026-issues)*
 
 
-The relationship between Eufy Security hardware and the Home Assistant ecosystem has historically been one of "unofficial cooperation." Because Eufy does not provide a public, documented API for third-party developers, the integration relies on community-maintained projects like the `eufy_security` custom integration (HACS) and the `eufy-security-ws` bridge. In June and July 2026, several structural changes in Eufy’s backend and Home Assistant’s core image handling have led to a spike in integration failures.
+The relationship between Eufy Security hardware and the [Home Assistant](https://quvii.com/learn/ring-plugin-not-streaming-home-assistant-2026-7-fix) ecosystem has historically been one of "unofficial cooperation." Because Eufy does not provide a public, documented API for third-party developers, the integration relies on community-maintained projects like the `eufy_security` custom integration (HACS) and the `eufy-security-ws` bridge. In June and July 2026, several structural changes in Eufy’s backend and Home Assistant’s core image handling have led to a spike in integration failures.
 
 ### Timeline of Recent Issues
 

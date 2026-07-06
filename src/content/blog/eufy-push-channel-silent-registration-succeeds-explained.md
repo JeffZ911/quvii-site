@@ -41,7 +41,7 @@ In early June 2026, a wave of connectivity issues hit the Eufy user base, specif
 
 ### The June 2026 Backend Shift
 
-This log entry indicates that the third-party client successfully registered its "listening" token with Eufy’s servers. Under normal circumstances, this registration opens a gate for motion alerts and doorbell rings to flow from the Eufy cloud to the user's dashboard. However, despite the "Succeed" status, the gate remains locked. No data packets follow the registration.
+This log entry indicates that the third-party client successfully registered its "listening" token with Eufy’s servers. Under normal circumstances, this registration opens a gate for [motion alerts](https://quvii.com/blog/ring-doorbell-not-sending-motion-alerts-streaming-fix) and doorbell rings to flow from the Eufy cloud to the user's dashboard. However, despite the "Succeed" status, the gate remains locked. No data packets follow the registration.
 
 Technical analysis originating from the GitHub community, specifically within ongoing discussions like [Issue #933](https://github.com/bropat/eufy-security-client/issues), suggests that Eufy has implemented a major backend migration. This shift appears to move away from older legacy API endpoints toward a new infrastructure internally referred to as "eufy_mega." This new architecture seems designed to strictly validate the client's signature, effectively gating API access to only the official Eufy Security app and authorized partners.
 
@@ -92,7 +92,7 @@ As of July 2026, there is no comprehensive fix for the silent push channel. User
 Compounding the API issues, Eufy released Firmware v3.8.2.0 for the HomeBase 3 in April 2026. This update has been linked to a "storage amnesia" bug. Users on the Eufy Community forums report that the HomeBase 3 occasionally fails to recognize the internal SATA drive, leading to gaps in 24/7 recording. In some cases, the system defaults back to the 16GB of onboard eMMC storage without alerting the user, meaning weeks of footage may be lost if the user assumes their 2TB SSD is still the primary target.
 
 Affected models currently include:
-*   **SoloCam S340:** Experiencing notification delays up to 10 seconds.
+*   **[SoloCam S340](https://quvii.com/learn/reolink-argus-4-pro-vs-eufy-solocam-s340):** Experiencing notification delays up to 10 seconds.
 *   **HomeBase 3 (S380):** Central hub for the "silent registration" and storage bugs.
 *   **E340 Video Doorbell:** Failing to trigger mechanical chimes when the cloud push channel is unstable.
 

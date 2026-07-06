@@ -71,7 +71,7 @@ Prospective buyers in regions like the Southwest US, Southern Europe, or Austral
 ### Impact on Functionality
 
 Overheating doesn't just turn the camera off; it degrades the user experience before the shutdown occurs. Buyers should be aware that heat-induced "Cooldown Mode" often results in:
-*   Delayed motion notifications.
+*   Delayed [motion notifications](https://quvii.com/learn/eufy-camera-motion-notifications-not-working).
 *   Reduced video resolution or frame rate.
 *   Disabled "Pre-Roll" or "Birds-Eye View" features.
 *   Inability to use Two-[Way Talk](https://quvii.com/blog/reolink-doorbell-two-way-talk-not-working).
