@@ -149,7 +149,7 @@ To reduce false alarms, access your camera's settings in the Reolink App or Clie
 Yes, many Reolink wired video doorbells are compatible with existing mechanical or digital chimes. You will need to ensure your doorbell transformer provides power within the specified range, typically 8-24 VAC and 5-40VA. The Reolink App will guide you through the setup and chime type selection.
 
 ### Do Reolink cameras require a subscription for motion alerts?
-No, Reolink cameras generally do not require a subscription for basic motion alerts or advanced AI-powered smart detection (person, vehicle, package). These features are typically processed on-device, allowing for subscription-free alerts and local video storage via microSD card or NVR.
+No, Reolink cameras generally do not require a subscription for basic [motion alerts](https://quvii.com/blog/ring-doorbell-not-sending-motion-alerts-streaming-fix) or advanced AI-powered smart detection (person, vehicle, package). These features are typically processed on-device, allowing for subscription-free alerts and local video storage via microSD card or NVR.
 
 ### How do I adjust the volume or change the ringtone of my Reolink chime?
 For dedicated Reolink wireless chimes, you can adjust the volume (usually five levels) and select from ten different ringtones directly through the Reolink App. Navigate to your doorbell's settings and look for the "Chime Settings" or similar option to customize these preferences.

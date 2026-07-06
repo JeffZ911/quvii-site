@@ -161,7 +161,7 @@ Eufy's market position is largely built on its promise of robust local storage a
 
 ### Eufy's Local-First Promise Under Scrutiny
 
-Eufy differentiates itself by emphasizing local storage, often facilitated by a HomeBase unit (such as the HomeBase 3) or onboard microSD card slots in models like the SoloCam S340. This approach is designed to give users greater control over their data and reduce reliance on cloud services. However, the April 2026 HomeBase firmware issue, which led to the loss of local recordings, directly undermines this "local-first" promise. Such events force buyers to question the true reliability of local storage when it can be impacted by software updates.
+Eufy differentiates itself by emphasizing local storage, often facilitated by a HomeBase unit (such as the HomeBase 3) or onboard microSD card slots in models like the [SoloCam S340](https://quvii.com/learn/reolink-argus-4-pro-vs-eufy-solocam-s340). This approach is designed to give users greater control over their data and reduce reliance on cloud services. However, the April 2026 HomeBase firmware issue, which led to the loss of local recordings, directly undermines this "local-first" promise. Such events force buyers to question the true reliability of local storage when it can be impacted by software updates.
 
 ### Cloud-Dependent Features vs. Local Storage
 

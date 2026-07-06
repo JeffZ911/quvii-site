@@ -84,7 +84,7 @@ All Blink Outdoor 4 cameras require a Blink Sync Module (specifically, the Sync 
 
 ### Software and AI Enhancements
 
-Blink cameras, including the Outdoor 4, benefit from regular firmware updates that can refine motion detection algorithms. These software improvements aim to enhance the accuracy of detection, reduce false alarms, and potentially optimize the camera's wake-up and processing times. For instance, the Blink Outdoor 4 offers on-device person detection, a feature that, with a Blink Subscription Plan, allows the camera to identify human shapes and filter out other motion. By processing this specific detection on the device itself, rather than solely relying on cloud analysis, it can minimize cloud-related delays for person-specific alerts.
+Blink cameras, including the Outdoor 4, benefit from regular firmware updates that can refine [motion detection](https://quvii.com/blog/eufy-doorbell-motion-detection-not-working-july-2026) algorithms. These software improvements aim to enhance the accuracy of detection, reduce false alarms, and potentially optimize the camera's wake-up and processing times. For instance, the Blink Outdoor 4 offers on-device person detection, a feature that, with a Blink Subscription Plan, allows the camera to identify human shapes and filter out other motion. By processing this specific detection on the device itself, rather than solely relying on cloud analysis, it can minimize cloud-related delays for person-specific alerts.
 
 Here's a quick look at some key specifications for the Blink Outdoor 4:
 

@@ -27,7 +27,7 @@ Eufy’s promise of "Forever Power" is facing its toughest test yet as a wave of
 
 # Eufy Security Camera Battery Drain: What’s Happening in June 2026?
 
-**Quick Answer:** Recent HomeBase 3 system updates released in May and June 2026 are causing 15–60% daily [battery drain](https://quvii.com/blog/blink-camera-battery-drain-summer-heat-2026) on eufyCam S3 Pro and SoloCam S340 units. The issue stems from a communication loop between the cameras and the HomeBase, preventing the hardware from entering "sleep" mode. Current fixes include requesting a manual firmware patch from Eufy support or switching to "Custom" security modes to reset the polling interval.
+**Quick Answer:** Recent HomeBase 3 system updates released in May and June 2026 are causing 15–60% daily [battery drain](https://quvii.com/blog/blink-camera-battery-drain-summer-heat-2026) on eufyCam S3 Pro and [SoloCam S340](https://quvii.com/learn/reolink-argus-4-pro-vs-eufy-solocam-s340) units. The issue stems from a communication loop between the cameras and the HomeBase, preventing the hardware from entering "sleep" mode. Current fixes include requesting a manual firmware patch from Eufy support or switching to "Custom" security modes to reset the polling interval.
 
 ## What happened
 

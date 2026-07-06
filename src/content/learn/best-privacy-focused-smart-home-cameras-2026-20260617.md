@@ -30,7 +30,7 @@ In an age where smart devices constantly collect data, choosing a home security 
 
 # The Best Privacy-Focused Smart Home Cameras for 2026
 
-For 2026, the best privacy-focused smart home cameras emphasize local storage, on-device AI processing, and robust encryption to minimize cloud reliance and subscription fees. Leading options include models from Reolink (such as the Argus 4 Pro) and Eufy (like the Indoor Cam E30 or [EufyCam S3 Pro](https://quvii.com/learn/eufycam-s3-pro-solar-charging-efficiency-tips)), which offer features like microSD card storage, NVR compatibility, and end-to-end encryption without mandatory subscriptions.
+For 2026, the best privacy-focused smart home cameras emphasize local storage, on-device AI processing, and robust encryption to minimize cloud reliance and subscription fees. Leading options include models from Reolink (such as the [Argus 4 Pro](https://quvii.com/learn/reolink-argus-4-pro-vs-eufy-solocam-s340)) and Eufy (like the Indoor Cam E30 or [EufyCam S3 Pro](https://quvii.com/learn/eufycam-s3-pro-solar-charging-efficiency-tips)), which offer features like microSD card storage, NVR compatibility, and end-to-end encryption without mandatory subscriptions.
 
 ## What it means
 
@@ -137,7 +137,7 @@ For 2026, several models stand out for their commitment to privacy, offering rob
 
 | Model                     | Resolution | Storage Type        | On-Device AI Detection | Price Band     | E2EE Claimed |
 | :------------------------ | :--------- | :------------------ | :--------------------- | :------------- | :----------- |
-| [Reolink Argus](https://quvii.com/learn/reolink-argus-3-pro-solar-charging-issues-2026) 4 Pro       | 4K UHD     | microSD             | Person, Vehicle, Pet   | Under $150     | Yes          |
+| [Reolink Argus](https://quvii.com/learn/reolink-argus-3-pro-solar-charging-issues-2026) [4 Pro](https://quvii.com/learn/reolink-argus-4-pro-vs-eufy-solocam-s340)       | 4K UHD     | microSD             | Person, Vehicle, Pet   | Under $150     | Yes          |
 | Eufy Indoor Cam E30 (S350)| 4K UHD     | microSD             | Person, Pet            | Under $55      | Yes          |
 | Lorex 4K Spotlight Camera | 4K         | microSD, NVR        | Person, Vehicle        | $150-200       | Yes          |
 | TP-Link Tapo C120         | 2K QHD     | microSD             | Person                 | Around $40-50  | Yes          |

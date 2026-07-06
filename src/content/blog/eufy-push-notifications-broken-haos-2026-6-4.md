@@ -138,7 +138,7 @@ The first step is to address the most common "silent" failure point.
 
 ### Re-syncing the Integration
 If your app settings are correct but HA is still silent:
-1.  Navigate to **Settings > Add-ons** in Home Assistant.
+1.  Navigate to **Settings > Add-ons** in [Home Assistant](https://quvii.com/learn/ring-plugin-not-streaming-home-assistant-2026-7-fix).
 2.  Locate **eufy-security-ws** and ensure it is updated to **v1.8.4** or higher. This version contains the initial patch for Python 3.14 compatibility.
 3.  Go to **Settings > Devices & Services**.
 4.  Find the [Eufy Security integration](https://quvii.com/blog/eufy-home-assistant-integration-issues-july-2026), click the three dots, and select **Reload**.

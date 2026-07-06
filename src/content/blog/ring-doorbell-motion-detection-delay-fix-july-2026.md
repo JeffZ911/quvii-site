@@ -99,7 +99,7 @@ If you already own a Ring doorbell and are experiencing delays, the issue is lik
 3.  **Overlapping Motion Zones:** Setting zones that are too large or include public sidewalks can overwhelm the processor, causing it to "choke" on data and delay the notification you actually care about.
 
 ### Understanding Ring Protect Plan Changes
-Owners of older models should note that as of the 2026 plan migration, some legacy features have been moved to the "Ring Multi" tier. If your motion alerts suddenly feel less "intelligent" or you’ve lost the ability to filter for "Package Alerts," check if your plan was automatically transitioned to the "Solo" tier, which may lack the advanced AI processing required for those specific triggers.
+Owners of older models should note that as of the 2026 plan migration, some legacy features have been moved to the "Ring Multi" tier. If your [motion alerts](https://quvii.com/blog/ring-doorbell-not-sending-motion-alerts-streaming-fix) suddenly feel less "intelligent" or you’ve lost the ability to filter for "Package Alerts," check if your plan was automatically transitioned to the "Solo" tier, which may lack the advanced AI processing required for those specific triggers.
 
 ### Hardware and Network Limitations
 The jump to Wi-Fi 6 in the 2026 Wired Pro 3rd Gen highlights a growing gap. Older Ring models (Video Doorbell 2, 3, and 4) rely on Wi-Fi 5 or even 2.4 GHz Wi-Fi 4. In a modern home filled with smart bulbs, laptops, and streaming devices, these older doorbells struggle to compete for bandwidth. This network "jitter" is a primary cause of the spinning blue circle when you try to answer a motion alert.

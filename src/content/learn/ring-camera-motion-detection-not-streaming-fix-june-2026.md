@@ -158,7 +158,7 @@ Understanding the total cost of ownership (TCO) for a Ring camera goes beyond th
     *   **Ring Protect Plus:** Around $10-$12/month or $100-$120/year per household. This covers all Ring cameras at one address and includes extended warranties and professional monitoring discounts for Ring Alarm.
     *   **Ring Protect Pro:** Around $20-$25/month or $200-$250/year per household. This is the most comprehensive plan, including all Plus features, 24/7 professional monitoring for Ring Alarm, and backup internet.
 
-3.  **The "Feature Paywall" Trap:** Many advanced features that enhance security and convenience, such as Person Detection, AI Unusual Event Alerts, Video Descriptions, and cloud storage for reviewing past events, are locked behind a Ring Protect subscription. Without it, you primarily get live view and motion notifications, severely limiting the camera's utility. This means the sticker price only gets you partial functionality; the full experience requires a recurring payment.
+3.  **The "Feature Paywall" Trap:** Many advanced features that enhance security and convenience, such as Person Detection, AI Unusual Event Alerts, Video Descriptions, and cloud storage for reviewing past events, are locked behind a Ring Protect subscription. Without it, you primarily get live view and [motion notifications](https://quvii.com/learn/eufy-camera-motion-notifications-not-working), severely limiting the camera's utility. This means the sticker price only gets you partial functionality; the full experience requires a recurring payment.
 
 **Example 3-Year Cost Breakdown (for one camera with Ring Protect Basic):**
 
