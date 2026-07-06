@@ -157,5 +157,5 @@ It depends on the brand's policy. Most manufacturers, including Arlo and [Google
 - [Google Nest](https://quvii.com/blog/google-nest-community-migration-outage-fixes-2026-20260625) Cam Technical Specifications
 - Ring Battery Doorbell Pro Product Page — https://ring.com/products/battery-doorbell-pro
 - [Reolink Argus](https://quvii.com/learn/reolink-argus-3-pro-solar-charging-issues-2026) [4 Pro](https://quvii.com/learn/reolink-argus-4-pro-vs-eufy-solocam-s340) Thermal Data — https://reolink.com/product/argus-4-pro/
-- Eufy SoloCam S340 Environmental Limits
+- [Eufy SoloCam S340](https://quvii.com/learn/reolink-argus-4-pro-vs-eufy-solocam-s340) Environmental Limits
 - Ring Terms of Service and Warranty — https://ring.com/terms

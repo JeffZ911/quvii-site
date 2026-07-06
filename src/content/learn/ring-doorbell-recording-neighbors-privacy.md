@@ -26,7 +26,7 @@ inline_image_sections:
   - "Further reading"
 ---
 
-Many homeowners install smart doorbells for security, convenience, and peace of mind, but a common concern arises: is your Ring doorbell inadvertently recording neighbors without their explicit consent? The answer is often yes, depending on configuration and location. A Ring doorbell can record neighbors without their explicit permission if its field of view or motion detection zones extend beyond your property, potentially capturing public spaces or adjacent private areas. Users can mitigate this by adjusting privacy settings like motion zones and enabling end-to-end encryption, though some features may be disabled. Legal implications vary by state and can lead to disputes or lawsuits.
+Many homeowners install smart doorbells for security, convenience, and peace of mind, but a common concern arises: is your Ring doorbell inadvertently recording neighbors without their explicit consent? The answer is often yes, depending on configuration and location. A Ring doorbell can record neighbors without their explicit permission if its field of view or motion detection zones extend beyond your property, potentially capturing public spaces or adjacent private areas. Users can mitigate this by adjusting [privacy settings](https://quvii.com/learn/eufy-camera-privacy-settings-summer-guests-20260705) like motion zones and enabling end-to-end encryption, though some features may be disabled. Legal implications vary by state and can lead to disputes or lawsuits.
 
 # Is Your Ring Doorbell Recording Neighbors Without Permission?
 

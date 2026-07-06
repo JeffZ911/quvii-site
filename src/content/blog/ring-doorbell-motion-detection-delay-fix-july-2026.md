@@ -23,11 +23,11 @@ inline_image_sections:
   - "What to do now"
 ---
 
-A security camera that notifies you after a visitor has already walked away is a liability, not an asset. As of July 2026, motion detection latency remains the most frequent technical complaint among Ring users, despite significant hardware iterations.
+A security camera that notifies you after a visitor has already walked away is a liability, not an asset. As of July 2026, [motion detection](https://quvii.com/blog/eufy-doorbell-motion-detection-not-working-july-2026) latency remains the most frequent technical complaint among Ring users, despite significant hardware iterations.
 
 # Ring Doorbell Motion Detection Delay Fixes: July 2026 Update
 
-**Quick Answer:** As of July 2026, Ring doorbell motion detection delays are often addressable through a combination of optimizing in-app settings (like motion zones and sensitivity), ensuring strong Wi-Fi connectivity, and updating device firmware. While Ring has introduced AI-powered enhancements in newer models like the Wired Video Doorbell Pro (3rd Gen) to improve detection, user-side configuration and network health remain critical for timely alerts.
+**Quick Answer:** As of July 2026, Ring [doorbell motion detection](https://quvii.com/blog/eufy-doorbell-motion-detection-not-working-july-2026) delays are often addressable through a combination of optimizing in-app settings (like motion zones and sensitivity), ensuring strong Wi-Fi connectivity, and updating device firmware. While Ring has introduced AI-powered enhancements in newer models like the Wired Video Doorbell Pro (3rd Gen) to improve detection, user-side configuration and network health remain critical for timely alerts.
 
 ## What happened
 

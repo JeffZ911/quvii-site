@@ -86,7 +86,7 @@ As we move further into 2026, the gap between "consumer-grade" and "prosumer-gra
 ![Impact on existing owners](/img/eufy-push-notifications-broken-haos-2026-6-4/inline-3.webp)
 
 
-For the thousands of households already running Eufy hardware via Home Assistant, the 2026.6.4 update has transformed a proactive security system into a passive recording device.
+For the thousands of households already running Eufy hardware via [Home Assistant](https://quvii.com/learn/ring-plugin-not-streaming-home-assistant-2026-7-fix), the 2026.6.4 update has transformed a proactive security system into a passive recording device.
 
 ### Broken Automations and Safety Risks
 The most immediate impact is the failure of "if-this-then-that" logic. Users on the r/HomeAssistant community have reported that critical automations—such as turning on high-intensity floodlights when a person is detected—simply no longer trigger. Because the `binary_sensor.motion` entity in Home Assistant remains in a "Clear" state, the smart home is effectively blind to the events occurring on the camera's lens. This creates a genuine safety risk for those who rely on HA for perimeter alerts.

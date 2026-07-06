@@ -21,7 +21,7 @@ inline_image_sections:
   - "What to do now"
 ---
 
-For smart home enthusiasts, the promise of Eufy Security has always been "local-first" privacy without the burden of monthly fees, but for those bridging these cameras into Home Assistant, that promise is currently facing a period of significant technical friction.
+For smart home enthusiasts, the promise of Eufy Security has always been "local-first" privacy without the burden of monthly fees, but for those bridging these cameras into [Home Assistant](https://quvii.com/learn/ring-plugin-not-streaming-home-assistant-2026-7-fix), that promise is currently facing a period of significant technical friction.
 
 # Eufy Security & Home Assistant: Unpacking Recent Integration Challenges (July 2026)
 

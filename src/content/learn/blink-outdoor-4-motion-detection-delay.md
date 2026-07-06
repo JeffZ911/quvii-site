@@ -72,7 +72,7 @@ The presence of [motion detection](https://quvii.com/blog/ring-camera-motion-str
 ![How it works under the hood](/img/blink-outdoor-4-motion-detection-delay/inline-3.webp)
 
 
-Understanding the underlying technology of the Blink Outdoor 4 provides insight into why motion detection delays occur and how they can be managed.
+Understanding the underlying technology of the Blink Outdoor 4 provides insight into why [motion detection](https://quvii.com/blog/eufy-doorbell-motion-detection-not-working-july-2026) delays occur and how they can be managed.
 
 ### PIR Sensor Mechanics
 

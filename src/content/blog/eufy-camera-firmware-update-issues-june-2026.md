@@ -123,7 +123,7 @@ Navigating the current Eufy landscape requires a balance of technical troublesho
 ### Advice for Prospective Eufy Camera Buyers
 If you are considering Eufy in June 2026, **exercise caution**. While the hardware specs remain top-tier (4K resolution, dual-lens zoom, BionicMind AI), the software is in a state of flux.
 *   **Check the "Return Window":** Only buy from retailers with at least a 30-day return policy. Test the system immediately upon arrival.
-*   **Research Specific Models:** Avoid the SoloCam S340 until Eufy confirms a hardware revision or a foolproof recovery method for the Wi-Fi "bricking" issue.
+*   **Research Specific Models:** Avoid the [SoloCam S340](https://quvii.com/learn/reolink-argus-4-pro-vs-eufy-solocam-s340) until Eufy confirms a hardware revision or a foolproof recovery method for the Wi-Fi "bricking" issue.
 *   **Consider Alternatives:** If reliability is your #1 priority, look at brands with more conservative update cycles or those that allow for local-only firmware management without forced OTA updates.
 
 ### Immediate Steps for Affected Eufy Owners

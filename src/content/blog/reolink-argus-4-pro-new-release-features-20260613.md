@@ -44,7 +44,7 @@ Connectivity also received a significant upgrade. The Argus [4 Pro](https://quvi
 
 ### Key Specifications at a Glance
 
-The following table outlines the core technical specifications of the Argus 4 Pro based on [official manufacturer data](https://reolink.com/product/argus-4-pro/).
+The following table outlines the core technical specifications of the [Argus 4 Pro](https://quvii.com/learn/reolink-argus-4-pro-vs-eufy-solocam-s340) based on [official manufacturer data](https://reolink.com/product/argus-4-pro/).
 
 | Feature | Specification |
 | :--- | :--- |
@@ -60,9 +60,9 @@ The following table outlines the core technical specifications of the Argus 4 Pr
 
 ### Design and Build Quality
 
-The Argus 4 Pro features a distinct dual-lens housing that is wider than previous Argus models to accommodate the panoramic optics. Despite the increased complexity of the lens array, the unit remains relatively compact and is rated IP66 for weather resistance, meaning it is protected against heavy rain and dust. 
+The [Argus 4](https://quvii.com/learn/reolink-argus-4-pro-vs-eufy-solocam-s340) Pro features a distinct dual-lens housing that is wider than previous Argus models to accommodate the panoramic optics. Despite the increased complexity of the lens array, the unit remains relatively compact and is rated IP66 for weather resistance, meaning it is protected against heavy rain and dust. 
 
-The build quality is consistent with Reolink’s higher-end outdoor units, utilizing a durable polycarbonate shell. The camera includes a standard screw-in mount that allows for articulation, though the 180° field of view means that precise aiming is often less critical than with narrower-angle cameras. One notable design change is the removal of the traditional PIR sensor "bump" seen on older models; the Argus 4 Pro relies on advanced image-based detection and optimized low-power sensors to trigger recordings.
+The build quality is consistent with Reolink’s higher-end outdoor units, utilizing a durable polycarbonate shell. The camera includes a standard screw-in mount that allows for articulation, though the 180° field of view means that precise aiming is often less critical than with narrower-angle cameras. One notable design change is the removal of the traditional PIR sensor "bump" seen on older models; the Argus [4 Pro](https://quvii.com/learn/reolink-argus-4-pro-vs-eufy-solocam-s340) relies on advanced image-based detection and optimized low-power sensors to trigger recordings.
 
 ## Why it matters for buyers
 
