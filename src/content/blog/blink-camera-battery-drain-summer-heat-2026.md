@@ -177,7 +177,7 @@ Direct, prolonged exposure to intense sunlight can cause the camera's internal t
 *   Reddit.com — [Blink Outdoor 4 battery](/learn/blink-outdoor-4-battery-life-extreme-heat) life in hot weather
 *   Blinkforhome.com — Blink Mini 2 Product Page
 *   Blinkforhome.com — Blink [Outdoor 4](https://quvii.com/learn/blink-outdoor-4-motion-detection-delay) Product Page
-*   Blinkforhome.com — Blink Video Doorbell Product Page
+*   Blinkforhome.com — Blink [Video Doorbell](https://quvii.com/blog/tuya-wifi-video-doorbell-setup-integration-guide-2026) Product Page
 *   Blinkforhome.com — Blink Indoor Camera Product Page
 *   Blinkforhome.com — Blink Sync Module 2 Product Page
 *   Amazonforum.com — [Blink Outdoor 4](https://quvii.com/learn/blink-outdoor-4-motion-detection-delay) [Battery Life](https://quvii.com/blog/tapo-c425-battery-drain-june-update-impact) Concerns

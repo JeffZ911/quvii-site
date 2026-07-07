@@ -100,7 +100,7 @@ A failure in live viewing isn't just a technical nuisance; it has tangible secur
 *   **Delayed Response:** If a "Person Detected" alert arrives, but the live view fails to load, those 30 seconds of troubleshooting are the difference between catching a package thief and seeing an empty porch.
 *   **False Sense of Security:** Users may assume the camera is recording because the status LED is green, but if the network is congested, the camera may fail to upload "Event Clips" to the cloud, leaving you with no evidence of an incident.
 *   **Battery Degradation:** On battery-powered models like the C420, a camera that constantly tries to reconnect to a weak Wi-Fi signal will drain its battery in weeks rather than the advertised months. The "radio-on" time is the most significant power draw for wireless cameras.
-*   **System Trust:** Frequent failures lead to "alert fatigue" where the user stops checking notifications because they expect the stream to fail anyway, defeating the purpose of a monitored security system.
+*   **System Trust:** Frequent failures lead to "alert fatigue" where the user stops checking notifications because they expect the stream to fail anyway, defeating the purpose of a [monitored security](https://quvii.com/blog/monitored-security-without-smart-features) system.
 
 ## Common misconceptions
 

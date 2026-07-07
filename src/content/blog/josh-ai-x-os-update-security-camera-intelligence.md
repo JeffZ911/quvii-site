@@ -107,7 +107,7 @@ While Josh.ai supports a wide range of cameras via ONVIF and RTSP protocols, the
 No, Josh.ai emphasizes local processing. Much of the natural language processing and video metadata analysis is handled by the Josh Core processor located physically in your home. This reduces latency and ensures that private video data does not need to be uploaded to a third-party server for analysis.
 
 ### How does "Camera Capture" differ from a standard NVR?
-A standard NVR records video and may have basic motion detection. Josh.ai "Camera Capture" uses generative AI to interpret that video. Instead of just seeing "Motion Detected," the system can identify specific objects and events, allowing you to search your history using natural language voice commands.
+A standard NVR records video and may have basic [motion detection](https://quvii.com/blog/eufy-doorbell-motion-detection-not-working-july-2026). Josh.ai "Camera Capture" uses generative AI to interpret that video. Instead of just seeing "Motion Detected," the system can identify specific objects and events, allowing you to search your history using natural language voice commands.
 
 ## Sources
 - Josh.ai Official Site — https://www.josh.ai

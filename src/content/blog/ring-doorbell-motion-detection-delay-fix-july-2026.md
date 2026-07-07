@@ -171,7 +171,7 @@ While not strictly necessary, Wi-Fi 6 (found in the Wired Pro 3rd Gen) handles "
 The spinning circle indicates a connection timeout. This happens when your phone's cellular data or the doorbell's Wi-Fi is too weak to establish a high-bandwidth video stream. Lowering the video quality settings (if available) or improving the doorbell's RSSI are the most effective fixes.
 
 ## Sources
-- Ring Official Support: Troubleshooting Motion Alerts — https://support.ring.com/hc/en-us/articles/210781036-Troubleshooting-Notifications-for-iOS-and-Android
+- Ring Official Support: Troubleshooting [Motion Alerts](https://quvii.com/blog/ring-doorbell-not-sending-motion-alerts-streaming-fix) — https://support.ring.com/hc/en-us/articles/210781036-Troubleshooting-Notifications-for-iOS-and-Android
 - Ring Product Specifications (Wired Pro 3rd Gen) — https://www.ring.com/products/video-doorbell-pro-2 (Note: Reference point for Pro series specs)
 - Reddit r/HomeSecurity Wiki: Doorbell Latency Issues — https://www.reddit.com/r/homesecurity/
 - Mozilla *Privacy Not Included*: Ring Review

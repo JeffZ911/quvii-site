@@ -27,7 +27,7 @@ Reliability is the baseline requirement for any security system, yet many homeow
 
 # Ring Camera Motion Detection Not Working (July 2026): Your Guide to Troubleshooting and Alternatives
 
-**Quick Answer:** As of July 2026, some Ring camera users are reporting intermittent or complete failures in motion detection, affecting various models including doorbells and stick-up cams. This issue may stem from recent firmware updates, app glitches, or server-side changes, potentially impacting security and leading to missed events. Users should first check in-app settings, Wi-Fi connectivity, and ensure firmware is up to date.
+**Quick Answer:** As of July 2026, some Ring camera users are reporting intermittent or complete failures in [motion detection](https://quvii.com/blog/eufy-doorbell-motion-detection-not-working-july-2026), affecting various models including doorbells and stick-up cams. This issue may stem from recent firmware updates, app glitches, or server-side changes, potentially impacting security and leading to missed events. Users should first check in-app settings, Wi-Fi connectivity, and ensure firmware is up to date.
 
 ## What happened
 
@@ -156,7 +156,7 @@ This is often caused by "Smart Alerts" settings. If you have "Person Detection" 
 Yes. When a Ring battery drops below 20%, the device may enter a power-saving mode that reduces the frequency of motion polling. This can lead to significant delays in detection or a complete failure to trigger until the battery is recharged.
 
 ### Does Ring require a subscription for motion alerts?
-Basic motion alerts (notifying you that *something* moved) do not require a subscription. However, features like "Person Detection," "Rich Notifications" (showing a preview image), and the ability to review recorded clips all require a Ring Home (formerly Ring Protect) plan.
+Basic [motion alerts](https://quvii.com/blog/ring-doorbell-not-sending-motion-alerts-streaming-fix) (notifying you that *something* moved) do not require a subscription. However, features like "Person Detection," "Rich Notifications" (showing a preview image), and the ability to review recorded clips all require a Ring Home (formerly Ring Protect) plan.
 
 ### How do I fix the "delayed notification" issue on Ring?
 Delayed notifications are usually a result of "Signal Interference" or "Battery Optimization." Ensure your RSSI is below -60 and check your phone's settings to ensure the Ring app is not being "put to sleep" by your mobile operating system's battery saver.
