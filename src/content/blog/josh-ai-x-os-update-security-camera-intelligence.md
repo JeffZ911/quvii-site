@@ -9,6 +9,17 @@ published_url: /blog/josh-ai-x-os-update-security-camera-intelligence
 sources: []
 quick_answer: The Josh.ai AI X OS update, launched in June 2026, significantly enhances smart home security camera capabilities with expanded live video integration, AI-powered event detection and analysis, and deeper partnerships for a more intuitive and secure monitoring experience. It focuses on proactive automation and personalized control for integrated surveillance systems.
 game: unknown
+hero_image: /img/josh-ai-x-os-update-security-camera-intelligence/hero.webp
+inline_images:
+  - /img/josh-ai-x-os-update-security-camera-intelligence/inline-1.webp
+  - /img/josh-ai-x-os-update-security-camera-intelligence/inline-2.webp
+  - /img/josh-ai-x-os-update-security-camera-intelligence/inline-3.webp
+  - /img/josh-ai-x-os-update-security-camera-intelligence/inline-4.webp
+inline_image_sections:
+  - "What happened"
+  - "Why it matters for buyers"
+  - "Impact on existing owners"
+  - "What to do now"
 ---
 
 The integration of high-end surveillance into the broader smart home ecosystem has historically been fragmented, often requiring users to toggle between dedicated security apps and home automation platforms. The June 2026 release of Josh.ai’s AI X OS aims to bridge this gap by centering security camera intelligence within a unified, privacy-focused operating system.
@@ -18,6 +29,9 @@ The integration of high-end surveillance into the broader smart home ecosystem h
 The Josh.ai AI X OS update, launched in June 2026, significantly enhances smart home security camera capabilities with expanded live video integration, AI-powered event detection and analysis, and deeper partnerships for a more intuitive and secure monitoring experience. It focuses on proactive automation and personalized control for integrated surveillance systems.
 
 ## What happened
+
+![What happened](/img/josh-ai-x-os-update-security-camera-intelligence/inline-1.webp)
+
 <!-- auto-related -->
 *Related: [Ring Camera Motion Detection Not Working in July 2026: What to Know](/blog/ring-camera-motion-detection-not-working-july-2026) · [Ring Doorbell Motion Detection Delay Fixes: July 2026 Update](/blog/ring-doorbell-motion-detection-delay-fix-july-2026) · [Eufy Doorbell Motion Detection Not Working: July 2026 Fixes](/blog/eufy-doorbell-motion-detection-not-working-july-2026)*
 
@@ -35,6 +49,9 @@ Key features of the AI X OS update include:
 This rollout followed an extensive early access program involving certified Josh.ai dealers, ensuring that the integration with professional-grade camera brands like IC Realtime and Axis Communications remained stable under the new OS architecture.
 
 ## Why it matters for buyers
+
+![Why it matters for buyers](/img/josh-ai-x-os-update-security-camera-intelligence/inline-2.webp)
+
 
 For those in the market for a high-end or professionally installed security system, the AI X OS update changes the value proposition of integrated surveillance. Most consumer-grade cameras (like those from Ring or Nest) operate in "walled gardens," where advanced AI features are locked behind proprietary apps and monthly subscriptions. Josh.ai’s update focuses on bringing that intelligence "on-premises" and integrating it with the rest of the home’s hardware.
 
@@ -69,6 +86,9 @@ When considering the AI X OS, buyers must look at the long-term costs. While con
 
 ## Impact on existing owners
 
+![Impact on existing owners](/img/josh-ai-x-os-update-security-camera-intelligence/inline-3.webp)
+
+
 The transition to AI X OS is designed to be a seamless over-the-air (OTA) update for existing Josh.ai users. Unlike hardware-centric brands that often require new purchases to access software features, Josh.ai’s architecture allows its processors (Josh Core and Josh Micro/Nano) to adopt the new OS capabilities if the underlying network infrastructure supports it.
 
 ### Improved User Experience and Interface
@@ -84,6 +104,9 @@ The AI X OS allows existing owners to build more dynamic security scenes. For ex
 Josh.ai has reaffirmed that its privacy framework remains intact with the AI X OS. Existing data logs remain under the user's control, and the update includes a new "Privacy Dashboard" where owners can see exactly what data is being processed and toggle off specific AI features if they prefer a more manual experience.
 
 ## What to do now
+
+![What to do now](/img/josh-ai-x-os-update-security-camera-intelligence/inline-4.webp)
+
 
 If you are an existing Josh.ai user or are considering an installation following the June 2026 update, here are the recommended steps:
 
