@@ -45,7 +45,7 @@ Users are reporting "blind spots" where the cameras fail to trigger even when su
 
 *   **Ring Video Doorbell (2nd Gen):** Users report a "cooldown" lag where motion is missed if a previous event occurred within the last few minutes.
 *   **[Ring Stick Up Cam](/learn/ring-stick-up-cam-solar-charging-issues-2026) Battery:** Reports of delayed "wake-up" times, where the recording starts only after the subject has left the frame.
-*   **Ring Video Doorbell Pro 2:** Some users indicate that "Bird's Eye View" and 3D Motion Detection (radar-based) are inaccurately filtering out legitimate human movement as "background noise."
+*   **Ring Video Doorbell Pro 2:** Some users indicate that "Bird's Eye View" and 3D [Motion Detection](https://quvii.com/blog/eufy-doorbell-motion-detection-not-working-july-2026) (radar-based) are inaccurately filtering out legitimate human movement as "background noise."
 
 The frustration is compounded by the fact that many of these devices showed high "Device Health" scores and strong RSSI (Received Signal Strength Indicator) values, suggesting the problem is not necessarily localized to the user's home network.
 

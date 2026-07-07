@@ -136,7 +136,7 @@ If guests express discomfort, you can make instant changes. The "Modes" tab in t
 ### Post-Departure Reconfiguration
 Once guests leave, it is essential to revert your settings. 
 *   Remove any temporary Privacy Zones that might create security blind spots.
-*   Re-enable motion detection sensitivity to your standard levels (typically 4 or 5 for outdoor areas).
+*   Re-enable [motion detection](https://quvii.com/blog/eufy-doorbell-motion-detection-not-working-july-2026) sensitivity to your standard levels (typically 4 or 5 for outdoor areas).
 *   Switch the system back to "Geofencing" or "Away" mode.
 
 ### Indoor vs. Outdoor Camera Considerations

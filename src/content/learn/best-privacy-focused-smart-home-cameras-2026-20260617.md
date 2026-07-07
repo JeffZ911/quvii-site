@@ -160,7 +160,7 @@ Another myth is that "privacy-focused cameras are difficult to set up or use." W
 
 ### Feature Limitations
 
-There's a belief that "you can't get smart features without a subscription." This is increasingly false. Brands like Eufy and Reolink offer advanced AI detection (person, vehicle, pet) and rich notifications without requiring monthly fees, leveraging on-device processing power. While some optional, value-added cloud features might exist, the core intelligent functionalities are often available out-of-the-box.
+There's a belief that "you can't get [smart features](https://quvii.com/blog/monitored-security-without-smart-features) without a subscription." This is increasingly false. Brands like Eufy and Reolink offer advanced AI detection (person, vehicle, pet) and rich notifications without requiring monthly fees, leveraging on-device processing power. While some optional, value-added cloud features might exist, the core intelligent functionalities are often available out-of-the-box.
 
 ### Inherent Insecurity
 
