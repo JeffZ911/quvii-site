@@ -81,7 +81,7 @@ In 2026, Ring's subscription model, now branded as **Ring Home** (formerly Ring 
 
 *Source: <a href="https://www.amazon.com/s?k=Ring.com+Pricing+Tiers&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Ring.com Pricing Tiers</a>*
 
-When users pay a recurring fee specifically for "Advanced Motion Detection" and the system fails to detect a person standing three feet from the lens, the value proposition collapses. Furthermore, the "Search Party" feature, which uses AI to scan across different users' cameras to find missing pets or items, raises privacy concerns. If the AI is powerful enough to track a specific object across a neighborhood, yet fails to trigger an alert for a visitor on your own porch, it suggests a prioritization of data-gathering over individual user utility.
+When users pay a recurring fee specifically for "Advanced [Motion Detection](https://quvii.com/blog/eufy-doorbell-motion-detection-not-working-july-2026)" and the system fails to detect a person standing three feet from the lens, the value proposition collapses. Furthermore, the "Search Party" feature, which uses AI to scan across different users' cameras to find missing pets or items, raises privacy concerns. If the AI is powerful enough to track a specific object across a neighborhood, yet fails to trigger an alert for a visitor on your own porch, it suggests a prioritization of data-gathering over individual user utility.
 
 ## Impact on existing owners
 

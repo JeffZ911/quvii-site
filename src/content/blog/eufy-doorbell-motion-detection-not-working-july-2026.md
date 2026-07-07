@@ -74,7 +74,7 @@ Until this recent instability, BionicMind was widely considered a top-tier consu
 **Decision Framework: July 2026 Buying Advice**
 
 *   **If you are a Renter:** The E340 remains a strong choice due to its battery flexibility and dual-camera package detection, but be prepared to use "All Motion" mode until the current firmware stabilizes.
-*   **If you are a Homeowner seeking 100% reliability:** You may want to wait for the confirmed rollout of firmware v3.2.5.x or consider a wired alternative like the Reolink Video Doorbell, which uses simpler (though less "smart") on-device detection.
+*   **If you are a Homeowner seeking 100% reliability:** You may want to wait for the confirmed rollout of firmware v3.2.5.x or consider a wired alternative like the Reolink [Video Doorbell](https://quvii.com/blog/tuya-wifi-video-doorbell-setup-integration-guide-2026), which uses simpler (though less "smart") on-device detection.
 *   **If you are Privacy-Focused:** Despite the current bug, Eufy's local encryption and lack of police cooperation programs (unlike Ring) keep it as a top contender for those who want their data off the cloud.
 
 **Total Cost of Ownership (TCO) Comparison (3-Year Estimate)**

@@ -169,7 +169,7 @@ If Eufy releases a Matter-over-Bridge update for the HomeBase 3, it would allow 
 Yes. In almost all cases involving the HAOS 2026.6.4 break, the camera continues to detect motion and record to the HomeBase 3 or internal storage. The failure is strictly in the *communication* of that event to Home Assistant.
 
 ### Does this issue affect the Eufy Doorbell?
-Yes. The Video Doorbell Dual and the S330 Doorbell use the same push notification logic as the eufyCam series. If your doorbell press automations (like ringing a smart speaker) have stopped working, it is likely due to the HassKey webhook conflict.
+Yes. The [Video Doorbell](https://quvii.com/blog/tuya-wifi-video-doorbell-setup-integration-guide-2026) Dual and the S330 Doorbell use the same push notification logic as the eufyCam series. If your doorbell press automations (like ringing a smart speaker) have stopped working, it is likely due to the HassKey webhook conflict.
 
 ## Sources
 - Eufy Security Official Support — [https://support.eufy.com/s/](https://support.eufy.com/s/)
