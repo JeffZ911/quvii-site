@@ -137,7 +137,7 @@ Yes, formatting the internal storage or the added hard drive/SSD will clear the 
 No, Eufy does not currently gate its AI features behind a subscription. If the local AI fails, you do not lose money on a subscription, but you do lose the core functionality of the camera. This is the primary difference between Eufy and competitors like Arlo or Ring, where AI is handled in the cloud via a paid plan.
 
 ## Sources
-- Eufy Official Support: Video Doorbell E340 Specs
+- Eufy Official Support: [Video Doorbell](https://quvii.com/blog/tuya-wifi-video-doorbell-setup-integration-guide-2026) E340 Specs
 - Reddit: r/EufyCam Community Troubleshooting Thread July 2026
 - Eufy Privacy Policy & Data Handling
 - RTINGS: Eufy Video Doorbell Dual Review & Lab Tests

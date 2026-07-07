@@ -197,7 +197,7 @@ Ring recommends a minimum upload speed of at least 1 Mbps per device for optimal
 
 ### Does End-to-End Encryption affect Ring camera features?
 
-Yes, enabling End-to-End Encryption (E2EE) on Ring cameras disables certain smart features. These include person detection, rich notifications with video previews, facial recognition (Familiar Faces), and AI-powered video search, as these features rely on cloud processing of unencrypted video.
+Yes, enabling End-to-End Encryption (E2EE) on Ring cameras disables certain [smart features](https://quvii.com/blog/monitored-security-without-smart-features). These include person detection, rich notifications with video previews, facial recognition (Familiar Faces), and AI-powered video search, as these features rely on cloud processing of unencrypted video.
 
 ### How often should I update my Ring app and camera firmware?
 

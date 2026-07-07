@@ -96,7 +96,7 @@ For users with a Ring Protect subscription, AI-powered features significantly en
 
 Finally, a stable Wi-Fi signal is critical. A weak Wi-Fi connection forces the device to work harder to transmit data and can lead to delayed notifications or missed events as the camera struggles to stay connected or upload footage. The Ring [Battery Doorbell Plus](https://quvii.com/learn/ring-battery-doorbell-plus-firmware-update-june-2026) (2nd Gen) supports dual-band Wi-Fi 6 (2.4GHz and 5GHz), which can improve connection stability and speed compared to older 2.4GHz-only models.
 
-Here's a summary of key specifications and motion detection features for the Ring Battery [Doorbell Plus](https://quvii.com/learn/ring-battery-doorbell-plus-firmware-update-june-2026) (2nd Gen):
+Here's a summary of key specifications and [motion detection](https://quvii.com/blog/eufy-doorbell-motion-detection-not-working-july-2026) features for the Ring Battery [Doorbell Plus](https://quvii.com/learn/ring-battery-doorbell-plus-firmware-update-june-2026) (2nd Gen):
 
 | Feature                   | Specification                                         | Source    |
 | :------------------------ | :---------------------------------------------------- | :-------- |

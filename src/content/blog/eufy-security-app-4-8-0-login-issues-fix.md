@@ -100,7 +100,7 @@ The server-side security updates that led to the 4.8.0 login issues primarily re
 *   **eufyCam series** (e.g., eufyCam 2, 2 Pro, 3, 3C)
 *   **SoloCam series** (e.g., SoloCam S230, S340, L20)
 *   **Indoor Cam series** (e.g., Indoor Cam C220, P24)
-*   **Video Doorbell series** (e.g., Video Doorbell 2K, Dual, E340)
+*   **[Video Doorbell](https://quvii.com/blog/tuya-wifi-video-doorbell-setup-integration-guide-2026) series** (e.g., Video Doorbell 2K, Dual, E340)
 
 ## What to do now
 

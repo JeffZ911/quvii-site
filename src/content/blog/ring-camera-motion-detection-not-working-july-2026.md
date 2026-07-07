@@ -92,7 +92,7 @@ If you already own Ring hardware and are experiencing these issues, you are like
 
 ### Immediate Security Risks
 
-The most immediate risk is the loss of evidence. Unlike systems with local storage (such as Reolink or Eufy), most Ring cameras do not record unless motion is "verified" by the cloud. If the motion detection fails to trigger, there is no footage to review later. This makes it impossible to provide evidence to police or insurance companies following a theft or vandalism event.
+The most immediate risk is the loss of evidence. Unlike systems with local storage (such as Reolink or Eufy), most Ring cameras do not record unless motion is "verified" by the cloud. If the [motion detection](https://quvii.com/blog/eufy-doorbell-motion-detection-not-working-july-2026) fails to trigger, there is no footage to review later. This makes it impossible to provide evidence to police or insurance companies following a theft or vandalism event.
 
 ### Troubleshooting Steps for Current Ring Users
 

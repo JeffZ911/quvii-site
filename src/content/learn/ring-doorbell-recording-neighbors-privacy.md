@@ -217,7 +217,7 @@ You can stop your Ring doorbell from recording your neighbor's property by using
 Without a Ring Protect subscription, your Ring doorbell will still provide live view and send [motion alerts](https://quvii.com/learn/nest-cam-battery-false-motion-alerts-shadows-fixes), but it will not record or save any video footage. You will not be able to review past events or download clips.
 
 ### Is End-to-End Encryption (E2EE) available on all Ring doorbells?
-E2EE is available on many newer Ring doorbell models, but it is an optional feature that must be manually enabled. It is not supported on all older models, and enabling it disables several smart features like shared users and pre-roll.
+E2EE is available on many newer Ring doorbell models, but it is an optional feature that must be manually enabled. It is not supported on all older models, and enabling it disables several [smart features](https://quvii.com/blog/monitored-security-without-smart-features) like shared users and pre-roll.
 
 ## Sources
 
