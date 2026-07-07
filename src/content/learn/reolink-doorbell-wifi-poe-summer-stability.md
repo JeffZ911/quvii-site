@@ -178,7 +178,7 @@ Several misconceptions often arise when discussing Wi-Fi versus PoE doorbell cam
 
 ### Wi-Fi vs. Wired Stability Nuances
 
-**Misconception 1: All Wi-Fi is inherently unstable.** While it's true that PoE offers a dedicated, wired connection that is generally more stable, a well-configured dual-band Wi-Fi network (2.4/5GHz, supported by the Reolink WiFi doorbell) can be quite stable. Modern Wi-Fi standards and good router placement can provide reliable connectivity. However, Wi-Fi remains susceptible to external interference from neighboring networks, physical obstructions (like thick walls), and general network congestion, which can be more prevalent during summer when more devices are active. The stability of Wi-Fi is highly dependent on the quality of your home network setup.
+**Misconception 1: All Wi-Fi is inherently unstable.** While it's true that PoE offers a dedicated, wired connection that is generally more stable, a well-configured dual-band Wi-Fi network (2.4/5GHz, supported by the Reolink WiFi doorbell) can be quite stable. Modern Wi-Fi standards and good router placement can provide reliable connectivity. However, Wi-Fi remains susceptible to external interference from neighboring networks, physical obstructions (like thick walls), and general network congestion, which can be more prevalent [during summer](https://quvii.com/learn/nest-camera-offline-summer-storms-2026) when more devices are active. The stability of Wi-Fi is highly dependent on the quality of your home network setup.
 
 ### Comprehensive Heat Impact on Electronics
 

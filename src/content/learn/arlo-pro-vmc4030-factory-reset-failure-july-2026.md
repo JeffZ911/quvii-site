@@ -158,7 +158,7 @@ A common piece of advice on Reddit is to "hold the sync button for 15 seconds to
 Many users attempt to fix reset failures by moving their Wi-Fi router closer to the camera. This is a misunderstanding of the hardware. The VMC4030 does not connect to your Wi-Fi. It connects to the **Arlo Base Station**. If you are having sync issues, the distance between the camera and the Base Station is what matters. In fact, placing the camera *too close* to a high-powered Wi-Fi 7 router (common in 2026) can cause RF interference that prevents the sync handshake.
 
 ### The "Cloud Lag" Misdiagnosis
-Users often assume a reset is needed because their motion alerts are delayed by 10-20 seconds. In July 2026, this lag is almost always a cloud-processing issue on Arlo’s side, specifically regarding the AI "Smart Alerts" (Person/Vehicle detection). Resetting the local hardware will not fix server-side processing delays.
+Users often assume a reset is needed because their [motion alerts](https://quvii.com/blog/ring-doorbell-not-sending-motion-alerts-streaming-fix) are delayed by 10-20 seconds. In July 2026, this lag is almost always a cloud-processing issue on Arlo’s side, specifically regarding the AI "Smart Alerts" (Person/Vehicle detection). Resetting the local hardware will not fix server-side processing delays.
 
 ### LED Status Guide for VMC4030
 *   **Blinking Blue (Slow):** In sync mode, searching for Base Station.

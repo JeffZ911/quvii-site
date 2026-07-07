@@ -147,7 +147,7 @@ Understanding the long-term cost of a security camera involves more than just th
 *   Cam Plus (3 years): $60-90
 *   **Total: Around $100 - $150**
 
-This estimate demonstrates that while the initial hardware cost of Wyze cameras is low, the addition of a subscription significantly increases the long-term financial commitment, especially if you desire the full suite of smart features. Buyers should factor in these recurring costs when comparing different security camera systems.
+This estimate demonstrates that while the initial hardware cost of Wyze cameras is low, the addition of a subscription significantly increases the long-term financial commitment, especially if you desire the full suite of [smart features](https://quvii.com/blog/monitored-security-without-smart-features). Buyers should factor in these recurring costs when comparing different security camera systems.
 
 ## Frequently Asked Questions
 

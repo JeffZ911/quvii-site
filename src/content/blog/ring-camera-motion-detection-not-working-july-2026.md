@@ -37,7 +37,7 @@ Reliability is the baseline requirement for any security system, yet many homeow
 *Related: [Ring Doorbell Motion Detection Delay Fixes: July 2026 Update](/blog/ring-doorbell-motion-detection-delay-fix-july-2026) · [Eufy Doorbell Motion Detection Not Working: July 2026 Fixes](/blog/eufy-doorbell-motion-detection-not-working-july-2026) · [Eufy 'Silent Registration' Discovery: What It Means for Your Privacy](/blog/eufy-push-channel-silent-registration-succeeds-explained)*
 
 
-In early July 2026, a significant volume of reports surfaced across community hubs like r/Ring and the Ring Community forums regarding a sudden degradation in motion detection reliability. While Ring has not officially declared a system-wide outage on its status page, the symptoms described by users are remarkably consistent across different hardware generations.
+In early July 2026, a significant volume of reports surfaced across community hubs like r/Ring and the Ring Community forums regarding a sudden degradation in [motion detection](https://quvii.com/blog/eufy-doorbell-motion-detection-not-working-july-2026) reliability. While Ring has not officially declared a system-wide outage on its status page, the symptoms described by users are remarkably consistent across different hardware generations.
 
 ### Community Reports and Affected Models
 

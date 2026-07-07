@@ -53,7 +53,7 @@ The security industry, acutely aware of these concerns, continues to innovate. R
 ![Why it matters for buyers](/img/smart-locks-power-outages-safety-2026/inline-2.webp)
 
 
-Understanding the nuances of smart lock operation during a power outage is paramount for buyers. The distinction between core functionality and advanced smart features becomes critical, as does the ripple effect a power loss can have on your entire security ecosystem.
+Understanding the nuances of smart lock operation during a power outage is paramount for buyers. The distinction between core functionality and advanced [smart features](https://quvii.com/blog/monitored-security-without-smart-features) becomes critical, as does the ripple effect a power loss can have on your entire security ecosystem.
 
 ### Smart Lock Functionality: What Stays, What Goes
 

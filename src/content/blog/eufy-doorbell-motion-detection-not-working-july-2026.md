@@ -54,7 +54,7 @@ Currently, the AI Verification step is failing to return a "Human" match even wh
 | Component | Affected Version | Status (as of July 6, 2026) |
 | :--- | :--- | :--- |
 | **HomeBase 3 (S380)** | v3.4.5.x | Investigating AI Cache Errors |
-| **Video Doorbell E340** | v3.2.3.0 | Human Detection Intermittent |
+| **[Video Doorbell](https://quvii.com/blog/tuya-wifi-video-doorbell-setup-integration-guide-2026) E340** | v3.2.3.0 | Human Detection Intermittent |
 | **Video Doorbell S330** | v2.1.8.x | Human Detection Intermittent |
 | **BionicMind Engine** | v2.0 | Metadata Corruption Reported |
 

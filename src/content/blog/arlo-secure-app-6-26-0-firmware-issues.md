@@ -52,7 +52,7 @@ Beyond the arming bug, the 6.26.[0 update](https://quvii.com/blog/eufy-security-
 | **Arlo Ultra 2** | 4K HDR | Silent Disarm / Rapid [Battery Drain](https://quvii.com/learn/blink-outdoor-4-battery-drain-june-2026) | SmartHub (VMB5000) |
 | **[Arlo Pro](https://quvii.com/learn/arlo-pro-vmc4030-factory-reset-failure-july-2026) 5S** | 2K HDR | Geofencing Failure / Offline Status | Dual-Band Wi-Fi |
 | **[Arlo Essential](https://quvii.com/blog/arlo-essential-2k-firmware-bricking-update) (Gen 2)** | 2K | Cropped Feed Thumbnails | Direct Wi-Fi |
-| **Arlo Video Doorbell** | 2K | 3:00 AM Update Reboot Loop | Direct Wi-Fi |
+| **Arlo [Video Doorbell](https://quvii.com/blog/tuya-wifi-video-doorbell-setup-integration-guide-2026)** | 2K | 3:00 AM Update Reboot Loop | Direct Wi-Fi |
 | **SmartHub VMB5000** | N/A | Solid Amber Light (Firmware Hang) | Ethernet to Router |
 
 *Data synthesized from Arlo Support Documentation and user-reported telemetry.*
