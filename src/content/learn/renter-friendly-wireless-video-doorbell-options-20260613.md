@@ -175,7 +175,7 @@ Several misunderstandings often surround renter-friendly wireless video doorbell
 To help you decide, consider these common scenarios:
 
 *   **If you prioritize absolute no-damage installation and portability:** Prioritize models with over-the-door brackets or adhesive mounts. Look for devices with long battery life to minimize removal for charging.
-*   **If you have an existing peephole and want a discreet solution:** Prioritize peephole camera models like the Aqara G4. Ensure it offers the video quality and smart features you need.
+*   **If you have an existing peephole and want a discreet solution:** Prioritize peephole camera models like the Aqara G4. Ensure it offers the video quality and [smart features](https://quvii.com/blog/monitored-security-without-smart-features) you need.
 *   **If you want to avoid all subscription fees:** Prioritize doorbells with robust local storage options (microSD card or a compatible home base/hub included). Brands like Eufy and Reolink excel here.
 *   **If Wi-Fi signal at your door is weak:** Prioritize doorbells that support both 2.4GHz and 5GHz Wi-Fi, or plan to invest in a Wi-Fi extender for optimal performance.
 *   **If package delivery monitoring is crucial:** Prioritize models with dedicated package detection AI, often found in dual-camera setups like the Eufy Video Doorbell E340, which has a downward-facing camera.

@@ -73,7 +73,7 @@ Furthermore, optimizing recording storage is a significant benefit, especially f
 
 The Ring Battery [Doorbell Plus](https://quvii.com/learn/ring-battery-doorbell-plus-firmware-update-june-2026) (2nd Gen), like other battery-powered Ring devices, primarily relies on Passive Infrared (PIR) sensors for initial [motion detection](https://quvii.com/blog/eufy-doorbell-motion-detection-not-working-july-2026). Unlike wired cameras that can continuously analyze pixels in the video stream for changes (pixel-based detection), PIR sensors detect changes in heat signatures, such as those emitted by people or large animals. When a heat signature is detected, it "wakes" the camera, which then begins recording video. This power-saving approach is essential for extending battery life but can be less precise than pixel-based detection, making it susceptible to environmental factors like direct sunlight or sudden temperature shifts.
 
-To enhance the precision of motion detection on battery devices, Ring incorporates "Advanced Motion Detection." This feature allows users to enable and customize motion zones within the Ring app, providing more control over where motion is detected and recorded.
+To enhance the precision of [motion detection](https://quvii.com/blog/eufy-doorbell-motion-detection-not-working-july-2026) on battery devices, Ring incorporates "Advanced Motion Detection." This feature allows users to enable and customize motion zones within the Ring app, providing more control over where motion is detected and recorded.
 
 [Image: Ring app Motion Settings interface with customizable motion zones]
 
@@ -214,7 +214,7 @@ Choosing and configuring a Ring [Battery Doorbell Plus](https://quvii.com/learn/
 
 *   **If privacy and data sharing are your primary concerns:**
     *   **Prioritize:** Understanding Ring's privacy policy and utilizing available encryption.
-    *   **Recommendation:** Be aware that Ring has provisions for sharing data with law enforcement in certain emergency situations. Enable End-to-End Encryption (E2EE) if available for your device, understanding that this may disable certain smart features like Person Detection. Carefully define Privacy Zones to black out sensitive areas within the camera's view. If robust local storage and minimal cloud dependence are paramount, you might consider alternatives that offer these features.
+    *   **Recommendation:** Be aware that Ring has provisions for sharing data with law enforcement in certain emergency situations. Enable End-to-End Encryption (E2EE) if available for your device, understanding that this may disable certain [smart features](https://quvii.com/blog/monitored-security-without-smart-features) like Person Detection. Carefully define Privacy Zones to black out sensitive areas within the camera's view. If robust local storage and minimal cloud dependence are paramount, you might consider alternatives that offer these features.
 
 ---
 

@@ -63,7 +63,7 @@ Currently, the AI Verification step is failing to return a "Human" match even wh
 ![Why it matters for buyers](/img/eufy-doorbell-motion-detection-not-working-july-2026/inline-2.webp)
 
 
-For those currently shopping for a video doorbell in the $150-200 range, this disruption highlights the inherent risks of "Edge" computing. Eufy’s primary competitive advantage over brands like Ring or Google Nest is its "no-subscription" local AI. By processing data on the HomeBase 3 rather than the cloud, Eufy promises faster alerts and better privacy. However, when the local AI engine fails, the user is left with a non-functional security device that cannot be easily patched via a cloud-side server update.
+For those currently shopping for a [video doorbell](https://quvii.com/blog/tuya-wifi-video-doorbell-setup-integration-guide-2026) in the $150-200 range, this disruption highlights the inherent risks of "Edge" computing. Eufy’s primary competitive advantage over brands like Ring or Google Nest is its "no-subscription" local AI. By processing data on the HomeBase 3 rather than the cloud, Eufy promises faster alerts and better privacy. However, when the local AI engine fails, the user is left with a non-functional security device that cannot be easily patched via a cloud-side server update.
 
 ### The Local Storage Trade-off
 Buying into the Eufy ecosystem means prioritizing local storage (HDD/SSD support up to 16TB on HomeBase 3) and one-time hardware costs. This July 2026 bug serves as a reminder that local processing requires robust, bug-free firmware. Unlike cloud-based systems where detection logic can be tweaked on the manufacturer's servers, Eufy owners are dependent on firmware pushes to their specific local hardware.

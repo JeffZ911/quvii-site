@@ -52,7 +52,7 @@ Compounding the software conflict is a recent firmware update for the Eufy HomeB
 | :--- | :--- | :--- | :--- | :--- |
 | **eufyCam S330 (Cam 3)** | HomeBase 3 | 4K (3840x2160) | BionicMind (Face/Vehicle) | Cloud-to-Webhook |
 | **eufyCam S300 (Cam 3C)** | HomeBase 3 | 4K (3840x2160) | BionicMind (Face/Vehicle) | Cloud-to-Webhook |
-| **Video Doorbell Dual** | HomeBase 3 / Wi-Fi | 2K (2560x1920) | Package/Face Detection | Cloud-to-Webhook |
+| **[Video Doorbell](https://quvii.com/blog/tuya-wifi-video-doorbell-setup-integration-guide-2026) Dual** | HomeBase 3 / Wi-Fi | 2K (2560x1920) | Package/Face Detection | Cloud-to-Webhook |
 | **[SoloCam S340](https://quvii.com/learn/reolink-argus-4-pro-vs-eufy-solocam-s340)** | Wi-Fi / HomeBase 3 | 3K (2880x1620) | Human/Vehicle | Cloud-to-Webhook |
 | **Indoor Cam S350** | Wi-Fi / HomeBase 3 | 4K (Dual Lens) | Human/Pet | Cloud-to-Webhook |
 
