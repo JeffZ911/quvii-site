@@ -34,7 +34,7 @@ A security camera that fails to notify you of an intruder is effectively a high-
 ![What happened](/img/ring-camera-motion-alerts-not-working-july-2026/inline-1.webp)
 
 
-As of early July 2026, the [official Ring Status page](https://status.ring.com/) continues to display a "Green" status across all categories, including Video Doorbell and Camera services. However, this official narrative is increasingly at odds with user reports surfacing on community hubs like r/Ring and [r/HomeSecurity](https://www.reddit.com/r/homesecurity/). 
+As of early July 2026, the [official Ring Status page](https://status.ring.com/) continues to display a "Green" status across all categories, including [Video Doorbell](https://quvii.com/blog/tuya-wifi-video-doorbell-setup-integration-guide-2026) and Camera services. However, this official narrative is increasingly at odds with user reports surfacing on community hubs like r/Ring and [r/HomeSecurity](https://www.reddit.com/r/homesecurity/). 
 
 Owners of various models—ranging from the Ring Video Doorbell Pro 2 to the Stick Up Cam Pro—are describing a systemic failure in the notification pipeline. Specifically, cameras are failing to push alerts to smartphones, and in many cases, the "Event History" shows gaps where motion clearly occurred. When users attempt to view these events, they are often met with a "Footage Unavailable" or "Streaming Error" message.
 

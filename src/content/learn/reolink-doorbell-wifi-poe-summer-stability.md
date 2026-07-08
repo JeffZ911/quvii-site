@@ -30,7 +30,7 @@ inline_image_sections:
 
 # Reolink Doorbell WiFi vs. PoE: Ensuring Summer Stability
 
-For optimal summer stability, the Reolink Video Doorbell PoE generally offers more consistent performance due to its wired power and data connection, which is less susceptible to Wi-Fi interference and battery degradation from heat. The Reolink Video Doorbell WiFi, while convenient, may experience more fluctuations if Wi-Fi signals are unstable or if direct sunlight causes overheating.
+For optimal summer stability, the Reolink Video [Doorbell PoE](https://quvii.com/learn/reolink-doorbell-poe-connection-drop-firmware-troubleshooting) generally offers more consistent performance due to its wired power and data connection, which is less susceptible to Wi-Fi interference and battery degradation from heat. The Reolink Video Doorbell WiFi, while convenient, may experience more fluctuations if Wi-Fi signals are unstable or if direct sunlight causes overheating.
 
 ## What it means
 

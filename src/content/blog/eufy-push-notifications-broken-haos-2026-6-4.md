@@ -134,7 +134,7 @@ The first step is to address the most common "silent" failure point.
 2.  Tap the **Security** tab at the bottom.
 3.  Select your **HomeBase** or standalone camera.
 4.  Check your active mode (e.g., "Home" or "Away").
-5.  Ensure the **Push Notification** checkbox is enabled. Eufy firmware v3.4.8+ has been known to uncheck this during the update. If this is off, Eufy's cloud will never send the signal that [Home Assistant](https://quvii.com/learn/ring-plugin-not-streaming-home-assistant-2026-7-fix) is waiting for.
+5.  Ensure the **Push Notification** checkbox is enabled. Eufy [firmware v3](https://quvii.com/learn/reolink-doorbell-poe-connection-drop-firmware-troubleshooting).4.8+ has been known to uncheck this during the update. If this is off, Eufy's cloud will never send the signal that [Home Assistant](https://quvii.com/learn/ring-plugin-not-streaming-home-assistant-2026-7-fix) is waiting for.
 
 ### Re-syncing the Integration
 If your app settings are correct but HA is still silent:

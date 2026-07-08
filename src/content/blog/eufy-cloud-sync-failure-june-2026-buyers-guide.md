@@ -84,7 +84,7 @@ The April 2026 HomeBase firmware issue specifically led to a loss of 24/7 record
 
 ### Firmware Update Risks and Data Integrity
 
-These incidents highlight a critical vulnerability: the potential for firmware updates, intended to improve functionality or security, to inadvertently cause significant disruptions or data loss. The loss of 24/7 recording or corrupted video files directly impacts data integrity, which is unacceptable for a security system. The lack of a robust "Heartbeat" monitoring system, where the cloud could alert users if a device stops checking in or recording, means users might not be immediately aware of system failures, leading to "silent failures" where critical events might go unrecorded.
+These incidents highlight a critical vulnerability: the potential for firmware updates, intended to improve functionality or security, to inadvertently cause significant disruptions or data loss. The loss of 24/7 recording or corrupted video files directly impacts data integrity, which is unacceptable for a [security system](https://quvii.com/blog/arlo-motion-detection-issues-july-2026). The lack of a robust "Heartbeat" monitoring system, where the cloud could alert users if a device stops checking in or recording, means users might not be immediately aware of system failures, leading to "silent failures" where critical events might go unrecorded.
 
 ### Eufy's Response and Trust Implications
 
