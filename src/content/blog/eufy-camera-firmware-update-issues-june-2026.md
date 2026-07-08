@@ -134,7 +134,7 @@ If your system is currently exhibiting offline behavior or [battery drain](https
 4.  **Check the SSD:** If your 24/7 recording has stopped, try removing the internal SSD and re-inserting it. If the app asks to "Format," remember that all previous footage will be erased.
 
 ### Long-Term Strategies for Firmware Management
-To minimize future disruptions, treat your security system like a critical IT infrastructure:
+To minimize future disruptions, treat your [security system](https://quvii.com/blog/arlo-motion-detection-issues-july-2026) like a critical IT infrastructure:
 *   **Staggered Deployment:** If you have multiple HomeBases, update one first and wait a week before updating the others.
 *   **Community Monitoring:** Before manually clicking "Update" in the app, check the Eufy subreddit to see if other users are reporting "Day 1" bugs.
 *   **Backup Critical Footage:** Do not rely solely on the HomeBase internal drive. Use the "Manual Download" feature in the app to save important clips to your phone or a cloud service (like Dropbox or Google Photos) immediately.

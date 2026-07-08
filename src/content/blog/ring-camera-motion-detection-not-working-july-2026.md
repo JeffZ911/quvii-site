@@ -143,7 +143,7 @@ When comparing Ring to its competitors, the hardware price is only the beginning
 | **3-Year Total Cost** | **Around $810** | **Around $550** | **Around $500** |
 | **Reliability Factor** | Cloud-Dependent | Local/Constant | Local/Edge AI |
 
-As the table shows, while Ring may have a lower "sticker price" at a big-box retailer, the 3-year cost is nearly 50% higher than local-storage alternatives. If that higher cost doesn't buy 100% reliability in motion detection, the investment becomes difficult to justify.
+As the table shows, while Ring may have a lower "sticker price" at a big-box retailer, the 3-year cost is nearly 50% higher than local-storage alternatives. If that higher cost doesn't buy 100% reliability in [motion detection](https://quvii.com/blog/arlo-motion-detection-issues-july-2026), the investment becomes difficult to justify.
 
 Quvii tracks these trade-offs across the category to help buyers navigate a landscape where "smart" features sometimes get in the way of basic security. Whether you choose to stay in the Ring ecosystem or move to a local-storage model, the goal remains the same: a camera that actually sees what happens on your property.
 

@@ -62,7 +62,7 @@ The April 27, 2026 update (v3.8.2.0) was intended to fix the February ghosting i
 ![Why it matters for buyers](/img/eufy-camera-night-vision-blurry-fix/inline-2.webp)
 
 
-For those shopping for a security system in mid-2026, these issues highlight a fundamental trade-off in the Eufy ecosystem. The brand’s primary selling point—the lack of mandatory subscriptions—comes with a "hidden" tax: the user often acts as a beta tester for unpolished firmware.
+For those shopping for a [security system](https://quvii.com/blog/arlo-motion-detection-issues-july-2026) in mid-2026, these issues highlight a fundamental trade-off in the Eufy ecosystem. The brand’s primary selling point—the lack of mandatory subscriptions—comes with a "hidden" tax: the user often acts as a beta tester for unpolished firmware.
 
 ### The Hidden Cost of 'No Subscriptions'
 While competitors like Arlo or Nest charge $10–15 per month for cloud features, those fees fund a more stable, centralized software QA process. Eufy’s reliance on local processing (HomeBase 3) means that every [firmware update](https://quvii.com/blog/reolink-argus-4-pro-firmware-update-issues) must be optimized for dozens of different hardware combinations. When this fails, as it did in April 2026, the "savings" are offset by the time spent troubleshooting or the loss of critical security footage.

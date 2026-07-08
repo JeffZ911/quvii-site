@@ -127,7 +127,7 @@ On brick surfaces, the 15° wedge is almost always mandatory. Because bricks hav
 
 ### Decision Framework: Which Reolink should you mount?
 *   **If you are a Homeowner with an existing chime:** Prioritize the **Video Doorbell WiFi**. It can often use your existing 16V-24V wiring, making the "brick transition" easier as you don't need to run new cables.
-*   **If you are building or renovating:** Prioritize the **Video Doorbell PoE**. Running a single Cat6 cable through the brick provides the most stable connection and highest security, as the video data cannot be "jammed" like WiFi.
+*   **If you are building or renovating:** Prioritize the **Video [Doorbell PoE](https://quvii.com/learn/reolink-doorbell-poe-connection-drop-firmware-troubleshooting)**. Running a single Cat6 cable through the brick provides the most stable connection and highest security, as the video data cannot be "jammed" like WiFi.
 *   **If you are a Renter or have no wiring:** Prioritize the **Video Doorbell Battery**. While you still have to drill into the brick (unless using a specialized door-clamp), you avoid the complexity of routing power through masonry.
 *   **If you live in a high-theft area:** Prioritize the **PoE or WiFi models** paired with a Reolink NVR. This ensures that even if a thief rips the doorbell off the brick, the footage is already safely recorded inside your house.
 

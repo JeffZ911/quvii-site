@@ -42,11 +42,11 @@ The Reolink [Doorbell PoE](https://quvii.com/learn/reolink-doorbell-poe-connecti
 
 ### The v3.0.0.6460 Chime Disruption
 
-As of June 2026, users of the Reolink Doorbell PoE, specifically those with V1 hardware (model DB_566128M5MP_P), have reported a significant bug after updating to firmware version v3.0.0.6460_2605211898. The primary symptom is that the wireless chime, which typically pairs with the doorbell, stops triggering when the button is pressed. This issue is widely attributed to a bug that deactivates the 433MHz wireless module responsible for communication with the chime. Without the chime, visitors pressing the doorbell may not be heard inside the home, undermining a core function of the device.
+As of June 2026, users of the [Reolink Doorbell PoE](https://quvii.com/learn/reolink-doorbell-poe-connection-drop-firmware-troubleshooting), specifically those with V1 hardware (model DB_566128M5MP_P), have reported a significant bug after updating to firmware version v3.0.0.6460_2605211898. The primary symptom is that the wireless chime, which typically pairs with the doorbell, stops triggering when the button is pressed. This issue is widely attributed to a bug that deactivates the 433MHz wireless module responsible for communication with the chime. Without the chime, visitors pressing the doorbell may not be heard inside the home, undermining a core function of the device.
 
 ### Past Notification and Image Quality Problems
 
-While specific information regarding firmware version 3.0.0.2168 for the Reolink Doorbell PoE and its associated bugs is not widely available in public records or community discussions as of mid-2026, Reolink's product lines have experienced other firmware-related issues in the past.
+While specific information regarding firmware version 3.0.0.2168 for the Reolink [Doorbell PoE](https://quvii.com/learn/reolink-doorbell-poe-connection-drop-firmware-troubleshooting) and its associated bugs is not widely available in public records or community discussions as of mid-2026, Reolink's product lines have experienced other firmware-related issues in the past.
 
 For instance, an earlier firmware version, v3.0.0.2033_23041300, was reported to cause all notifications, including those to the [Reolink app](https://quvii.com/blog/reolink-app-crashing-ios-18-fixes), to stop working on the Reolink WiFi Doorbell. This issue, reported around May 2023, highlighted how critical firmware stability is for the doorbell's alerting capabilities.
 
