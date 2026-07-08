@@ -165,7 +165,7 @@ Here's a breakdown of potential 3-year costs for a single Wyze Cam v3 (represent
 *   **3-Year TCO (without solar, with annual Cam Plus):** ~$70-90 (camera) + ~$60 (Cam Plus) + ~$10-20 (microSD) = **~$140-170**
 *   **3-Year TCO (with solar, with annual Cam Plus):** ~$70-90 (camera) + ~$60 (Cam Plus) + ~$10-20 (microSD) + ~$30-50 (solar panel) = **~$170-220**
 
-As you can see, while the initial camera price is low, the recurring subscription fees for Wyze Cam Plus significantly contribute to the total cost over time. These subscriptions are essential for accessing features like cloud storage, person detection, and longer event recordings, which many users consider core security functionalities. Without Cam Plus, the functionality of Wyze cameras is more limited, relying primarily on local recording and basic motion alerts.
+As you can see, while the initial camera price is low, the recurring subscription fees for Wyze Cam Plus significantly contribute to the total cost over time. These subscriptions are essential for accessing features like cloud storage, person detection, and longer event recordings, which many users consider core security functionalities. Without Cam Plus, the functionality of Wyze cameras is more limited, relying primarily on local recording and basic [motion alerts](https://quvii.com/blog/ring-camera-motion-alerts-not-working-july-2026).
 
 ## Further reading
 

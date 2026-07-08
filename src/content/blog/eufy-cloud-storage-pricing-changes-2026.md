@@ -85,7 +85,7 @@ Another addition to the 2026 plans is the expansion of eufyCare+. Previously a s
 **Decision Framework: Which Path Should You Choose?**
 
 *   **The "Pure Local" Homeowner:** If you own your home and have a stable Wi-Fi/Ethernet network, buy the **HomeBase 3** and an 8TB SATA drive. Skip the subscription. You lose the GPT Assistant, but you keep your data off the cloud and your monthly bill at $0.
-*   **The High-Security Renter:** If you can't hardwire your home and worry about Wi-Fi jammers or power outages, the **HomeBase S1 with the Basic Plan** is the better choice. The cellular backup provides peace of mind that local-only systems cannot match.
+*   **The High-Security Renter:** If you can't hardwire your home and worry about Wi-Fi jammers or [power outages](https://quvii.com/learn/wyze-camera-offline-summer-power-outages), the **HomeBase S1 with the Basic Plan** is the better choice. The cellular backup provides peace of mind that local-only systems cannot match.
 *   **The Multi-Property Owner:** If you are managing a primary home and a vacation rental, the **Premier Plan** is the most cost-effective way to get 30-day cloud redundancy for up to 10 cameras across both locations, ensuring you have evidence even if a HomeBase is stolen during a break-in.
 
 ### 5-Year Total Cost of Ownership (TCO) Comparison

@@ -50,7 +50,7 @@ The [SoloCam S340](https://quvii.com/learn/reolink-argus-4-pro-vs-eufy-solocam-s
 On the Eufy Support Forums, users described these units as "bricked," as there is no external USB-based firmware flashing utility available to the public. While Eufy support has reportedly replaced some units under warranty, owners outside the warranty window have found themselves with expensive, non-functional hardware.
 
 ### EufyCam Battery Drain After Updates
-Battery longevity is a primary selling point for the EufyCam S3 Pro and [SoloCam S340](https://quvii.com/learn/reolink-argus-4-pro-vs-eufy-solocam-s340), often advertised with 365-day or "forever" solar power. However, **HomeBase 3 firmware v3.7.6.8** (March 2026) appears to have altered the "heartbeat" interval between the hub and the cameras. This caused the cameras to "wake up" more frequently to check for a signal, leading to catastrophic [battery drain](https://quvii.com/blog/eufy-security-camera-battery-drain-june-2026). Some users reported their S3 Pro cameras dropping from 100% to 0% in less than a week, even with [direct sunlight](https://quvii.com/learn/google-nest-cam-battery-overheating-direct-sunlight) on the integrated solar panels.
+Battery longevity is a primary selling point for the EufyCam S3 Pro and [SoloCam S340](https://quvii.com/learn/reolink-argus-4-pro-vs-eufy-solocam-s340), often advertised with 365-day or "forever" solar power. However, **HomeBase 3 [firmware v3](https://quvii.com/learn/reolink-doorbell-poe-connection-drop-firmware-troubleshooting).7.6.8** (March 2026) appears to have altered the "heartbeat" interval between the hub and the cameras. This caused the cameras to "wake up" more frequently to check for a signal, leading to catastrophic [battery drain](https://quvii.com/blog/eufy-security-camera-battery-drain-june-2026). Some users reported their S3 Pro cameras dropping from 100% to 0% in less than a week, even with [direct sunlight](https://quvii.com/learn/google-nest-cam-battery-overheating-direct-sunlight) on the integrated solar panels.
 
 | Firmware Version | Primary Affected Hardware | Reported Issue | Status (June 2026) |
 | :--- | :--- | :--- | :--- |
@@ -64,7 +64,7 @@ Battery longevity is a primary selling point for the EufyCam S3 Pro and [SoloCam
 ![Why it matters for buyers](/img/eufy-camera-firmware-update-issues-june-2026/inline-2.webp)
 
 
-For those currently shopping for a security system, these firmware incidents serve as a reminder that the "sticker price" and "spec sheet" are only part of the equation. The reliability of the software ecosystem is what determines whether a camera is a security tool or a maintenance headache.
+For those currently shopping for a [security system](https://quvii.com/blog/arlo-motion-detection-issues-july-2026), these firmware incidents serve as a reminder that the "sticker price" and "spec sheet" are only part of the equation. The reliability of the software ecosystem is what determines whether a camera is a security tool or a maintenance headache.
 
 ### Compromised Reliability and Security
 The primary purpose of a security camera is peace of mind. If a firmware update causes a HomeBase to go offline at 2:00 AM, the owner is left unprotected without warning. Unlike a smartphone bug that might make an app crash, a security camera bug creates a physical vulnerability. For buyers, the recent Eufy issues highlight the risk of a "centralized failure" model where a single hub update can disable every camera on the property.

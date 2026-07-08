@@ -30,7 +30,7 @@ Summer storms often bring a frustrating paradox: just when high winds and heavy 
 
 # Why Your Nest Camera Goes Offline During Summer Storms: Causes and 2026 Solutions
 
-**Quick Answer:** Nest cameras often go offline during storms due to thermal throttling (exceeding 104°F) or Wi-Fi signal absorption by heavy rain. For a more resilient setup, the Reolink Altas PT Ultra offers local 4K recording that bypasses cloud outages.
+**Quick Answer:** Nest cameras often go [offline during](https://quvii.com/learn/wyze-camera-offline-summer-power-outages) storms due to thermal throttling (exceeding 104°F) or Wi-Fi signal absorption by heavy rain. For a more resilient setup, the Reolink Altas PT Ultra offers local 4K recording that bypasses cloud outages.
 
 ## What it means
 
@@ -196,7 +196,7 @@ The green light indicates the camera has power and is functioning internally. Th
 Nest Cam (Battery) models have a limited "local backup" feature that can record up to one hour of events to internal memory during a Wi-Fi outage. However, this footage only becomes viewable once the connection is restored and the data is uploaded to the cloud.
 
 ### Does heat really make my camera go offline?
-Yes. Nest cameras are rated for a maximum ambient temperature of 104°F. During summer storms, high humidity combined with direct sunlight can cause the internal components to exceed this limit, triggering a safety shutdown of the Wi-Fi radio to prevent battery damage.
+Yes. Nest cameras are rated for a maximum ambient temperature of 104°F. [During summer](https://quvii.com/learn/wyze-camera-offline-summer-power-outages) storms, high humidity combined with direct sunlight can cause the internal components to exceed this limit, triggering a safety shutdown of the Wi-Fi radio to prevent battery damage.
 
 ### Will a Wi-Fi extender help keep my Nest camera online during rain?
 A Wi-Fi extender can help if the signal is weak, but it may not solve "rain fade." If the extender is also communicating via Wi-Fi, the rain will interfere with the link between the extender and the router as well. A wired Access Point or a Power-over-Ethernet (PoE) camera is a more reliable solution for heavy weather.

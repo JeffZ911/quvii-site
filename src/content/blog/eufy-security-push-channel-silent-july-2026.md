@@ -55,7 +55,7 @@ These delays are not minor lags of a few seconds; reports indicate "huge delays"
 |:---|:---|:---|:---|:---|
 | **eufyCam S330 (Cam 3)** | 4K (3840x2160) | Local (HomeBase 3) | Battery / Solar | $0 (Optional Cloud $30/yr) |
 | **SoloCam S220** | 2K (2304x1296) | Local (Internal) | Battery / Solar | $0 (Optional Cloud $30/yr) |
-| **Video Doorbell E340** | 2K (Dual Cam) | Local (HB3/Internal) | Battery / Hardwire | $0 (Optional Cloud $30/yr) |
+| **[Video Doorbell](https://quvii.com/blog/tuya-wifi-video-doorbell-setup-integration-guide-2026) E340** | 2K (Dual Cam) | Local (HB3/Internal) | Battery / Hardwire | $0 (Optional Cloud $30/yr) |
 | **Floodlight Cam E340** | 3K (2880x1620) | Local (HB3/Internal) | Hardwired | $0 (Optional Cloud $30/yr) |
 | **Indoor Cam C220** | 2K (2304x1296) | Local (MicroSD) | Plug-in | $0 (Optional Cloud $30/yr) |
 
