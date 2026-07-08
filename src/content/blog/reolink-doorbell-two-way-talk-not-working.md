@@ -23,7 +23,7 @@ inline_image_sections:
   - "What to do now"
 ---
 
-The frustration of a video doorbell that allows you to see a visitor but prevents you from speaking to them undermines the primary utility of the device. For Reolink owners, "two-way talk [not working](https://quvii.com/blog/eufy-doorbell-motion-detection-not-working-july-2026)" has become a persistent troubleshooting topic, particularly for those attempting to bridge the gap between Reolink's hardware and third-party smart home ecosystems.
+The frustration of a [video doorbell](https://quvii.com/blog/tuya-wifi-video-doorbell-setup-integration-guide-2026) that allows you to see a visitor but prevents you from speaking to them undermines the primary utility of the device. For Reolink owners, "two-way talk [not working](https://quvii.com/blog/eufy-doorbell-motion-detection-not-working-july-2026)" has become a persistent troubleshooting topic, particularly for those attempting to bridge the gap between Reolink's hardware and third-party smart home ecosystems.
 
 # Reolink Doorbell Two-Way Talk Not Working: Causes & Fixes
 

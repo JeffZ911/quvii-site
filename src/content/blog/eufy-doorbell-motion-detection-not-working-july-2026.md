@@ -74,7 +74,7 @@ Until this recent instability, BionicMind was widely considered a top-tier consu
 **Decision Framework: July 2026 Buying Advice**
 
 *   **If you are a Renter:** The E340 remains a strong choice due to its battery flexibility and dual-camera package detection, but be prepared to use "All Motion" mode until the current firmware stabilizes.
-*   **If you are a Homeowner seeking 100% reliability:** You may want to wait for the confirmed rollout of firmware v3.2.5.x or consider a wired alternative like the Reolink [Video Doorbell](https://quvii.com/blog/tuya-wifi-video-doorbell-setup-integration-guide-2026), which uses simpler (though less "smart") on-device detection.
+*   **If you are a Homeowner seeking 100% reliability:** You may want to wait for the confirmed rollout of [firmware v3](https://quvii.com/learn/reolink-doorbell-poe-connection-drop-firmware-troubleshooting).2.5.x or consider a wired alternative like the Reolink [Video Doorbell](https://quvii.com/blog/tuya-wifi-video-doorbell-setup-integration-guide-2026), which uses simpler (though less "smart") on-device detection.
 *   **If you are Privacy-Focused:** Despite the current bug, Eufy's local encryption and lack of police cooperation programs (unlike Ring) keep it as a top contender for those who want their data off the cloud.
 
 **Total Cost of Ownership (TCO) Comparison (3-Year Estimate)**
@@ -111,7 +111,7 @@ If your Eufy doorbell is currently failing to detect motion, do not assume the h
 
 ### Step-by-Step: Troubleshooting the July 2026 Bug
 
-1.  **The Sensor Toggle:** In the Eufy Security app, go to **Settings > Motion Detection**. Toggle the "Motion Detection" switch to OFF. Wait 30 seconds, then toggle it back to ON. This forces the PIR sensor and the AI software stack to re-initialize their communication link.
+1.  **The Sensor Toggle:** In the Eufy Security app, go to **Settings > [Motion Detection](https://quvii.com/blog/arlo-motion-detection-issues-july-2026)**. Toggle the "Motion Detection" switch to OFF. Wait 30 seconds, then toggle it back to ON. This forces the PIR sensor and the AI software stack to re-initialize their communication link.
 2.  **The "All Motion" Compromise:** If "Human Only" is still failing, change the **Detection Type** to **All Motion**. Set your sensitivity to a 4 or 5. This is a temporary measure to ensure you are actually recording events, even if it means more false positives.
 3.  **Format HomeBase 3 Storage:** Many users have found success by clearing the AI metadata cache. This is done by formatting the storage in the HomeBase 3. 
     *   *Warning:* This will erase all previous recordings. Back up any important clips to your phone first.

@@ -28,7 +28,7 @@ For consumers and small businesses relying on smart home security, firmware upda
 > 📝 **Editorial Note:** This guide is AI-assisted and game data evolves rapidly. Please cross-reference with in-game information. _Updated: 2026-06-18._
 
 
-**Quick Answer:** The most recent significant bug affecting the Reolink [Doorbell PoE](https://quvii.com/learn/reolink-doorbell-poe-connection-drop-firmware-troubleshooting) (V1 hardware) is with firmware v3.0.0.6460_2605211898, which has been reported to break the wireless chime functionality. Regarding firmware version 3.0.0.2168, widespread information detailing specific bugs or its official release for the Reolink Doorbell PoE is not readily available in public records as of mid-2026. However, older firmware versions, such as v3.0.0.2033 for the WiFi doorbell and v3.0.0.4662, have had reported issues impacting notifications and image quality.
+**Quick Answer:** The most recent significant bug affecting the Reolink [Doorbell PoE](https://quvii.com/learn/reolink-doorbell-poe-connection-drop-firmware-troubleshooting) (V1 hardware) is with firmware v3.0.0.6460_2605211898, which has been reported to break the wireless chime functionality. Regarding firmware version 3.0.0.2168, widespread information detailing specific bugs or its official release for the [Reolink Doorbell PoE](https://quvii.com/learn/reolink-doorbell-poe-connection-drop-firmware-troubleshooting) is not readily available in public records as of mid-2026. However, older firmware versions, such as v3.0.0.2033 for the WiFi doorbell and v3.0.0.4662, have had reported issues impacting notifications and image quality.
 
 ## What happened
 
@@ -38,7 +38,7 @@ For consumers and small businesses relying on smart home security, firmware upda
 *Related: [How to Protect Your Smart Home Cameras from Summer Heat Damage](/blog/protect-smart-home-cameras-summer-heat) · [Arlo Essential 2K Firmware Update Bricking: What Buyers Need to Know](/blog/arlo-essential-2k-firmware-bricking-update) · [Ring Facial Recognition Lawsuit: 2026 Impact on Owners & Buyers](/blog/ring-facial-recognition-lawsuit-impact-2026)*
 
 
-The Reolink Doorbell PoE, known for its reliable wired connection and local storage options, has recently faced a notable firmware issue affecting its wireless chime functionality. This is not the first instance where firmware updates have introduced unexpected behavior, prompting users to seek solutions or consider downgrades.
+The Reolink [Doorbell PoE](https://quvii.com/learn/reolink-doorbell-poe-connection-drop-firmware-troubleshooting), known for its reliable wired connection and local storage options, has recently faced a notable firmware issue affecting its wireless chime functionality. This is not the first instance where firmware updates have introduced unexpected behavior, prompting users to seek solutions or consider downgrades.
 
 ### The v3.0.0.6460 Chime Disruption
 

@@ -43,7 +43,7 @@ In the context of 2026 home security, a "summer storm" is a multi-vector threat 
 1.  **Hydraulic Stress:** Sustained heavy rain and "microburst" events can force water into seals that are only rated for light splashing.
 2.  **Kinetic Stress:** High winds (often exceeding 60 mph in severe thunderstorms) and wind-borne debris can shift camera alignment or physically shear mounts from their substrate.
 3.  **Electrical Stress:** This is the most common cause of "bricked" cameras. Lightning does not need to strike a camera directly to destroy it; a nearby strike can induce a massive voltage surge through power lines or Ethernet cables.
-4.  **Operational Failure:** Storms frequently cause power outages or ISP (Internet Service Provider) disruptions. For a camera that relies entirely on a cloud server to function, a storm makes the device useless exactly when the property is most vulnerable.
+4.  **Operational Failure:** Storms frequently cause [power outages](https://quvii.com/learn/wyze-camera-offline-summer-power-outages) or ISP (Internet Service Provider) disruptions. For a camera that relies entirely on a cloud server to function, a storm makes the device useless exactly when the property is most vulnerable.
 
 Safety, therefore, is defined as the camera’s ability to remain physically intact, electrically functional, and capable of recording data throughout the duration of the event.
 

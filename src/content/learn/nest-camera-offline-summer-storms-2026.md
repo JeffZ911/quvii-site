@@ -115,7 +115,7 @@ The 2026 firmware update introduced more frequent security handshakes. To ensure
 ![Real-world implications](/img/nest-camera-offline-summer-storms-2026/inline-4.webp)
 
 
-When a camera goes offline during a storm, the consequences range from minor annoyance to significant security vulnerabilities.
+When a camera goes [offline during](https://quvii.com/learn/wyze-camera-offline-summer-power-outages) a storm, the consequences range from minor annoyance to significant security vulnerabilities.
 
 ### Security Gaps
 

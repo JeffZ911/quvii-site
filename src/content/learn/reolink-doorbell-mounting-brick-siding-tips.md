@@ -104,7 +104,7 @@ Reolink includes one 15° wedge in the box, but third-party manufacturers like W
 
 ### Hardware Comparison: Reolink Doorbell Models (2026 Specs)
 
-| Feature | Video Doorbell PoE | Video Doorbell WiFi | Video Doorbell Battery |
+| Feature | Video [Doorbell PoE](https://quvii.com/learn/reolink-doorbell-poe-connection-drop-firmware-troubleshooting) | Video Doorbell WiFi | Video Doorbell Battery |
 | :--- | :--- | :--- | :--- |
 | **Resolution** | 2K+ (5MP) 2560x1920 | 2K+ (5MP) 2560x1920 | 2K (4MP) 2048x1536 |
 | **Field of View** | 180° Diagonal | 180° Diagonal | 150° Horizontal / 150° Vertical |

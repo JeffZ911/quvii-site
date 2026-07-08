@@ -124,7 +124,7 @@ For owners with Z-Wave or Zigbee locks, the reliance on a smart home hub adds an
 ![What to do now](/img/smart-locks-power-outages-safety-2026/inline-4.webp)
 
 
-Preparing your [smart locks](https://quvii.com/learn/best-smart-locks-apple-home-key-2026) and overall home security system for power outages is a proactive step that can save you stress and maintain safety.
+Preparing your [smart locks](https://quvii.com/learn/best-smart-locks-apple-home-key-2026) and overall home security system for [power outages](https://quvii.com/learn/wyze-camera-offline-summer-power-outages) is a proactive step that can save you stress and maintain safety.
 
 ### Prepare Your Smart Locks for the Unexpected
 

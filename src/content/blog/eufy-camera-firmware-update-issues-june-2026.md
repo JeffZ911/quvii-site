@@ -111,7 +111,7 @@ Battery-powered cameras like the S3 Pro are designed to be installed in high, ha
 The [SoloCam S340](https://quvii.com/learn/reolink-argus-4-pro-vs-eufy-solocam-s340) Wi-Fi loss is the most severe outcome. Unlike a software glitch that can be patched, a loss of network connectivity on a Wi-Fi-only device prevents the patch from ever reaching the device. This "catch-22" has left some owners with units that are effectively paperweights. Furthermore, the storage recognition issues on the HomeBase 3 mean that even if the cameras are working, the "local vault" of evidence might be inaccessible or deleted.
 
 ### Diminished Value of Investment
-A security system is a multi-year investment. When a brand experiences a cluster of software failures, the resale value of the hardware drops, and the owner’s confidence in the system’s longevity wanes. Many owners are now questioning whether to stay within the Eufy ecosystem or cut their losses and migrate to a more stable (though perhaps more expensive) platform like Reolink or a dedicated PoE (Power over Ethernet) system.
+A [security system](https://quvii.com/blog/arlo-motion-detection-issues-july-2026) is a multi-year investment. When a brand experiences a cluster of software failures, the resale value of the hardware drops, and the owner’s confidence in the system’s longevity wanes. Many owners are now questioning whether to stay within the Eufy ecosystem or cut their losses and migrate to a more stable (though perhaps more expensive) platform like Reolink or a dedicated PoE (Power over Ethernet) system.
 
 ## What to do now
 

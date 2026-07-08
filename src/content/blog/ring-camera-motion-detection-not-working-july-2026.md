@@ -124,7 +124,7 @@ To maximize the reliability of a Ring system in 2026, you must minimize the vari
 
 ### Considering Alternatives: Prioritizing Reliability and Privacy
 
-If you find the "subscription tax" and cloud dependency too restrictive, 2026 has seen a surge in "Edge-first" security cameras. These devices process motion detection locally on the camera itself, meaning alerts are faster and do not fail just because a manufacturer's server is having a bad day.
+If you find the "subscription tax" and cloud dependency too restrictive, 2026 has seen a surge in "Edge-first" security cameras. These devices process [motion detection](https://quvii.com/blog/arlo-motion-detection-issues-july-2026) locally on the camera itself, meaning alerts are faster and do not fail just because a manufacturer's server is having a bad day.
 
 **Decision Framework: Which System Fits You?**
 
