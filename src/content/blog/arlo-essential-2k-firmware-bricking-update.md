@@ -56,7 +56,7 @@ Because Arlo cameras rely on a proprietary partition for their operating system,
 ![Why it matters for buyers](/img/arlo-essential-2k-firmware-bricking-update/inline-2.webp)
 
 
-For a prospective buyer, the "bricking" reports are a symptom of a larger, more complex ownership model. Arlo’s business strategy has shifted heavily toward a "Hardware-as-a-Service" (HaaS) approach, where the initial purchase price is only a fraction of the total cost required to maintain a functional security system.
+For a prospective buyer, the "bricking" reports are a symptom of a larger, more complex ownership model. Arlo’s business strategy has shifted heavily toward a "Hardware-as-a-Service" (HaaS) approach, where the initial purchase price is only a fraction of the total cost required to maintain a functional [security system](https://quvii.com/blog/arlo-motion-detection-issues-july-2026).
 
 ### The Subscription Trap: Hidden Costs and Feature Lock-outs
 The [Arlo Essential](https://quvii.com/learn/arlo-essential-indoor-camera-blinking-blue-loop) 2K is often marketed in the "under $100" or "$150-200" price band for multi-packs, making it an attractive entry-point for home security. However, the hardware's utility is severely limited without an <a href="https://www.amazon.com/s?k=Arlo+Secure+subscription&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Arlo Secure subscription</a>. 

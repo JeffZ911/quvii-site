@@ -27,7 +27,7 @@ A security camera that fails to notify you of an intruder is effectively a high-
 
 # Ring Camera Motion Alerts Not Working: July 2026 Outage & Troubleshooting Guide
 
-**Quick Answer:** While Ring's official status page reports all systems operational, many users are experiencing Ring camera motion alert failures and "footage unavailable" errors in July 2026, potentially linked to a recent firmware update. To troubleshoot, immediately check your Ring app for updates, verify device Wi-Fi signal strength (RSSI), and ensure motion detection settings are correctly configured.
+**Quick Answer:** While Ring's official status page reports all systems operational, many users are experiencing Ring camera motion alert failures and "footage unavailable" errors in July 2026, potentially linked to a recent firmware update. To troubleshoot, immediately check your Ring app for updates, verify device Wi-Fi signal strength (RSSI), and ensure [motion detection](https://quvii.com/blog/arlo-motion-detection-issues-july-2026) settings are correctly configured.
 
 ## What happened
 

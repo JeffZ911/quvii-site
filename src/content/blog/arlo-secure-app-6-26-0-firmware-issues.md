@@ -23,7 +23,7 @@ inline_image_sections:
   - "What to do now"
 ---
 
-When a security system "silently disarms" itself during a routine software update, the boundary between protection and a false sense of security disappears. For thousands of Arlo users, the April 2026 rollout of version 6.26.0 of the Arlo Secure App turned high-end hardware into expensive paperweights overnight.
+When a [security system](https://quvii.com/blog/arlo-motion-detection-issues-july-2026) "silently disarms" itself during a routine software update, the boundary between protection and a false sense of security disappears. For thousands of Arlo users, the April 2026 rollout of version 6.26.0 of the Arlo Secure App turned high-end hardware into expensive paperweights overnight.
 
 # Arlo Secure App 6.26.0 Firmware Issues: What You Need to Know
 

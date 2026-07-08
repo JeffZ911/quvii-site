@@ -37,7 +37,7 @@ Eufy's reputation for subscription-free AI is facing a critical test as owners r
 *Related: [Eufy 'Silent Registration' Discovery: What It Means for Your Privacy](/blog/eufy-push-channel-silent-registration-succeeds-explained) · [Ring Plugin Not Streaming? July 2026 Update & Privacy Bug Explained](/blog/ring-plugin-not-streaming-video-july-2026-fix) · [Eufy Push Notifications Broken in HAOS 2026.6.4: How to Fix](/blog/eufy-push-notifications-broken-haos-2026-6-4)*
 
 
-As of July 6, 2026, a significant volume of technical support requests and community reports indicates a widespread failure in the motion detection pipeline for Eufy’s flagship dual-lens doorbells. The issue is not a hardware failure of the Passive Infrared (PIR) sensors; rather, it is a software "handshake" error between the doorbell and the HomeBase 3 (S380) Edge Engine.
+As of July 6, 2026, a significant volume of technical support requests and community reports indicates a widespread failure in the [motion detection](https://quvii.com/blog/arlo-motion-detection-issues-july-2026) pipeline for Eufy’s flagship dual-lens doorbells. The issue is not a hardware failure of the Passive Infrared (PIR) sensors; rather, it is a software "handshake" error between the doorbell and the HomeBase 3 (S380) Edge Engine.
 
 The problem specifically targets the "Human Only" detection setting. When a person approaches the door, the doorbell’s physical sensors often trigger—evidenced by the LED ring illuminating—but the BionicMind AI fails to categorize the event as a human. Consequently, the HomeBase 3 does not record the clip or push a notification to the user's smartphone. This "silent failure" has been traced back to firmware v3.2.3.0 for the E340 and the v3.4.x firmware branch for the HomeBase 3.
 
@@ -140,6 +140,6 @@ No, Eufy does not currently gate its AI features behind a subscription. If the l
 - Eufy Official Support: [Video Doorbell](https://quvii.com/blog/tuya-wifi-video-doorbell-setup-integration-guide-2026) E340 Specs
 - Reddit: r/EufyCam Community Troubleshooting Thread July 2026
 - Eufy Privacy Policy & Data Handling
-- RTINGS: Eufy Video Doorbell Dual Review & Lab Tests
+- RTINGS: Eufy [Video Doorbell](https://quvii.com/blog/tuya-wifi-video-doorbell-setup-integration-guide-2026) Dual Review & Lab Tests
 
 *Quvii tracks these trade-offs across the security camera category to provide vendor-neutral buying intelligence.*

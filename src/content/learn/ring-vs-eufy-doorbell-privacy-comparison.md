@@ -129,7 +129,7 @@ Privacy is moot if your account is easily breached. Ring now mandates Two-Factor
 
 
 ### The Myth of the 'Cloud-Free' Smart Camera
-Many users believe that buying a Eufy camera means they are "off the grid." This is false. Unless you block the camera's internet access at the router level (which breaks remote viewing and notifications), the camera still performs a "heartbeat" check with Eufy’s servers. Most smart features still require a cloud handshake to verify your account credentials.
+Many users believe that buying a Eufy camera means they are "off the grid." This is false. Unless you block the camera's internet access at the router level (which breaks remote viewing and notifications), the camera still performs a "heartbeat" check with Eufy’s servers. Most [smart features](https://quvii.com/blog/monitored-security-without-smart-features) still require a cloud handshake to verify your account credentials.
 
 ### Misconception: 'Ring gives police a live feed'
 This is a persistent myth. Ring does not provide police with a "backdoor" to live-stream your camera. Even before the 2024 policy changes, police could only request *recorded* clips, and users had to manually approve the request. With E2EE enabled, even if Amazon wanted to give a live feed to the police, they technically could not.

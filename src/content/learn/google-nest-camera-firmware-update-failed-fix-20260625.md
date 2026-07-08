@@ -247,7 +247,7 @@ Yes, Google commits to providing automatic critical security updates for [Google
 *   Google Store - Nest Doorbell (battery) specs
 *   <a href="https://www.amazon.com/s?k=Google+Safety+Center+-+Security+updates+for+Nest+devices&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Google Safety Center - Security updates for Nest devices</a>
 *   <a href="https://www.amazon.com/s?k=YouTube+-+How+to+Fix+Nest+Cam+Offline+Issue+%282024%29&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">YouTube - How to Fix Nest Cam Offline Issue (2024)</a>
-*   <a href="https://www.amazon.com/s?k=YouTube+-+Nest+Camera+not+connecting+to+WiFi+-+Quick+fix&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">YouTube - Nest Camera not connecting to WiFi - Quick fix</a>
+*   <a href="https://www.amazon.com/s?k=YouTube+-+Nest+Camera+not+connecting+to+WiFi+-+Quick+fix&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">YouTube - Nest [Camera not](https://quvii.com/blog/ring-camera-motion-alerts-not-working-july-2026) connecting to WiFi - Quick fix</a>
 *   <a href="https://www.amazon.com/s?k=YouTube+-+How+To+Fix+Google+Nest+Camera+Not+Recording&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">YouTube - How To Fix [Google Nest](https://quvii.com/blog/google-nest-cam-familiar-faces-june-2026-update) Camera Not Recording</a>
 *   Google Store - Nest Hub Max specs
 *   Business Insider - Google Home app AI diagnostic tools
