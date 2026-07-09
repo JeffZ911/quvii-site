@@ -63,7 +63,7 @@ Compounding the software conflict is a recent firmware update for the Eufy HomeB
 ![Why it matters for buyers](/img/eufy-push-notifications-broken-haos-2026-6-4/inline-2.webp)
 
 
-For those currently shopping for a security system or considering an expansion of their Eufy footprint, this incident serves as a critical case study in the architecture of "subscription-free" cameras. While Eufy is frequently marketed as a local-storage-first brand, its communication layer tells a different story.
+For those currently shopping for a [security system](https://quvii.com/blog/arlo-motion-detection-issues-july-2026) or considering an expansion of their Eufy footprint, this incident serves as a critical case study in the architecture of "subscription-free" cameras. While Eufy is frequently marketed as a local-storage-first brand, its communication layer tells a different story.
 
 ### The Illusion of Local Control
 Eufy cameras, particularly those paired with a HomeBase 3, store video footage locally on a hard drive or internal EMMC. However, the *logic* that tells your phone (or your smart home hub) that someone is at the door still travels through Eufy’s Amazon Web Services (AWS) infrastructure. This is known as a "Cloud-Relay" notification system. Unlike brands that support the Matter protocol or ONVIF (Open Network Video Interface Forum), Eufy does not provide a native, documented local API for motion events.

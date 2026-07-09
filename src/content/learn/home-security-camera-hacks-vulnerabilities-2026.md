@@ -191,7 +191,7 @@ When purchasing a security camera, the sticker price is only part of the equatio
 
 **1. Hardware Cost:** This is the initial purchase price of the camera itself. For a single camera, this can range from **under $50** for basic models to **over $300** for advanced feature-rich devices.
 
-**2. Subscription Fees (Cloud Storage/Features):** Many popular brands lock essential features, such as recorded video history, advanced motion detection, and smart alerts, behind monthly or annual subscription plans.
+**2. Subscription Fees (Cloud Storage/Features):** Many popular brands lock essential features, such as recorded video history, advanced [motion detection](https://quvii.com/blog/arlo-doorbell-motion-recording-issues-july-2026), and smart alerts, behind monthly or annual subscription plans.
     *   **Basic Plan (e.g., 30-60 days of cloud history, single camera):** Around **$3-10 per month** or **$30-100 per year**. Over three years, this is approximately **$90-300**.
     *   **Premium Plan (e.g., longer history, multiple cameras, advanced AI):** Around **$10-20 per month** or **$100-200 per year**. Over three years, this is approximately **$300-600**.
     *   Some brands, like Ring, offer tiered plans with varying costs based on the number of cameras and features.

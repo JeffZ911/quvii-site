@@ -162,7 +162,7 @@ Here's a comparison of some popular Ring doorbell models and their features, hig
 | **Ring Video Doorbell Pro 2** | 1536p HD+            | 150° H, 90° V       | Yes                            | Yes             | Around $250                   | Around $40                    |
 | **Ring Video Doorbell Wired** | 1080p HD             | 155° H, 90° V       | No                             | Yes             | Under $70                     | Around $40                    |
 | **Eufy Video Doorbell 2K**   | 2K (2560x1920)       | 160° H, 120° V      | Yes (HomeBase 2)               | Yes             | Around $200                   | Optional (cloud backup)       |
-| **Reolink Video Doorbell PoE** | 2K+ (2560x1920)      | 180° H, 60° V       | Yes (microSD/NVR)              | Yes             | Around $100                   | Optional (cloud backup)       |
+| **Reolink Video [Doorbell PoE](https://quvii.com/learn/reolink-doorbell-poe-connection-drop-firmware-troubleshooting)** | 2K+ (2560x1920)      | 180° H, 60° V       | Yes (microSD/NVR)              | Yes             | Around $100                   | Optional (cloud backup)       |
 
 *Note: "Yes (HomeBase 2)" or "Yes (microSD/NVR)" indicates local storage capability, often without a mandatory subscription for core features, though cloud backup might be an optional subscription. Prices are approximate and fluctuate.*
 

@@ -160,5 +160,5 @@ Reolink emphasizes local storage options, meaning your video recordings can be k
 *   reolink.com — Reolink Security & Privacy FAQs
 *   github.com — Reolink firmware versions and release notes
 *   reolink.com — Reolink NVR Features
-*   reddit.com — Reolink Doorbell PoE Unresponsive
+*   reddit.com — [Reolink Doorbell PoE](https://quvii.com/learn/reolink-doorbell-poe-connection-drop-firmware-troubleshooting) Unresponsive
 *   reolink.com — Reolink Doorbell Troubleshooting

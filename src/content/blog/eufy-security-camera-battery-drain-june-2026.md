@@ -61,7 +61,7 @@ Beyond the connection bug, users on r/EufyCam have documented an increase in "gh
 ![Why it matters for buyers](/img/eufy-security-camera-battery-drain-june-2026/inline-2.webp)
 
 
-For those currently shopping for a security system, the June 2026 battery crisis represents a significant breach of the "set it and forget it" value proposition. Eufy’s primary advantage over competitors like Ring or Arlo is the lack of monthly fees and the promise of "Forever Power" via integrated solar panels on models like the eufyCam S3 Pro.
+For those currently shopping for a [security system](https://quvii.com/blog/arlo-motion-detection-issues-july-2026), the June 2026 battery crisis represents a significant breach of the "set it and forget it" value proposition. Eufy’s primary advantage over competitors like Ring or Arlo is the lack of monthly fees and the promise of "Forever Power" via integrated solar panels on models like the eufyCam S3 Pro.
 
 ### The Reliability Gap in "Subscription-Free" Hardware
 The current bug effectively nullifies the solar advantage. When a camera drains at 30% per day, a standard integrated solar panel—which typically adds 2–5% of charge per day under ideal sun—cannot keep up. This forces homeowners to treat their "wireless" cameras as high-maintenance devices that require frequent manual intervention. For buyers escaping the subscription models of Nest, where software stability is generally higher due to cloud-side processing, these local-processing regressions represent a hidden "maintenance cost" in the form of manual labor and potential security gaps during downtime.
