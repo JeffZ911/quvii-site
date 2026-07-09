@@ -103,7 +103,7 @@ If your Arlo system is currently suffering from missed events or the "grayed-out
 ### Troubleshooting Your Arlo PIR Sensors
 1.  **Power Cycle the SmartHub:** Physically unplug the VMB4540 or VMB5000 SmartHub for 60 seconds. This forces a fresh IP assignment and clears the local cache that often causes the "Offline" status reported in July 2026.
 2.  **The "Resync" Reset:** Do not just restart the app. Remove the battery from the camera, wait 30 seconds, reinsert it, and perform a fresh "Sync" button press to recalibrate the PIR sensor's baseline thermal map.
-3.  **Adjust Sensitivity to 80%+:** The v6.26.0 firmware seems to have "dulled" the default sensitivity. Navigate to *Settings > My Devices > [Camera Name] > Device Utilities > Motion Detection Test* and increase the slider until the LED on the camera flashes amber consistently when you walk past.
+3.  **Adjust Sensitivity to 80%+:** The v6.26.0 firmware seems to have "dulled" the default sensitivity. Navigate to *Settings > My Devices > [Camera Name] > Device Utilities > [Motion Detection](https://quvii.com/blog/arlo-doorbell-motion-recording-issues-july-2026) Test* and increase the slider until the LED on the camera flashes amber consistently when you walk past.
 4.  **Check Arming Modes:** The July update defaulted many systems to "Standby." Ensure your system is set to "Arm Away" or "Arm Home" in the new Feed UI's "Modes" tab.
 
 ### The Local-AI Alternative: Reolink Altas PT Ultra

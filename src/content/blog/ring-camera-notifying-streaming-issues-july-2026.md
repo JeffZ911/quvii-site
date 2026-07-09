@@ -64,7 +64,7 @@ Privacy remains a moving target. Ring’s privacy policy, last updated on June 5
 Furthermore, the legal landscape was shifted by the "Nancy Guthrie" precedent in February 2026. In this case, authorities were able to recover "residual data" from a cloud-connected camera that had been physically disconnected for weeks, proving that data fragments often persist in the cloud longer than consumers realize.
 
 ### Subscription Reliance and Feature Lock-in
-The 2026 Ring ecosystem is more bifurcated than ever. Basic motion detection is available to all, but the most advanced AI filtering and "Active Warnings" are locked behind the Pro subscription tier. This creates a "feature paywall" where the hardware's full potential is only accessible through recurring monthly payments.
+The 2026 Ring ecosystem is more bifurcated than ever. Basic [motion detection](https://quvii.com/blog/arlo-doorbell-motion-recording-issues-july-2026) is available to all, but the most advanced AI filtering and "Active Warnings" are locked behind the Pro subscription tier. This creates a "feature paywall" where the hardware's full potential is only accessible through recurring monthly payments.
 
 | Feature | Ring Basic (2026) | Ring Home Standard | Ring Home Pro |
 | :--- | :--- | :--- | :--- |

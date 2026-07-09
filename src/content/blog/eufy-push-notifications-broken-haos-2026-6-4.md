@@ -23,7 +23,7 @@ inline_image_sections:
   - "What to do now"
 ---
 
-The reliability of a smart home security system hinges on the speed and consistency of its alerts. For users of the Eufy Security ecosystem integrated into [Home Assistant](https://quvii.com/blog/eufy-home-assistant-integration-issues-july-2026), the latest software update has introduced a significant hurdle.
+The reliability of a smart home [security system](https://quvii.com/blog/arlo-motion-detection-issues-july-2026) hinges on the speed and consistency of its alerts. For users of the Eufy Security ecosystem integrated into [Home Assistant](https://quvii.com/blog/eufy-home-assistant-integration-issues-july-2026), the latest software update has introduced a significant hurdle.
 
 # Eufy Security Push Notifications Broken in HAOS Core 2026.6.4: The Quvii Troubleshooting Guide
 

@@ -149,11 +149,11 @@ Reolink emphasizes local storage options, meaning your video recordings can be k
 ## Sources
 
 *   reddit.com — Reolink [Doorbell POE](https://quvii.com/learn/reolink-doorbell-poe-connection-drop-firmware-troubleshooting) - No chime after firmware update 3.0.0.6460
-*   reddit.com — Reolink Doorbell PoE V1 (DB_566128M5MP_P) [Firmware 3](https://quvii.com/blog/eufycam-s330-firmware-3-1-8-2-motion-detection-failure).0.0.6460_2605211898 - Chime [not working](https://quvii.com/learn/eufy-security-motion-alerts-not-working-home-assistant)
+*   reddit.com — [Reolink Doorbell PoE](https://quvii.com/learn/reolink-doorbell-poe-connection-drop-firmware-troubleshooting) V1 (DB_566128M5MP_P) [Firmware 3](https://quvii.com/blog/eufycam-s330-firmware-3-1-8-2-motion-detection-failure).0.0.6460_2605211898 - Chime [not working](https://quvii.com/learn/eufy-security-motion-alerts-not-working-home-assistant)
 *   reddit.com — Reolink WiFi Doorbell [Firmware 3](https://quvii.com/blog/eufycam-s330-firmware-3-1-8-2-motion-detection-failure).0.0.2033_23041300 - Notifications [not working](https://quvii.com/learn/eufy-security-motion-alerts-not-working-home-assistant)
 *   reddit.com — Reolink WiFi Doorbell [Firmware 3](https://quvii.com/blog/eufycam-s330-firmware-3-1-8-2-motion-detection-failure).0.0.4662_2508071282 - [Night Vision](https://quvii.com/learn/unifi-camera-night-vision-stuck-daytime-fix) HDR degradation
 *   reolink.com — Reolink Download Center
-*   reolink.com — Reolink Doorbell PoE Product Page
+*   reolink.com — Reolink [Doorbell PoE](https://quvii.com/learn/reolink-doorbell-poe-connection-drop-firmware-troubleshooting) Product Page
 *   reolink.com — Reolink WiFi Doorbell Product Page
 *   reolink.com — Reolink Support
 *   reolink.com — Reolink [Privacy Policy](https://quvii.com/learn/eufy-security-camera-privacy-policy-update-2026-20260625)
