@@ -86,7 +86,7 @@ Both Reolink Video Doorbell models are rated for operation between 14°F and 122
 
 Here's a comparison of key specifications for the Reolink Video Doorbell WiFi and PoE models:
 
-| Feature                   | Reolink Video Doorbell WiFi                   | Reolink Video Doorbell PoE                    |
+| Feature                   | Reolink Video Doorbell WiFi                   | Reolink Video [Doorbell PoE](https://quvii.com/learn/reolink-doorbell-poe-connection-drop-firmware-troubleshooting)                    |
 | :------------------------ | :-------------------------------------------- | :-------------------------------------------- |
 | **Connectivity**          | Dual-band Wi-Fi (2.4GHz/5GHz)  | Power over Ethernet (PoE)      |
 | **Power Supply**          | 12-24V AC, 24V DC              | IEEE 802.3af (48V Active PoE)  |

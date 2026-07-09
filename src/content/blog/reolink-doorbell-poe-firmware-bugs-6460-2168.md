@@ -138,7 +138,7 @@ You can check your Reolink [Doorbell PoE](https://quvii.com/learn/reolink-doorbe
 Yes, it is often possible to downgrade Reolink doorbell firmware. This typically involves downloading an older `.pak` firmware file from the Reolink Download Center and uploading it manually through the Reolink Client or web interface. Ensure you select the correct firmware for your specific hardware model to avoid issues.
 
 ### Does the Reolink Doorbell PoE require a subscription?
-No, the Reolink Doorbell PoE does not require a subscription for its core functionalities, including local storage to a microSD card or a Reolink NVR. This allows users to store recordings without recurring monthly fees.
+No, the [Reolink Doorbell PoE](https://quvii.com/learn/reolink-doorbell-poe-connection-drop-firmware-troubleshooting) does not require a subscription for its core functionalities, including local storage to a microSD card or a Reolink NVR. This allows users to store recordings without recurring monthly fees.
 
 ### What are the main differences between the Reolink Doorbell PoE and WiFi versions?
 The primary difference is the power and data connection. The PoE version uses a single Ethernet cable for both power and data, offering a very stable connection. The WiFi version connects to your home network wirelessly and typically requires a separate power source (e.g., existing doorbell wiring or a power adapter).
@@ -148,7 +148,7 @@ Reolink emphasizes local storage options, meaning your video recordings can be k
 
 ## Sources
 
-*   reddit.com — Reolink Doorbell POE - No chime after firmware update 3.0.0.6460
+*   reddit.com — Reolink [Doorbell POE](https://quvii.com/learn/reolink-doorbell-poe-connection-drop-firmware-troubleshooting) - No chime after firmware update 3.0.0.6460
 *   reddit.com — Reolink Doorbell PoE V1 (DB_566128M5MP_P) [Firmware 3](https://quvii.com/blog/eufycam-s330-firmware-3-1-8-2-motion-detection-failure).0.0.6460_2605211898 - Chime [not working](https://quvii.com/learn/eufy-security-motion-alerts-not-working-home-assistant)
 *   reddit.com — Reolink WiFi Doorbell [Firmware 3](https://quvii.com/blog/eufycam-s330-firmware-3-1-8-2-motion-detection-failure).0.0.2033_23041300 - Notifications [not working](https://quvii.com/learn/eufy-security-motion-alerts-not-working-home-assistant)
 *   reddit.com — Reolink WiFi Doorbell [Firmware 3](https://quvii.com/blog/eufycam-s330-firmware-3-1-8-2-motion-detection-failure).0.0.4662_2508071282 - [Night Vision](https://quvii.com/learn/unifi-camera-night-vision-stuck-daytime-fix) HDR degradation

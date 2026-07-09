@@ -49,7 +49,7 @@ The primary indicator of this issue is the deployment of [firmware v3](https://q
 ### The 20-Second Live View Delay
 On mobile devices running iOS 26 and Android 16, the "spinning wheel of death" has become a common sight. Previously, Eufy boasted sub-3-second live view initialization. As of June 2026, network analysis shows the app often hangs for 20 seconds or more. This latency occurs even on high-speed 1Gbps fiber connections, suggesting the bottleneck is not the user's bandwidth but the app's internal authentication handshake and the overhead of newly integrated "Smart Home" sub-menus.
 
-| Feature / Version | Firmware v3.3.x (Stable) | Firmware v3.8.2.0 (June 2026) |
+| Feature / Version | [Firmware v3](https://quvii.com/learn/reolink-doorbell-poe-connection-drop-firmware-troubleshooting).3.x (Stable) | Firmware v3.8.2.0 (June 2026) |
 | :--- | :--- | :--- |
 | **Notification Latency** | 2–4 Seconds | 2–15 Minutes |
 | **Live View Load Time** | < 3 Seconds | 15–25 Seconds |

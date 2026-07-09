@@ -315,7 +315,7 @@ Recent years have continued to highlight specific vulnerabilities across popular
 
 Here's a table summarizing key aspects of popular consumer security cameras, reflecting general specifications and subscription approaches in 2026:
 
-| Feature/Brand           | Ring Stick Up Cam Battery (3rd Gen) | Eufy SoloCam S340 | Reolink Argus 3 Pro | Wyze Cam v4 |
+| Feature/Brand           | Ring Stick Up Cam Battery (3rd Gen) | Eufy SoloCam S340 | Reolink Argus 3 Pro | [Wyze Cam v4](https://quvii.com/learn/is-wyze-cam-v4-safe-security-privacy-2026) |
 | :---------------------- | :---------------------------------- | :---------------- | :------------------ | :---------- |
 | **Max Resolution**      | 1080p HD                 | 3K (2880x1620) | 2K (2560x1440) | 2K (2560x1440) |
 | **IR Night Vision Range** | Up to 30 ft              | Up to 26 ft | Up to 33 ft | Up to 30 ft |

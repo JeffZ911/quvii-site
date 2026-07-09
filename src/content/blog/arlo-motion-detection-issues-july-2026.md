@@ -26,7 +26,7 @@ As Arlo continues to transition its ecosystem toward AI-driven detection, a seri
 
 # Arlo Security System Motion Detection Issues: July 2026 Report
 
-Arlo motion detection issues in July 2026 stem from firmware v6.26.0 bugs and cloud processing lag. Users report 30-second delays and missed events. Resetting your SmartHub or switching to the Reolink Altas PT Ultra can restore reliability.
+Arlo [motion detection](https://quvii.com/blog/arlo-doorbell-motion-recording-issues-july-2026) issues in July 2026 stem from firmware v6.26.0 bugs and cloud processing lag. Users report 30-second delays and missed events. Resetting your SmartHub or switching to the Reolink Altas PT Ultra can restore reliability.
 
 ## What happened
 
