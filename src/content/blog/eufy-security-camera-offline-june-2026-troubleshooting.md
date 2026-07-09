@@ -195,7 +195,7 @@ For users prioritizing local storage and minimal cloud dependency, popular alter
 ## Sources
 
 *   Entireweb.com — Is Eufy Down Right Now? Live Status, Outages and Service Issues
-*   Eufy.com — Why Does My Security Camera Keep Going Offline? Reasons and Fixes - Eufy
+*   Eufy.com — Why Does [My Security Camera](https://quvii.com/learn/home-security-camera-hacks-vulnerabilities-2026) Keep Going Offline? Reasons and Fixes - Eufy
 *   Eufy.com — When eufySecurity Devices Encounter Power and Internet Outage - eufy Support — [https://support.eufy.com/s/article/When-eufySecurity-Devices-Encounter-Power-and-Internet-Outage](https://support.eufy.com/s/article/When-eufySecurity-Devices-Encounter-Power-and-Internet-Outage)
 *   Modemguides.com — Eufy Security Cameras Review 2026: Honest Assessment by Licensed Installer
 *   Reddit.com — Beware S380 3.8.2.8 update - constantly falling offline : r/EufyCam — https://www.reddit.com/r/EufyCam/comments/1c2j69g/beware_s380_3828_update_constantly_falling_offline/

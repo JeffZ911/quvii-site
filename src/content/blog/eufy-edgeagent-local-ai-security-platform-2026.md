@@ -111,7 +111,7 @@ Many users reported that their cameras stopped saving clips to the internal hard
 ![What to do now](/img/eufy-edgeagent-local-ai-security-platform-2026/inline-4.webp)
 
 
-If you are currently in the market for a security system or looking to upgrade your Eufy setup, the announcement of EdgeAgent necessitates a "wait and see" approach for the next few months.
+If you are currently in the market for a [security system](https://quvii.com/blog/arlo-motion-detection-issues-july-2026) or looking to upgrade your Eufy setup, the announcement of EdgeAgent necessitates a "wait and see" approach for the next few months.
 
 ### Research and Monitor Official Announcements
 For prospective buyers, the launch of EdgeAgent in the second half of 2026 represents a major technological leap. Buying a current-generation system today might result in "buyer's remorse" if the new AI Stations and Smart Security Shields offer significantly better performance for a similar price point. Monitor the <a href="https://www.amazon.com/s?k=eufy.com+newsroom&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">eufy.com newsroom</a> for the specific release dates of the "AI Service Bundles" expected in late Q3 2026.

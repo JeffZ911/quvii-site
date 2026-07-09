@@ -100,7 +100,7 @@ As features migrate to the Pro tier, some long-time users feel the value proposi
 If your Ring camera is currently failing to notify or stream, follow this systematic approach to restoration.
 
 ### Immediate Troubleshooting Steps
-1.  **Audit the Ring App Settings:** Ensure that "Motion Alerts" and "Ring Alerts" are toggled ON. Check the "Global Snooze" feature to ensure notifications haven't been accidentally silenced for the entire account.
+1.  **Audit the Ring App Settings:** Ensure that "[Motion Alerts](https://quvii.com/blog/ring-camera-motion-alerts-not-working-july-2026)" and "Ring Alerts" are toggled ON. Check the "Global Snooze" feature to ensure notifications haven't been accidentally silenced for the entire account.
 2.  **Review AI Filtering:** If you are on a Pro plan, go to "Smart Alerts" and adjust the sensitivity of "Unusual Event Alerts." Setting this to "More Frequent" may resolve issues where the AI is being too restrictive.
 3.  **Check Mobile Permissions:** On iOS and Android, ensure the Ring app has permission to "Ignore Do Not Disturb." In July 2026, many "missing notification" issues were traced back to the phone's OS-level "Focus Modes" rather than the Ring app itself.
 4.  **Signal Strength (RSSI):** Navigate to "Device Health" and check the RSSI value. If it is higher than -60, your Wi-Fi signal is likely the culprit for failed streaming.

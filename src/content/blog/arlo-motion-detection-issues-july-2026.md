@@ -22,7 +22,7 @@ inline_image_sections:
   - "What to do now"
 ---
 
-As Arlo continues to transition its ecosystem toward AI-driven detection, a series of firmware regressions and cloud-processing bottlenecks have left many users with a system that reacts too slowly to real-world threats. In July 2026, the intersection of the v6.26.0 firmware rollout and increased subscription dependency has turned motion detection reliability into a primary concern for the Arlo community.
+As Arlo continues to transition its ecosystem toward AI-driven detection, a series of firmware regressions and cloud-processing bottlenecks have left many users with a system that reacts too slowly to real-world threats. In July 2026, the intersection of the v6.26.0 firmware rollout and increased subscription dependency has turned [motion detection](https://quvii.com/blog/arlo-doorbell-motion-recording-issues-july-2026) reliability into a primary concern for the Arlo community.
 
 # Arlo Security System Motion Detection Issues: July 2026 Report
 

@@ -131,7 +131,7 @@ This is often related to the "Sensitivity" settings and the lack of contrast for
 Yes, the E340 can function as a standalone device by connecting directly to your 2.4GHz Wi-Fi. In standalone mode, it uses basic on-device AI and stores footage to a built-in 8GB eMMC. Many users are temporarily switching to this mode to bypass the HomeBase 3 AI bugs currently being reported.
 
 ### Will formatting my HomeBase 3 delete my facial recognition data?
-Yes, formatting the internal storage or the added hard drive/SSD will clear the BionicMind AI "learned" faces. You will need to re-label your frequent visitors once the system is back up and running. However, this is often necessary to clear the corrupted cache causing the motion detection failure.
+Yes, formatting the internal storage or the added hard drive/SSD will clear the BionicMind AI "learned" faces. You will need to re-label your frequent visitors once the system is back up and running. However, this is often necessary to clear the corrupted cache causing the [motion detection](https://quvii.com/blog/arlo-doorbell-motion-recording-issues-july-2026) failure.
 
 ### Does Eufy charge for the AI features if the local detection fails?
 No, Eufy does not currently gate its AI features behind a subscription. If the local AI fails, you do not lose money on a subscription, but you do lose the core functionality of the camera. This is the primary difference between Eufy and competitors like Arlo or Ring, where AI is handled in the cloud via a paid plan.

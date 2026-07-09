@@ -23,13 +23,13 @@ inline_image_sections:
   - "What to do now"
 ---
 
-High-temperature alerts are flooding user forums as the June 2026 heatwave pushes budget hardware beyond its physical limits. For owners of the Wyze Cam v4, the combination of record-breaking ambient heat and direct solar radiation is causing a surge in thermal shutdowns and sensor artifacts.
+High-temperature alerts are flooding user forums as the June 2026 heatwave pushes budget hardware beyond its physical limits. For owners of the [Wyze Cam v4](https://quvii.com/learn/is-wyze-cam-v4-safe-security-privacy-2026), the combination of record-breaking ambient heat and direct solar radiation is causing a surge in thermal shutdowns and sensor artifacts.
 
 # Wyze Cam v4 Overheating: What to Do During the June 2026 Heatwave
 > 📝 **Editorial Note:** This guide is AI-assisted and game data evolves rapidly. Please cross-reference with in-game information. _Updated: 2026-06-29._
 
 
-**Quick Answer:** The June 2026 heatwave is causing Wyze Cam v4 units to exceed their 122°F operating limit, leading to thermal shutdowns and purple image tints. Update to firmware v4.52.x and move cameras out of [direct sunlight](https://quvii.com/learn/google-nest-cam-battery-overheating-direct-sunlight) immediately.
+**Quick Answer:** The June 2026 heatwave is causing Wyze [Cam v4](https://quvii.com/learn/is-wyze-cam-v4-safe-security-privacy-2026) units to exceed their 122°F operating limit, leading to thermal shutdowns and purple image tints. Update to firmware v4.52.x and move cameras out of [direct sunlight](https://quvii.com/learn/google-nest-cam-battery-overheating-direct-sunlight) immediately.
 
 ## What happened
 

@@ -107,7 +107,7 @@ Recent years have continued to highlight specific vulnerabilities across popular
 
 Here's a table summarizing key aspects of popular consumer security cameras, reflecting general specifications and subscription approaches in 2026:
 
-| Feature/Brand           | [Ring Stick Up Cam](/learn/ring-stick-up-cam-solar-charging-issues-2026) Battery (3rd Gen) | Eufy SoloCam S340 | Reolink Argus 3 Pro | Wyze Cam v4 |
+| Feature/Brand           | [Ring Stick Up Cam](/learn/ring-stick-up-cam-solar-charging-issues-2026) Battery (3rd Gen) | Eufy SoloCam S340 | Reolink Argus 3 Pro | [Wyze Cam v4](https://quvii.com/learn/is-wyze-cam-v4-safe-security-privacy-2026) |
 | :---------------------- | :---------------------------------- | :---------------- | :------------------ | :---------- |
 | **Max Resolution**      | 1080p HD                 | 3K (2880x1620) | 2K (2560x1440) | 2K (2560x1440) |
 | **IR Night Vision Range** | Up to 30 ft              | Up to 26 ft | Up to 33 ft | Up to 30 ft |
@@ -239,7 +239,7 @@ No, not all security cameras require a subscription. Many cameras offer local st
 *   Ring Stick Up Cam Battery (3rd Gen) Product Page
 *   Eufy SoloCam S340 Product Page — https://us.eufy.com/products/t8171121
 *   Reolink Argus 3 Pro Product Page
-*   Wyze Cam v4 Product Page — https://www.wyze.com/products/wyze-cam-v4
+*   Wyze [Cam v4](https://quvii.com/learn/is-wyze-cam-v4-safe-security-privacy-2026) Product Page — https://www.wyze.com/products/wyze-cam-v4
 *   security.org - Security Camera Cloud Storage Costs
 *   nus.edu.sg — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSPiB1n4r-sTg2T_m40rbqYi7O8avwtcDtd3YItsM9CDiYypIoPSOqiuxQl-cL1l0TJJH8iBZwPD2VV7WKlQkVJNaAm2waHc80zUBkzltKLb4-6ultvCV3gGp_YRhUxCEFLIMTbkPbh4wmsoIbrYJl9qyY_SNK-ZiNNA==
 *   opencve.io - Reolink Vulnerabilities — https://www.opencve.io/vendors/Reolink
