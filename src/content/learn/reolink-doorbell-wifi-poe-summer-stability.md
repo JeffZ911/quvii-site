@@ -48,7 +48,7 @@ The Reolink Video Doorbell WiFi model connects to your home network wirelessly, 
 
 ### Understanding PoE Connectivity
 
-In contrast, the Reolink Video Doorbell PoE model uses a single Ethernet cable for both data transmission and power delivery, adhering to the IEEE 802.3af standard. This "Power over Ethernet" setup provides a dedicated, stable network path and continuous, reliable power directly through the network cable. The wired connection inherently bypasses many of the wireless interference issues that can plague Wi-Fi devices, making it a robust option for consistent performance.
+In contrast, the Reolink Video [Doorbell PoE](https://quvii.com/learn/reolink-doorbell-poe-connection-drop-firmware-troubleshooting) model uses a single Ethernet cable for both data transmission and power delivery, adhering to the IEEE 802.3af standard. This "Power over Ethernet" setup provides a dedicated, stable network path and continuous, reliable power directly through the network cable. The wired connection inherently bypasses many of the wireless interference issues that can plague Wi-Fi devices, making it a robust option for consistent performance.
 
 ## Why it exists
 

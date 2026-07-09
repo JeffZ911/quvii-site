@@ -31,7 +31,7 @@ For homeowners relying on Eufy’s subscription-free ecosystem, a recent wave of
 
 # Eufy App Performance Issues: Why Your Cameras Are Lagging in June 2026
 
-**Quick Answer:** June 2026 Eufy app issues are tied to firmware v3.8.2.0 breaking HomeBase 3 storage and notification delays of 2–15 minutes. Fixes include switching to 'Optimized' battery settings within the mobile OS and verifying HomeBase 2/3 database integrity via the storage manager.
+**Quick Answer:** June 2026 Eufy app issues are tied to [firmware v3](https://quvii.com/learn/reolink-doorbell-poe-connection-drop-firmware-troubleshooting).8.2.0 breaking HomeBase 3 storage and notification delays of 2–15 minutes. Fixes include switching to 'Optimized' battery settings within the mobile OS and verifying HomeBase 2/3 database integrity via the storage manager.
 
 ## What it means
 

@@ -22,7 +22,7 @@ inline_image_sections:
   - "What to do now"
 ---
 
-The reliability of your home security system hinges on consistent performance, and when a critical component like a video doorbell falters, it can leave homeowners feeling vulnerable. In early to mid-2026, Arlo doorbell users have increasingly reported significant issues with motion detection and recording, raising concerns about the effectiveness of these devices.
+The reliability of your home [security system](https://quvii.com/blog/arlo-motion-detection-issues-july-2026) hinges on consistent performance, and when a critical component like a [video doorbell](https://quvii.com/blog/tuya-wifi-video-doorbell-setup-integration-guide-2026) falters, it can leave homeowners feeling vulnerable. In early to mid-2026, Arlo doorbell users have increasingly reported significant issues with motion detection and recording, raising concerns about the effectiveness of these devices.
 
 # Arlo Doorbell Motion Detection and Recording Issues: July 2026 Update
 

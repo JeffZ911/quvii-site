@@ -73,7 +73,7 @@ The Reolink doorbell is often marketed as a "plug-and-play" solution, but the re
 
 **Core Feature Comparison: Leading Subscription-Free Doorbells**
 
-| Feature | Reolink Video Doorbell (WiFi/PoE) | Eufy Video Doorbell E340 | Amcrest 4MP Doorbell (AD410) |
+| Feature | Reolink [Video Doorbell](https://quvii.com/blog/tuya-wifi-video-doorbell-setup-integration-guide-2026) (WiFi/PoE) | Eufy Video Doorbell E340 | Amcrest 4MP Doorbell (AD410) |
 | :--- | :--- | :--- | :--- |
 | **Resolution** | 2K+ (5MP) | 2K (Dual Camera) | 2K (4MP) |
 | **Two-Way Talk** | Full-Duplex | Full-Duplex | Full-Duplex |
