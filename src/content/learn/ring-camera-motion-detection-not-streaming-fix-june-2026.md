@@ -98,7 +98,7 @@ To understand why [motion detection](https://quvii.com/blog/arlo-doorbell-motion
 
 #### Motion Detection Technologies
 
-Ring cameras employ various technologies to detect motion. Most models utilize Passive Infrared (PIR) sensors, which detect changes in heat signatures within their field of view. More advanced models, such as the Ring Video Doorbell Pro 2, incorporate radar-based 3D Motion Detection. This technology allows for more precise object mapping and distance measurement, helping to reduce false alerts and provide more accurate motion detection. Once a sensor is triggered, it signals the camera's internal processor.
+Ring cameras employ various technologies to detect motion. Most models utilize Passive Infrared (PIR) sensors, which detect changes in heat signatures within their field of view. More advanced models, such as the Ring Video Doorbell Pro 2, incorporate radar-based 3D [Motion Detection](https://quvii.com/blog/arlo-doorbell-motion-recording-issues-july-2026). This technology allows for more precise object mapping and distance measurement, helping to reduce false alerts and provide more accurate motion detection. Once a sensor is triggered, it signals the camera's internal processor.
 
 #### Cloud Processing and AI
 

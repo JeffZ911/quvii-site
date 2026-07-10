@@ -77,7 +77,7 @@ The [Tapo C210](https://quvii.com/blog/tapo-c210-motor-noise-after-update) commu
 ![How it works under the hood](/img/tapo-c210-firmware-motion-tracking-bug-fix/inline-3.webp)
 
 
-To fix a motion tracking bug, it helps to understand the chain of command inside the Tapo C210. The process from "seeing" to "moving" involves three distinct layers.
+To fix a motion tracking bug, it helps to understand the chain of command inside the [Tapo C210](https://quvii.com/blog/tapo-c210-motor-noise-after-update). The process from "seeing" to "moving" involves three distinct layers.
 
 ### Motion Detection Technologies
 The C210 uses a 2K CMOS sensor to capture 15 to 20 frames per second. The firmware compares these frames. If a group of pixels changes color or brightness significantly between Frame A and Frame B, the "Motion Detection" flag is triggered. In newer firmware versions, TP-Link has integrated "Person Detection," which uses a lightweight neural network to look for human shapes rather than just pixel changes. This reduces the likelihood of the camera tracking a vacuum cleaner or a pet by mistake.

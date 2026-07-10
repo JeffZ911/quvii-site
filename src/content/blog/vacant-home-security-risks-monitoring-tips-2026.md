@@ -198,7 +198,7 @@ Strategically place cameras at entry points (doors, windows, garage) and high-tr
 ### Navigating Legal and Privacy Guidelines
 
 Adhere to legal considerations for security cameras, including state-specific audio recording laws, privacy expectations, and signage requirements.
-*   **Audio Recording Laws:** Many U.S. states have "two-party consent" laws for audio recording, meaning all parties must consent to being recorded. While this typically applies to conversations where there's a reasonable expectation of privacy, it's safer to disable audio recording on outdoor cameras or ensure clear signage if audio is enabled.
+*   **Audio Recording Laws:** Many U.S. states have "two-party consent" laws for audio recording, meaning all parties must consent to being recorded. While this typically applies to conversations where there's a reasonable expectation of privacy, it's safer to disable audio recording on [outdoor cameras](https://quvii.com/learn/outdoor-camera-guest-privacy-risks) or ensure clear signage if audio is enabled.
 *   **Expectation of Privacy:** Generally, there is no expectation of privacy in public spaces or areas visible from public spaces. However, pointing cameras into a neighbor's private yard or windows could lead to legal issues. Ensure your cameras only monitor your property.
 *   **Signage Requirements:** Some jurisdictions may require clear signage indicating the presence of video surveillance. Even where not legally mandated, it serves as an effective deterrent.
 
