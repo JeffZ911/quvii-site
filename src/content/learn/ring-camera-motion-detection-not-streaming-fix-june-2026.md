@@ -94,7 +94,7 @@ And a comparison of Ring Protect Plan features:
 
 ### How it works under the hood
 
-To understand why motion detection might fail to stream, it helps to know the journey a motion event takes from your camera to your screen.
+To understand why [motion detection](https://quvii.com/blog/arlo-doorbell-motion-recording-issues-july-2026) might fail to stream, it helps to know the journey a motion event takes from your camera to your screen.
 
 #### Motion Detection Technologies
 

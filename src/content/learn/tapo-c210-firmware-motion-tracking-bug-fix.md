@@ -70,7 +70,7 @@ Motion tracking relies on a feedback loop known as a PID (Proportional-Integral-
 Hardware cannot always compensate for poor environments. The C210 uses pixel-change analysis to identify motion. If a room has high-contrast shadows or flickering LED lights, the firmware may become "confused," trying to track a moving shadow instead of a person. This is often mistaken for a firmware bug when it is actually a limitation of the camera’s dynamic range.
 
 ### Hardware and Network Constraints
-The Tapo C210 communicates with the TP-Link servers to provide notifications and, in some cases, process advanced AI features if Tapo Care is active. If the Wi-Fi signal is weak (below -60 dBm), the latency between the "detect" command and the "move" command can cause the tracking to appear jerky or broken. Furthermore, the physical motors in the C210 are "stepper motors." If the firmware doesn't calibrate these motors correctly upon startup—a common issue in older firmware builds—the camera will lose its "zero point" and fail to track accurately.
+The [Tapo C210](https://quvii.com/blog/tapo-c210-motor-noise-after-update) communicates with the TP-Link servers to provide notifications and, in some cases, process advanced AI features if Tapo Care is active. If the Wi-Fi signal is weak (below -60 dBm), the latency between the "detect" command and the "move" command can cause the tracking to appear jerky or broken. Furthermore, the physical motors in the C210 are "stepper motors." If the firmware doesn't calibrate these motors correctly upon startup—a common issue in older firmware builds—the camera will lose its "zero point" and fail to track accurately.
 
 ## How it works under the hood
 

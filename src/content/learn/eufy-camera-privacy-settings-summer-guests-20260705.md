@@ -90,7 +90,7 @@ For the highest level of guest comfort, certain indoor models feature a physical
 Geofencing uses the GPS location of the residents' smartphones to switch modes. When the primary users are "Home," the system can automatically transition to a privacy-focused state. For this to work effectively with guests, they would either need to be added to the account or the host must manually trigger the "Home" mode to ensure the cameras don't treat guests as intruders while the host is out running errands.
 
 ### Managing Guest Access
-The Eufy Security app supports "Family & Guest" sharing. You can invite up to five additional users to view specific cameras. As the admin, you can grant "Guest" permissions, which allow them to see live feeds and events but prevent them from changing settings, deleting footage, or viewing cameras you haven't shared. This is useful for long-term summer guests who may want to check the front door camera themselves.
+The Eufy Security app supports "Family & Guest" sharing. You can invite up to five additional users to view specific cameras. As the admin, you can grant "Guest" permissions, which allow them to see live feeds and events but prevent them from changing settings, deleting footage, or viewing cameras you haven't shared. This is useful for long-term [summer guests](https://quvii.com/learn/outdoor-camera-guest-privacy-risks) who may want to check the front door camera themselves.
 
 ### Local Storage Advantage and TCO
 Eufy’s reliance on local storage is a primary privacy feature. Most systems connect to a [HomeBase 3 (S380)](https://www.eufy.com/products/t80301d1), which includes 16GB of built-in storage and is expandable up to 16TB via a 2.5-inch SATA drive. 

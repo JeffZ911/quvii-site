@@ -57,7 +57,7 @@ Operating temperature range is a critical specification for outdoor security cam
 
 ### Understanding Operating Temperature Specifications
 
-When purchasing an outdoor security camera, the operating temperature range is a crucial specification often overlooked. This range, typically provided in both Fahrenheit and Celsius, indicates the ambient temperatures under which the manufacturer guarantees the camera will function correctly and safely. Many popular consumer outdoor cameras are rated to operate reliably up to 113°F (45°C) or 122°F (50°C), with some more robust models reaching 131°F (55°C).
+When purchasing an outdoor security camera, the operating temperature range is a crucial specification often overlooked. This range, typically provided in both Fahrenheit and Celsius, indicates the ambient temperatures under which the manufacturer guarantees the camera will function correctly and safely. Many popular consumer [outdoor cameras](https://quvii.com/learn/outdoor-camera-guest-privacy-risks) are rated to operate reliably up to 113°F (45°C) or 122°F (50°C), with some more robust models reaching 131°F (55°C).
 
 Consider the following operating temperature ranges for popular outdoor security camera models:
 

@@ -135,7 +135,7 @@ Environmental factors also play a significant role in [motion detection](https:/
 ![Common misconceptions](/img/ring-battery-doorbell-plus-motion-zone-issues/inline-5.webp)
 
 
-Several misconceptions surround motion detection in battery-powered doorbells like the Ring Battery [Doorbell Plus](https://quvii.com/learn/ring-battery-doorbell-plus-firmware-update-june-2026) (2nd Gen), often leading to user frustration.
+Several misconceptions surround [motion detection](https://quvii.com/blog/arlo-doorbell-motion-recording-issues-july-2026) in battery-powered doorbells like the Ring Battery [Doorbell Plus](https://quvii.com/learn/ring-battery-doorbell-plus-firmware-update-june-2026) (2nd Gen), often leading to user frustration.
 
 **Misconception: All motion detection is the same (wired vs. battery).**
 **Reality:** Battery-powered devices, including the Ring [Battery Doorbell Plus](https://quvii.com/learn/ring-battery-doorbell-plus-firmware-update-june-2026) (2nd Gen), primarily use Passive Infrared (PIR) sensors to detect heat signatures, which are inherently different from the pixel-based motion detection often found in continuously powered wired cameras. Wired cameras can constantly analyze video frames for changes, offering more granular control and often quicker, more precise detection. Battery devices must conserve power, leading to a "wake-up" period after PIR detection, which can sometimes result in missed initial moments of an event.
