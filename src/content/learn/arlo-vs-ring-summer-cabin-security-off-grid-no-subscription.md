@@ -155,7 +155,7 @@ A common misconception is that a "wireless" security camera operates without any
 
 ### 'Battery-powered' means 'never charge'
 
-Another frequent misunderstanding is that battery-powered cameras are a "set it and forget it" solution for power. While batteries offer flexibility, their life varies significantly based on activity levels, temperature, and settings. Frequent motion detection, live viewing, and two-way audio usage will drain batteries much faster than minimal activity. Solar panels can extend battery life considerably by providing a continuous charge, but they are dependent on adequate sunlight and may not fully eliminate the need for occasional manual recharging, especially during prolonged cloudy periods or winter months.
+Another frequent misunderstanding is that battery-powered cameras are a "set it and forget it" solution for power. While batteries offer flexibility, their life varies significantly based on activity levels, temperature, and settings. Frequent [motion detection](https://quvii.com/blog/arlo-doorbell-motion-recording-issues-july-2026), live viewing, and two-way audio usage will drain batteries much faster than minimal activity. Solar panels can extend battery life considerably by providing a continuous charge, but they are dependent on adequate sunlight and may not fully eliminate the need for occasional manual recharging, especially during prolonged cloudy periods or winter months.
 
 ### 'Free live view' equals 'free recordings'
 

@@ -36,7 +36,7 @@ Ensuring your [home security](https://quvii.com/blog/smart-home-security-privacy
 ![What happened](/img/how-to-verify-security-camera-recall/inline-1.webp)
 
 
-On June 4, 2026, the Consumer Product Safety Commission (CPSC) announced a significant voluntary recall involving one of the most popular solar-powered outdoor cameras on the market. The recall, designated as #26-524, centers on the [Wyze Solar Cam](https://quvii.com/blog/wyze-solar-cam-pan-recall-fire-hazard) Pan, a device marketed for its "set-and-forget" wireless installation.
+On June 4, 2026, the Consumer Product Safety Commission (CPSC) announced a significant voluntary recall involving one of the most popular solar-powered [outdoor cameras](https://quvii.com/learn/outdoor-camera-guest-privacy-risks) on the market. The recall, designated as #26-524, centers on the [Wyze Solar Cam](https://quvii.com/blog/wyze-solar-cam-pan-recall-fire-hazard) Pan, a device marketed for its "set-and-forget" wireless installation.
 
 The recall affects approximately 321,360 units sold in the United States and an additional 2,560 units sold in Canada. These cameras were primarily distributed through major online retailers and big-box stores between October 2025 and April 2026. According to the CPSC announcement, the hazard stems from a documentation error: the included printed instructions directed users to use a long, flat-head wood screw to secure the solar panel mount to the camera body in a way that can inadvertently puncture the internal lithium-ion battery.
 

@@ -61,7 +61,7 @@ A motion tracking failure on the C210 typically manifests in three ways:
 ![Why it exists](/img/tapo-c210-firmware-motion-tracking-bug-fix/inline-2.webp)
 
 
-The existence of motion tracking bugs in firmware like 1.3.10 is rarely the result of a single error but rather a combination of algorithmic limitations and environmental variables. Because the Tapo C210 is a budget-friendly device, its onboard processor has limited "compute" to handle complex AI tasks.
+The existence of motion tracking bugs in firmware like 1.3.10 is rarely the result of a single error but rather a combination of algorithmic limitations and environmental variables. Because the [Tapo C210](https://quvii.com/blog/tapo-c210-motor-noise-after-update) is a budget-friendly device, its onboard processor has limited "compute" to handle complex AI tasks.
 
 ### Software Limitations and Bugs
 Motion tracking relies on a feedback loop known as a PID (Proportional-Integral-Derivative) controller. The firmware calculates the distance between the subject's center and the frame's center, then moves the motor to close that gap. If the firmware version 1.3.10 contains a "buffer overflow" or a logic error in how it handles these coordinates, the tracking system may "break" when a subject moves too fast or approaches the edge of the frame. Newer updates, such as those in the 1.5.x series, typically refine these calculations to prevent the motor from "over-shooting" its target.
