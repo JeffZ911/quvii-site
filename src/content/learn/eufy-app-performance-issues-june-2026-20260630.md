@@ -169,7 +169,7 @@ This is primarily due to the Eufy [Security app](https://quvii.com/blog/eufy-sec
 Yes, Eufy remains one of the few major brands offering local storage without a monthly fee. However, features like "Rich Notifications" (thumbnails) still rely on Eufy's cloud servers, which are currently experiencing the latency issues described in this guide.
 
 ### How do I fix the "Storage Not Found" error on my HomeBase 3?
-This is a known issue with firmware v3.8.2.0. To resolve it, try a soft reboot via the app. If the error persists, you may need to back up your footage and reformat the internal SSD through the "Storage Management" menu to repair the file allocation table.
+This is a known issue with [firmware v3](https://quvii.com/learn/reolink-doorbell-poe-connection-drop-firmware-troubleshooting).8.2.0. To resolve it, try a soft reboot via the app. If the error persists, you may need to back up your footage and reformat the internal SSD through the "Storage Management" menu to repair the file allocation table.
 
 ### Is Eufy planning to fix the notification delays?
 While Eufy has not issued a formal recall, their support forums indicate that a "stability patch" (likely v3.8.2.1 or higher) is in development to address the server-side handshake bottlenecks and the HomeBase 3 indexing bugs.

@@ -167,7 +167,7 @@ If your playback timeline has "gaps," if the app says "No SD Card installed," or
 
 ## Sources
 
-- Wyze Cam v4 Official Specifications — https://www.wyze.com/products/wyze-cam-v4
+- [Wyze Cam v4](https://quvii.com/learn/is-wyze-cam-v4-safe-security-privacy-2026) Official Specifications — https://www.wyze.com/products/wyze-cam-v4
 - CPSC Recall Notice (Wyze Solar Cam Pan) — https://www.cpsc.gov/Recalls/2026/Wyze-Recalls-Solar-Cam-Pan-Due-to-Fire-Hazard
 - Wyze Support: Troubleshooting Connectivity — https://support.wyze.com/hc/en-us/articles/360031128391-Camera-is-offline
 - RTINGS: Best Outdoor Security Cameras

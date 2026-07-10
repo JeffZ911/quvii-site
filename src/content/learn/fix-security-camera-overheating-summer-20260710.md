@@ -48,7 +48,7 @@ When a camera begins to struggle with thermal loads, the symptoms are rarely sub
 *   **Intermittent Operation:** The camera frequently goes "Offline" in the app during the hottest part of the day (typically 2:00 PM to 5:00 PM) and reconnects once the sun sets.
 *   **Video Artifacts and Freezing:** High heat affects the sensor's ability to process data cleanly, resulting in "ghosting," purple tints, or video streams that freeze after a few seconds of live viewing.
 *   **App Notifications:** Modern smart cameras from brands like eufy and Arlo will push a specific "High Temperature" alert to your smartphone, often disabling the live view or recording features until the unit cools down.
-*   **Reduced Responsiveness:** Significant lag in motion detection or a delay in the "Time to Live" (the time it takes for the stream to open) are early indicators that the processor is thermal throttling.
+*   **Reduced Responsiveness:** Significant lag in [motion detection](https://quvii.com/blog/arlo-doorbell-motion-recording-issues-july-2026) or a delay in the "Time to Live" (the time it takes for the stream to open) are early indicators that the processor is thermal throttling.
 
 ### Implications for Camera Health
 Persistent overheating is more than a temporary inconvenience. Sustained high temperatures accelerate the chemical degradation of lithium-ion batteries in wireless models, significantly shortening their overall lifespan. Furthermore, the constant expansion and contraction of internal components can eventually lead to "solder fatigue," where internal connections crack, rendering the camera permanently inoperable.

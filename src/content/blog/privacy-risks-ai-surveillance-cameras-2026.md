@@ -76,7 +76,7 @@ For the modern buyer, the choice is no longer about resolution or [night vision]
 When you agree to the terms of service for most cloud-based AI cameras, you are often granting the manufacturer a license to use your footage to "improve their algorithms." In 2026, this means your face, your gait, and even the sound of your dog barking are being used as training data for future AI models. While companies claim this data is anonymized, researchers have repeatedly demonstrated that "de-identified" biometric data can often be re-linked to individuals when combined with other metadata.
 
 ### The Warrantless Access Reality
-One of the most critical privacy risks is the "Emergency Access" loophole. Amazon and Google maintain policies that allow them to provide footage to law enforcement without a warrant if they believe there is an "imminent danger of death or serious physical injury." 
+One of the most critical [privacy risks](https://quvii.com/learn/outdoor-camera-guest-privacy-risks) is the "Emergency Access" loophole. Amazon and Google maintain policies that allow them to provide footage to law enforcement without a warrant if they believe there is an "imminent danger of death or serious physical injury." 
 
 According to [Amazon’s own Transparency Reports](https://www.amazon.com/gp/help/customer/display.html?nodeId=GZ786S59S7Y3TM9U), the company continues to fulfill dozens of these requests annually. For a buyer, this means that despite your own [privacy settings](https://quvii.com/learn/eufy-camera-privacy-settings-summer-guests-20260705), a third party (the vendor) holds the ultimate "master key" to your video feed.
 

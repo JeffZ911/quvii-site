@@ -31,7 +31,7 @@ The [Tapo C210](https://quvii.com/blog/tapo-c210-motor-noise-after-update) remai
 
 # Tapo C210 Motion Tracking Issues: Understanding Firmware & Fixes
 
-**Quick Answer:** While a specific "firmware 1.3.10 motion tracking bug" for the Tapo C210 is not widely documented as a distinct, confirmed flaw, users have reported general issues with motion tracking, including it turning off automatically or missing events. These problems are often linked to outdated firmware, incorrect settings, or environmental factors. Updating your camera's firmware to the latest version (e.g., v1.5.2 or v1.2.5, depending on hardware version, as of early 2026) is a primary step to resolve such inconsistencies.
+**Quick Answer:** While a specific "firmware 1.3.10 motion tracking bug" for the [Tapo C210](https://quvii.com/blog/tapo-c210-motor-noise-after-update) is not widely documented as a distinct, confirmed flaw, users have reported general issues with motion tracking, including it turning off automatically or missing events. These problems are often linked to outdated firmware, incorrect settings, or environmental factors. Updating your camera's firmware to the latest version (e.g., v1.5.2 or v1.2.5, depending on hardware version, as of early 2026) is a primary step to resolve such inconsistencies.
 
 ## What it means
 

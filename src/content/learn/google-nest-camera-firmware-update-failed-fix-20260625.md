@@ -268,5 +268,5 @@ Yes, Google commits to providing automatic critical security updates for [Google
 *   CNET - Nest Doorbell (wired, 2nd gen) review
 *   <a href="https://www.amazon.com/s?k=Google+Store+-+Nest+Aware+pricing&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Google Store - Nest Aware pricing</a>
 *   <a href="https://www.amazon.com/s?k=Engadget+-+Nest+Hub+Max+review&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Engadget - Nest Hub Max review</a>
-*   [Google Nest Community](https://quvii.com/blog/google-nest-community-migration-outage-fixes-2026-20260625) - [Camera offline](https://quvii.com/learn/blink-camera-offline-troubleshooting-june-2026) after update
+*   [Google Nest Community](https://quvii.com/blog/google-nest-community-migration-outage-fixes-2026-20260625) - [Camera offline](https://quvii.com/learn/blink-camera-offline-troubleshooting-june-2026) [after update](https://quvii.com/blog/tapo-c210-motor-noise-after-update)
 *   <a href="https://www.amazon.com/s?k=Thurrott+-+Google+Nest+Cam+%28wired%29+review&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Thurrott - [Google Nest Cam](https://quvii.com/blog/google-nest-cam-familiar-faces-june-2026-update) (wired) review</a>

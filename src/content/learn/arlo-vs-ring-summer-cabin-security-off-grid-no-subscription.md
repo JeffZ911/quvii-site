@@ -64,7 +64,7 @@ In contrast, most Ring outdoor cameras, such as the Spotlight Cam and Stick Up C
 
 For properties left unattended for extended periods, efficient power management is critical. Arlo cameras are generally known for their robust battery life. For instance, the Arlo Essential Outdoor 2K camera typically provides 3 to 6 months of battery life on a single charge under normal usage conditions. More advanced models can extend this to up to a year with lower activity levels and optimized settings.
 
-Ring cameras, such as the Stick Up Cam Battery and Spotlight Cam Battery, are often rated for 6 to 12 months of battery life. However, real-world usage, especially with frequent motion detection and live views, can significantly reduce this, often requiring recharges every 2 weeks to 3 months.
+Ring cameras, such as the Stick Up Cam Battery and Spotlight Cam Battery, are often rated for 6 to 12 months of battery life. However, real-world usage, especially with frequent [motion detection](https://quvii.com/blog/arlo-doorbell-motion-recording-issues-july-2026) and live views, can significantly reduce this, often requiring recharges every 2 weeks to 3 months.
 
 Both brands offer compatible solar panels to supplement battery power, substantially extending the time between manual recharges. Arlo's solar panels can continuously charge compatible cameras with adequate sunlight. Similarly, Ring solar panels are designed to provide a trickle charge, helping to maintain battery levels and reduce the need for manual charging. Optimal performance for solar panels typically requires 3-4 hours of direct daily sunlight.
 
