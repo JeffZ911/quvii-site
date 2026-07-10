@@ -136,7 +136,7 @@ Several common misunderstandings can complicate troubleshooting and lead users d
 
 **"End-to-End Encryption doesn't affect features"**: Enabling End-to-End Encryption (E2EE) on Ring devices does significantly limit some of Ring's [smart features](https://quvii.com/blog/monitored-security-without-smart-features). Because E2EE encrypts video from the moment it leaves the camera until it reaches your device, Ring's cloud servers cannot process the video for features like person detection, facial recognition, or rich notifications with video previews. This trade-off between privacy and functionality is important to understand.
 
-**"Motion zones are set-and-forget"**: Environmental factors, such as new foliage growth, changes in sunlight or shadows, or even reflections from new objects, can affect motion detection over time. Additionally, Ring firmware updates can sometimes alter how motion detection algorithms interpret scenes, necessitating periodic adjustments to your motion zones and sensitivity settings to ensure optimal performance.
+**"Motion zones are set-and-forget"**: Environmental factors, such as new foliage growth, changes in sunlight or shadows, or even reflections from new objects, can affect [motion detection](https://quvii.com/blog/arlo-doorbell-motion-recording-issues-july-2026) over time. Additionally, Ring firmware updates can sometimes alter how motion detection algorithms interpret scenes, necessitating periodic adjustments to your motion zones and sensitivity settings to ensure optimal performance.
 
 ### Decision Framework
 

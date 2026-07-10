@@ -95,7 +95,7 @@ The "Motion Tracking" algorithm is the bridge between detection and the motors. 
 ![Real-world implications](/img/tapo-c210-firmware-motion-tracking-bug-fix/inline-4.webp)
 
 
-When motion tracking fails on a Tapo C210, the consequences range from minor annoyance to significant security gaps. 
+When motion tracking fails on a [Tapo C210](https://quvii.com/blog/tapo-c210-motor-noise-after-update), the consequences range from minor annoyance to significant security gaps. 
 
 ### Compromised Security Coverage
 The primary reason users buy a pan-tilt camera is to cover more ground with a single device. If the motion tracking bug causes the camera to stop following an intruder, you may only capture their entry point and miss their subsequent actions within the home. This "blind spot" created by software instability negates the advantage of having a 360-degree lens.

@@ -105,7 +105,7 @@ Owners of the **TP-Link Tapo C220 v1** and **C520WS v2** must take immediate act
 
 ### Physical Security and Tamper Prevention
 To prevent criminals from taping over your cameras, placement is everything.
-*   **Mount High:** Outdoor cameras should be mounted at least 9 feet high, making them difficult to reach without a ladder.
+*   **Mount High:** [Outdoor cameras](https://quvii.com/learn/outdoor-camera-guest-privacy-risks) should be mounted at least 9 feet high, making them difficult to reach without a ladder.
 *   **Use Enclosures:** For cameras at eye level, use anti-tamper metal housings that make it difficult to apply tape or spray-on blockers to the lens.
 *   **Dual Coverage:** Overlap your camera fields of view. If an intruder tries to tape over Camera A, Camera B should capture the act.
 
