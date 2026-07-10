@@ -261,7 +261,7 @@ Yes, Google commits to providing automatic critical security updates for [Google
 *   Google Support - Restart Nest Cam (battery)
 *   Reddit - Nest Doorbell (battery) [issues after](https://quvii.com/blog/tapo-c425-battery-drain-june-update-impact) update
 *   Reddit - Nest Cam (wired) night vision [issues after](https://quvii.com/blog/tapo-c425-battery-drain-june-update-impact) update
-*   Reddit - Nest Cam (battery) [battery drain](https://quvii.com/blog/eufy-security-camera-battery-drain-june-2026) after update
+*   Reddit - Nest Cam (battery) [battery drain](https://quvii.com/blog/eufy-security-camera-battery-drain-june-2026) [after update](https://quvii.com/blog/tapo-c210-motor-noise-after-update)
 *   Google Store - Nest Doorbell (wired, 2nd gen) specs
 *   <a href="https://www.amazon.com/s?k=YouTube+-+Nest+Cam+%28battery%29+firmware+update+issues&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">YouTube - Nest Cam (battery) [firmware update issues](https://quvii.com/blog/eufy-camera-firmware-update-issues-june-2026)</a>
 *   Reddit - Nest Cam (battery) connectivity [issues after](https://quvii.com/blog/tapo-c425-battery-drain-june-update-impact) update

@@ -23,7 +23,7 @@ inline_image_sections:
   - "What to do now"
 ---
 
-Reliability is the silent baseline of any security system; a camera that fails to alert you to an intruder is little more than a digital paperweight. In June 2026, a significant portion of the Eufy Security user base discovered the fragility of this baseline when a series of firmware updates led to widespread motion notification failures.
+Reliability is the silent baseline of any [security system](https://quvii.com/blog/arlo-motion-detection-issues-july-2026); a camera that fails to alert you to an intruder is little more than a digital paperweight. In June 2026, a significant portion of the Eufy Security user base discovered the fragility of this baseline when a series of firmware updates led to widespread motion notification failures.
 
 # Eufy Security Motion Push Notification Failure: What Went Wrong in June 2026
 

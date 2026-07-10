@@ -163,7 +163,7 @@ If the v6.0.x app issues are a dealbreaker, the market for subscription-free cam
 ## Frequently Asked Questions
 
 ### Why is my Eufy camera taking 20 seconds to load in June 2026?
-This is primarily due to the Eufy [Security app](https://quvii.com/blog/eufy-security-app-4-8-0-login-issues-fix) v6.0.x attempting to authenticate with cloud servers and load integrated smart home modules (Eufy Clean/Life) before starting the camera stream. It can also be caused by a bug in firmware v3.8.2.0 that slows down the HomeBase 3's response time.
+This is primarily due to the Eufy [Security app](https://quvii.com/blog/eufy-security-app-4-8-0-login-issues-fix) v6.0.x attempting to authenticate with cloud servers and load integrated smart home modules (Eufy Clean/Life) before starting the camera stream. It can also be caused by a bug in [firmware v3](https://quvii.com/learn/reolink-doorbell-poe-connection-drop-firmware-troubleshooting).8.2.0 that slows down the HomeBase 3's response time.
 
 ### Does Eufy still work without a subscription in 2026?
 Yes, Eufy remains one of the few major brands offering local storage without a monthly fee. However, features like "Rich Notifications" (thumbnails) still rely on Eufy's cloud servers, which are currently experiencing the latency issues described in this guide.

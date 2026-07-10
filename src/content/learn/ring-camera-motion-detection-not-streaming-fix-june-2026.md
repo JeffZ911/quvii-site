@@ -60,7 +60,7 @@ Outdated versions of the Ring app or the camera's firmware can introduce bugs th
 
 #### Power Supply Issues
 
-For wired Ring cameras, an insufficient or intermittent power supply can lead to erratic behavior, including motion detection without streaming. For battery-powered Ring cameras, a low battery level can degrade performance, often prioritizing basic functions over bandwidth-intensive streaming and recording. Ensuring your camera has a consistent and adequate power source is crucial for reliable operation.
+For wired Ring cameras, an insufficient or intermittent power supply can lead to erratic behavior, including [motion detection](https://quvii.com/blog/arlo-doorbell-motion-recording-issues-july-2026) without streaming. For battery-powered Ring cameras, a low battery level can degrade performance, often prioritizing basic functions over bandwidth-intensive streaming and recording. Ensuring your camera has a consistent and adequate power source is crucial for reliable operation.
 
 #### Privacy Settings Conflicts
 

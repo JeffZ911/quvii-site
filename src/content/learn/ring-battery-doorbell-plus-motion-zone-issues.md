@@ -102,7 +102,7 @@ Here's a summary of key specifications and [motion detection](https://quvii.com/
 | :------------------------ | :---------------------------------------------------- | :-------- |
 | **Resolution**            | 1536p HD+ Video / Retinal 2K (2560x1440)              | |
 | **Field of View**         | 150° horizontal, 150° vertical (1:1 aspect ratio)     | |
-| **Motion Detection**      | Advanced Motion Detection, Customizable Motion Zones  | |
+| **[Motion Detection](https://quvii.com/blog/arlo-doorbell-motion-recording-issues-july-2026)**      | Advanced Motion Detection, Customizable Motion Zones  | |
 | **Sensor Type**           | Passive Infrared (PIR)                                | |
 | **Night Vision**          | Color Night Vision, Infrared LEDs for B&W             | |
 | **Wi-Fi Connectivity**    | Dual-band Wi-Fi 6 (2.4GHz & 5GHz)                     | |

@@ -27,7 +27,7 @@ inline_image_sections:
   - "Further reading"
 ---
 
-The Tapo C210 remains a staple in the entry-level indoor security market due to its 2K resolution and mechanical pan-tilt capabilities, but software stability is the invisible backbone of its performance. When firmware versions like 1.3.10 introduce logic errors in motion tracking, a high-spec camera can quickly become a static, unreliable observer.
+The [Tapo C210](https://quvii.com/blog/tapo-c210-motor-noise-after-update) remains a staple in the entry-level indoor security market due to its 2K resolution and mechanical pan-tilt capabilities, but software stability is the invisible backbone of its performance. When firmware versions like 1.3.10 introduce logic errors in motion tracking, a high-spec camera can quickly become a static, unreliable observer.
 
 # Tapo C210 Motion Tracking Issues: Understanding Firmware & Fixes
 

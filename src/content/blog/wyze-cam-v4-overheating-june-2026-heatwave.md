@@ -122,7 +122,7 @@ In contrast, a $150 camera with better thermal management and no subscription (l
 ![What to do now](/img/wyze-cam-v4-overheating-june-2026-heatwave/inline-4.webp)
 
 
-If your Wyze Cam v4 is struggling with the June 2026 heatwave, immediate intervention can prevent permanent hardware failure.
+If your [Wyze Cam v4](https://quvii.com/learn/is-wyze-cam-v4-safe-security-privacy-2026) is struggling with the June 2026 heatwave, immediate intervention can prevent permanent hardware failure.
 
 ### Immediate Relocation
 The most effective fix is moving the camera. A camera mounted on a south-facing white vinyl fence will absorb significantly more heat than one mounted under a deep north-facing eave. If you cannot move the camera, try to create "passive cooling" by ensuring there is at least an inch of air gap between the camera mount and the wall, allowing air to circulate behind the unit.
@@ -140,7 +140,7 @@ If your camera has developed a persistent purple tint, the IR-cut filter may be 
 Use only the original 5V/1A power adapter provided by Wyze. While it may be tempting to use a high-wattage "fast charger" from a smartphone, these can sometimes deliver slightly higher voltages or different amperages that increase the thermal load on the camera's internal voltage regulator.
 
 ### How to Check Thermal Status in Wyze App 3.16
-1.  Open the Wyze App and select your Cam v4.
+1.  Open the Wyze App and select your [Cam v4](https://quvii.com/learn/is-wyze-cam-v4-safe-security-privacy-2026).
 2.  Tap the **Settings (gear icon)** in the top right.
 3.  Navigate to **Device Info**.
 4.  Look for the **Signal Strength** and (if available in your region's firmware) the **Thermal Status** indicator.

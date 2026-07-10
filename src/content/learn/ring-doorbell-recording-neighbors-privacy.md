@@ -170,7 +170,7 @@ Here's a comparison of some popular Ring doorbell models and their features, hig
 
 If avoiding subscriptions and maximizing local control over your footage is a priority, several brands offer doorbell cameras with robust local storage options:
 *   **Eufy:** Many Eufy doorbell models, such as the Eufy Video Doorbell 2K or Dual, store footage locally on a HomeBase unit (a hub) or directly on the device via a microSD card, often eliminating the need for a recurring cloud subscription.
-*   **Reolink:** Reolink offers doorbell cameras, like the Video Doorbell PoE and Wi-Fi, that support local storage directly to an onboard microSD card or to a Network Video Recorder (NVR).
+*   **Reolink:** Reolink offers doorbell cameras, like the Video [Doorbell PoE](https://quvii.com/learn/reolink-doorbell-poe-connection-drop-firmware-troubleshooting) and Wi-Fi, that support local storage directly to an onboard microSD card or to a Network Video Recorder (NVR).
 *   **EZVIZ and Philips Hue:** These brands also offer security camera systems with local storage capabilities or integrate with systems that do, providing alternatives to cloud-dependent models.
 
 ### Navigating Legal Guidelines for Home Surveillance
