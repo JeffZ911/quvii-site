@@ -122,7 +122,7 @@ If you are concerned about the trajectory of AI surveillance, there are concrete
 | **Tech Enthusiast** | Data Sovereignty | [Home Assistant](https://quvii.com/blog/home-assistant-2026-7-0b0-camera-breaking-changes) + Scrypted (DIY local-only) |
 
 ### Switching to Local-First Systems
-The most effective way to mitigate AI privacy risks is to move to a "Local-First" architecture. Brands like **Reolink** and **Eufy** (specifically when paired with the **HomeBase 3**) process person and vehicle detection on the device itself. 
+The most effective way to mitigate AI [privacy risks](https://quvii.com/learn/outdoor-camera-guest-privacy-risks) is to move to a "Local-First" architecture. Brands like **Reolink** and **Eufy** (specifically when paired with the **HomeBase 3**) process person and vehicle detection on the device itself. 
 
 When a Reolink camera identifies a person, it doesn't ask a cloud server for help; it uses its internal processor. This allows you to block the camera's internet access entirely while still receiving alerts on your local Wi-Fi network. According to Reolink’s official specs, their "Smart Detection" features function entirely offline.
 

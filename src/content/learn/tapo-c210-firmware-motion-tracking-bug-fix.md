@@ -41,7 +41,7 @@ The [Tapo C210](https://quvii.com/blog/tapo-c210-motor-noise-after-update) remai
 *Related: [Nest Cam (Battery) Offline After Storm: Causes & Fixes](/learn/nest-cam-battery-offline-storm-fixes) · [Fixing Reolink Argus 3 Pro Solar Charging Issues (June 2026)](/learn/reolink-argus-3-pro-solar-charging-issues-2026) · [Ring Camera Motion Detection Not Streaming: June 2026 Fixes](/learn/ring-camera-motion-detection-not-streaming-fix-june-2026)*
 
 
-The TP-Link Tapo C210 is a 2K (3MP) indoor security camera designed to provide high-definition monitoring with a mechanical pan-and-tilt base. Its standout feature is "Motion Tracking," which differs from standard "Motion Detection." While detection simply alerts you that something moved, tracking instructs the camera’s internal motors to physically follow the subject, keeping them centered in the frame as they walk across a room.
+The TP-Link [Tapo C210](https://quvii.com/blog/tapo-c210-motor-noise-after-update) is a 2K (3MP) indoor security camera designed to provide high-definition monitoring with a mechanical pan-and-tilt base. Its standout feature is "Motion Tracking," which differs from standard "Motion Detection." While detection simply alerts you that something moved, tracking instructs the camera’s internal motors to physically follow the subject, keeping them centered in the frame as they walk across a room.
 
 According to TP-Link’s official product specifications, the C210 offers a 360-degree horizontal range and a 114-degree vertical range. When the motion tracking feature is functioning correctly, it acts as a virtual security guard, pivoting the lens to ensure a subject cannot simply "walk out of frame." However, software is the conductor of this mechanical orchestra. 
 

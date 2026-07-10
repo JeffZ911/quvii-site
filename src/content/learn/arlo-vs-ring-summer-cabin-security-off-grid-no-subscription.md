@@ -86,7 +86,7 @@ Arlo Secure plans typically offer cloud video recording for a set number of days
 These plans are necessary for accessing cloud storage and the full suite of smart detection features.
 
 **Ring Protect Plans (2026):**
-Ring Protect plans provide cloud video history, advanced motion detection, person alerts, and the ability to save and share videos.
+Ring Protect plans provide cloud video history, advanced [motion detection](https://quvii.com/blog/arlo-doorbell-motion-recording-issues-july-2026), person alerts, and the ability to save and share videos.
 *   A basic plan: Covers a single device, offering 180 days of video history and other basic features, starting around $5/month or $50/year.
 *   A comprehensive plan: Covers all devices at a single location, often around $10/month or $100/year, and includes extended warranties.
 *   **Ring Protect Pro:** Integrates with Ring Alarm systems, providing professional monitoring, cellular backup for the alarm, and additional smart home features, typically around $20/month or $200/year.
