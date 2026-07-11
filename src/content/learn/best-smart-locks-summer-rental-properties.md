@@ -171,7 +171,7 @@ Yes, over time. For coastal rentals, look for locks with a "Satin Chrome" or "Br
 ![Further reading](/img/best-smart-locks-summer-rental-properties/inline-6.webp)
 
 *   Quvii's Guide to local storage security cameras for Rentals
-*   Best outdoor cameras for rentals for Vacation Properties (No Subscription)
+*   Best [outdoor cameras](https://quvii.com/learn/outdoor-camera-guest-privacy-risks) for rentals for Vacation Properties (No Subscription)
 *   Understanding [Smart Home Privacy](https://quvii.com/learn/smart-home-privacy-risks-ai-security-cameras): [security camera privacy](https://quvii.com/learn/eufy-security-camera-privacy-policy-update-2026-20260625) and Who Owns Your Entry Data?
 
 ## Sources

@@ -114,7 +114,7 @@ If you are an existing Josh.ai user or are considering an installation following
 2.  **Audit Your Camera Hardware:** To fully utilize "Expanded Josh Vision" and "Camera Capture," your cameras must support high-quality RTSP or ONVIF streams. If you are using older, low-resolution cameras, you may not see the full benefit of the AI analysis features.
 3.  **Consult a Josh.ai Certified Integrator:** Because Josh.ai is a professional-grade system, optimizing the AI X OS for your specific home layout often requires a pro. They can ensure your network bandwidth is sufficient for multi-camera PiP and that your NVR is properly handshaking with the Josh Core.
 4.  **Explore AI Scene Creation:** Spend time experimenting with the new natural language scene builder. Try creating security-focused routines that combine camera events with other smart home triggers (e.g., "If the back fence camera detects a person, lock all the doors").
-5.  **Review the Privacy Dashboard:** Take a moment to walk through the new privacy settings. Ensure that the level of AI analysis performed on your camera feeds matches your personal comfort level.
+5.  **Review the Privacy Dashboard:** Take a moment to walk through the new [privacy settings](https://quvii.com/learn/ring-doorbell-privacy-settings-summer-guests). Ensure that the level of AI analysis performed on your camera feeds matches your personal comfort level.
 
 While the AI X OS represents a sophisticated leap forward, it remains part of a premium ecosystem. Industry analysis tracks these trade-offs across the category, noting that while the entry price is high, the elimination of "subscription fatigue" and the gain in data privacy are increasingly valuable to modern homeowners.
 

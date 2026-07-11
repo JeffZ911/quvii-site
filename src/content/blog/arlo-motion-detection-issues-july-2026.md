@@ -36,14 +36,14 @@ Arlo [motion detection](https://quvii.com/blog/arlo-doorbell-motion-recording-is
 *Related: [Ring Camera Motion Alerts Not Working: July 2026 Outage & Fixes](/blog/ring-camera-motion-alerts-not-working-july-2026) · [Tuya WiFi Video Doorbell: 2026 Setup & Integration Guide Updates](/blog/tuya-wifi-video-doorbell-setup-integration-guide-2026) · [Choosing Monitored Security Without Smart Features (2026 Guide)](/blog/monitored-security-without-smart-features)*
 
 
-The summer of 2026 has been a turbulent period for Arlo’s high-end camera lines, specifically the Pro 5S and Ultra 2 series. Following the rollout of firmware version 6.26.0 in late Q2 2026, a significant volume of user reports on the [Arlo Community forums](https://community.arlo.com) and r/Arlo indicate that cameras are failing to initiate recordings until an intruder is already halfway across the frame.
+The summer of 2026 has been a turbulent period for Arlo’s high-end camera lines, specifically the [Pro 5S](https://quvii.com/learn/arlo-pro-5s-2k-night-vision-stuck-on) and Ultra 2 series. Following the rollout of firmware version 6.26.0 in late Q2 2026, a significant volume of user reports on the [Arlo Community forums](https://community.arlo.com) and r/Arlo indicate that cameras are failing to initiate recordings until an intruder is already halfway across the frame.
 
 This "late wake-up" issue is compounded by a persistent bug where the integrated security lights on the Pro 5S appear "grayed out" or unresponsive in the Arlo Secure app, even when the camera is successfully armed. Furthermore, the March 2026 service outage—which impacted Arlo’s backend synchronization—appears to have left a "ghosting" effect on the user interface. Many users who were forced to migrate from the legacy "Library" interface to the newer "Feed" UI are finding that their motion sensitivity settings no longer correspond to the physical behavior of the PIR (Passive Infrared) sensors.
 
 ### The v6.26.0 Firmware Regression
 The v6.26.0 update was intended to optimize battery life by refining the "low-power wake" state. However, independent community testing suggests the update introduced a logic error in how the camera handshakes with the Arlo SmartHub (VMB4540 and VMB5000). Instead of an instantaneous trigger, the PIR sensor now waits for a secondary confirmation from the cloud-based "Arlo Intelligence" engine before committed recording begins. This creates a "3-5 second recording gap" that makes the system ineffective for capturing fast-moving events, such as porch piracy.
 
-| Feature / Model | Arlo Pro 5S | Arlo Ultra 2 | Arlo Essential Gen 2 |
+| Feature / Model | [Arlo Pro 5S](https://quvii.com/learn/arlo-pro-5s-2k-night-vision-stuck-on) | Arlo Ultra 2 | Arlo Essential Gen 2 |
 | :--- | :--- | :--- | :--- |
 | **Firmware Version** | v6.26.0.x | v6.26.0.x | v1.0.26.x |
 | **PIR Wake Time** | 2.5 - 4.0 seconds | 3.0 - 5.0 seconds | 1.5 - 2.0 seconds |

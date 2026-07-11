@@ -45,7 +45,7 @@ To protect guest privacy, use Ring’s granular user permissions to grant live-v
 Configuring a Ring doorbell for guests involves navigating three distinct layers of the Ring ecosystem: user hierarchy, visual masking, and interaction modes. In 2026, these features allow homeowners to maintain a "digital perimeter" while ensuring visitors are not subjected to unnecessary surveillance.
 
 ### The Role-Based Access Control (RBAC)
-Ring manages access through a hierarchy of users. While the **Owner** has full control over all settings and billing, **Shared Users** are the standard for summer guests or house-sitters. In the current Ring app interface, Owners can customize permissions for each Shared User. 
+Ring manages access through a hierarchy of users. While the **Owner** has full control over all settings and billing, **Shared Users** are the standard for [summer guests](https://quvii.com/learn/outdoor-camera-guest-privacy-risks) or house-sitters. In the current Ring app interface, Owners can customize permissions for each Shared User. 
 
 Instead of a binary "on/off" access model, the system utilizes granular permissions. For a summer guest, an Owner typically toggles off the ability to delete videos or change device settings, while keeping "Live View" active. This ensures the guest can see who is at the door without having the power to alter the home's security configuration. It is important to note that Shared Users cannot view videos that were recorded before they were added to the system, nor can they view videos that have been deleted by the Owner ([Ring Support](https://support.ring.com/hc/en-us/articles/211018223-Adding-a-Shared-User-to-Your-Ring-Account)).
 

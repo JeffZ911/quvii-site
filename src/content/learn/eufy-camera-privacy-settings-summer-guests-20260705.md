@@ -31,7 +31,7 @@ Hosting friends and family for a summer visit requires balancing home security w
 
 # Eufy Camera Privacy Settings for Summer Guests: How to Protect Your Guests This Summer
 
-Eufy cameras offer robust privacy settings through the Eufy Security app, including customizable privacy zones that blackout recorded areas, the ability to disable [motion detection](https://quvii.com/blog/eufy-doorbell-motion-detection-not-working-july-2026) and recording, and geofencing for automated mode switching. For guests, you can manage access with limited permissions, ensuring their comfort while maintaining home security, leveraging Eufy's local storage for enhanced data control.
+Eufy cameras offer robust [privacy settings](https://quvii.com/learn/ring-doorbell-privacy-settings-summer-guests) through the Eufy Security app, including customizable privacy zones that blackout recorded areas, the ability to disable [motion detection](https://quvii.com/blog/eufy-doorbell-motion-detection-not-working-july-2026) and recording, and geofencing for automated mode switching. For guests, you can manage access with limited permissions, ensuring their comfort while maintaining home security, leveraging Eufy's local storage for enhanced data control.
 
 ## What it means
 

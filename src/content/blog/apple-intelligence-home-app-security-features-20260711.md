@@ -76,7 +76,7 @@ Most competitors process AI video in the cloud, where the footage is technically
 Most camera brands charge a "per-camera" fee for AI features like package detection or familiar face recognition, often ranging from $5 to $15 per month. Apple includes these features in the standard iCloud+ tiers. While the 2TB requirement is a "paywall" of sorts, it covers an unlimited number of cameras. For a home with 8 or 10 cameras, Apple’s model is significantly more cost-effective over a 3-year period than a per-camera subscription.
 
 ### The End of the 1080p Bottleneck
-The 1080p limit was the primary reason high-end camera manufacturers like Reolink and Lorex were slow to adopt HomeKit Secure Video setup for their flagship models. With the 4K barrier removed, we are seeing a surge of professional-grade hardware entering the HomeKit ecosystem, offering better optics, larger sensors, and improved night vision that was previously wasted on 1080p streams.
+The 1080p limit was the primary reason high-end camera manufacturers like Reolink and Lorex were slow to adopt HomeKit Secure Video setup for their flagship models. With the 4K barrier removed, we are seeing a surge of professional-grade hardware entering the HomeKit ecosystem, offering better optics, larger sensors, and improved [night vision](https://quvii.com/learn/arlo-pro-5s-2k-night-vision-stuck-on) that was previously wasted on 1080p streams.
 
 **Privacy Architecture: The Data Path**
 1. **Camera:** Captures 4K stream, encrypts it locally.

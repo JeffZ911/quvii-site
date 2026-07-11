@@ -135,7 +135,7 @@ There have been documented instances of federal agents covering doorbell cameras
 
 ## Total Cost of Ownership (TCO)
 
-When evaluating doorbell privacy, the "sticker price" is often misleading. Cloud-dependent cameras often lock essential privacy and recording features behind a "feature paywall."
+When evaluating [doorbell privacy](https://quvii.com/learn/ring-doorbell-privacy-settings-summer-guests), the "sticker price" is often misleading. Cloud-dependent cameras often lock essential privacy and recording features behind a "feature paywall."
 
 *   **Hardware Cost:** A mid-range doorbell typically costs between **$100 and $200**.
 *   **Subscription Fees:** Most cloud brands charge **$50 to $150 per year** for video history. Over three years, this adds **$150 to $450** to the initial price.

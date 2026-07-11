@@ -126,7 +126,7 @@ For ongoing reliability, ensure your Wi-Fi network is robust and capable of supp
 | :---------------------- | :------------------------------------------------- | :--------------------------------------------- | :--------------------------------------- |
 | **Resolution**          | 1536p HD                                | 1536p HD                            | 1536p HD                       |
 | **Field of View**       | 180° diagonal                           | 180° diagonal                       | 180° diagonal                  |
-| **Night Vision**        | Color Night Vision                      | Color Night Vision                  | Color Night Vision             |
+| **[Night Vision](https://quvii.com/learn/arlo-pro-5s-2k-night-vision-stuck-on)**        | Color Night Vision                      | Color Night Vision                  | Color Night Vision             |
 | **Power Type**          | Battery or Wired (via existing doorbell wiring) | Wired (existing doorbell wiring)    | Wired (existing doorbell wiring) |
 | **Local Storage**       | Requires Arlo SmartHub or Base Station  | Requires Arlo SmartHub or Base Station | Requires Arlo SmartHub or Base Station |
 | **Subscription Cost/Yr (Arlo Secure Single Camera)** | Around $50-60/year                      | Around $50-60/year                  | Around $50-60/year            |
@@ -182,7 +182,7 @@ Arlo generally provides firmware updates for its devices, but as seen in recent 
 *   arlo.com — What is the Arlo SmartHub or Base Station, and do I need one?
 *   arlo.com — Arlo Video Doorbell
 *   security.org — Arlo Privacy Policy: What You Need To Know
-*   youtube.com — Arlo Pro 5s 2K vs Ring Spotlight Cam Pro - (Night & Day Comparison)
+*   youtube.com — [Arlo Pro 5s](https://quvii.com/learn/arlo-pro-5s-2k-night-vision-stuck-on) 2K vs Ring Spotlight Cam Pro - (Night & Day Comparison)
 *   reddit.com — Arlo Doorbell not detecting motion or recording anymore
 *   arlo.com — My Arlo camera is not detecting motion. What do I do?
 *   arlo.com — Arlo Essential Video Doorbell Wire-Free

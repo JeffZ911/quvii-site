@@ -141,7 +141,7 @@ When considering a security camera, the initial purchase price is only part of t
 
 *   **Hardware Cost:**
     *   **Reolink Video Doorbell WiFi:** Typically in the under $100 to around $150 range.
-    *   **Reolink Video Doorbell PoE:** Similar pricing, often in the under $100 to around $150 range.
+    *   **Reolink Video [Doorbell PoE](https://quvii.com/learn/reolink-doorbell-poe-motion-detection-delay-fix-20260711):** Similar pricing, often in the under $100 to around $150 range.
     *   *Note:* Installation costs for PoE (if professional help is needed for cable routing) could add to the initial outlay.
 
 *   **Subscription Tier / Cloud Storage Fees:**

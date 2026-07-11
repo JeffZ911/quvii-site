@@ -68,7 +68,7 @@ In 2026, the Arlo Secure App (v4.x) provides a "Device Power" and "Video Setting
 The Arlo Pro 5S 2K is a sophisticated piece of optoelectronics, but it relies on a surprisingly old-school mechanical component: a tiny piece of treated glass moved by a magnet.
 
 ### The Solenoid and Mechanical Wear
-The primary culprit is the **IR Cut Filter (ICR)** assembly. Inside the lens housing, a small solenoid (an electromagnetic coil) moves the filter back and forth. Over time, or due to extreme temperature fluctuations—common for outdoor cameras—the lubricant on the sliding track can gum up, or the plastic housing can slightly warp. This causes the filter to "stick" halfway or fail to move at all when the voltage pulse is sent. According to community consensus on r/Arlo, units exposed to direct afternoon sun are more prone to this mechanical fatigue.
+The primary culprit is the **IR Cut Filter (ICR)** assembly. Inside the lens housing, a small solenoid (an electromagnetic coil) moves the filter back and forth. Over time, or due to extreme temperature fluctuations—common for [outdoor cameras](https://quvii.com/learn/outdoor-camera-guest-privacy-risks)—the lubricant on the sliding track can gum up, or the plastic housing can slightly warp. This causes the filter to "stick" halfway or fail to move at all when the voltage pulse is sent. According to community consensus on r/Arlo, units exposed to direct afternoon sun are more prone to this mechanical fatigue.
 
 ### Firmware v1.060.x and the Light Sensor Bug
 While mechanical failure is common, software logic also plays a role. The Arlo Pro 5S 2K relies on an ambient light sensor (ALS) to trigger the mode switch. 

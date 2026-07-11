@@ -27,11 +27,11 @@ inline_image_sections:
   - "Further reading"
 ---
 
-A wired connection is generally the gold standard for stability, yet even the Reolink Doorbell PoE can encounter intermittent "offline" statuses that disrupt home security.
+A wired connection is generally the gold standard for stability, yet even the [Reolink Doorbell PoE](https://quvii.com/learn/reolink-doorbell-poe-motion-detection-delay-fix-20260711) can encounter intermittent "offline" statuses that disrupt home security.
 
 # Reolink Doorbell PoE Connection Drops: Firmware v3.0.0.2126 and Beyond
 
-**Quick Answer:** Connection drops on a Reolink Doorbell PoE, potentially associated with firmware v3.0.0.2126, often stem from underlying power delivery issues, compromised Ethernet cabling, or network configuration problems rather than solely a specific firmware bug. While newer firmware versions like v3.0.0.6460 (released May 2026) have addressed "some known bugs," thorough troubleshooting of your PoE setup and network environment is crucial for a stable connection.
+**Quick Answer:** Connection drops on a Reolink [Doorbell PoE](https://quvii.com/learn/reolink-doorbell-poe-motion-detection-delay-fix-20260711), potentially associated with firmware v3.0.0.2126, often stem from underlying power delivery issues, compromised Ethernet cabling, or network configuration problems rather than solely a specific firmware bug. While newer firmware versions like v3.0.0.6460 (released May 2026) have addressed "some known bugs," thorough troubleshooting of your PoE setup and network environment is crucial for a stable connection.
 
 ## What it means
 
