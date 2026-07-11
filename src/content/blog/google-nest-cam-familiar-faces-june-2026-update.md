@@ -37,7 +37,7 @@ Google’s long-standing Familiar Faces feature is moving beyond simple facial g
 *Related: [Eufy Cloud Sync Failure June 2026: What Buyers Need to Know](/blog/eufy-cloud-sync-failure-june-2026-buyers-guide) · [Google Nest Camera Offline After June 2026 Updates: What You Must Know](/blog/google-nest-camera-offline-june-2026-update) · [Eufy EdgeAgent: Local AI Security Platform Announced for H2 2026](/blog/eufy-edgeagent-local-ai-security-platform-2026)*
 
 
-In June 2026, Google initiated a fundamental architectural update to the computer vision engine powering its Nest Cam lineup. This update, delivered via the Google Home app (version 4.20 and newer) and server-side firmware patches, transforms "Familiar Faces" from a static biometric matching tool into a dynamic, multi-signal identification system.
+In June 2026, Google initiated a fundamental architectural update to the computer vision engine powering its Nest Cam lineup. This update, delivered via the Google [Home app](https://quvii.com/blog/apple-intelligence-home-app-security-features-20260711) (version 4.20 and newer) and server-side firmware patches, transforms "Familiar Faces" from a static biometric matching tool into a dynamic, multi-signal identification system.
 
 The core of the update focuses on the "automatic refreshing" of the Familiar Faces library. Previously, the system relied on a set of reference images often captured during a single encounter. The new logic continuously analyzes high-quality clips of recognized individuals, replacing older, lower-resolution reference frames with more current and accurate examples. This ensures the system adapts as family members age or change their appearance (e.g., growing a beard or changing hair color).
 

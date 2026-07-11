@@ -134,7 +134,7 @@ When evaluating home security cameras, the initial purchase price is only one pa
 *   **Subscription-Free Systems (e.g., Reolink, Eufy, Amcrest with Home Assistant):** These cameras typically offer local storage options via microSD cards or Network Video Recorders (NVRs).
     *   **MicroSD Cards:** A high-endurance 128GB microSD card, sufficient for several days of continuous recording, costs around $20-30. Over three years, you might replace it once, bringing the cost to around $40-60.
     *   **NVRs:** A dedicated NVR for multiple cameras can range from $150-300 for the unit itself, plus the cost of hard drives (e.g., a 2TB HDD for around $60-80). This is a one-time upfront cost.
-    *   **No Recurring Cloud Fees:** By leveraging Home Assistant for local control and processing, these systems incur virtually no recurring subscription costs for core security features. Any cloud-like functionality (e.g., remote access) is often handled through Home Assistant's own secure remote access options, which may have a nominal annual fee (e.g., around $60/year for Home Assistant Cloud) or can be self-hosted for free.
+    *   **No Recurring Cloud Fees:** By leveraging Home Assistant for local control and processing, these systems incur virtually no recurring subscription costs for core [security features](https://quvii.com/blog/apple-intelligence-home-app-security-features-20260711). Any cloud-like functionality (e.g., remote access) is often handled through Home Assistant's own secure remote access options, which may have a nominal annual fee (e.g., around $60/year for Home Assistant Cloud) or can be self-hosted for free.
 
 **Example 3-Year TCO Comparison (4-Camera Setup):**
 

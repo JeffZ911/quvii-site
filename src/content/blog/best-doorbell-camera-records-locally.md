@@ -92,7 +92,7 @@ For those already on local-storage platforms, firmware stability is the new fron
 Local storage users must also contend with hardware longevity. Recording 2K or 4K video streams to a microSD card is a high-intensity task. Standard "Value" cards often fail within 12 months due to the high number of write cycles. We recommend only "High Endurance" cards (such as the WD Purple or Samsung PRO Endurance) which are specifically rated for continuous video surveillance.
 
 ### Software Stability Concerns
-Recent updates to the Aqara Home app (v6.1.5) briefly caused issues where local storage settings were hidden or difficult to navigate. This highlights a persistent risk: even if your storage is local, the software interface used to access it is often still controlled by the manufacturer's cloud-based app.
+Recent updates to the Aqara [Home app](https://quvii.com/blog/apple-intelligence-home-app-security-features-20260711) (v6.1.5) briefly caused issues where local storage settings were hidden or difficult to navigate. This highlights a persistent risk: even if your storage is local, the software interface used to access it is often still controlled by the manufacturer's cloud-based app.
 
 ## What to do now
 

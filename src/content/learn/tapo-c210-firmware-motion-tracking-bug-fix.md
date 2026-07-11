@@ -112,7 +112,7 @@ Conversely, tracking bugs can occasionally lead to privacy issues. If a camera "
 
 To understand the C210's value and its hardware limitations, we must compare it to other popular indoor pan-tilt models.
 
-| Feature | Tapo C210 | Eufy Indoor Cam C220 | Reolink E1 Pro | Wyze Cam Pan v3 |
+| Feature | [Tapo C210](https://quvii.com/blog/tapo-c210-motor-noise-after-update) | Eufy Indoor Cam C220 | Reolink E1 Pro | Wyze Cam Pan v3 |
 | :--- | :--- | :--- | :--- | :--- |
 | **Resolution** | 2K (3MP) | 2K (4MP) | 4MP (2K+) | 1080p |
 | **Max SD Card** | 512 GB | 128 GB | 256 GB | 256 GB |

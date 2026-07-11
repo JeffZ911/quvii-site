@@ -137,7 +137,7 @@ If law enforcement attempts to cover your cameras, it is important to remain cal
 Navigating the complexities of 2026 surveillance requires a balanced approach between technology and physical common sense.
 
 ### Physical Protection Strategies
-For indoor cameras, don't rely solely on "Privacy Mode." If your camera lacks a physical shutter, aftermarket sliding covers (similar to those used for webcams) are available for a few dollars. For outdoor cameras, ensure they are out of arm's reach. If you are a renter and cannot drill holes to mount cameras high, consider "window-mounted" cameras that look out through the glass from the inside, making them impossible for an intruder to tape over.
+For indoor cameras, don't rely solely on "Privacy Mode." If your camera lacks a physical shutter, aftermarket sliding covers (similar to those used for webcams) are available for a few dollars. For [outdoor cameras](https://quvii.com/learn/outdoor-camera-guest-privacy-risks), ensure they are out of arm's reach. If you are a renter and cannot drill holes to mount cameras high, consider "window-mounted" cameras that look out through the glass from the inside, making them impossible for an intruder to tape over.
 
 ### Firmware Updates and Account Security
 Set a recurring calendar reminder to check for firmware updates every 90 days. Most modern apps (Eufy, Ring, Arlo) will send a [push notification](https://quvii.com/blog/eufy-security-notification-failure-june-2026) when an update is available, but these can be easily missed. 
