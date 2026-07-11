@@ -158,7 +158,7 @@ When considering a security camera, the initial purchase price is only part of t
 
 **Estimated 3-Year TCO Breakdown (Example):**
 
-| Cost Category              | Reolink Video Doorbell WiFi (Estimate) | Reolink Video Doorbell PoE (Estimate) |
+| Cost Category              | Reolink Video Doorbell WiFi (Estimate) | Reolink Video [Doorbell PoE](https://quvii.com/learn/reolink-doorbell-poe-motion-detection-delay-fix-20260711) (Estimate) |
 | :------------------------- | :------------------------------------- | :------------------------------------ |
 | Hardware                   | ~$120                                  | ~$120                                 |
 | Optional Cloud (3 years)   | ~$150 (mid-range plan)                 | ~$150 (mid-range plan)                |

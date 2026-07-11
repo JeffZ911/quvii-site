@@ -160,7 +160,7 @@ In both cases, the camera's Wi-Fi radio is active for the same amount of time. L
 
 
 ### Sync Module Placement Guide
-To optimize the LFR link, the Sync Module should be positioned centrally. Avoid placing it behind a TV or inside a metal cabinet, as these act as Faraday cages for the 900MHz signal. Ideally, the Sync Module should have a clear "line of sight" to the wall closest to your outdoor cameras.
+To optimize the LFR link, the Sync Module should be positioned centrally. Avoid placing it behind a TV or inside a metal cabinet, as these act as Faraday cages for the 900MHz signal. Ideally, the Sync Module should have a clear "line of sight" to the wall closest to your [outdoor cameras](https://quvii.com/learn/outdoor-camera-guest-privacy-risks).
 
 ### Comparing the Outdoor 4 to the 2025 Outdoor 2K+
 The newer **[Blink Outdoor](https://quvii.com/learn/blink-outdoor-4-motion-detection-delay) 2K+** (released late 2025) offers higher resolution but theoretically higher power demands. However, search data regarding its specific "Low Power Mode" efficiency compared to the [Outdoor 4](https://quvii.com/learn/blink-outdoor-4-motion-detection-delay) is [information unavailable]. Early community consensus suggests the 2K+ requires even more stringent adherence to the "70 seconds per day" rule to reach its marketed battery targets.

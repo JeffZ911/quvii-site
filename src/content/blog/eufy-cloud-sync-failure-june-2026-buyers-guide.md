@@ -110,7 +110,7 @@ Navigating the landscape of home security cameras requires careful consideration
 | Feature                 | EufyCam 3 (HomeBase 3) | [Ring Stick Up Cam](/learn/ring-stick-up-cam-pro-overheating-direct-sun) Battery | [Reolink Argus 3](https://quvii.com/learn/reolink-argus-3-pro-solar-charging-issues-2026) Pro |
 | :---------------------- | :-------------------------------- | :----------------------------------- | :----------------------------- |
 | **Resolution**          | 4K (3840x2160)         | 1080p HD                  | 2K (2560x1440)      |
-| **IR Night Vision Range** | Up to 26 ft (8m)       | Up to 30 ft (9m)          | Up to 33 ft (10m)   |
+| **IR [Night Vision](https://quvii.com/learn/arlo-pro-5s-2k-night-vision-stuck-on) Range** | Up to 26 ft (8m)       | Up to 30 ft (9m)          | Up to 33 ft (10m)   |
 | **Local Storage**       | HomeBase 3 (16GB eMMC, expandable to 16TB HDD/SSD) | None (Subscription for recorded video) | MicroSD card (up to 128GB) |
 | **[Cloud Storage](https://quvii.com/blog/eufy-cloud-storage-pricing-changes-2026)**       | Optional (Subscription required) | Mandatory for recorded video (Subscription) | Optional (Subscription required) |
 | **Subscription Cost/mo (Basic)** | Around $2.99/camera      | Around $4.99/camera       | Around $4.99/camera |

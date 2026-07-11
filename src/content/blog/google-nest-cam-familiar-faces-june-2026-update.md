@@ -87,7 +87,7 @@ The impact is bifurcated by your subscription status. If you are on the standard
 One of the most significant impacts for existing owners is the expected reduction in false alerts. By refining the recognition logic, the system is less likely to trigger a "Stranger at the front door" alert when it is actually a family member whose face was partially obscured by a package or a hood. This makes the notifications you *do* receive more actionable and less likely to be ignored.
 
 ### Actionable Steps for Owners
-To take advantage of these changes, owners should navigate to the **Google Home App > Settings > Nest Aware > Familiar Faces**. You will likely see a prompt to "Clean up your library." The new AI refresh tool will highlight "low-quality" reference images that can now be replaced by higher-quality clips captured by the camera during recent events.
+To take advantage of these changes, owners should navigate to the **Google [Home App](https://quvii.com/blog/apple-intelligence-home-app-security-features-20260711) > Settings > Nest Aware > Familiar Faces**. You will likely see a prompt to "Clean up your library." The new AI refresh tool will highlight "low-quality" reference images that can now be replaced by higher-quality clips captured by the camera during recent events.
 
 ### Privacy Re-evaluation
 Existing owners should re-read the updated biometric privacy disclosures within the app. The use of non-biometric signals like "body size" and "clothing" to track individuals across frames is a departure from simple face-matching. If you are uncomfortable with the camera "learning" the gait or wardrobe of your family members, you may need to adjust your settings to "Facial Recognition Only" or disable the feature entirely.

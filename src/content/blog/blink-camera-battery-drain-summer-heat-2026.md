@@ -47,7 +47,7 @@ User communities, including discussions on Reddit and Amazon forums, show owners
 | **Advertised [Battery Life](https://quvii.com/blog/tapo-c425-battery-drain-june-update-impact)** | Up to two years               |
 | **Video Resolution**     | 1080p HD                            |
 | **Field of View**        | 143° diagonal                       |
-| **Night Vision**         | Infrared (IR)                       |
+| **[Night Vision](https://quvii.com/learn/arlo-pro-5s-2k-night-vision-stuck-on)**         | Infrared (IR)                       |
 | **Two-Way Audio**        | Yes                                 |
 | **Local Storage**        | Via Sync Module 2 (USB drive, sold separately) |
 | **[Cloud Storage](https://quvii.com/blog/eufy-cloud-storage-pricing-changes-2026)**        | Blink Subscription Plan (optional) |

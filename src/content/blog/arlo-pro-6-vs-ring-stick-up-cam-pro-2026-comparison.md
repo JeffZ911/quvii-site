@@ -100,7 +100,7 @@ The most significant impact on the Arlo community in early 2026 was the removal 
 Existing Ring owners are seeing a more feature-rich transition. Users on legacy "Protect Plus" plans are being automatically migrated to "Ring Home Multi." This migration includes the rollout of "Video Descriptions," a generative AI feature that provides a text summary of events (e.g., "A delivery driver in a red shirt left a package and petted the dog"). This feature significantly reduces the time spent scrubbing through footage to find a specific event.
 
 ### Battery and Hardware Compatibility
-Arlo has maintained a degree of backward compatibility that is rare in the industry. The [Arlo Pro](https://quvii.com/learn/arlo-pro-vmc4030-factory-reset-failure-july-2026) 6 uses the same battery form factor as the Pro 3, Pro 4, and Pro 5S. However, the move to a USB-C housing means that older magnetic charging cables (like the VMA5600C) will not work with the Pro 6. Users will need to transition to USB-C cables or use the [VMA5600 Solar Panel](https://www.arlo.com/en-us/accessories/VMA5600-20001S.html) specifically updated for the 2026 hardware.
+Arlo has maintained a degree of backward compatibility that is rare in the industry. The [Arlo Pro](https://quvii.com/learn/arlo-pro-vmc4030-factory-reset-failure-july-2026) 6 uses the same battery form factor as the Pro 3, Pro 4, and [Pro 5S](https://quvii.com/learn/arlo-pro-5s-2k-night-vision-stuck-on). However, the move to a USB-C housing means that older magnetic charging cables (like the VMA5600C) will not work with the Pro 6. Users will need to transition to USB-C cables or use the [VMA5600 Solar Panel](https://www.arlo.com/en-us/accessories/VMA5600-20001S.html) specifically updated for the 2026 hardware.
 
 ### Firmware Stability
 Recent 2026 firmware updates for the [Ring Stick](https://quvii.com/learn/ring-stick-up-cam-pro-overheating-direct-sun) [Up Cam](https://quvii.com/learn/ring-stick-up-cam-pro-overheating-direct-sun) Pro have focused on improving "Pre-Roll" video quality. Pre-Roll is the small window of video captured *before* a motion event is triggered. In older 1080p models, this was often grainy and black-and-white; the 2026 update brings color and higher clarity to these crucial first seconds, making the [Stick Up Cam](https://quvii.com/learn/ring-stick-up-cam-pro-overheating-direct-sun) Pro a viable upgrade for those still using the 2023 or 2024 versions.
@@ -140,7 +140,7 @@ Quvii tracks these trade-offs across the category to help buyers navigate an inc
 
 ## Sources
 
-- Arlo Technologies — Arlo Pro 6 Official Product Page
+- Arlo Technologies — [Arlo Pro](https://quvii.com/learn/arlo-pro-5s-2k-night-vision-stuck-on) 6 Official Product Page
 - Ring (Amazon) — [Stick Up Cam Pro Specs and Retinal 2K Announcement](https://www.ring.com)
 - Ring (Amazon) — <a href="https://www.amazon.com/s?k=Ring+Home+Subscription+Tier+Details&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Ring Home Subscription Tier Details</a>
 - Arlo Technologies — <a href="https://www.amazon.com/s?k=Arlo+Secure+Plan+Pricing+and+Feature+Matrix&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">[Arlo Secure](https://quvii.com/blog/arlo-secure-app-6-26-0-firmware-issues) Plan Pricing and Feature Matrix</a>

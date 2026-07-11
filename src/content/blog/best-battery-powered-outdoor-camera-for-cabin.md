@@ -50,7 +50,7 @@ Solar panels for security cameras have evolved from 2W or 3W trickles to 6W and 
 
 ### 2026 Flagship Comparison Table
 
-| Feature | Reolink Altas PT Ultra | [Eufy SoloCam S340](https://quvii.com/learn/reolink-argus-4-pro-vs-eufy-solocam-s340) | [Arlo Pro](https://quvii.com/learn/arlo-pro-vmc4030-factory-reset-failure-july-2026) 5S 2K |
+| Feature | Reolink Altas PT Ultra | [Eufy SoloCam S340](https://quvii.com/learn/reolink-argus-4-pro-vs-eufy-solocam-s340) | [Arlo Pro](https://quvii.com/learn/arlo-pro-vmc4030-factory-reset-failure-july-2026) [5S 2K](https://quvii.com/learn/arlo-pro-5s-2k-night-vision-stuck-on) |
 | :--- | :--- | :--- | :--- |
 | **Resolution** | 4K (8MP) | Dual-Lens 3K/2K | 2K with HDR |
 | **Recording Mode** | Continuous or Event | Event-Based | Event-Based |

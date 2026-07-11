@@ -172,7 +172,7 @@ A pink or purple screen usually means the IR cut filter is stuck in the "off" po
 Yes. In the Arlo Secure app, go to Settings > My Devices > [Camera Name] > Video Settings > Night Vision. You can toggle it off entirely, though this will result in a pitch-black image at night unless you have external floodlights.
 
 ### How long do Arlo Pro 5S cameras last?
-Most consumer-grade outdoor cameras have a functional lifespan of 3 to 5 years. Mechanical components like the IR cut filter and the chemical health of the lithium-ion battery are typically the first parts to fail.
+Most consumer-grade [outdoor cameras](https://quvii.com/learn/outdoor-camera-guest-privacy-risks) have a functional lifespan of 3 to 5 years. Mechanical components like the IR cut filter and the chemical health of the lithium-ion battery are typically the first parts to fail.
 
 ### Does Arlo Secure cover a stuck IR filter?
 If you have an active **Arlo Secure Plus** or **Safe & Secure Pro** plan in 2026, you may be eligible for an extended warranty that covers mechanical failures. Standard Arlo Secure plans typically do not extend the manufacturer's one-year hardware warranty.
