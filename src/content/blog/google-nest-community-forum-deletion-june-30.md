@@ -118,7 +118,7 @@ Owners of the original **Nest Hello (Wired)** and **Nest Cam IQ** are particular
 The legacy forum was home to "Gold Product Experts"—volunteers who spent thousands of hours helping others. These users are not being "ported" over with their history. While they can create new accounts, their years of established credibility, badges, and—most importantly—their library of past solutions will be erased. Many experts have expressed frustration on Reddit (r/Nest), suggesting they may not return to the new platform, leading to a "brain drain" of Nest technical knowledge.
 
 ### Gemini for Home 3.1 and the Notification Bug
-Recent threads on the legacy forum have been dominated by the "Gemini for Home 3.1" update, which integrated more AI features into the Google Home app. However, users have reported a significant bug where person-detection notifications are delayed by up to 30 seconds. On the legacy forum, users have been collaborating on "roll-back" strategies and cache-clearing fixes. When June 30 hits, this collective evidence of a systemic software bug will be deleted, making it harder for users to hold Google accountable for a fix.
+Recent threads on the legacy forum have been dominated by the "Gemini for Home 3.1" update, which integrated more AI features into the Google [Home app](https://quvii.com/blog/apple-intelligence-home-app-security-features-20260711). However, users have reported a significant bug where person-detection notifications are delayed by up to 30 seconds. On the legacy forum, users have been collaborating on "roll-back" strategies and cache-clearing fixes. When June 30 hits, this collective evidence of a systemic software bug will be deleted, making it harder for users to hold Google accountable for a fix.
 
 ## What to do now
 

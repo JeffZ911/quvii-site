@@ -111,7 +111,7 @@ If your camera is currently offline or you are worried about the upcoming forum 
 ### Immediate Troubleshooting for Offline Cameras
 1.  **The 60-Second Power Cycle:** Unplug the camera (or disconnect the battery) for a full minute. This clears the local cache and forces the device to request a new IP address from your router.
 2.  **Router Reboot:** Modern Nest cameras can be sensitive to Wi-Fi channel congestion. Rebooting your router can force the camera onto a cleaner 2.4GHz or 5GHz channel.
-3.  **Check for "Home" App Updates:** Ensure your smartphone is running the latest version of the Google Home app from the App Store or Play Store. A mismatch between the app version and the cloud backend can cause "offline" display errors.
+3.  **Check for "Home" App Updates:** Ensure your smartphone is running the latest version of the Google [Home app](https://quvii.com/blog/apple-intelligence-home-app-security-features-20260711) from the App Store or Play Store. A mismatch between the app version and the cloud backend can cause "offline" display errors.
 4.  **[Factory Reset](https://quvii.com/learn/arlo-pro-vmc4030-factory-reset-failure-july-2026) (Last Resort):** If the camera remains offline, use a paperclip to press the reset button on the back/bottom of the device. **Warning:** This will delete all settings and any unsaved video history.
 
 ### Preserving Community Knowledge Before Deletion

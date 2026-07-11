@@ -102,7 +102,7 @@ If your camera has a microSD card installed and local recording enabled, it may 
 | Feature                 | Wyze Cam v3 Pro | [Wyze Cam v4](https://quvii.com/learn/wyze-cam-v4-overheating-issues-june-2026-20260627) | Wyze Cam Pan v3 | Wyze Outdoor Cam v2 |
 | :---------------------- | :-------------- | :---------- | :-------------- | :------------------ |
 | **Resolution**          | 2K (2560x1440) | 2K (2560x1440) | 1080p | 1080p |
-| **IR Night Vision Range** | Up to 30 ft | Up to 30 ft | Up to 30 ft | Up to 25 ft |
+| **IR [Night Vision](https://quvii.com/learn/arlo-pro-5s-2k-night-vision-stuck-on) Range** | Up to 30 ft | Up to 30 ft | Up to 30 ft | Up to 25 ft |
 | **Local Storage**       | MicroSD (up to 256GB) | MicroSD (up to 256GB) | MicroSD (up to 256GB) | MicroSD (up to 32GB) |
 | **[Cloud Storage](https://quvii.com/blog/eufy-cloud-storage-pricing-changes-2026)**       | Cam Plus subscription | Cam Plus subscription | Cam Plus subscription | Cam Plus subscription |
 | **Subscription Cost/yr (Cam Plus)** | Around $20-30/year | Around $20-30/year | Around $20-30/year | Around $20-30/year |

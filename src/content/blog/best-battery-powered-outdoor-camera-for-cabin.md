@@ -138,7 +138,7 @@ The [SoloCam S340](https://quvii.com/learn/reolink-argus-4-pro-vs-eufy-solocam-s
 ## Sources
 - Reolink Altas PT Ultra Product Page — https://reolink.com/product/altas-pt-ultra/
 - [Eufy SoloCam S340](https://quvii.com/learn/reolink-argus-4-pro-vs-eufy-solocam-s340) Specifications
-- [Arlo Pro](https://quvii.com/learn/arlo-pro-vmc4030-factory-reset-failure-july-2026) 5S 2K Datasheet — https://www.arlo.com/en-us/cameras/pro/arlo-pro-5.html
+- [Arlo Pro](https://quvii.com/learn/arlo-pro-vmc4030-factory-reset-failure-july-2026) [5S 2K](https://quvii.com/learn/arlo-pro-5s-2k-night-vision-stuck-on) Datasheet — https://www.arlo.com/en-us/cameras/pro/arlo-pro-5.html
 - RTINGS Security Camera Reviews
 - Reddit r/HomeSecurity Wiki — https://www.reddit.com/r/homesecurity/wiki/index/
 - FCC ID Search (RF/Wi-Fi Verification) — https://www.fcc.gov/oet/ea/fccid

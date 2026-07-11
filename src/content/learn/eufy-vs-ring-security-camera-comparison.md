@@ -113,7 +113,7 @@ Eufy’s **HomeBase 3** is more flexible. It features 16GB of built-in storage b
 ### Connectivity: Sub-1GHz and Wi-Fi
 Ring cameras rely heavily on standard 2.4GHz or 5GHz Wi-Fi and **Amazon Sidewalk**, a low-bandwidth network that shares a small portion of your internet bandwidth with neighbors to keep devices connected even if they are far from the router.
 
-Eufy uses a proprietary **Sub-1GHz** wireless protocol to communicate between the cameras and the HomeBase. This lower frequency penetrates walls more effectively than standard Wi-Fi, often resulting in better range for outdoor cameras placed far from the house.
+Eufy uses a proprietary **Sub-1GHz** wireless protocol to communicate between the cameras and the HomeBase. This lower frequency penetrates walls more effectively than standard Wi-Fi, often resulting in better range for [outdoor cameras](https://quvii.com/learn/outdoor-camera-guest-privacy-risks) placed far from the house.
 
 ## Real-world implications
 

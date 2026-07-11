@@ -130,7 +130,7 @@ When evaluating these integrations, the "free" price tag of a custom component c
 
 1.  **Hardware Costs:** A standard Echo Dot or Echo Show ranges from **around $50 to $250**. These are fixed costs regardless of the integration chosen.
 2.  **Subscription Fees:** Using Nabu Casa for the official integration costs approximately **$65 per year**. Over three years, this totals **around $195**.
-3.  **The "Feature Paywall" Trap:** While Home Assistant itself has no paywall, Amazon has increasingly moved certain "Alexa Guard" and advanced security features behind their "Alexa Together" or "Ring Protect" subscriptions. Integrating these into Home Assistant can sometimes bypass these fees, but the instability of unofficial integrations like AMP makes this a risky long-term strategy for home defense.
+3.  **The "Feature Paywall" Trap:** While Home Assistant itself has no paywall, Amazon has increasingly moved certain "Alexa Guard" and advanced [security features](https://quvii.com/blog/apple-intelligence-home-app-security-features-20260711) behind their "Alexa Together" or "Ring Protect" subscriptions. Integrating these into Home Assistant can sometimes bypass these fees, but the instability of unofficial integrations like AMP makes this a risky long-term strategy for home defense.
 4.  **Time Cost:** For the manual setup or the troubleshooting of AMP, a user can expect to spend 5–10 hours annually on maintenance. For a professional or business owner, this "labor cost" often exceeds the price of a Nabu Casa subscription.
 
 ## Common misconceptions

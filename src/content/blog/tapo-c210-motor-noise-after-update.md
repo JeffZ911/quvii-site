@@ -170,7 +170,7 @@ No, TP-Link does not currently support official firmware rollbacks for the Tapo 
 There is no specific "Silent Mode" in the settings. However, you can reduce noise by disabling "Motion Tracking" and "Patrol Mode," which limits the frequency of motor movement.
 
 ### Why does my camera click when it gets dark?
-This is usually not the pan/tilt motor, but the **IR Cut Filter**. When the camera switches to Night Vision, a physical filter slides over the lens, creating a distinct "click." This is normal operation for almost all security cameras.
+This is usually not the pan/tilt motor, but the **IR Cut Filter**. When the camera switches to [Night Vision](https://quvii.com/learn/arlo-pro-5s-2k-night-vision-stuck-on), a physical filter slides over the lens, creating a distinct "click." This is normal operation for almost all security cameras.
 
 ### How often should I calibrate my pan/tilt camera?
 It is good practice to run the "Pan & Tilt Correction" in the app settings once every few months or immediately after a power outage or firmware update to ensure the motor's "zero point" is correctly aligned.

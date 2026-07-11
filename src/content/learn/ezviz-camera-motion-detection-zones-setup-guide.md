@@ -147,7 +147,7 @@ When setting up EZVIZ cameras, the hardware price is only the first step. Unders
 To further optimize your home security ecosystem, consider exploring these related topics:
 
 *   **EZVIZ CloudPlay vs. Local Storage:** A deep dive into the security trade-offs between physical SD cards and encrypted cloud lockers.
-*   **Best EZVIZ Outdoor Cameras:** A comparison of the current lineup, focusing on night vision range and weatherproofing ratings.
+*   **Best EZVIZ [Outdoor Cameras](https://quvii.com/learn/outdoor-camera-guest-privacy-risks):** A comparison of the current lineup, focusing on night vision range and weatherproofing ratings.
 *   **Understanding AI Detection in Security Cameras:** How "Edge AI" differs from cloud-based analysis and why it matters for your privacy.
 
 ## Frequently Asked Questions

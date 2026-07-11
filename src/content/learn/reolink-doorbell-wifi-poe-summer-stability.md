@@ -250,4 +250,4 @@ Wi-Fi interference can be more pronounced in summer due to increased network usa
 *   reolink.ch — Reolink Doorbell Pricing
 *   reolink.com — Reolink Security & Privacy Policy
 *   reolink.com — Reolink Video Doorbell WiFi Specifications
-*   reolink.com — Reolink Video Doorbell PoE Specifications
+*   reolink.com — Reolink Video [Doorbell PoE](https://quvii.com/learn/reolink-doorbell-poe-motion-detection-delay-fix-20260711) Specifications

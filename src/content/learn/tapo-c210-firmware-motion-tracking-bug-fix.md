@@ -187,7 +187,7 @@ This is usually a calibration issue. In the Tapo app, there is an option for "Pa
 
 ## Sources
 
-- TP-Link Tapo C210 Official Product Page — https://www.tp-link.com/us/home-networking/cloud-camera/tapo-c210/
+- TP-Link [Tapo C210](https://quvii.com/blog/tapo-c210-motor-noise-after-update) Official Product Page — https://www.tp-link.com/us/home-networking/cloud-camera/tapo-c210/
 - RTINGS Review: TP-Link Tapo C210
 - TP-Link Community Forum: Motion Tracking Issues — https://community.tp-link.com/en/smart-home/forum/612
 - PCMag: The Best Indoor Security Cameras — https://www.pcmag.com/picks/the-best-indoor-home-security-cameras
