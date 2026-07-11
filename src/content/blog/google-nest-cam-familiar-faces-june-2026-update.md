@@ -106,7 +106,7 @@ The decision to lean into the [Google Nest](https://quvii.com/learn/google-nest-
 
 ### For Existing Owners
 1.  **Update the App:** Check the App Store or Play Store for Google Home version 4.20 or higher.
-2.  **Verify Subscription:** Check your "Subscriptions" tab in the Google Home app to see if the Premium Advanced upgrade is available to you.
+2.  **Verify Subscription:** Check your "Subscriptions" tab in the Google [Home app](https://quvii.com/blog/apple-intelligence-home-app-security-features-20260711) to see if the Premium Advanced upgrade is available to you.
 3.  **Audit Your Library:** Spend 10 minutes reviewing your Familiar Faces list. Delete any "unnamed" faces that are actually just blurry shots of people already in your library; this helps the new AI refresh tool work more efficiently.
 4.  **Monitor Accuracy:** Over the next two weeks, pay attention to "Person Detected" alerts. If the camera is still failing to recognize a frequent visitor, manually tag them in the app to "seed" the new AI library with better data.
 

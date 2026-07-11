@@ -136,7 +136,7 @@ If you are dealing with motion tracking bugs or considering a purchase, use this
 
 The sticker price of a security camera is only the first step. To get a reliable experience, especially when firmware bugs might push you toward cloud storage for better logging, consider these costs:
 
-1.  **Hardware:** ~$35 (Tapo C210)
+1.  **Hardware:** ~$35 ([Tapo C210](https://quvii.com/blog/tapo-c210-motor-noise-after-update))
 2.  **Storage:** ~$20 (High-End 128GB MicroSD High Endurance card). A high-end card is required to prevent the camera from "stalling" during write operations, which can look like a motion tracking bug.
 3.  **Subscription (Optional):** $125.64 (Tapo Care Basic for 3 years at ~$3.49/mo). This provides 30-day cloud video history and "Rich Notifications" with snapshots.
 4.  **Electricity:** ~$5 (Negligible over 3 years).

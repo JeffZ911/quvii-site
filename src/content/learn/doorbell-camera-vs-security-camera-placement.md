@@ -84,7 +84,7 @@ The technical differences between these devices dictate their optimal placement.
 ### Field of View and Specialized Coverage
 Doorbell cameras often prioritize a "head-to-toe" Field of View (FOV). For example, the <a href="https://www.amazon.com/s?k=Ring+Battery+Doorbell+Pro&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Ring Battery Doorbell Pro</a> uses a 150° x 150° FOV. This square aspect ratio is critical because it allows the user to see both the face of a tall visitor and a package placed on the floor simultaneously. 
 
-Large outdoor cameras, such as the <a href="https://www.amazon.com/s?k=Arlo+Pro+5S+2K&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Arlo Pro 5S 2K</a>, typically utilize a 16:9 widescreen FOV. This is optimized for horizontal coverage, allowing a single camera to monitor the entire width of a two-car driveway or a wide backyard.
+Large [outdoor cameras](https://quvii.com/learn/outdoor-camera-guest-privacy-risks), such as the <a href="https://www.amazon.com/s?k=Arlo+Pro+5S+2K&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Arlo Pro 5S 2K</a>, typically utilize a 16:9 widescreen FOV. This is optimized for horizontal coverage, allowing a single camera to monitor the entire width of a two-car driveway or a wide backyard.
 
 ### Powering Your Surveillance: Wired vs. Wireless Options
 *   **Doorbells:** Most are designed to tap into existing 16-24V AC doorbell transformers. If no wiring exists, battery-powered models are common, though they often suffer from "lag" (latency) between a motion event and the start of recording.

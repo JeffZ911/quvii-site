@@ -161,7 +161,7 @@ Choosing a "safe" camera depends on which risk you fear most: a hacker seeing yo
 
 ## Total Cost of Ownership (TCO)
 
-When evaluating safety, consider the "Feature Paywall." Many brands lock their best security features (like E2EE or AI detection) behind monthly subscriptions.
+When evaluating safety, consider the "Feature Paywall." Many brands lock their best [security features](https://quvii.com/blog/apple-intelligence-home-app-security-features-20260711) (like E2EE or AI detection) behind monthly subscriptions.
 
 | Brand | Hardware Cost (Avg) | 3-Year Sub Total | Total 3-Year Cost | Privacy Tier |
 | :--- | :--- | :--- | :--- | :--- |

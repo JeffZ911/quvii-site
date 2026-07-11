@@ -138,7 +138,7 @@ For buyers prioritizing maximum reliability and privacy with minimal cloud depen
 | **Local Storage**        | HomeBase 3 (16GB built-in, expandable up to 16TB) | MicroSD card (up to 128GB) / HomeBase 3 | MicroSD card (up to 128GB) | NVR (local HDD, expandable) |
 | **[Cloud Storage](https://quvii.com/blog/eufy-cloud-storage-pricing-changes-2026)**        | Optional, paid plans (Eufy Cloud Storage) | Optional, paid plans (Eufy Cloud Storage) | Optional, paid plans (Reolink Cloud) | Optional, paid plans (Lorex Cloud) |
 | **Power Type**           | Battery (with solar panel) | Battery (with solar panel)     | Battery (with solar panel) | Wired (PoE/Adapter)       |
-| **IR Night Vision Range** | Up to 49 ft (15m)       | Up to 26 ft (8m)               | Up to 33 ft (10m)         | Up to 150 ft (45m)        |
+| **IR [Night Vision](https://quvii.com/learn/arlo-pro-5s-2k-night-vision-stuck-on) Range** | Up to 49 ft (15m)       | Up to 26 ft (8m)               | Up to 33 ft (10m)         | Up to 150 ft (45m)        |
 | **Subscription Cost/yr** | Optional: around $30-100/yr (per camera or plan) | Optional: around $30-100/yr (per camera or plan) | Optional: around $40-100/yr (per camera or plan) | Optional: around $30-80/yr (per camera or plan) |
 
 ### Decision Framework: Choosing Your Security Camera Based on Needs

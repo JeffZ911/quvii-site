@@ -60,7 +60,7 @@ While users often point to firmware as the primary culprit, connection drops are
 Firmware acts as the bridge between the doorbell’s hardware and your network. In older versions like **v3.0.0.2126**, some users reported instability during high-traffic events, such as when the camera attempted to push a high-bitrate 2K+ stream while simultaneously performing AI person detection. Reolink's official firmware archives indicate that subsequent updates, including the **v3.0.0.6460** release in May 2026, specifically targeted "known bugs" related to network stack stability. If a doorbell is running an outdated version, it may lack the refined error-correction protocols necessary to recover from minor network blips, leading to a permanent "offline" state that requires a power cycle.
 
 ### Power Delivery Challenges in PoE Setups
-The Reolink Doorbell PoE follows the **IEEE 802.3af** standard. While this standard is robust, the doorbell is a power-hungry device compared to a standard IP camera because it must power an IR cut filter, infrared LEDs, a high-resolution sensor, and a heating element for cold weather.
+The [Reolink Doorbell PoE](https://quvii.com/learn/reolink-doorbell-poe-motion-detection-delay-fix-20260711) follows the **IEEE 802.3af** standard. While this standard is robust, the doorbell is a power-hungry device compared to a standard IP camera because it must power an IR cut filter, infrared LEDs, a high-resolution sensor, and a heating element for cold weather.
 
 | PoE Component | Spec / Requirement | Source |
 | :--- | :--- | :--- |
@@ -88,7 +88,7 @@ To troubleshoot effectively, one must understand the handshake between the doorb
 When you plug the Reolink Doorbell into a PoE switch, a process called "Detection and Classification" occurs. The switch sends a low voltage to see if the device is PoE-compatible. The doorbell responds with a specific resistance, signaling it is a "Class 3" device (requiring up to 12.95W). Once classified, the switch applies the full 48V. If there is a momentary short or a fluctuation in resistance—often caused by moisture in the Ethernet jack or a fraying cable—the switch will immediately cut power to prevent hardware damage, causing a connection drop.
 
 ### Data Transmission and Network Protocols
-The Reolink Doorbell PoE uses a 10M/100Mbps Ethernet interface. While 100Mbps is more than enough for a 5MP video stream (which typically peaks at 8-10Mbps), the device relies on several protocols to stay "online":
+The Reolink [Doorbell PoE](https://quvii.com/learn/reolink-doorbell-poe-motion-detection-delay-fix-20260711) uses a 10M/100Mbps Ethernet interface. While 100Mbps is more than enough for a 5MP video stream (which typically peaks at 8-10Mbps), the device relies on several protocols to stay "online":
 *   **DHCP:** The doorbell requests an IP address from your router. If the lease time is too short or the router fails to renew the lease, the camera may lose its place on the network.
 *   **ONVIF/RTSP:** These protocols handle the video stream. If you are using third-party software (like Blue Iris or Home Assistant), the doorbell must manage multiple simultaneous streams, which increases CPU load and heat.
 *   **P2P (UID):** This is the protocol Reolink uses to allow remote access without port forwarding. If the Reolink P2P servers are unreachable, the app may show the camera as "offline" even if it is still recording locally to an NVR.

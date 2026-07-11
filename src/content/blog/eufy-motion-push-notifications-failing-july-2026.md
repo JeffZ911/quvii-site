@@ -80,7 +80,7 @@ Here’s a comparison of Eufy and some popular subscription-free alternatives fo
 | **Cloud Storage** | Optional subscription | Optional subscription | Optional subscription | Optional subscription (Cam Plus) |
 | **Notification Reliability (Community reports)** | Mixed, recent issues | Generally good | Generally good | Mixed, occasional delays |
 | **Resolution (Typical)** | 2K, 4K | 2K, 4K | 2K | 2K |
-| **IR Night Vision Range** | Up to 25-30 ft | Up to 33-100 ft (model dependent) | Up to 30 ft | Up to 30 ft |
+| **IR [Night Vision](https://quvii.com/learn/arlo-pro-5s-2k-night-vision-stuck-on) Range** | Up to 25-30 ft | Up to 33-100 ft (model dependent) | Up to 30 ft | Up to 30 ft |
 | **Power Type (Typical)** | Battery, Wired | Battery, Wired, PoE | Wired | Wired |
 | **Subscription Cost/Year (for enhanced features)** | Around $30-100 (Eufy Cloud) | Around $50-100 (Reolink Cloud) | Around $30-60 (Tapo Care) | Around $20-60 (Cam Plus) |
 

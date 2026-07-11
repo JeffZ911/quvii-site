@@ -230,7 +230,7 @@ Wi-Fi interference can be more pronounced in summer due to increased network usa
 *   hikvision.com — Outdoor Camera Environmental Considerations
 *   2mtechnology.net — IP Rating Overview
 *   gzhls.at — PoE Power and Heat
-*   reolink.com — Reolink Video Doorbell PoE Product Page
+*   reolink.com — Reolink Video [Doorbell PoE](https://quvii.com/learn/reolink-doorbell-poe-motion-detection-delay-fix-20260711) Product Page
 *   reolink.com — Reolink Video Doorbell PoE Product Page
 *   reolink.com — Outdoor Camera Durability
 *   reddit.com — r/HomeSecurity Wiki: Outdoor Cameras
