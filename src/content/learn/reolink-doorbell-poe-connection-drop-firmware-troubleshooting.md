@@ -132,7 +132,7 @@ If you are experiencing connection drops, use the following framework to identif
 
 ## Total Cost of Ownership (TCO) Analysis
 
-One reason users stick with the Reolink Doorbell PoE despite connection hurdles is the aggressive TCO. Unlike competitors like Ring (Elite) or Nest, Reolink does not lock core functionality behind a subscription.
+One reason users stick with the [Reolink Doorbell PoE](https://quvii.com/learn/reolink-doorbell-poe-motion-detection-delay-fix-20260711) despite connection hurdles is the aggressive TCO. Unlike competitors like Ring (Elite) or Nest, Reolink does not lock core functionality behind a subscription.
 
 **3-Year Cost Breakdown (Estimated):**
 *   **Hardware:** ~$100 (Doorbell unit).
@@ -171,7 +171,7 @@ There is a belief that you should always be on the latest firmware. While usuall
 No, the PoE version of the doorbell does not have Wi-Fi hardware inside. It relies entirely on the Ethernet connection for data. If you require Wi-Fi, you must purchase the Reolink Doorbell Wi-Fi model, which supports dual-band 2.4/5GHz.
 
 ### Can I use a 12V power adapter with the PoE doorbell?
-Yes. The Reolink Doorbell PoE has a dual-power design. You can power it via the Ethernet cable (PoE) OR via the power terminals on the back using a 12-24V AC or 24V DC transformer. Note that if you use the terminals for power, you still need the Ethernet cable for data.
+Yes. The Reolink [Doorbell PoE](https://quvii.com/learn/reolink-doorbell-poe-motion-detection-delay-fix-20260711) has a dual-power design. You can power it via the Ethernet cable (PoE) OR via the power terminals on the back using a 12-24V AC or 24V DC transformer. Note that if you use the terminals for power, you still need the Ethernet cable for data.
 
 ### Why does my doorbell drop connection only at night?
 This is almost certainly a power issue. At night, the camera activates its Infrared (IR) LEDs, which significantly increases the power draw. If your PoE switch is at its limit or your Ethernet cable has too much resistance (CCA cable), the voltage will drop below the operational threshold, causing the camera to reboot.

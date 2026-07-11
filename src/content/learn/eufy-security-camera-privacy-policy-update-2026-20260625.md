@@ -164,7 +164,7 @@ Because your footage is stored on a local HomeBase or microSD card, you would st
 *   **Local Storage Security Cameras:** A deep dive into why physical data ownership is becoming the gold standard for home privacy.
 *   **End-to-End Encryption:** Understanding the math that keeps your video streams away from prying eyes.
 *   **Eufy vs Ring Privacy:** A head-to-head comparison of how the two leading brands handle your sensitive data.
-*   **No Subscription Security Cameras:** How to avoid the "monthly fee trap" while maintaining high-end security features.
+*   **No Subscription Security Cameras:** How to avoid the "monthly fee trap" while maintaining high-end [security features](https://quvii.com/blog/apple-intelligence-home-app-security-features-20260711).
 
 Quvii tracks these trade-offs across the category to help you navigate the complex intersection of security and privacy.
 

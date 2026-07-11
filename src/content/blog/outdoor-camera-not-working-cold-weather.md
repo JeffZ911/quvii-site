@@ -39,7 +39,7 @@ The winter season of 2025-2026 served as a massive field test for the latest gen
 This isn't a software "bug" in the traditional sense; it is a fundamental conflict between modern battery chemistry and physics.
 
 ### The 32-Degree Charging Wall
-Lithium-ion batteries, which power almost every major wireless camera on the market including the Nest Cam (Battery) and the <a href="https://www.amazon.com/s?k=Arlo+Pro+5S&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Arlo Pro 5S</a>, cannot be safely charged at temperatures below 32°F (0°C). 
+Lithium-ion batteries, which power almost every major wireless camera on the market including the Nest Cam (Battery) and the <a href="https://www.amazon.com/s?k=Arlo+Pro+5S&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">[Arlo Pro 5S](https://quvii.com/learn/arlo-pro-5s-2k-night-vision-stuck-on)</a>, cannot be safely charged at temperatures below 32°F (0°C). 
 
 If a charger attempts to force energy into a frozen lithium cell, it causes "lithium plating" on the anode. This creates internal shorts that can lead to battery failure or, in extreme cases, thermal runaway. To prevent this, manufacturers hard-code a "Charging Lockout" into the firmware. Even if your camera is connected to a solar panel or a charging cable, the software will reject the incoming power until the internal battery temperature rises above freezing.
 
@@ -50,7 +50,7 @@ Data from the 2025-2026 winter cycle indicates that "integrated battery" models�
 | :--- | :--- | :--- | :--- |
 | **[Ring Stick Up](https://quvii.com/learn/ring-stick-up-cam-pro-overheating-direct-sun) Cam Pro** | -4°F (-20°C) | 32°F (0°C) | "Power Save" mode disables Pre-Roll |
 | **Nest Cam (Battery)** | -4°F (-20°C) | 32°F (0°C) | Throttles AI/Person Detection |
-| **Arlo Pro 5S** | -4°F (-20°C) | 32°F (0°C) | Disables 2K/4K streaming |
+| **[Arlo Pro](https://quvii.com/learn/arlo-pro-5s-2k-night-vision-stuck-on) 5S** | -4°F (-20°C) | 32°F (0°C) | Disables 2K/4K streaming |
 | **Eufy S340 (Dual Cam)** | -4°F (-20°C) | 32°F (0°C) | Limits PTZ (Pan/Tilt) movement |
 | **Reolink RLC-823A (PoE)** | -14°F (-25°C) | N/A (No Battery) | Full functionality maintained |
 

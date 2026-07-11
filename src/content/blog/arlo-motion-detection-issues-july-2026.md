@@ -83,7 +83,7 @@ Existing owners are currently facing a "perfect storm" of hardware frustration a
 When a motion event occurs, the Arlo SmartHub must wake the camera, establish a secure handshake, and begin the cloud upload. In the current v6.26.0 environment, this handshake is frequently failing. Users report that by the time the "Feed" notification is tapped and the encrypted stream is decrypted on their mobile device, the event has concluded. This latency renders the two-way talk feature effectively useless for real-time interaction.
 
 ### Battery Longevity and False Positives
-The July 2026 update has also inadvertently affected battery performance. Due to "ghost triggers"—where the PIR sensor wakes the camera for non-events that the AI then fails to filter correctly—users are seeing battery depletion rates of 20-30% higher than in Q1 2026. This is particularly problematic for the Pro 5S, which was marketed on its "Dual-Band Wi-Fi" efficiency. If the camera is constantly waking up to check in with a lagging server, the power savings of the low-power 2.4GHz band are negated.
+The July 2026 update has also inadvertently affected battery performance. Due to "ghost triggers"—where the PIR sensor wakes the camera for non-events that the AI then fails to filter correctly—users are seeing battery depletion rates of 20-30% higher than in Q1 2026. This is particularly problematic for the [Pro 5S](https://quvii.com/learn/arlo-pro-5s-2k-night-vision-stuck-on), which was marketed on its "Dual-Band Wi-Fi" efficiency. If the camera is constantly waking up to check in with a lagging server, the power savings of the low-power 2.4GHz band are negated.
 
 **Total Cost of Ownership (3-Year Projection):**
 *   **Hardware (3-Camera Ultra 2 System):** $500–$600 range.

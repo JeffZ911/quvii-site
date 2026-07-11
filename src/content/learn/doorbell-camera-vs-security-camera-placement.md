@@ -119,7 +119,7 @@ The biggest mistake in doorbell placement is mounting it too high.
 | If you are a... | Prioritize... | Why? |
 | :--- | :--- | :--- |
 | **Renter** | Doorbell Camera (Battery) | Easy to install/remove; covers the most likely entry point (front door) without drilling into eaves. |
-| **Homeowner (Large Lot)** | Large Outdoor Cameras (PoE/Solar) | You need to detect intruders before they reach the house. A doorbell camera is too late for perimeter defense. |
+| **Homeowner (Large Lot)** | Large [Outdoor Cameras](https://quvii.com/learn/outdoor-camera-guest-privacy-risks) (PoE/Solar) | You need to detect intruders before they reach the house. A doorbell camera is too late for perimeter defense. |
 | **Small Business Owner** | Large Cameras (Internal/External) | Deterrence is key. Visible large cameras discourage shoplifting and vandalism more than a discrete doorbell. |
 | **Package Heavy Shopper** | Doorbell Camera (Dual-Lens) | Specifically designed to monitor the "last inch" of delivery and deter porch piracy. |
 

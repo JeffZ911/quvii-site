@@ -140,7 +140,7 @@ Once guests leave, it is essential to revert your settings.
 *   Switch the system back to "Geofencing" or "Away" mode.
 
 ### Indoor vs. Outdoor Camera Considerations
-Outdoor cameras are generally viewed as "safety features" by guests, whereas indoor cameras are viewed as "surveillance." 
+[Outdoor cameras](https://quvii.com/learn/outdoor-camera-guest-privacy-risks) are generally viewed as "safety features" by guests, whereas indoor cameras are viewed as "surveillance." 
 *   **Outdoor:** Keep these active but ensure they aren't peering into guest-house windows.
 *   **Indoor:** Use physical privacy modes whenever possible. If a camera is in a shared living room, consider unplugging it entirely during the stay to provide absolute peace of mind.
 

@@ -167,7 +167,7 @@ Another misconception is that motion tracking should stay on regardless of other
 Open the Tapo app, tap on your camera, and go to the "Device Settings" (gear icon). Scroll down to "Firmware Update." If the app says your firmware is up to date but you are still on version 1.3.10, you may need to contact TP-Link support to have your camera's MAC address added to a newer "Beta" or "Stable" rollout group.
 
 ### Does the Tapo C210 support 5GHz Wi-Fi?
-No, the Tapo C210 only supports the 2.4GHz band. Many "motion tracking bugs" are actually caused by the camera struggling to maintain a connection on a crowded 2.4GHz network. If your tracking is stuttering, try changing your router's 2.4GHz channel to 1, 6, or 11.
+No, the [Tapo C210](https://quvii.com/blog/tapo-c210-motor-noise-after-update) only supports the 2.4GHz band. Many "motion tracking bugs" are actually caused by the camera struggling to maintain a connection on a crowded 2.4GHz network. If your tracking is stuttering, try changing your router's 2.4GHz channel to 1, 6, or 11.
 
 ### Can the C210 track multiple people at once?
 No, the C210's logic is designed to follow a single "dominant" moving object. If two people walk in opposite directions, the camera will typically follow the larger object or the one that triggered the detection first. It cannot split its view or track two subjects simultaneously.

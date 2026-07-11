@@ -61,7 +61,7 @@ The move is primarily driven by Google’s broader initiative to consolidate all
 3.  Nest Thermostats & Energy
 4.  Nest Wifi & Networking
 5.  Nest Speakers & Displays
-6.  Google Home App & Script Editor
+6.  Google [Home App](https://quvii.com/blog/apple-intelligence-home-app-security-features-20260711) & Script Editor
 7.  Matter & Thread Integration
 8.  Nest Protect (Smoke + CO)
 9.  Subscriptions & Nest Aware

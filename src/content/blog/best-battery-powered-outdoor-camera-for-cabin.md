@@ -124,7 +124,7 @@ Check the "LTE Gap": If your cabin is off-grid, the Reolink Go Ultra is the reco
 | **Stable Wi-Fi / Starlink** | Maximum evidence/24-7 recording | **Reolink Altas PT Ultra** |
 | **No Wi-Fi (Off-Grid)** | Remote live-view & 4K alerts | **Reolink Go Ultra** |
 | **Limited Sunlight** | High-efficiency solar/No fees | **[Eufy SoloCam](https://quvii.com/learn/reolink-argus-4-pro-vs-eufy-solocam-s340) S340** |
-| **Deep Ecosystem** | Ease of use/Cloud backup | **[Arlo Pro](https://quvii.com/learn/arlo-pro-vmc4030-factory-reset-failure-july-2026) 5S 2K** |
+| **Deep Ecosystem** | Ease of use/Cloud backup | **[Arlo Pro](https://quvii.com/learn/arlo-pro-vmc4030-factory-reset-failure-july-2026) [5S 2K](https://quvii.com/learn/arlo-pro-5s-2k-night-vision-stuck-on)** |
 
 ### Top Pick for Wi-Fi Cabins: Reolink Altas PT Ultra
 The Altas PT Ultra is the first battery camera that doesn't feel like a compromise. By offering a 20,000mAh battery, it solves the longevity issue, and by offering 4K continuous recording, it solves the security gap. For a cabin with a reliable Wi-Fi signal, it provides the most comprehensive coverage per dollar spent. Its ColorX technology is particularly useful in wooded areas where traditional IR [night vision](https://quvii.com/learn/wyze-cam-v4-night-vision-flickering-fix) often reflects off leaves and branches, causing "white-out" in the image.

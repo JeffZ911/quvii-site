@@ -71,7 +71,7 @@ Many modern security cameras from brands like Ring, Arlo, and Google Nest rely h
 *   **Firmware Updates:** The delivery of critical security patches.
 
 ### Assessing Manufacturer Reliability
-When choosing a security camera, the Grounded Labs incident reminds us to look beyond the hardware specs (like 4K resolution or night vision range) and evaluate the manufacturer’s infrastructure. A brand’s track record for server stability is as critical as its lens quality. For security applications, a "functional DDoS" caused by a certificate error isn't just an inconvenience—it’s a window of vulnerability for your property.
+When choosing a security camera, the Grounded Labs incident reminds us to look beyond the hardware specs (like 4K resolution or [night vision](https://quvii.com/learn/arlo-pro-5s-2k-night-vision-stuck-on) range) and evaluate the manufacturer’s infrastructure. A brand’s track record for server stability is as critical as its lens quality. For security applications, a "functional DDoS" caused by a certificate error isn't just an inconvenience—it’s a window of vulnerability for your property.
 
 ### Decision Framework: Choosing Your Level of Cloud Dependency
 

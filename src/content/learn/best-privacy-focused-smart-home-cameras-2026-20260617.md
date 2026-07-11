@@ -164,7 +164,7 @@ There's a belief that "you can't get [smart features](https://quvii.com/blog/mon
 
 ### Inherent Insecurity
 
-Finally, the notion that "all smart cameras are inherently insecure or privacy-invasive" is an oversimplification. While some brands have faced privacy controversies in the past, many manufacturers are now building cameras with privacy-by-design principles and robust security features, including strong encryption and local processing options. It's crucial for consumers to research individual brands' privacy policies and security practices rather than generalize.
+Finally, the notion that "all smart cameras are inherently insecure or privacy-invasive" is an oversimplification. While some brands have faced privacy controversies in the past, many manufacturers are now building cameras with privacy-by-design principles and robust [security features](https://quvii.com/blog/apple-intelligence-home-app-security-features-20260711), including strong encryption and local processing options. It's crucial for consumers to research individual brands' privacy policies and security practices rather than generalize.
 
 ## Decision Framework: Choosing Your Privacy-Focused Camera
 

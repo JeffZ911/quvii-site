@@ -99,7 +99,7 @@ For those who have spent years fine-tuning their Nest setups—perhaps using thi
 Google has been aggressively migrating users from the "Legacy Nest Aware" plans to the "Google Home Premium" structure. Existing owners need to be aware that some of the new Gemini AI features introduced in June 2026 are *only* available on the newer plans. If your camera is offline, it may be because a legacy subscription failed to renew or was flagged for migration, causing a temporary "lockout" of cloud services.
 
 ### Potential for Device Obsolescence
-There is a growing concern that the first-generation Nest Cam Indoor and Outdoor (the "dropcam" style units) are being phased out. While Google has offered some users discounts to upgrade to newer models, those who choose to stay on the old hardware are finding that the cameras go offline more frequently as the legacy Nest service is deprecated in favor of the Google Home app.
+There is a growing concern that the first-generation Nest Cam Indoor and Outdoor (the "dropcam" style units) are being phased out. While Google has offered some users discounts to upgrade to newer models, those who choose to stay on the old hardware are finding that the cameras go offline more frequently as the legacy Nest service is deprecated in favor of the Google [Home app](https://quvii.com/blog/apple-intelligence-home-app-security-features-20260711).
 
 ## What to do now
 
