@@ -97,7 +97,7 @@ The consequences of your Wyze camera going offline during a summer power outage 
 
 **Security Blind Spots:** During a power outage, your Wyze cameras cease to function remotely, creating unmonitored periods where your property is vulnerable. This is particularly concerning if the outage occurs while you are away from home, as you lose real-time visibility and immediate alerts.
 
-**Missed Event Recordings:** Any motion or sound events that occur while your camera is offline will not trigger cloud recordings or send push notifications to your device. This means you could miss critical incidents, such as intrusions or property damage, that happen during the outage.
+**Missed Event Recordings:** Any motion or sound events that occur while your camera is offline will not trigger cloud recordings or send [push notifications](https://quvii.com/blog/eufy-security-push-notifications-failing-home-assistant-20260712) to your device. This means you could miss critical incidents, such as intrusions or property damage, that happen during the outage.
 
 **Delayed Information:** Even if local storage captures events, you will not be aware of them until power and internet are restored, and you can manually access the footage. This delay can hinder timely responses to security threats or emergencies.
 

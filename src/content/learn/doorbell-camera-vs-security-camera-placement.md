@@ -94,7 +94,7 @@ Large [outdoor cameras](https://quvii.com/learn/outdoor-camera-guest-privacy-ris
 Placement significantly affects how AI algorithms process motion. Doorbell cameras are tuned for "Near-Field" PIR (Passive Infrared) or Radar detection. They are designed to ignore cars passing in the street and only trigger when someone enters the immediate porch zone. Large cameras use more sophisticated "Long-Range" AI that can differentiate between a person, a vehicle, and an animal at distances of 50 feet or more.
 
 ### Night Vision and Environmental Adaptability
-Because doorbell cameras are meant to see people 3 to 5 feet away, their IR LEDs are relatively low-power to prevent "white-out" (where a face looks like a glowing white orb). Large cameras feature much more powerful IR arrays or "Color Night Vision" spotlights designed to illuminate a yard up to 100 feet away.
+Because doorbell cameras are meant to see people 3 to 5 feet away, their IR LEDs are relatively low-power to prevent "white-out" (where a face looks like a glowing white orb). Large cameras feature much more powerful IR arrays or "Color [Night Vision](https://quvii.com/learn/arlo-pro-5s-2k-night-vision-stuck-on)" spotlights designed to illuminate a yard up to 100 feet away.
 
 ## Real-world implications
 

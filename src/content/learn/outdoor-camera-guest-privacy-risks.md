@@ -152,7 +152,7 @@ This is a frequent legal misunderstanding. Property ownership does not override 
 Legally, they are worlds apart. Federal and state wiretapping laws are much more aggressive regarding audio. Most outdoor cameras have "Always On" audio by default; homeowners should manually check these settings.
 
 **"Disabling cloud storage means zero data leaves my home."**
-Not necessarily. Even local-storage cameras often send "heartbeat" pings to the manufacturer's servers or transmit small thumbnail images to the cloud to provide push notifications to your phone. To achieve true "air-gapped" privacy, one must use a system that supports local-only LAN access without an internet requirement.
+Not necessarily. Even local-storage cameras often send "heartbeat" pings to the manufacturer's servers or transmit small thumbnail images to the cloud to provide [push notifications](https://quvii.com/blog/eufy-security-push-notifications-failing-home-assistant-20260712) to your phone. To achieve true "air-gapped" privacy, one must use a system that supports local-only LAN access without an internet requirement.
 
 **"Privacy zones make my camera completely private."**
 Privacy zones are a software mask, not a physical shutter. While the recorded footage will be blacked out, the camera hardware is still "seeing" the area to process the image. For absolute privacy in sensitive areas (like near a guest hot tub), a physical lens cover or a camera with a motorized privacy shutter is the only 100% guarantee.

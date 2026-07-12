@@ -46,7 +46,7 @@ Apple Home Key is a specialized feature within the Apple Home (HomeKit) ecosyste
 A Home Key-compatible lock removes the friction of mechanical keys. Once a compatible lock is added to the Apple [Home app](https://quvii.com/blog/apple-intelligence-home-app-security-features-20260711), a digital key is automatically generated and stored in the Apple Wallet. This key is shared across your iCloud-connected devices, meaning your Apple Watch is just as capable of unlocking the door as your iPhone. This digital transition eliminates the risk of physical lock picking or "bumping" while providing a log of who entered the home and when.
 
 ### HomeKit Integration Explained
-While many locks are "HomeKit compatible" (meaning they show up in the Home app), Home Key is a specific hardware-dependent feature. Integration means the lock becomes a node in your broader Apple Home automation. You can set scenes where unlocking the door at night automatically triggers the hallway lights and adjusts the thermostat. Because it uses the HomeKit Accessory Protocol (HAP), all communication is encrypted and, in most cases, occurs locally between your Apple Home Hub (like an Apple TV or HomePod) and the lock itself.
+While many locks are "HomeKit compatible" (meaning they show up in the [Home app](https://quvii.com/blog/apple-intelligence-home-app-security-features-20260711)), Home Key is a specific hardware-dependent feature. Integration means the lock becomes a node in your broader Apple Home automation. You can set scenes where unlocking the door at night automatically triggers the hallway lights and adjusts the thermostat. Because it uses the HomeKit Accessory Protocol (HAP), all communication is encrypted and, in most cases, occurs locally between your Apple Home Hub (like an Apple TV or HomePod) and the lock itself.
 
 ## Why it exists
 
@@ -160,7 +160,7 @@ If your device is lost or stolen, you can use the "Find My" app on another devic
 
 ### Independent Reviews
 - The Verge: Schlage Encode Plus Review — A deep dive into the hardware reliability.
-- Wirecutter: Best Smart Locks — Comparative testing of various models including Home Key options.
+- Wirecutter: Best [Smart Locks](https://quvii.com/learn/best-smart-locks-summer-travel-2026) — Comparative testing of various models including Home Key options.
 
 ### General Smart Lock Buying Guide
 When selecting a lock, always verify the **ANSI/BHMA Grade**. Grade 1 is the strongest, typically found in Schlage products, while Grade 2 is standard for most residential applications. Ensure your door has a standard backset (2 3/8" or 2 3/4") before purchasing, as some specialized European or mortise locks may not be compatible with standard US smart deadbolts.

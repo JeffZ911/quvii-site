@@ -88,7 +88,7 @@ We must also consider the physical age of these units. The VMC4030 uses a mechan
 Arlo’s business model has shifted entirely toward the "Arlo Secure" subscription. The VMC4030 was the last flagship model to offer "7-day free cloud storage" for the life of the product. In 2026, maintaining the legacy backend servers for these non-revenue-generating users is a lower priority for the brand. This has led to slower authentication times for legacy devices, causing the app to time out during the sync process before the legacy server can verify the camera’s ID.
 
 ### Timeline of Arlo VMC4030 Milestones
-*   **October 2016:** Arlo Pro (VMC4030) Launches.
+*   **October 2016:** [Arlo Pro](https://quvii.com/learn/arlo-pro-5s-2k-night-vision-stuck-on) (VMC4030) Launches.
 *   **2018:** Production ceases in favor of the Arlo Pro 2.
 *   **April 1, 2023:** Official EOL (End of Life) reached; security updates cease.
 *   **May 2026:** "Product Returns" server error flags legacy serial numbers.
