@@ -146,7 +146,7 @@ By comparison, a subscription-free system with local storage typically costs **$
 ## Frequently Asked Questions
 
 ### Why does my Nest camera say "offline" but my Wi-Fi is working?
-This is usually caused by a "handshake" error between the camera and Google’s cloud servers, not your local internet. It can also happen if the camera's firmware is out of date or if there is a temporary outage in the Google Home app backend, such as the ones reported in May and June 2026.
+This is usually caused by a "handshake" error between the camera and Google’s cloud servers, not your local internet. It can also happen if the camera's firmware is out of date or if there is a temporary outage in the Google [Home app](https://quvii.com/blog/apple-intelligence-home-app-security-features-20260711) backend, such as the ones reported in May and June 2026.
 
 ### Will my Nest camera work after the forums are deleted on June 30?
 Yes, the hardware will continue to function. However, you will lose access to a decade of user-generated troubleshooting guides. If you encounter a bug after that date, you will have to rely on official Google Support or community platforms like Reddit.

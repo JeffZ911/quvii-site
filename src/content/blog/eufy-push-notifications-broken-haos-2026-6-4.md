@@ -27,7 +27,7 @@ The reliability of a smart home [security system](https://quvii.com/blog/arlo-mo
 
 # Eufy Security Push Notifications Broken in HAOS Core 2026.6.4: The Quvii Troubleshooting Guide
 
-**Quick Answer:** HAOS Core 2026.6.4 introduced breaking changes to webhook handling and Python 3.14 dependencies that disconnect Eufy motion events. To fix, re-enable 'Push Notifications' in the Eufy app's Security Modes and update your eufy-security-ws add-on to version 1.8.4 or higher.
+**Quick Answer:** HAOS Core 2026.6.4 introduced breaking changes to webhook handling and Python 3.14 dependencies that disconnect Eufy motion events. To fix, re-enable '[Push Notifications](https://quvii.com/blog/eufy-security-push-notifications-failing-home-assistant-20260712)' in the Eufy app's Security Modes and update your eufy-security-ws add-on to version 1.8.4 or higher.
 
 ## What happened
 
@@ -163,7 +163,7 @@ If you rely on Eufy for home security and the fixes above do not work, rolling b
 While video is stored on the HomeBase, the notification "handshake" that alerts your phone or [Home Assistant](https://quvii.com/learn/ring-plugin-not-streaming-home-assistant-2026-7-fix) still travels through Eufy's servers. This allows alerts to reach you when you are away from home without requiring complex port forwarding on your router.
 
 ### Will Matter support fix these Eufy notification issues?
-If Eufy releases a Matter-over-Bridge update for the HomeBase 3, it would allow the HomeBase to talk directly to Home Assistant over the local network. This would bypass the cloud-relay and the webhook issues entirely. However, as of mid-2026, this support remains limited to specific models and basic functions.
+If Eufy releases a Matter-over-Bridge update for the HomeBase 3, it would allow the HomeBase to talk directly to [Home Assistant](https://quvii.com/blog/eufy-security-push-notifications-failing-home-assistant-20260712) over the local network. This would bypass the cloud-relay and the webhook issues entirely. However, as of mid-2026, this support remains limited to specific models and basic functions.
 
 ### Is my Eufy footage still being recorded if notifications are broken?
 Yes. In almost all cases involving the HAOS 2026.6.4 break, the camera continues to detect motion and record to the HomeBase 3 or internal storage. The failure is strictly in the *communication* of that event to Home Assistant.

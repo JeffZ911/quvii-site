@@ -107,7 +107,7 @@ Here's a comparison of key features for relevant models:
 | **Connectivity** | 4G LTE, Wi-Fi (2.4 GHz) | Wi-Fi (2.4 GHz) |
 | **Video Resolution** | 1080p HD | 1080p HD |
 | **Field of View** | 130° diagonal | 130° diagonal |
-| **Night Vision** | Color night vision | Color night vision |
+| **[Night Vision](https://quvii.com/learn/arlo-pro-5s-2k-night-vision-stuck-on)** | Color night vision | Color night vision |
 | **Audio** | Two-way audio | Two-way audio |
 | **Power Options** | Rechargeable battery, optional solar panel | Rechargeable battery, optional solar panel |
 | **Local Storage** | MicroSD card slot on camera, SmartHub compatible | No direct local storage on camera; cloud only |

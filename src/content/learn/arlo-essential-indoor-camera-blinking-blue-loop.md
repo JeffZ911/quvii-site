@@ -138,7 +138,7 @@ Many community guides on r/Arlo suggest a [factory reset](https://quvii.com/lear
 
 ### Universal Arlo LED Behavior
 
-Users who own older Arlo Pro or Arlo Go models often assume the Essential Indoor follows the same patterns. However, the Essential Indoor is a "Direct-to-Wi-Fi" camera, whereas older Pro models often communicated via a Base Station (SmartHub). The LED behavior for a camera searching for a Base Station is different from one searching for a home Wi-Fi router. Always consult the specific manual for the "Essential" line to avoid applying outdated troubleshooting steps.
+Users who own older [Arlo Pro](https://quvii.com/learn/arlo-pro-5s-2k-night-vision-stuck-on) or Arlo Go models often assume the Essential Indoor follows the same patterns. However, the Essential Indoor is a "Direct-to-Wi-Fi" camera, whereas older Pro models often communicated via a Base Station (SmartHub). The LED behavior for a camera searching for a Base Station is different from one searching for a home Wi-Fi router. Always consult the specific manual for the "Essential" line to avoid applying outdated troubleshooting steps.
 
 ## Decision Framework: Troubleshooting the Loop
 

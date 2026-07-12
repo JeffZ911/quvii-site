@@ -84,7 +84,7 @@ Wyze's privacy policy, like many smart home device manufacturers, outlines its d
 ![How Wyze Cam v4 works under the hood for security](/img/is-wyze-cam-v4-safe-security-privacy-2026/inline-3.webp)
 
 
-The Wyze Cam v4 incorporates several standard security features designed to protect user data and device integrity. These measures form the foundation of its security posture, from data transmission to user authentication and cloud infrastructure.
+The Wyze Cam v4 incorporates several standard [security features](https://quvii.com/blog/apple-intelligence-home-app-security-features-20260711) designed to protect user data and device integrity. These measures form the foundation of its security posture, from data transmission to user authentication and cloud infrastructure.
 
 ### Encryption Standards and Data Transmission
 

@@ -146,7 +146,7 @@ When the Nest Cam (Battery) fails to meet the thermal demands of your environmen
 
 For those committed to the Google ecosystem, the "Nest Cam (Wired, 2nd Gen)" is a superior choice for indoor or covered outdoor use, as it lacks a battery and can therefore tolerate slightly different thermal dynamics, though it is not rated for full weather exposure like the battery model.
 
-If you are currently planning a new installation, [information unavailable] regarding the best shaded mounting locations for outdoor cameras suggests that a minimum of 4 inches of clearance from the underside of an eave is necessary to allow for proper convective cooling.
+If you are currently planning a new installation, [information unavailable] regarding the best shaded mounting locations for [outdoor cameras](https://quvii.com/learn/outdoor-camera-guest-privacy-risks) suggests that a minimum of 4 inches of clearance from the underside of an eave is necessary to allow for proper convective cooling.
 
 ## Frequently Asked Questions
 

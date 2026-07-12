@@ -148,7 +148,7 @@ When fixing an overheating issue, the "cost" isn't just the price of a new camer
 ![Common misconceptions](/img/fix-security-camera-overheating-summer-20260710/inline-5.webp)
 
 
-**"All outdoor cameras are built to withstand extreme heat."**
+**"All [outdoor cameras](https://quvii.com/learn/outdoor-camera-guest-privacy-risks) are built to withstand extreme heat."**
 This is false. "Outdoor" primarily refers to the IP (Ingress Protection) rating, which measures resistance to water and dust. A camera can be waterproof (IP67) but still have a low thermal ceiling of only 104°F, making it unsuitable for many US summer climates.
 
 **"Overheating is just a temporary issue; it will cool down and be fine."**

@@ -49,10 +49,10 @@ The following table compares current Arlo flagship specifications against real-w
 
 | Model | Resolution | Claimed Life | Real-World Expectation (Moderate Traffic) | Primary Power Draw |
 | :--- | :--- | :--- | :--- | :--- |
-| **Arlo Pro 6** | 2K / 4K | 6 Months | 3–4 Months | Dual-band Wi-Fi Polling |
+| **[Arlo Pro](https://quvii.com/learn/arlo-pro-5s-2k-night-vision-stuck-on) 6** | 2K / 4K | 6 Months | 3–4 Months | Dual-band Wi-Fi Polling |
 | **Arlo Ultra 3** | 4K HDR | 6 Months | 2–3 Months | Image Processing / 4K Encoding |
 | **Essential XL Gen 2** | 2K | 12 Months | 7–9 Months | Integrated Battery Capacity |
-| **Arlo Pro 5S** | 2K | 8 Months | 4–5 Months | Low-power Wi-Fi management |
+| **[Arlo Pro 5S](https://quvii.com/learn/arlo-pro-5s-2k-night-vision-stuck-on)** | 2K | 8 Months | 4–5 Months | Low-power Wi-Fi management |
 
 *Data synthesized from Arlo.com product specifications and community testing data from r/Arlo.*
 

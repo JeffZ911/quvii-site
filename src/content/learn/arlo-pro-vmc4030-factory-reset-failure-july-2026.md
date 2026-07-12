@@ -79,7 +79,7 @@ The surge in reset failures in mid-2026 isn't a coincidence; it is the result of
 In May 2026, Arlo confirmed an internal server-side "product returns process error." This glitch mistakenly flagged thousands of legacy serial numbers—primarily from the VMC4030 and VMC3030 lines—as "returned to vendor." When a serial number is flagged this way, Arlo’s security protocols automatically disconnect the device from its associated account and prevent it from being re-registered. This was intended to prevent stolen or "open box" returns from being resold and used, but it has inadvertently swept up legitimate long-term owners.
 
 ### Firmware Incompatibility (App v6.26.0)
-The June 2026 update to the Arlo Secure app (v6.26.0) introduced updated authentication protocols designed for the Pro 5S and Ultra 2 series. These protocols require a faster "handshake" than the VMC4030’s aging processor can provide. Because the VMC4030 firmware hasn't been updated since 2023, it cannot "speak" the new language of the app, leading the software to assume the reset has failed or the device is unresponsive.
+The June 2026 update to the Arlo Secure app (v6.26.0) introduced updated authentication protocols designed for the [Pro 5S](https://quvii.com/learn/arlo-pro-5s-2k-night-vision-stuck-on) and Ultra 2 series. These protocols require a faster "handshake" than the VMC4030’s aging processor can provide. Because the VMC4030 firmware hasn't been updated since 2023, it cannot "speak" the new language of the app, leading the software to assume the reset has failed or the device is unresponsive.
 
 ### Hardware Fatigue: When Buttons Give Out
 We must also consider the physical age of these units. The VMC4030 uses a mechanical sync button located on the top of the housing. After a decade of exposure to UV rays and temperature fluctuations, the plastic membranes often become brittle. A "reset failure" is frequently just a "button failure"—the user presses the button, but the internal contact doesn't hold for the required 2 seconds to trigger Discovery Mode.
@@ -140,7 +140,7 @@ In 2026, you can find used VMC4030 units for **under $50** on platforms like eBa
 | If you are... | Your Priority | Recommendation |
 | :--- | :--- | :--- |
 | **A Renter** | Low cost, easy move | **Replace.** Switch to a standalone Wi-Fi camera (like Eufy or Reolink) to avoid Base Station headaches. |
-| **A Homeowner** | Long-term reliability | **Upgrade.** Move to the Arlo Pro 5S or Ultra 2 but check for "SmartHub" compatibility for local storage. |
+| **A Homeowner** | Long-term reliability | **Upgrade.** Move to the [Arlo Pro 5S](https://quvii.com/learn/arlo-pro-5s-2k-night-vision-stuck-on) or Ultra 2 but check for "SmartHub" compatibility for local storage. |
 | **The "Free Storage" Hunter** | No monthly fees | **Fix.** Exhaustively try the "Battery Pull + App Removal" method to keep your grandfathered status. |
 | **High-Security User** | Privacy/Data Integrity | **Replace.** EOL hardware lacks 2024-2026 security patches. It is no longer "secure." |
 

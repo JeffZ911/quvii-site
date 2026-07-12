@@ -27,7 +27,7 @@ For smart home enthusiasts using third-party integrations, a "Succeed" message i
 
 # Eufy Security "Push Channel Silent Registration Succeeds": The 2026 Privacy Breakdown
 
-**Quick Answer:** The "push channel silent registration succeeds" log indicates your Eufy camera has connected to the cloud, but a June 2026 backend change is blocking event data from reaching third-party apps like Homebridge or [Home Assistant](https://quvii.com/blog/eufy-home-assistant-integration-issues-july-2026).
+**Quick Answer:** The "[push channel silent](https://quvii.com/blog/eufy-security-push-channel-silent-events-fix) registration succeeds" log indicates your Eufy camera has connected to the cloud, but a June 2026 backend change is blocking event data from reaching third-party apps like Homebridge or [Home Assistant](https://quvii.com/blog/eufy-home-assistant-integration-issues-july-2026).
 
 ## What happened
 
@@ -85,7 +85,7 @@ If you already own a Eufy system, the June 2026 backend shift may have already d
 
 ### Broken Homebridge and Home Assistant Integrations
 
-As of July 2026, there is no comprehensive fix for the silent push channel. Users report that while they can still see a static thumbnail of their cameras, live streams and [motion alerts](https://quvii.com/blog/ring-doorbell-not-sending-motion-alerts-streaming-fix) are non-functional in third-party dashboards. This is because the "push token" required to wake the camera from its low-power state is being ignored by Eufy's new "eufy_mega" servers. For owners who spent hundreds of dollars on a Eufy ecosystem specifically for [Home Assistant](https://quvii.com/blog/eufy-home-assistant-integration-issues-july-2026) integration, the hardware has effectively been "nerfed."
+As of July 2026, there is no comprehensive fix for the silent [push channel](https://quvii.com/blog/eufy-security-push-channel-silent-events-fix). Users report that while they can still see a static thumbnail of their cameras, live streams and [motion alerts](https://quvii.com/blog/ring-doorbell-not-sending-motion-alerts-streaming-fix) are non-functional in third-party dashboards. This is because the "push token" required to wake the camera from its low-power state is being ignored by Eufy's new "eufy_mega" servers. For owners who spent hundreds of dollars on a Eufy ecosystem specifically for [Home Assistant](https://quvii.com/blog/eufy-home-assistant-integration-issues-july-2026) integration, the hardware has effectively been "nerfed."
 
 ### Firmware v3.8.2.0 and the Storage 'Amnesia' Bug
 
