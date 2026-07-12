@@ -145,7 +145,7 @@ The smart home industry is rapidly evolving. Keep an eye on new technologies tha
 ## Frequently Asked Questions
 
 ### Do smart locks work without Wi-Fi?
-Yes, most smart locks retain their core locking and unlocking functionality without Wi-Fi. You can typically use physical keys, keypad codes, or fingerprint scanners (if available) for local access. However, remote control, app notifications, and integration with other smart home devices will not work without an active Wi-Fi connection.
+Yes, most [smart locks](https://quvii.com/learn/best-smart-locks-summer-travel-2026) retain their core locking and unlocking functionality without Wi-Fi. You can typically use physical keys, keypad codes, or fingerprint scanners (if available) for local access. However, remote control, app notifications, and integration with other smart home devices will not work without an active Wi-Fi connection.
 
 ### How do smart locks get power during an outage?
 Smart locks are almost universally battery-powered for their core functions. They use standard batteries (like AA or AAA) to operate the locking mechanism and local input methods. Some models also include emergency power ports, such as 9V battery terminals or micro-USB ports, to provide temporary power if the internal batteries are completely depleted.

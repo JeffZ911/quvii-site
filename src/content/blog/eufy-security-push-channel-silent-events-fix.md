@@ -148,7 +148,7 @@ This is usually caused by the smartphone operating system assigning the Eufy "De
 The "MegaTransition" is a 2026 backend update designed to unify Eufy's various product lines (cameras, vacuums, and sensors) into a single communication protocol. While intended to improve speed, it caused a temporary mismatch in how [push notifications](https://quvii.com/blog/eufy-security-push-notifications-failing-home-assistant-20260712) are identified by Android and iOS devices.
 
 ### Does Eufy require a subscription for notifications to work?
-No, Eufy does not require a subscription for basic text-based push notifications. However, they do offer a "Plus" subscription for "Rich Notifications" (which include a thumbnail image). The current silent notification bug affects both free and paid users because it is an architectural issue, not a subscription gating issue.
+No, Eufy does not require a subscription for basic text-based [push notifications](https://quvii.com/blog/eufy-security-push-notifications-failing-home-assistant-20260712). However, they do offer a "Plus" subscription for "Rich Notifications" (which include a thumbnail image). The current silent notification bug affects both free and paid users because it is an architectural issue, not a subscription gating issue.
 
 ### Will resetting my HomeBase fix the silent notification bug?
 A simple reboot of the HomeBase 3 can sometimes help re-establish a handshake with the servers, but a full factory reset is usually unnecessary. The fix is typically found in the mobile app's notification settings or the smartphone's system-level notification categories.

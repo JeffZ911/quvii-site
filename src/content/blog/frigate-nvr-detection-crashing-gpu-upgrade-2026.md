@@ -170,7 +170,7 @@ When troubleshooting a DIY NVR, it is helpful to view the investment over a 3-ye
 The DIY path saves roughly $180 over three years, but more importantly, it provides higher resolution processing and better privacy. However, if the "cost" of your time to fix crashes exceeds this savings, a simpler solution may be warranted.
 
 ### Decision Framework: Should You Fix or Switch?
-*   **If you are a Homeowner/Power User:** Stick with Frigate. The control over detection zones and the ability to integrate with Home Assistant is unmatched.
+*   **If you are a Homeowner/Power User:** Stick with Frigate. The control over detection zones and the ability to integrate with [Home Assistant](https://quvii.com/blog/eufy-security-push-notifications-failing-home-assistant-20260712) is unmatched.
 *   **If you are a Small Business Owner:** Prioritize reliability. If you cannot afford the downtime of a crashed GPU driver, consider a dedicated NVR appliance like those from Reolink or Dahua.
 *   **If you are a Renter/Non-Technical User:** Prioritize simplicity. A DIY NVR is likely overkill and too maintenance-intensive.
 

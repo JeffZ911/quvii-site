@@ -88,7 +88,7 @@ For those who already have five or six Eufy cameras mounted around their propert
 
 ### Disruption of Critical Automations
 
-Many Home Assistant users do not check the Eufy app; they rely on Home Assistant to send them a high-priority notification with a camera snapshot when a person is detected. With the June 2026 breakage of notification pushes, these users are essentially "blind" to events unless they manually open the Eufy app. This defeats the purpose of an automated [security system](https://quvii.com/blog/arlo-motion-detection-issues-july-2026) that is supposed to act on the user's behalf.
+Many [Home Assistant](https://quvii.com/blog/eufy-security-push-notifications-failing-home-assistant-20260712) users do not check the Eufy app; they rely on Home Assistant to send them a high-priority notification with a camera snapshot when a person is detected. With the June 2026 breakage of notification pushes, these users are essentially "blind" to events unless they manually open the Eufy app. This defeats the purpose of an automated [security system](https://quvii.com/blog/arlo-motion-detection-issues-july-2026) that is supposed to act on the user's behalf.
 
 ### Time and Effort for Troubleshooting
 

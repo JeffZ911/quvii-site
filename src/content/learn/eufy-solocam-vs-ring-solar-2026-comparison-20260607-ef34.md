@@ -55,7 +55,7 @@ To compare these fairly, we look at the current top-tier solar offerings from bo
 | **Motion Tech** | AI-based Image Analysis | 3D [Motion Detection](https://quvii.com/blog/eufycam-s330-firmware-3-1-8-2-motion-detection-failure) (Radar) |
 | **Storage Type** | 8GB Local (Expandable via HomeBase 3) | Cloud-Only (AWS) |
 | **2026 Sub. Cost** | $0 (Optional Cloud Available) | Around $50/year (Ring Protect Solo) |
-| **Night Vision** | Color (Spotlight) & IR | Color (Spotlight) & IR |
+| **[Night Vision](https://quvii.com/learn/arlo-pro-5s-2k-night-vision-stuck-on)** | Color (Spotlight) & IR | Color (Spotlight) & IR |
 
 [Information sourced from eufy.com and ring.com spec sheets, June 2026]
 

@@ -51,7 +51,7 @@ Unlike newer Arlo models, the VMC4030 does not have a pinhole reset button. On a
 
 ### Reset Method Comparison: Legacy vs. Modern
 
-| Feature | Arlo Pro (VMC4030) | Arlo Pro 4/5 | Arlo Essential (Gen 1) |
+| Feature | [Arlo Pro](https://quvii.com/learn/arlo-pro-5s-2k-night-vision-stuck-on) (VMC4030) | Arlo Pro 4/5 | Arlo Essential (Gen 1) |
 | :--- | :--- | :--- | :--- |
 | **Physical Reset Button** | None (Sync button only) | Pinhole Button | Sync Button (15-sec hold) |
 | **Reset Logic** | Cloud-initiated removal | Hardware-level wipe | Local firmware reset |

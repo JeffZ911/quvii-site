@@ -57,7 +57,7 @@ Large security cameras—typically categorized as bullet, dome, or Pan-Tilt-Zoom
 | **Typical Resolution** | 2K to 5MP (often 1:1 or 3:4 ratio) | 4K to 8K (typically 16:9 ratio) |
 | **Mounting Height** | 44–50 inches (Eye level) | 8–12 feet (Eave/Wall mount) |
 | **Field of View (FOV)** | High Vertical (up to 180° head-to-toe) | High Horizontal (up to 140° wide) |
-| **Night Vision Range** | 10–20 feet | 30–100+ feet |
+| **[Night Vision](https://quvii.com/learn/arlo-pro-5s-2k-night-vision-stuck-on) Range** | 10–20 feet | 30–100+ feet |
 | **Two-Way Audio** | Standard (Full Duplex) | Common, but often lower volume/clarity |
 | **Power Source** | Doorbell wiring or Battery | PoE, Plug-in AC, or Solar/Battery |
 
