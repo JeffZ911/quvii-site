@@ -54,7 +54,7 @@ Safety, therefore, is defined as the camera’s ability to remain physically int
 
 The demand for storm-resilient cameras has surged as smart home surveillance transitions from a luxury "gadget" to a critical component of home insurance and property management. In 2026, many homeowners use cameras not just for crime prevention, but for real-time weather monitoring and post-storm insurance documentation.
 
-Manufacturers have responded by moving away from vague marketing terms like "weatherproof" in favor of standardized laboratory testing. However, a conflict exists between hardware capability and software architecture. While a camera like the **Arlo Pro 5S** features a ruggedized housing, its heavy reliance on cloud connectivity creates a "soft failure" point during storms that disrupt local Wi-Fi or regional internet backbones.
+Manufacturers have responded by moving away from vague marketing terms like "weatherproof" in favor of standardized laboratory testing. However, a conflict exists between hardware capability and software architecture. While a camera like the **[Arlo Pro 5S](https://quvii.com/learn/arlo-pro-5s-2k-night-vision-stuck-on)** features a ruggedized housing, its heavy reliance on cloud connectivity creates a "soft failure" point during storms that disrupt local Wi-Fi or regional internet backbones.
 
 Conversely, brands like **Reolink** and **Eufy** have gained significant market share by prioritizing "edge" resilience—incorporating local microSD storage and HomeBase units that continue to function even when the neighborhood's internet is down. This shift is a direct response to consumer frustration with "subscription-heavy" incumbents whose cameras often become expensive paperweights during severe weather outages.
 
@@ -99,7 +99,7 @@ Data resilience is the final pillar of storm safety. If a storm knocks out your 
 | :--- | :--- | :--- | :--- | :--- |
 | **Reolink Duo 3 PoE** | IP66 | PoE (Wired) | Local (SD/NVR) | $0 |
 | **Eufy SoloCam S340** | IP67 | Solar/Battery | Local (8GB + HomeBase) | $0 |
-| **Arlo Pro 5S** | IP65 | Battery | Cloud (Local w/ Hub) | $180–$360 |
+| **[Arlo Pro](https://quvii.com/learn/arlo-pro-5s-2k-night-vision-stuck-on) 5S** | IP65 | Battery | Cloud (Local w/ Hub) | $180–$360 |
 | **[Ring Stick Up Cam](/learn/ring-stick-up-cam-pro-overheating-direct-sun) Pro** | IPX5 | Battery/Plug-in | Cloud Only | $150–$180 |
 | **Reolink Altas PT Ultra** | IP66 | Battery | Local (SD/NVR) | $0 |
 
@@ -164,7 +164,7 @@ If a storm is predicted to have winds exceeding the camera's mounting specificat
 
 - Reolink — [Official Duo 3 PoE Product Page and IP66 Certification](https://reolink.com/product/reolink-duo-3-poe/)
 - Eufy — SoloCam S340 Technical Specifications and IP67 Rating
-- Arlo — Arlo Pro 5S 2K Outdoor Security Camera Specs
+- Arlo — Arlo [Pro 5S 2K](https://quvii.com/learn/arlo-pro-5s-2k-night-vision-stuck-on) Outdoor Security Camera Specs
 - RTINGS — Environmental Testing for Outdoor Smart Cameras
 - FCC ID Filings — [RF and Weather Sealing Documentation for Consumer Hardware](https://www.fcc.gov/oet/ea/fccid)
 - Ubiquiti — Ethernet Surge Protector (ETH-SP-G2) Data Sheet

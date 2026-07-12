@@ -140,7 +140,7 @@ Preparing your [smart locks](https://quvii.com/learn/best-smart-locks-apple-home
 
 ### Stay Updated on Power Solutions
 
-The smart home industry is rapidly evolving. Keep an eye on new technologies that aim to enhance power resilience. This includes developments in wireless power retrofit kits, such as those from Wi-Charge, which can potentially provide continuous power to smart locks without traditional batteries. Similarly, advancements in solar-powered smart locks or those with extended battery life are continuously being introduced, offering more robust options for buyers in 2026 and beyond.
+The smart home industry is rapidly evolving. Keep an eye on new technologies that aim to enhance power resilience. This includes developments in wireless power retrofit kits, such as those from Wi-Charge, which can potentially provide continuous power to [smart locks](https://quvii.com/learn/best-smart-locks-summer-travel-2026) without traditional batteries. Similarly, advancements in solar-powered smart locks or those with extended battery life are continuously being introduced, offering more robust options for buyers in 2026 and beyond.
 
 ## Frequently Asked Questions
 

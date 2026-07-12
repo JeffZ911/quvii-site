@@ -66,7 +66,7 @@ Eufy has positioned itself as the "Anti-Ring." While brands like Ring and Arlo o
 
 ### Impact on the DIY Smart Home Ecosystem
 
-The recurring issues with Eufy have led to a shift in community recommendations. In 2023 and 2024, Eufy was a top-tier recommendation for Home Assistant users. In 2026, the sentiment has cooled. Buyers are increasingly looking toward brands like Reolink, which offers an official Home Assistant integration and supports standard protocols like ONVIF and RTSP more reliably.
+The recurring issues with Eufy have led to a shift in community recommendations. In 2023 and 2024, Eufy was a top-tier recommendation for [Home Assistant](https://quvii.com/blog/eufy-security-push-notifications-failing-home-assistant-20260712) users. In 2026, the sentiment has cooled. Buyers are increasingly looking toward brands like Reolink, which offers an official Home Assistant integration and supports standard protocols like ONVIF and RTSP more reliably.
 
 #### D1: Comparison of Integration Stability and Requirements (July 2026)
 

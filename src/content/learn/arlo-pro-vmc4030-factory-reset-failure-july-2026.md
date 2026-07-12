@@ -41,7 +41,7 @@ In July 2026, [Arlo Pro](https://quvii.com/learn/arlo-pro-5s-2k-night-vision-stu
 *Related: [Home Assistant Alexa Media Player Broken in 2026? Fixes & Alternatives](/learn/home-assistant-alexa-media-player-broken-2026-fixes) · [Ring Stick Up Cam Solar Charging Issues: 2026 Troubleshooting Guide](/learn/ring-stick-up-cam-solar-charging-issues-2026) · [Blink Outdoor 4 Motion Detection Delay: What You Need to Know](/learn/blink-outdoor-4-motion-detection-delay)*
 
 
-The Arlo Pro (VMC4030) is a legacy 720p device that reached official End-of-Life (EOL) on April 1, 2023, according to Arlo’s published EOL policy. While these cameras were designed to function beyond that date, the "factory reset failure" appearing in July 2026 represents a critical breakdown in the handshake between the aging hardware and the modern Arlo Secure cloud infrastructure.
+The [Arlo Pro](https://quvii.com/learn/arlo-pro-5s-2k-night-vision-stuck-on) (VMC4030) is a legacy 720p device that reached official End-of-Life (EOL) on April 1, 2023, according to Arlo’s published EOL policy. While these cameras were designed to function beyond that date, the "factory reset failure" appearing in July 2026 represents a critical breakdown in the handshake between the aging hardware and the modern Arlo Secure cloud infrastructure.
 
 A factory reset failure on this specific model typically manifests in two ways:
 1.  **The Discovery Loop:** The camera enters sync mode (blinking blue), but the Arlo Secure app fails to "discover" the device during the pairing process.

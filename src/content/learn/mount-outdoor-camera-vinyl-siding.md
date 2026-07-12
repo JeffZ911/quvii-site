@@ -107,7 +107,7 @@ A professional mounting block (like the Arlington 8141F) works by replacing a sm
 | **[Blink Outdoor 4](https://quvii.com/learn/blink-outdoor-4-battery-life-extreme-heat)** | ~0.2 lbs | Battery | Standard Clip |
 | **Eufy SoloCam S340** | ~1.4 lbs | Solar/Battery | Heavy-Duty Clip |
 | **[Reolink Argus](https://quvii.com/blog/reolink-argus-4-pro-firmware-update-issues) Track** | ~1.1 lbs | Battery | Dual-Hook Clip |
-| **Arlo Pro 5S 2K** | ~0.7 lbs | Battery | Standard Clip |
+| **[Arlo Pro 5S](https://quvii.com/learn/arlo-pro-5s-2k-night-vision-stuck-on) 2K** | ~0.7 lbs | Battery | Standard Clip |
 | **Ring Spotlight Cam Pro** | ~1.2 lbs | Wired/Battery | Reinforced Clip or Block |
 | **Reolink RLC-823A (PTZ)** | ~4.5 lbs | PoE | Arlington 8141F Block |
 

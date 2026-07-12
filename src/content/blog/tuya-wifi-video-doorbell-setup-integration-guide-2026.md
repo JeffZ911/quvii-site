@@ -128,7 +128,7 @@ Once connected, immediately adjust these three settings:
 ### Integrating with Smart Home Ecosystems
 *   **Alexa/Google Home:** Within the Tuya app, go to **"Me"** > **"Third-Party Voice Services."** Link your account. You can then say, "Alexa, show me the front door" on an Echo Show.
 *   **Home Assistant:** Use the official Tuya integration. In 2026, this requires scanning a QR code in the Home Assistant dashboard using the Tuya app, which automatically imports all compatible sensors and the video stream.
-*   **Matter:** For Matter-certified Tuya doorbells, locate the Matter QR code on the device body or in the app's device info. Scan this within your Apple Home or Google Home app to add it as a native device.
+*   **Matter:** For Matter-certified Tuya doorbells, locate the Matter QR code on the device body or in the app's device info. Scan this within your Apple Home or Google [Home app](https://quvii.com/blog/apple-intelligence-home-app-security-features-20260711) to add it as a native device.
 
 ### Solving Common Setup and Notification Problems
 

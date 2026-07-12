@@ -95,7 +95,7 @@ The bug manifests differently depending on the hardware generation:
 *   **Standalone Wi-Fi Cameras (SoloCams):** These devices are experiencing "ghost events," where the camera records motion to the internal eMMC or SD card, but the push notification is never generated at the server level.
 
 ### Third-Party Integration Failures
-For smart home enthusiasts, the bug has reached beyond the Eufy Security app. Integrations with **Home Assistant**, **Homey**, and **Hubitat** rely on intercepting these [push notifications](https://quvii.com/blog/eufy-security-push-notifications-failing-home-assistant-20260712) to trigger automations. When the "Device Event" channel went silent or changed its ID structure, these integrations broke. 
+For smart home enthusiasts, the bug has reached beyond the Eufy Security app. Integrations with **[Home Assistant](https://quvii.com/blog/eufy-security-push-notifications-failing-home-assistant-20260712)**, **Homey**, and **Hubitat** rely on intercepting these [push notifications](https://quvii.com/blog/eufy-security-push-notifications-failing-home-assistant-20260712) to trigger automations. When the "Device Event" channel went silent or changed its ID structure, these integrations broke. 
 
 Users who rely on their Eufy cameras to turn on outdoor floodlights or trigger an indoor siren have found their automations non-functional. According to community reports on r/EufyCam, the "event_type" 3102 (motion) is no longer being broadcast to the local API in the same format, requiring a manual update to the integration drivers.
 
@@ -145,7 +145,7 @@ The June 2026 Eufy push channel bug is a reminder that in the world of consumer 
 This is usually caused by the smartphone operating system assigning the Eufy "Device Event" channel to a "Silent" priority. This often happens after a major app or backend update. You can fix this by going into your phone's App Settings, finding Notification Categories, and manually changing "Motion" or "Device Events" to "Alerting."
 
 ### What is the Eufy 'MegaTransition' update?
-The "MegaTransition" is a 2026 backend update designed to unify Eufy's various product lines (cameras, vacuums, and sensors) into a single communication protocol. While intended to improve speed, it caused a temporary mismatch in how push notifications are identified by Android and iOS devices.
+The "MegaTransition" is a 2026 backend update designed to unify Eufy's various product lines (cameras, vacuums, and sensors) into a single communication protocol. While intended to improve speed, it caused a temporary mismatch in how [push notifications](https://quvii.com/blog/eufy-security-push-notifications-failing-home-assistant-20260712) are identified by Android and iOS devices.
 
 ### Does Eufy require a subscription for notifications to work?
 No, Eufy does not require a subscription for basic text-based push notifications. However, they do offer a "Plus" subscription for "Rich Notifications" (which include a thumbnail image). The current silent notification bug affects both free and paid users because it is an architectural issue, not a subscription gating issue.

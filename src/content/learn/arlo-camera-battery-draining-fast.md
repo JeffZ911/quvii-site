@@ -165,7 +165,7 @@ If you are currently facing fast battery depletion, follow this prioritization l
 
 ## Sources
 - Arlo Official Support — <a href="https://www.amazon.com/s?k=Optimizing+Arlo+Battery+Life&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Optimizing Arlo Battery Life</a>
-- RTINGS — Wireless Security Camera Power Consumption Tests
+- RTINGS — [Wireless Security](https://quvii.com/learn/best-wireless-security-cameras-for-renters-2026) Camera Power Consumption Tests
 - Arlo Community — [Battery Drain Discussion & Benchmarks](https://community.arlo.com/t5/Arlo-Pro-5/Battery-Draining-Extremely-Fast/td-p/1913456)
 - FCC ID Search — [Arlo Technologies RF Exposure & Power Output Filings](https://apps.fcc.gov/oetcf/eas/reports/GenericSearch.cfm)
 - The Verge — The Reality of 4K Wireless Camera Battery Life
