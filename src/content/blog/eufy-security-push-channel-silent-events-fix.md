@@ -56,7 +56,7 @@ This specific audio string appears to be a residual asset from Anker’s (Eufy�
 ![Why it matters for buyers](/img/eufy-security-push-channel-silent-events-fix/inline-2.webp)
 
 
-For a prospective buyer, the "silent push" bug highlights a critical trade-off in the Eufy ecosystem. Eufy’s primary selling point is its "no-subscription" model, which relies on local processing and local storage. However, as this June 2026 incident demonstrates, even a "local-first" system remains tethered to the manufacturer’s cloud for the delivery of push notifications.
+For a prospective buyer, the "silent push" bug highlights a critical trade-off in the Eufy ecosystem. Eufy’s primary selling point is its "no-subscription" model, which relies on local processing and local storage. However, as this June 2026 incident demonstrates, even a "local-first" system remains tethered to the manufacturer’s cloud for the delivery of [push notifications](https://quvii.com/blog/eufy-security-push-notifications-failing-home-assistant-20260712).
 
 Reliability is the fundamental metric of any security product. When a software regression silences alerts, the camera’s proactive value drops to zero. Buyers looking at the [S380 HomeBase 3](https://www.eufy.com/products/t80301d1) or the latest dual-lens models must weigh the cost savings of no monthly fees against the potential for software instability during major ecosystem updates.
 

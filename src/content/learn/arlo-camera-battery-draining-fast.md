@@ -77,7 +77,7 @@ Arlo cameras use PIR sensors that look for changes in heat. In 2026, while AI fi
 *   **Reflective Surfaces:** Sunlight reflecting off a swimming pool or a car windshield can trick the PIR sensor into thinking there is motion, leading to "phantom" triggers.
 
 ### Wi-Fi 6 and Dual-Band Trade-offs
-The newer Arlo Pro 6 and Ultra 3 models support dual-band Wi-Fi (2.4GHz and 5GHz). While 5GHz offers faster speeds for 4K streaming, it has significantly worse wall penetration. A camera connected to 5GHz through two walls will drain its battery much faster than one connected to 2.4GHz, as it struggles to maintain a stable link.
+The newer [Arlo Pro](https://quvii.com/learn/arlo-pro-5s-2k-night-vision-stuck-on) 6 and Ultra 3 models support dual-band Wi-Fi (2.4GHz and 5GHz). While 5GHz offers faster speeds for 4K streaming, it has significantly worse wall penetration. A camera connected to 5GHz through two walls will drain its battery much faster than one connected to 2.4GHz, as it struggles to maintain a stable link.
 
 ## How it works under the hood
 

@@ -22,7 +22,7 @@ inline_image_sections:
   - "What to do now"
 ---
 
-For homeowners who invested heavily in the "Works with Nest" ecosystem a decade ago, the transition to the Google Home app has been a slow and often frustrating journey. As of mid-2026, that journey has reached its final destination, leaving legacy hardware owners with critical decisions to make regarding their home security and automation.
+For homeowners who invested heavily in the "Works with Nest" ecosystem a decade ago, the transition to the Google [Home app](https://quvii.com/blog/apple-intelligence-home-app-security-features-20260711) has been a slow and often frustrating journey. As of mid-2026, that journey has reached its final destination, leaving legacy hardware owners with critical decisions to make regarding their home security and automation.
 
 # Is the Google Nest App Still Working in 2026? Everything You Need to Know
 

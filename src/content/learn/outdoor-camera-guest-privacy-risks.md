@@ -31,7 +31,7 @@ As outdoor gatherings and backyard stays peak during the summer months, the pres
 
 # Outdoor Security Cameras and Summer Guests: Navigating Privacy Risks
 
-**Quick Answer:** Outdoor security cameras can pose privacy risks to summer guests, primarily through unintended video and audio recording in areas where guests expect privacy, and through potential data sharing practices of camera manufacturers. Homeowners should prioritize camera placement, utilize privacy zones, disable audio recording where legally required, and understand their camera's data retention and sharing policies to protect guest privacy.
+**Quick Answer:** Outdoor security cameras can pose privacy risks to [summer guests](https://quvii.com/learn/ring-doorbell-privacy-settings-summer-guests), primarily through unintended video and audio recording in areas where guests expect privacy, and through potential data sharing practices of camera manufacturers. Homeowners should prioritize camera placement, utilize privacy zones, disable audio recording where legally required, and understand their camera's data retention and sharing policies to protect guest privacy.
 
 ## What it means
 

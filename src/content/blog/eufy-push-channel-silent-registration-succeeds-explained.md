@@ -94,7 +94,7 @@ Compounding the API issues, Eufy released [Firmware v3](https://quvii.com/learn/
 Affected models currently include:
 *   **[SoloCam S340](https://quvii.com/learn/reolink-argus-4-pro-vs-eufy-solocam-s340):** Experiencing notification delays up to 10 seconds.
 *   **HomeBase 3 (S380):** Central hub for the "silent registration" and storage bugs.
-*   **E340 [Video Doorbell](https://quvii.com/blog/tuya-wifi-video-doorbell-setup-integration-guide-2026):** Failing to trigger mechanical chimes when the cloud push channel is unstable.
+*   **E340 [Video Doorbell](https://quvii.com/blog/tuya-wifi-video-doorbell-setup-integration-guide-2026):** Failing to trigger mechanical chimes when the cloud [push channel](https://quvii.com/blog/eufy-security-push-channel-silent-events-fix) is unstable.
 
 ## What to do now
 

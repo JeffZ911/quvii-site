@@ -84,7 +84,7 @@ The technical differences between these devices dictate their optimal placement.
 ### Field of View and Specialized Coverage
 Doorbell cameras often prioritize a "head-to-toe" Field of View (FOV). For example, the <a href="https://www.amazon.com/s?k=Ring+Battery+Doorbell+Pro&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Ring Battery Doorbell Pro</a> uses a 150° x 150° FOV. This square aspect ratio is critical because it allows the user to see both the face of a tall visitor and a package placed on the floor simultaneously. 
 
-Large [outdoor cameras](https://quvii.com/learn/outdoor-camera-guest-privacy-risks), such as the <a href="https://www.amazon.com/s?k=Arlo+Pro+5S+2K&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Arlo Pro 5S 2K</a>, typically utilize a 16:9 widescreen FOV. This is optimized for horizontal coverage, allowing a single camera to monitor the entire width of a two-car driveway or a wide backyard.
+Large [outdoor cameras](https://quvii.com/learn/outdoor-camera-guest-privacy-risks), such as the <a href="https://www.amazon.com/s?k=Arlo+Pro+5S+2K&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">[Arlo Pro 5S](https://quvii.com/learn/arlo-pro-5s-2k-night-vision-stuck-on) 2K</a>, typically utilize a 16:9 widescreen FOV. This is optimized for horizontal coverage, allowing a single camera to monitor the entire width of a two-car driveway or a wide backyard.
 
 ### Powering Your Surveillance: Wired vs. Wireless Options
 *   **Doorbells:** Most are designed to tap into existing 16-24V AC doorbell transformers. If no wiring exists, battery-powered models are common, though they often suffer from "lag" (latency) between a motion event and the start of recording.
@@ -174,7 +174,7 @@ The recommended height is 8 to 10 feet. This is high enough to be out of reach f
 - <a href="https://www.amazon.com/s?k=Eufy+Video+Doorbell+E340+Product+Page&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Eufy Video Doorbell E340 Product Page</a> — Manufacturer specifications for dual-camera systems.
 - Ring Battery Doorbell Pro Specs — Official FOV and radar detection data.
 - Reolink Altas PT Ultra Documentation — Technical details on 4K continuous battery recording and IR range.
-- <a href="https://www.amazon.com/s?k=Arlo+Pro+5S+2K+Features&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Arlo Pro 5S 2K Features</a> — Details on wide-angle FOV and night vision capabilities.
+- <a href="https://www.amazon.com/s?k=Arlo+Pro+5S+2K+Features&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Arlo [Pro 5S 2K](https://quvii.com/learn/arlo-pro-5s-2k-night-vision-stuck-on) Features</a> — Details on wide-angle FOV and night vision capabilities.
 - RTINGS - Best Video Doorbells — Independent testing data on resolution and latency.
 
 *Quvii tracks these trade-offs across the category to help users build resilient, privacy-focused surveillance systems.*

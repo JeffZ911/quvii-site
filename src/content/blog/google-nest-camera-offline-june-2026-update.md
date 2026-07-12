@@ -161,5 +161,5 @@ Most modern Nest Cams have a small amount of internal memory that can record up 
 - [Google Nest](https://quvii.com/blog/google-nest-cam-familiar-faces-june-2026-update) Support
 - 9to5Google: Nest App Outage Reports — https://9to5google.com/
 - Google Safety Center: Privacy & Data — https://safety.google/privacy/data/
-- PCMag: Google Home App Gemini Integration — https://www.pcmag.com/
+- PCMag: Google [Home App](https://quvii.com/blog/apple-intelligence-home-app-security-features-20260711) Gemini Integration — https://www.pcmag.com/
 - Android Authority: Nest Community Forum Shutdown Notice — https://www.androidauthority.com/

@@ -47,7 +47,7 @@ The current instability is not a single point of failure but a sequence of regre
 
 The root cause of these issues often lies in Eufy’s transition toward more aggressive cloud-side encryption and changes to their P2P (Peer-to-Peer) communication protocols. Since the `eufy_security` integration essentially "emulates" a mobile phone to talk to Eufy’s servers, any change in how the Eufy app authenticates can break the bridge.
 
-Furthermore, Eufy’s firmware updates are often mandatory and silent. When a HomeBase 3 (S380) receives a firmware update to improve "BionicMind" AI accuracy, it may inadvertently change the way the device handles RTSP (Real-Time Streaming Protocol) streams or local event notifications, which the Home Assistant integration relies on for real-time updates.
+Furthermore, Eufy’s firmware updates are often mandatory and silent. When a HomeBase 3 (S380) receives a firmware update to improve "BionicMind" AI accuracy, it may inadvertently change the way the device handles RTSP (Real-Time Streaming Protocol) streams or local event notifications, which the [Home Assistant](https://quvii.com/blog/eufy-security-push-notifications-failing-home-assistant-20260712) integration relies on for real-time updates.
 
 ## Why it matters for buyers
 

@@ -27,7 +27,7 @@ inline_image_sections:
   - "Further reading"
 ---
 
-Owners of the original Arlo Pro (VMC4030) are increasingly finding themselves locked out of their hardware as the camera enters its third year of official "End-of-Life" status. If your legacy camera has suddenly dropped offline and refuses to re-sync, you are likely encountering the widespread server-side registration errors reported throughout the summer of 2026.
+Owners of the original [Arlo Pro](https://quvii.com/learn/arlo-pro-5s-2k-night-vision-stuck-on) (VMC4030) are increasingly finding themselves locked out of their hardware as the camera enters its third year of official "End-of-Life" status. If your legacy camera has suddenly dropped offline and refuses to re-sync, you are likely encountering the widespread server-side registration errors reported throughout the summer of 2026.
 
 # Arlo Pro VMC4030 Factory Reset Failure: Why Your Legacy Camera Won't Sync in 2026
 
@@ -127,7 +127,7 @@ If you cannot resolve the reset failure on your VMC4030, you face several immedi
 Running EOL hardware in 2026 is a calculated risk. The VMC4030 relies on WPA2 encryption protocols that have not been patched since 2023. While your Base Station may receive updates, the "last mile" of wireless communication between the camera and the hub is potentially vulnerable to exploits discovered in the last three years. 
 
 ### The "Brick" Risk and E-Waste
-If a VMC4030 fails to re-sync after a reset, it becomes a "brick." There is no local-only mode for these cameras; they cannot be used as standalone webcams or integrated into third-party NVRs (Network Video Recorders) without a successful Arlo cloud handshake. Arlo support typically does not offer repairs for EOL hardware; instead, they offer a "loyalty discount" on new hardware, usually in the **$150-200 range** for a Pro 5S kit.
+If a VMC4030 fails to re-sync after a reset, it becomes a "brick." There is no local-only mode for these cameras; they cannot be used as standalone webcams or integrated into third-party NVRs (Network Video Recorders) without a successful Arlo cloud handshake. Arlo support typically does not offer repairs for EOL hardware; instead, they offer a "loyalty discount" on new hardware, usually in the **$150-200 range** for a [Pro 5S](https://quvii.com/learn/arlo-pro-5s-2k-night-vision-stuck-on) kit.
 
 ### Subscription Loss: The "Grandfathered" Trap
 This is the most critical implication for long-term users. The VMC4030 is prized for its "Free 7-Day Cloud Storage." However, many users report that after a successful (but difficult) re-sync in 2026, the Arlo app prompts them to "Upgrade to Arlo Secure." In some cases, the act of re-adding the camera triggers a change in account status that can inadvertently void your grandfathered free storage, forcing you into a monthly paid plan.

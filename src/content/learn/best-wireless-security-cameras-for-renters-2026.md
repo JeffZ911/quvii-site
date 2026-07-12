@@ -73,7 +73,7 @@ In 2024 and 2025, major players like Ring, Nest, and Arlo implemented successive
 With more US households renting for longer periods, the demand for portable, high-end security has peaked. Renters are no longer looking for "disposable" tech; they want systems that can move from a garden apartment to a high-rise condo without needing professional re-installation. This has incentivized manufacturers to build premium features—like 4K sensors and dual-lens stitching—into battery-powered units that were previously reserved for wired pro-sumer models.
 
 ### Hardware Maturation
-The technical limitations of 2020-era battery cameras—namely laggy wake-up times and poor night vision—have been solved by 2026 hardware. Wi-Fi 6 (802.11ax) allows these cameras to maintain high-bitrate 4K streams with lower power consumption, while improved battery chemistries allow for six to twelve months of operation on a single charge in moderate traffic areas.
+The technical limitations of 2020-era battery cameras—namely laggy wake-up times and poor [night vision](https://quvii.com/learn/arlo-pro-5s-2k-night-vision-stuck-on)—have been solved by 2026 hardware. Wi-Fi 6 (802.11ax) allows these cameras to maintain high-bitrate 4K streams with lower power consumption, while improved battery chemistries allow for six to twelve months of operation on a single charge in moderate traffic areas.
 
 ### 2026 Subscription Cost Comparison (Annual)
 

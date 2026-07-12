@@ -74,7 +74,7 @@ The financial stakes have risen. While a typical fine might start at around $25 
 ### Choosing Cameras for HOA Environments
 To minimize conflict, buyers are shifting toward "discreet-first" hardware. Cameras that sit flush against the glass or those with ultra-slim profiles are less likely to trigger an aesthetic complaint. 
 
-**Window-Friendly Camera Comparison (2026 Specs)**
+**Window-Friendly [Camera Comparison](https://quvii.com/learn/eufy-vs-wyze-budget-security-camera-comparison) (2026 Specs)**
 
 | Model | Resolution | Storage Type | 2026 Sub Cost (Year) | Key HOA Benefit |
 | :--- | :--- | :--- | :--- | :--- |

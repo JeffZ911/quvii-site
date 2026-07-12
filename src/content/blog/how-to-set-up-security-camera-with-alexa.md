@@ -98,7 +98,7 @@ As of March 2025, Amazon updated its [privacy policy](https://quvii.com/learn/eu
 
 ### Band Steering and Wi-Fi Conflicts
 
-While the latest Echo devices support <a href="https://www.amazon.com/s?k=Wi-Fi+6E&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Wi-Fi 6E</a>, many older or budget security cameras are restricted to the 2.4GHz band. If your Echo Show cannot find the camera during discovery, your router's "Band Steering" might be forcing the camera onto a frequency it cannot handle. Temporarily disabling the 5GHz and 6GHz bands in your router settings can help the initial handshake.
+While the latest Echo devices support <a href="https://www.amazon.com/s?k=Wi-Fi+6E&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Wi-Fi 6E</a>, many older or [budget security](https://quvii.com/learn/eufy-vs-wyze-budget-security-camera-comparison) cameras are restricted to the 2.4GHz band. If your Echo Show cannot find the camera during discovery, your router's "Band Steering" might be forcing the camera onto a frequency it cannot handle. Temporarily disabling the 5GHz and 6GHz bands in your router settings can help the initial handshake.
 
 ### The "Camera Doesn't Support That" Error
 

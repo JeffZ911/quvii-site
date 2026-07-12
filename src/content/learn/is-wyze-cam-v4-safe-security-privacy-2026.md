@@ -127,7 +127,7 @@ The Wyze Cam v4 supports Wi-Fi 6 (802.11ax) on the 2.4GHz band for network conne
 ![Real-world implications for Wyze Cam v4 users](/img/is-wyze-cam-v4-safe-security-privacy-2026/inline-4.webp)
 
 
-Understanding the technical security features of the Wyze Cam v4 is only part of the equation. Real-world safety also heavily depends on user practices and a clear understanding of Wyze's operational policies.
+Understanding the technical [security features](https://quvii.com/blog/apple-intelligence-home-app-security-features-20260711) of the Wyze Cam v4 is only part of the equation. Real-world safety also heavily depends on user practices and a clear understanding of Wyze's operational policies.
 
 ### Your Role in Maintaining Security
 
