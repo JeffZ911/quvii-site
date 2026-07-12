@@ -31,7 +31,7 @@ Owners of the original [Arlo Pro](https://quvii.com/learn/arlo-pro-5s-2k-night-v
 
 # Arlo Pro VMC4030 Factory Reset Failure: Why Your Legacy Camera Won't Sync in 2026
 
-In July 2026, Arlo Pro (VMC4030) reset failures are caused by a server-side serial number error or the lack of a physical reset button. To reset, "Remove" the device in the Arlo app and re-sync to your VMB4000/4500 base station.
+In July 2026, [Arlo Pro](https://quvii.com/learn/arlo-pro-5s-2k-night-vision-stuck-on) (VMC4030) reset failures are caused by a server-side serial number error or the lack of a physical reset button. To reset, "Remove" the device in the Arlo app and re-sync to your VMB4000/4500 base station.
 
 ## What it means
 

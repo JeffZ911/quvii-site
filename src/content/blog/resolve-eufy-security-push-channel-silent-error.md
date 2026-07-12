@@ -62,7 +62,7 @@ Owners experiencing this error typically report the following symptoms:
 ![Why it matters for buyers](/img/resolve-eufy-security-push-channel-silent-error/inline-2.webp)
 
 
-For prospective buyers, the reliability of push notifications is the "last mile" of security. Eufy markets itself as a "local-first" brand, appealing to those who want to avoid monthly fees. However, the delivery of notifications is one of the few areas where Eufy remains strictly cloud-dependent.
+For prospective buyers, the reliability of [push notifications](https://quvii.com/blog/eufy-security-push-notifications-failing-home-assistant-20260712) is the "last mile" of security. Eufy markets itself as a "local-first" brand, appealing to those who want to avoid monthly fees. However, the delivery of notifications is one of the few areas where Eufy remains strictly cloud-dependent.
 
 ### The Trust Gap in DIY Security
 When a camera detects an intruder but fails to wake the homeowner, the hardware's 4K resolution or BionicMind AI becomes irrelevant. The "silent error" highlights a fundamental vulnerability in the DIY security ecosystem: the reliance on third-party mobile operating systems (Google and Apple) to deliver critical safety information. Brands like Ring and Arlo have historically invested heavily in "Critical Alert" API integrations, which can bypass system mutes. Eufy has traditionally relied on standard notification channels, which are more susceptible to being silenced by OS-level "battery optimization" or "notification decluttering" algorithms.
@@ -110,7 +110,7 @@ The most effective fix for Android users involves forcing the OS to recognize Eu
 
 1.  **Open System Settings:** Go to **Settings > Apps > See all apps > Eufy Security**.
 2.  **Notification Categories:** Tap on **Notifications**. Ensure the top toggle is "On."
-3.  **Identify the Category:** Scroll down to the "Categories" section. You will likely see "eufy motion," "General," or "Default." (Note: "Push Channel" is not a UI label; look for the motion-specific categories).
+3.  **Identify the Category:** Scroll down to the "Categories" section. You will likely see "eufy motion," "General," or "Default." (Note: "[Push Channel](https://quvii.com/blog/eufy-security-push-channel-silent-events-fix)" is not a UI label; look for the motion-specific categories).
 4.  **Change to Alerting:** Tap the *text* of the category (not the toggle). Change the setting from "Silent" to **"Alerting."**
 5.  **Set Sound:** Tap "Sound" and manually select a distinct notification tone. If it says "None" or "Default," the OS may not play a sound even if "Alerting" is selected.
 6.  **Override Do Not Disturb:** If available, toggle on "Override Do Not Disturb" for critical cameras (e.g., front door).

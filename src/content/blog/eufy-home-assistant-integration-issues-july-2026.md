@@ -62,7 +62,7 @@ Eufy has positioned itself as the "Anti-Ring." While brands like Ring and Arlo o
 
 ### The Role of Home Assistant in Local Control
 
-Home Assistant serves as the "brain" that allows different brands to talk to one another. A buyer might want their Eufy camera to trigger a Lutron light switch or a Sonos announcement. When this integration breaks, the "smart" home reverts to a collection of "siloed" apps. This instability undermines the reason many DIY users chose Eufy over more expensive, officially supported systems like UniFi Protect.
+[Home Assistant](https://quvii.com/blog/eufy-security-push-notifications-failing-home-assistant-20260712) serves as the "brain" that allows different brands to talk to one another. A buyer might want their Eufy camera to trigger a Lutron light switch or a Sonos announcement. When this integration breaks, the "smart" home reverts to a collection of "siloed" apps. This instability undermines the reason many DIY users chose Eufy over more expensive, officially supported systems like UniFi Protect.
 
 ### Impact on the DIY Smart Home Ecosystem
 

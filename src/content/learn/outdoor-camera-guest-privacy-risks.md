@@ -116,7 +116,7 @@ In the United States, video recording in outdoor public-facing areas is generall
 | Washington | All-Party | Wash. Rev. Code § 9.73.030 |
 
 ### Impact on Guest Comfort and Relationships
-Visible cameras can create a "chilling effect" on social interactions. Guests may feel uncomfortable discussing personal matters, wearing swimwear, or acting naturally if they know they are being recorded. This is particularly sensitive for long-term summer guests or renters. Transparency—disclosing the location of cameras and the fact that they record audio—is the foundation of maintaining trust.
+Visible cameras can create a "chilling effect" on social interactions. Guests may feel uncomfortable discussing personal matters, wearing swimwear, or acting naturally if they know they are being recorded. This is particularly sensitive for long-term [summer guests](https://quvii.com/learn/ring-doorbell-privacy-settings-summer-guests) or renters. Transparency—disclosing the location of cameras and the fact that they record audio—is the foundation of maintaining trust.
 
 ### The Risk of Data Exposure
 Any data stored in the cloud is at risk of a breach. In recent years, several major camera brands have faced scrutiny over vulnerabilities that allowed unauthorized access to live feeds. While 2026 standards have improved, local storage remains the most effective way to eliminate the risk of a centralized cloud hack exposing guest footage.

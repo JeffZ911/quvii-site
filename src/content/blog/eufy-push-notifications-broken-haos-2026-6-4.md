@@ -173,7 +173,7 @@ Yes. The [Video Doorbell](https://quvii.com/blog/tuya-wifi-video-doorbell-setup-
 
 ## Sources
 - Eufy Security Official Support — [https://support.eufy.com/s/](https://support.eufy.com/s/)
-- Home Assistant Core Release Notes 2026.6 — https://www.home-assistant.io/blog/
+- [Home Assistant](https://quvii.com/blog/eufy-security-push-notifications-failing-home-assistant-20260712) Core Release Notes 2026.6 — https://www.home-assistant.io/blog/
 - Eufy-Security-WS GitHub Repository (bropat) — [https://github.com/bropat/eufy-security-ws](https://github.com/bropat/eufy-security-ws)
 - Python 3.14 Changelog Documentation — https://docs.python.org/3.14/whatsnew/3.14.html
 - Eufy Privacy Policy and Data Handling — [https://www.eufy.com/privacy-policy](https://www.eufy.com/privacy-policy)

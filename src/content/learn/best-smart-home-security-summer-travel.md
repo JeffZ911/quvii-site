@@ -130,7 +130,7 @@ Travelers often focus on *recording* a crime, but 2026 systems focus on *deterre
 A frequent misunderstanding is that without a subscription, you cannot view your cameras while away. This is false. In 2026, almost all local-storage brands use P2P (Peer-to-Peer) technology to "tunnel" a secure connection from your phone directly to your camera. Whether you are in London or Los Angeles, you can view live 4K feeds and playback recorded clips for free, provided your home system has an internet connection.
 
 ### The Truth About Battery Life and 24/7 Recording
-Until recently, battery cameras only recorded when they "felt" motion. This often led to missed events if the sensor was slow to wake up. As of 2026, models like the Altas PT Ultra have solved this through high-capacity batteries and ultra-low-power chipsets. However, for most users, "Event-Based" recording is still the most efficient choice for summer travel, as it extends the hardware lifespan and simplifies the review of footage.
+Until recently, battery cameras only recorded when they "felt" motion. This often led to missed events if the sensor was slow to wake up. As of 2026, models like the Altas PT Ultra have solved this through high-capacity batteries and ultra-low-power chipsets. However, for most users, "Event-Based" recording is still the most efficient choice for [summer travel](https://quvii.com/learn/best-smart-locks-summer-travel-2026), as it extends the hardware lifespan and simplifies the review of footage.
 
 ## Frequently Asked Questions
 

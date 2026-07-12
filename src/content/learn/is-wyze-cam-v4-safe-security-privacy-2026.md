@@ -180,7 +180,7 @@ Making an informed decision about the Wyze Cam v4's safety involves aligning its
 *   **If you are concerned about physical theft (e.g., outdoor use, accessible indoor locations):** Prioritize secure, tamper-resistant mounting for your Wyze Cam v4. Consider placing it out of easy reach. Understand that even with local storage, a stolen camera means lost footage and potential re-registration by a thief.
 *   **If you rely heavily on cloud features (e.g., event recording, AI detection, remote access):** Ensure strong account security, including a unique password and mandatory two-factor authentication. Regularly review Wyze's privacy policy and adjust data-sharing preferences to your comfort level.
 *   **If you have multiple users accessing the camera:** Carefully manage shared access permissions within the Wyze app. Educate all users on strong password practices and the importance of 2FA. Understand that shared users have limited control, which can be a security benefit.
-*   **If you are on a tight budget but need reliable security features:** The Wyze Cam v4 offers a good balance of core security features (encryption, 2FA) at a competitive price point. Be prepared to potentially pay for a Wyze Cam Plus subscription to unlock all features, which impacts the total cost of ownership.
+*   **If you are on a tight budget but need reliable [security features](https://quvii.com/blog/apple-intelligence-home-app-security-features-20260711):** The Wyze Cam v4 offers a good balance of core security features (encryption, 2FA) at a competitive price point. Be prepared to potentially pay for a Wyze Cam Plus subscription to unlock all features, which impacts the total cost of ownership.
 
 ## Total Cost of Ownership (TCO) for Wyze Cam v4
 

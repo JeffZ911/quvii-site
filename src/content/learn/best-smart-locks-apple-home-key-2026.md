@@ -53,7 +53,7 @@ While many locks are "HomeKit compatible" (meaning they show up in the Home app)
 ![Why it exists](/img/best-smart-locks-apple-home-key-2026/inline-2.webp)
 
 
-The emergence of Home Key is a direct response to the "app fatigue" and reliability issues that plagued early smart home adopters. Before 2021, most smart locks required users to fumble with third-party apps that often failed to connect quickly, or they relied on geofencing that could be inconsistent.
+The emergence of Home Key is a direct response to the "app fatigue" and reliability issues that plagued early smart home adopters. Before 2021, most [smart locks](https://quvii.com/learn/best-smart-locks-summer-travel-2026) required users to fumble with third-party apps that often failed to connect quickly, or they relied on geofencing that could be inconsistent.
 
 ### The Evolution of Home Access
 Traditional keys are easily lost, stolen, or duplicated. While early smart locks solved the "lost key" problem with keypads, they introduced new vulnerabilities, such as cloud-dependency. If a manufacturer's server went down, remote access often failed. Apple developed Home Key to standardize the entry experience, ensuring that the "key" is as reliable as a credit card in a digital wallet.

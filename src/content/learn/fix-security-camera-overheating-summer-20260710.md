@@ -122,7 +122,7 @@ The following table compares the thermal operating ranges and key specs of popul
 | Model | Operating Temp Range | Max Resolution | Storage Options | Subscription Required? |
 | :--- | :--- | :--- | :--- | :--- |
 | **Reolink Argus 4 Pro** | -14°F to 131°F | 4K (Dual Lens) | Local (microSD) | No |
-| **Arlo Pro 5S 2K** | -4°F to 113°F | 2K | Cloud / Local (Hub) | Yes (for AI) |
+| **[Arlo Pro 5S](https://quvii.com/learn/arlo-pro-5s-2k-night-vision-stuck-on) 2K** | -4°F to 113°F | 2K | Cloud / Local (Hub) | Yes (for AI) |
 | **eufyCam S330 (Cam 3)** | -4°F to 122°F | 4K | Local (HomeBase 3) | No |
 | **Ring Spotlight Cam Pro** | -5°F to 120°F | 1080p/1440p | Cloud | Yes |
 | **Nest Cam (Battery)** | -4°F to 104°F | 1080p | Cloud | Yes |

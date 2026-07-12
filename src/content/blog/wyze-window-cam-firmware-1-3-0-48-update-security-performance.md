@@ -48,7 +48,7 @@ It is important to clarify the hardware context: the "Wyze Window Cam" is not ty
 ![Why it matters for buyers](/img/wyze-window-cam-firmware-1-3-0-48-update-security-performance/inline-2.webp)
 
 
-For prospective buyers, the 1.3.0.48 update serves as a barometer for Wyze’s current operational health. In the budget security market, hardware is often sold at thin margins, and the long-term value is determined by the manufacturer's commitment to software maintenance.
+For prospective buyers, the 1.3.0.48 update serves as a barometer for Wyze’s current operational health. In the [budget security](https://quvii.com/learn/eufy-vs-wyze-budget-security-camera-comparison) market, hardware is often sold at thin margins, and the long-term value is determined by the manufacturer's commitment to software maintenance.
 
 ### Restoring the Value of Cam Plus
 Reliable event uploading is the literal "product" that Wyze sells through its Cam Plus subscription. Without consistent cloud uploads, features like Person Detection, Vehicle Alerts, and Package Detection—which are processed on Wyze’s servers—become non-functional. For a buyer looking at a camera in the $30–$50 range, the decision often hinges on whether the $2.99/month (approximate) subscription is worth the investment. This firmware fix ensures that the hardware can actually deliver the data required for those AI features to work [(<a href="https://www.amazon.com/s?k=Wyze+Cam+Plus+Features&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Wyze Cam Plus Features</a>)].

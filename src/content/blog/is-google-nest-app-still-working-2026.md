@@ -26,7 +26,7 @@ For homeowners who invested heavily in the "Works with Nest" ecosystem a decade 
 
 # Is the Google Nest App Still Working in 2026? Everything You Need to Know
 
-**Quick Answer:** In 2026, the Nest app is effectively deprecated. Gen 1/2 Thermostats lost support in Oct 2025. All Nest Cams (2015+) now require the Google Home app 'Public Preview' to access new Gemini 3.1 AI features and full history.
+**Quick Answer:** In 2026, the Nest app is effectively deprecated. Gen 1/2 Thermostats lost support in Oct 2025. All Nest Cams (2015+) now require the Google [Home app](https://quvii.com/blog/apple-intelligence-home-app-security-features-20260711) 'Public Preview' to access new Gemini 3.1 AI features and full history.
 
 ## What happened
 

@@ -88,7 +88,7 @@ Cloud dependency is the single largest security trade-off in the wireless catego
 ![How it works under the hood](/img/are-wireless-cameras-safe-from-hackers/inline-3.webp)
 
 
-Modern wireless security relies on layers of encryption to protect data as it travels from the camera lens to your smartphone screen.
+Modern [wireless security](https://quvii.com/learn/best-wireless-security-cameras-for-renters-2026) relies on layers of encryption to protect data as it travels from the camera lens to your smartphone screen.
 
 ### AES-256 vs. E2EE
 

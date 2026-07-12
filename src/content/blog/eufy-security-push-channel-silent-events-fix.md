@@ -95,7 +95,7 @@ The bug manifests differently depending on the hardware generation:
 *   **Standalone Wi-Fi Cameras (SoloCams):** These devices are experiencing "ghost events," where the camera records motion to the internal eMMC or SD card, but the push notification is never generated at the server level.
 
 ### Third-Party Integration Failures
-For smart home enthusiasts, the bug has reached beyond the Eufy Security app. Integrations with **Home Assistant**, **Homey**, and **Hubitat** rely on intercepting these push notifications to trigger automations. When the "Device Event" channel went silent or changed its ID structure, these integrations broke. 
+For smart home enthusiasts, the bug has reached beyond the Eufy Security app. Integrations with **Home Assistant**, **Homey**, and **Hubitat** rely on intercepting these [push notifications](https://quvii.com/blog/eufy-security-push-notifications-failing-home-assistant-20260712) to trigger automations. When the "Device Event" channel went silent or changed its ID structure, these integrations broke. 
 
 Users who rely on their Eufy cameras to turn on outdoor floodlights or trigger an indoor siren have found their automations non-functional. According to community reports on r/EufyCam, the "event_type" 3102 (motion) is no longer being broadcast to the local API in the same format, requiring a manual update to the integration drivers.
 

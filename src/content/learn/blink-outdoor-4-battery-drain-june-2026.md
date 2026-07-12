@@ -177,7 +177,7 @@ Lithium batteries have a very "flat" discharge curve. They maintain a steady vol
 Yes, you can use a weather-resistant USB-C power adapter. However, doing so disables the "battery backup" functionality in most configurations and may compromise the weather seal unless you use an official Blink-certified power kit.
 
 ### Does 'Night Vision' drain the battery faster?
-Yes. The Infrared (IR) LEDs required for night vision consume significantly more power than daytime recording. If your camera triggers frequently at night (e.g., due to moths or headlights), your battery life will be roughly 30% shorter than a camera that only triggers during daylight hours.
+Yes. The Infrared (IR) LEDs required for [night vision](https://quvii.com/learn/arlo-pro-5s-2k-night-vision-stuck-on) consume significantly more power than daytime recording. If your camera triggers frequently at night (e.g., due to moths or headlights), your battery life will be roughly 30% shorter than a camera that only triggers during daylight hours.
 
 ## Sources
 - Blink Support — Outdoor 4 Battery Life Expectations

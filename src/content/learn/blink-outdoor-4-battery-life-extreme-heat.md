@@ -140,7 +140,7 @@ For those looking to delve deeper into optimizing their security camera setup in
 | :------------------- | :----------------------------------------------- | :------------- |
 | **Resolution**       | 1080p HD                                         |      |
 | **Field of View**    | 143° diagonal                                    |      |
-| **Night Vision**     | Infrared (IR)                                    |      |
+| **[Night Vision](https://quvii.com/learn/arlo-pro-5s-2k-night-vision-stuck-on)**     | Infrared (IR)                                    |      |
 | **Operating Temp.**  | -4°F to 113°F (-20°C to 45°C)                    |      |
 | **Power Source**     | 2x AA 1.5V non-rechargeable Lithium batteries    |      |
 | **Advertised Battery Life** | Up to 2 years                                |   |
