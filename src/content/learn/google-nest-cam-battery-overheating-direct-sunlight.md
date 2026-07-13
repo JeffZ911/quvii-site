@@ -119,7 +119,7 @@ It is a common misconception that heat is the only enemy. The Nest Cam's thermal
 ![Real-world implications](/img/google-nest-cam-battery-overheating-direct-sunlight/inline-4.webp)
 
 
-For the end-user, an overheating camera is more than a technical nuisance; it is a security vulnerability.
+For the end-user, an overheating camera is more than a technical nuisance; it is a [security vulnerability](https://quvii.com/blog/ubiquiti-unifi-os-security-vulnerability-june-2026).
 
 ### Surveillance Gaps and Reliability
 

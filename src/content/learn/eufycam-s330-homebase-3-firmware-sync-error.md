@@ -104,7 +104,7 @@ Once the S330 verifies the file, it begins writing to its internal eMMC flash me
 ![Real-world implications](/img/eufycam-s330-homebase-3-firmware-sync-error/inline-4.webp)
 
 
-A sync error is more than a technical nuisance; it is a security vulnerability. While the S330 is stuck in a syncing state, the property is unmonitored.
+A sync error is more than a technical nuisance; it is a [security vulnerability](https://quvii.com/blog/ubiquiti-unifi-os-security-vulnerability-june-2026). While the S330 is stuck in a syncing state, the property is unmonitored.
 
 ### Loss of 4K and AI Functionality
 

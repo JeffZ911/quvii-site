@@ -113,7 +113,7 @@ The [Stick Up](https://quvii.com/learn/ring-stick-up-cam-solar-charging-issues-2
 The Stick [Up Cam](https://quvii.com/learn/ring-stick-up-cam-solar-charging-issues-2026) Pro’s 3D Motion Detection relies on radar, which is generally more stable than PIR in heat. However, the software that interprets those radar signals can lag if the processor is being throttled due to temperature. This can lead to delayed notifications—where you receive an alert after a person has already left the frame—or missed events entirely if the camera is in a "Cooldown" cycle when an intruder arrives.
 
 ### Warranty Considerations
-Ring’s [Limited Warranty](https://ring.com/warranty) covers "defects in materials and workmanship under normal use." While "normal use" includes being outdoors, the warranty typically excludes damage caused by "misuse" or "external causes." If a camera is mounted in a way that violates the 120°F operating spec (e.g., inside a glass enclosure or against a black metal surface in the desert), a warranty claim could theoretically be denied, though Ring is generally known for flexible support in standard residential use cases.
+Ring’s [Limited Warranty](https://ring.com/warranty) covers "defects in materials and workmanship under normal use." While "normal use" includes being outdoors, the warranty typically excludes damage caused by "misuse" or "external causes." If a camera is mounted in a way that violates the 120°F operating spec (e.g., inside a glass enclosure or against a black metal surface in the desert), a warranty claim could theoretically be denied, though Ring is generally known for flexible support in standard [residential use](https://quvii.com/learn/best-poe-security-cameras-residential) cases.
 
 ## Common misconceptions
 

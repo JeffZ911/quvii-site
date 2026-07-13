@@ -128,7 +128,7 @@ For ongoing reliability, ensure your Wi-Fi network is robust and capable of supp
 | **Field of View**       | 180° diagonal                           | 180° diagonal                       | 180° diagonal                  |
 | **[Night Vision](https://quvii.com/learn/arlo-pro-5s-2k-night-vision-stuck-on)**        | Color Night Vision                      | Color Night Vision                  | Color Night Vision             |
 | **Power Type**          | Battery or Wired (via existing doorbell wiring) | Wired (existing doorbell wiring)    | Wired (existing doorbell wiring) |
-| **Local Storage**       | Requires Arlo SmartHub or Base Station  | Requires Arlo SmartHub or Base Station | Requires Arlo SmartHub or Base Station |
+| **[Local Storage](https://quvii.com/learn/best-4k-security-cameras-local-storage)**       | Requires Arlo SmartHub or Base Station  | Requires Arlo SmartHub or Base Station | Requires Arlo SmartHub or Base Station |
 | **Subscription Cost/Yr (Arlo Secure Single Camera)** | Around $50-60/year                      | Around $50-60/year                  | Around $50-60/year            |
 | **Motion Detection**    | Advanced PIR & Video Analysis           | Advanced PIR & Video Analysis       | Advanced PIR & Video Analysis  |
 | **Smart AI Features**   | Person, Package, Vehicle, Animal Detection (with Arlo Secure) | Person, Package, Vehicle, Animal Detection (with Arlo Secure) | Person, Package, Vehicle, Animal Detection (with Arlo Secure) |

@@ -179,7 +179,7 @@ Investing in a PoE system is the first step toward a professional-grade home sec
 Yes. Most modern PoE cameras have a built-in microSD card slot for local storage and can be powered by a standalone PoE injector or a PoE switch. You can access the camera directly via its IP address or the manufacturer’s app without ever owning a dedicated NVR box.
 
 ### What happens to my PoE cameras if the internet goes out?
-The cameras will continue to function perfectly. They will still record to your local NVR or microSD card. You will only lose the ability to view the "Live Feed" or receive push notifications on your phone until the internet connection is restored.
+The cameras will continue to function perfectly. They will still record to your local NVR or microSD card. You will only lose the ability to view the "Live Feed" or receive [push notifications](https://quvii.com/blog/eufy-security-push-notifications-failing-home-assistant-20260712) on your phone until the internet connection is restored.
 
 ### How long can a PoE cable be?
 The maximum distance for a standard PoE run is 100 meters (328 feet). If you need to go further, you will need a PoE extender or a powered switch at the midpoint to "repeat" the signal and power.

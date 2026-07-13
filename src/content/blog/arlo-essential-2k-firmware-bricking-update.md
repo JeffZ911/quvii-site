@@ -142,7 +142,7 @@ Before buying into a [camera system](https://quvii.com/blog/ring-vs-ubiquiti-uni
     *   *Recommendation:* Arlo is viable here due to its excellent mounting accessories, but only if you are okay with the monthly subscription fee for the duration of your lease.
 *   **Scenario B: The Homeowner (Long-term Security)**
     *   *Priority:* Reliability, no monthly fees, 5+ year lifespan.
-    *   *Recommendation:* **Avoid Arlo.** Prioritize brands with local storage (NVR or microSD) like Reolink or Lorex. Firmware updates are less likely to "brick" these devices in a way that requires a total system replacement.
+    *   *Recommendation:* **Avoid Arlo.** Prioritize brands with [local storage](https://quvii.com/learn/best-4k-security-cameras-local-storage) (NVR or microSD) like Reolink or Lorex. Firmware updates are less likely to "brick" these devices in a way that requires a total system replacement.
 *   **Scenario C: The Tech-Averse User**
     *   *Priority:* "It just works," high-quality app.
     *   *Recommendation:* Arlo's app is top-tier, but the risk of "bricking" and the complexity of EOL policies may cause more stress than a simpler, local system.

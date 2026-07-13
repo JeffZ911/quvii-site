@@ -173,7 +173,7 @@ The average battery life for a smart lock varies significantly based on its conn
 - Tools In Action – Fail-Safe vs. Fail-Secure.
 - OpIndia – How Do [Smart Locks](https://quvii.com/learn/best-smart-locks-summer-travel-2026) Work During a Power Outage?
 - Keyplusys – Smart Lock Power Outage.
-- Keyplusys – Do Smart Locks Work During a Power Outage?
+- Keyplusys – Do [Smart Locks](https://quvii.com/learn/best-smart-locks-summer-travel-2026) Work During a Power Outage?
 - True Home Protection – Do Smart Locks Work During a Power Outage?
 - Safemo – How Smart Locks Work During a Power Outage.
 - Eufy – Eufy Smart Lock Touch & Wi-Fi.

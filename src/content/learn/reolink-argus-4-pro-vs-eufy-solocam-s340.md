@@ -178,7 +178,7 @@ Yes. Both Reolink and Eufy are "local-first" brands. All AI detection features (
 
 
 *   The Quvii guide to local storage: microSD vs. NVR vs. Hubs
-*   Understanding Wi-Fi 6 benefits for 4K security cameras
+*   Understanding Wi-Fi 6 benefits for [4K security cameras](https://quvii.com/learn/best-4k-security-cameras-local-storage)
 *   <a href="https://www.amazon.com/s?k=Reolink+Home+Hub+vs.+Eufy+HomeBase+3%3A+Which+ecosystem+is+better%3F&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Reolink Home Hub vs. Eufy HomeBase 3: Which ecosystem is better?</a>
 
 ## Sources
