@@ -88,7 +88,7 @@ When users pay a recurring fee specifically for "Advanced [Motion Detection](htt
 ![Impact on existing owners](/img/ring-camera-motion-detection-not-working-july-2026/inline-3.webp)
 
 
-If you already own Ring hardware and are experiencing these issues, you are likely facing an immediate security vulnerability. Before assuming the hardware is defective, it is essential to rule out environmental factors that may have changed.
+If you already own Ring hardware and are experiencing these issues, you are likely facing an immediate [security vulnerability](https://quvii.com/blog/ubiquiti-unifi-os-security-vulnerability-june-2026). Before assuming the hardware is defective, it is essential to rule out environmental factors that may have changed.
 
 ### Immediate Security Risks
 

@@ -76,7 +76,7 @@ Understanding these integration details is crucial for selecting cameras that wi
 ![Impact on existing owners](/img/home-assistant-2026-7-0b0-camera-breaking-changes/inline-3.webp)
 
 
-For existing Home Assistant users, particularly those with security camera setups, the 2026.7.0b0 update brings several critical considerations that may require immediate attention and configuration adjustments.
+For existing [Home Assistant](https://quvii.com/blog/eufy-security-push-notifications-failing-home-assistant-20260712) users, particularly those with security camera setups, the 2026.7.0b0 update brings several critical considerations that may require immediate attention and configuration adjustments.
 
 ### Automation Breakage and Fixes
 

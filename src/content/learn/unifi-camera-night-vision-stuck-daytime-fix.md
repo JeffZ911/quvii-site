@@ -30,7 +30,7 @@ A security camera that fails to transition into night mode effectively becomes a
 
 # Unifi Camera Night Vision Stuck Daytime: Causes & Fixes
 
-When a Unifi camera's night vision is stuck in daytime mode, it typically means the camera's IR-cut filter is not disengaging or the IR illuminators are not activating, often due to a software glitch, a faulty ambient light sensor, or a physical obstruction. This prevents the camera from capturing clear images in low-light conditions.
+When a [Unifi camera](https://quvii.com/blog/ring-vs-ubiquiti-unifi-comparison-2026)'s night vision is stuck in daytime mode, it typically means the camera's IR-cut filter is not disengaging or the IR illuminators are not activating, often due to a software glitch, a faulty ambient light sensor, or a physical obstruction. This prevents the camera from capturing clear images in low-light conditions.
 
 ## What it means
 

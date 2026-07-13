@@ -169,7 +169,7 @@ In all-party consent states (like California or Florida), recording a private co
 You should not hide cameras from guests. "Hidden" or "spy" cameras in residential settings significantly increase your legal liability and can lead to "invasion of privacy" lawsuits. Visible cameras act as a better deterrent for intruders and allow guests to be aware of their surroundings.
 
 ### Does Eufy still send data to the cloud if I use local storage?
-As of 2026, Eufy's "Edge" ecosystem processes most AI features locally on the HomeBase 3. However, small encrypted thumbnails may still be sent to the cloud to facilitate mobile push notifications unless you disable "Thumbnail Notifications" in the app settings.
+As of 2026, Eufy's "Edge" ecosystem processes most AI features locally on the HomeBase 3. However, small encrypted thumbnails may still be sent to the cloud to facilitate mobile [push notifications](https://quvii.com/blog/eufy-security-push-notifications-failing-home-assistant-20260712) unless you disable "Thumbnail Notifications" in the app settings.
 
 ## Further reading
 

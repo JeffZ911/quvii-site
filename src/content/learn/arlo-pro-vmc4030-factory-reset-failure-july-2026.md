@@ -89,7 +89,7 @@ Arlo’s business model has shifted entirely toward the "Arlo Secure" subscripti
 
 ### Timeline of Arlo VMC4030 Milestones
 *   **October 2016:** [Arlo Pro](https://quvii.com/learn/arlo-pro-5s-2k-night-vision-stuck-on) (VMC4030) Launches.
-*   **2018:** Production ceases in favor of the Arlo Pro 2.
+*   **2018:** Production ceases in favor of the [Arlo Pro](https://quvii.com/learn/arlo-pro-5s-2k-night-vision-stuck-on) 2.
 *   **April 1, 2023:** Official EOL (End of Life) reached; security updates cease.
 *   **May 2026:** "Product Returns" server error flags legacy serial numbers.
 *   **June 2026:** Arlo Secure App v6.26.0 breaks legacy handshake protocols.

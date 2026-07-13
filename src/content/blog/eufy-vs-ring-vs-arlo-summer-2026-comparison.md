@@ -85,7 +85,7 @@ We have reached what analysts call the "Subscription Ceiling." In 2024, Ring inc
     *   Hardware: Around $450
     *   Subscription ($120/yr x 5): $600
     *   **Total: $1,050**
-*   **Arlo (3x Pro 5S + Arlo Secure Plus):**
+*   **Arlo (3x [Pro 5S](https://quvii.com/learn/arlo-pro-5s-2k-night-vision-stuck-on) + Arlo Secure Plus):**
     *   Hardware: Around $600
     *   Subscription ($180/yr x 5): $900
     *   **Total: $1,500**

@@ -114,7 +114,7 @@ If your Eufy cameras are currently showing as "Unavailable" or if your automatio
 
 1.  **Check the "Guest Account" Method:** Ensure you are using a secondary "Guest" account for the [Home Assistant](https://quvii.com/blog/eufy-security-push-notifications-failing-home-assistant-20260712) integration rather than your primary Eufy account. Eufy often kicks the oldest session when a new login occurs; using a dedicated account for HA prevents the integration from being logged out by your phone.
 2.  **Verify Bridge Status:** Ensure your `eufy-security-ws` add-on or Docker container is updated to the latest 2026 version. Developers often push "silent" fixes to handle small API changes.
-3.  **Monitor the Logs:** Look for "P2P Connection Failed" or "Authentication Error" in your Home Assistant logs. This will tell you if the issue is with your local network or Eufy’s cloud servers.
+3.  **Monitor the Logs:** Look for "P2P Connection Failed" or "Authentication Error" in your [Home Assistant](https://quvii.com/blog/eufy-security-push-notifications-failing-home-assistant-20260712) logs. This will tell you if the issue is with your local network or Eufy’s cloud servers.
 
 ### Temporary Fixes and Workarounds
 

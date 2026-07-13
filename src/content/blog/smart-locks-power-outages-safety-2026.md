@@ -168,7 +168,7 @@ The average battery life for a smart lock varies significantly based on its conn
 - SmartWPN – What happens to a smart lock during a power outage?
 - Smarteyecctv – Do security cameras work without electricity?
 - Icon Garage Door – What Happens to Your Smart Lock During a Power Outage?
-- The Connected Shop – The Best Smart Locks for Your Home.
+- The Connected Shop – The Best [Smart Locks](https://quvii.com/learn/best-smart-locks-summer-travel-2026) for Your Home.
 - Wi-Charge – Wi-Charge for Schlage Encode.
 - Tools In Action – Fail-Safe vs. Fail-Secure.
 - OpIndia – How Do Smart Locks Work During a Power Outage?
