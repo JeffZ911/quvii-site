@@ -144,7 +144,7 @@ When comparing Eufy to a competitor like Ring, the hardware price is only half t
 While Eufy is $150 cheaper over three years, that $150 "savings" is essentially paid back in the time spent maintaining the [Home Assistant](https://quvii.com/blog/eufy-security-push-notifications-failing-home-assistant-20260712) integration if you rely on advanced automations.
 
 ### Final Advisory
-Eufy remains a hardware powerhouse, offering impressive 4K resolution and local AI detection at a price point that competitors struggle to match. However, the events of early-to-mid 2026 have proven that relying on an unofficial integration for home security is a risky proposition. If your smart home depends on your cameras being 100% available within Home Assistant, it may be time to look toward brands that offer an official API.
+Eufy remains a hardware powerhouse, offering impressive 4K resolution and local AI detection at a price point that competitors struggle to match. However, the events of early-to-mid 2026 have proven that relying on an unofficial integration for home security is a risky proposition. If your smart home depends on your cameras being 100% available within [Home Assistant](https://quvii.com/blog/eufy-security-push-notifications-failing-home-assistant-20260712), it may be time to look toward brands that offer an official API.
 
 ## Frequently Asked Questions
 

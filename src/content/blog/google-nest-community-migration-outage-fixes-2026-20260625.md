@@ -57,7 +57,7 @@ Official communications from Google emphasized that the move aimed to streamline
 ![Why it matters for buyers](/img/google-nest-community-migration-outage-fixes-2026-20260625/inline-2.webp)
 
 
-For those currently shopping for a security camera system, the loss of a community archive is more than a minor inconvenience; it is a loss of "buying intelligence." Prospective buyers frequently rely on community forums to find unbiased reviews and real-world performance insights that are often absent from official marketing materials.
+For those currently shopping for a security [camera system](https://quvii.com/blog/ring-vs-ubiquiti-unifi-comparison-2026), the loss of a community archive is more than a minor inconvenience; it is a loss of "buying intelligence." Prospective buyers frequently rely on community forums to find unbiased reviews and real-world performance insights that are often absent from official marketing materials.
 
 ### Loss of Pre-Purchase Research Value
 The deletion of years of accumulated knowledge removes a critical resource for informed decision-making. In the old community, a buyer could search for specific issues—such as "Nest Cam [battery life](https://quvii.com/blog/tapo-c425-battery-drain-june-update-impact) in -10°F weather" or "Nest Doorbell 3rd gen Wi-Fi dropouts"—and find hundreds of user reports. Without this archive, new buyers are left with official spec sheets that may not reflect real-world performance variances.

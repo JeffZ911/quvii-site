@@ -104,7 +104,7 @@ As routers move toward WPA3 security standards in 2026, older hardware like the 
 
 ## Real-world implications
 
-A disconnecting camera is more than a technical nuisance; it is a security vulnerability.
+A disconnecting camera is more than a technical nuisance; it is a [security vulnerability](https://quvii.com/blog/ubiquiti-unifi-os-security-vulnerability-june-2026).
 
 ### The Cloud-Only Vulnerability
 Unlike brands that offer local microSD storage or NVR integration, Ring is a cloud-first ecosystem. If the Wi-Fi drops, the recording stops. There is no "buffer" on most Ring models to save footage during a blackout. If a thief uses a Wi-Fi jammer or if your router reboots during a package theft, that footage is lost forever. This "all-or-nothing" reliance on the connection makes RSSI management critical.

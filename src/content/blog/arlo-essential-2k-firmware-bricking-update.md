@@ -148,7 +148,7 @@ Before buying into a [camera system](https://quvii.com/blog/ring-vs-ubiquiti-uni
     *   *Recommendation:* Arlo's app is top-tier, but the risk of "bricking" and the complexity of EOL policies may cause more stress than a simpler, local system.
 
 ### Exploring Subscription-Free Security Camera Alternatives
-If the "bricking" reports and subscription costs have soured your view of Arlo, several 2026 competitors offer robust alternatives with local storage as the primary focus.
+If the "bricking" reports and subscription costs have soured your view of Arlo, several 2026 competitors offer robust alternatives with [local storage](https://quvii.com/learn/best-4k-security-cameras-local-storage) as the primary focus.
 
 | Brand | Model Equivalent | Primary Storage | AI Detection |
 | :--- | :--- | :--- | :--- |

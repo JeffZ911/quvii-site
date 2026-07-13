@@ -99,7 +99,7 @@ Before a hard shutdown, Ring’s firmware attempts to shed heat by reducing powe
 ![Real-world implications](/img/ring-doorbell-overheating-summer-heat-fix/inline-4.webp)
 
 
-An overheating doorbell is more than a technical glitch; it is a security vulnerability that can have long-term financial costs.
+An overheating doorbell is more than a technical glitch; it is a [security vulnerability](https://quvii.com/blog/ubiquiti-unifi-os-security-vulnerability-june-2026) that can have long-term financial costs.
 
 ### The 'Blind Spot' Problem
 The most dangerous aspect of thermal shutdown is that it typically happens between 2:00 PM and 5:00 PM—the exact window when most residential package deliveries occur. If the device is in "Device Cooldown," it will not record the delivery or any potential porch piracy. For small businesses, this can mean missing a client at the door or failing to capture a daytime incident.
