@@ -177,7 +177,7 @@ The average battery life for a smart lock varies significantly based on its conn
 - True Home Protection – Do [Smart Locks](https://quvii.com/learn/best-smart-locks-summer-travel-2026) Work During a Power Outage?
 - Safemo – How [Smart Locks](https://quvii.com/learn/best-smart-locks-summer-travel-2026) Work During a Power Outage.
 - Eufy – Eufy Smart Lock Touch & Wi-Fi.
-- Vivint – Smart Locks.
+- Vivint – [Smart Locks](https://quvii.com/learn/best-smart-locks-summer-travel-2026).
 - Smart Home Explorer – Smart Lock Battery Life.
 - Eufy – [Privacy Policy](https://quvii.com/learn/eufy-security-camera-privacy-policy-update-2026-20260625).
 - Faster Locksmith – What Happens to Your Smart Lock During a Power Outage?

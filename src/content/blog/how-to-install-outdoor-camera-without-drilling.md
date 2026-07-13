@@ -87,7 +87,7 @@ The rise of solar-powered cameras has introduced a new challenge: "seasonal posi
 ![Impact on existing owners](/img/how-to-install-outdoor-camera-without-drilling/inline-3.webp)
 
 
-If you already own a camera system from 2023 or 2024, you are not excluded from the no-drill revolution. The accessory market has matured to provide retrofitting options for legacy hardware.
+If you already own a [camera system](https://quvii.com/blog/ring-vs-ubiquiti-unifi-comparison-2026) from 2023 or 2024, you are not excluded from the no-drill revolution. The accessory market has matured to provide retrofitting options for legacy hardware.
 
 ### Retrofitting Your Current Setup
 Owners of older [Ring Stick](https://quvii.com/learn/ring-stick-up-cam-pro-overheating-direct-sun) Up Cams or [Arlo Pro](https://quvii.com/learn/arlo-pro-vmc4030-factory-reset-failure-july-2026) models can now utilize "Universal 1/4-inch Thread" adhesive brackets. These brackets, typically priced in the $15-$25 range, feature a standard tripod screw that fits almost every major camera brand. By attaching a 3M VHB-backed plate to your wall and screwing your legacy camera into the bracket, you can convert a drill-only unit into a renter-friendly one.

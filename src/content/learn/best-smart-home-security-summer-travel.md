@@ -31,7 +31,7 @@ Reliable home security during a two-week summer vacation no longer requires a mo
 
 # Best Smart Home Security for Summer Travel: The 2026 No-Subscription Guide
 
-For 2026 [summer travel](https://quvii.com/learn/best-smart-locks-summer-travel-2026), prioritize solar-powered cameras with local AI and no subscriptions. Top picks: Eufy SoloCam S340 for dual-lens zoom and Reolink Altas PT Ultra for industry-first 24/7 battery recording without fees.
+For 2026 [summer travel](https://quvii.com/learn/best-smart-locks-summer-travel-2026), prioritize solar-powered [cameras with local](https://quvii.com/learn/best-4k-security-cameras-local-storage) AI and no subscriptions. Top picks: Eufy SoloCam S340 for dual-lens zoom and Reolink Altas PT Ultra for industry-first 24/7 battery recording without fees.
 
 ## What it means
 

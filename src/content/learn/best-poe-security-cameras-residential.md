@@ -110,7 +110,7 @@ With a PoE system, your video never has to leave your house. Using a local NVR w
 
 ### 2026 PoE Camera Comparison Plate
 
-| Feature | Reolink Duo 3 PoE | Ubiquiti UniFi G5 Pro | Lorex 4K Fusion |
+| Feature | Reolink Duo 3 PoE | [Ubiquiti UniFi](https://quvii.com/blog/ring-vs-ubiquiti-unifi-comparison-2026) G5 Pro | Lorex 4K Fusion |
 | :--- | :--- | :--- | :--- |
 | **Resolution** | 16MP (7680 x 2160) | 4K (3840 x 2160) | 4K (3840 x 2160) |
 | **Field of View** | 180° Panoramic | 34° – 110° (Optical Zoom) | 110° Fixed |
