@@ -72,7 +72,7 @@ Blink’s Activity Zones allow users to mask out areas (like a swaying tree or a
 ### Sensitivity Logic
 The 1–10 sensitivity slider in the Blink app adjusts the voltage threshold required to trigger the "high" state on the PIR sensor. 
 *   **Levels 1-3:** Require a massive heat signature (like a car engine) or very close proximity.
-*   **Levels 4-6:** Standard for most residential use.
+*   **Levels 4-6:** Standard for most [residential use](https://quvii.com/learn/best-poe-security-cameras-residential).
 *   **Levels 7-10:** Highly sensitive; may be triggered by wind-blown leaves or shadows if they cause a rapid change in the sensor's IR field.
 
 ## Real-world implications

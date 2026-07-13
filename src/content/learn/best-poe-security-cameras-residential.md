@@ -155,7 +155,7 @@ While PoE originated in the enterprise space, modern NVRs are "Plug-and-Play." W
 PoE is considered low-voltage (under 60V). In most jurisdictions, this does not require a licensed electrician for installation, making it a legal and safe DIY project. The power is carried over the same thin Ethernet cable used for your internet, posing significantly less risk than traditional 120V electrical wiring.
 
 ### Misconception: "PoE cameras don't have apps."
-Modern PoE systems offer remote viewing experiences that are identical to, or better than, Wi-Fi cameras. Brands like Reolink and Ubiquiti have highly polished iOS and Android apps that provide instant push notifications, two-way talk, and remote playback from anywhere in the world, provided your NVR is connected to your home router.
+Modern PoE systems offer remote viewing experiences that are identical to, or better than, Wi-Fi cameras. Brands like Reolink and Ubiquiti have highly polished iOS and Android apps that provide instant [push notifications](https://quvii.com/blog/eufy-security-push-notifications-failing-home-assistant-20260712), two-way talk, and remote playback from anywhere in the world, provided your NVR is connected to your home router.
 
 ## Further reading
 

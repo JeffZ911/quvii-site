@@ -118,7 +118,7 @@ If your Eufy cameras are currently showing as "Unavailable" or if your automatio
 
 ### Temporary Fixes and Workarounds
 
-*   **RTSP Direct Stream:** If your camera supports RTSP (like the eufyCam 2C or Indoor Cam 2K), enable it in the Eufy app and use the "Generic Camera" integration in Home Assistant. While this won't give you motion sensors or AI data, it will provide a stable video feed that doesn't rely on the complex `eufy_security` bridge.
+*   **RTSP Direct Stream:** If your camera supports RTSP (like the eufyCam 2C or Indoor Cam 2K), enable it in the Eufy app and use the "Generic Camera" integration in [Home Assistant](https://quvii.com/blog/eufy-security-push-notifications-failing-home-assistant-20260712). While this won't give you motion sensors or AI data, it will provide a stable video feed that doesn't rely on the complex `eufy_security` bridge.
 *   **Regional Settings:** Some users have reported that changing their "Region" in the integration configuration to match their actual physical location (or sometimes switching to "US" regardless of location) has restored connectivity to the HomeBase 3.
 
 ### Long-Term Solutions and Alternatives

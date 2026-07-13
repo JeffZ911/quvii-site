@@ -48,7 +48,7 @@ Coinciding with the recovery from the May outage, Google pushed a major update t
 Perhaps the most concerning development for long-term owners is the permanent shutdown of the official [Google Nest community](https://quvii.com/blog/google-nest-community-migration-outage-fixes-2026-20260625) forums, scheduled for June 30, 2026. For over a decade, these forums served as a searchable archive of user-generated fixes for niche connectivity bugs. Google’s decision to delete this content rather than archive it means that specific troubleshooting steps for older hardware—often not found in official "help" articles—will disappear. This move forces users to rely solely on direct Google Support channels, which can experience high wait times during widespread updates.
 
 ### Persistent Connectivity Challenges
-Beyond these specific events, the "offline" issue remains a persistent challenge for the Nest lineup due to its cloud-dependent architecture. Unlike cameras with local processing, a Nest camera must maintain a constant "heartbeat" with Google’s servers. Even a momentary lapse in DNS resolution or a minor firmware mismatch during a background update can cause the app to flag the camera as offline, even if the user's home internet is functioning perfectly.
+Beyond these specific events, the "offline" issue remains a persistent challenge for the Nest lineup due to its cloud-dependent architecture. Unlike [cameras with local](https://quvii.com/learn/best-4k-security-cameras-local-storage) processing, a Nest camera must maintain a constant "heartbeat" with Google’s servers. Even a momentary lapse in DNS resolution or a minor firmware mismatch during a background update can cause the app to flag the camera as offline, even if the user's home internet is functioning perfectly.
 
 ## Why it matters for buyers
 
@@ -128,7 +128,7 @@ If the recent outages and the forum shutdown have shaken your confidence in clou
 
 *   **If you are a Renter:** Stick with the Nest Cam (Battery) for its ease of installation, but be prepared for occasional cloud-related downtime.
 *   **If you are a Homeowner (High Security):** Prioritize cameras that offer **Local Storage** (via SD card or a dedicated NVR). Brands like Reolink or Eufy allow you to record and view footage even if the manufacturer's servers go offline.
-*   **If you are Privacy-Focused:** Look for systems that support **End-to-End Encryption** or "Local-Only" modes where no data ever leaves your home network (e.g., Ubiquiti UniFi Protect).
+*   **If you are Privacy-Focused:** Look for systems that support **End-to-End Encryption** or "Local-Only" modes where no data ever leaves your home network (e.g., [Ubiquiti UniFi](https://quvii.com/blog/ring-vs-ubiquiti-unifi-comparison-2026) Protect).
 
 **Decision Framework: Subscription vs. Local Storage**
 *   **Choose [Google Nest](https://quvii.com/blog/google-nest-cam-familiar-faces-june-2026-update) if:** You want the best-in-class AI (Gemini) and don't mind a monthly fee of $10–$20.

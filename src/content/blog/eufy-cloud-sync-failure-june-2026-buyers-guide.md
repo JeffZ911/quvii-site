@@ -76,7 +76,7 @@ Eufy's [privacy policy](https://quvii.com/learn/eufy-security-camera-privacy-pol
 ![Impact on existing owners](/img/eufy-cloud-sync-failure-june-2026-buyers-guide/inline-3.webp)
 
 
-Existing Eufy owners experiencing cloud sync or related local storage failures would face immediate frustrations such as inability to view live feeds remotely, missed notifications for events, and inaccessible cloud backups if they subscribe to that service. These issues can severely diminish the utility and peace of mind that a security camera system is intended to provide.
+Existing Eufy owners experiencing cloud sync or related local storage failures would face immediate frustrations such as inability to view live feeds remotely, missed notifications for events, and inaccessible cloud backups if they subscribe to that service. These issues can severely diminish the utility and peace of mind that a security [camera system](https://quvii.com/blog/ring-vs-ubiquiti-unifi-comparison-2026) is intended to provide.
 
 ### Immediate User Experience and Frustrations
 
@@ -231,7 +231,7 @@ Understanding the true cost of a security camera system goes beyond the initial 
 Local storage means video footage is saved directly on a device within your home, such as an SD card in the camera or a HomeBase unit. [Cloud storage](https://quvii.com/blog/eufy-cloud-storage-pricing-changes-2026) involves uploading video footage to remote servers maintained by the manufacturer or a third-party provider, accessible via the internet.
 
 ### Will my Eufy camera still record if my internet goes out?
-Yes, Eufy cameras with local storage capabilities (like those recording to a HomeBase or an onboard SD card) are designed to continue recording locally even if your internet connection is lost. However, you will not be able to view live feeds remotely, receive notifications, or access cloud-backed-up footage until your internet connection is restored.
+Yes, Eufy [cameras with local](https://quvii.com/learn/best-4k-security-cameras-local-storage) storage capabilities (like those recording to a HomeBase or an onboard SD card) are designed to continue recording locally even if your internet connection is lost. However, you will not be able to view live feeds remotely, receive notifications, or access cloud-backed-up footage until your internet connection is restored.
 
 ### Do Eufy cameras require a subscription?
 Eufy cameras do not require a mandatory subscription for basic functionality, including local recording and live viewing via the app when connected to your home network. However, Eufy offers optional [cloud storage](https://quvii.com/blog/eufy-cloud-storage-pricing-changes-2026) plans for off-site backup and extended features, which do incur a monthly fee.

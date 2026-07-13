@@ -94,7 +94,7 @@ Unauthorized access to security cameras directly leads to privacy invasion, allo
 
 ### Broader Cyberattack Involvement
 
-Compromised cameras can be recruited into large botnets, such as those employing Mirai-family variants. These networks of hijacked devices are then used to launch massive Distributed Denial of Service (DDoS) attacks against other targets, effectively making your camera an unwitting participant in cyber warfare. In more severe cases, access to cameras could provide attackers with intelligence for physical intrusions or allow them to manipulate devices, potentially disabling [security features](https://quvii.com/blog/apple-intelligence-home-app-security-features-20260711) or unlocking smart locks if integrated.
+Compromised cameras can be recruited into large botnets, such as those employing Mirai-family variants. These networks of hijacked devices are then used to launch massive Distributed Denial of Service (DDoS) attacks against other targets, effectively making your camera an unwitting participant in cyber warfare. In more severe cases, access to cameras could provide attackers with intelligence for physical intrusions or allow them to manipulate devices, potentially disabling [security features](https://quvii.com/blog/apple-intelligence-home-app-security-features-20260711) or unlocking [smart locks](https://quvii.com/learn/best-smart-locks-summer-travel-2026) if integrated.
 
 ### Notable Incidents and Brand Responses
 

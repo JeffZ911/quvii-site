@@ -84,7 +84,7 @@ The most direct impact for many existing owners will be on their automations. Au
 
 ### Camera Entity Renaming and Configuration
 
-Owners of dual-lens Reolink cameras will find that their camera entities have changed. What was once a single entity representing a camera like the Reolink TrackMix, might now appear as two distinct entities, one for each lens (e.g., `camera.reolink_trackmix_wide` and `camera.reolink_trackmix_tele`). This necessitates updates to dashboards, automations, and scripts that reference these devices. Failure to update these references will result in broken camera feeds on dashboards and non-functional automations. Users will need to manually re-add or reconfigure these entities in their Home Assistant front end and update any YAML files that directly call these entity IDs.
+Owners of dual-lens Reolink cameras will find that their camera entities have changed. What was once a single entity representing a camera like the Reolink TrackMix, might now appear as two distinct entities, one for each lens (e.g., `camera.reolink_trackmix_wide` and `camera.reolink_trackmix_tele`). This necessitates updates to dashboards, automations, and scripts that reference these devices. Failure to update these references will result in broken camera feeds on dashboards and non-functional automations. Users will need to manually re-add or reconfigure these entities in their [Home Assistant](https://quvii.com/blog/eufy-security-push-notifications-failing-home-assistant-20260712) front end and update any YAML files that directly call these entity IDs.
 
 ### Potential Loss of Older Integrations
 

@@ -171,7 +171,7 @@ The average battery life for a smart lock varies significantly based on its conn
 - The Connected Shop – The Best [Smart Locks](https://quvii.com/learn/best-smart-locks-summer-travel-2026) for Your Home.
 - Wi-Charge – Wi-Charge for Schlage Encode.
 - Tools In Action – Fail-Safe vs. Fail-Secure.
-- OpIndia – How Do Smart Locks Work During a Power Outage?
+- OpIndia – How Do [Smart Locks](https://quvii.com/learn/best-smart-locks-summer-travel-2026) Work During a Power Outage?
 - Keyplusys – Smart Lock Power Outage.
 - Keyplusys – Do Smart Locks Work During a Power Outage?
 - True Home Protection – Do Smart Locks Work During a Power Outage?

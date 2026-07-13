@@ -184,7 +184,7 @@ When choosing a mounting method, consider the long-term costs associated with th
 To ensure your siding-mounted camera performs at its peak, consider these additional technical guides:
 
 *   **best outdoor security cameras without subscription**: Explore cameras that offer local storage, making them ideal for siding installs where you don't want to run wires through the envelope.
-*   **how to install poe security cameras**: A deep dive into the drilling and fishing techniques required for a professional Arlington block installation.
+*   **how to install [poe security cameras](https://quvii.com/learn/best-poe-security-cameras-residential)**: A deep dive into the drilling and fishing techniques required for a professional Arlington block installation.
 *   **local storage vs cloud security camera**: Understand the bandwidth and power trade-offs of storing video on-site versus in the cloud.
 
 ## Sources

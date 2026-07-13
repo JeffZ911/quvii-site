@@ -100,7 +100,7 @@ The [Sync Module 2](https://quvii.com/blog/blink-outdoor-4-sync-module-2-connect
 
 An offline loop is more than a technical glitch; it is a fundamental failure of the security perimeter. When a camera is stuck in a reconnection cycle, it is effectively blind.
 
-*   **Security Vulnerability:** An offline camera cannot detect motion or trigger alerts. If an intruder enters the property during a disconnection phase of the loop, no record of the event will exist.
+*   **[Security Vulnerability](https://quvii.com/blog/ubiquiti-unifi-os-security-vulnerability-june-2026):** An offline camera cannot detect motion or trigger alerts. If an intruder enters the property during a disconnection phase of the loop, no record of the event will exist.
 *   **Missed Events:** Essential daily interactions, such as package deliveries or the arrival of service workers, go unrecorded. This can lead to disputes with vendors or missed notifications of theft.
 *   **[Battery Drain](https://quvii.com/learn/blink-outdoor-4-battery-drain-june-2026):** This is perhaps the most immediate physical consequence. The most power-intensive task a [Blink camera](https://quvii.com/blog/blink-camera-battery-drain-summer-heat-2026) performs is searching for and handshaking with a [Sync Module](https://quvii.com/blog/blink-outdoor-4-sync-module-2-connection-error-fix). A camera that performs this handshake 50 times a day due to a loop will exhaust its batteries in weeks rather than years.
 

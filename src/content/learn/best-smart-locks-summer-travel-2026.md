@@ -143,7 +143,7 @@ If you are preparing for a summer trip, prioritize a lock that supports **Matter
 | ANSI/BHMA Grade | Security Level | Best Use Case |
 | :--- | :--- | :--- |
 | **Grade 1** | Highest (Commercial) | Front doors, high-value homes |
-| **Grade 2** | Intermediate (Residential) | Standard residential use |
+| **Grade 2** | Intermediate (Residential) | Standard [residential use](https://quvii.com/learn/best-poe-security-cameras-residential) |
 | **Grade 3** | Basic (Residential) | Interior doors or low-risk areas |
 
 ### Misconception: "I need a monthly fee for remote codes."
