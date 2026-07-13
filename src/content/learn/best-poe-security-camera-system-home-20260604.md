@@ -176,4 +176,4 @@ If you are planning a full-scale installation, the physical infrastructure is ju
 - Lorex Fusion Series Technical Documentation — [https://www.lorex.com/pages/fusion](https://www.lorex.com/pages/fusion)
 - WD Purple Surveillance Drive Specification Sheet — https://www.westerndigital.com/products/internal-drives/wd-purple-sata-hdd
 - Blue Iris Software Local Processing Requirements — https://blueirissoftware.com/
-- Ubiquiti UniFi Protect PoE Requirements — https://ui.com/camera-security
+- [Ubiquiti UniFi](https://quvii.com/blog/ring-vs-ubiquiti-unifi-comparison-2026) Protect PoE Requirements — https://ui.com/camera-security

@@ -152,7 +152,7 @@ Review your "Data Retention" settings. Many users keep years of footage in the c
 Familiarize yourself with the "Plain View Doctrine." Generally, if a camera can see something from a public vantage point (like the sidewalk), it is legal. However, if your camera is angled to see into a neighbor's bedroom window, you may be liable for "Invasion of Privacy." Use the "Privacy Masking" feature in your camera’s app to black out neighbors' windows or sensitive areas of your own home.
 
 ### Exploring Local Storage Solutions
-The shift away from subscriptions is a major trend in 2026. By choosing cameras with local storage, you avoid the "Feature Paywall" and keep your data under your own roof.
+The shift away from subscriptions is a major trend in 2026. By choosing [cameras with local](https://quvii.com/learn/best-4k-security-cameras-local-storage) storage, you avoid the "Feature Paywall" and keep your data under your own roof.
 
 **Decision Framework: Which System Fits Your Situation?**
 

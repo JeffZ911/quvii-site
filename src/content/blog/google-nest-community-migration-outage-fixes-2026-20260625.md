@@ -129,7 +129,7 @@ For consumers frustrated by the "cloud-dependent" nature of Nest and the volatil
 | **Privacy Conscious** | Data Sovereignty | Encrypted Local Storage (No Cloud) |
 
 ### Total Cost of Ownership (3-Year Analysis)
-When choosing a camera system, the "sticker price" is often deceptive. A Nest Cam (wired, 2nd gen) might cost around $100, but the 3-year cost of ownership is significantly higher due to the subscription requirement.
+When choosing a [camera system](https://quvii.com/blog/ring-vs-ubiquiti-unifi-comparison-2026), the "sticker price" is often deceptive. A Nest Cam (wired, 2nd gen) might cost around $100, but the 3-year cost of ownership is significantly higher due to the subscription requirement.
 
 *   **Hardware (2 Cameras):** ~$200
 *   **Google Home Premium (Standard, 3 Years):** $360 ($120/year)

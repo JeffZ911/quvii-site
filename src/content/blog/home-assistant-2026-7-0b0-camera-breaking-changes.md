@@ -97,7 +97,7 @@ Additionally, owners of Hikvision cameras using the affected integration may enc
 ![What to do now](/img/home-assistant-2026-7-0b0-camera-breaking-changes/inline-4.webp)
 
 
-Navigating [breaking changes](https://quvii.com/learn/home-assistant-2026-7-alexa-media-player-breaking-changes) in Home Assistant can seem daunting, but by following a structured approach, existing owners and new buyers can mitigate disruptions and ensure their security camera setups remain functional and secure.
+Navigating [breaking changes](https://quvii.com/learn/home-assistant-2026-7-alexa-media-player-breaking-changes) in [Home Assistant](https://quvii.com/blog/eufy-security-push-notifications-failing-home-assistant-20260712) can seem daunting, but by following a structured approach, existing owners and new buyers can mitigate disruptions and ensure their security camera setups remain functional and secure.
 
 ### Pre-Update Preparations
 

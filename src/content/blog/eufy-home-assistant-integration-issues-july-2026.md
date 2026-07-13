@@ -149,7 +149,7 @@ Eufy remains a hardware powerhouse, offering impressive 4K resolution and local 
 ## Frequently Asked Questions
 
 ### Does Eufy have an official Home Assistant integration?
-No. As of July 2026, Eufy does not provide an official integration for Home Assistant. The current functionality is provided by the community-developed `eufy_security` integration available via HACS (Home Assistant Community Store).
+No. As of July 2026, Eufy does not provide an official integration for [Home Assistant](https://quvii.com/blog/eufy-security-push-notifications-failing-home-assistant-20260712). The current functionality is provided by the community-developed `eufy_security` integration available via HACS (Home Assistant Community Store).
 
 ### Why do my Eufy cameras keep showing as "Unavailable" in Home Assistant?
 This is usually caused by Eufy's cloud servers logging out the integration's session. Using a dedicated "Guest" account for Home Assistant and ensuring your `eufy-security-ws` bridge is updated can help, but it is a recurring issue due to Eufy's lack of a public API.

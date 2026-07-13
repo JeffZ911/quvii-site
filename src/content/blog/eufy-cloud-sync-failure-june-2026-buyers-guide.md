@@ -181,7 +181,7 @@ The April 2026 HomeBase firmware issue, which caused the loss of 24/7 recording 
 
 ### Firmware Update Risks and Data Integrity
 
-These incidents highlight the inherent risks associated with firmware updates. While updates are essential for improvements and security patches, poorly executed or buggy updates can lead to critical malfunctions, data loss, and even "bricked" devices. The loss of recorded footage or corrupted video files directly compromises data integrity, which is unacceptable for a security camera system. Furthermore, the absence of a robust "heartbeat" monitoring system—where the cloud actively checks if a device is online and functioning—means users may not be immediately aware of system failures, allowing critical events to go unrecorded without their knowledge.
+These incidents highlight the inherent risks associated with firmware updates. While updates are essential for improvements and security patches, poorly executed or buggy updates can lead to critical malfunctions, data loss, and even "bricked" devices. The loss of recorded footage or corrupted video files directly compromises data integrity, which is unacceptable for a security [camera system](https://quvii.com/blog/ring-vs-ubiquiti-unifi-comparison-2026). Furthermore, the absence of a robust "heartbeat" monitoring system—where the cloud actively checks if a device is online and functioning—means users may not be immediately aware of system failures, allowing critical events to go unrecorded without their knowledge.
 
 ### Eufy's Response and Trust Implications
 
