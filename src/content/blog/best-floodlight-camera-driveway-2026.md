@@ -125,7 +125,7 @@ However, most US homes are pre-wired with a standard round junction box for a fl
 | **No Wiring Access** | **Reolink Duo 3 Solar** | 3,000 lumens and 16MP resolution with zero wires. |
 | **Lowest TCO** | **Tapo C720** | Competitive pricing (around $150) with no required subscription. |
 
-The 2026 market offers a clear path away from the monthly "security tax" of the previous decade. By prioritizing high-resolution local storage and Matter-compatible hardware, homeowners can secure their driveways with equipment that is both more capable and more private than ever before. Quvii continues to track these firmware shifts and hardware releases to ensure your security investment remains relevant in an accelerating market.
+The 2026 market offers a clear path away from the monthly "security tax" of the previous decade. By prioritizing high-resolution [local storage](https://quvii.com/learn/best-4k-security-cameras-local-storage) and Matter-compatible hardware, homeowners can secure their driveways with equipment that is both more capable and more private than ever before. Quvii continues to track these firmware shifts and hardware releases to ensure your security investment remains relevant in an accelerating market.
 
 ## Sources
 - Reolink — Reolink Duo 3 PoE 16MP Spec Sheet

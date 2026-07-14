@@ -160,5 +160,5 @@ Yes, significantly. By turning off Smart Alerts (specifically "Person" and "Othe
 - Ring Support: Troubleshooting [Battery Drain](https://quvii.com/learn/blink-outdoor-4-battery-drain-june-2026)
 - <a href="https://www.amazon.com/s?k=Ring+Protect+Plan+Features&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Ring Protect Plan Features</a>
 - Reddit r/Ring: Community Firmware Discussions
-- RTINGS: Best Video Doorbells of 2026
+- RTINGS: Best [Video Doorbells](https://quvii.com/blog/best-video-doorbells-apartment-renters-2026) of 2026
 - [FCC ID Search: Ring LLC Wireless Devices](https://apps.fcc.gov/oetcf/eas/reports/GenericSearch.cfm)

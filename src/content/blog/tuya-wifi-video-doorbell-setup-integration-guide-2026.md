@@ -22,7 +22,7 @@ inline_image_sections:
   - "What to do now"
 ---
 
-Navigating the landscape of white-label smart home technology requires a clear understanding of the underlying platform that powers hundreds of different brands. As of mid-2026, the Tuya ecosystem remains the primary engine for affordable, feature-rich video doorbells, though recent updates have significantly changed how these devices interact with the wider smart home.
+Navigating the landscape of white-label smart home technology requires a clear understanding of the underlying platform that powers hundreds of different brands. As of mid-2026, the Tuya ecosystem remains the primary engine for affordable, feature-rich [video doorbells](https://quvii.com/blog/best-video-doorbells-apartment-renters-2026), though recent updates have significantly changed how these devices interact with the wider smart home.
 
 # Tuya WiFi Video Doorbell: Your 2026 Setup & Integration Guide
 

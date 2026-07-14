@@ -44,7 +44,7 @@ Technological limitations used to be the primary excuse for cloud-mandated syste
 
 Furthermore, the hardware for storing this data has evolved. The Eufy [HomeBase 3](https://quvii.com/learn/eufycam-s330-homebase-3-firmware-sync-error), which supports expandable storage up to 16TB via 2.5-inch SSDs, has made [local storage](https://quvii.com/learn/best-4k-security-cameras-local-storage) more reliable and capacious than the fragile microSD cards of the past. Privacy has transitioned from a niche enthusiast requirement to a mainstream consumer demand following several 2025 cloud data breaches that exposed private front-porch footage to unauthorized third parties.
 
-**2026 Subscription Cost vs. Local Storage ROI**
+**2026 Subscription Cost vs. [Local Storage](https://quvii.com/learn/best-4k-security-cameras-local-storage) ROI**
 
 | Brand/Model | Storage Type | Annual Sub. Cost (2026) | 3-Year Total Cost (Est.) | AI Features |
 | :--- | :--- | :--- | :--- | :--- |

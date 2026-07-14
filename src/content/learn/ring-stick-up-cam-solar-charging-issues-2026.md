@@ -187,7 +187,7 @@ The sticker price of a security camera is only part of the total cost. Understan
 *   **Estimated 3-Year Total Cost of Ownership:**
     *   **Hardware + Subscription + Potential Replacements = Around $300 - $380**
 
-**Comparison Note:** Cameras with local storage options (e.g., Reolink, Eufy) often have lower TCO if you opt out of their optional cloud subscriptions, as core features like video recording and playback are available without recurring fees. However, they may require you to purchase a microSD card separately. The trade-off is often between the convenience of cloud-based features (and potential police cooperation features for Ring) versus lower ongoing costs and greater local control over your data. Always check specific brand privacy policies and transparency reports for details on data handling and law enforcement requests.
+**Comparison Note:** [Cameras with local](https://quvii.com/learn/best-4k-security-cameras-local-storage) storage options (e.g., Reolink, Eufy) often have lower TCO if you opt out of their optional cloud subscriptions, as core features like video recording and playback are available without recurring fees. However, they may require you to purchase a microSD card separately. The trade-off is often between the convenience of cloud-based features (and potential police cooperation features for Ring) versus lower ongoing costs and greater local control over your data. Always check specific brand privacy policies and transparency reports for details on data handling and law enforcement requests.
 
 ## Frequently Asked Questions
 
