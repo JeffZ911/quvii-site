@@ -98,7 +98,7 @@ When buying a Tuya doorbell, the "sticker price" is rarely the final cost. Here 
 | **Monthly Fee** | $0 | $4.99/mo (Basic AI Plan) |
 | **3-Year Total** | **Around $95** | **Around $260** |
 
-*Note: While the local path is cheaper, cloud subscriptions often include theft protection (replacing the doorbell if it's stolen) and longer video history.*
+*Note: While the local path is cheaper, cloud subscriptions often include [theft protection](https://quvii.com/learn/ring-vs-arlo-summer-porch-theft-protection) (replacing the doorbell if it's stolen) and longer video history.*
 
 ## What to do now
 

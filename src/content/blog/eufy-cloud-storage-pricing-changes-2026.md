@@ -80,7 +80,7 @@ For buyers, this means vetting the hardware more carefully. If you purchase an S
 
 ### Evaluating the Value of eufyCare+
 
-Another addition to the 2026 plans is the expansion of eufyCare+. Previously a standalone extended warranty, it is now bundled into the Premier Plan. This offers a "replacement guarantee" for hardware failures and, in some regions, includes a theft protection reimbursement if a camera is stolen while actively recording. For homeowners with $1,000+ invested in a multi-camera array, the $10/mo Premier Plan acts more like an insurance policy than just a storage fee.
+Another addition to the 2026 plans is the expansion of eufyCare+. Previously a standalone extended warranty, it is now bundled into the Premier Plan. This offers a "replacement guarantee" for hardware failures and, in some regions, includes a [theft protection](https://quvii.com/learn/ring-vs-arlo-summer-porch-theft-protection) reimbursement if a camera is stolen while actively recording. For homeowners with $1,000+ invested in a multi-camera array, the $10/mo Premier Plan acts more like an insurance policy than just a storage fee.
 
 **Decision Framework: Which Path Should You Choose?**
 

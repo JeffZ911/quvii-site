@@ -146,7 +146,7 @@ This contrasts sharply with many competitors where a similar setup could incur $
 To reduce false alarms, access your camera's settings in the Reolink App or Client. Adjust the [motion detection](https://quvii.com/blog/ring-camera-motion-streaming-issues-july-2026) sensitivity to a lower level, define specific detection zones to exclude areas with irrelevant movement (like trees or public sidewalks), and enable smart detection filters for persons, vehicles, or pets to ignore other types of motion.
 
 ### Can I use my existing wired doorbell chime with a Reolink video doorbell?
-Yes, many Reolink wired video doorbells are compatible with existing mechanical or digital chimes. You will need to ensure your doorbell transformer provides power within the specified range, typically 8-24 VAC and 5-40VA. The Reolink App will guide you through the setup and chime type selection.
+Yes, many Reolink wired [video doorbells](https://quvii.com/blog/best-video-doorbells-apartment-renters-2026) are compatible with existing mechanical or digital chimes. You will need to ensure your doorbell transformer provides power within the specified range, typically 8-24 VAC and 5-40VA. The Reolink App will guide you through the setup and chime type selection.
 
 ### Do Reolink cameras require a subscription for motion alerts?
 No, Reolink cameras generally do not require a subscription for basic [motion alerts](https://quvii.com/blog/ring-doorbell-not-sending-motion-alerts-streaming-fix) or advanced AI-powered smart detection (person, vehicle, package). These features are typically processed on-device, allowing for subscription-free alerts and local video storage via microSD card or NVR.

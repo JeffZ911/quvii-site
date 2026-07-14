@@ -23,7 +23,7 @@ inline_image_sections:
   - "What to do now"
 ---
 
-Choosing a doorbell camera used to mean choosing a monthly bill, but a shift toward local storage is finally giving homeowners a way to opt out of the "subscription tax."
+Choosing a doorbell camera used to mean choosing a monthly bill, but a shift toward [local storage](https://quvii.com/learn/best-4k-security-cameras-local-storage) is finally giving homeowners a way to opt out of the "subscription tax."
 
 # The Best Doorbell Cameras That Record Locally: 2026 Buyer’s Guide
 

@@ -153,7 +153,7 @@ For users tired of the "firmware lottery," there is a growing movement toward ca
 ### Decision Framework: Should you stay with Nest?
 *   **If you are a renter:** Stick with the Nest Cam but disable Gemini features. You likely cannot drill for permanent power, so maximizing battery is your only priority.
 *   **If you are a homeowner:** Consider hardwiring your Nest Cam using the [official Weatherproof Cable](https://store.google.com/product/nest_cam_weatherproof_cable). This bypasses the battery issue entirely and enables 24/7 recording if you have a Nest Aware Plus subscription.
-*   **If you want "Set and Forget":** It may be time to look at subscription-free security cameras. Cameras with local storage and local AI processing generally offer more predictable battery life because they aren't dependent on frequent cloud "check-ins."
+*   **If you want "Set and Forget":** It may be time to look at subscription-free security cameras. [Cameras with local](https://quvii.com/learn/best-4k-security-cameras-local-storage) storage and local AI processing generally offer more predictable battery life because they aren't dependent on frequent cloud "check-ins."
 
 ## Frequently Asked Questions
 
