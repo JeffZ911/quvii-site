@@ -67,7 +67,7 @@ Hardware specs have jumped significantly. In 2026, 4K is considered the standard
 | **Eufy S350** | Around $130 | $0 | **Around $130** |
 | **Reolink E1 Pro** | Around $55 | $0 | **Around $55** |
 
-*Note: Local storage models require a one-time purchase of a High-Endurance MicroSD card (around $20-40).*
+*Note: [Local storage](https://quvii.com/learn/best-4k-security-cameras-local-storage) models require a one-time purchase of a High-Endurance MicroSD card (around $20-40).*
 
 ## Impact on existing owners
 

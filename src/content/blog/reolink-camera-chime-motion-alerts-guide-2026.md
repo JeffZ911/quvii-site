@@ -22,7 +22,7 @@ inline_image_sections:
   - "What to do now"
 ---
 
-Keeping a close watch on your property requires a security camera system that not only detects activity but also alerts you effectively. Reolink cameras and doorbells offer extensive customization for chime settings and [motion alerts](https://quvii.com/blog/ring-doorbell-not-sending-motion-alerts-streaming-fix), primarily managed through the Reolink App, Client, NVR, or web browser, with advanced AI detection features for person, vehicle, and package recognition to minimize false alarms and provide subscription-free local storage.
+Keeping a close watch on your property requires a security [camera system](https://quvii.com/blog/ring-vs-ubiquiti-unifi-comparison-2026) that not only detects activity but also alerts you effectively. Reolink cameras and doorbells offer extensive customization for chime settings and [motion alerts](https://quvii.com/blog/ring-doorbell-not-sending-motion-alerts-streaming-fix), primarily managed through the Reolink App, Client, NVR, or web browser, with advanced AI detection features for person, vehicle, and package recognition to minimize false alarms and provide subscription-free local storage.
 
 # Reolink Camera Chime & Motion Alerts: 2026 Setup Guide
 

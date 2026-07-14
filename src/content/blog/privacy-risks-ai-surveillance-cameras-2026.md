@@ -94,7 +94,7 @@ The "privacy-first" option is not only more secure; it is significantly cheaper 
 ![Impact on existing owners](/img/privacy-risks-ai-surveillance-cameras-2026/inline-3.webp)
 
 
-If you already own a camera system, the privacy landscape has likely changed since you installed it. "Policy Creep" is a documented phenomenon where firmware updates slowly introduce new data-sharing requirements.
+If you already own a [camera system](https://quvii.com/blog/ring-vs-ubiquiti-unifi-comparison-2026), the privacy landscape has likely changed since you installed it. "Policy Creep" is a documented phenomenon where firmware updates slowly introduce new data-sharing requirements.
 
 ### Firmware Updates and Silent Consent
 In 2025, several major brands introduced "User Experience Improvement Programs" via mandatory firmware updates. These programs often default to "Opt-In," allowing the camera to share "anonymized scene descriptions" with the manufacturer. This means that even if you aren't looking at your app, your camera is sending text-based descriptions of what it sees back to the home office. Owners should regularly check the "Privacy" or "Data Security" tab in their camera app to ensure these haven't been toggled on during an update.

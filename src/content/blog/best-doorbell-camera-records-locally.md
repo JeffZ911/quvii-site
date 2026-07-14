@@ -61,7 +61,7 @@ Furthermore, the hardware for storing this data has evolved. The Eufy [HomeBase 
 ![Why it matters for buyers](/img/best-doorbell-camera-records-locally/inline-2.webp)
 
 
-The move to local storage is not merely a philosophical stance on privacy; it is a pragmatic financial and operational decision.
+The move to [local storage](https://quvii.com/learn/best-4k-security-cameras-local-storage) is not merely a philosophical stance on privacy; it is a pragmatic financial and operational decision.
 
 ### Financial ROI: The 3-Year Cost Comparison
 The most immediate impact is the total cost of ownership (TCO). A standard subscription-based doorbell typically carries a lower entry price but a much higher long-term cost. When you factor in the hardware, a local-storage doorbell like the Eufy E340 (around $180) typically pays for itself within 12 to 18 months. By year three, a Ring user may have spent over $500 on a single camera and its associated fees, while the local storage user has spent nothing beyond the initial purchase.
