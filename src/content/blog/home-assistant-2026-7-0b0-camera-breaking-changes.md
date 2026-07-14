@@ -103,7 +103,7 @@ Navigating [breaking changes](https://quvii.com/learn/home-assistant-2026-7-alex
 
 The single most critical step before attempting any major [Home Assistant](https://quvii.com/blog/eufy-security-push-notifications-failing-home-assistant-20260712) update is to **backup your Home Assistant instance**. This allows for a complete and easy revert if any issues arise during or after the update. Home Assistant provides robust backup options, typically found under `Settings > System > Backups`. A full backup ensures that your entire configuration, including integrations, automations, and dashboards, can be restored.
 
-Next, **thoroughly review the official Home Assistant 2026.7 release notes**. Pay close attention to the "[Breaking Changes](https://quvii.com/learn/home-assistant-2026-7-alexa-media-player-breaking-changes)" section, specifically looking for any entries related to camera integrations, ONVIF, RTSP, or automation triggers and conditions. These notes will provide the most comprehensive list of backward-incompatible changes and often offer migration paths or solutions.
+Next, **thoroughly review the official [Home Assistant](https://quvii.com/blog/eufy-security-push-notifications-failing-home-assistant-20260712) 2026.7 release notes**. Pay close attention to the "[Breaking Changes](https://quvii.com/learn/home-assistant-2026-7-alexa-media-player-breaking-changes)" section, specifically looking for any entries related to camera integrations, ONVIF, RTSP, or automation triggers and conditions. These notes will provide the most comprehensive list of backward-incompatible changes and often offer migration paths or solutions.
 
 ### Post-Update Troubleshooting and Configuration
 

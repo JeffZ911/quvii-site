@@ -86,7 +86,7 @@ When selecting a system, the "power budget" of the NVR or PoE switch is paramoun
 - **802.3bt (PoE++):** Up to 60W-90W. Necessary for high-end PTZ cameras used in large parking lots.
 
 ### Edge AI Processing
-In 2026, the "intelligence" has moved from the recorder into the camera itself. Cameras like the Ubiquiti UniFi G6 series utilize onboard Neural Processing Units (NPUs) to identify faces, license plates, and even specific objects like "ladder" or "delivery truck." By processing this data at the edge, the NVR doesn't have to work as hard to "watch" the video, which reduces heat, increases hardware longevity, and makes searching through weeks of footage nearly instantaneous.
+In 2026, the "intelligence" has moved from the recorder into the camera itself. Cameras like the [Ubiquiti UniFi](https://quvii.com/blog/ring-vs-ubiquiti-unifi-comparison-2026) G6 series utilize onboard Neural Processing Units (NPUs) to identify faces, license plates, and even specific objects like "ladder" or "delivery truck." By processing this data at the edge, the NVR doesn't have to work as hard to "watch" the video, which reduces heat, increases hardware longevity, and makes searching through weeks of footage nearly instantaneous.
 
 ### Storage Calculations and H.265+
 Recording 4K video 24/7 requires immense storage. Most modern systems use **H.265+ (High-Efficiency Video Coding)**, which compresses video approximately 50% more efficiently than the older H.264 standard without losing detail. 

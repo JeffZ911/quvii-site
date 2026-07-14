@@ -31,7 +31,7 @@ When federal agents appear on a private porch, the doorbell camera transitioning
 
 # Doorbell Camera Privacy: Your Rights When Federal Agents Visit Your Porch
 
-**Quick Answer:** Federal agents can access doorbell camera footage through a valid search warrant, a subpoena, or by requesting it directly from the homeowner, who has the right to refuse without a warrant. In life-threatening emergencies, camera manufacturers like Ring and Google Nest may also provide cloud-stored footage without user consent under exceptions in the Electronic Communications Privacy Act (ECPA). Doorbell cameras with local storage, such as those from Eufy and Reolink, generally offer greater user control over data as footage is stored on-site.
+**Quick Answer:** Federal agents can access doorbell camera footage through a valid search warrant, a subpoena, or by requesting it directly from the homeowner, who has the right to refuse without a warrant. In life-threatening emergencies, camera manufacturers like Ring and Google Nest may also provide cloud-stored footage without user consent under exceptions in the Electronic Communications Privacy Act (ECPA). Doorbell [cameras with local](https://quvii.com/learn/best-4k-security-cameras-local-storage) storage, such as those from Eufy and Reolink, generally offer greater user control over data as footage is stored on-site.
 
 ## What it means
 

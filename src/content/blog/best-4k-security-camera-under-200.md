@@ -146,7 +146,7 @@ Don't feel the need to replace every camera at once. Focus your budget on the en
 1.  **Wi-Fi 6 Support:** Does the camera support 802.11ax for stable 4K streaming?
 2.  **Field of View (FOV):** Is it wide enough (140°+) to cover your target area?
 3.  **Aperture Size:** Does it have an f/1.0 or f/1.4 lens for better night performance?
-4.  **Local Storage Limit:** Does it support at least a 256GB microSD card?
+4.  **[Local Storage](https://quvii.com/learn/best-4k-security-cameras-local-storage) Limit:** Does it support at least a 256GB microSD card?
 5.  **AI Detection:** Does it include person/vehicle detection *on-device* without a subscription?
 
 As the market continues to evolve, Quvii tracks these trade-offs across the category to ensure buyers aren't lured in by high resolution numbers while sacrificing reliability or privacy.

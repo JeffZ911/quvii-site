@@ -189,7 +189,7 @@ Most major brands (Reolink, Lorex, Amcrest) now support integration with smart d
 
 ## Sources
 - <a href="https://www.amazon.com/s?k=Reolink+Duo+3+PoE+Product+Page&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Reolink Duo 3 PoE Product Page</a> — Official specifications for 16MP resolution and 180° FOV.
-- Ubiquiti UniFi G5 Pro Specs — Hardware details and ecosystem requirements.
+- [Ubiquiti UniFi](https://quvii.com/blog/ring-vs-ubiquiti-unifi-comparison-2026) G5 Pro Specs — Hardware details and ecosystem requirements.
 - [IEEE 802.3 Ethernet Standards](https://standards.ieee.org/ieee/802.3/7071/) — Authoritative data on PoE wattage and standards.
 - [Lorex Fusion Series Documentation](https://www.lorex.com/) — Information on active deterrence and local NVR storage policies.
 - Western Digital Surveillance Storage Guide — Technical requirements for 24/7 4K/8K recording.

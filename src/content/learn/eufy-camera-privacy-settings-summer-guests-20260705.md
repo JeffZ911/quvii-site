@@ -199,7 +199,7 @@ No, guests who are given "Guest" access to your Eufy cameras will see the same b
 Yes, when a Eufy camera is placed in Privacy Mode (specifically models with mechanical shutters like the S350) or is disabled via the app, both the video feed and the microphone are deactivated. This ensures that private conversations in guest areas are not captured or streamed.
 
 ### What happens to privacy settings if the Wi-Fi goes down?
-Eufy cameras with local storage (like those connected to a HomeBase 3) will continue to follow their last programmed schedule and privacy zone configurations even if the internet is lost. However, you will not be able to change these settings or view the live feed until the connection is restored.
+Eufy [cameras with local](https://quvii.com/learn/best-4k-security-cameras-local-storage) storage (like those connected to a HomeBase 3) will continue to follow their last programmed schedule and privacy zone configurations even if the internet is lost. However, you will not be able to change these settings or view the live feed until the connection is restored.
 
 ## Sources
 - Eufy Official Site: Privacy Policy — https://www.eufy.com/privacy-policy

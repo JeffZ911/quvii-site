@@ -163,7 +163,7 @@ Yes, the HomeBase 3 (S380) is supported by the community integration, but it is 
 ## Sources
 
 - Eufy Security Official Privacy Policy & Trust Center
-- Home Assistant Community: Eufy Security Integration Thread
+- [Home Assistant](https://quvii.com/blog/eufy-security-push-notifications-failing-home-assistant-20260712) Community: Eufy Security Integration Thread
 - [GitHub: eufy-security-client (bropat)](https://github.com/bropat/eufy-security-client) — https://github.com/bropat/eufy-security-client
 - RTINGS: Eufy eufyCam 3 (S330) Review & Specs
 - [GitHub: Home Assistant Eufy Security (fuatakgun)](https://github.com/fuatakgun/eufy_security) — https://github.com/fuatakgun/eufy_security
