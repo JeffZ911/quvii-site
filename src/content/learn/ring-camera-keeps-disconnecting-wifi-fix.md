@@ -176,6 +176,6 @@ If a camera remains "Offline" despite perfect RSSI and power, a hard reset is re
 ## Sources
 - Ring Support: RSSI Values and Signal Strength — [https://support.ring.com/hc/en-us/articles/217271526-Understanding-RSSI-Values-and-Signal-Strength](https://support.ring.com/hc/en-us/articles/217271526-Understanding-RSSI-Values-and-Signal-Strength)
 - Ring Help: Transformer Compatibility Guide — [https://support.ring.com/hc/en-us/articles/115000148646-Wiring-Diagrams-for-Ring-Video-Doorbell-Pro-Setups](https://support.ring.com/hc/en-us/articles/115000148646-Wiring-Diagrams-for-Ring-Video-Doorbell-Pro-Setups)
-- RTINGS: Best Video Doorbells of 2024-2025
+- RTINGS: Best [Video Doorbells](https://quvii.com/blog/best-video-doorbells-apartment-renters-2026) of 2024-2025
 - The Verge: The Problem with Mesh Networking and IoT — [https://www.theverge.com/22994483/mesh-wi-fi-router-smart-home-devices-interference-how-to](https://www.theverge.com/22994483/mesh-wi-fi-router-smart-home-devices-interference-how-to)
 - FCC ID Search: Ring LLV Wi-Fi Specifications — https://fccid.io/2AEUP
