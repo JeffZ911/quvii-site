@@ -175,4 +175,4 @@ The spinning circle indicates a connection timeout. This happens when your phone
 - Ring Product Specifications (Wired Pro 3rd Gen) — https://www.ring.com/products/video-doorbell-pro-2 (Note: Reference point for Pro series specs)
 - Reddit r/HomeSecurity Wiki: Doorbell Latency Issues — https://www.reddit.com/r/homesecurity/
 - Mozilla *Privacy Not Included*: Ring Review
-- RTINGS: Best Video Doorbells of 2026
+- RTINGS: Best [Video Doorbells](https://quvii.com/blog/best-video-doorbells-apartment-renters-2026) of 2026

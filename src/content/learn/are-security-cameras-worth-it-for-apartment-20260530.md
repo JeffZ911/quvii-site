@@ -88,7 +88,7 @@ In most US jurisdictions, there is no "reasonable expectation of privacy" in a s
 - [ ] **Audio Laws:** Determine if your state requires consent for audio recording.
 
 ### Insurance Discounts and Claims
-While a camera might not stop a thief, it significantly eases the insurance claim process. Renters' insurance providers like Lemonade or State Farm often offer a 2% to 5% discount for "theft protection" devices. More importantly, according to [The Verge’s 2025 report on digital evidence](https://www.theverge.com/), claims backed by high-definition video are processed 30% faster on average because they eliminate the "he-said, she-said" regarding the point of entry.
+While a camera might not stop a thief, it significantly eases the insurance claim process. Renters' insurance providers like Lemonade or State Farm often offer a 2% to 5% discount for "[theft protection](https://quvii.com/learn/ring-vs-arlo-summer-porch-theft-protection)" devices. More importantly, according to [The Verge’s 2025 report on digital evidence](https://www.theverge.com/), claims backed by high-definition video are processed 30% faster on average because they eliminate the "he-said, she-said" regarding the point of entry.
 
 ### Non-Destructive Installation Methods
 For 2026, the three primary "no-drill" methods are:
