@@ -165,5 +165,5 @@ Following their 2022-2023 privacy disclosures, Eufy implemented more robust end-
 - Ring Official Subscription Tiers — https://www.ring.com/protect-plans
 - Reolink Product Specifications — https://reolink.com/product/reolink-video-doorbell-wifi/
 - Ring Privacy and Law Enforcement Policy
-- PCMag: The Best Video Doorbells for 2026 — https://www.pcmag.com/picks/the-best-video-doorbells
+- PCMag: The Best [Video Doorbells](https://quvii.com/blog/best-video-doorbells-apartment-renters-2026) for 2026 — https://www.pcmag.com/picks/the-best-video-doorbells
 - Reddit Home Security Community Wiki — https://www.reddit.com/r/homesecurity/wiki/index

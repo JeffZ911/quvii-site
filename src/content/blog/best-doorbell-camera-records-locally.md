@@ -73,7 +73,7 @@ Local recording ensures "Data Sovereignty." When footage is stored on a device i
 Accessing clips via a local network (LAN) is significantly faster than fetching them from a remote cloud server. In our synthesis of community benchmarks from [r/HomeSecurity](https://www.reddit.com/r/homesecurity/), local systems consistently show a "Time to Clip" (the time from clicking a notification to seeing the video) of under 1.5 seconds. Cloud-based systems often struggle with 3–6 second latencies, which can be the difference between identifying a porch pirate and seeing the back of a van driving away.
 
 ### Reliability During Network Outages
-Internet independence is the final pillar of local storage. If your ISP goes down or a bad actor uses a Wi-Fi jammer, a cloud-based camera effectively becomes a paperweight. Local systems, especially wired PoE (Power over Ethernet) models, continue to record and store footage to an internal NVR or microSD card regardless of your internet status.
+Internet independence is the final pillar of [local storage](https://quvii.com/learn/best-4k-security-cameras-local-storage). If your ISP goes down or a bad actor uses a Wi-Fi jammer, a cloud-based camera effectively becomes a paperweight. Local systems, especially wired PoE (Power over Ethernet) models, continue to record and store footage to an internal NVR or microSD card regardless of your internet status.
 
 ## Impact on existing owners
 

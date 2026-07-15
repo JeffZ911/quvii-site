@@ -47,7 +47,7 @@ Perhaps the most significant breakthrough of 2025-2026 is the "Continuous Batter
 
 ### Comparison of 2026 Subscription Costs (Annual)
 
-| Brand | Basic Plan (1 Cam) | Plus/Premier (Unlimited) | Local Storage Support |
+| Brand | Basic Plan (1 Cam) | Plus/Premier (Unlimited) | [Local Storage](https://quvii.com/learn/best-4k-security-cameras-local-storage) Support |
 | :--- | :--- | :--- | :--- |
 | **Ring** | ~$50 | ~$150+ | No (Requires Edge + Subscription) |
 | **Arlo** | ~$60–$80 | ~$180+ | Limited (Requires Base Station) |
