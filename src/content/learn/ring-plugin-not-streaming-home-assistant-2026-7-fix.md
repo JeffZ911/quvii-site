@@ -41,7 +41,7 @@ For users running the Home Assistant 2026.7.0b0 beta, a sudden loss of Ring vide
 *Related: [Doorbell Camera vs. Security Camera: Optimal Placement Guide](/learn/doorbell-camera-vs-security-camera-placement) · [Doorbell Camera Privacy: Your Rights When Federal Agents Visit Your Po](/learn/doorbell-camera-privacy-federal-agents-porch-visit) · [Arlo Pro VMC4030 Factory Reset Failure: July 2026 Fix Guide](/learn/arlo-pro-vmc4030-factory-reset-failure-july-2026)*
 
 
-When a user attempts to open a Ring camera feed in the Home Assistant 2026.7.0b0 dashboard, the stream fails to initialize, often spinning indefinitely or displaying a "Failed to fetch" overlay. Unlike a simple network outage where an entity might show as "Unavailable," the Ring entities remain "Online," but the media player component cannot establish a visual connection.
+When a user attempts to open a Ring camera feed in the Home Assistant 2026.7.0b0 dashboard, the [stream fails](https://quvii.com/blog/ezviz-hp7-home-assistant-live-stream-fails) to initialize, often spinning indefinitely or displaying a "Failed to fetch" overlay. Unlike a simple network outage where an entity might show as "Unavailable," the Ring entities remain "Online," but the media player component cannot establish a visual connection.
 
 ### Identifying the WebRTC Error Log
 To confirm this specific issue, users must inspect the Home Assistant Core logs (Settings > System > Logs). The hallmark of this 2026.7.0b0 bug is a `WebRTC Error` followed by a specific trace:

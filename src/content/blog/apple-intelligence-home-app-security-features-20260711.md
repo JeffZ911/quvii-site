@@ -121,7 +121,7 @@ If you are looking to modernize your home security for the Apple Intelligence er
 Before buying 4K cameras, ensure your Wi-Fi network can handle the load. We recommend a Wi-Fi 6E or Wi-Fi 7 mesh system. Unlike [subscription-free security cameras](https://www.reolink.com) that record locally to an SD card, HKSV must upload the footage to the cloud constantly. If you have five 4K cameras, you may need a fiber internet connection with at least 100 Mbps upload speed to avoid lag in your smart home automations.
 
 ### Upgrading Your Camera Hardware
-If you are still using 1080p cameras and want the clarity promised by the 2026 update, look for cameras explicitly labeled "4K HKSV Compatible." Many older 4K cameras that worked with HomeKit only did so via "HomeKit-only" (live stream only) or used 1080p for the HKSV recording.
+If you are still using 1080p cameras and want the clarity promised by the 2026 update, look for cameras explicitly labeled "4K HKSV Compatible." Many older 4K cameras that worked with HomeKit only did so via "HomeKit-only" ([live stream](https://quvii.com/blog/ezviz-hp7-home-assistant-live-stream-fails) only) or used 1080p for the HKSV recording.
 
 ### The Best 4K HKSV Pick for 2026
 The **Aqara Camera Hub G5 Pro** has emerged as the flagship choice for this new era. It features a 1/1.8-inch sensor, 4K resolution, and dual-band Wi-Fi 6. It is one of the few cameras designed specifically to saturate the new Apple Intelligence pipeline, providing the raw detail necessary for the AI to generate highly accurate activity summaries.

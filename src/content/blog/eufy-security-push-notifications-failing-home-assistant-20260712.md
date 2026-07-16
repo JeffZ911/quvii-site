@@ -22,7 +22,7 @@ inline_image_sections:
   - "What to do now"
 ---
 
-Eufy’s promise of a "subscription-free" ecosystem has made it a staple for Home Assistant enthusiasts, but a series of mid-2026 server-side changes has left many dashboards displaying "Entity not available" errors.
+Eufy’s promise of a "subscription-free" ecosystem has made it a staple for [Home Assistant](https://quvii.com/blog/ezviz-hp7-home-assistant-live-stream-fails) enthusiasts, but a series of mid-2026 server-side changes has left many dashboards displaying "Entity not available" errors.
 
 # Eufy Security Push Notifications Failing in Home Assistant: What Happened and How to Fix It
 
