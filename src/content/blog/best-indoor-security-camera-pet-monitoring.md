@@ -84,7 +84,7 @@ The move to 4K and advanced AI has created a bottleneck for existing owners: sto
 Owners using older, slower cards may experience:
 *   **Stuttering Playback:** The camera cannot write the 4K stream fast enough.
 *   **AI Failures:** The "Pet Diary" feature may fail to compile if the card's read/write speeds are inconsistent.
-*   **Card Burnout:** Constant 24/7 recording at 4K resolution will wear out a standard SD card in months rather than years. Reolink's support documentation now specifically recommends "High Endurance" cards for all 2026 4K models.
+*   **Card Burnout:** Constant 24/7 recording at 4K resolution will wear out a standard [SD card](https://quvii.com/learn/wyze-cam-v3-firmware-4-36-14-3497-sd-card-playback-fix) in months rather than years. Reolink's support documentation now specifically recommends "High Endurance" cards for all 2026 4K models.
 
 ## What to do now
 

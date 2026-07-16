@@ -127,7 +127,7 @@ If the app crashes specifically when you start a live stream, the issue is likel
 ### Step 3: How to Roll Back Firmware (If Necessary)
 
 If your app was stable until you updated the *camera* firmware, you may need to perform a manual rollback. This requires a microSD card (32GB or smaller, formatted to FAT32).
-1.  Download a known stable firmware version (e.g., v4.36.14.3497 for Cam v3) from the Wyze Release Notes page.
+1.  Download a known stable firmware version (e.g., v4.36.14.3497 for [Cam v3](https://quvii.com/learn/wyze-cam-v3-firmware-4-36-14-3497-sd-card-playback-fix)) from the Wyze Release Notes page.
 2.  Rename the file to `demo.bin`.
 3.  Power off the camera and insert the SD card.
 4.  Hold the setup button while plugging the power back in until the light turns solid purple/blue.

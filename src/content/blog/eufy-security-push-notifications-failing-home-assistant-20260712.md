@@ -41,7 +41,7 @@ In late June 2026, the delicate bridge between Eufy’s proprietary cloud and th
 ### The API Shift: Why Your Tokens Expired
 The primary culprit was a server-side update to Eufy’s authentication API. Historically, the community-maintained `eufy-security-ws` library utilized a specific set of API endpoints to fetch "Station Data"—the metadata that tells [Home Assistant](https://quvii.com/blog/ezviz-hp7-home-assistant-live-stream-fails) which HomeBases and cameras are linked to an account. In June 2026, Eufy implemented a mandatory token refresh policy that invalidated existing session tokens every 24 hours and changed the required header parameters for these requests. 
 
-Users began seeing `HTTPApi.refreshStationData` errors in their Home Assistant logs. Because the integration could no longer "check-in" with Eufy’s servers to verify the device list, it defaulted to a "No stations found" or "No devices found" state, even if the cameras were physically powered on and functioning within the official Eufy Security app.
+Users began seeing `HTTPApi.refreshStationData` errors in their [Home Assistant](https://quvii.com/blog/ezviz-hp7-home-assistant-live-stream-fails) logs. Because the integration could no longer "check-in" with Eufy’s servers to verify the device list, it defaulted to a "No stations found" or "No devices found" state, even if the cameras were physically powered on and functioning within the official Eufy Security app.
 
 ### HomeBase 3 Firmware v3.x.x and the P2P Protocol Break
 Simultaneously, Eufy began rolling out firmware version 3.x.x for the HomeBase 3. This update introduced a revamped Peer-to-Peer (P2P) handshake protocol. P2P is the method Eufy uses to stream video data directly from the HomeBase to a viewing device without routing the heavy video file through a central server. 
@@ -102,7 +102,7 @@ Users attempting to fix the "No stations found" error by re-authenticating have 
 For those using wall-mounted tablets as security dashboards, the current failure means the camera tiles are either blank or show a static image from weeks ago. In a crisis, a user who relies on their HA dashboard to see who is at the door would find it unresponsive, forcing them to fumble for their phone and open the official Eufy app—a delay that undermines the utility of a centralized smart home.
 
 ### Secondary Account Issues
-A long-standing best practice for Eufy/HA users is to create a second "Admin" account specifically for the integration. However, the July 2026 changes in Eufy’s permission handling have caused some shared accounts to lose "P2P streaming" rights. Even if the secondary account can see the camera list, it may be denied the ability to initiate a live stream, resulting in a "Permission Denied" error in the `eufy-security-ws` logs.
+A long-standing best practice for Eufy/HA users is to create a second "Admin" account specifically for the integration. However, the July 2026 changes in Eufy’s permission handling have caused some shared accounts to lose "P2P streaming" rights. Even if the secondary account can see the camera list, it may be denied the ability to initiate a [live stream](https://quvii.com/blog/ezviz-hp7-home-assistant-live-stream-fails), resulting in a "Permission Denied" error in the `eufy-security-ws` logs.
 
 ## What to do now
 

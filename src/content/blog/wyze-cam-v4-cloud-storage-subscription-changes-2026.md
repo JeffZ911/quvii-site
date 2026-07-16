@@ -146,7 +146,7 @@ Yes, but with significant limitations. Without Cam Plus, you receive [motion ale
 VerifiedView is a security feature introduced in early 2026. It embeds a hashed ID into the video stream that is unique to your account and hardware. Its primary purpose is to prevent unauthorized viewing of cloud footage by third parties or Wyze employees, ensuring that only the authenticated account holder can decrypt the video.
 
 ### Can I still use TinyCam Pro with the new 2026 firmware?
-Recent updates in firmware 4.52.9.6119 have tightened API restrictions to support the new subscription tiers. While TinyCam Pro still functions, many users report that "Webview" must be enabled in the Wyze account for the stream to remain stable, and some third-party integrations may experience more frequent timeouts than in previous years.
+Recent updates in [firmware 4](https://quvii.com/learn/wyze-cam-v3-firmware-4-36-14-3497-sd-card-playback-fix).52.9.6119 have tightened API restrictions to support the new subscription tiers. While TinyCam Pro still functions, many users report that "Webview" must be enabled in the Wyze account for the stream to remain stable, and some third-party integrations may experience more frequent timeouts than in previous years.
 
 ## Sources
 - Wyze Official: Service Plans and Pricing 2026

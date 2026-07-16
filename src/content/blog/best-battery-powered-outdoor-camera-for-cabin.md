@@ -80,7 +80,7 @@ For cabins with Starlink, the primary challenge is the "reboot cycle." When Star
 The "sticker price" of a camera is often a fraction of its lifetime cost. Arlo and Ring have moved more features—including high-resolution cloud recording and advanced AI filtering—behind monthly paywalls.
 
 **3-Year Total Cost of Ownership (TCO) Comparison:**
-*   **Reolink Altas PT Ultra:** ~$200 (Hardware) + $30 (High-endurance 256GB SD card) + $0 (Subscription) = **$230 Total.**
+*   **Reolink Altas PT Ultra:** ~$200 (Hardware) + $30 (High-endurance 256GB [SD card](https://quvii.com/learn/wyze-cam-v3-firmware-4-36-14-3497-sd-card-playback-fix)) + $0 (Subscription) = **$230 Total.**
 *   **[Arlo Pro](https://quvii.com/learn/arlo-pro-vmc4030-factory-reset-failure-july-2026) [5S 2K](https://quvii.com/learn/arlo-pro-5s-2k-night-vision-stuck-on):** ~$180 (Hardware) + $155/year ([Arlo Secure](https://quvii.com/blog/arlo-secure-app-6-26-0-firmware-issues) Plus for 4K/2K Cloud) = **$645 Total.**
 
 For a cabin owner, that $415 difference over three years could be better spent on a more robust solar array or additional hardware.

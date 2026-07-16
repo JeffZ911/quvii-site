@@ -87,7 +87,7 @@ If your camera has a microSD card installed and local recording enabled, it may 
 
 **For all security camera buyers, evaluate product safety and reliability beyond initial cost.** Look for clear, comprehensive installation instructions and research a manufacturer's track record for proactively addressing safety concerns and product defects. Independent reviews and consumer safety reports can provide valuable insights.
 
-**Prioritize cameras with robust local storage capabilities.** Many Wyze Cams, such as the Wyze Cam v3 and v4, support microSD cards up to 256GB for continuous or event-only recording without a subscription. This provides a critical backup during internet or cloud outages, ensuring you don't miss important events.
+**Prioritize cameras with robust local storage capabilities.** Many Wyze Cams, such as the [Wyze Cam v3](https://quvii.com/learn/wyze-cam-v3-firmware-4-36-14-3497-sd-card-playback-fix) and v4, support microSD cards up to 256GB for continuous or event-only recording without a subscription. This provides a critical backup during internet or cloud outages, ensuring you don't miss important events.
 
 **Consider security camera systems that offer strong offline functionality.** Brands like Eufy, Reolink, and TP-Link Tapo/Kasa are often recognized for their emphasis on local storage options and less reliance on mandatory subscriptions for core features, offering greater control and resilience against service interruptions.
 
@@ -99,7 +99,7 @@ If your camera has a microSD card installed and local recording enabled, it may 
 
 ### Security Camera Feature Comparison
 
-| Feature                 | Wyze Cam v3 Pro | [Wyze Cam v4](https://quvii.com/learn/wyze-cam-v4-overheating-issues-june-2026-20260627) | Wyze Cam Pan v3 | Wyze Outdoor Cam v2 |
+| Feature                 | Wyze [Cam v3](https://quvii.com/learn/wyze-cam-v3-firmware-4-36-14-3497-sd-card-playback-fix) Pro | [Wyze Cam v4](https://quvii.com/learn/wyze-cam-v4-overheating-issues-june-2026-20260627) | Wyze Cam Pan v3 | Wyze Outdoor Cam v2 |
 | :---------------------- | :-------------- | :---------- | :-------------- | :------------------ |
 | **Resolution**          | 2K (2560x1440) | 2K (2560x1440) | 1080p | 1080p |
 | **IR [Night Vision](https://quvii.com/learn/arlo-pro-5s-2k-night-vision-stuck-on) Range** | Up to 30 ft | Up to 30 ft | Up to 30 ft | Up to 25 ft |
