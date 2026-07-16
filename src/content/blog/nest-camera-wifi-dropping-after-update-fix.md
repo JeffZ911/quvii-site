@@ -44,7 +44,7 @@ The core of the issue appears to be a breakdown in the WPA3 security handshake. 
 Symptoms reported by users include:
 *   **The Pulsing White Light:** The status LED on the front of the camera pulses white, indicating it is searching for a connection or waiting for authentication.
 *   **Selective Connectivity:** Some users find that cameras closer to the router remain stable, while those with a -65 dBm signal or weaker—previously perfectly functional—now drop every few hours.
-*   **The "Ghost" Connection:** The router management interface shows the camera as an active client with a high bit rate, but the cloud-dependent Google Home app cannot pull a live stream.
+*   **The "Ghost" Connection:** The router management interface shows the camera as an active client with a high bit rate, but the cloud-dependent Google Home app cannot pull a [live stream](https://quvii.com/blog/ezviz-hp7-home-assistant-live-stream-fails).
 
 Unlike previous minor glitches, this July 2026 event has proven persistent, with many users reporting that simple app-based restarts do not resolve the cycle of drops.
 

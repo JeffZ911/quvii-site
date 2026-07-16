@@ -115,7 +115,7 @@ If you already own a system from one of these brands, Summer 2026 brings a mix o
 
 Arlo’s End-of-Life (EOL) policy has become a cautionary tale for the industry. Having sunset support for the original Arlo, Pro, and Pro 2, the company has now moved to limit the functionality of the Pro 3 and Ultra (Gen 1) series. While these cameras still work, they no longer receive security updates, and their ability to store video to the cloud without a subscription has been effectively eliminated.
 
-Existing Arlo owners with older VMB4000 or VMB4500 hubs are also reporting significant latency issues. As Arlo’s 2026 firmware updates prioritize the higher processing requirements of the Ultra 3 and Pro 5S, older hubs struggle to keep up, often resulting in "Request Timed Out" errors when trying to view a live stream.
+Existing Arlo owners with older VMB4000 or VMB4500 hubs are also reporting significant latency issues. As Arlo’s 2026 firmware updates prioritize the higher processing requirements of the Ultra 3 and Pro 5S, older hubs struggle to keep up, often resulting in "Request Timed Out" errors when trying to view a [live stream](https://quvii.com/blog/ezviz-hp7-home-assistant-live-stream-fails).
 
 ### Ring's Mandatory Migration: What you need to know
 

@@ -80,7 +80,7 @@ Considering the total cost of ownership (TCO) is crucial when evaluating securit
 | [Blink Outdoor](https://quvii.com/learn/blink-outdoor-4-battery-drain-june-2026) 4 + Sync M2 (No Subscription) | $100-200                             | $0                          | $100-200          |
 | Blink [Outdoor 4](https://quvii.com/learn/blink-outdoor-4-battery-drain-june-2026) + Sync M2 (With Blink Plus) | $100-200                             | $300 (3 x $100/year)        | $400-500          |
 | Eufy S330 eufyCam 3 + HomeBase 3 | $250-350 (often higher initial)     | $0                          | $250-350          |
-| [Reolink Argus 4 Pro](/blog/reolink-argus-4-pro-new-release-features-20260613) (Local SD Card) | $100-200                             | $0                          | $100-200          |
+| [Reolink Argus 4 Pro](/blog/reolink-argus-4-pro-new-release-features-20260613) (Local [SD Card](https://quvii.com/learn/wyze-cam-v3-firmware-4-36-14-3497-sd-card-playback-fix)) | $100-200                             | $0                          | $100-200          |
 
 ### Privacy Implications of Hub Failures
 
