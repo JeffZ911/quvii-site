@@ -67,7 +67,7 @@ A common trap for new buyers is the "low-cost" entry point. A $50 camera that re
 
 **5-Year TCO Comparison:**
 *   **Subscription-Locked Camera:** $50 (Hardware) + $600 ($10/mo for 60 months) = **$650**
-*   **Subscription-Free Camera:** $200 (Hardware) + $30 (High-Endurance 256GB SD Card) = **$230**
+*   **Subscription-Free Camera:** $200 (Hardware) + $30 (High-Endurance 256GB [SD Card](https://quvii.com/learn/wyze-cam-v3-firmware-4-36-14-3497-sd-card-playback-fix)) = **$230**
 
 By opting for a subscription-free model like the [Eufy SoloCam](https://quvii.com/learn/reolink-argus-4-pro-vs-eufy-solocam-s340) S340 or Reolink Altas, the buyer saves roughly $420 per camera over five years. For a home with four cameras, this represents a **$1,680 saving**.
 

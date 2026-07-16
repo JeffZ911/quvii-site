@@ -106,7 +106,7 @@ Before contacting support, follow this technical checklist to ensure your settin
 
 ### When to Contact Support
 
-If a factory reset (holding the setup button for 20 seconds) does not restore [motion detection](https://quvii.com/blog/arlo-motion-detection-issues-july-2026), the issue is likely either a hardware failure or a corrupted firmware update that requires Ring's intervention. When calling, have your device's MAC ID ready and be prepared to provide specific timestamps of missed events. Note that Ring's standard warranty is one year, though <a href="https://www.amazon.com/s?k=Ring+Home+Standard+and+Premium+subscribers&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Ring Home Standard and Premium subscribers</a> may have extended coverage for their devices.
+If a factory reset (holding the setup button for 20 seconds) does not restore [motion detection](https://quvii.com/blog/arlo-motion-detection-issues-july-2026), the issue is likely either a [hardware failure](https://quvii.com/learn/wyze-camera-water-ingress-hardware-failure) or a corrupted firmware update that requires Ring's intervention. When calling, have your device's MAC ID ready and be prepared to provide specific timestamps of missed events. Note that Ring's standard warranty is one year, though <a href="https://www.amazon.com/s?k=Ring+Home+Standard+and+Premium+subscribers&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Ring Home Standard and Premium subscribers</a> may have extended coverage for their devices.
 
 ## What to do now
 

@@ -69,7 +69,7 @@ In early 2026, Ring restructured its subscription plans. The legacy "Protect Bas
 This "feature paywall" is a significant consideration. Buyers should be aware that the hardware's out-of-the-box performance is often limited; without a subscription, you lose the "Rich Notifications" (which show a snapshot of the motion on your lock screen), further slowing down your ability to react to an event.
 
 ### Privacy Considerations: Cloud vs. Local Storage
-Privacy remains a polarizing topic for Ring. As documented in Mozilla’s *Privacy Not Included* report, Ring maintains a cloud-only storage model. This means your data is stored on Amazon’s servers. While Ring has introduced end-to-end encryption (E2EE) for many models, enabling it can sometimes *increase* the time it takes to view a live stream, as your mobile device must decrypt the feed in real-time. 
+Privacy remains a polarizing topic for Ring. As documented in Mozilla’s *Privacy Not Included* report, Ring maintains a cloud-only storage model. This means your data is stored on Amazon’s servers. While Ring has introduced end-to-end encryption (E2EE) for many models, enabling it can sometimes *increase* the time it takes to view a [live stream](https://quvii.com/blog/ezviz-hp7-home-assistant-live-stream-fails), as your mobile device must decrypt the feed in real-time. 
 
 Furthermore, Ring’s policy on sharing footage with law enforcement under "emergency" circumstances without a warrant continues to drive privacy-conscious buyers toward local-storage alternatives like Eufy or Reolink.
 

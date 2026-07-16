@@ -85,7 +85,7 @@ In a 50-unit apartment building, the 2.4GHz spectrum is often unusable due to si
 
 If you already own a doorbell camera from 2023 or 2024, you may not need to buy new hardware to achieve a renter-friendly setup. Many 2026 no-drill mounts are backward compatible with older chassis designs. For example, a 3rd-party anti-theft mount for a Ring [Battery Doorbell Plus](https://quvii.com/learn/ring-battery-doorbell-plus-motion-zone-issues) will typically fit the 2026 "Pro" models due to standardized housing dimensions.
 
-However, legacy owners are facing a "feature gap." Older 2.4GHz-only models are increasingly struggling with the higher bitrates required for 4K streaming and AI-driven motion filtering. If your older camera frequently disconnects or fails to load live views, the issue is likely local Wi-Fi congestion rather than a hardware failure.
+However, legacy owners are facing a "feature gap." Older 2.4GHz-only models are increasingly struggling with the higher bitrates required for 4K streaming and AI-driven motion filtering. If your older camera frequently disconnects or fails to load live views, the issue is likely local Wi-Fi congestion rather than a [hardware failure](https://quvii.com/learn/wyze-camera-water-ingress-hardware-failure).
 
 ### Retrofitting Your Old Camera with New No-Drill Tech
 Owners of older units can often purchase standalone "no-drill" brackets from manufacturers or verified third parties. These brackets encase the camera in a steel box that clamps onto the edge of the door. This is a significant upgrade from the flimsy adhesive strips provided with early battery doorbells.

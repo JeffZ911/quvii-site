@@ -81,7 +81,7 @@ When factoring in hardware, mandatory accessories for local storage, and the cur
 
 | Scenario | Blink (1 Camera) | Wyze (1 Camera) |
 | :--- | :--- | :--- |
-| **Hardware + Hub/SD** | ~$110 (Camera + Module) | ~$105 (Camera + SD Card) |
+| **Hardware + Hub/SD** | ~$110 (Camera + Module) | ~$105 (Camera + [SD Card](https://quvii.com/learn/wyze-cam-v3-firmware-4-36-14-3497-sd-card-playback-fix)) |
 | **Subscription (3 yrs)** | ~$120 (Basic Plan) | ~$90 (Cam Plus) |
 | **Total (Subscribed)** | **~$230** | **~$195** |
 | **Total (Local Only)** | **~$110** | **~$105** |

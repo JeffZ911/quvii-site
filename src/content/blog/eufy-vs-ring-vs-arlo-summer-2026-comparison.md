@@ -166,7 +166,7 @@ No. Arlo officially phased out its 7-day free cloud storage for all new models s
 In 2026, 4K is the standard for outdoor cameras. The primary benefit isn't just a prettier picture; it’s the ability to use "Digital Zoom" to identify a person's face or a vehicle's license plate from 20-30 feet away. 1080p cameras generally pixelate too quickly to be useful for forensic evidence at those distances.
 
 ### Does Ring require a subscription to see live video?
-No, you can still view a live stream from your Ring camera and receive motion alerts without a subscription. However, you will not be able to record video, review past events, or use advanced AI features like "Person Detection."
+No, you can still view a [live stream](https://quvii.com/blog/ezviz-hp7-home-assistant-live-stream-fails) from your Ring camera and receive motion alerts without a subscription. However, you will not be able to record video, review past events, or use advanced AI features like "Person Detection."
 
 ## Sources
 

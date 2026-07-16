@@ -59,7 +59,7 @@ Wyze’s journey through 2024 and 2025 was marked by significant scrutiny regard
 ### Comparison of Window-Compatible Models
 When choosing a camera to pair with the window mount, buyers must balance resolution against the data demands of cloud uploading. Higher resolution (like the 2.5K on the V4) requires more stable upload bandwidth, making firmware stability even more critical.
 
-| Feature | Wyze [Cam V3](https://quvii.com/learn/wyze-cam-v3-firmware-4-36-14-3497-sd-card-playback-fix) | Wyze Cam V3 Pro | Wyze [Cam V4](https://quvii.com/learn/wyze-cam-v4-rtsp-support-missing-update) |
+| Feature | Wyze [Cam V3](https://quvii.com/learn/wyze-cam-v3-firmware-4-36-14-3497-sd-card-playback-fix) | [Wyze Cam V3](https://quvii.com/learn/wyze-cam-v3-firmware-4-36-14-3497-sd-card-playback-fix) Pro | Wyze [Cam V4](https://quvii.com/learn/wyze-cam-v4-rtsp-support-missing-update) |
 | :--- | :--- | :--- | :--- |
 | **Resolution** | 1080p | 2K | 2.5K (QHD) |
 | **Field of View** | 130° | 116° | 116° |
@@ -71,7 +71,7 @@ When choosing a camera to pair with the window mount, buyers must balance resolu
 ### Decision Framework: Is the Wyze Window Cam Right for You?
 
 *   **If you are a renter:** The window mount setup is ideal. It requires no drilling into exterior walls and can be removed with minimal residue, providing high-quality outdoor monitoring from an indoor power source.
-*   **If you have poor Wi-Fi at the window:** Prioritize the Wyze Cam V3 over the V4. The lower resolution of the V3 puts less strain on the upload "handshake" that [firmware 1](https://quvii.com/learn/tapo-c210-firmware-motion-tracking-bug-fix).3.0.48 is designed to protect.
+*   **If you have poor Wi-Fi at the window:** Prioritize the Wyze [Cam V3](https://quvii.com/learn/wyze-cam-v3-firmware-4-36-14-3497-sd-card-playback-fix) over the V4. The lower resolution of the V3 puts less strain on the upload "handshake" that [firmware 1](https://quvii.com/learn/tapo-c210-firmware-motion-tracking-bug-fix).3.0.48 is designed to protect.
 *   **If you require 24/7 recording:** Do not rely solely on the cloud. Even with the 1.3.0.48 fix, cloud uploads can be interrupted by ISP outages. Always pair the camera with a high-endurance microSD card.
 
 ## Impact on existing owners
