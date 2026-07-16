@@ -67,7 +67,7 @@ Consider the following operating temperature ranges for popular outdoor security
 | EufyCam 3                     | -4°F to 122°F                            | -20°C to 50°C                         | Battery    |                               |
 | [Reolink Argus 3](https://quvii.com/learn/reolink-argus-3-pro-solar-charging-issues-2026) Pro           | 14°F to 131°F                            | -10°C to 55°C                         | Battery    |                               |
 | Reolink RLC-811A              | 14°F to 131°F                            | -10°C to 55°C                         | Wired PoE  |                               |
-| Wyze Cam v3 Pro               | -4°F to 113°F                            | -20°C to 45°C                         | Wired      |                               |
+| [Wyze Cam v3](https://quvii.com/learn/wyze-cam-v3-firmware-4-36-14-3497-sd-card-playback-fix) Pro               | -4°F to 113°F                            | -20°C to 45°C                         | Wired      |                               |
 | [Blink Outdoor 4](https://quvii.com/learn/blink-outdoor-4-battery-life-extreme-heat)               | -4°F to 113°F                            | -20°C to 45°C                         | Battery    |                               |
 | Ring [Stick Up Cam](https://quvii.com/learn/ring-stick-up-cam-pro-overheating-direct-sun) Battery     | -5°F to 120°F                            | -20.5°C to 48.5°C                     | Battery    |                               |
 | Ring Floodlight Cam Wired Pro | -5°F to 120°F                            | -20.5°C to 48.5°C                     | Wired      |                               |

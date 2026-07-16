@@ -129,7 +129,7 @@ The Wyze [Cam v4](https://quvii.com/learn/wyze-cam-v4-rtsp-support-missing-updat
 | **256GB** | 15–18 Days | High Endurance (Class 10/U3) |
 | **512GB** | [Information Unavailable]* | Not officially supported |
 
-*\*While some users report 512GB cards working, Wyze does not officially support them, and firmware 4.52.9.6119 has been known to cause formatting errors on cards exceeding 256GB.*
+*\*While some users report 512GB cards working, Wyze does not officially support them, and [firmware 4](https://quvii.com/learn/wyze-cam-v3-firmware-4-36-14-3497-sd-card-playback-fix).52.9.6119 has been known to cause formatting errors on cards exceeding 256GB.*
 
 ### 2026 Alternatives: When to Jump Ship
 If the move to a $100–$200 annual subscription model feels like a betrayal of Wyze's original mission, several 2026 alternatives offer better long-term value:

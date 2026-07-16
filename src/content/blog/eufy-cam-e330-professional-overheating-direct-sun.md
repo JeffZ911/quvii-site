@@ -27,7 +27,7 @@ The eufyCam E330 Professional is marketed as a high-endurance, 24/7 recording so
 
 # Eufy Cam E330 Professional Overheating in Direct Sun: 2026 Status Report
 
-**Quick Answer:** The eufyCam E330 Professional is rated for -4°F to 122°F, but 24/7 4K recording generates significant internal heat. In direct sun, units can exceed thermal limits, causing recording gaps or hardware failure. Shading is mandatory for south-facing installations.
+**Quick Answer:** The eufyCam E330 Professional is rated for -4°F to 122°F, but 24/7 4K recording generates significant internal heat. In direct sun, units can exceed thermal limits, causing recording gaps or [hardware failure](https://quvii.com/learn/wyze-camera-water-ingress-hardware-failure). Shading is mandatory for south-facing installations.
 
 ## What happened
 

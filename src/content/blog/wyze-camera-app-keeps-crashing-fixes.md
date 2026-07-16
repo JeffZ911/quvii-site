@@ -27,7 +27,7 @@ If you are staring at a frozen screen or a "Force Close" prompt while trying to 
 
 # Wyze Camera App Keeps Crashing? Here is the June 2026 Stability Guide
 
-Most 2026 Wyze app crashes are caused by a mismatch between App v3.14 and older firmware, or using a 32-bit device. Update to app v3.14.0.807 and firmware 4.52.9.6119 (for [Cam v4](https://quvii.com/blog/cpsc-recall-wyze-cam-v4-power-adapter-status)) to resolve immediate crashing and group-viewing bugs.
+Most 2026 Wyze app crashes are caused by a mismatch between App v3.14 and older firmware, or using a 32-bit device. Update to app v3.14.0.807 and [firmware 4](https://quvii.com/learn/wyze-cam-v3-firmware-4-36-14-3497-sd-card-playback-fix).52.9.6119 (for [Cam v4](https://quvii.com/blog/cpsc-recall-wyze-cam-v4-power-adapter-status)) to resolve immediate crashing and group-viewing bugs.
 
 ## What happened
 
@@ -84,7 +84,7 @@ Existing owners are currently navigating a landscape where features that worked 
 
 ### The MicroSD Playback Bug
 
-A significant number of Cam v3 and [Cam v4](https://quvii.com/blog/cpsc-recall-wyze-cam-v4-power-adapter-status) owners report that the app closes instantly when they slide the timeline to view local footage from a microSD card. This is specifically linked to the "Smart Focus" UI overlay—a feature that zooms in on detected motion. In the v3.14 app, the code that renders this zoom box on top of the H.265 video stream is poorly optimized for older GPUs, causing a "segmentation fault" that kills the app.
+A significant number of [Cam v3](https://quvii.com/learn/wyze-cam-v3-firmware-4-36-14-3497-sd-card-playback-fix) and [Cam v4](https://quvii.com/blog/cpsc-recall-wyze-cam-v4-power-adapter-status) owners report that the app closes instantly when they slide the timeline to view local footage from a microSD card. This is specifically linked to the "Smart Focus" UI overlay—a feature that zooms in on detected motion. In the v3.14 app, the code that renders this zoom box on top of the H.265 video stream is poorly optimized for older GPUs, causing a "segmentation fault" that kills the app.
 
 ### Android 16 and iOS 19 Compatibility Reports
 
@@ -96,7 +96,7 @@ If you are using a tablet or phone that cannot be updated to a 64-bit OS, you ha
 
 **User Report Summary: Top 5 Crash Triggers (June 2026)**
 1.  **Group View (5+ Cameras):** 42% of reports.
-2.  **SD Card Playback (Timeline Scrubbing):** 28% of reports.
+2.  **[SD Card Playback](https://quvii.com/learn/wyze-cam-v3-firmware-4-36-14-3497-sd-card-playback-fix) (Timeline Scrubbing):** 28% of reports.
 3.  **Entering 'Advanced Settings' Menu:** 15% of reports.
 4.  **QR Code Scanning (New Setup):** 10% of reports.
 5.  **Event Notification Taps:** 5% of reports.

@@ -91,7 +91,7 @@ If you currently own a floodlight camera purchased between 2020 and 2023, 2026 i
 ### The 2026 Firmware Crisis
 The push for advanced AI and Matter compatibility has led to "firmware bloat." Community reports on platforms like r/EufyCam have highlighted issues with recent updates (specifically the 1.6.x.x series for the E340 and [HomeBase 3](https://quvii.com/learn/eufycam-s330-homebase-3-firmware-sync-error)). Some users have experienced "bricking" or unpairing events where cameras mounted 15 feet high on a garage gable suddenly require a manual button press to reconnect after a mandatory update. 
 
-For owners of the <a href="https://www.amazon.com/s?k=Reolink+Duo+series&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Reolink Duo series</a>, firmware stability has been better, but the high bandwidth of 16MP streams has exposed weaknesses in older Wi-Fi 5 (802.11ac) home routers. If you upgrade the camera without upgrading your network, you may experience significant "spinning wheel" lag when trying to view a live stream.
+For owners of the <a href="https://www.amazon.com/s?k=Reolink+Duo+series&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Reolink Duo series</a>, firmware stability has been better, but the high bandwidth of 16MP streams has exposed weaknesses in older Wi-Fi 5 (802.11ac) home routers. If you upgrade the camera without upgrading your network, you may experience significant "spinning wheel" lag when trying to view a [live stream](https://quvii.com/blog/ezviz-hp7-home-assistant-live-stream-fails).
 
 ### When to Upgrade Your Legacy Hardware
 Owners of 1080p hardware should consider 2026 the "end of life" for their equipment for three reasons:
