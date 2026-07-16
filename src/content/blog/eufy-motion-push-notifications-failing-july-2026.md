@@ -74,7 +74,7 @@ The recurring nature of these issues, often tied to mandatory updates, highlight
 
 Here’s a comparison of Eufy and some popular subscription-free alternatives focusing on notification reliability and local storage features:
 
-| Feature/Brand | Eufy (HomeBase required) | Reolink (many models) | Tapo (e.g., C220) | Wyze (e.g., Cam v3 Pro) |
+| Feature/Brand | Eufy (HomeBase required) | Reolink (many models) | Tapo (e.g., C220) | Wyze (e.g., [Cam v3](https://quvii.com/learn/wyze-cam-v3-firmware-4-36-14-3497-sd-card-playback-fix) Pro) |
 | :------------------------------- | :----------------------- | :-------------------- | :---------------- | :---------------------- |
 | **Local Storage** | Yes (HomeBase, microSD) | Yes (microSD, NVR) | Yes (microSD) | Yes (microSD) |
 | **Cloud Storage** | Optional subscription | Optional subscription | Optional subscription | Optional subscription (Cam Plus) |
@@ -197,7 +197,7 @@ Eufy emphasizes local storage and on-device AI processing to enhance privacy. Ho
 *   [reolink.com] - <a href="https://www.amazon.com/s?k=Reolink+Cloud+Plans&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Reolink Cloud Plans</a>
 *   [reolink.com] - <a href="https://www.amazon.com/s?k=Reolink+Argus+3+Pro+Product+Page&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">[Reolink Argus 3](https://quvii.com/learn/reolink-argus-3-pro-solar-charging-issues-2026) Pro Product Page</a>
 *   [tapo.com] - <a href="https://www.amazon.com/s?k=Tapo+C220+Product+Page&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Tapo C220 Product Page</a>
-*   [wyze.com] - <a href="https://www.amazon.com/s?k=Wyze+Cam+v3+Pro+Product+Page&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Wyze Cam v3 Pro Product Page</a>
+*   [wyze.com] - <a href="https://www.amazon.com/s?k=Wyze+Cam+v3+Pro+Product+Page&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">[Wyze Cam v3](https://quvii.com/learn/wyze-cam-v3-firmware-4-36-14-3497-sd-card-playback-fix) Pro Product Page</a>
 *   [safewise.com] - <a href="https://www.amazon.com/s?k=Eufy+vs+Ring%3A+Which+is+Better%3F&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Eufy vs Ring: Which is Better?</a>
 *   [zomgthehandyman.com] - Eufy Troubleshooting Guide
 *   [guardianalarm.com] - Local Storage Security Cameras

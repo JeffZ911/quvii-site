@@ -165,7 +165,7 @@ Wyze is offering three options:
 
 ### Step 5: Securing Your Remaining Wyze Ecosystem
 While you wait for your replacement or refund, perform a security audit on your other cameras. 
-*   **Firmware Update:** Ensure all Wyze Cam v3, v4, and OG units are running the latest firmware to patch 2025 vulnerabilities.
+*   **Firmware Update:** Ensure all Wyze [Cam v3](https://quvii.com/learn/wyze-cam-v3-firmware-4-36-14-3497-sd-card-playback-fix), v4, and OG units are running the latest firmware to patch 2025 vulnerabilities.
 *   **Hardware Check:** Inspect any other battery-powered units (like the Wyze Battery Cam Pro) for signs of swelling or heat.
 *   **Password Reset:** If you haven't changed your Wyze password since the 2024 breach, do so now and enable TOTP-based 2FA.
 

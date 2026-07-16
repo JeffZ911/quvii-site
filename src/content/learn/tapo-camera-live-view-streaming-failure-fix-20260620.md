@@ -126,7 +126,7 @@ To minimize streaming failures, match your hardware to your environment using th
 When buying a Tapo camera, the sticker price is only the first component. To ensure a failure-free experience over three years, consider these costs:
 
 1.  **Hardware (Initial):** $35 - $120 depending on the model.
-2.  **Storage (One-time):** A high-quality 256GB "High Endurance" microSD card costs around $25-35. This is essential for local recording when the live stream fails.
+2.  **Storage (One-time):** A high-quality 256GB "High Endurance" microSD card costs around $25-35. This is essential for local recording when the [live stream fails](https://quvii.com/blog/ezviz-hp7-home-assistant-live-stream-fails).
 3.  **Subscription (Optional):** Tapo Care costs approximately $3.49/month for a single camera or $11.99/month for up to 10 cameras (as of 2026 pricing bands). Over three years, a single-camera plan adds roughly $125 to the cost.
 4.  **Network Upgrades (Hidden):** If your current router cannot handle 3-4 cameras, a mid-range Mesh Wi-Fi system ($150-$250) may be necessary to ensure streaming reliability.
 

@@ -118,7 +118,7 @@ If you currently own 1080p HKSV cameras (like the Eve Cam or Logitech Circle Vie
 If you are looking to modernize your home security for the Apple Intelligence era, your first step should be an audit of your network and hub hardware. 4K video is demanding; a single 4K HKSV stream can consume 25 Mbps of upload bandwidth.
 
 ### Optimizing Your Network for 4K AI
-Before buying 4K cameras, ensure your Wi-Fi network can handle the load. We recommend a Wi-Fi 6E or Wi-Fi 7 mesh system. Unlike [subscription-free security cameras](https://www.reolink.com) that record locally to an SD card, HKSV must upload the footage to the cloud constantly. If you have five 4K cameras, you may need a fiber internet connection with at least 100 Mbps upload speed to avoid lag in your smart home automations.
+Before buying 4K cameras, ensure your Wi-Fi network can handle the load. We recommend a Wi-Fi 6E or Wi-Fi 7 mesh system. Unlike [subscription-free security cameras](https://www.reolink.com) that record locally to an [SD card](https://quvii.com/learn/wyze-cam-v3-firmware-4-36-14-3497-sd-card-playback-fix), HKSV must upload the footage to the cloud constantly. If you have five 4K cameras, you may need a fiber internet connection with at least 100 Mbps upload speed to avoid lag in your smart home automations.
 
 ### Upgrading Your Camera Hardware
 If you are still using 1080p cameras and want the clarity promised by the 2026 update, look for cameras explicitly labeled "4K HKSV Compatible." Many older 4K cameras that worked with HomeKit only did so via "HomeKit-only" ([live stream](https://quvii.com/blog/ezviz-hp7-home-assistant-live-stream-fails) only) or used 1080p for the HKSV recording.

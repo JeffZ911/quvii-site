@@ -115,7 +115,7 @@ Most 2026 cameras use **H.265+ or H.266 compression**. These standards are rough
 | :--- | :--- | :--- |
 | **Hardware Price** | ~$180 | ~$200 |
 | **Subscription Fees** | $0 | ~$360 ($10/mo) |
-| **SD Card (High Endurance)** | ~$45 (256GB) | N/A |
+| **[SD Card](https://quvii.com/learn/wyze-cam-v3-firmware-4-36-14-3497-sd-card-playback-fix) (High Endurance)** | ~$45 (256GB) | N/A |
 | **Total 3-Year Cost** | **~$225** | **~$560** |
 
 ## What to do now

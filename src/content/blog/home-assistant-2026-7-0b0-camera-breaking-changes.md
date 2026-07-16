@@ -111,7 +111,7 @@ For dual-lens Reolink camera owners, the primary task post-update will be to **u
 
 Similarly, **adjust all existing automations**, particularly those involving [camera motion detection](https://quvii.com/learn/ring-camera-motion-detection-not-streaming-fix-june-2026) or other triggers. Review them against the new purpose-specific triggers and conditions outlined in the release notes. If an automation ceases to function, it's highly likely that a trigger or condition key needs updating. [Home Assistant](https://quvii.com/blog/ezviz-hp7-home-assistant-live-stream-fails)'s automation editor typically provides warnings or errors for invalid configurations, guiding you toward the necessary changes.
 
-If a specific camera integration breaks or is removed, consider exploring alternative methods. Many IP cameras support **ONVIF or RTSP protocols**, which can be integrated into Home Assistant using the generic camera or ONVIF integrations. This often provides a robust fallback for local streaming and basic event detection, provided your camera supports these open standards.
+If a specific camera integration breaks or is removed, consider exploring alternative methods. Many IP cameras support **ONVIF or RTSP protocols**, which can be integrated into [Home Assistant](https://quvii.com/blog/ezviz-hp7-home-assistant-live-stream-fails) using the generic camera or ONVIF integrations. This often provides a robust fallback for local streaming and basic event detection, provided your camera supports these open standards.
 
 ### Leveraging Community Support and Alternative Integrations
 

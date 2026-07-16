@@ -182,7 +182,7 @@ When troubleshooting network issues with Blink, customer support may recommend u
 
 ### Alternative Hardware: Is it Time to Switch to the Sync Module XR?
 
-The Sync Module XR is not a current Blink product, and the primary hub for current Blink cameras is the Sync Module 2. If existing troubleshooting steps fail and you suspect hardware failure, contacting Blink (Amazon) support for warranty replacement or considering alternative camera systems might be necessary. The Sync Module 2 is the latest iteration designed for features like local storage and compatibility with newer cameras like the [Outdoor 4](https://quvii.com/learn/blink-outdoor-4-battery-drain-june-2026). There is no "Sync Module XR" as a separate, newer product line.
+The Sync Module XR is not a current Blink product, and the primary hub for current Blink cameras is the Sync Module 2. If existing troubleshooting steps fail and you suspect [hardware failure](https://quvii.com/learn/wyze-camera-water-ingress-hardware-failure), contacting Blink (Amazon) support for warranty replacement or considering alternative camera systems might be necessary. The Sync Module 2 is the latest iteration designed for features like local storage and compatibility with newer cameras like the [Outdoor 4](https://quvii.com/learn/blink-outdoor-4-battery-drain-june-2026). There is no "Sync Module XR" as a separate, newer product line.
 
 ### When to give up: Identifying hardware failure vs. software bugs
 

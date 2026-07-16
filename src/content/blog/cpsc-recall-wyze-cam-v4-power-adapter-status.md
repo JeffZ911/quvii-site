@@ -147,7 +147,7 @@ The most common cause of "adapter failure" for the [Wyze Cam v4](https://quvii.c
 When routing the cable outdoors:
 1.  **Use a Drip Loop:** Ensure the cable hangs lower than the entry point into the wall or the camera, so rainwater drips off the wire rather than running into the electronics.
 2.  **Dielectric Grease:** Applying a small amount of non-conductive dielectric grease to the micro-USB plug can prevent pin corrosion in humid climates.
-3.  **GFCI Protection:** Always plug outdoor-mounted cameras into a GFCI (Ground Fault Circuit Interrupter) protected outlet to prevent shocks in the event of water ingress.
+3.  **GFCI Protection:** Always plug outdoor-mounted cameras into a GFCI (Ground Fault Circuit Interrupter) protected outlet to prevent shocks in the event of [water ingress](https://quvii.com/learn/wyze-camera-water-ingress-hardware-failure).
 
 ### When to Upgrade to a Professional NVR System
 

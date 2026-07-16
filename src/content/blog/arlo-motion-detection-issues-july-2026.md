@@ -77,7 +77,7 @@ The reliance on cloud-dependent AI processing means that every motion event—wh
 ![Impact on existing owners](/img/arlo-motion-detection-issues-july-2026/inline-3.webp)
 
 
-Existing owners are currently facing a "perfect storm" of hardware frustration and software friction. The most vocal complaints involve the "30-second load" problem, where attempting to view a live stream following a motion alert takes so long that the visitor has already left the premises.
+Existing owners are currently facing a "perfect storm" of hardware frustration and software friction. The most vocal complaints involve the "30-second load" problem, where attempting to view a [live stream](https://quvii.com/blog/ezviz-hp7-home-assistant-live-stream-fails) following a motion alert takes so long that the visitor has already left the premises.
 
 ### The '30-Second Load' Problem
 When a motion event occurs, the Arlo SmartHub must wake the camera, establish a secure handshake, and begin the cloud upload. In the current v6.26.0 environment, this handshake is frequently failing. Users report that by the time the "Feed" notification is tapped and the encrypted stream is decrypted on their mobile device, the event has concluded. This latency renders the two-way talk feature effectively useless for real-time interaction.

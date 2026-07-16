@@ -88,7 +88,7 @@ In 2026, the most cost-effective strategy is to buy hardware with high-capacity 
 ![Impact on existing owners](/img/best-wireless-camera-without-wifi/inline-3.webp)
 
 
-If you already own a cellular camera from 2023 or earlier, you may be noticing a decline in performance that isn't necessarily related to hardware failure.
+If you already own a cellular camera from 2023 or earlier, you may be noticing a decline in performance that isn't necessarily related to [hardware failure](https://quvii.com/learn/wyze-camera-water-ingress-hardware-failure).
 
 ### Legacy Hardware Degradation
 As cloud infrastructures pivot to support massive 4K streams, owners of 1080p LTE cameras (like the original Reolink Go or Arlo Go) are reporting slower app response times. The servers are optimized for the newer codecs, often leaving older devices with "handshake" delays that can take 10-15 seconds to pull up a [live view](https://quvii.com/learn/tapo-camera-live-view-streaming-failure-fix-20260620).

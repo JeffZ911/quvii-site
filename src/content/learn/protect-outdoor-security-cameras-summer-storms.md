@@ -27,7 +27,7 @@ inline_image_sections:
   - "Further reading"
 ---
 
-A summer storm can transition from a cooling breeze to a destructive force of wind, lightning, and torrential rain in minutes, often leaving expensive security hardware vulnerable to electrical surges and water ingress. Protecting your investment requires moving beyond basic mounting to a multi-layered defense strategy involving physical shielding, electrical grounding, and strategic software tuning.
+A summer storm can transition from a cooling breeze to a destructive force of wind, lightning, and torrential rain in minutes, often leaving expensive security hardware vulnerable to electrical surges and [water ingress](https://quvii.com/learn/wyze-camera-water-ingress-hardware-failure). Protecting your investment requires moving beyond basic mounting to a multi-layered defense strategy involving physical shielding, electrical grounding, and strategic software tuning.
 
 # How to Protect Outdoor Security Cameras from Summer Storms
 

@@ -120,7 +120,7 @@ This incident highlights the "Cloud Tax." Ring users already pay a recurring fee
 ![Common misconceptions](/img/ring-plugin-not-streaming-home-assistant-2026-7-fix/inline-5.webp)
 
 
-When a stream fails, the first instinct of many users is to troubleshoot their hardware. In the case of the 2026.7.0b0 bug, these efforts are often wasted.
+When a [stream fails](https://quvii.com/blog/ezviz-hp7-home-assistant-live-stream-fails), the first instinct of many users is to troubleshoot their hardware. In the case of the 2026.7.0b0 bug, these efforts are often wasted.
 
 *   **Misconception: "My Wi-Fi is too weak."**
     If your camera worked on version 2026.6 and stopped on 2026.7.0b0, your Wi-Fi is likely fine. This is a protocol bug, not a signal issue.
