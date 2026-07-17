@@ -167,7 +167,7 @@ If the camera has local storage (microSD or eMMC), it will continue to record mo
 Most 2026 renter cameras feature quick-release batteries or USB-C charging ports. For cameras in hard-to-reach spots, many renters use a small, window-mounted solar panel or a portable power bank to "top off" the camera every few months without taking it down.
 
 ### Will a 4K camera slow down my apartment Wi-Fi?
-Modern cameras using Wi-Fi 6 and H.265 compression are very efficient. They only use significant bandwidth when you are actively viewing the live stream or when the camera is uploading a clip. For most users, the impact on daily internet speed is negligible.
+Modern cameras using Wi-Fi 6 and H.265 compression are very efficient. They only use significant bandwidth when you are actively viewing the [live stream](https://quvii.com/blog/ezviz-hp7-home-assistant-live-stream-fails) or when the camera is uploading a clip. For most users, the impact on daily internet speed is negligible.
 
 ## Further Reading
 

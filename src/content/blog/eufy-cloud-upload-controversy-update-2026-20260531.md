@@ -93,7 +93,7 @@ Eufy now offers an "Advanced Encryption" toggle in the settings for most newer m
 
 | Feature | Standard Mode | Advanced Encryption (E2EE) |
 | :--- | :--- | :--- |
-| **Storage Location** | Local (HomeBase/SD Card) | Local (HomeBase/SD Card) |
+| **Storage Location** | Local (HomeBase/[SD Card](https://quvii.com/learn/wyze-cam-v3-firmware-4-36-14-3497-sd-card-playback-fix)) | Local (HomeBase/SD Card) |
 | **Remote Viewing Latency** | 1–2 Seconds | 4–7 Seconds |
 | **Web Portal Access** | Supported | Not Supported |
 | **Third-Party Integration** | Alexa/Google/HomeKit | Disabled |

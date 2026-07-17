@@ -104,7 +104,7 @@ In 2025, several brands introduced "Thermal Throttling" via firmware updates. To
 *   **Resolution Downgrade:** A 4K camera may drop to 1080p to reduce the processing load on the ISP (Image Signal Processor).
 
 ### The Maintenance Burden of Wireless Systems
-The "Ladder Problem" is the most visceral impact on owners. When a battery camera dies in January, the owner must climb a ladder in potentially icy conditions, dismount the frozen camera, and bring it inside. 
+The "Ladder Problem" is the most visceral impact on owners. When a [battery camera](https://quvii.com/learn/eufy-vs-reolink-battery-camera-comparison-2026) dies in January, the owner must climb a ladder in potentially icy conditions, dismount the frozen camera, and bring it inside. 
 
 Because the battery is frozen, it cannot be charged immediately. It must "thaw" for 4-6 hours to reach room temperature before the charging lockout is released. This results in a full day of zero security coverage, followed by the risk of re-mounting the camera in the cold.
 

@@ -59,7 +59,7 @@ Several interdependent factors contribute to a Wyze camera going offline during 
 
 *   **Increased Grid Strain:** High demand for air conditioning during summer heatwaves can overload electrical grids, leading to more frequent brownouts or blackouts. This increased strain makes power interruptions more common.
 *   **Severe Weather:** Summer often brings thunderstorms, hurricanes, and other severe weather events that can cause localized or widespread power outages due to downed lines or damaged infrastructure.
-*   **Overheating:** While not a direct cause of power loss, excessive summer heat and direct sunlight can cause security cameras to exceed their operating temperature limits, leading to disconnections, blurry footage, or complete shutdowns, which can mimic an offline state. The Wyze Cam v3 operates from -4°F to 113°F (-20°C to 45°C), and the Wyze Cam Pan v3 operates from -4°F to 122°F (-20°C to 50°C). Operating beyond these ranges can affect performance and longevity.
+*   **Overheating:** While not a direct cause of power loss, excessive summer heat and direct sunlight can cause security cameras to exceed their operating temperature limits, leading to disconnections, blurry footage, or complete shutdowns, which can mimic an offline state. The [Wyze Cam v3](https://quvii.com/learn/wyze-cam-v3-firmware-4-36-14-3497-sd-card-playback-fix) operates from -4°F to 113°F (-20°C to 45°C), and the Wyze Cam Pan v3 operates from -4°F to 122°F (-20°C to 50°C). Operating beyond these ranges can affect performance and longevity.
 
 ## How it works under the hood
 
@@ -82,7 +82,7 @@ Understanding the technical mechanisms behind these disconnections clarifies why
 
 | Model                       | Power Type          | Wi-Fi Band Support | Local Storage (microSD) | Cloud Storage (Cam Plus) |
 | :-------------------------- | :------------------ | :----------------- | :---------------------- | :----------------------- |
-| Wyze Cam v3                 | Wired (5V/1A USB)   | 2.4 GHz only       | Yes                     | Yes (subscription)       |
+| Wyze [Cam v3](https://quvii.com/learn/wyze-cam-v3-firmware-4-36-14-3497-sd-card-playback-fix)                 | Wired (5V/1A USB)   | 2.4 GHz only       | Yes                     | Yes (subscription)       |
 | Wyze Cam Pan v3             | Wired (5V/2A USB)   | 2.4 GHz only       | Yes                     | Yes (subscription)       |
 | Wyze Battery Cam Pro        | Battery (rechargeable) | 2.4 GHz & 5 GHz    | Yes                     | Yes (subscription)       |
 | Wyze Cam Floodlight Pro     | Wired (100-240V AC) | 2.4 GHz & 5 GHz    | Yes                     | Yes (subscription)       |

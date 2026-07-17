@@ -110,7 +110,7 @@ Privacy is a perennial concern for indoor camera owners. Some users have express
 ![What to do now](/img/tapo-c210-motor-noise-after-update/inline-4.webp)
 
 
-If your Tapo C210 has started making noise after a recent update, follow this structured troubleshooting path to determine if the issue is a temporary software glitch or a permanent hardware failure.
+If your Tapo C210 has started making noise after a recent update, follow this structured troubleshooting path to determine if the issue is a temporary software glitch or a permanent [hardware failure](https://quvii.com/learn/wyze-camera-water-ingress-hardware-failure).
 
 ### Step-by-Step Troubleshooting Guide
 
