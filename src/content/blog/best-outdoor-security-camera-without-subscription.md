@@ -72,7 +72,7 @@ A common trap for new buyers is the "low-cost" entry point. A $50 camera that re
 By opting for a subscription-free model like the [Eufy SoloCam](https://quvii.com/learn/reolink-argus-4-pro-vs-eufy-solocam-s340) S340 or Reolink Altas, the buyer saves roughly $420 per camera over five years. For a home with four cameras, this represents a **$1,680 saving**.
 
 ### Privacy as a Product Feature
-Privacy has moved from a niche concern to a primary selling point. [Local storage](https://quvii.com/learn/best-4k-security-cameras-local-storage) means your footage is stored on a physical drive inside your home (either an SD card in the camera or a hard drive in a local hub). This architecture offers two major privacy advantages
+Privacy has moved from a niche concern to a primary selling point. [Local storage](https://quvii.com/learn/best-4k-security-cameras-local-storage) means your footage is stored on a physical drive inside your home (either an [SD card](https://quvii.com/learn/wyze-cam-v3-firmware-4-36-14-3497-sd-card-playback-fix) in the camera or a hard drive in a local hub). This architecture offers two major privacy advantages
 1.  **Mitigating Cloud Breaches:** If a cloud provider's servers are compromised, hackers can potentially access thousands of live feeds. With local storage, your data is as secure as your home Wi-Fi network.
 2.  **Data Sovereignty:** Major brands like Ring and Nest have historically faced scrutiny over sharing footage with law enforcement without a warrant or user consent. With a local NVR or SD-based system, you are the sole gatekeeper of your data.
 

@@ -134,7 +134,7 @@ This usually indicates a handshake failure between the app and the cloud server.
 No. Ring does not allow users to roll back firmware. Once a device connects to the Ring cloud, it automatically updates to the latest version mandated by the server. Your only option is to toggle off the problematic features within the app settings.
 
 ### Is my 1st Generation Ring Stick Up Cam useless now?
-As of July 2026, the 1st Gen Stick Up Cam (YOPGS2011MIE) has hit End-of-Life status. While it may still detect motion, the ability to view a live stream is being phased out due to hardware incompatibility with new cloud encryption standards.
+As of July 2026, the 1st Gen Stick Up Cam (YOPGS2011MIE) has hit End-of-Life status. While it may still detect motion, the ability to view a [live stream](https://quvii.com/blog/ezviz-hp7-home-assistant-live-stream-fails) is being phased out due to hardware incompatibility with new cloud encryption standards.
 
 ### How do I stop Ring from using my video for AI training?
 You must navigate to the "Control Center" in the Ring app and look for "Video Management" or "Data Usage." However, note that some "background processing" is required for the camera to function in "Home" or "Away" modes, which may still involve server-side analysis.

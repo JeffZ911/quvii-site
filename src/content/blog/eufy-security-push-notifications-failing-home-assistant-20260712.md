@@ -51,7 +51,7 @@ The new protocol added an encrypted layer to the initial "handshake" between the
 ### Corrupted Event Images: The Green Artifact Bug
 Following the July 2026 patch intended to fix the authentication issues, a secondary bug emerged. Users reported that while motion notifications had returned, the accompanying event thumbnails were corrupted. These images often rendered with severe green pixelated artifacts or failed to load entirely. Technical analysis within the developer community suggests this is due to a change in how Eufy’s API handles the JPEG header in the push notification payload, which causes the [Home Assistant](https://quvii.com/blog/ezviz-hp7-home-assistant-live-stream-fails) media proxy to misinterpret the image data.
 
-[A screenshot of a Home Assistant dashboard showing multiple Eufy camera entities with 'Entity not available' or 'Idle' status, with a red error log overlay showing 'No stations found'.]
+[A screenshot of a [Home Assistant](https://quvii.com/blog/ezviz-hp7-home-assistant-live-stream-fails) dashboard showing multiple Eufy camera entities with 'Entity not available' or 'Idle' status, with a red error log overlay showing 'No stations found'.]
 
 ## Why it matters for buyers
 

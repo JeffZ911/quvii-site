@@ -138,7 +138,7 @@ When evaluating home security cameras, the initial purchase price is only one pa
 
 **Example 3-Year TCO Comparison (4-Camera Setup):**
 
-| Cost Category          | Cloud-Based System (e.g., Ring/Arlo) | Subscription-Free (e.g., Reolink/Eufy + Home Assistant) |
+| Cost Category          | Cloud-Based System (e.g., Ring/Arlo) | Subscription-Free (e.g., Reolink/Eufy + [Home Assistant](https://quvii.com/blog/ezviz-hp7-home-assistant-live-stream-fails)) |
 | :--------------------- | :----------------------------------- | :------------------------------------------------------ |
 | **Hardware (4 Cameras)** | $600-1200 (e.g., 4 x $150-300)      | $600-1200 (e.g., 4 x $150-300)                          |
 | **Subscription/Cloud** | $360-720 (e.g., $10-20/month x 36)   | $0-180 (e.g., Home Assistant Cloud $60/year)            |

@@ -119,7 +119,7 @@ If you are considering the W101, the first step is to audit your windows. While 
 | **Apartment Renter** | Non-permanent mounting | **Ideal.** Use the electrostatic mount on a clean window. |
 | **RV/Van Owner** | Low power & Dual-band Wi-Fi | **Strong Choice.** Dual-band helps in crowded campgrounds. |
 | **Homeowner** | Highest possible resolution | **Consider W510.** If you can mount outside, the 4K W510 is superior. |
-| **Privacy Advocate** | Local-only data | **Ideal.** Pair with a high-endurance SD card and skip the cloud. |
+| **Privacy Advocate** | Local-only data | **Ideal.** Pair with a high-endurance [SD card](https://quvii.com/learn/wyze-cam-v3-firmware-4-36-14-3497-sd-card-playback-fix) and skip the cloud. |
 
 ### Pre-Installation Checklist: Glass and Signal Prep
 1.  **Clean the Glass:** Use a 70% isopropyl alcohol solution to clean the interior mounting area. Any oils or dust will cause the electrostatic sticker to fail over time.

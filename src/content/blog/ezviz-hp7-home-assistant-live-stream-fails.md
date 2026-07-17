@@ -139,7 +139,7 @@ For those seeking a permanent, headache-free integration without firmware-locked
 
 | If you are... | Recommendation |
 | :--- | :--- |
-| **A Renter** | **Prioritize Wi-Fi stability.** The HP7 is likely overkill; look at the <a href="https://www.amazon.com/s?k=Reolink+Battery+Doorbell&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Reolink Battery Doorbell</a> for easier removal and better HA support. |
+| **A Renter** | **Prioritize Wi-Fi stability.** The HP7 is likely overkill; look at the <a href="https://www.amazon.com/s?k=Reolink+Battery+Doorbell&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">[Reolink Battery](https://quvii.com/learn/eufy-vs-reolink-battery-camera-comparison-2026) Doorbell</a> for easier removal and better HA support. |
 | **A Homeowner (2-Wire)** | **Stick with HP7 but apply the fixes.** If you cannot run new wires, the HP7 is the best hardware available, even with the software headaches. |
 | **A Power User / Integrator** | **Switch to PoE.** The "cat and mouse" game with EZVIZ firmware is a significant time sink. Prioritize a Reolink or Amcrest PoE unit for 99.9% uptime. |
 | **Privacy-Focused** | **Enable Encryption + Use Scrypted.** If you must use the HP7, use Scrypted to re-broadcast the encrypted stream into Home Assistant as a standard MJPEG or HLS feed. |
