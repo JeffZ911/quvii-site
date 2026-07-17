@@ -135,7 +135,7 @@ If you are deciding how to configure your system to avoid these issues, consider
 When evaluating Eufy against competitors like Ring or Arlo, the TCO is heavily weighted by the storage hardware you choose.
 
 *   **Year 1:** Hardware (HomeBase 3 + 2 Cameras: ~$350-450) + 2TB HDD (~$60-80) = ~$410-530.
-*   **Year 3:** Total remains ~$410-530 (assuming no hardware failure).
+*   **Year 3:** Total remains ~$410-530 (assuming no [hardware failure](https://quvii.com/learn/wyze-camera-water-ingress-hardware-failure)).
 *   **Competitor Comparison:** A similar 2-camera Ring system with a "Protect Plus" plan would cost ~$300 (hardware) + $300 (3 years of subscription) = ~$600.
 
 While Eufy is cheaper over three years, the "cost" of storage issues is measured in the time spent troubleshooting and the potential loss of data during a security event.

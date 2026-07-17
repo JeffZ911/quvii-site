@@ -189,10 +189,10 @@ A UPS (Uninterruptible Power Supply) can keep your wired Wyze cameras online dur
 After a power outage, your Wyze camera might not automatically reconnect due to several reasons, including network components (router, modem) not booting up correctly, an IP address conflict, or the camera's internal reconnection logic failing after a prolonged disconnection. Often, a manual power cycle of both the camera and your home router can resolve these issues.
 
 ### Do Wyze cameras support 5GHz Wi-Fi?
-Most popular Wyze cameras, such as the Wyze Cam v3 and Wyze Cam Pan v3, only support 2.4 GHz Wi-Fi networks. However, newer and Pro models like the Wyze Battery Cam Pro, Wyze Cam Floodlight Pro, and Wyze Video Doorbell Pro do offer support for both 2.4 GHz and 5 GHz Wi-Fi bands.
+Most popular Wyze cameras, such as the [Wyze Cam v3](https://quvii.com/learn/wyze-cam-v3-firmware-4-36-14-3497-sd-card-playback-fix) and Wyze Cam Pan v3, only support 2.4 GHz Wi-Fi networks. However, newer and Pro models like the Wyze Battery Cam Pro, Wyze Cam Floodlight Pro, and Wyze Video Doorbell Pro do offer support for both 2.4 GHz and 5 GHz Wi-Fi bands.
 
 ### How does summer heat affect Wyze cameras?
-High summer temperatures, especially direct sunlight, can cause Wyze cameras to overheat, leading to temporary disconnections, blurry video, or even permanent damage to internal components. It's crucial to place outdoor cameras in shaded areas or under eaves to help them stay within their specified operating temperature ranges (e.g., Wyze Cam v3 up to 113°F / 45°C).
+High summer temperatures, especially direct sunlight, can cause Wyze cameras to overheat, leading to temporary disconnections, blurry video, or even permanent damage to internal components. It's crucial to place outdoor cameras in shaded areas or under eaves to help them stay within their specified operating temperature ranges (e.g., Wyze [Cam v3](https://quvii.com/learn/wyze-cam-v3-firmware-4-36-14-3497-sd-card-playback-fix) up to 113°F / 45°C).
 
 ## Sources
 

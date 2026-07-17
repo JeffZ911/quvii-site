@@ -27,7 +27,7 @@ inline_image_sections:
   - "Further reading"
 ---
 
-As summer temperatures climb, a security camera’s reliability can falter just when it is needed most to monitor vacation-empty homes or busy small businesses. High ambient heat combined with direct solar radiation often pushes consumer-grade electronics past their engineered limits, leading to missed recordings and hardware failure.
+As summer temperatures climb, a security camera’s reliability can falter just when it is needed most to monitor vacation-empty homes or busy small businesses. High ambient heat combined with direct solar radiation often pushes consumer-grade electronics past their engineered limits, leading to missed recordings and [hardware failure](https://quvii.com/learn/wyze-camera-water-ingress-hardware-failure).
 
 # Fix Your Overheating Security Camera: Summer Solutions & Prevention
 

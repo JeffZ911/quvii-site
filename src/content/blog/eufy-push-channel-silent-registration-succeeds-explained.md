@@ -138,7 +138,7 @@ This is a "silent failure" where Eufy’s servers acknowledge your device's requ
 Currently, the only known workaround is to power cycle the HomeBase 3 or reseat the internal SSD. Ensure you are not on [Firmware v3](https://quvii.com/learn/reolink-doorbell-poe-connection-drop-firmware-troubleshooting).8.2.0 if possible, though Eufy often forces updates. Check the "Storage Management" section in the Eufy app daily to ensure your expanded drive is still active.
 
 ### Does Eufy still work without internet in 2026?
-Only partially. While some models can record to a local SD card or HomeBase without an active internet connection, you will not receive any notifications, and you cannot view the live feed—even if you are on the same Wi-Fi network—because the app requires a cloud-based authentication handshake to start the stream.
+Only partially. While some models can record to a local [SD card](https://quvii.com/learn/wyze-cam-v3-firmware-4-36-14-3497-sd-card-playback-fix) or HomeBase without an active internet connection, you will not receive any notifications, and you cannot view the live feed—even if you are on the same Wi-Fi network—because the app requires a cloud-based authentication handshake to start the stream.
 
 ## Sources
 
