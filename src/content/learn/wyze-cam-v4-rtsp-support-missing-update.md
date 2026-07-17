@@ -193,7 +193,7 @@ Wyze has indicated that they are working on official RTSP support for the Wyze [
 *   Asimily — The Difference Between RTSP and RTPS
 *   FS.com — What Is RTSP (Real-Time Streaming Protocol)? — https://www.fs.com/videos/what-is-rtsp.html
 *   GetStream.io — What is RTSP?
-*   Hector Weyl — The Wyze Cam v3 RTSP Firmware: A Comprehensive Guide (2024)
+*   Hector Weyl — The [Wyze Cam v3](https://quvii.com/learn/wyze-cam-v3-firmware-4-36-14-3497-sd-card-playback-fix) RTSP Firmware: A Comprehensive Guide (2024)
 *   Red5.net — What Is RTSP (Real-Time Streaming Protocol)? — https://www.red5.net/what-is-rtsp-real-time-streaming-protocol/
 *   Reddit — RTSP for Security Cameras - r/HomeSecurity — https://www.reddit.com/r/HomeSecurity/comments/16lry2y/rtsp_for_security_cameras/
 *   Reolink — RLC-520A
@@ -207,7 +207,7 @@ Wyze has indicated that they are working on official RTSP support for the Wyze [
 *   Wyze — [Wyze Cam v4](https://quvii.com/blog/wyze-cam-v4-overheating-june-2026-heatwave) Specs — https://www.wyze.com/products/wyze-cam-v4?variant=41774026330146
 *   Wyze — Does Wyze [Cam v4](https://quvii.com/blog/wyze-cam-v4-overheating-june-2026-heatwave) support local storage? — https://support.wyze.com/hc/en-us/articles/26792610260499-Wyze-Cam-v4-FAQ#:~:text=Yes%2C%20Wyze%20Cam%20v4%20supports%20local%20storage%20with%20a%20microSD%20card%20(sold%20separately).
 *   Wyze Community — Scrypted for Wyze Cams
-*   Wyze — Wyze Cam v3 RTSP — https://support.wyze.com/hc/en-us/articles/360052345072-Wyze-Cam-v3-RTSP
+*   Wyze — Wyze [Cam v3](https://quvii.com/learn/wyze-cam-v3-firmware-4-36-14-3497-sd-card-playback-fix) RTSP — https://support.wyze.com/hc/en-us/articles/360052345072-Wyze-Cam-v3-RTSP
 *   Wyze Community — TinyCam Pro for Wyze Cam
 *   Consumer Reports — [Security Camera Privacy](https://quvii.com/learn/eufy-security-camera-privacy-policy-update-2026-20260625) and Security Guide
 *   Wyze — Privacy Policy

@@ -60,7 +60,7 @@ For a prospective buyer, the Tapo C210 represents a balance between high-end fea
 
 ### Impact on User Experience and Product Reliability
 
-The Tapo C210 is frequently used as a baby monitor or a pet camera. In these scenarios, silence is a functional requirement. A clicking motor can wake a sleeping infant or startle a pet, effectively defeating the purpose of a "discreet" indoor monitor. Furthermore, persistent mechanical noise is often a precursor to total hardware failure. If the gears are grinding due to a software-induced calibration error, the lifespan of the pan/tilt mechanism—a core feature of this model—may be significantly shortened.
+The Tapo C210 is frequently used as a baby monitor or a pet camera. In these scenarios, silence is a functional requirement. A clicking motor can wake a sleeping infant or startle a pet, effectively defeating the purpose of a "discreet" indoor monitor. Furthermore, persistent mechanical noise is often a precursor to total [hardware failure](https://quvii.com/learn/wyze-camera-water-ingress-hardware-failure). If the gears are grinding due to a software-induced calibration error, the lifespan of the pan/tilt mechanism—a core feature of this model—may be significantly shortened.
 
 Buyers in 2026 are increasingly wary of "planned obsolescence" or software updates that degrade hardware performance. While there is no evidence that TP-Link is intentionally degrading these units, the lack of a "roll-back" feature for firmware means that if an update introduces noise, the user is stuck with a noisier device until the next official patch is released.
 

@@ -106,7 +106,7 @@ If you own a Wyze camera currently serving as a window cam, follow these steps t
 
 ### How to Update Your Wyze Window Cam Firmware
 1.  **Open the Wyze App:** Ensure your app is updated to the latest version via the Apple App Store or Google Play Store.
-2.  **Navigate to Settings:** Tap on your camera's live stream, then tap the gear icon in the top right corner.
+2.  **Navigate to Settings:** Tap on your camera's [live stream](https://quvii.com/blog/ezviz-hp7-home-assistant-live-stream-fails), then tap the gear icon in the top right corner.
 3.  **Check Device Info:** Scroll down to 'Device Info' and tap on 'Firmware Version.'
 4.  **Initiate Update:** If the version is lower than 1.3.0.48, the app should prompt you with an "Update" button. You can also go to **Account > Firmware Upgrade** to update multiple cameras at once.
 

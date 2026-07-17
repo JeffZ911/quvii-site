@@ -101,7 +101,7 @@ For those using the HomeBase 3 to expand storage (via 2.5-inch SSD/HDD), the Apr
 | :--- | :--- | :--- | :--- |
 | **Initial Hardware** | $150-200 | $150-200 | $200-230 |
 | **Subscription (3 Yrs)** | $0 | $180 ($60/yr) | $0 |
-| **Storage (SSD/SD)** | $50 (HomeBase SSD) | $0 (Cloud) | $30 (SD Card) |
+| **Storage (SSD/SD)** | $50 (HomeBase SSD) | $0 (Cloud) | $30 ([SD Card](https://quvii.com/learn/wyze-cam-v3-firmware-4-36-14-3497-sd-card-playback-fix)) |
 | **Replacement Risk** | High (Plastic Lens) | Low (Glass/Support) | Low (Glass) |
 | **3-Year Total** | **$200-250** | **$330-380** | **$230-260** |
 

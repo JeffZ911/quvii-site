@@ -77,7 +77,7 @@ There is a significant financial impact to heat-related failures that goes beyon
 
 **Total Cost of Ownership (TCO) Analysis: 3-Year Projection**
 
-*   **Hardware Cost:** Around $200 (Mid-range 4K Battery Camera)
+*   **Hardware Cost:** Around $200 (Mid-range 4K [Battery Camera](https://quvii.com/learn/eufy-vs-reolink-battery-camera-comparison-2026))
 *   **Subscription Fees:** $10/month (e.g., Nest Aware or Ring Protect) = $360
 *   **Replacement Cost:** $150 (Assuming one out-of-warranty heat failure in 3 years)
 *   **Total 3-Year Investment:** ~$710

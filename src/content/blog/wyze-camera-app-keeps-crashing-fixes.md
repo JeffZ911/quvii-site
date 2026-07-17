@@ -118,7 +118,7 @@ A standard "Clear Cache" within the app is often insufficient for the v3.14 upda
 
 ### Step 2: Managing Hardware Acceleration
 
-If the app crashes specifically when you start a live stream, the issue is likely the "Hardware Decoder." This feature offloads video processing to your phone's GPU, but it can fail if the GPU is busy or incompatible with the 2K stream.
+If the app crashes specifically when you start a [live stream](https://quvii.com/blog/ezviz-hp7-home-assistant-live-stream-fails), the issue is likely the "Hardware Decoder." This feature offloads video processing to your phone's GPU, but it can fail if the GPU is busy or incompatible with the 2K stream.
 1.  Open the Wyze App.
 2.  Go to **Account** > **App Settings**.
 3.  Toggle **Enable Hardware Decoder** to **OFF**.

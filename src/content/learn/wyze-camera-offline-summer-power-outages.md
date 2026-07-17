@@ -49,7 +49,7 @@ When a Wyze camera is "offline," it cannot communicate with the Wyze app or clou
 
 Several interdependent factors contribute to a Wyze camera going offline during a power outage, particularly in the summer months.
 
-**Loss of Power:** Most Wyze cameras, such as the Wyze Cam v3 and Wyze Cam Pan v3, are wired devices that require a continuous power supply (typically 5V/1A or 5V/2A via a USB adapter). A home power outage directly cuts this essential power source, rendering the camera inoperable.
+**Loss of Power:** Most Wyze cameras, such as the Wyze [Cam v3](https://quvii.com/learn/wyze-cam-v3-firmware-4-36-14-3497-sd-card-playback-fix) and Wyze Cam Pan v3, are wired devices that require a continuous power supply (typically 5V/1A or 5V/2A via a USB adapter). A home power outage directly cuts this essential power source, rendering the camera inoperable.
 
 **Wi-Fi Network Dependence:** The majority of Wyze cameras rely on a stable 2.4 GHz Wi-Fi network for connectivity. During a power outage, your home's Wi-Fi router and modem lose power, making the network unavailable to the camera. Without a network to connect to, the camera cannot establish communication with the internet or the Wyze cloud.
 
