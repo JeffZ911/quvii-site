@@ -89,7 +89,7 @@ The HomeBase 3 (S380) uses a proprietary database to index video files stored on
 3. **Cloud Handshake:** HomeBase pings Eufy Cloud to request a [push notification](https://quvii.com/blog/eufy-security-notification-failure-june-2026) slot.
 4. **Thumbnail Upload:** A low-res encrypted JPEG is sent to the cloud for the notification.
 5. **Mobile Delivery:** The cloud pushes to iOS 26/Android 16.
-6. **Live Stream:** If the user clicks the notification, the app initiates a P2P (Peer-to-Peer) connection back to the HomeBase.
+6. **[Live Stream](https://quvii.com/blog/ezviz-hp7-home-assistant-live-stream-fails):** If the user clicks the notification, the app initiates a P2P (Peer-to-Peer) connection back to the HomeBase.
 
 ## Real-world implications
 

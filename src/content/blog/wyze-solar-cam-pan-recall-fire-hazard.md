@@ -74,7 +74,7 @@ Wyze proactively disabled the setup process for the WYZESCPWH model in the Wyze 
 ![Why it matters for buyers](/img/wyze-solar-cam-pan-recall-fire-hazard/inline-2.webp)
 
 
-This recall represents a significant moment in the consumer security camera market, highlighting the hidden risks of "budget-first" engineering in devices that combine high-capacity batteries with DIY installation. For buyers, the Wyze Solar Cam Pan recall is more than just a hardware failure; it is a lesson in the physics of outdoor electronics.
+This recall represents a significant moment in the consumer security camera market, highlighting the hidden risks of "budget-first" engineering in devices that combine high-capacity batteries with DIY installation. For buyers, the Wyze Solar Cam Pan recall is more than just a [hardware failure](https://quvii.com/learn/wyze-camera-water-ingress-hardware-failure); it is a lesson in the physics of outdoor electronics.
 
 ### The Risk of Budget-First Engineering
 
