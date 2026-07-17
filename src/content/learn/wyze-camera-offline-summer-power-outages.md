@@ -144,9 +144,9 @@ Choosing the right Wyze camera setup for resilience during summer power outages 
 
 When considering a Wyze camera system, it's important to look beyond the initial purchase price and account for the total cost of ownership over several years, especially concerning subscription services. Many features, while advertised, are locked behind a paywall.
 
-Here's a breakdown of potential 3-year costs for a single Wyze Cam v3 (representative wired model) or Wyze Battery Cam Pro (representative battery model):
+Here's a breakdown of potential 3-year costs for a single [Wyze Cam v3](https://quvii.com/learn/wyze-cam-v3-firmware-4-36-14-3497-sd-card-playback-fix) (representative wired model) or Wyze Battery Cam Pro (representative battery model):
 
-**Wyze Cam v3 (Wired Camera)**
+**Wyze [Cam v3](https://quvii.com/learn/wyze-cam-v3-firmware-4-36-14-3497-sd-card-playback-fix) (Wired Camera)**
 *   **Hardware Cost:** Around $30-40 (one-time purchase for the camera itself)
 *   **Wyze Cam Plus Subscription:** This is where ongoing costs add up. Wyze Cam Plus offers unlimited cloud video storage, longer event recordings, person detection, vehicle detection, and pet detection.
     *   Monthly: Around $2.99/month x 36 months = approximately $108

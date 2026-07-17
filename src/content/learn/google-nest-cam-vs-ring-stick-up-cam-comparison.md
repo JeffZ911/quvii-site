@@ -168,7 +168,7 @@ Total cost of ownership (TCO) for a 3-camera setup over five years often exceeds
 
 
 ### Misconception: "I can use these cameras for free."
-**Reality:** While you can view a live stream for free on both, their utility as security devices is severely limited without a subscription. In 2026, Ring provides **zero** video history without a plan; you only receive real-time notifications. Nest is slightly more generous, offering a **3-hour rolling window** of event video history for free. If a theft occurs at 3:00 AM and you check your phone at 7:00 AM, the footage is already gone on the free tier.
+**Reality:** While you can view a [live stream](https://quvii.com/blog/ezviz-hp7-home-assistant-live-stream-fails) for free on both, their utility as security devices is severely limited without a subscription. In 2026, Ring provides **zero** video history without a plan; you only receive real-time notifications. Nest is slightly more generous, offering a **3-hour rolling window** of event video history for free. If a theft occurs at 3:00 AM and you check your phone at 7:00 AM, the footage is already gone on the free tier.
 
 **Comparison of Free Tier Features (2026)**
 

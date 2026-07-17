@@ -165,7 +165,7 @@ Users often assume a reset is needed because their [motion alerts](https://quvii
 *   **Blinking Blue (Fast):** Successfully synced (this is what you want).
 *   **Blinking Amber (Slow):** Low battery.
 *   **Blinking Amber (Fast):** Sync failed or hardware error.
-*   **Solid Amber:** Critical firmware error or hardware failure.
+*   **Solid Amber:** Critical firmware error or [hardware failure](https://quvii.com/learn/wyze-camera-water-ingress-hardware-failure).
 
 ## Further reading
 

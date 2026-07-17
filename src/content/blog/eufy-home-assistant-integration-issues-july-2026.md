@@ -155,7 +155,7 @@ No. As of July 2026, Eufy does not provide an official integration for [Home Ass
 This is usually caused by Eufy's cloud servers logging out the integration's session. Using a dedicated "Guest" account for [Home Assistant](https://quvii.com/blog/eufy-security-push-notifications-failing-home-assistant-20260712) and ensuring your `eufy-security-ws` bridge is updated can help, but it is a recurring issue due to Eufy's lack of a public API.
 
 ### Can I use Eufy cameras without any cloud connection?
-Not entirely. While Eufy stores video locally on the HomeBase or SD card, the cameras still require a cloud "handshake" for authentication and to initiate P2P streams. For a 100% cloud-free experience, cameras with "True" local APIs like Reolink or Amcrest are preferred.
+Not entirely. While Eufy stores video locally on the HomeBase or [SD card](https://quvii.com/learn/wyze-cam-v3-firmware-4-36-14-3497-sd-card-playback-fix), the cameras still require a cloud "handshake" for authentication and to initiate P2P streams. For a 100% cloud-free experience, cameras with "True" local APIs like Reolink or Amcrest are preferred.
 
 ### Will Eufy's HomeBase 3 work with Home Assistant?
 Yes, the HomeBase 3 (S380) is supported by the community integration, but it is more prone to integration breaks following firmware updates compared to the older HomeBase 2, due to its more complex "BionicMind" AI processing.

@@ -93,7 +93,7 @@ Crucially, the integration parses the *text* and *metadata* of the notification 
 
 ### Local P2P vs. Cloud API Calls
 
-While motion triggers rely on the cloud, the integration also uses Point-to-Point (P2P) communication for things like starting a live stream or changing camera settings. This P2P connection is established locally if the Home Assistant yellow/blue hardware is on the same subnet as the HomeBase 3. However, the initial "handshake" to find the camera’s local IP still requires a cloud API call. If your internet is down, or Eufy’s servers are having an outage, even "local" motion triggers will often fail because the handshake cannot complete.
+While motion triggers rely on the cloud, the integration also uses Point-to-Point (P2P) communication for things like starting a [live stream](https://quvii.com/blog/ezviz-hp7-home-assistant-live-stream-fails) or changing camera settings. This P2P connection is established locally if the Home Assistant yellow/blue hardware is on the same subnet as the HomeBase 3. However, the initial "handshake" to find the camera’s local IP still requires a cloud API call. If your internet is down, or Eufy’s servers are having an outage, even "local" motion triggers will often fail because the handshake cannot complete.
 
 | Feature | Local P2P (No Cloud) | Cloud Push Required | 2026 Integration Stability |
 | :--- | :--- | :--- | :--- |

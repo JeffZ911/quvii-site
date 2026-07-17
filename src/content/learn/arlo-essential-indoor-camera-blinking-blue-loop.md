@@ -81,7 +81,7 @@ The setup process for the Essential Indoor series is purely visual. The Arlo Sec
 
 ### Critical Alerts
 
-Beyond setup, the LED acts as a warning system. The most critical state is the alternating blue and amber pattern. This signifies that the camera is writing new code to its internal flash memory (a firmware update). Because the LED exists, users are warned not to pull the power cord, which could result in a "bricked" device—a hardware failure where the operating system is partially erased and cannot boot.
+Beyond setup, the LED acts as a warning system. The most critical state is the alternating blue and amber pattern. This signifies that the camera is writing new code to its internal flash memory (a firmware update). Because the LED exists, users are warned not to pull the power cord, which could result in a "bricked" device—a [hardware failure](https://quvii.com/learn/wyze-camera-water-ingress-hardware-failure) where the operating system is partially erased and cannot boot.
 
 ## How it works under the hood
 
