@@ -196,9 +196,9 @@ High summer temperatures, especially direct sunlight, can cause Wyze cameras to 
 
 ## Sources
 
-*   Wyze.com — Wyze Cam v3 Product Page: https://www.wyze.com/products/wyze-cam-v3
+*   Wyze.com — [Wyze Cam v3](https://quvii.com/learn/wyze-cam-v3-firmware-4-36-14-3497-sd-card-playback-fix) Product Page: https://www.wyze.com/products/wyze-cam-v3
 *   Wyze.com — Wyze Cam Pan v3 Product Page: https://www.wyze.com/products/wyze-cam-pan-v3
-*   Wyze.com — Wyze Cam v3 Specifications: https://www.wyze.com/products/wyze-cam-v3
+*   Wyze.com — Wyze [Cam v3](https://quvii.com/learn/wyze-cam-v3-firmware-4-36-14-3497-sd-card-playback-fix) Specifications: https://www.wyze.com/products/wyze-cam-v3
 *   Wyze.com — Wyze Cam Pan v3 Specifications: https://www.wyze.com/products/wyze-cam-pan-v3
 *   AT&T — What happens to internet during power outage?: https://www.att.com/support/article/u-verse-high-speed-internet/KM1000570
 *   PowerOutage.us — Understanding Power Outages: https://poweroutage.us/about

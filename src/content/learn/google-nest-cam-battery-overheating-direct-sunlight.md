@@ -40,7 +40,7 @@ When the mercury rises and the sun beats down on your home's exterior, your secu
 *Related: [Eufy HomeBase Storage Issues in June 2026: What You Need to Know](/learn/eufy-homebase-storage-issues-june-2026-20260628) · [Ring Battery Doorbell Plus Overheating: Causes, Fixes & What June 2026](/learn/ring-battery-doorbell-plus-overheating-june-2026) · [Ring Battery Doorbell Plus Firmware Updates: What to Know in June 2026](/learn/ring-battery-doorbell-plus-firmware-update-june-2026)*
 
 
-When a [Google Nest](https://quvii.com/blog/google-nest-cam-familiar-faces-june-2026-update) Cam (battery) overheats, it is not merely getting "warm to the touch"; it is entering a state of thermal distress that triggers a series of automated self-preservation protocols. These protocols are managed by the device's firmware to prevent permanent hardware failure or safety risks.
+When a [Google Nest](https://quvii.com/blog/google-nest-cam-familiar-faces-june-2026-update) Cam (battery) overheats, it is not merely getting "warm to the touch"; it is entering a state of thermal distress that triggers a series of automated self-preservation protocols. These protocols are managed by the device's firmware to prevent permanent [hardware failure](https://quvii.com/learn/wyze-camera-water-ingress-hardware-failure) or safety risks.
 
 ### Identifying Overheating Symptoms
 

@@ -45,7 +45,7 @@ When a Wyze [Cam v4](https://quvii.com/blog/wyze-cam-v4-cloud-storage-subscripti
 
 The "twilight loop" is the most common manifestation. This occurs when the ambient light is exactly at the threshold where the camera's software thinks it should switch to Night Vision. As soon as the infrared (IR) LEDs turn on, the camera perceives the environment as "bright" again and switches back to color mode, creating an infinite loop of switching. This behavior has been increasingly reported following the 4.52.9.x firmware branches, which adjusted the sensitivity of the Starlight sensor.
 
-In the live stream, this looks like a strobe light effect. In recorded playback, it often results in fragmented clips or "Motion Detected" events that consist of nothing but the camera changing its own modes.
+In the [live stream](https://quvii.com/blog/ezviz-hp7-home-assistant-live-stream-fails), this looks like a strobe light effect. In recorded playback, it often results in fragmented clips or "Motion Detected" events that consist of nothing but the camera changing its own modes.
 
 ### Visual Symptoms: The 'Strobe' Effect
 The digital "strobe" occurs when the camera’s CMOS sensor rapidly adjusts its gain and shutter speed. This is often a result of the camera's Wide Dynamic Range (WDR) settings fighting against the sudden influx of 850nm infrared light. Unlike the mechanical click, this is purely an image processing error where the "Color Night Vision" feature fails to find a stable exposure balance.

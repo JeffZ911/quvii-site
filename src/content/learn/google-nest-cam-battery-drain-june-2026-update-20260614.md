@@ -133,7 +133,7 @@ A common piece of advice in support forums is to lower the video resolution from
 Users often perform a [factory reset](https://quvii.com/learn/arlo-pro-vmc4030-factory-reset-failure-july-2026) hoping to "clean" the system. While this may temporarily clear a hung process, the camera will immediately re-download the [information unavailable] firmware during the setup process. Until Google issues a server-side rollback or a new firmware patch, a factory reset is a temporary fix that often results in more [battery drain](https://quvii.com/blog/ring-doorbell-battery-drain-june-2026-update) due to the high-power demands of the initial setup and calibration.
 
 ### Misconception: "My battery is just old."
-If your camera was working perfectly on June 1st and began failing by June 10th, it is not a hardware failure. Hardware degradation is slow. Software-induced drain is instantaneous.
+If your camera was working perfectly on June 1st and began failing by June 10th, it is not a [hardware failure](https://quvii.com/learn/wyze-camera-water-ingress-hardware-failure). Hardware degradation is slow. Software-induced drain is instantaneous.
 
 ## Further reading
 

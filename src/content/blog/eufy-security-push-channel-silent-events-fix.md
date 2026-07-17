@@ -66,7 +66,7 @@ When evaluating the total cost of ownership (TCO) over three years, Eufy remains
 | Feature | Eufy S330 (eufyCam 3) | Eufy S3 Pro | Reolink Altas PT Ultra |
 | :--- | :--- | :--- | :--- |
 | **Resolution** | 4K (3840 x 2160) | 4K with MaxColor Vision | 4K (3840 x 2160) |
-| **Storage** | Local (Expandable to 16TB) | Local (Expandable to 16TB) | Local (SD Card) |
+| **Storage** | Local (Expandable to 16TB) | Local (Expandable to 16TB) | Local ([SD Card](https://quvii.com/learn/wyze-cam-v3-firmware-4-36-14-3497-sd-card-playback-fix)) |
 | **Subscription** | $0 (Optional Cloud) | $0 (Optional Cloud) | $0 (Optional Cloud) |
 | **Power Type** | Solar/Battery | Solar/Battery | Battery (Continuous Recording) |
 | **Notification Tech** | Cloud-Relay Push | Cloud-Relay Push | Local-Push (LAN available) |
