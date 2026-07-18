@@ -38,7 +38,7 @@ Severe weather events often reveal the hidden dependencies of smart home securit
 ![What it means](/img/nest-cam-battery-offline-storm-fixes/inline-1.webp)
 
 
-When the Google Home app reports that your Nest Cam (battery) is "offline," it indicates a break in the communication chain between the device and Google’s cloud servers. In the context of a storm, this status is a symptom of environmental disruption rather than an immediate hardware failure.
+When the Google Home app reports that your Nest Cam (battery) is "offline," it indicates a break in the communication chain between the device and Google’s cloud servers. In the context of a storm, this status is a symptom of environmental disruption rather than an immediate [hardware failure](https://quvii.com/learn/wyze-camera-water-ingress-hardware-failure).
 
 ### Distinguishing 'Offline' from 'No Power'
 It is crucial to differentiate between a camera that has lost its network connection and one that has lost its power source. Because the Nest Cam (battery) contains an internal 6 Ah lithium-ion battery, it can remain operational even if your home’s electrical grid fails. A camera that is "offline" in the app may still be powered on and recording events to its internal memory, provided the battery hasn't depleted. Conversely, if the camera is completely unresponsive and shows no status lights even when triggered, it may have suffered a hardware failure due to a surge or physical damage, or the battery may be dead.

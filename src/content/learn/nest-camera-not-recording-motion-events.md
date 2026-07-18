@@ -37,7 +37,7 @@ If your Nest camera is failing to capture critical activity, you aren't just dea
 ![What it means](/img/nest-camera-not-recording-motion-events/inline-1.webp)
 
 
-When a Nest camera stops recording motion, it usually manifests as a gap in the timeline—a frustrating occurrence where the Google Home app timeline shows "No events detected" despite you knowing someone walked past the lens. This isn't always a hardware failure; it is often the result of how the software interprets "importance."
+When a Nest camera stops recording motion, it usually manifests as a gap in the timeline—a frustrating occurrence where the Google Home app timeline shows "No events detected" despite you knowing someone walked past the lens. This isn't always a [hardware failure](https://quvii.com/learn/wyze-camera-water-ingress-hardware-failure); it is often the result of how the software interprets "importance."
 
 ### The Difference Between Missing Clips and Missing Alerts
 It is vital to distinguish between a failed alert and a failed cloud save. You might receive a notification on your phone (an alert), but when you tap it, the app says "This video isn't available yet" or shows nothing at all. Conversely, the camera may record the event to the cloud silently without ever buzzing your pocket because your "Notifications" settings are filtered to "People only," while the "Recording" settings are set to "All Motion."

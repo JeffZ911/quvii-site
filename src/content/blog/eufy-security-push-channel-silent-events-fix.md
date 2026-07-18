@@ -92,7 +92,7 @@ Existing owners, particularly those who have invested heavily in the HomeBase 3 
 The bug manifests differently depending on the hardware generation:
 *   **HomeBase 3 (S380) Users:** These users are seeing the most "silent" events. Because the HomeBase 3 handles BionicMind AI processing locally, it sends a highly detailed metadata packet to Eufy’s servers for relay. The June 2026 update changed how these packets are signed, causing the mobile OS to misidentify the priority.
 *   **HomeBase 2 Users:** These users are reporting more "delayed" notifications rather than silent ones. The legacy hardware is struggling to handshake with the new "eufy_mega" protocol, leading to latencies of 30 seconds or more.
-*   **Standalone Wi-Fi Cameras (SoloCams):** These devices are experiencing "ghost events," where the camera records motion to the internal eMMC or SD card, but the push notification is never generated at the server level.
+*   **Standalone Wi-Fi Cameras (SoloCams):** These devices are experiencing "ghost events," where the camera records motion to the internal eMMC or [SD card](https://quvii.com/learn/wyze-cam-v3-firmware-4-36-14-3497-sd-card-playback-fix), but the push notification is never generated at the server level.
 
 ### Third-Party Integration Failures
 For smart home enthusiasts, the bug has reached beyond the Eufy Security app. Integrations with **[Home Assistant](https://quvii.com/blog/eufy-security-push-notifications-failing-home-assistant-20260712)**, **Homey**, and **Hubitat** rely on intercepting these [push notifications](https://quvii.com/blog/eufy-security-push-notifications-failing-home-assistant-20260712) to trigger automations. When the "Device Event" channel went silent or changed its ID structure, these integrations broke. 

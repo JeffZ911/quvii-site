@@ -203,10 +203,10 @@ High summer temperatures, especially direct sunlight, can cause Wyze cameras to 
 *   AT&T — What happens to internet during power outage?: https://www.att.com/support/article/u-verse-high-speed-internet/KM1000570
 *   PowerOutage.us — Understanding Power Outages: https://poweroutage.us/about
 *   American Alarm — What Causes Power Outages:
-*   Wyze.com — Wyze Cam v3 Specifications: https://www.wyze.com/products/wyze-cam-v3
+*   Wyze.com — [Wyze Cam v3](https://quvii.com/learn/wyze-cam-v3-firmware-4-36-14-3497-sd-card-playback-fix) Specifications: https://www.wyze.com/products/wyze-cam-v3
 *   Wyze.com — Wyze Cam Pan v3 Specifications: https://www.wyze.com/products/wyze-cam-pan-v3
 *   XPCC.com — Understanding AC to DC Conversion:
-*   Reddit.com — Wyze Cam v3 Wi-Fi connectivity: https://www.reddit.com/r/wyzecam/comments/pm1b0w/wyze_cam_v3_wifi_connectivity/
+*   Reddit.com — Wyze [Cam v3](https://quvii.com/learn/wyze-cam-v3-firmware-4-36-14-3497-sd-card-playback-fix) Wi-Fi connectivity: https://www.reddit.com/r/wyzecam/comments/pm1b0w/wyze_cam_v3_wifi_connectivity/
 *   Reddit.com — Wyze Cam Firewall Ports: https://www.reddit.com/r/wyzecam/comments/b7c2p2/wyze_cam_firewall_ports/
 *   Cobra Fire & Security — Security Camera Network Ports:
 *   Wyze.com — Using a MicroSD Card with Your Wyze Cam: https://support.wyze.com/hc/en-us/articles/360029767932-Using-a-MicroSD-Card-with-Your-Wyze-Cam
