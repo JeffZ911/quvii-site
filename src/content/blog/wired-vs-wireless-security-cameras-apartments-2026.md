@@ -70,7 +70,7 @@ For the average renter, the primary hurdle remains the lease agreement. Most US 
 The 2026 market has responded to drilling restrictions with "Hybrid-Wired" solutions. Manufacturers now offer ultra-thin, reinforced USB-C ribbon cables—often called "flat cables"—that are thin enough to pass through the weather stripping of a closed and locked window. This allows a renter to mount a "wired" camera on a balcony or windowsill using high-strength adhesive (like 3M VHB) while drawing continuous power from an indoor outlet. This setup provides the 24/7 recording reliability of a wired system without violating a "no-drill" lease policy.
 
 ### Reliability vs. Portability
-Wireless cameras remain the king of portability. When a lease ends, a battery camera can be popped off its magnetic mount in seconds. However, 2026 testing by independent outlets like [RTINGS](https://www.rtings.com) continues to show that standard battery units suffer from "trigger-to-record" latency. 
+Wireless cameras remain the king of portability. When a lease ends, a [battery camera](https://quvii.com/learn/reolink-battery-camera-wake-capture-not-working) can be popped off its magnetic mount in seconds. However, 2026 testing by independent outlets like [RTINGS](https://www.rtings.com) continues to show that standard battery units suffer from "trigger-to-record" latency. 
 
 **Benchmark: Trigger-to-Record Latency (2026 Industry Average)**
 *   **Wired (Continuous):** 0ms (Always recording)
