@@ -161,7 +161,7 @@ Modern local storage apps use "P2P Tunneling." When you open the app, it creates
 
 | If your situation is... | Prioritize this feature... | Recommended Setup |
 | :--- | :--- | :--- |
-| **Renter / Apartment** | Ease of removal, Wi-Fi | 4K Battery camera with 256GB MicroSD |
+| **Renter / Apartment** | Ease of removal, Wi-Fi | 4K [Battery camera](https://quvii.com/learn/reolink-battery-camera-wake-capture-not-working) with 256GB MicroSD |
 | **Homeowner (New Const.)** | Reliability, 24/7 recording | PoE (Power over Ethernet) 4K cameras + NVR |
 | **Homeowner (Retrofit)** | Solar power, no wires | 4K Solar cameras + Indoor Local Hub (e.g. HomeBase) |
 | **Small Business** | Maximum retention (30+ days) | 4K Wired cameras + Multi-bay NVR (8TB+) |
