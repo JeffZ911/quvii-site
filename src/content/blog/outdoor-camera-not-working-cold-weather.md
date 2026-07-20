@@ -143,7 +143,7 @@ When shopping for a winter-proof system in 2026, look for these specific models 
 | **No Wi-Fi/Remote Cabin** | Low Power + Solar | Use 4G/LTE cameras with oversized external battery banks (10,000mAh+). |
 
 ### Total Cost of Ownership (3-Year Breakdown)
-When comparing a "cheap" battery camera to a "reliable" [PoE camera](https://quvii.com/blog/reolink-poe-firmware-june-2026-issues), the math changes significantly over three years.
+When comparing a "cheap" [battery camera](https://quvii.com/learn/reolink-battery-camera-wake-capture-not-working) to a "reliable" [PoE camera](https://quvii.com/blog/reolink-poe-firmware-june-2026-issues), the math changes significantly over three years.
 
 *   **Battery Camera (e.g., [Arlo Pro 5S](https://quvii.com/learn/arlo-pro-5s-2k-night-vision-stuck-on)):**
     *   Hardware: ~$200

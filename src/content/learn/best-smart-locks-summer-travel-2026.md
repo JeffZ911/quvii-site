@@ -70,7 +70,7 @@ Smart locks do not operate in a vacuum. In a 2026 security ecosystem, the lock a
 
 **The Security Chain Infographic (Description):**
 1. **Lock Event:** A guest enters their unique code into the Schlage Encode Plus.
-2. **Camera Wake-up:** The lock sends a local signal via Matter to the porch camera.
+2. **[Camera Wake](https://quvii.com/learn/reolink-battery-camera-wake-capture-not-working)-up:** The lock sends a local signal via Matter to the porch camera.
 3. **User Notification:** You receive a notification on your phone: "House Sitter entered via Front Door."
 4. **Visual Verification:** You can view the associated clip immediately to ensure only the authorized person entered.
 

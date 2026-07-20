@@ -22,7 +22,7 @@ inline_image_sections:
   - "What to do now"
 ---
 
-The convenience of a wire-free security camera can quickly turn to frustration when battery life falls short. Owners of the Tapo C425 battery camera are increasingly reporting significant battery drain issues following a recent firmware update in June 2026, leading to a scramble for solutions and raising questions for prospective buyers.
+The convenience of a wire-free security camera can quickly turn to frustration when battery life falls short. Owners of the Tapo C425 [battery camera](https://quvii.com/learn/reolink-battery-camera-wake-capture-not-working) are increasingly reporting significant battery drain issues following a recent firmware update in June 2026, leading to a scramble for solutions and raising questions for prospective buyers.
 
 # Tapo C425 Battery Life Issues After June Update: What You Need to Know
 
