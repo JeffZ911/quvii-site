@@ -122,7 +122,7 @@ When evaluating battery-powered security cameras, your specific needs will dicta
 
 *   **If you prioritize maximum battery life and minimal maintenance:** Look for cameras with larger battery capacities (e.g., 9000+ mAh) and strong community feedback on long-term performance. Consider models that offer effective power-saving modes or solar panel compatibility.
 *   **If local storage and privacy are paramount:** Prioritize cameras with built-in microSD card slots and robust encryption. Always review the brand's privacy policy regarding data handling and third-party sharing.
-*   **If you need 24/7 recording or high-traffic area monitoring:** A battery camera might not be ideal. Consider wired cameras or battery models with continuous [solar charging](https://quvii.com/learn/reolink-argus-3-pro-solar-charging-issues-2026) for reliable, uninterrupted surveillance.
+*   **If you need 24/7 recording or high-traffic area monitoring:** A [battery camera](https://quvii.com/learn/reolink-battery-camera-wake-capture-not-working) might not be ideal. Consider wired cameras or battery models with continuous [solar charging](https://quvii.com/learn/reolink-argus-3-pro-solar-charging-issues-2026) for reliable, uninterrupted surveillance.
 *   **If budget is a primary concern but you want features:** Weigh the initial camera cost against potential recurring subscription fees and the cost of accessories like solar panels to understand the total cost of ownership.
 
 ### Total Cost of Ownership (TCO) for Battery Cameras
