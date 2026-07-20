@@ -37,7 +37,7 @@ A firmware update for the Tapo C425 [battery camera](https://quvii.com/learn/reo
 
 ### The June 2026 Firmware Rollout
 
-While TP-Link's official channels typically detail firmware updates, community discussions and user reports indicate a significant firmware rollout for the Tapo C425 battery camera around June 2026. These updates are usually designed to enhance camera functionality, security, or overall stability. However, in this instance, the update appears to have had an unintended side effect on battery performance for a segment of users.
+While TP-Link's official channels typically detail firmware updates, community discussions and user reports indicate a significant firmware rollout for the Tapo C425 [battery camera](https://quvii.com/learn/reolink-battery-camera-wake-capture-not-working) around June 2026. These updates are usually designed to enhance camera functionality, security, or overall stability. However, in this instance, the update appears to have had an unintended side effect on battery performance for a segment of users.
 
 ### Reported Symptoms: Rapid Battery Drain
 

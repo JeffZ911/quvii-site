@@ -129,7 +129,7 @@ Decide if you are willing to pay the "Subscription Tax."
 | **Privacy Conscious** | Local Storage (NVR/Hub) | Keeps data out of the cloud and avoids monthly fees. |
 
 ### The 2026 Apartment MVP: Reolink Altas PT Ultra
-If you are tired of missed events and rising fees, the **Reolink Altas PT Ultra** is the definitive 2026 pick for renters. It solves the "Wireless vs. Wired" dilemma by packing a 20,000mAh battery that allows for true 4K continuous recording. It doesn't require a subscription, supports local storage, and features "ColorX" technology for full-color night vision without needing a bright, neighbor-annoying spotlight. It is the first battery camera that truly behaves like a wired professional system.
+If you are tired of missed events and rising fees, the **Reolink Altas PT Ultra** is the definitive 2026 pick for renters. It solves the "Wireless vs. Wired" dilemma by packing a 20,000mAh battery that allows for true 4K continuous recording. It doesn't require a subscription, supports local storage, and features "ColorX" technology for full-color night vision without needing a bright, neighbor-annoying spotlight. It is the first [battery camera](https://quvii.com/learn/reolink-battery-camera-wake-capture-not-working) that truly behaves like a wired professional system.
 
 As you finalize your setup, remember that the most expensive camera is the one that doesn't record when you need it. Whether you go wired or wireless, prioritize a system that offers "pre-roll" or continuous recording to ensure you're getting the full story, not just a 10-second clip of a disappearing shadow.
 
