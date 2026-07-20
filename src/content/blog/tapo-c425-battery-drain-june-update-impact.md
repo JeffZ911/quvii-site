@@ -26,7 +26,7 @@ The convenience of a wire-free security camera can quickly turn to frustration w
 
 # Tapo C425 Battery Life Issues After June Update: What You Need to Know
 
-Following a recent June firmware update, some Tapo C425 battery camera owners are reporting significantly reduced battery life, with cameras draining much faster than their advertised "up to 300 days" and requiring more frequent recharging. This issue primarily affects the camera's convenience and reliability, potentially leading to missed recordings if not addressed promptly.
+Following a recent June firmware update, some Tapo C425 [battery camera](https://quvii.com/learn/reolink-battery-camera-wake-capture-not-working) owners are reporting significantly reduced battery life, with cameras draining much faster than their advertised "up to 300 days" and requiring more frequent recharging. This issue primarily affects the camera's convenience and reliability, potentially leading to missed recordings if not addressed promptly.
 
 ## What happened
 

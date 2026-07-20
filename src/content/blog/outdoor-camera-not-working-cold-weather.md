@@ -145,7 +145,7 @@ When shopping for a winter-proof system in 2026, look for these specific models 
 ### Total Cost of Ownership (3-Year Breakdown)
 When comparing a "cheap" [battery camera](https://quvii.com/learn/reolink-battery-camera-wake-capture-not-working) to a "reliable" [PoE camera](https://quvii.com/blog/reolink-poe-firmware-june-2026-issues), the math changes significantly over three years.
 
-*   **Battery Camera (e.g., [Arlo Pro 5S](https://quvii.com/learn/arlo-pro-5s-2k-night-vision-stuck-on)):**
+*   **[Battery Camera](https://quvii.com/learn/reolink-battery-camera-wake-capture-not-working) (e.g., [Arlo Pro 5S](https://quvii.com/learn/arlo-pro-5s-2k-night-vision-stuck-on)):**
     *   Hardware: ~$200
     *   Subscription ($15/mo for 3 years): $540
     *   Replacement Battery (Year 2): ~$50
