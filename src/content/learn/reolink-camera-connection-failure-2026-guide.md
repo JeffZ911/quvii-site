@@ -126,7 +126,7 @@ To troubleshoot effectively, you must know the capabilities of your specific har
 If you are facing a connection failure, use this prioritized logic to restore service:
 
 ### Scenario 1: "The camera was working, but now it's gone."
-*   **Check Power First:** If it’s a battery camera, check the last recorded battery level in the app. If it’s PoE, check the lights on your PoE switch.
+*   **Check Power First:** If it’s a [battery camera](https://quvii.com/learn/reolink-battery-camera-wake-capture-not-working), check the last recorded battery level in the app. If it’s PoE, check the lights on your PoE switch.
 *   **The 30-Second Rule:** Power cycle the camera (unplug/plug back in). This clears the temporary cache and forces a new P2P handshake.
 *   **Router Reboot:** Routers can "forget" how to route traffic to specific MAC addresses. Rebooting the router is often the "silver bullet" for connection issues.
 

@@ -164,7 +164,7 @@ No, motion zones are a processing filter and do not change the resolution or bit
 ## Sources
 
 - EZVIZ Official Support: [Motion Detection](https://quvii.com/learn/blink-outdoor-4-motion-detection-delay) Configuration
-- EZVIZ Product Page: BC1C Battery Camera Specs
+- EZVIZ Product Page: BC1C [Battery Camera](https://quvii.com/learn/reolink-battery-camera-wake-capture-not-working) Specs
 - EZVIZ Product Page: C3W Pro AI Features
 - EZVIZ CloudPlay Subscription Tiers
 - RTINGS: Security [Camera Motion Detection](https://quvii.com/blog/ring-camera-motion-streaming-issues-july-2026) Testing Methodology
