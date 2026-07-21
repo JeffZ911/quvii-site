@@ -38,7 +38,7 @@ The shift toward "forever power" in [home security](https://quvii.com/blog/smart
 ![What it means](/img/eufy-solocam-vs-ring-solar-2026-comparison-20260607-ef34/inline-1.webp)
 
 
-The "Solar" category in 2026 is split into two distinct design philosophies: integrated and modular. eufy has doubled down on the integrated approach, where the solar panel is built directly into the camera housing. Ring continues to favor a modular approach, where a standard battery camera is bundled with a separate, adjustable solar panel connected via a USB-C cable.
+The "Solar" category in 2026 is split into two distinct design philosophies: integrated and modular. eufy has doubled down on the integrated approach, where the solar panel is built directly into the camera housing. Ring continues to favor a modular approach, where a standard [battery camera](https://quvii.com/learn/reolink-battery-camera-wake-capture-not-working) is bundled with a separate, adjustable solar panel connected via a USB-C cable.
 
 ### The Integrated vs. Modular Debate
 The integrated design of the <a href="https://www.amazon.com/s?k=eufy+SoloCam+S340&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">eufy SoloCam S340</a> simplifies installation. There is only one bracket to mount, and no exposed wires to weather or for intruders to snip. However, this design requires the camera itself to be mounted in a location that receives at least 2 hours of direct sunlight. 
