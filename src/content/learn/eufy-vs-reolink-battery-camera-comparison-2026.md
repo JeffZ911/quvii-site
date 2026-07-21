@@ -114,7 +114,7 @@ Eufy’s S3 Pro is designed for aesthetic simplicity. The solar panel is built i
 Reolink cameras typically ship with a separate, adjustable 6W solar panel. This allows you to mount the camera in the shade (e.g., under a porch) while placing the panel 10 feet away in direct sunlight. For North American latitudes, the ability to tilt the panel to a 45-degree south-facing angle is critical for winter performance.
 
 ### Notification Speed and Wi-Fi 6
-Latency is the "hidden" metric of security. On older 2.4GHz Wi-Fi 4 networks, a battery camera might take 5–8 seconds to send a push notification to your phone. With the **Wi-Fi 6** support found in the 2026 Eufy and Reolink flagships, "Time to Alert" has dropped to an average of 1.5–3 seconds. This speed is essential for using the two-way talk feature to speak to a delivery driver before they walk away.
+Latency is the "hidden" metric of security. On older 2.4GHz Wi-Fi 4 networks, a [battery camera](https://quvii.com/learn/reolink-battery-camera-wake-capture-not-working) might take 5–8 seconds to send a push notification to your phone. With the **Wi-Fi 6** support found in the 2026 Eufy and Reolink flagships, "Time to Alert" has dropped to an average of 1.5–3 seconds. This speed is essential for using the two-way talk feature to speak to a delivery driver before they walk away.
 
 ### Total Cost of Ownership (TCO) — 3-Year Breakdown
 | Expense Category | Eufy (2-Camera Setup) | Reolink (2-Camera Setup) | Subscription Brand (Ring/Nest) |
