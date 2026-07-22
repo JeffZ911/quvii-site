@@ -114,7 +114,7 @@ If your cameras are still showing as offline, follow this prioritized checklist 
 ### How to Handle the Solar Cam Pan Recall
 If you own the **Wyze Solar Cam Pan (Model WYZESCPWH)**, you should stop using it immediately, even if it appears to be working.
 *   **Identify:** Check the sticker on the bottom of the camera for the model number.
-*   **Action:** Visit the Wyze Recall Portal to register your serial number. Wyze is currently offering a choice between a full refund (in the form of a digital gift card) or a discounted upgrade to the Wyze Cam Pan v3 with a separate, non-integrated solar panel.
+*   **Action:** Visit the Wyze Recall Portal to register your serial number. Wyze is currently offering a choice between a full refund (in the form of a digital gift card) or a discounted upgrade to the [Wyze Cam](https://quvii.com/learn/wyze-cam-v2-video-detection-failure-audio-only) Pan v3 with a separate, non-integrated solar panel.
 
 ### Future-Proofing Your Setup with Local Storage
 To prevent a total loss of footage during the next AWS outage, we recommend the following "Local-First" strategy:

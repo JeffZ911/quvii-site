@@ -44,7 +44,7 @@ For users running the Home Assistant 2026.7.0b0 beta, a sudden loss of Ring vide
 When a user attempts to open a Ring camera feed in the Home Assistant 2026.7.0b0 dashboard, the [stream fails](https://quvii.com/blog/ezviz-hp7-home-assistant-live-stream-fails) to initialize, often spinning indefinitely or displaying a "Failed to fetch" overlay. Unlike a simple network outage where an entity might show as "Unavailable," the Ring entities remain "Online," but the media player component cannot establish a visual connection.
 
 ### Identifying the WebRTC Error Log
-To confirm this specific issue, users must inspect the Home Assistant Core logs (Settings > System > Logs). The hallmark of this 2026.7.0b0 bug is a `WebRTC Error` followed by a specific trace:
+To confirm this specific issue, users must inspect the [Home Assistant Core](https://quvii.com/learn/fix-eufy-security-home-assistant-2026-6-4) logs (Settings > System > Logs). The hallmark of this 2026.7.0b0 bug is a `WebRTC Error` followed by a specific trace:
 `Failed to execute 'setRemoteDescription' on 'RTCPeerConnection': The provided SDP contains an incompatible send direction.`
 
 This error indicates that while the Home Assistant server and the Ring Cloud are talking, they cannot agree on which device is "sending" the video and which is "receiving" the audio. In the 2026.7.0b0 beta, the handshake fails at the final step, preventing the encrypted tunnel from opening.
@@ -146,7 +146,7 @@ Fixing this issue requires moving away from the "Core" [Ring integration](https:
 ### Community Fixes and Workarounds
 The most reliable current fix is the **HAWebRTCFix** custom component developed by community member TeejMcSteez. This component acts as a shim, intercepting the SDP Offer and stripping the incompatible "send direction" attributes before they reach the browser. 
 
-Alternatively, many power users are migrating to the **Ring-MQTT with go2rtc** setup. This method bypasses the Home Assistant Core media player entirely, using a dedicated Docker container to handle the Ring connection and providing a standard RTSP or WebRTC stream that is more resilient to HA version changes.
+Alternatively, many power users are migrating to the **Ring-MQTT with go2rtc** setup. This method bypasses the Home [Assistant Core](https://quvii.com/learn/fix-eufy-security-home-assistant-2026-6-4) media player entirely, using a dedicated Docker container to handle the Ring connection and providing a standard RTSP or WebRTC stream that is more resilient to HA version changes.
 
 ### Moving Toward Local-First Security
 This recurring instability with cloud-based cameras has led many in the Home Assistant community to recommend "local-first" hardware. Cameras from brands like Reolink or Amcrest offer RTSP and ONVIF support out of the box, meaning they do not require a cloud handshake to display video in Home Assistant.

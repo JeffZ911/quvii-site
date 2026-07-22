@@ -60,7 +60,7 @@ The fundamental reason for the instability of the [Alexa Media Player](https://q
 
 Amazon frequently updates its internal APIs, login flows, and security headers to protect its infrastructure and user data. Because these changes are not announced to the developer community, the maintainers of AMP must reactively update the code whenever Amazon "breaks" the connection. This "cat and mouse" game is the primary driver of the integration's fragility.
 
-Furthermore, Home Assistant Core is an aggressively updated platform. Changes to the internal architecture—intended to improve speed, security, or energy efficiency—can break custom components that rely on older methods of data handling. Because AMP is community-maintained, there is often a lag between a Home Assistant breaking change and the release of a fix in the AMP repository.
+Furthermore, [Home Assistant Core](https://quvii.com/learn/fix-eufy-security-home-assistant-2026-6-4) is an aggressively updated platform. Changes to the internal architecture—intended to improve speed, security, or energy efficiency—can break custom components that rely on older methods of data handling. Because AMP is community-maintained, there is often a lag between a Home Assistant breaking change and the release of a fix in the AMP repository.
 
 ## How it works under the hood
 
@@ -139,7 +139,7 @@ When evaluating these integrations, the "free" price tag of a custom component c
 
 
 **"[Alexa Media Player](https://quvii.com/learn/home-assistant-2026-7-alexa-media-player-breaking-changes) is an official Home Assistant or Amazon integration."**
-This is the most common point of confusion. AMP is a third-party "custom component." It is not reviewed by Amazon, nor is it part of the Home Assistant Core codebase. Its existence depends entirely on community volunteers.
+This is the most common point of confusion. AMP is a third-party "custom component." It is not reviewed by Amazon, nor is it part of the Home [Assistant Core](https://quvii.com/learn/fix-eufy-security-home-assistant-2026-6-4) codebase. Its existence depends entirely on community volunteers.
 
 **"The official Home Assistant Alexa integration offers local control for Echo devices."**
 Many users believe that by connecting Alexa to Home Assistant, the Echo devices will process commands locally. This is false. The official Alexa Devices integration still requires a round-trip to Amazon’s cloud servers. If your internet goes out, your Echo Show will not be able to announce motion from your cameras, even if the cameras and Home Assistant are still running locally.
