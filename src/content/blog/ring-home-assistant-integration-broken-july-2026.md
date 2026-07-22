@@ -27,7 +27,7 @@ The reliance on cloud-dependent smart home ecosystems has reached a critical jun
 
 # Ring Home Assistant Integration Broken: What You Need to Know in July 2026
 
-**Quick Answer:** As of July 2026, the Ring integration for Home Assistant is experiencing significant issues, specifically a regression in Home Assistant Core 2026.6.3 where the integration fails with an 'ImportError: cannot import name 'connect' from websockets.asyncio.client'. This prevents users from accessing Ring camera feeds and device controls within Home Assistant.
+**Quick Answer:** As of July 2026, the Ring integration for Home Assistant is experiencing significant issues, specifically a regression in Home [Assistant Core](https://quvii.com/learn/fix-eufy-security-home-assistant-2026-6-4) 2026.6.3 where the integration fails with an 'ImportError: cannot import name 'connect' from websockets.asyncio.client'. This prevents users from accessing Ring camera feeds and device controls within Home Assistant.
 
 ## What happened
 

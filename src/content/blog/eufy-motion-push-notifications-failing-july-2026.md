@@ -169,7 +169,7 @@ Eufy notifications can be delayed due to several factors, including recent firmw
 
 ### How do I fix Eufy push notification issues?
 
-To fix Eufy [push notification](https://quvii.com/blog/eufy-security-notification-failure-june-2026) issues, first check your phone's system settings to ensure the Eufy app has unrestricted background data and notification permissions. Then, verify in-app settings for [motion detection](https://quvii.com/blog/ring-camera-motion-streaming-issues-july-2026) and notification rules for each camera and security mode. Power cycling your cameras, HomeBase, and router can also resolve temporary glitches.
+To [fix Eufy](https://quvii.com/learn/fix-eufy-security-home-assistant-2026-6-4) [push notification](https://quvii.com/blog/eufy-security-notification-failure-june-2026) issues, first check your phone's system settings to ensure the Eufy app has unrestricted background data and notification permissions. Then, verify in-app settings for [motion detection](https://quvii.com/blog/ring-camera-motion-streaming-issues-july-2026) and notification rules for each camera and security mode. Power cycling your cameras, HomeBase, and router can also resolve temporary glitches.
 
 ### Do Eufy cameras require a subscription?
 

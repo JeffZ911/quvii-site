@@ -57,7 +57,7 @@ The affected units were sold between October 2025 and April 2026. They were dist
 
 ### Historical Context: From v1 Retirement to the 2026 Recall
 
-This is not the first time Wyze has faced scrutiny over device longevity and safety. In 2022, the company made headlines for the "end-of-life" retirement of the original Wyze Cam v1, which left units with unpatched security vulnerabilities. More recently, in early 2024, a major thumbnail breach allowed thousands of users to see into the homes of strangers.
+This is not the first time Wyze has faced scrutiny over device longevity and safety. In 2022, the company made headlines for the "end-of-life" retirement of the original [Wyze Cam](https://quvii.com/learn/wyze-cam-v2-video-detection-failure-audio-only) v1, which left units with unpatched security vulnerabilities. More recently, in early 2024, a major thumbnail breach allowed thousands of users to see into the homes of strangers.
 
 However, the 2026 Solar Cam Pan recall represents a shift from digital security failures to physical safety hazards. While a software bug can be patched over the air (OTA), a punctured battery is a permanent [hardware failure](https://quvii.com/learn/wyze-camera-water-ingress-hardware-failure) that requires a physical replacement. For a brand built on the promise of "democratizing" smart home technology through ultra-low pricing, these recurring incidents raise questions about the hidden costs of budget-tier manufacturing.
 

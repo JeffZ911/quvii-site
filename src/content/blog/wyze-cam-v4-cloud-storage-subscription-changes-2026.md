@@ -106,7 +106,7 @@ The March 2026 firmware update (version 4.52.9.6119) was released to support the
 However, independent community testing on platforms like r/Wyze suggests that this firmware has increased "time-to-stream." On the v4 hardware, users have reported that the initial handshake between the app and the camera now takes 1.5 to 2 seconds longer than on previous versions, likely due to the additional decryption steps required by the new security protocols.
 
 ### The 'Lite' Exclusion: Why Your v4 Won't Get Free Clips
-A common point of confusion for those upgrading from older Wyze Cam v2 or v3 units is "Cam Plus Lite." This legacy "name-your-price" service, which offered 12-second cloud clips for free or a small donation, is strictly limited to cameras released before 2022. The [Wyze Cam v4](https://quvii.com/learn/wyze-cam-v4-rtsp-support-missing-update) is hardware-locked out of this plan. For v4 owners, there is no "free" cloud video option; it is either a paid subscription or local recording to a microSD card.
+A common point of confusion for those upgrading from older [Wyze Cam v2](https://quvii.com/learn/wyze-cam-v2-video-detection-failure-audio-only) or v3 units is "Cam Plus Lite." This legacy "name-your-price" service, which offered 12-second cloud clips for free or a small donation, is strictly limited to cameras released before 2022. The [Wyze Cam v4](https://quvii.com/learn/wyze-cam-v4-rtsp-support-missing-update) is hardware-locked out of this plan. For v4 owners, there is no "free" cloud video option; it is either a paid subscription or local recording to a microSD card.
 
 ## What to do now
 

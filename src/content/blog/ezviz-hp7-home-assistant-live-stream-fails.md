@@ -39,7 +39,7 @@ For owners of the EZVIZ HP7, the promise of a local, subscription-free video int
 
 In mid-2026, a wave of EZVIZ HP7 owners reported that live video feeds in Home Assistant (HA) stopped working, showing 'Invalid data found' or 'Immediate exit requested' errors in logs. This disruption coincided with the rollout of firmware version v5.3.x, which introduced a fundamental change in how the intercom’s internal server handles RTSP (Real-Time Streaming Protocol) handshakes.
 
-The issue specifically affects the "stream worker" component within Home Assistant Core 2026.6 and 2026.7. While the official EZVIZ mobile application continues to stream correctly by utilizing a proprietary cloud relay, the local "direct" entities used by third-party integrations—which rely on communicating directly with the camera's IP address over the local network—are failing to decode the incoming data.
+The issue specifically affects the "stream worker" component within Home [Assistant Core](https://quvii.com/learn/fix-eufy-security-home-assistant-2026-6-4) 2026.6 and 2026.7. While the official EZVIZ mobile application continues to stream correctly by utilizing a proprietary cloud relay, the local "direct" entities used by third-party integrations—which rely on communicating directly with the camera's IP address over the local network—are failing to decode the incoming data.
 
 ### The Technical Root: MPEG-TS Compatibility
 

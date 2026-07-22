@@ -40,7 +40,7 @@ Understanding the distinction between a formal government recall and a manufactu
 
 ### The 2022 Wyze Cam Outdoor Recall Explained
 
-Much of the current confusion stems from historical reports involving the original Wyze Cam Outdoor (Model: WVOD1). In late 2022, several community threads and tech news outlets began discussing potential safety risks associated with the Outdoor model’s power delivery. While some users reported issues with the physical integrity of the power bricks, it is important to clarify that **no official CPSC recall was ever finalized** for the WVOD1 power adapter. 
+Much of the current confusion stems from historical reports involving the original [Wyze Cam](https://quvii.com/learn/wyze-cam-v2-video-detection-failure-audio-only) Outdoor (Model: WVOD1). In late 2022, several community threads and tech news outlets began discussing potential safety risks associated with the Outdoor model’s power delivery. While some users reported issues with the physical integrity of the power bricks, it is important to clarify that **no official CPSC recall was ever finalized** for the WVOD1 power adapter. 
 
 The "search trend" for a 2022 recall often conflates Wyze with other smart home brands that did undergo major power-related recalls during that period. For example, Ring and other manufacturers have faced CPSC actions regarding [battery overheating](https://quvii.com/learn/nest-cam-battery-overheating-notification-fix) or adapter failures. For Wyze, the 2022 era was marked more by a significant [security vulnerability](https://quvii.com/blog/ubiquiti-unifi-os-security-vulnerability-june-2026) disclosure (the Bitdefender report) than by a physical hardware recall.
 
@@ -107,7 +107,7 @@ If you currently own a [Wyze Cam v4](https://quvii.com/learn/wyze-cam-v4-night-v
 To ensure your hardware is safe, perform a physical inspection of the adapter and cable every six months. 
 
 1.  **Check Model Markings:** Look for the UL or ETL "circle" logo on the flat face of the power brick. If the brick only features a "CE" mark or has no regulatory markings at all, it was likely not intended for the US market or is a third-party replacement of unknown quality.
-2.  **Verify the Output:** The Wyze [Cam v4](https://quvii.com/learn/wyze-cam-v4-night-vision-flickering-fix) brick should specify an output of `5.0V == 2.0A`. Using an older 1A brick from a Wyze Cam v2 or v1 will result in underpowering the v4, leading to crashes when the spotlight or [night vision](https://quvii.com/learn/wyze-cam-v4-night-vision-flickering-fix) kicks in.
+2.  **Verify the Output:** The Wyze [Cam v4](https://quvii.com/learn/wyze-cam-v4-night-vision-flickering-fix) brick should specify an output of `5.0V == 2.0A`. Using an older 1A brick from a [Wyze Cam v2](https://quvii.com/learn/wyze-cam-v2-video-detection-failure-audio-only) or v1 will result in underpowering the v4, leading to crashes when the spotlight or [night vision](https://quvii.com/learn/wyze-cam-v4-night-vision-flickering-fix) kicks in.
 3.  **Inspect the Port:** Unplug the micro-USB cable from the back of the camera and look for green or white crusting (corrosion), which indicates moisture has reached the pins.
 
 ### Troubleshooting Intermittent Power Issues

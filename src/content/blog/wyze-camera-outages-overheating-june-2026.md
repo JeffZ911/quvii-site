@@ -99,7 +99,7 @@ If your camera has a microSD card installed and local recording enabled, it may 
 
 ### Security Camera Feature Comparison
 
-| Feature                 | Wyze [Cam v3](https://quvii.com/learn/wyze-cam-v3-firmware-4-36-14-3497-sd-card-playback-fix) Pro | [Wyze Cam v4](https://quvii.com/learn/wyze-cam-v4-overheating-issues-june-2026-20260627) | Wyze Cam Pan v3 | Wyze Outdoor Cam v2 |
+| Feature                 | Wyze [Cam v3](https://quvii.com/learn/wyze-cam-v3-firmware-4-36-14-3497-sd-card-playback-fix) Pro | [Wyze Cam v4](https://quvii.com/learn/wyze-cam-v4-overheating-issues-june-2026-20260627) | Wyze Cam Pan v3 | Wyze Outdoor [Cam v2](https://quvii.com/learn/wyze-cam-v2-video-detection-failure-audio-only) |
 | :---------------------- | :-------------- | :---------- | :-------------- | :------------------ |
 | **Resolution**          | 2K (2560x1440) | 2K (2560x1440) | 1080p | 1080p |
 | **IR [Night Vision](https://quvii.com/learn/arlo-pro-5s-2k-night-vision-stuck-on) Range** | Up to 30 ft | Up to 30 ft | Up to 30 ft | Up to 25 ft |

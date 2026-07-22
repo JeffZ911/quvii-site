@@ -118,7 +118,7 @@ When evaluating the long-term cost of a smart home camera, especially in hot cli
 
 **Example 3-Year TCO Breakdown (Illustrative):**
 
-*   **Scenario A: Budget Wireless Camera (e.g., Wyze Outdoor Cam v2) in Hot Climate**
+*   **Scenario A: Budget Wireless Camera (e.g., Wyze Outdoor [Cam v2](https://quvii.com/learn/wyze-cam-v2-video-detection-failure-audio-only)) in Hot Climate**
     *   Hardware: ~$60
     *   Subscription (Cam Plus, 3 years): $20/year * 3 = $60
     *   Battery Replacement (once): ~$20

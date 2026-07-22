@@ -116,7 +116,7 @@ The community has moved quickly to address the June/July API changes. The first 
 
 1.  **Update HACS Integration:** Open Home Assistant > HACS > Integrations. Look for "Eufy Security" and update to **version 8.2.4 or higher**.
 2.  **Update the Add-on:** Navigate to Settings > Add-ons. Ensure the `eufy-security-ws` add-on (the "bridge") is updated to the latest version.
-3.  **Restart Sequence:** This is critical. Stop the add-on, restart Home Assistant core, and then start the add-on again. This clears the stale session tokens from the local cache.
+3.  **Restart Sequence:** This is critical. Stop the add-on, restart [Home Assistant core](https://quvii.com/learn/fix-eufy-security-home-assistant-2026-6-4), and then start the add-on again. This clears the stale session tokens from the local cache.
 
 ### Fixing the 'No Stations Found' Error
 If updating doesn't work, you likely have a session conflict. 
