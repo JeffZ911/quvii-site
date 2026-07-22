@@ -31,7 +31,7 @@ For many Home Assistant users, the sudden silence of a smart doorbell chime or t
 
 # Home Assistant Alexa Media Player Integration Broken in 2026: What You Need to Know
 
-**Quick Answer:** The Alexa [Media Player](https://quvii.com/learn/home-assistant-2026-7-alexa-media-player-breaking-changes) (AMP) custom component for Home Assistant has experienced several disruptions in 2026 due to Home Assistant Core updates (e.g., 2026.2.2, 2026.3.4, 2026.7.0b1) and Amazon API changes, often requiring troubleshooting or component updates. The official "Alexa Devices" integration is now a more stable alternative for many users.
+**Quick Answer:** The Alexa [Media Player](https://quvii.com/learn/home-assistant-2026-7-alexa-media-player-breaking-changes) (AMP) custom component for Home Assistant has experienced several disruptions in 2026 due to Home [Assistant Core](https://quvii.com/learn/fix-eufy-security-home-assistant-2026-6-4) updates (e.g., 2026.2.2, 2026.3.4, 2026.7.0b1) and Amazon API changes, often requiring troubleshooting or component updates. The official "Alexa Devices" integration is now a more stable alternative for many users.
 
 ## What it means
 

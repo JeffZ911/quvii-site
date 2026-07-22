@@ -91,7 +91,7 @@ The total cost of ownership (TCO) for a [Wyze Cam v4](https://quvii.com/learn/wy
 | **Wyze [Cam v4](https://quvii.com/learn/wyze-cam-v4-night-vision-flickering-fix)** | 2.5K (QHD) | 5V/2A Micro-USB | ~$100 - $120 (with Cam Plus) |
 | **Reolink E1 Pro** | 2K (QHD) | 5V/2A DC Barrel | ~$50 - $70 (No sub required) |
 | **Eufy OutdoorCam** | 2K | 5V/2A Micro-USB | ~$60 - $80 (No sub required) |
-| **Wyze Cam Pan v3** | 1080p | 5V/2A Micro-USB | ~$110 - $130 (with Cam Plus) |
+| **[Wyze Cam](https://quvii.com/learn/wyze-cam-v2-video-detection-failure-audio-only) Pan v3** | 1080p | 5V/2A Micro-USB | ~$110 - $130 (with Cam Plus) |
 
 *Note: TCO estimates based on mid-2026 subscription rates and hardware price bands.*
 

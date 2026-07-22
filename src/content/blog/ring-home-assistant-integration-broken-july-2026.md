@@ -147,7 +147,7 @@ Yes. The current breakage only affects the bridge between Ring and Home Assistan
 
 ## Sources
 - Ring Privacy and Law Enforcement — https://ring.com/privacy
-- Home Assistant Core GitHub Issues — https://github.com/home-assistant/core/issues
+- [Home Assistant Core](https://quvii.com/learn/fix-eufy-security-home-assistant-2026-6-4) GitHub Issues — https://github.com/home-assistant/core/issues
 - Reolink Product Specifications — https://reolink.com/product/reolink-video-doorbell-wifi/
 - Amcrest AD410 Spec Sheet — https://amcrest.com/4mp-wifi-video-doorbell-ad410.html
 - Python Websockets Documentation — https://websockets.readthedocs.io/en/stable/
