@@ -41,7 +41,7 @@ The release of Home Assistant 2026.7.0 brings significant performance upgrades t
 *Related: [EZVIZ Camera Motion Detection Zones: A Complete Setup Guide](/learn/ezviz-camera-motion-detection-zones-setup-guide) · [Tapo C210 Motion Tracking Issues: Understanding Firmware & Fixes](/learn/tapo-c210-firmware-motion-tracking-bug-fix) · [Nest Cam (Battery) Offline After Storm: Causes & Fixes](/learn/nest-cam-battery-offline-storm-fixes)*
 
 
-The release of Home Assistant Core 2026.7.0 (and its preceding beta, 2026.7.0b0) introduces a critical breaking change for the `alexa_media_player` HACS integration. This custom component, used by hundreds of thousands of users to bridge Amazon Echo devices with Home Assistant, relies on an unofficial API that has been destabilized by architectural shifts in the Home Assistant core.
+The release of Home [Assistant Core](https://quvii.com/learn/fix-eufy-security-home-assistant-2026-6-4) 2026.7.0 (and its preceding beta, 2026.7.0b0) introduces a critical breaking change for the `alexa_media_player` HACS integration. This custom component, used by hundreds of thousands of users to bridge Amazon Echo devices with Home Assistant, relies on an unofficial API that has been destabilized by architectural shifts in the Home Assistant core.
 
 Users upgrading to the 2026.7.0 cycle will likely encounter "Integration fails to launch" or "Invalid flow specified" errors in their logs. Because this integration handles the communication between Home Assistant and Amazon’s cloud, the failure effectively disables two-way audio, Text-to-Speech (TTS) announcements, and—most critically for security-minded users—the ability to automatically trigger camera feeds on Echo Show devices.
 

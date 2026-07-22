@@ -46,7 +46,7 @@ The "search trend" for a 2022 recall often conflates Wyze with other smart home 
 
 ### Wyze Cam Pan v3 Power Cable Issues
 
-In 2024 and 2025, the Wyze Cam Pan v3 became the center of a different kind of power discussion. Users reported frequent "power cycling" where the camera would reboot during a pan-and-tilt operation. This was largely attributed to the power draw of the motors exceeding the stability of the provided cable or adapter. 
+In 2024 and 2025, the [Wyze Cam](https://quvii.com/learn/wyze-cam-v2-video-detection-failure-audio-only) Pan v3 became the center of a different kind of power discussion. Users reported frequent "power cycling" where the camera would reboot during a pan-and-tilt operation. This was largely attributed to the power draw of the motors exceeding the stability of the provided cable or adapter. 
 
 While Wyze did not initiate a CPSC-mandated recall for these cables, they did address the issue through firmware updates designed to manage motor power consumption and, in some cases, provided individual replacements for users through their standard support channels. This "voluntary support" approach is often mistaken for a formal recall in internet archives, leading v4 owners to worry that their newer hardware might be subject to similar failures.
 

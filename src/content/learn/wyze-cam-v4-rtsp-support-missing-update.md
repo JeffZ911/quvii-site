@@ -59,7 +59,7 @@ The move towards subscription-based services is a significant industry trend. Co
 
 ### Historical Context of Wyze RTSP Firmware
 
-Wyze has a history of offering RTSP support, albeit in a somewhat limited fashion. For older models like the Wyze Cam v2, v3, and Wyze Cam Pan, Wyze provided a separate RTSP firmware branch that users could manually flash onto their devices. This approach allowed users to enable RTSP functionality, but it often meant foregoing official firmware updates and potentially certain features of the standard firmware. Wyze previously cited hardware limitations and resource constraints as reasons for not maintaining two distinct firmware versions simultaneously, making the development of native, integrated RTSP support a more complex undertaking for newer models like the v4.
+Wyze has a history of offering RTSP support, albeit in a somewhat limited fashion. For older models like the [Wyze Cam v2](https://quvii.com/learn/wyze-cam-v2-video-detection-failure-audio-only), v3, and Wyze Cam Pan, Wyze provided a separate RTSP firmware branch that users could manually flash onto their devices. This approach allowed users to enable RTSP functionality, but it often meant foregoing official firmware updates and potentially certain features of the standard firmware. Wyze previously cited hardware limitations and resource constraints as reasons for not maintaining two distinct firmware versions simultaneously, making the development of native, integrated RTSP support a more complex undertaking for newer models like the v4.
 
 ## How it works under the hood
 

@@ -81,7 +81,7 @@ Market positioning is the final factor. Wyze targets the mass-market consumer wh
 
 ### Timeline of Wyze RTSP Support
 
-*   **Wyze Cam v2:** Received official beta RTSP firmware (now deprecated).
+*   **[Wyze Cam v2](https://quvii.com/learn/wyze-cam-v2-video-detection-failure-audio-only):** Received official beta RTSP firmware (now deprecated).
 *   **[Wyze Cam v3](https://quvii.com/learn/wyze-cam-v3-firmware-4-36-14-3497-sd-card-playback-fix):** Received official beta RTSP firmware; later removed from official sites; still used via community archives.
 *   **Wyze [Cam v3](https://quvii.com/learn/wyze-cam-v3-firmware-4-36-14-3497-sd-card-playback-fix) Pro:** Never received official RTSP firmware; requires third-party bridges.
 *   **Wyze Cam v4:** No official RTSP support; relies entirely on third-party "bridge" software as of mid-2026.

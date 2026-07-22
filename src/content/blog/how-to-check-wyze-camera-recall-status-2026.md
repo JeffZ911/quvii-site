@@ -178,7 +178,7 @@ No. Wyze and the CPSC strongly advise against this. If the battery was even slig
 If the recalled camera caused property damage, do not simply fill out the standard recall form. You should contact Wyze Customer Support directly and file a formal incident report. You may also need to contact your homeowners' insurance provider. Document all damage with photos before removing the device.
 
 ### Is the Wyze Cam Pan v3 also recalled?
-No. As of June 2026, the recall only applies to the **Solar Cam Pan (WYZESCPWH)**. The standard Wyze Cam Pan v3 (which is powered by a plug-in USB cable and has no internal battery) is not affected by this specific fire hazard.
+No. As of June 2026, the recall only applies to the **Solar Cam Pan (WYZESCPWH)**. The standard [Wyze Cam](https://quvii.com/learn/wyze-cam-v2-video-detection-failure-audio-only) Pan v3 (which is powered by a plug-in USB cable and has no internal battery) is not affected by this specific fire hazard.
 
 ### How long does the replacement take to arrive?
 According to Wyze's recall notice, replacement units are expected to ship within 4–6 weeks of claim approval. However, due to the high volume of the recall (over 300,000 units), delays are possible.

@@ -49,7 +49,7 @@ Community developers, notably contributors like Bobsilvio and albrzmr on GitHub,
 
 ### Official vs. Custom Integration Status
 
-As of July 2026, the official EZVIZ integration in Home Assistant Core remains limited. It primarily supports cloud-based entities which suffer from high latency and are subject to EZVIZ’s API rate limits. Most power users rely on the HACS (Home Assistant Community Store) custom integration specifically designed for the HP7 and other high-end EZVIZ doorbells. 
+As of July 2026, the official EZVIZ integration in [Home Assistant Core](https://quvii.com/learn/fix-eufy-security-home-assistant-2026-6-4) remains limited. It primarily supports cloud-based entities which suffer from high latency and are subject to EZVIZ’s API rate limits. Most power users rely on the HACS (Home Assistant Community Store) custom integration specifically designed for the HP7 and other high-end EZVIZ doorbells. 
 
 The custom integration is currently the only way to bypass the cloud and access the local stream, but it requires frequent updates to keep pace with EZVIZ's firmware changes. Owners who have not updated their HACS components to version v0.9.3 or higher will find their video feeds permanently stuck in a loading state.
 
