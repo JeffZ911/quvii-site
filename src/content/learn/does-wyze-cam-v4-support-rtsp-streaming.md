@@ -50,7 +50,7 @@ The v4’s high-resolution 2.5K QHD sensor makes it a prime candidate for local 
 
 ### Comparison: Wyze Cam v4 vs. RTSP-Native Competitors (2026)
 
-| Feature | Wyze Cam v4 | TP-Link Tapo C120 | Reolink E1 Pro |
+| Feature | [Wyze Cam](https://quvii.com/learn/wyze-cam-v2-video-detection-failure-audio-only) v4 | TP-Link Tapo C120 | Reolink E1 Pro |
 | :--- | :--- | :--- | :--- |
 | **Native RTSP** | No | Yes | Yes |
 | **Native ONVIF** | No | Yes | Yes |

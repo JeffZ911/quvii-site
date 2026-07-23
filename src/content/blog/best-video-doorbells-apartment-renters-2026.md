@@ -140,7 +140,7 @@ In most US jurisdictions, landlords can prohibit any modification that involves 
 In 2026, battery technology has improved, but extreme cold (below -4°F / -20°C) still impacts performance. If you live in a cold climate, look for models with "Cold-Weather Endurance" ratings or units that allow for easy "pop-out" battery swapping so you can charge the battery indoors without taking down the entire mount.
 
 ### Is local storage as safe as cloud storage?
-Local storage (microSD or HomeBase) is private and fee-free, but it carries a physical risk: if a thief steals the doorbell itself, they may take the footage with them. To mitigate this, many 2026 renters prefer the Eufy system, which stores footage on a HomeBase kept safely *inside* the apartment, or Reolink models that offer optional, low-cost cloud "shadowing" for the last 24 hours of events.
+[Local storage](https://quvii.com/learn/frigate-nvr-vs-reolink-local-storage-2026-20260723) (microSD or HomeBase) is private and fee-free, but it carries a physical risk: if a thief steals the doorbell itself, they may take the footage with them. To mitigate this, many 2026 renters prefer the Eufy system, which stores footage on a HomeBase kept safely *inside* the apartment, or Reolink models that offer optional, low-cost cloud "shadowing" for the last 24 hours of events.
 
 ## Sources
 - Reolink — [https://reolink.com](https://reolink.com)

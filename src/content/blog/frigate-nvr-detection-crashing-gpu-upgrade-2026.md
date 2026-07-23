@@ -62,7 +62,7 @@ When a GPU upgrade goes wrong, the following symptoms are frequently observed in
 ![Why it matters for buyers](/img/frigate-nvr-detection-crashing-gpu-upgrade-2026/inline-2.webp)
 
 
-Frigate NVR is a leading choice for consumers seeking privacy-focused, subscription-free home security with advanced local AI detection capabilities. For those moving away from cloud-dependent brands like Nest or Arlo, the appeal lies in total data ownership. However, the move to a DIY NVR introduces a steep learning curve regarding hardware maintenance.
+[Frigate NVR](https://quvii.com/learn/frigate-nvr-vs-reolink-local-storage-2026-20260723) is a leading choice for consumers seeking privacy-focused, subscription-free home security with advanced local AI detection capabilities. For those moving away from cloud-dependent brands like Nest or Arlo, the appeal lies in total data ownership. However, the move to a DIY NVR introduces a steep learning curve regarding hardware maintenance.
 
 Issues with GPU compatibility and stability underscore the inherent complexity of DIY NVR solutions compared to simpler, often subscription-based, commercial camera systems. While a commercial system is "plug and play," a Frigate setup requires the user to act as their own systems administrator. For new buyers, understanding the critical role of hardware compatibility is essential before investing in expensive GPUs or dedicated server hardware.
 
