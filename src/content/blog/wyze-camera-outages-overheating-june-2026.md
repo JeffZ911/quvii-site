@@ -169,7 +169,7 @@ Wyze states they do not sell user data for money. They use AES 256-bit encryptio
 
 ### What is the difference between local and cloud storage for Wyze cameras?
 
-Local storage, typically via a microSD card inserted directly into the camera, allows your camera to record video footage directly onto the card without needing an internet connection or a subscription. Cloud storage, often part of a Wyze Cam Plus subscription, uploads video recordings to Wyze's servers over the internet, allowing you to access them remotely via the app. Local storage provides a backup if internet or cloud services fail, while cloud storage offers remote access and often more advanced features.
+Local storage, typically via a microSD card inserted directly into the camera, allows your camera to record video footage directly onto the card without needing an internet connection or a subscription. Cloud storage, often part of a [Wyze Cam](https://quvii.com/learn/wyze-cam-v2-video-detection-failure-audio-only) Plus subscription, uploads video recordings to Wyze's servers over the internet, allowing you to access them remotely via the app. Local storage provides a backup if internet or cloud services fail, while cloud storage offers remote access and often more advanced features.
 
 ## Sources
 

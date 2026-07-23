@@ -26,7 +26,7 @@ inline_image_sections:
   - "Further reading"
 ---
 
-For power users and privacy advocates, the ability to control a camera's video stream locally is the defining line between a smart home gadget and a professional security tool. While the Wyze Cam v4 offers impressive hardware for its price point, its integration into local ecosystems remains a complex challenge.
+For power users and privacy advocates, the ability to control a camera's video stream locally is the defining line between a smart home gadget and a professional security tool. While the [Wyze Cam](https://quvii.com/learn/wyze-cam-v2-video-detection-failure-audio-only) v4 offers impressive hardware for its price point, its integration into local ecosystems remains a complex challenge.
 
 # Does the Wyze Cam v4 Support RTSP Streaming?
 

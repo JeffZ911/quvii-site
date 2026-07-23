@@ -27,7 +27,7 @@ Upgrading a GPU is often the final step in perfecting a high-performance local A
 
 # Frigate NVR Detection Crashing After GPU Upgrade: What You Need to Know in 2026
 
-**Quick Answer:** Frigate NVR detection crashing after a GPU upgrade in 2026 is often due to outdated GPU drivers, incorrect Docker container configurations (e.g., wrong image tag or device passthrough), or misconfigured `hwaccel_args` in the Frigate YAML. Users should verify driver compatibility (NVIDIA >=545, Compute Capability >=5.0) and ensure the correct Frigate Docker image (like `-tensorrt` for NVIDIA) is used with proper device mapping and `shm_size` settings.
+**Quick Answer:** [Frigate NVR](https://quvii.com/learn/frigate-nvr-vs-reolink-local-storage-2026-20260723) detection crashing after a GPU upgrade in 2026 is often due to outdated GPU drivers, incorrect Docker container configurations (e.g., wrong image tag or device passthrough), or misconfigured `hwaccel_args` in the Frigate YAML. Users should verify driver compatibility (NVIDIA >=545, Compute Capability >=5.0) and ensure the correct Frigate Docker image (like `-tensorrt` for NVIDIA) is used with proper device mapping and `shm_size` settings.
 
 ## What happened
 
