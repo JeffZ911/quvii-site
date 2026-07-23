@@ -23,7 +23,7 @@ inline_image_sections:
   - "What to do now"
 ---
 
-Upgrading a GPU is often the final step in perfecting a high-performance local AI security system, but for Frigate NVR users, it frequently results in unexpected service failures.
+Upgrading a GPU is often the final step in perfecting a high-performance local AI security system, but for [Frigate NVR](https://quvii.com/learn/frigate-nvr-vs-reolink-local-storage-2026-20260723) users, it frequently results in unexpected service failures.
 
 # Frigate NVR Detection Crashing After GPU Upgrade: What You Need to Know in 2026
 

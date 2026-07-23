@@ -73,7 +73,7 @@ By opting for a subscription-free model like the [Eufy SoloCam](https://quvii.co
 
 ### Privacy as a Product Feature
 Privacy has moved from a niche concern to a primary selling point. [Local storage](https://quvii.com/learn/best-4k-security-cameras-local-storage) means your footage is stored on a physical drive inside your home (either an [SD card](https://quvii.com/learn/wyze-cam-v3-firmware-4-36-14-3497-sd-card-playback-fix) in the camera or a hard drive in a local hub). This architecture offers two major privacy advantages
-1.  **Mitigating Cloud Breaches:** If a cloud provider's servers are compromised, hackers can potentially access thousands of live feeds. With local storage, your data is as secure as your home Wi-Fi network.
+1.  **Mitigating Cloud Breaches:** If a cloud provider's servers are compromised, hackers can potentially access thousands of live feeds. With [local storage](https://quvii.com/learn/frigate-nvr-vs-reolink-local-storage-2026-20260723), your data is as secure as your home Wi-Fi network.
 2.  **Data Sovereignty:** Major brands like Ring and Nest have historically faced scrutiny over sharing footage with law enforcement without a warrant or user consent. With a local NVR or SD-based system, you are the sole gatekeeper of your data.
 
 ### Internet Independence

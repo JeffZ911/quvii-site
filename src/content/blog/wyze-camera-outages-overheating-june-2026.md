@@ -121,7 +121,7 @@ To navigate the crowded security camera market, consider your specific needs and
 
 ### Total Cost of Ownership (TCO) for a Wyze Camera (3-Year Estimate)
 
-Understanding the long-term cost of a security camera involves more than just the initial purchase price. Here's a hypothetical 3-year TCO breakdown for a single Wyze Cam, considering hardware and optional subscription services:
+Understanding the long-term cost of a security camera involves more than just the initial purchase price. Here's a hypothetical 3-year TCO breakdown for a single [Wyze Cam](https://quvii.com/learn/wyze-cam-v2-video-detection-failure-audio-only), considering hardware and optional subscription services:
 
 **Scenario: One Wyze [Cam v4](https://quvii.com/learn/wyze-cam-v4-overheating-issues-june-2026-20260627) with a Cam Plus subscription and a 64GB microSD card.**
 
