@@ -27,7 +27,7 @@ Wyze has long been the standard-bearer for "affordable" smart home security, but
 
 # Wyze Cam v4 Cloud Storage: 2026 Subscription Changes & Cost Guide
 
-**Quick Answer:** As of March 2026, Wyze Cam Plus Annual has increased to $29.99/camera. The 4-camera bundle is discontinued, replaced by Cam Unlimited ($99/year) and a new 60-day 'Pro' tier ($199/year) featuring AI Video Search.
+**Quick Answer:** As of March 2026, [Wyze Cam](https://quvii.com/learn/wyze-cam-v2-video-detection-failure-audio-only) Plus Annual has increased to $29.99/camera. The 4-camera bundle is discontinued, replaced by Cam Unlimited ($99/year) and a new 60-day 'Pro' tier ($199/year) featuring AI Video Search.
 
 ## What happened
 

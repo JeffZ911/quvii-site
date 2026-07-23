@@ -145,7 +145,7 @@ This is the most common point of confusion. AMP is a third-party "custom compone
 Many users believe that by connecting Alexa to Home Assistant, the Echo devices will process commands locally. This is false. The official Alexa Devices integration still requires a round-trip to Amazon’s cloud servers. If your internet goes out, your Echo Show will not be able to announce motion from your cameras, even if the cameras and Home Assistant are still running locally.
 
 **"All Alexa integrations for Home Assistant are equally unstable."**
-While both can face challenges, the official integration is significantly more resilient. Because it uses a documented API, Amazon provides advance notice for most [breaking changes](https://quvii.com/learn/home-assistant-2026-7-alexa-media-player-breaking-changes) to partners, and the Home Assistant Core team prioritizes keeping the official pathway functional.
+While both can face challenges, the official integration is significantly more resilient. Because it uses a documented API, Amazon provides advance notice for most [breaking changes](https://quvii.com/learn/home-assistant-2026-7-alexa-media-player-breaking-changes) to partners, and the [Home Assistant Core](https://quvii.com/learn/fix-eufy-security-home-assistant-2026-6-4) team prioritizes keeping the official pathway functional.
 
 **"A broken Alexa integration indicates a fundamental flaw in my entire Home Assistant setup."**
 If your Alexa entities disappear, it doesn't mean your Home Assistant database is corrupted or your Zigbee network is failing. These issues are almost always isolated to the specific authentication "handshake" between your local server and Amazon’s cloud.

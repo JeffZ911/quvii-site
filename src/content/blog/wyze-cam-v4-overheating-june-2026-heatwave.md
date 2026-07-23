@@ -128,7 +128,7 @@ If your [Wyze Cam v4](https://quvii.com/learn/is-wyze-cam-v4-safe-security-priva
 The most effective fix is moving the camera. A camera mounted on a south-facing white vinyl fence will absorb significantly more heat than one mounted under a deep north-facing eave. If you cannot move the camera, try to create "passive cooling" by ensuring there is at least an inch of air gap between the camera mount and the wall, allowing air to circulate behind the unit.
 
 ### DIY Cooling Solutions
-Third-party manufacturers on platforms like Amazon sell silicone "skins" or plastic "sun hoods" for the Wyze Cam series. While silicone skins can protect against scratches, they can actually trap heat. Instead, look for rigid plastic shields that act like an umbrella, providing shade without touching the camera body. This creates an air gap that prevents the "solar oven" effect.
+Third-party manufacturers on platforms like Amazon sell silicone "skins" or plastic "sun hoods" for the [Wyze Cam](https://quvii.com/learn/wyze-cam-v2-video-detection-failure-audio-only) series. While silicone skins can protect against scratches, they can actually trap heat. Instead, look for rigid plastic shields that act like an umbrella, providing shade without touching the camera body. This creates an air gap that prevents the "solar oven" effect.
 
 ### Firmware & App Updates
 Ensure your Wyze App is updated to version 3.16 or higher (released June 25, 2026). This version includes improved "Device Health" diagnostics that can sometimes show you the signal strength and connectivity history, helping you determine if a drop-off was heat-related. Check for the latest stable firmware in **Settings > Device Info > Firmware Upgrade**.
