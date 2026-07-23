@@ -30,7 +30,7 @@ For power users and privacy advocates, the ability to control a camera's video s
 
 # Does the Wyze Cam v4 Support RTSP Streaming?
 
-**Quick Answer:** No, the Wyze Cam v4 does not natively support RTSP in its official firmware. As of mid-2026, Wyze has not released a stable RTSP-enabled version, requiring users to rely on third-party bridges or hardware alternatives.
+**Quick Answer:** No, the [Wyze Cam](https://quvii.com/learn/wyze-cam-v2-video-detection-failure-audio-only) v4 does not natively support RTSP in its official firmware. As of mid-2026, Wyze has not released a stable RTSP-enabled version, requiring users to rely on third-party bridges or hardware alternatives.
 
 ## What it means
 

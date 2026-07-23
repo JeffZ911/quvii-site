@@ -120,7 +120,7 @@ Before buying, check the clearance between your door and the frame. Most no-dril
 1.  **Select a Battery Model:** Avoid any unit that *requires* 16-24V wiring unless you have an existing chime and landlord permission.
 2.  **Purchase a No-Drill Mount:** Search for "Anti-Theft Video Doorbell Mount" compatible with your specific model. These use a steel housing and a tension knob to secure the camera to the door.
 3.  **Configure Privacy Zones:** Immediately upon setup, use the app to mask out your neighbor’s door to avoid privacy complaints.
-4.  **Set Local Storage:** Insert a high-endurance microSD card (V30 rating or higher) to ensure 2K footage writes correctly without lag.
+4.  **Set [Local Storage](https://quvii.com/learn/frigate-nvr-vs-reolink-local-storage-2026-20260723):** Insert a high-endurance microSD card (V30 rating or higher) to ensure 2K footage writes correctly without lag.
 
 | Scenario | Priority | Recommendation |
 | :--- | :--- | :--- |

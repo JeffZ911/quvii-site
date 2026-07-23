@@ -37,7 +37,7 @@ Upgrading a GPU is often the final step in perfecting a high-performance local A
 *Related: [Arlo Motion Detection Issues (July 2026): Firmware Bugs & Delays](/blog/arlo-motion-detection-issues-july-2026) · [Ring Camera Motion Alerts Not Working: July 2026 Outage & Fixes](/blog/ring-camera-motion-alerts-not-working-july-2026) · [Tuya WiFi Video Doorbell: 2026 Setup & Integration Guide Updates](/blog/tuya-wifi-video-doorbell-setup-integration-guide-2026)*
 
 
-Users upgrading their GPU hardware for Frigate NVR setups are reporting instances of detection services crashing or failing to initialize. This issue typically surfaces during the transition from CPU-based detection or older AI accelerators (like the Google Coral USB) to modern discrete GPUs, such as the NVIDIA RTX 30-series or 40-series, or even integrated Intel Iris Xe/Arc graphics.
+Users upgrading their GPU hardware for [Frigate NVR](https://quvii.com/learn/frigate-nvr-vs-reolink-local-storage-2026-20260723) setups are reporting instances of detection services crashing or failing to initialize. This issue typically surfaces during the transition from CPU-based detection or older AI accelerators (like the Google Coral USB) to modern discrete GPUs, such as the NVIDIA RTX 30-series or 40-series, or even integrated Intel Iris Xe/Arc graphics.
 
 Frigate NVR, an open-source solution for local AI object detection, relies heavily on efficient hardware acceleration for real-time video decoding and object analysis. Unlike standard NVRs that simply record video, Frigate must decode every frame of a "detect" stream and pass it through a machine learning model to identify people, cars, or pets. When a new GPU is introduced, the software-to-hardware handshake often breaks.
 

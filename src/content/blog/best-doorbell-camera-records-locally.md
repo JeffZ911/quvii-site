@@ -105,7 +105,7 @@ If you are looking to secure your front door in 2026 without a subscription, you
 The most reliable [local storage](https://quvii.com/learn/frigate-nvr-vs-reolink-local-storage-2026-20260723) is achieved through a wired connection. If you can run an Ethernet cable to your door, the **Reolink [Video Doorbell](https://quvii.com/learn/renter-friendly-wireless-video-doorbell-options-20260613) PoE (under $100)** is the gold standard. It allows for 24/7 continuous recording to a Reolink NVR or a microSD card, bypassing the limitations of motion-only recording. If you are a renter or cannot run wires, a battery-powered model with a dedicated hub is the next best option.
 
 ### Step 2: Select Your Storage Hardware
-There are three primary tiers of local storage:
+There are three primary tiers of [local storage](https://quvii.com/learn/frigate-nvr-vs-reolink-local-storage-2026-20260723):
 1.  **MicroSD (Budget):** Cheap and easy, but limited capacity and higher failure rates. (Best for: Aqara G4).
 2.  **Home Hub (Convenience):** Uses a central hub inside the house (like Eufy [HomeBase 3](https://quvii.com/learn/eufycam-s330-homebase-3-firmware-sync-error)) to store data from multiple cameras. (Best for: Eufy E340).
 3.  **NVR/NAS (Professional):** Records to a dedicated hard drive array. This is the most secure and offers the longest retention (months of footage). (Best for: Reolink or Ubiquiti).
