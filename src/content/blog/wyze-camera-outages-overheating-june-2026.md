@@ -187,7 +187,7 @@ Local storage, typically via a microSD card inserted directly into the camera, a
 *   modemguides.com — Wyze [Camera Offline](https://quvii.com/blog/google-nest-camera-offline-june-2026-update): Troubleshooting and Fixes []
 *   wyze.com — Wyze Outdoor Camera v2 [https://www.wyze.com/products/wyze-cam-outdoor-v2]
 *   wyze.com — [Wyze Cam](https://quvii.com/learn/wyze-cam-v2-video-detection-failure-audio-only) Pan v3 [https://www.wyze.com/products/wyze-cam-pan-v3]
-*   wyze.com — Wyze Cam Pan v3 [https://www.wyze.com/products/wyze-cam-pan-v3]
+*   wyze.com — [Wyze Cam](https://quvii.com/learn/wyze-cam-v2-video-detection-failure-audio-only) Pan v3 [https://www.wyze.com/products/wyze-cam-pan-v3]
 *   wyze.com — Wyze Cam Outdoor v2 [https://www.wyze.com/products/wyze-cam-outdoor-v2]
 *   wyze.com — Wyze Cam Pan v3 [https://www.wyze.com/products/wyze-cam-pan-v3]
 *   wyze.com — My Camera is Offline [https://support.wyze.com/hc/en-us/articles/360029705972-My-Camera-is-Offline]

@@ -42,7 +42,7 @@ For power users and privacy advocates, the ability to control a camera's video s
 
 RTSP (Real-Time Streaming Protocol) is the industry standard for sending live video from a camera to local software without using a cloud middleman. It acts as a universal language that allows cameras from different manufacturers to communicate with centralized hubs. 
 
-For Wyze Cam v4 owners, RTSP is the "missing link" needed to connect the camera to Network Video Recorders (NVRs) like Blue Iris or NAS-based solutions like Synology Surveillance Station. Without this protocol, the camera remains tethered to the Wyze ecosystem, making it difficult to create a unified security dashboard that includes cameras from other brands.
+For [Wyze Cam](https://quvii.com/learn/wyze-cam-v2-video-detection-failure-audio-only) v4 owners, RTSP is the "missing link" needed to connect the camera to Network Video Recorders (NVRs) like Blue Iris or NAS-based solutions like Synology Surveillance Station. Without this protocol, the camera remains tethered to the Wyze ecosystem, making it difficult to create a unified security dashboard that includes cameras from other brands.
 
 Because the v4 is effectively "walled" within the Wyze app, it prevents seamless integration with advanced local dashboards like Home Assistant or Frigate. These platforms rely on low-latency local streams to trigger automations—such as turning on porch lights when a person is detected—without waiting for a round-trip to a cloud server.
 

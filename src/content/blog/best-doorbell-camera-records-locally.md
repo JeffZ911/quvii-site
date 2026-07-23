@@ -131,7 +131,7 @@ For those who prioritize uptime, the [Reolink PoE](https://quvii.com/blog/reolin
 The Aqara G4 is the premier choice for Apple users. It is one of the few doorbells that supports HomeKit Secure Video (HKSV) while also offering a local microSD slot located *inside* the chime unit (the part that stays inside your house). This ensures that even if a thief steals the doorbell itself, your footage remains safe inside.
 
 ### Step 3: Secure Your Local Network
-Local storage does not mean "offline." Most of these cameras still connect to your Wi-Fi to send notifications to your phone. To ensure your local footage remains private, ensure your local hub or NVR is behind a secure firewall and, if possible, placed on a dedicated IoT (Internet of Things) VLAN to isolate it from your primary computers.
+[Local storage](https://quvii.com/learn/frigate-nvr-vs-reolink-local-storage-2026-20260723) does not mean "offline." Most of these cameras still connect to your Wi-Fi to send notifications to your phone. To ensure your local footage remains private, ensure your local hub or NVR is behind a secure firewall and, if possible, placed on a dedicated IoT (Internet of Things) VLAN to isolate it from your primary computers.
 
 **Decision Framework: Which Local Doorbell Should You Buy?**
 
