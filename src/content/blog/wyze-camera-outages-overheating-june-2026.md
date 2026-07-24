@@ -189,7 +189,7 @@ Local storage, typically via a microSD card inserted directly into the camera, a
 *   wyze.com — [Wyze Cam](https://quvii.com/learn/wyze-cam-v2-video-detection-failure-audio-only) Pan v3 [https://www.wyze.com/products/wyze-cam-pan-v3]
 *   wyze.com — [Wyze Cam](https://quvii.com/learn/wyze-cam-v2-video-detection-failure-audio-only) Pan v3 [https://www.wyze.com/products/wyze-cam-pan-v3]
 *   wyze.com — [Wyze Cam](https://quvii.com/learn/wyze-cam-v2-video-detection-failure-audio-only) Outdoor v2 [https://www.wyze.com/products/wyze-cam-outdoor-v2]
-*   wyze.com — Wyze Cam Pan v3 [https://www.wyze.com/products/wyze-cam-pan-v3]
+*   wyze.com — [Wyze Cam](https://quvii.com/learn/wyze-cam-v2-video-detection-failure-audio-only) Pan v3 [https://www.wyze.com/products/wyze-cam-pan-v3]
 *   wyze.com — My Camera is Offline [https://support.wyze.com/hc/en-us/articles/360029705972-My-Camera-is-Offline]
 *   wyze.com — [Wyze Cam v3](https://quvii.com/learn/wyze-cam-v3-firmware-4-36-14-3497-sd-card-playback-fix) Pro []
 *   wyze.com — Wyze [Cam v3](https://quvii.com/learn/wyze-cam-v3-firmware-4-36-14-3497-sd-card-playback-fix) Pro []

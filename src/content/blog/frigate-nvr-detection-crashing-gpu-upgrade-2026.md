@@ -200,7 +200,7 @@ Yes, provided the host system is running NVIDIA drivers version 525 or higher (5
 Inside the Frigate UI, check the "System" tab. It should list your GPU under the "Processors" or "GPUs" section with a non-zero usage percentage. Alternatively, run `nvidia-smi` on the host to see if the `python3` or `ffmpeg` processes are listed in the GPU process table.
 
 ## Sources
-- Frigate NVR Official Documentation — Hardware Acceleration
+- [Frigate NVR](https://quvii.com/learn/frigate-nvr-vs-reolink-local-storage-2026-20260723) Official Documentation — Hardware Acceleration
 - NVIDIA Driver Downloads — Unix/Linux Support
 - Eufy Security — EufyCam 3 (S330) Product Specifications
 - [Frigate GitHub — Troubleshooting TensorRT Crashes](https://github.com/blakeblackshear/frigate/issues)

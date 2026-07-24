@@ -58,7 +58,7 @@ The v4’s high-resolution 2.5K QHD sensor makes it a prime candidate for local 
 | **Wi-Fi Generation** | Wi-Fi 6 | Wi-Fi 4/5 | Wi-Fi 5 (Dual Band) |
 | **Price Band** | Around $35-$45 | Under $40 | $50-$60 range |
 | **Local Storage** | microSD (up to 512GB) | microSD (up to 512GB) | microSD (up to 256GB) |
-| **Primary Cloud** | Wyze Cam Plus | Tapo Care | Reolink Cloud |
+| **Primary Cloud** | [Wyze Cam](https://quvii.com/learn/wyze-cam-v2-video-detection-failure-audio-only) Plus | Tapo Care | Reolink Cloud |
 
 ### RTSP vs. ONVIF: What's the difference for Wyze users?
 While RTSP handles the video and audio stream itself, ONVIF (Open Network Video Interface Forum) is a broader standard that allows an NVR to control the camera’s settings, such as PTZ (Pan-Tilt-Zoom) movement or motion detection alerts. Wyze supports neither natively. For a user, this means that even if you use a workaround to get an RTSP stream into a platform like Blue Iris, you still won't be able to adjust the camera's settings or receive its native AI alerts within that third-party software.

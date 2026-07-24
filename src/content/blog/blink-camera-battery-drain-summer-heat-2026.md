@@ -49,7 +49,7 @@ User communities, including discussions on Reddit and Amazon forums, show owners
 | **Field of View**        | 143° diagonal                       |
 | **[Night Vision](https://quvii.com/learn/arlo-pro-5s-2k-night-vision-stuck-on)**         | Infrared (IR)                       |
 | **Two-Way Audio**        | Yes                                 |
-| **Local Storage**        | Via Sync Module 2 (USB drive, sold separately) |
+| **[Local Storage](https://quvii.com/learn/frigate-nvr-vs-reolink-local-storage-2026-20260723)**        | Via Sync Module 2 (USB drive, sold separately) |
 | **[Cloud Storage](https://quvii.com/blog/eufy-cloud-storage-pricing-changes-2026)**        | Blink Subscription Plan (optional) |
 
 ## Why it matters for buyers

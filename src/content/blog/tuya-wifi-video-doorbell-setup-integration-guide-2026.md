@@ -26,7 +26,7 @@ Navigating the landscape of white-label smart home technology requires a clear u
 
 # Tuya WiFi Video Doorbell: Your 2026 Setup & Integration Guide
 
-Setting up a Tuya WiFi video doorbell typically involves downloading the Tuya Smart or Smart Life app, connecting to a 2.4 GHz Wi-Fi network, and following in-app pairing instructions, often using a QR code. Recent 2026 updates from Tuya Smart, including enhanced 'Hey Tuya' features and expanded support for Matter and Home Assistant, are significantly improving integration possibilities for consumers.
+Setting up a [Tuya WiFi](https://quvii.com/blog/gladys-assistant-tuya-doorbell-issues-2026) video doorbell typically involves downloading the Tuya Smart or Smart Life app, connecting to a 2.4 GHz Wi-Fi network, and following in-app pairing instructions, often using a QR code. Recent 2026 updates from Tuya Smart, including enhanced 'Hey Tuya' features and expanded support for Matter and Home Assistant, are significantly improving integration possibilities for consumers.
 
 ## What happened
 
