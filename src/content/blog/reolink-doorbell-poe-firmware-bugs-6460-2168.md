@@ -48,7 +48,7 @@ As of June 2026, users of the [Reolink Doorbell PoE](https://quvii.com/learn/reo
 
 While specific information regarding firmware version 3.0.0.2168 for the Reolink [Doorbell PoE](https://quvii.com/learn/reolink-doorbell-poe-connection-drop-firmware-troubleshooting) and its associated bugs is not widely available in public records or community discussions as of mid-2026, Reolink's product lines have experienced other firmware-related issues in the past.
 
-For instance, an earlier firmware version, v3.0.0.2033_23041300, was reported to cause all notifications, including those to the [Reolink app](https://quvii.com/blog/reolink-app-crashing-ios-18-fixes), to stop working on the Reolink WiFi Doorbell. This issue, reported around May 2023, highlighted how critical firmware stability is for the doorbell's alerting capabilities.
+For instance, an earlier firmware version, v3.0.0.2033_23041300, was reported to cause all notifications, including those to the [Reolink app](https://quvii.com/blog/reolink-app-crashing-ios-18-fixes), to stop working on the Reolink [WiFi Doorbell](https://quvii.com/blog/gladys-assistant-tuya-doorbell-issues-2026). This issue, reported around May 2023, highlighted how critical firmware stability is for the doorbell's alerting capabilities.
 
 Furthermore, around August 2025, [firmware v3](https://quvii.com/learn/reolink-doorbell-poe-connection-drop-firmware-troubleshooting).0.0.4662_2508071282 for the WiFi doorbell was noted by some users to degrade nighttime image quality, particularly when the High Dynamic Range (HDR) functionality was enabled. This suggests that even seemingly minor updates can have an impact on core features like video clarity, which is crucial for security monitoring.
 

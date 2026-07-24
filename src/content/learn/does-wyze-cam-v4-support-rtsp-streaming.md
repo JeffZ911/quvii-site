@@ -71,7 +71,7 @@ Local streaming via RTSP ensures that your video data never leaves your home net
 ![Why it exists](/img/does-wyze-cam-v4-support-rtsp-streaming/inline-2.webp)
 
 
-The absence of RTSP in the Wyze Cam v4 is not a technical oversight; it is a strategic business decision. Wyze's business model relies heavily on "Cam Plus" subscriptions. Native RTSP allows users to bypass these paid cloud services entirely by recording to their own local NVRs. If Wyze provided a stable, easy-to-use RTSP toggle, their recurring revenue from cloud storage would likely see a significant decline.
+The absence of RTSP in the [Wyze Cam](https://quvii.com/learn/wyze-cam-v2-video-detection-failure-audio-only) v4 is not a technical oversight; it is a strategic business decision. Wyze's business model relies heavily on "Cam Plus" subscriptions. Native RTSP allows users to bypass these paid cloud services entirely by recording to their own local NVRs. If Wyze provided a stable, easy-to-use RTSP toggle, their recurring revenue from cloud storage would likely see a significant decline.
 
 Official Wyze statements as of March 2026 indicate that RTSP was never a launch feature for the v4 and remains in a perpetual "development" backlog. While the company has released standalone RTSP firmware for older models like the v2 and v3 in the past, those versions were often labeled as "beta" and "unsupported," eventually being removed from the official download pages due to stability issues.
 

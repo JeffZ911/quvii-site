@@ -138,7 +138,7 @@ The "Local-First" model remains the most cost-effective and secure path for thos
 ## Frequently Asked Questions
 
 ### Can I just ignore the Kingshot prompt and keep using the app?
-In the June 2026 version (v6.43.1), reports indicate the prompt is "persistent," meaning it overlays the entire interface. You cannot view live video or access settings without interacting with the prompt. Furthermore, ignoring it may lead to the camera disabling motion recording features.
+In the June 2026 version (v6.43.1), reports indicate the prompt is "persistent," meaning it overlays the entire interface. You cannot view live video or access settings without interacting with the prompt. Furthermore, ignoring it may lead to the camera disabling [motion recording](https://quvii.com/blog/reolink-doorbell-motion-recording-duration-issues-20260724) features.
 
 ### Will factory resetting my Yoosee camera fix the problem?
 A [factory reset](https://quvii.com/learn/arlo-pro-vmc4030-factory-reset-failure-july-2026) will clear the camera's settings, but it will not change the app's behavior. As soon as you re-add the camera to the Yoosee app, the "Kingshot" prompt will likely reappear because the requirement is tied to the app version and your account, not the camera's local firmware.

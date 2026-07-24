@@ -142,7 +142,7 @@ If your doorbell is connected to a Reolink NVR (like the RLN8-410), the NVR's se
 *   **The Fix:** Access the NVR UI directly (using a monitor and mouse). Go to **Storage > Schedule** and ensure the Doorbell channel is set to "Alarm" (Motion) with a "Post-Record" time that matches the camera's standalone settings.
 
 ### Bitrate Analysis
-On the WiFi doorbell, a weak signal can cause the stream to "stutter," which the AI interprets as the end of an event. Try lowering the **Max Bitrate (Kbps)** in the **Stream** settings from 8192 to **4096**. This reduces the load on the WiFi chip and often results in smoother, longer recordings.
+On the [WiFi doorbell](https://quvii.com/blog/gladys-assistant-tuya-doorbell-issues-2026), a weak signal can cause the stream to "stutter," which the AI interprets as the end of an event. Try lowering the **Max Bitrate (Kbps)** in the **Stream** settings from 8192 to **4096**. This reduces the load on the WiFi chip and often results in smoother, longer recordings.
 
 ## When to contact support
 

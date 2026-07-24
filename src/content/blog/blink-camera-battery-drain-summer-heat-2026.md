@@ -122,7 +122,7 @@ Mitigating [battery drain](https://quvii.com/blog/eufy-security-camera-battery-d
 *   **If you're a homeowner in a consistently hot climate (e.g., Arizona, Texas) and prioritize minimal maintenance:** Prioritize cameras with continuous power options like solar panels or wired connections. Look for models with higher thermal ratings or consider protective enclosures. Expect to replace batteries more frequently if relying solely on battery power.
 *   **If you're a renter needing flexible, wire-free installation:** Blink cameras can still be an option, but be prepared for more frequent battery changes in summer. Focus on optimizing settings (low sensitivity, short clips, activity zones) and strategic placement in shaded areas.
 *   **If you need 24/7 recording or continuous monitoring in high-traffic areas:** Battery-powered cameras, including Blink, are generally not ideal for this use case. Consider wired cameras or those with robust solar panel integrations that can sustain continuous operation.
-*   **If you prioritize privacy and local storage:** Blink offers local storage via the Sync Module 2 with a USB drive. However, features like Person Detection still require a subscription. Review the privacy policies carefully regarding data retention and third-party sharing.
+*   **If you prioritize privacy and [local storage](https://quvii.com/learn/frigate-nvr-vs-reolink-local-storage-2026-20260723):** Blink offers local storage via the Sync Module 2 with a USB drive. However, features like Person Detection still require a subscription. Review the privacy policies carefully regarding data retention and third-party sharing.
 
 ---
 

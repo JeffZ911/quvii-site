@@ -51,7 +51,7 @@ Instead of a binary "on/off" access model, the system utilizes granular permissi
 
 ### Privacy Zones vs. Motion Zones
 A common point of confusion for users is the difference between where a camera "looks" and where it "sees."
-*   **Motion Zones:** These are user-defined areas where the camera triggers a recording event. If a guest walks through a Motion Zone, the camera starts recording.
+*   **Motion Zones:** These are user-defined areas where the camera triggers a [recording event](https://quvii.com/blog/reolink-doorbell-motion-recording-duration-issues-20260724). If a guest walks through a Motion Zone, the camera starts recording.
 *   **Privacy Zones:** These are "blackout" areas. When a Privacy Zone is drawn over a specific part of the camera’s field of view—such as a neighbor’s window or a guest’s outdoor seating area—the camera's sensor ignores those pixels entirely. The resulting video will show a solid black box over that area. This is a permanent feature of the recorded file and cannot be removed after the fact to "reveal" what was underneath ([Ring Support](https://support.ring.com/hc/en-us/articles/360027979331-Using-Privacy-Zones-to-Protect-Your-Neighbors-Privacy)).
 
 | Feature | Primary Purpose | Visibility in Recordings |
