@@ -36,7 +36,7 @@ Fix Blink connection errors by updating to firmware 16.0.36, ensuring your USB i
 *Related: [Reolink Doorbell PoE Firmware Bugs: Current v3.0.0.6460 & Past Issues](/blog/reolink-doorbell-poe-firmware-bugs-6460-2168) · [How to Protect Your Smart Home Cameras from Summer Heat Damage](/blog/protect-smart-home-cameras-summer-heat) · [Arlo Essential 2K Firmware Update Bricking: What Buyers Need to Know](/blog/arlo-essential-2k-firmware-bricking-update)*
 
 
-Since early 2026, many [Blink Outdoor](https://quvii.com/learn/blink-outdoor-4-battery-drain-june-2026) 4 and Sync [Module 2](https://quvii.com/learn/blink-outdoor-4-sync-module-2-offline-loop-fix) owners have encountered persistent connectivity problems. These issues often manifest as cameras failing to communicate with the Sync Module, leading to interrupted live views, missed motion events, and compromised local storage capabilities. The problems appear to be widespread, impacting both new installations and previously stable systems.
+Since early 2026, many [Blink Outdoor](https://quvii.com/learn/blink-outdoor-4-battery-drain-june-2026) 4 and Sync [Module 2](https://quvii.com/learn/blink-outdoor-4-sync-module-2-offline-loop-fix) owners have encountered persistent connectivity problems. These issues often manifest as cameras failing to communicate with the Sync Module, leading to interrupted live views, missed motion events, and compromised [local storage](https://quvii.com/learn/frigate-nvr-vs-reolink-local-storage-2026-20260723) capabilities. The problems appear to be widespread, impacting both new installations and previously stable systems.
 
 ### The 16.0.36 Firmware Bug
 
