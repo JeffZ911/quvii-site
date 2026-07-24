@@ -173,7 +173,7 @@ Reolink includes a 15-degree mounting wedge in the box. **Use it.**
 Digital motion detection works best when subjects move *across* the frame rather than directly *toward* the lens. By angling the doorbell, you increase the "pixel change" the camera sees as someone approaches, making it much harder for the AI to "lose" the person and cut the recording early.
 
 ### Power Supply Requirements for 2026 Models
-While the WiFi doorbell can run on 12V DC, it is highly recommended to use a **24V AC** transformer (standard in many US homes). The higher voltage ensures that the onboard AI processor has enough "headroom" to handle 5MP video processing, IR light activation, and WiFi transmission simultaneously. Insufficient power is a leading cause of the processor "hiccuping" and ending a recording prematurely.
+While the [WiFi doorbell](https://quvii.com/blog/gladys-assistant-tuya-doorbell-issues-2026) can run on 12V DC, it is highly recommended to use a **24V AC** transformer (standard in many US homes). The higher voltage ensures that the onboard AI processor has enough "headroom" to handle 5MP video processing, IR light activation, and WiFi transmission simultaneously. Insufficient power is a leading cause of the processor "hiccuping" and ending a recording prematurely.
 
 ### Regular Maintenance
 Set an **Auto-Reboot** schedule in **Settings > System > Maintenance**. Setting the doorbell to reboot at 3:00 AM every Tuesday clears the system cache and can prevent the software "memory leaks" that sometimes cause recording durations to drift over time.

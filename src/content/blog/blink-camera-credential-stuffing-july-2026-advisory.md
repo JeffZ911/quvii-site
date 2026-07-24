@@ -110,7 +110,7 @@ A leading alternative in 2026 is the **Reolink Altas PT Ultra**. Unlike the Blin
 | :--- | :--- | :--- |
 | **Resolution** | 1080p | 4K (8MP) |
 | **Recording Mode** | Motion-only | Continuous or Motion |
-| **Local Storage** | USB (via Sync Module 2) | MicroSD (up to 512GB) |
+| **[Local Storage](https://quvii.com/learn/frigate-nvr-vs-reolink-local-storage-2026-20260723)** | USB (via Sync Module 2) | MicroSD (up to 512GB) |
 | **Subscription Required?** | For AI/Cloud features | No (Core features free) |
 | **Night Vision** | Infrared (B&W) | ColorX (Full Color) |
 | **Price Band** | Under $100 | $200-250 range |

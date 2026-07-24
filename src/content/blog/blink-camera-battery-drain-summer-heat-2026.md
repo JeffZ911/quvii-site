@@ -143,7 +143,7 @@ When considering a [Blink Outdoor](https://quvii.com/learn/blink-outdoor-4-motio
     *   Around $3 per month.
     *   Annual cost: Around $36.
     *   3-Year Subscription Cost: Around $108.
-*   **Local Storage (Optional Sync Module 2 + USB drive):**
+*   **[Local Storage](https://quvii.com/learn/frigate-nvr-vs-reolink-local-storage-2026-20260723) (Optional Sync Module 2 + USB drive):**
     *   Sync Module 2: Around $30-$50 (one-time).
     *   USB drive: Around $10-$20 (one-time).
 *   **Total 3-Year Estimated Cost:**
