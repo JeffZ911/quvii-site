@@ -13,7 +13,10 @@ interface Props {
 
 const {
   title,
-  description = "Quvii Blog — AI product photography playbooks for Amazon, Shopify, Etsy, and TikTok Shop sellers.",
+  // Site-wide fallback only — article pages derive their own description from
+  // quick_answer in ArticleLayout. (Old fallback was a copy-paste leftover
+  // from a different niche: "AI product photography playbooks…".)
+  description = "Quvii — independent research on home security cameras: firmware issues, integration fixes, security advisories, and vendor-neutral buying intelligence.",
   ogImage,
   jsonLd,
   noindex = false,
