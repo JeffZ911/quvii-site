@@ -63,7 +63,7 @@ Modern home networks increasingly rely on mesh Wi-Fi systems that often combine 
 ![Why it matters for buyers](/img/blink-outdoor-4-sync-module-2-connection-error-fix/inline-2.webp)
 
 
-For prospective buyers, these connection issues significantly impact the value proposition of the Blink system. Blink's appeal often lies in its promise of subscription-free local storage via the Sync Module 2, but persistent errors undermine this core benefit.
+For prospective buyers, these connection issues significantly impact the value proposition of the Blink system. Blink's appeal often lies in its promise of subscription-free [local storage](https://quvii.com/learn/frigate-nvr-vs-reolink-local-storage-2026-20260723) via the Sync Module 2, but persistent errors undermine this core benefit.
 
 ### The Subscription Trap: Cloud vs. Local Storage
 
