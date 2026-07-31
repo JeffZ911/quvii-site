@@ -23,7 +23,7 @@ inline_image_sections:
   - "What to do now"
 ---
 
-If you woke up to a "Device Offline" icon in your Wyze app this week, you are not alone. A convergence of cloud infrastructure failures and mandatory security updates has left a significant portion of the Wyze ecosystem dark as of June 17, 2026.
+If you woke up to a "Device Offline" icon in your [Wyze app](https://quvii.com/blog/wyze-app-3-18-0-918-update-issues-fix) this week, you are not alone. A convergence of cloud infrastructure failures and mandatory security updates has left a significant portion of the Wyze ecosystem dark as of June 17, 2026.
 
 # Why Are My Wyze Cameras Offline? June 2026 Service Alerts and Fixes
 

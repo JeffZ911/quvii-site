@@ -104,7 +104,7 @@ If you currently have a Wyze Solar Cam Pan installed, you must determine if your
 ### How to Identify Your Model Number
 
 1.  **Physical Inspection:** The model number is printed on the product label located on the back of the camera body, near the mounting threads.
-2.  **App Verification:** Open the Wyze app, select your camera, go to **Settings (gear icon) > Device Info**. Look for the "Model" field.
+2.  **App Verification:** Open the [Wyze app](https://quvii.com/blog/wyze-app-3-18-0-918-update-issues-fix), select your camera, go to **Settings (gear icon) > Device Info**. Look for the "Model" field.
 3.  **Visual Check:** If your camera is black, it is not part of this specific recall. If it is white and was purchased between late 2025 and early 2026, it is likely affected.
 
 ### The 'Screw Test': Is Your Installation Dangerous?
