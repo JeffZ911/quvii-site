@@ -27,7 +27,7 @@ If you woke up to a "Device Offline" icon in your [Wyze app](https://quvii.com/b
 
 # Why Are My Wyze Cameras Offline? June 2026 Service Alerts and Fixes
 
-**Quick Answer:** As of June 17, 2026, Wyze cameras are appearing offline due to a major AWS outage on June 16 and a mandatory app update (v3.15.0). Update your Wyze app immediately and power cycle your devices to restore the connection.
+**Quick Answer:** As of June 17, 2026, Wyze cameras are appearing offline due to a major AWS outage on June 16 and a mandatory app update (v3.15.0). Update your [Wyze app](https://quvii.com/blog/wyze-app-3-18-0-918-update-issues-fix) immediately and power cycle your devices to restore the connection.
 
 ## What happened
 

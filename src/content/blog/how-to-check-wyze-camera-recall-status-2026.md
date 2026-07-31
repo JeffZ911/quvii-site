@@ -120,7 +120,7 @@ If you used the long flat-head screws to mount the camera directly to a wooden s
 
 ### Functionality Loss and 'Bricking'
 
-To prevent further incidents, Wyze has implemented a "setup block" for the affected MAC addresses. If you have an uninstalled Solar Cam Pan sitting in a box and attempt to set it up today, the Wyze app will likely display an error message stating the device is part of a safety recall and cannot be activated. This effectively "bricks" the device for safety reasons.
+To prevent further incidents, Wyze has implemented a "setup block" for the affected MAC addresses. If you have an uninstalled Solar Cam Pan sitting in a box and attempt to set it up today, the [Wyze app](https://quvii.com/blog/wyze-app-3-18-0-918-update-issues-fix) will likely display an error message stating the device is part of a safety recall and cannot be activated. This effectively "bricks" the device for safety reasons.
 
 Furthermore, owners should be aware of "VerifiedView," a security feature introduced in 2025 to combat deepfake and unauthorized stream access. While the recall is hardware-based, ensuring your other Wyze devices (v3, v4, OG) are updated to the latest firmware (version 4.x or 5.x) is essential to maintain this digital security layer.
 
