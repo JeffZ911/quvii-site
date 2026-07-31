@@ -59,7 +59,7 @@ Users on this firmware version frequently encounter two specific error codes:
 | :--- | :--- | :--- |
 | **Release Date** | May 2025 | February 2026 |
 | **Primary Bug** | SD Indexing Timeout | Resolved Indexing |
-| **App Compatibility** | Partial (Wyze App 3.x) | Full (Wyze App 3.x) |
+| **App Compatibility** | Partial ([Wyze App 3](https://quvii.com/blog/wyze-app-3-18-0-918-update-issues-fix).x) | Full (Wyze App 3.x) |
 | **Playback Stability** | Low (Frequent Error 06) | High |
 | **Hardware Decoder Support** | Buggy | Optimized |
 | **Security Patches** | Outdated | Current |
@@ -71,7 +71,7 @@ Users on this firmware version frequently encounter two specific error codes:
 ![Why it exists](/img/wyze-cam-v3-firmware-4-36-14-3497-sd-card-playback-fix/inline-2.webp)
 
 
-The root of the playback failure lies in the transition to the Wyze App 3.x architecture. Released in late 2025, App 3.x (v3.17.0.904 and later) introduced a new media player designed for the higher-bitrate streams of the Wyze Cam v4. This new player expects a specific metadata response from the camera when requesting local footage.
+The root of the playback failure lies in the transition to the Wyze [App 3](https://quvii.com/blog/wyze-app-3-18-0-918-update-issues-fix).x architecture. Released in late 2025, App 3.x (v3.17.0.904 and later) introduced a new media player designed for the higher-bitrate streams of the Wyze Cam v4. This new player expects a specific metadata response from the camera when requesting local footage.
 
 ### The Wyze App 3.x Architecture Conflict
 Firmware 4.36.14.3497 was built on an older SDK (Software Development Kit). When the 3.x app asks the camera for a list of recorded events on the SD card, the camera responds with a legacy file list. The app’s new player often fails to parse this list correctly, leading to the "No video available" error. This is a classic "regression" bug where updating the software (the app) breaks compatibility with the hardware's existing firmware.

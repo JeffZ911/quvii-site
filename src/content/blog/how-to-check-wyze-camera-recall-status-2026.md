@@ -74,7 +74,7 @@ For the average consumer, a security camera is a "set it and forget it" device. 
 
 If you are shopping for a security camera in mid-2026, exercise extreme caution on secondary markets. Platforms like eBay, Facebook Marketplace, and Mercari are often flooded with recalled hardware sold by individuals who either missed the recall notice or are looking to offload "New in Box" (NIB) inventory. 
 
-A "New in Box" Wyze Solar Cam Pan from 2025 is effectively a fire hazard waiting to be installed. Because Wyze has disabled the setup process for these specific serial numbers in the Wyze app, a second-hand buyer may find themselves with a "bricked" device that cannot be activated and is ineligible for a refund if the original proof of purchase is missing.
+A "New in Box" Wyze Solar Cam Pan from 2025 is effectively a fire hazard waiting to be installed. Because Wyze has disabled the setup process for these specific serial numbers in the [Wyze app](https://quvii.com/blog/wyze-app-3-18-0-918-update-issues-fix), a second-hand buyer may find themselves with a "bricked" device that cannot be activated and is ineligible for a refund if the original proof of purchase is missing.
 
 ### The Cost of 'Budget' Security
 
