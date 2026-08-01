@@ -145,7 +145,7 @@ Power down the camera immediately. If the camera is plugged into the solar panel
 
 ### Step 2: Locate Your Serial/MAC Address
 You will need your device’s unique identifier to file a claim. This can be found:
-*   In the Wyze app under **Settings > Device Info**.
+*   In the [Wyze app](https://quvii.com/blog/wyze-app-3-18-0-918-update-issues-fix) under **Settings > Device Info**.
 *   On the QR code sticker on the bottom or back of the camera.
 *   On the original packaging (if you still have it).
 
