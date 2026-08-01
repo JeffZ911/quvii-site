@@ -160,7 +160,7 @@ While it is technically possible on Android to sideload older APKs, it is not re
 While the CPSC calls it a "voluntary recall," it is strongly advised that you comply. The battery fire risk is associated with thermal runaway in the integrated solar-battery housing. Wyze has already begun pushing firmware that limits charging to prevent fires, which effectively renders the "Solar" aspect of the camera non-functional.
 
 ### How do I know if my phone is too old for the new Wyze app?
-The Wyze app v3.15.0 requires a 64-bit processor and a minimum of Android 10 or iOS 15. If you search for "Wyze" in your app store and the app does not appear, or it says "Your device is no longer compatible," your hardware is likely 32-bit or running an outdated OS that cannot support the new security protocols.
+The [Wyze app](https://quvii.com/blog/wyze-app-3-18-0-918-update-issues-fix) v3.15.0 requires a 64-bit processor and a minimum of Android 10 or iOS 15. If you search for "Wyze" in your app store and the app does not appear, or it says "Your device is no longer compatible," your hardware is likely 32-bit or running an outdated OS that cannot support the new security protocols.
 
 ## Sources
 

@@ -85,7 +85,7 @@ For a 4-camera household, the shift is even more dramatic. Previously, a user co
 | **Reolink E1 Pro** | ~$200 | $0 (Local AI) | ~$200 |
 
 ### The Hidden Cost of In-App Purchases
-A critical warning for 2026 buyers: the "App Store Tax." If you subscribe to Cam Plus or Unlimited through the Wyze app on an iPhone or Android device, the prices are roughly 30% higher to cover platform fees charged by Apple and Google. For example, Cam Unlimited is often listed at around $130 in-app, whereas it remains $99 on the Wyze web portal. This discrepancy is often buried in the fine print during the setup process.
+A critical warning for 2026 buyers: the "App Store Tax." If you subscribe to Cam Plus or Unlimited through the [Wyze app](https://quvii.com/blog/wyze-app-3-18-0-918-update-issues-fix) on an iPhone or Android device, the prices are roughly 30% higher to cover platform fees charged by Apple and Google. For example, Cam Unlimited is often listed at around $130 in-app, whereas it remains $99 on the Wyze web portal. This discrepancy is often buried in the fine print during the setup process.
 
 ### Feature Gatekeeping: Is AI Search Worth the Premium?
 The Cam Unlimited Pro tier introduces "AI Video Search," a feature that uses large language models to index video metadata. While impressive in demonstrations, its utility depends on the user's specific needs. For a typical homeowner checking for a package, the standard 14-day history and person detection are usually sufficient. The Pro tier is increasingly positioned as a "convenience" upgrade rather than a security necessity, yet it represents the only way to get 60-day cloud history—a feature many competitors offer at lower price points.
