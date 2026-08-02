@@ -60,7 +60,7 @@ A subset of users, particularly those using budget-tier Android smartphones or t
 | **Wyze Cam v4** | Device Offline / Live Stream Timeout | Error 1000 | High |
 | **Wyze Cam v3** | Notification Lag (Descriptive Alerts) | — | Medium |
 | **Video Doorbell v2** | Two-Way Audio Latency / Offline Status | Error 1001 | High |
-| **Wyze Cam Pan v3** | Failed to Rotate / "Unknown Error" | Error 0 | Low |
+| **Wyze Cam Pan v3** | Failed to Rotate / "[Unknown Error](https://quvii.com/blog/eufy-e340-t8214-livestream-unknown-error-fix)" | Error 0 | Low |
 | **Wyze Cam Floodlight** | Light Toggle Failure via App | — | Medium |
 
 ## What's likely happening
