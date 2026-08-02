@@ -51,7 +51,7 @@ In this scenario, the camera is technically connected to the internet and may ev
 The 3.18.0.918 update was intended to refine "Descriptive Alerts"—Wyze's AI-driven notification system that identifies specific objects like people, packages, or vehicles. Instead, many users are experiencing "Notification Blackouts," where no alerts are sent for several hours, followed by a "flood" of delayed notifications all at once. Conversely, some users report "Double-Alerts," receiving two identical push notifications for a single motion event, which typically indicates a synchronization error between the Wyze backend and the Apple/Google push notification services.
 
 ### Login and Authentication Failures
-A subset of users, particularly those using budget-tier Android smartphones or tablets, have reported "Login Loops." After entering their credentials, the app displays an "Unknown Error" on the splash screen and returns to the login prompt. This issue is frequently tied to the app's new requirement for 64-bit hardware architecture, which was finalized in the July 2026 update cycle.
+A subset of users, particularly those using budget-tier Android smartphones or tablets, have reported "Login Loops." After entering their credentials, the app displays an "[Unknown Error](https://quvii.com/blog/eufy-e340-t8214-livestream-unknown-error-fix)" on the splash screen and returns to the login prompt. This issue is frequently tied to the app's new requirement for 64-bit hardware architecture, which was finalized in the July 2026 update cycle.
 
 **Table 1: Reported Symptoms by Hardware Model (App Version 3.18.0.918)**
 

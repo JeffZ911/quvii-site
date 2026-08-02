@@ -27,7 +27,7 @@ If you are staring at a frozen screen or a "Force Close" prompt while trying to 
 
 # Wyze Camera App Keeps Crashing? Here is the June 2026 Stability Guide
 
-Most 2026 Wyze app crashes are caused by a mismatch between App v3.14 and older firmware, or using a 32-bit device. Update to app v3.14.0.807 and [firmware 4](https://quvii.com/learn/wyze-cam-v3-firmware-4-36-14-3497-sd-card-playback-fix).52.9.6119 (for [Cam v4](https://quvii.com/blog/cpsc-recall-wyze-cam-v4-power-adapter-status)) to resolve immediate crashing and group-viewing bugs.
+Most 2026 [Wyze app](https://quvii.com/blog/wyze-app-3-18-0-918-update-issues-fix) crashes are caused by a mismatch between App v3.14 and older firmware, or using a 32-bit device. Update to app v3.14.0.807 and [firmware 4](https://quvii.com/learn/wyze-cam-v3-firmware-4-36-14-3497-sd-card-playback-fix).52.9.6119 (for [Cam v4](https://quvii.com/blog/cpsc-recall-wyze-cam-v4-power-adapter-status)) to resolve immediate crashing and group-viewing bugs.
 
 ## What happened
 
