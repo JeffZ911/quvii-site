@@ -43,7 +43,7 @@ Effective motion detection in 2026 has transitioned from simple "on/off" trigger
 
 The landscape of motion detection has diverged into two distinct categories: simple movement detection and true "presence" sensing. A traditional "dumb" sensor, typically using Passive Infrared (PIR) technology, only knows if something warmer than the background moved across its field of view. In contrast, a 2026 "smart" motion detector uses high-frequency radar or local computer vision to understand *what* is moving and *where* it is located within a room.
 
-The most significant shift in 2026 is the maturity of "occupancy" and "presence" sensing. While a motion sensor might turn off the lights if you sit still on a sofa, a presence sensor—utilizing Millimeter Wave (mmWave) radar—detects the micro-movements of human breathing. This ensures the security system remains "armed" and aware even when residents are stationary.
+The most significant shift in 2026 is the maturity of "occupancy" and "presence" sensing. While a [motion sensor](https://quvii.com/blog/ring-mqtt-reolink-motion-sensor-integration-fix) might turn off the lights if you sit still on a sofa, a presence sensor—utilizing Millimeter Wave (mmWave) radar—detects the micro-movements of human breathing. This ensures the security system remains "armed" and aware even when residents are stationary.
 
 ### Defining Presence vs. Motion
 Motion detection is transient; it captures the act of moving. Presence sensing is state-based; it captures the fact of being there. For security, this distinction is vital. A motion sensor might trigger an entry alert, but a presence sensor can confirm if an intruder is still hiding in a room, even if they remain perfectly still.

@@ -27,7 +27,7 @@ Eufy's reputation for subscription-free AI is facing a critical test as owners r
 
 # Eufy Doorbell Motion Detection Not Working? July 2026 Update & Troubleshooting
 
-**Quick Answer:** A July 2026 bug affecting Eufy E340 and S330 doorbells on HomeBase 3 is causing "Human Only" detection to fail. To fix it, toggle to "All Motion" or format your HomeBase storage to clear corrupted AI cache.
+**Quick Answer:** A July 2026 bug affecting [Eufy E340](https://quvii.com/blog/eufy-e340-t8214-livestream-unknown-error-fix) and S330 doorbells on HomeBase 3 is causing "Human Only" detection to fail. To fix it, toggle to "All Motion" or format your HomeBase storage to clear corrupted AI cache.
 
 ## What happened
 
