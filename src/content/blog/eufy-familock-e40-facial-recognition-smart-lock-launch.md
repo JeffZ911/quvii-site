@@ -63,7 +63,7 @@ To understand where the E40 fits in the 2026 market, it is helpful to compare it
 | **Primary Access** | [Facial Recognition](https://quvii.com/blog/ring-facial-recognition-lawsuit-impact-2026) | Palm Vein Recognition | Fingerprint / Keypad |
 | **Camera Res.** | 2K (2048 x 1080) | [Information Unavailable] | No Camera |
 | **Field of View** | 135° (Head-to-Toe) | — | — |
-| **Motion Sensor** | 60GHz Radar | PIR Sensor | — |
+| **[Motion Sensor](https://quvii.com/blog/ring-mqtt-reolink-motion-sensor-integration-fix)** | 60GHz Radar | PIR Sensor | — |
 | **Connectivity** | Wi-Fi / Matter | Wi-Fi / Matter | Matter-over-Thread |
 | **Storage** | 8GB Local / HomeBase 3 | Local / HomeBase 3 | N/A |
 | **Power Type** | Dual Battery (15k + 800mAh) | Rechargeable Li-ion | AA Batteries |

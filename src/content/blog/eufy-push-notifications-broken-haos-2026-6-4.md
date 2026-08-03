@@ -107,7 +107,7 @@ Owners are now caught in a classic smart home dilemma:
 | If you are a... | Priority | Recommendation |
 | :--- | :--- | :--- |
 | **Renter / Casual User** | Ease of Use | Stick with the official Eufy app for alerts. Don't stress the HA integration until the 1.8.5 patch is stable. |
-| **Security Enthusiast** | Reliability | Implement a secondary Zigbee motion sensor at the camera's location to trigger HA automations locally. |
+| **Security Enthusiast** | Reliability | Implement a secondary Zigbee [motion sensor](https://quvii.com/blog/ring-mqtt-reolink-motion-sensor-integration-fix) at the camera's location to trigger HA automations locally. |
 | **Local-Only Purist** | Privacy/Uptime | Consider migrating Eufy cams to a dedicated NVR via RTSP (if supported) or replacing with Reolink/Amcrest. |
 | **Advanced Admin** | Cutting Edge | Update to HAOS 2026.6.4 and manually regenerate HassKeys for all webhooks. |
 

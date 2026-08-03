@@ -115,7 +115,7 @@ If you are experiencing notification blackouts, the "token" that identifies your
 5. This forces the app to request a new Firebase (Android) or APNs (iOS) token, which often clears the "delayed alert" logjam.
 
 ### Step 4: The 'Logout-Login' Refresh
-If the "Unknown Error" persists, a full session refresh is required.
+If the "[Unknown Error](https://quvii.com/blog/eufy-e340-t8214-livestream-unknown-error-fix)" persists, a full session refresh is required.
 1. Go to the **Account** tab and scroll to the bottom to select **Sign Out**.
 2. Close the app and restart your smartphone.
 3. Open the app and log back in. This re-authenticates your account against the new 3.18 security protocols and often resolves "ghosting" offline icons.
