@@ -125,7 +125,7 @@ Before buying, check the clearance between your door and the frame. Most no-dril
 | Scenario | Priority | Recommendation |
 | :--- | :--- | :--- |
 | **Strict Landlord** | Zero Damage | Reolink (2nd Gen) + Tension Mount |
-| **Package Theft Hotspot** | Downward Visibility | Eufy E340 (Dual Cam) |
+| **Package Theft Hotspot** | Downward Visibility | [Eufy E340](https://quvii.com/blog/eufy-e340-t8214-livestream-unknown-error-fix) (Dual Cam) |
 | **Budget Conscious** | Lowest TCO | Reolink Battery Doorbell |
 | **Smart Home Pro** | Interoperability | Aqara G4 (Matter 2.0) |
 

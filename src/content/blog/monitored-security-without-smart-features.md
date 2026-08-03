@@ -136,7 +136,7 @@ Yes. Many local-first NVRs like the Reolink RLN8-410 use Power over Ethernet (Po
 No. You will still receive "dumb" alerts—notifications that motion was detected or a door was opened. The difference is that the system won't try to guess *who* is at the door or store that person's face in a database. You are simply notified of the event so you can check the local feed yourself.
 
 ### Will police still respond to a system without AI verification?
-In most US cities, yes. While some "Verified Response" ordinances exist, they typically accept any form of confirmation, including a traditional PIR motion sensor trip or a homeowner confirming the alarm via their smartphone. AI is one way to verify, but it is not the only way.
+In most US cities, yes. While some "Verified Response" ordinances exist, they typically accept any form of confirmation, including a traditional PIR [motion sensor](https://quvii.com/blog/ring-mqtt-reolink-motion-sensor-integration-fix) trip or a homeowner confirming the alarm via their smartphone. AI is one way to verify, but it is not the only way.
 
 ### Is the Reolink RLN8-410 hard to set up?
 The RLN8-410 is considered "plug-and-play" for its own cameras, but integrating it with professional monitoring requires a bit more effort. You will need to connect the "Alarm Out" port on the NVR to a third-party communicator or use a software bridge like Home Assistant to link it to a service like Noonlight.

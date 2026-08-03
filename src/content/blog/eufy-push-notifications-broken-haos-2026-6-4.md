@@ -146,7 +146,7 @@ If your app settings are correct but HA is still silent:
 
 ### Long-term Hardware Workarounds
 To avoid future breaks caused by HAOS updates, Quvii recommends decoupling your *detection* from your *video*. 
-*   **Use Dedicated Sensors:** Install a dedicated Zigbee or Z-Wave motion sensor (such as the Zooz ZSE18 or Philips Hue Outdoor Motion) near your Eufy camera. 
+*   **Use Dedicated Sensors:** Install a dedicated Zigbee or Z-Wave [motion sensor](https://quvii.com/blog/ring-mqtt-reolink-motion-sensor-integration-fix) (such as the Zooz ZSE18 or Philips Hue Outdoor Motion) near your Eufy camera. 
 *   **The Benefit:** These sensors use local protocols that do not rely on webhooks or cloud relays. Your lights will turn on instantly, and the Eufy camera can still record the event to its local hard drive.
 
 ### How to Safely Roll Back HAOS

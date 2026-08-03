@@ -196,7 +196,7 @@ If you find a firmware version that is exceptionally stable for your specific en
 This is usually an API handshake failure introduced in the 3.18.0.918 update. The camera is connected to your Wi-Fi and functioning, but the app cannot verify the "SightSafe" security certificate required to show the live stream. Power cycling the camera often forces a new, successful handshake.
 
 ### Does the Wyze app 3.18.0.918 update work on older tablets?
-If your tablet uses a 32-bit Android OS, it is likely no longer compatible. The July 2026 update transitioned the app to a 64-bit-only architecture. You may experience "Unknown Error" messages during login or frequent app crashes if your hardware does not meet the new 64-bit requirement.
+If your tablet uses a 32-bit Android OS, it is likely no longer compatible. The July 2026 update transitioned the app to a 64-bit-only architecture. You may experience "[Unknown Error](https://quvii.com/blog/eufy-e340-t8214-livestream-unknown-error-fix)" messages during login or frequent app crashes if your hardware does not meet the new 64-bit requirement.
 
 ### How do I fix "Error 1000" in the Wyze app?
 Error 1000 is a connection timeout. To fix it, clear the Wyze app cache in your phone's settings, ensure your camera is running firmware v4.52.9.3415 or later, and try toggling your phone's Wi-Fi off and back on to refresh the local network route.
