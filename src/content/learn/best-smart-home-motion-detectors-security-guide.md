@@ -132,7 +132,7 @@ Brands like Ring, Arlo, and Nest often lock "Advanced Motion Detection" (such as
 *   **mmWave Placement:** Can be mounted lower or even hidden behind furniture. However, avoid placing them facing large mirrors or metal surfaces, which reflect radar waves and create "multipath" errors (seeing people where they aren't).
 
 ### Breaking the Ecosystem Lock-in
-The 2026 standard is **Matter**. A Matter-certified motion sensor from Eve can trigger a light bulb from Philips Hue and a recording on a local NVR (Network Video Recorder) without either brand "talking" to each other's clouds. This interoperability prevents "ecosystem lock-in," where you are forced to buy inferior sensors just because they match your existing camera brand.
+The 2026 standard is **Matter**. A Matter-certified [motion sensor](https://quvii.com/blog/ring-mqtt-reolink-motion-sensor-integration-fix) from Eve can trigger a light bulb from Philips Hue and a recording on a local NVR (Network Video Recorder) without either brand "talking" to each other's clouds. This interoperability prevents "ecosystem lock-in," where you are forced to buy inferior sensors just because they match your existing camera brand.
 
 ## Common misconceptions
 
