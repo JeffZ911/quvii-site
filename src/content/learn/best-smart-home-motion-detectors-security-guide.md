@@ -74,7 +74,7 @@ Advanced sensors now use "zone-based" detection. Instead of monitoring a whole y
 There is a growing demand for "camera-free" security in sensitive areas. Many homeowners are uncomfortable with cameras in bedrooms, bathrooms, or nurseries. mmWave sensors provide a solution: they can detect a fall, an intruder, or an unauthorized presence using radar dots rather than identifiable video frames. This allows for high-level security monitoring without the privacy risks associated with cloud-connected cameras.
 
 ### Latency Benchmarks by Protocol (2026 Data)
-Speed is security. If a motion sensor takes three seconds to wake up a camera, the intruder’s face may already be out of frame.
+Speed is security. If a [motion sensor](https://quvii.com/blog/ring-mqtt-reolink-motion-sensor-integration-fix) takes three seconds to wake up a camera, the intruder’s face may already be out of frame.
 
 *   **Thread (Matter):** ~40ms – 80ms (Near-instant triggers)
 *   **Zigbee 3.0:** ~100ms – 250ms (Reliable, requires hub)
