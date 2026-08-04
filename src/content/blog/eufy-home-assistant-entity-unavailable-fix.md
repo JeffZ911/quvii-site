@@ -148,7 +148,7 @@ Because this is a community-driven integration, Eufy’s official customer suppo
 Assign a permanent DHCP reservation in your router for your HomeBase 3 and your Home Assistant host. If the HomeBase reboots and grabs a new IP, the `eufy-security-ws` server will continue looking at the old address, leading to a "Station Not Found" error.
 
 ### Automated Add-on Restarts
-You can create a "Watchdog" automation in Home Assistant that automatically restarts the Eufy add-on if a critical entity (like the Front Door Motion sensor) stays "unavailable" for more than 10 minutes.
+You can create a "Watchdog" automation in Home Assistant that automatically restarts the Eufy add-on if a critical entity (like the Front Door [Motion sensor](https://quvii.com/blog/ring-mqtt-reolink-motion-sensor-integration-fix)) stays "unavailable" for more than 10 minutes.
 
 **Example YAML for a Self-Healing Automation:**
 *Note: To find your specific add-on slug, go to the add-on page in your browser; the slug is the string at the end of the URL (e.g., `402f1039_eufy_security_ws`).*

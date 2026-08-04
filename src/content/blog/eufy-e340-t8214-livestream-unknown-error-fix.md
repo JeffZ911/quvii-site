@@ -30,7 +30,7 @@ For owners of the Eufy Video Doorbell E340 (T8214), few things are more frustrat
 
 # How to Fix the Eufy E340 (T8214) Livestream 'Unknown Error'
 
-**Quick Answer:** Fix the Eufy E340 'Unknown Error' by restarting your HomeBase 3 and toggling video resolution from 2K to 1080p and back. Ensure your transformer provides 16-24VAC and your firmware is updated to v3.2.6 or later.
+**Quick Answer:** Fix the [Eufy E340](https://quvii.com/blog/eufy-e340-doorbell-livestream-never-starts-fix) 'Unknown Error' by restarting your HomeBase 3 and toggling video resolution from 2K to 1080p and back. Ensure your transformer provides 16-24VAC and your firmware is updated to v3.2.6 or later.
 
 ## The symptom
 

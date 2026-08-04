@@ -121,7 +121,7 @@ If you have performed the "Unbricking" steps and still experience unreliable ale
 
 **Decision Framework: Should You Fix or Switch?**
 *   **If you are a Renter:** Prioritize fixing the SoloCam S340. Its standalone nature makes it the best choice for temporary setups. Ensure the app is whitelisted in your phone's battery settings.
-*   **If you are a Homeowner (Security Focus):** If notifications remain inconsistent, consider moving to a wired E340 Doorbell or S330 setup with "Custom Recording" (0s re-trigger) enabled.
+*   **If you are a Homeowner (Security Focus):** If notifications remain inconsistent, consider moving to a wired [E340 Doorbell](https://quvii.com/blog/eufy-e340-doorbell-livestream-never-starts-fix) or S330 setup with "Custom Recording" (0s re-trigger) enabled.
 *   **If you have a High-Traffic Business:** If Eufy’s 60-second cooldown is missing critical events, consider switching to a system that supports 24/7 continuous recording to the HomeBase 3 (available on select wired models).
 
 **Total Cost of Ownership (3-Year Analysis)**

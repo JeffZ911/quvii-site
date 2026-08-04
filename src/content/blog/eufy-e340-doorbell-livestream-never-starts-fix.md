@@ -158,7 +158,7 @@ Direct sunlight is the enemy of the E340’s Wi-Fi chip. If the doorbell is moun
 ### Decision Framework: Is the E340 Right for Your Setup?
 *   **If you are a Renter:** Stick to the battery-powered mode but keep "Streaming Quality" on **Auto**. Without the ability to upgrade the transformer, you may experience occasional lag.
 *   **If you are a Homeowner with HomeBase 3:** Prioritize a **Wired 24VAC/30VA transformer**. This allows the E340 to stay in a "High Performance" state, significantly reducing the "Preparing to play" time.
-*   **If you use Home Assistant:** Be aware that the `fuatakgun/eufy_security` integration often reports an "Unknown error" when the P2P stream fails. This is a known limitation of reverse-engineered P2P protocols. For 100% reliability in smart home dashboards, a camera with native RTSP support (like Reolink) is recommended.
+*   **If you use Home Assistant:** Be aware that the `fuatakgun/eufy_security` integration often reports an "[Unknown error](https://quvii.com/blog/eufy-e340-t8214-livestream-unknown-error-fix)" when the P2P stream fails. This is a known limitation of reverse-engineered P2P protocols. For 100% reliability in smart home dashboards, a camera with native RTSP support (like Reolink) is recommended.
 
 ## Frequently Asked Questions
 

@@ -82,7 +82,7 @@ Pricing based on July 2026 market bands.
 
 | Brand/Model | Hardware Cost | Monthly Sub | 3-Year Total |
 | :--- | :--- | :--- | :--- |
-| **Eufy E340 + HomeBase 3** | $180 (Doorbell) + $150 (Hub) | $0 | **$330** |
+| **[Eufy E340](https://quvii.com/blog/eufy-e340-doorbell-livestream-never-starts-fix) + HomeBase 3** | $180 (Doorbell) + $150 (Hub) | $0 | **$330** |
 | **Ring Battery Doorbell Pro** | $200 | $5/mo (Basic) | **$380** |
 | **Google Nest Doorbell (Gen 2)** | $180 | $8/mo (Aware) | **$468** |
 
