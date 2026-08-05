@@ -47,7 +47,7 @@ When [motion alerts](https://quvii.com/blog/reolink-camera-chime-motion-alerts-g
 
 The most common symptom is the "Silent Trigger." In this scenario, you can open the Eufy Security mobile app and see a fresh entry in the "Events" tab, yet the `binary_sensor.motion_sensor` entity in Home Assistant remains stuck in a "Clear" or "Off" state. 
 
-In the Home Assistant Developer Tools, you may observe that the `last_changed` attribute for the motion sensor hasn't updated in hours or days, despite known activity. This indicates that while the hardware is functioning and the Eufy cloud is aware of the motion, the integration has not been notified. This discrepancy breaks downstream automations, such as exterior lights failing to illuminate when someone approaches the door or text-to-speech (TTS) announcements failing to play on smart speakers.
+In the Home Assistant Developer Tools, you may observe that the `last_changed` attribute for the [motion sensor](https://quvii.com/blog/ring-mqtt-reolink-motion-sensor-integration-fix) hasn't updated in hours or days, despite known activity. This indicates that while the hardware is functioning and the Eufy cloud is aware of the motion, the integration has not been notified. This discrepancy breaks downstream automations, such as exterior lights failing to illuminate when someone approaches the door or text-to-speech (TTS) announcements failing to play on smart speakers.
 
 ### Integration vs. Hardware Failure
 

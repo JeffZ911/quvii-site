@@ -181,7 +181,7 @@ Yes, provided both devices support the **Matter** standard. In a Matter-enabled 
 If you use **Matter-over-Thread** or **Zigbee**, the sensors will continue to trigger local actions (like sirens or local NVR recording) even without internet. However, you will not receive a notification on your phone until the internet connection is restored, unless you have a cellular backup.
 
 ### What is the difference between a motion sensor and an occupancy sensor?
-A motion sensor requires significant movement (walking, waving) to stay active. An occupancy sensor (usually mmWave) can detect a person sitting still or sleeping by monitoring micro-movements like chest rises during breathing.
+A [motion sensor](https://quvii.com/blog/ring-mqtt-reolink-motion-sensor-integration-fix) requires significant movement (walking, waving) to stay active. An occupancy sensor (usually mmWave) can detect a person sitting still or sleeping by monitoring micro-movements like chest rises during breathing.
 
 ### Where is the best place to put a motion detector for security?
 For PIR sensors, place them in "choke points" like hallways or at the top of stairs where an intruder must walk *across* the sensor's path. For mmWave presence sensors, a corner mount with a clear view of the entire room is best.
