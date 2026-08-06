@@ -40,7 +40,7 @@ To fix a [Eufy E340](https://quvii.com/blog/eufy-e340-doorbell-mechanical-chime-
 *Related: [Fix Eufy Home Assistant 'Entity Unavailable' Errors (2026 Guide)](/blog/eufy-home-assistant-entity-unavailable-fix) · [Fix: Ring-MQTT Reolink Motion Sensor Integration (2026 Guide)](/blog/ring-mqtt-reolink-motion-sensor-integration-fix) · [Fix Eufy E340 (T8214) Livestream Unknown Error: 2026 Guide](/blog/eufy-e340-t8214-livestream-unknown-error-fix)*
 
 
-The Eufy E340 is a "Dual-Cam" device, meaning it simultaneously processes a 2K main feed and a 1080p downward-facing package feed. When the livestream fails to initialize, the failure usually manifests in one of three distinct ways within the Eufy Security app.
+The [Eufy E340](https://quvii.com/blog/eufy-e340-doorbell-mechanical-chime-not-working) is a "Dual-Cam" device, meaning it simultaneously processes a 2K main feed and a 1080p downward-facing package feed. When the livestream fails to initialize, the failure usually manifests in one of three distinct ways within the Eufy Security app.
 
 ### The 'Preparing to Play' Loop
 The most common report involves the app getting stuck on the "Preparing to play" or "Establishing secure video channel" screen. In this state, the app is attempting to establish a Peer-to-Peer (P2P) connection between your smartphone and the doorbell (or the HomeBase 3). If the handshake is not completed within 20-30 seconds, the app typically times out, showing a "Retry" button or Error Code -203.
