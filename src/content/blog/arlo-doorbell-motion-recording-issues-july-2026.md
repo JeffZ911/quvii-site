@@ -135,7 +135,7 @@ For ongoing reliability, ensure your Wi-Fi network is robust and capable of supp
 
 ### Decision Framework: Choosing an Arlo Doorbell
 
-*   **If you're a Renter or prefer minimal installation:** Prioritize the **Arlo Essential Video Doorbell Wire-Free** for its battery option and simpler setup. Understand you'll need to periodically recharge the battery.
+*   **If you're a Renter or prefer minimal installation:** Prioritize the **Arlo Essential [Video Doorbell](https://quvii.com/blog/wemo-smart-video-doorbell-drops-off-homekit) Wire-Free** for its battery option and simpler setup. Understand you'll need to periodically recharge the battery.
 *   **If you have existing doorbell wiring and seek continuous power:** Prioritize the **Arlo Essential Video Doorbell Wired** or the **Arlo Video Doorbell (Original)** for consistent power and reliable operation without battery concerns.
 *   **If you require advanced AI detection and cloud storage:** Prioritize an **Arlo Secure subscription** regardless of the model chosen, as these features are paywalled. Factor this into your total cost.
 *   **If you already own an Arlo SmartHub or Base Station:** Prioritize models compatible with your existing hub to potentially enable [local storage](https://quvii.com/learn/best-4k-security-cameras-local-storage) options, though cloud recording still requires a subscription.

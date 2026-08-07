@@ -118,7 +118,7 @@ As of early 2026, the Wemo app is no longer functional. The final stable firmwar
 If quick fixes don't prevent the doorbell from dropping off again within 24 hours, the issue is likely physical: either power delivery or signal strength.
 
 ### Testing Your Transformer's VA Rating
-Most American homes built before 2010 use a 16V/10VA transformer. While 16V is technically enough to "turn on" the Wemo, 10VA (Volt-Amps) is insufficient to power a camera, an IR night-vision array, and a Wi-Fi radio simultaneously while also ringing a mechanical chime. 
+Most American homes built before 2010 use a 16V/10VA transformer. While 16V is technically enough to "turn on" the Wemo, 10VA (Volt-Amps) is insufficient to power a camera, an IR night-vision array, and a Wi-Fi radio simultaneously while also ringing a [mechanical chime](https://quvii.com/blog/eufy-e340-doorbell-mechanical-chime-not-working). 
 
 To diagnose this, you will need a digital multimeter:
 1. Set the multimeter to **AC Voltage**.

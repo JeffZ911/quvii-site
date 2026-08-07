@@ -63,7 +63,7 @@ Eufy countered the subscription trend by moving its AI processing entirely to th
 ![Why it matters for buyers](/img/best-video-doorbells-apartment-renters-2026/inline-2.webp)
 
 
-For the modern renter, the value proposition of a video doorbell has shifted from "convenience" to "total cost of ownership" (TCO). In 2026, hardware that requires a subscription is increasingly viewed as a liability rather than an asset.
+For the modern renter, the value proposition of a [video doorbell](https://quvii.com/blog/wemo-smart-video-doorbell-drops-off-homekit) has shifted from "convenience" to "total cost of ownership" (TCO). In 2026, hardware that requires a subscription is increasingly viewed as a liability rather than an asset.
 
 ### Financial Freedom: The $300 Renter Savings
 When calculating the cost of a doorbell, renters must look beyond the initial $150-200 sticker price. A subscription-locked doorbell like a Ring or Arlo will cost an additional $240 to $360 over a typical three-year lease. By choosing a [subscription-free security camera](https://reolink.com) or doorbell like the Reolink 2nd Gen, that money stays in the renter's pocket. In 2026, the hardware-only approach is the most effective way to combat "subscription fatigue."
