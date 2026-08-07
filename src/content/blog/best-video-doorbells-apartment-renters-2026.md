@@ -86,7 +86,7 @@ Matter 2.0 compatibility, now standard in the Aqara G410 and high-end Eufy model
 ![Impact on existing owners](/img/best-video-doorbells-apartment-renters-2026/inline-3.webp)
 
 
-If you already own a video doorbell from 2023 or 2024, the 2026 landscape presents a difficult "stay or go" decision. 
+If you already own a [video doorbell](https://quvii.com/blog/wemo-smart-video-doorbell-drops-off-homekit) from 2023 or 2024, the 2026 landscape presents a difficult "stay or go" decision. 
 
 ### The 'Legacy' Tax: Is Your Old Doorbell Costing You Too Much?
 Owners of legacy Ring (Gen 2) or Nest units are now facing "Legacy Tier" price increases. Brands are incentivizing users to move to newer hardware by raising the costs of maintaining older cloud-reliant units. If your current monthly bill has crept above $5/month, the math suggests that buying a new [local storage vs cloud](https://eufy.com) unit will pay for itself in less than 18 months.
