@@ -171,7 +171,7 @@ If the cost and waste of lithium batteries become unsustainable, many users in 2
 ## Frequently Asked Questions
 
 ### Why does my Blink camera say 'Battery OK' then die a day later?
-Lithium batteries have a very "flat" discharge curve. They maintain a steady voltage until they are nearly empty, at which point the voltage drops off a cliff. This makes it difficult for the camera to provide a granular percentage (e.g., 50%, 20%). "OK" usually means anything above 2.2V (combined), while "Dead" happens shortly after it hits 2.0V.
+Lithium batteries have a very "flat" discharge curve. They maintain a steady voltage until they are nearly empty, at which point the voltage [drops off](https://quvii.com/blog/wemo-smart-video-doorbell-drops-off-homekit) a cliff. This makes it difficult for the camera to provide a granular percentage (e.g., 50%, 20%). "OK" usually means anything above 2.2V (combined), while "Dead" happens shortly after it hits 2.0V.
 
 ### Can I use a power adapter for the Blink Outdoor 4?
 Yes, you can use a weather-resistant USB-C power adapter. However, doing so disables the "battery backup" functionality in most configurations and may compromise the weather seal unless you use an official Blink-certified power kit.

@@ -122,7 +122,7 @@ For ongoing reliability, ensure your Wi-Fi network is robust and capable of supp
 
 ### Arlo Doorbell Comparison Table (July 2026)
 
-| Feature                 | Arlo Essential Video Doorbell Wire-Free | Arlo Essential Video Doorbell Wired | Arlo Video Doorbell (Original) |
+| Feature                 | Arlo Essential [Video Doorbell](https://quvii.com/blog/wemo-smart-video-doorbell-drops-off-homekit) Wire-Free | Arlo Essential Video Doorbell Wired | Arlo Video Doorbell (Original) |
 | :---------------------- | :------------------------------------------------- | :--------------------------------------------- | :--------------------------------------- |
 | **Resolution**          | 1536p HD                                | 1536p HD                            | 1536p HD                       |
 | **Field of View**       | 180° diagonal                           | 180° diagonal                       | 180° diagonal                  |

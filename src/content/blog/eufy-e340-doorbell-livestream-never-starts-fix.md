@@ -69,7 +69,7 @@ The E340 is computationally expensive. It must encode two video streams, manage 
 ### Power-Related Wi-Fi Instability
 The E340 can run on battery or existing doorbell wires. However, the dual-lens system and high-output LEDs draw significant peak current. If your transformer is a standard 10VAC or 16VAC/10VA unit, it may provide enough "trickle" to keep the battery charged but fail to provide the "burst" power needed for the Wi-Fi 6 chip to maintain a high-bitrate 2K livestream. This leads to the Wi-Fi chip momentarily dropping the connection exactly when the stream starts.
 
-| Feature | Eufy E340 (Dual Cam) | Eufy S220 (SoloCam) | Reolink Video Doorbell (Wi-Fi) |
+| Feature | [Eufy E340](https://quvii.com/blog/eufy-e340-doorbell-mechanical-chime-not-working) (Dual Cam) | Eufy S220 (SoloCam) | Reolink Video Doorbell (Wi-Fi) |
 | :--- | :--- | :--- | :--- |
 | **Resolution** | 2K (Main) + 1080p (Bottom) | 2K | 2K+ (5MP) |
 | **Connection Type** | P2P (Server-mediated) | P2P (Server-mediated) | Local (RTSP/ONVIF/P2P) |
