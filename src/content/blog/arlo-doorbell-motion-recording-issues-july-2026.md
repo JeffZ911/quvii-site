@@ -144,7 +144,7 @@ For ongoing reliability, ensure your Wi-Fi network is robust and capable of supp
 
 Understanding the full cost of an Arlo doorbell goes beyond the initial hardware purchase, primarily due to the essential Arlo Secure subscription.
 
-**Example: Arlo Essential Video Doorbell Wire-Free**
+**Example: Arlo Essential [Video Doorbell](https://quvii.com/blog/wemo-smart-video-doorbell-drops-off-homekit) Wire-Free**
 
 *   **Hardware Cost:** Around $150-200 (one-time)
 *   **Arlo Secure Single Camera Subscription:** Approximately $5-6 per month, or $50-60 annually.
