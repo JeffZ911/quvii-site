@@ -40,7 +40,7 @@ A doorbell that notifies your phone but leaves your hallway silent is only doing
 *Related: [Tapo C200 Offline After Firmware Update? 2026 Fix Guide](/blog/tapo-c200-offline-after-firmware-update-fix-20260806) · [Eufy E340 Doorbell Livestream Not Loading? 6 Fixes (2026)](/blog/eufy-e340-doorbell-livestream-never-starts-fix) · [Fix Eufy Home Assistant 'Entity Unavailable' Errors (2026 Guide)](/blog/eufy-home-assistant-entity-unavailable-fix)*
 
 
-When the Eufy E340 is installed correctly, pressing the doorbell button should trigger three simultaneous events: the LED ring on the camera pulses blue, a push notification arrives on your mobile device, and the indoor mechanical chime strikes its metal plates (the classic "ding-dong"). When the chime fails, it usually manifests in one of four ways.
+When the [Eufy E340](https://quvii.com/blog/eufy-e340-doorbell-livestream-not-working-fix) is installed correctly, pressing the doorbell button should trigger three simultaneous events: the LED ring on the camera pulses blue, a push notification arrives on your mobile device, and the indoor mechanical chime strikes its metal plates (the classic "ding-dong"). When the chime fails, it usually manifests in one of four ways.
 
 ### Silent Chime vs. Buzzing Chime
 A completely silent chime often points to a configuration or wiring error where the electrical circuit is never completed. However, a "buzzing" or "humming" chime is a more specific diagnostic clue. This occurs when the solenoid (the electromagnet that moves the striker) receives enough voltage to vibrate but lacks the amperage (current) to fully pull the plunger back and release it against the tone bar. This is a hallmark sign of "power starvation," where the E340’s dual-lens system is consuming the lion's share of the available energy.
@@ -161,7 +161,7 @@ Yes. The E340 supports existing digital chimes (those that play a melody through
 This is a classic symptom of an underpowered transformer (usually 10VA or 15VA). When the button is pressed and the chime relay closes, the power draw exceeds what the transformer can provide. The voltage drops so low that the E340’s processor shuts down. Upgrading to a 30VA or 40VA transformer resolves this.
 
 ### Do I need the Eufy HomeBase 3 for the mechanical chime to work?
-No. The mechanical chime is triggered by a physical relay inside the E340 doorbell unit itself. While the HomeBase 3 provides expanded storage and AI features, the basic function of ringing your house's existing chime is handled locally by the doorbell's wiring.
+No. The mechanical chime is triggered by a physical relay inside the [E340 doorbell](https://quvii.com/blog/eufy-e340-doorbell-livestream-not-working-fix) unit itself. While the HomeBase 3 provides expanded storage and AI features, the basic function of ringing your house's existing chime is handled locally by the doorbell's wiring.
 
 ### Will the E340 ring my chime if the Wi-Fi is down?
 Yes. Because the mechanical chime is triggered by a physical circuit closure when the button is pressed, it will function even if your internet or Wi-Fi is offline, provided the doorbell has power from the transformer.

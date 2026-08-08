@@ -26,7 +26,7 @@ inline_image_sections:
   - "How to prevent it"
 ---
 
-A security camera that cannot provide a live view fails its most fundamental purpose: providing immediate situational awareness. For owners of the Eufy Video Doorbell E340, the "Preparing to play" loading spinner has become a documented hurdle in an otherwise high-performance dual-lens system.
+A security camera that cannot provide a live view fails its most fundamental purpose: providing immediate situational awareness. For owners of the Eufy [Video Doorbell](https://quvii.com/blog/wemo-smart-video-doorbell-drops-off-homekit) E340, the "Preparing to play" loading spinner has become a documented hurdle in an otherwise high-performance dual-lens system.
 
 # Eufy E340 Doorbell Livestream Never Starts? 6 Fixes for 2026
 

@@ -180,7 +180,7 @@ Arlo generally provides firmware updates for its devices, but as seen in recent 
 *   bestdoorbellguide.blog — Arlo Doorbell Review 2024: Is It Worth The Investment?
 *   arlo.com — Arlo Secure Plans & Pricing
 *   arlo.com — What is the Arlo SmartHub or Base Station, and do I need one?
-*   arlo.com — Arlo Video Doorbell
+*   arlo.com — Arlo [Video Doorbell](https://quvii.com/blog/wemo-smart-video-doorbell-drops-off-homekit)
 *   security.org — Arlo Privacy Policy: What You Need To Know
 *   youtube.com — [Arlo Pro 5s](https://quvii.com/learn/arlo-pro-5s-2k-night-vision-stuck-on) 2K vs Ring Spotlight Cam Pro - (Night & Day Comparison)
 *   reddit.com — Arlo Doorbell not detecting motion or recording anymore
