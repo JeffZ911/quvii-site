@@ -55,7 +55,7 @@ Unlike digital chimes, which play a recorded sound through a speaker, a mechanic
 ![What's likely happening](/img/eufy-e340-doorbell-mechanical-chime-not-working/inline-2.webp)
 
 
-The Eufy E340 is one of the most power-hungry consumer doorbells on the market. Unlike older single-lens models, it features a primary 2K sensor, a secondary 1080p downward-facing lens, and a sophisticated radar/PIR detection suite. This "dual-camera tax" changes the electrical requirements of your home's doorbell circuit.
+The [Eufy E340](https://quvii.com/blog/eufy-e340-doorbell-livestream-not-working-fix) is one of the most power-hungry consumer doorbells on the market. Unlike older single-lens models, it features a primary 2K sensor, a secondary 1080p downward-facing lens, and a sophisticated radar/PIR detection suite. This "dual-camera tax" changes the electrical requirements of your home's doorbell circuit.
 
 ### The Dual-Camera Power Tax
 Standard North American homes built before 2020 typically utilize a 16V/10VA transformer. While 16 volts is sufficient to wake the camera, 10VA (Volt-Amps) describes the total "buffer" of power available. When the E340 is actively streaming or recording, it draws significant current. When the button is pressed, the doorbell must suddenly close a relay to send power to the mechanical chime. If the transformer is only 10VA, the voltage drops instantly, leaving the chime with a weak "buzz" and occasionally causing the doorbell itself to reboot.

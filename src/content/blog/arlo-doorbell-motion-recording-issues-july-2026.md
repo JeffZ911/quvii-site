@@ -185,7 +185,7 @@ Arlo generally provides firmware updates for its devices, but as seen in recent 
 *   youtube.com — [Arlo Pro 5s](https://quvii.com/learn/arlo-pro-5s-2k-night-vision-stuck-on) 2K vs Ring Spotlight Cam Pro - (Night & Day Comparison)
 *   reddit.com — Arlo Doorbell not detecting motion or recording anymore
 *   arlo.com — My Arlo camera is not detecting motion. What do I do?
-*   arlo.com — Arlo Essential Video Doorbell Wire-Free
+*   arlo.com — Arlo Essential [Video Doorbell](https://quvii.com/blog/wemo-smart-video-doorbell-drops-off-homekit) Wire-Free
 *   arlo.com — Arlo Essential Video Doorbell Wired
 *   youtube.com — Arlo Ultra 2 vs Ring Spotlight Cam Pro - (Night & Day Comparison)
 *   youtube.com — Arlo Essential Video Doorbell Wire Free Review: The Good and the Bad!
