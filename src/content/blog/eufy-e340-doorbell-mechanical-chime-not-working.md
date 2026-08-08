@@ -30,7 +30,7 @@ A doorbell that notifies your phone but leaves your hallway silent is only doing
 
 # Eufy E340 Doorbell Mechanical Chime Not Working? Troubleshooting Guide
 
-**Quick Answer:** To fix a silent Eufy E340 mechanical chime, enable "Existing Doorbell Chime" and select "Mechanical" within the Eufy Security app settings. Critically, ensure your doorbell transformer is rated for 16V-24V AC and at least 30VA; standard 10VA transformers cannot power the E340’s dual cameras and the physical striker simultaneously. Do NOT install the blue bypass jumper wire if you intend for the indoor chime to ring.
+**Quick Answer:** To fix a silent [Eufy E340](https://quvii.com/blog/eufy-e340-doorbell-livestream-not-working-fix) mechanical chime, enable "Existing Doorbell Chime" and select "Mechanical" within the Eufy Security app settings. Critically, ensure your doorbell transformer is rated for 16V-24V AC and at least 30VA; standard 10VA transformers cannot power the E340’s dual cameras and the physical striker simultaneously. Do NOT install the blue bypass jumper wire if you intend for the indoor chime to ring.
 
 ## The symptom
 
@@ -83,7 +83,7 @@ Before dismantling your transformer, check the logic and simple physical connect
 The E340 is designed to be versatile, supporting battery power, Eufy's own digital plug-in chimes, and legacy mechanical chimes. By default, the mechanical relay may be disabled to save power.
 
 1.  Open the **Eufy Security App** (ensure you are on version 4.8.0 or later).
-2.  Tap the **"..." icon** on your E340 doorbell feed and select the **Gear (Settings) icon**.
+2.  Tap the **"..." icon** on your [E340 doorbell](https://quvii.com/blog/eufy-e340-doorbell-livestream-not-working-fix) feed and select the **Gear (Settings) icon**.
 3.  Navigate to **Indoor Chime**.
 4.  Select **Existing Doorbell Chime**.
 5.  Ensure the toggle is **ON** and specifically select **Mechanical**. 

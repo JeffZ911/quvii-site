@@ -64,7 +64,7 @@ The "Great Blink Meltdown of 2025"—a multi-day service outage that left millio
 | :--- | :--- | :--- | :--- | :--- |
 | **Blink Outdoor 4** | 1080p | Cloud / USB Local | Dec 2028 | AA Lithium |
 | **Blink Mini 2K+** | 2K (1440p) | Cloud / USB Local | Dec 2030 | Wired (USB-C) |
-| **Blink Video Doorbell 2** | 2K (1440p) | Cloud / USB Local | Dec 2029 | Battery/Wired |
+| **Blink [Video Doorbell](https://quvii.com/blog/wemo-smart-video-doorbell-drops-off-homekit) 2** | 2K (1440p) | Cloud / USB Local | Dec 2029 | Battery/Wired |
 | **Blink Wired Floodlight** | 1080p | Cloud / USB Local | Dec 2028 | Hardwired |
 
 *Note: Security update guarantees are based on Amazon’s policy of providing updates for at least four years after the device is last available for purchase on Amazon.com ([Amazon Device Software Security Updates](https://www.amazon.com/gp/help/customer/display.html?nodeId=G3Y6S96XCH7B9M2V)).*

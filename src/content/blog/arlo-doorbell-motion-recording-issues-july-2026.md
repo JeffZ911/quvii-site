@@ -176,7 +176,7 @@ Arlo generally provides firmware updates for its devices, but as seen in recent 
 ## Sources
 
 *   reddit.com — Arlo doorbell not recording motion, only button press. Anyone else?
-*   youtube.com — Arlo Video Doorbell Review 6 Months Later: Still The Best? (2024)
+*   youtube.com — Arlo [Video Doorbell](https://quvii.com/blog/wemo-smart-video-doorbell-drops-off-homekit) Review 6 Months Later: Still The Best? (2024)
 *   bestdoorbellguide.blog — Arlo Doorbell Review 2024: Is It Worth The Investment?
 *   arlo.com — Arlo Secure Plans & Pricing
 *   arlo.com — What is the Arlo SmartHub or Base Station, and do I need one?
