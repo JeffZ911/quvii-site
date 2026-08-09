@@ -63,7 +63,7 @@ Standard North American homes built before 2020 typically utilize a 16V/10VA tra
 ### The Jumper Wire Misconception
 Eufy includes a blue "Bypass Jumper" wire in the E340 box. This wire is intended for users who have an incompatible chime or who want to bypass the chime entirely to provide maximum constant power to the camera. If a homeowner (or an electrician following Ring/Nest instructions) installs this jumper between the "Trans" and "Front" terminals on the chime box, the mechanical chime is permanently removed from the circuit. The E340 can only ring the chime if this circuit remains "open" until the button is pressed.
 
-| Component | Eufy E340 Requirement | Standard Legacy Setup |
+| Component | [Eufy E340](https://quvii.com/blog/eufy-e340-doorbell-livestream-not-working-fix) Requirement | Standard Legacy Setup |
 | :--- | :--- | :--- |
 | **AC Voltage** | 16V - 24V AC | 10V - 16V AC |
 | **Power Capacity** | 30VA Minimum | 10VA Typical |
