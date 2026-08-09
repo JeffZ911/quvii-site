@@ -168,7 +168,7 @@ Yes. Because the mechanical chime is triggered by a physical circuit closure whe
 
 ## Sources
 
-- Eufy E340 Product Manual and Specifications — https://www.eufy.com/products/t8213
+- [Eufy E340](https://quvii.com/blog/eufy-e340-doorbell-livestream-not-working-fix) Product Manual and Specifications — https://www.eufy.com/products/t8213
 - Eufy Support: How to Hardwire Your Video Doorbell
 - FCC ID Filing: Anker/Eufy T8213 (E340) — https://fccid.io/2AOKB-T8213
 - Newhouse Hardware: Transformer Compatibility Guide — https://newhousehardware.com/
