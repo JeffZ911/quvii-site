@@ -30,7 +30,7 @@ Missing a porch pirate's face because your camera only recorded their back as th
 
 # Reolink Battery Camera Wake Capture Not Working? Why You’re Missing the Action
 
-**Quick Answer:** "Wake capture" issues occur when a battery camera takes too long to wake from sleep, missing the start of an event. Fix this by optimizing PIR angles to ensure side-to-side motion or upgrading to a 2026-era model with "Pre-Record" capabilities, such as the Reolink Altas PT Ultra, which eliminates wake-up gaps entirely.
+**Quick Answer:** "[Wake capture](https://quvii.com/blog/reolink-battery-doorbell-wake-capture-fix-20260816)" issues occur when a battery camera takes too long to wake from sleep, missing the start of an event. Fix this by optimizing PIR angles to ensure side-to-side motion or upgrading to a 2026-era model with "Pre-Record" capabilities, such as the Reolink Altas PT Ultra, which eliminates wake-up gaps entirely.
 
 ## What it means
 
