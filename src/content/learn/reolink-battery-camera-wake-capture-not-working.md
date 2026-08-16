@@ -40,7 +40,7 @@ Missing a porch pirate's face because your camera only recorded their back as th
 *Related: [Tapo C210 RTSP Stream Freezing After Update: Causes & Fixes](/learn/tapo-c210-rtsp-stream-freezing-fix) · [Eufy Security App Not Loading on Android: 2026 Fixes & Causes](/learn/eufy-security-app-wont-load-android-fix) · [How to Show Home Assistant Camera Snapshots on AirDot](/learn/show-home-assistant-camera-snapshots-airdot)*
 
 
-In the world of battery-powered security, "Wake Capture" refers to the time elapsed between the moment a sensor detects motion and the moment the camera actually begins writing video data to the microSD card or cloud. For most standard battery cameras, this gap is the "blind spot" of wireless security.
+In the world of battery-powered security, "[Wake Capture](https://quvii.com/blog/reolink-battery-doorbell-wake-capture-fix-20260816)" refers to the time elapsed between the moment a sensor detects motion and the moment the camera actually begins writing video data to the microSD card or cloud. For most standard battery cameras, this gap is the "blind spot" of wireless security.
 
 ### The Anatomy of a Missed Event
 When a camera suffers from wake capture latency, you experience the "Tail-End" recording phenomenon. This is characterized by a video clip that starts with a person already halfway across the frame or, in worse cases, just as they are exiting the field of view. You see the back of the hoodie, but never the face. This isn't necessarily a "bug" in the software; it is often the hardware functioning exactly as designed to preserve battery life.
