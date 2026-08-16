@@ -26,7 +26,7 @@ inline_image_sections:
   - "Further reading"
 ---
 
-Missing a porch pirate's face because your camera only recorded their back as they walked away is a common frustration for battery-powered security owners. This delay, known as "wake capture" latency, is a fundamental engineering trade-off that often surprises users expecting the instant response of a wired system.
+Missing a porch pirate's face because your camera only recorded their back as they walked away is a common frustration for battery-powered security owners. This delay, known as "[wake capture](https://quvii.com/blog/reolink-battery-doorbell-wake-capture-fix-20260816)" latency, is a fundamental engineering trade-off that often surprises users expecting the instant response of a wired system.
 
 # Reolink Battery Camera Wake Capture Not Working? Why You’re Missing the Action
 
