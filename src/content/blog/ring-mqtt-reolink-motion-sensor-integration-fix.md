@@ -168,7 +168,7 @@ For users of battery-powered cameras (like the Argus series), standard MQTT inte
 
 **Benchmark: Motion Latency (2026 Testing Data)**
 *   **Reolink PoE Camera (Direct to MQTT):** 300–500ms
-*   **Reolink Battery Camera (Direct to MQTT):** 4,000–8,000ms (often misses events)
+*   **[Reolink Battery](https://quvii.com/blog/reolink-battery-doorbell-wake-capture-fix-20260816) Camera (Direct to MQTT):** 4,000–8,000ms (often misses events)
 *   **Reolink Battery Camera (via Home Hub):** 800–1,200ms
 
 ### Decision Framework: Integration Strategy

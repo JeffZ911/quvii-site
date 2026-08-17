@@ -63,7 +63,7 @@ The primary source of frustration is often a misunderstanding of which models ac
 | **Video Doorbell S4** | Yes | Yes | HomeBase 3 | 1080p (HKSV Limit) |
 | **Video Doorbell E340** | No | No | N/A (Official) | — |
 | **Video Doorbell Dual (S330)** | No | No | N/A (Official) | — |
-| **2K Battery Doorbell** | No | No | N/A (Official) | — |
+| **2K [Battery Doorbell](https://quvii.com/blog/reolink-battery-doorbell-wake-capture-fix-20260816)** | No | No | N/A (Official) | — |
 | **2K Wired Doorbell** | No | No | N/A (Official) | — |
 
 *Source: eufy Official Compatibility List 2026*
