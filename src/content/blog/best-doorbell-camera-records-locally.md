@@ -48,7 +48,7 @@ Furthermore, the hardware for storing this data has evolved. The Eufy [HomeBase 
 
 | Brand/Model | Storage Type | Annual Sub. Cost (2026) | 3-Year Total Cost (Est.) | AI Features |
 | :--- | :--- | :--- | :--- | :--- |
-| **Ring Battery Doorbell Pro** | Cloud Only | ~$60–$120 | $400–$550 | Cloud-processed |
+| **Ring [Battery Doorbell](https://quvii.com/blog/reolink-battery-doorbell-wake-capture-fix-20260816) Pro** | Cloud Only | ~$60–$120 | $400–$550 | Cloud-processed |
 | **Nest Doorbell (Gen 2)** | Cloud Only | ~$80–$150 | $420–$630 | Cloud-processed |
 | **Eufy [Video Doorbell](https://quvii.com/learn/renter-friendly-wireless-video-doorbell-options-20260613) E340** | Local ([HomeBase 3](https://quvii.com/learn/eufycam-s330-homebase-3-firmware-sync-error)) | $0 | ~$180–$250 | On-device Edge AI |
 | **[Reolink PoE](https://quvii.com/blog/reolink-poe-firmware-june-2026-issues) Doorbell** | Local (NVR/SD) | $0 | ~$100–$350* | On-device Edge AI |
