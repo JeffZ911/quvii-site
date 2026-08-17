@@ -94,7 +94,7 @@ The ingenuity of renter-friendly doorbells lies in their diverse, non-invasive m
 
 Modern renter-friendly doorbells employ sophisticated [motion detection](https://quvii.com/learn/ring-camera-motion-detection-not-streaming-fix-june-2026) to minimize [false alerts](https://quvii.com/learn/reolink-camera-motion-detection-false-alerts-fix). Passive Infrared (PIR) sensors detect heat signatures from moving objects, while AI-powered human and package detection can differentiate between people, animals, vehicles, and inanimate objects, further refining alerts and reducing unnecessary notifications. Most devices offer 2K (or "Super HD") resolution, providing clear video, often with wide viewing angles (e.g., 170° for some models) to capture a broad area around your entryway, coupled with clear two-way audio for effective communication.
 
-| Feature                 | Eufy Video Doorbell E340 (Battery) | Reolink Battery Doorbell (Wi-Fi) | Aqara Video Doorbell G4 (Peephole) |
+| Feature                 | Eufy Video Doorbell E340 (Battery) | [Reolink Battery Doorbell](https://quvii.com/blog/reolink-battery-doorbell-wake-capture-fix-20260816) (Wi-Fi) | Aqara Video Doorbell G4 (Peephole) |
 | :---------------------- | :------------------------------------------------ | :----------------------------------------------- | :--------------------------------------------- |
 | **Resolution**          | 2K Dual Camera                                    | 2K (2560x1920) Super HD                          | 1080p                                          |
 | **Viewing Angle**       | 160° (front), 100° (down)                         | 180° Diagonal                         | 162° Diagonal                                  |

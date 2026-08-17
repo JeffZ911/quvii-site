@@ -43,10 +43,10 @@ Missing a porch pirate's face because your camera only recorded their back as th
 In the world of battery-powered security, "[Wake Capture](https://quvii.com/blog/reolink-battery-doorbell-wake-capture-fix-20260816)" refers to the time elapsed between the moment a sensor detects motion and the moment the camera actually begins writing video data to the microSD card or cloud. For most standard battery cameras, this gap is the "blind spot" of wireless security.
 
 ### The Anatomy of a Missed Event
-When a camera suffers from wake capture latency, you experience the "Tail-End" recording phenomenon. This is characterized by a video clip that starts with a person already halfway across the frame or, in worse cases, just as they are exiting the field of view. You see the back of the hoodie, but never the face. This isn't necessarily a "bug" in the software; it is often the hardware functioning exactly as designed to preserve battery life.
+When a camera suffers from [wake capture](https://quvii.com/blog/reolink-battery-doorbell-wake-capture-fix-20260816) latency, you experience the "Tail-End" recording phenomenon. This is characterized by a video clip that starts with a person already halfway across the frame or, in worse cases, just as they are exiting the field of view. You see the back of the hoodie, but never the face. This isn't necessarily a "bug" in the software; it is often the hardware functioning exactly as designed to preserve battery life.
 
 ### Defining the 0.8-Second Standard
-Most modern Reolink battery cameras, like the Argus series, aim for a wake-up speed of approximately 0.8 to 1.2 seconds. While this sounds fast, a person walking at a brisk pace (approx. 4 feet per second) can move nearly five feet before the camera even begins to record. If your camera is mounted in a way that only captures a small area, that 0.8-second delay is the difference between a usable clip and a useless one.
+Most modern [Reolink battery](https://quvii.com/blog/reolink-battery-doorbell-wake-capture-fix-20260816) cameras, like the Argus series, aim for a wake-up speed of approximately 0.8 to 1.2 seconds. While this sounds fast, a person walking at a brisk pace (approx. 4 feet per second) can move nearly five feet before the camera even begins to record. If your camera is mounted in a way that only captures a small area, that 0.8-second delay is the difference between a usable clip and a useless one.
 
 | Feature | Standard Battery PIR (e.g., Argus 3 Pro) | Pre-Record Battery (e.g., Altas PT Ultra) |
 | :--- | :--- | :--- |

@@ -140,7 +140,7 @@ When choosing a doorbell, the sticker price is only the beginning. Over three ye
 **3-Year Cost Comparison (Estimated)**
 *   **Ring Battery Pro:** $250 (Hardware) + $180 (Ring Protect Basic for 3 years) + $60 (Solar Panel to fix drain) = **$490**
 *   **Tapo D225:** $100 (Hardware) + $40 (High-end SD Card) = **$140**
-*   **Reolink Battery Doorbell:** $150 (Hardware) + $0 (Local Storage) = **$150**
+*   **[Reolink Battery Doorbell](https://quvii.com/blog/reolink-battery-doorbell-wake-capture-fix-20260816):** $150 (Hardware) + $0 (Local Storage) = **$150**
 
 ## Frequently Asked Questions
 

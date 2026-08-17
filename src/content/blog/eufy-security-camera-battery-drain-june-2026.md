@@ -103,7 +103,7 @@ When evaluating Eufy against competitors, the lack of a subscription is the main
 *   **Total 3-Year Cost:** ~$500 + time.
 
 *Compare to:*
-*   **Ring Battery Doorbell Pro:** Around $230 + $180 (3 years of Ring Protect Basic). **Total: ~$410.**
+*   **Ring [Battery Doorbell](https://quvii.com/blog/reolink-battery-doorbell-wake-capture-fix-20260816) Pro:** Around $230 + $180 (3 years of Ring Protect Basic). **Total: ~$410.**
 *   **Nest Cam (Battery):** Around $180 + $240 (3 years of Nest Aware). **Total: ~$420.**
 
 While Eufy is more expensive upfront, it remains cheaper over three years, provided the hardware survives the current battery stress.
