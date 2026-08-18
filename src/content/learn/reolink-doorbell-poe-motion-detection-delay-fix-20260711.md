@@ -56,7 +56,7 @@ The most common complaint from users is the "Ghosting" effect. This occurs when 
 | **Reolink PoE Doorbell** | Ethernet/PoE | < 0.8s | 1.5 - 3s | 6 Seconds |
 | **Ring Video Doorbell Pro 2** | Wi-Fi (Hardwired) | < 1.0s | 2 - 4s | 6 Seconds |
 | **Nest Doorbell (Wired, Gen 2)** | Wi-Fi (Hardwired) | < 1.2s | 2 - 5s | 3 Seconds |
-| **Reolink Battery Doorbell** | Wi-Fi/Battery | 1.5 - 2.5s | 4 - 7s | None |
+| **[Reolink Battery Doorbell](https://quvii.com/blog/reolink-battery-doorbell-wake-capture-fix-20260816)** | Wi-Fi/Battery | 1.5 - 2.5s | 4 - 7s | None |
 
 *Data synthesized from [Reolink Product Specs](https://reolink.com/product/reolink-video-doorbell-poe/#specifications) and independent testing benchmarks from RTINGS.*
 
