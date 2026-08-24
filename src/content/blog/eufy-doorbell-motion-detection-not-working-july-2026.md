@@ -120,7 +120,7 @@ If your Eufy doorbell is currently failing to detect motion, do not assume the h
 5.  **Request a Manual Firmware Push:** If your doorbell is still "blind" to humans, contact Eufy Support via the app's "Help" section. Provide your device Serial Number (SN) and specifically mention "[Motion detection](https://quvii.com/blog/arlo-motion-detection-issues-july-2026) failure on HomeBase 3." Support agents have the ability to "push" specific firmware versions to individual devices that are not yet in the general rollout pool.
 
 ### How to Request a Manual Firmware Push
-When contacting support, be technical and concise. State: "My E340 is running v3.2.3.0 and is failing to trigger Human Detection events while connected to HomeBase 3. I have already attempted a PIR toggle and storage format. Please push the latest stable firmware to SN: [Your SN Here]." This typically bypasses the first level of generic troubleshooting scripts.
+When contacting support, be technical and concise. State: "My E340 is running v3.2.3.0 and is failing to trigger Human [Detection events](https://quvii.com/blog/eufy-p2p-motion-detection-failing-fix) while connected to HomeBase 3. I have already attempted a PIR toggle and storage format. Please push the latest stable firmware to SN: [Your SN Here]." This typically bypasses the first level of generic troubleshooting scripts.
 
 ## Frequently Asked Questions
 

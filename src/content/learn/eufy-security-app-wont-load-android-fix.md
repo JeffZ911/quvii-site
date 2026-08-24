@@ -51,7 +51,7 @@ The "Login Loop" is a different failure mode. Here, the app loads the interface 
 
 | Error Code | Meaning | Primary Cause |
 | :--- | :--- | :--- |
-| -2 | Request Timeout | Phone cannot reach Eufy P2P servers |
+| -2 | Request Timeout | Phone cannot reach [Eufy P2P](https://quvii.com/blog/eufy-p2p-motion-detection-failing-fix) servers |
 | 503 | Service Unavailable | Eufy server-side maintenance or overload |
 | 502 | Bad Gateway | Local network blocking the app's outbound traffic |
 | 20022 | Decryption Failure | Local cache corruption or biometric mismatch |
