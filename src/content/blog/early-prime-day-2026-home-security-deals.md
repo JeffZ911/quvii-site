@@ -50,7 +50,7 @@ TP-Link Tapo has also entered the premium space this year. Previously known for 
 | **Eufy eufyCam S330 (2-Kit)** | $450–500 | $300–330 | 4K (Ultra HD) | Local (HomeBase 3) | BionicMind (Face/Pet/Vehicle) |
 | **Reolink Altas PT Ultra** | $200–230 | $140–160 | 4K (8MP) | microSD / NVR | Continuous Recording (Battery) |
 | **Tapo C425 (Wire-Free)** | $120–150 | $80–100 | 2K QHD | microSD / Hub | Person/Pet/Vehicle |
-| **Ring Spotlight Cam Pro** | $200–230 | $130–150 | 1080p/1536p | Cloud (Subscription) | 3D Motion Detection |
+| **Ring Spotlight Cam Pro** | $200–230 | $130–150 | 1080p/1536p | Cloud (Subscription) | 3D [Motion Detection](https://quvii.com/blog/eufy-p2p-motion-detection-failing-fix) |
 
 ### The Shift Toward Local Storage in 2026
 The 2026 shopping season highlights a fundamental change in consumer sentiment. According to recent community consensus on [r/HomeSecurity](https://www.reddit.com/r/homesecurity/), users are increasingly wary of "feature paywalls" where basic functions like person detection or activity zones are locked behind a monthly fee. Brands like Reolink and Eufy have capitalized on this by moving all AI computation to the camera or a local hub.

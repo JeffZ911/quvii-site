@@ -36,7 +36,7 @@ Arlo doorbell users, particularly in early to mid-2026, have reported ongoing is
 *Related: [Frigate NVR Detection Crashing After GPU Upgrade: 2026 Fixes](/blog/frigate-nvr-detection-crashing-gpu-upgrade-2026) · [Arlo Motion Detection Issues (July 2026): Firmware Bugs & Delays](/blog/arlo-motion-detection-issues-july-2026) · [Ring Camera Motion Alerts Not Working: July 2026 Outage & Fixes](/blog/ring-camera-motion-alerts-not-working-july-2026)*
 
 
-From March to May 2026, numerous reports emerged across Arlo community forums and independent review platforms detailing significant problems with Arlo doorbells' core functionality: reliable motion detection and event recording. Users have described scenarios where crucial events, such as a person approaching their door or a package being delivered, were either not detected at all, or recordings were absent from their library. In other instances, recordings were partial, random, or notifications were significantly delayed, undermining the doorbell's security purpose.
+From March to May 2026, numerous reports emerged across Arlo community forums and independent review platforms detailing significant problems with Arlo doorbells' core functionality: reliable [motion detection](https://quvii.com/blog/eufy-p2p-motion-detection-failing-fix) and event recording. Users have described scenarios where crucial events, such as a person approaching their door or a package being delivered, were either not detected at all, or recordings were absent from their library. In other instances, recordings were partial, random, or notifications were significantly delayed, undermining the doorbell's security purpose.
 
 ### Recent Firmware Impact
 
