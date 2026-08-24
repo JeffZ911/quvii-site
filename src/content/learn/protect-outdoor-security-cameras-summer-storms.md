@@ -91,7 +91,7 @@ Without these components, a lightning strike near your home can send a surge bac
 ### Pressure Equalization Vents and Gaskets
 High-end outdoor cameras often feature "breather" vents. These are made of hydrophobic membranes (similar to Gore-Tex) that allow air molecules to pass through—equalizing internal and external pressure—while blocking liquid water molecules. This prevents the "vacuum effect" that often sucks moisture through O-rings during rapid temperature shifts.
 
-Furthermore, 2026 lens materials increasingly feature hydrophobic coatings. These coatings reduce the surface tension of water, causing droplets to bead and roll off instantly rather than blurring the view. This is critical for AI-driven cameras, as "water masking" on the lens can cause the software to miss human detection events during heavy rain.
+Furthermore, 2026 lens materials increasingly feature hydrophobic coatings. These coatings reduce the surface tension of water, causing droplets to bead and roll off instantly rather than blurring the view. This is critical for AI-driven cameras, as "water masking" on the lens can cause the software to miss human [detection events](https://quvii.com/blog/eufy-p2p-motion-detection-failing-fix) during heavy rain.
 
 ## Real-world implications
 

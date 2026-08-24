@@ -26,7 +26,7 @@ The reliability of your home [security system](https://quvii.com/blog/arlo-motio
 
 # Arlo Doorbell Motion Detection and Recording Issues: July 2026 Update
 
-Arlo doorbell users, particularly in early to mid-2026, have reported ongoing issues with motion detection and recording, including missed events, delayed notifications, and inconsistent performance. These problems are often linked to recent firmware updates, subscription status, and incorrect app settings.
+Arlo doorbell users, particularly in early to mid-2026, have reported ongoing issues with [motion detection](https://quvii.com/blog/eufy-p2p-motion-detection-failing-fix) and recording, including missed events, delayed notifications, and inconsistent performance. These problems are often linked to recent firmware updates, subscription status, and incorrect app settings.
 
 ## What happened
 

@@ -147,7 +147,7 @@ No. Resolution is a hardware limitation of the camera's sensor and processor. Wh
 No. One of the primary benefits of HomeKit Secure Video is that the recorded footage does **not** count against your iCloud storage limit (e.g., your 2TB of space for photos and files). You are paying for the *tier* to unlock the feature, but the video data itself is stored in a separate, "unlimited" bucket for 10 days.
 
 ### Can I use these features without an internet connection?
-Partial functionality is available locally. Basic motion detection and some AI processing can occur on your Home Hub without an internet connection. However, **Activity Summaries** and **Natural Language Search** require Private Cloud Compute, and 4K video requires an active connection to upload footage to iCloud for storage.
+Partial functionality is available locally. Basic [motion detection](https://quvii.com/blog/eufy-p2p-motion-detection-failing-fix) and some AI processing can occur on your Home Hub without an internet connection. However, **Activity Summaries** and **Natural Language Search** require Private Cloud Compute, and 4K video requires an active connection to upload footage to iCloud for storage.
 
 ## Sources
 - Apple — https://www.apple.com/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/
