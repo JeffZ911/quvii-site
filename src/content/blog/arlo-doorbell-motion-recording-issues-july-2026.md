@@ -55,7 +55,7 @@ The Arlo Secure subscription plays a critical role in the full functionality of 
 ![Why it matters for buyers](/img/arlo-doorbell-motion-recording-issues-july-2026/inline-2.webp)
 
 
-The current reports of motion detection and recording issues with Arlo doorbells are highly significant for prospective buyers, as they touch upon the fundamental expectations of a security device.
+The current reports of [motion detection](https://quvii.com/blog/eufy-p2p-motion-detection-failing-fix) and recording issues with Arlo doorbells are highly significant for prospective buyers, as they touch upon the fundamental expectations of a security device.
 
 ### Security Implications
 
