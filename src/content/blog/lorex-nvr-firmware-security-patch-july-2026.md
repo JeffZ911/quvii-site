@@ -116,7 +116,7 @@ If your version number is lower than 3.100 or your build date is prior to July 2
 
 Community reports on [r/HomeSecurity](https://www.reddit.com/r/homesecurity/) indicate that the "Auto-Update" feature in the Lorex Home app and the NVR interface is not 100% reliable for this specific rollout. Some users have reported that the NVR claims to be "Up to Date" while still sitting on version 2.xxx. This discrepancy often occurs when the update server is throttled or if the NVR has a DNS misconfiguration.
 
-Furthermore, some users have noted "event handling" bugs in the July update, where motion detection zones are reset to default after the patch is applied. It is highly recommended to take photos of your current configuration settings before proceeding with the update.
+Furthermore, some users have noted "event handling" bugs in the July update, where [motion detection](https://quvii.com/blog/eufy-p2p-motion-detection-failing-fix) zones are reset to default after the patch is applied. It is highly recommended to take photos of your current configuration settings before proceeding with the update.
 
 ## What to do now
 

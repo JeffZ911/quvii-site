@@ -101,7 +101,7 @@ For both existing Arlo doorbell owners and prospective buyers, understanding the
 
 ### Immediate Steps for Owners
 
-If you are an existing Arlo doorbell owner experiencing motion detection or recording problems, consider these immediate troubleshooting steps:
+If you are an existing Arlo doorbell owner experiencing [motion detection](https://quvii.com/blog/eufy-p2p-motion-detection-failing-fix) or recording problems, consider these immediate troubleshooting steps:
 
 *   **Verify Subscription Status:** Confirm that your Arlo Secure subscription is active and that your doorbell is correctly assigned to the plan. Lapsed subscriptions or incorrect assignments are common reasons for disabled cloud recording and advanced features.
 *   **Update Firmware and App:** Ensure both your Arlo doorbell's firmware and the Arlo Secure app are updated to their latest versions. After any firmware update, rebooting the doorbell (via the app or by temporarily removing its battery if applicable) is often recommended.
