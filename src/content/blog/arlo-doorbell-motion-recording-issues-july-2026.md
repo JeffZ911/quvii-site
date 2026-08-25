@@ -59,7 +59,7 @@ The current reports of [motion detection](https://quvii.com/blog/eufy-p2p-motion
 
 ### Security Implications
 
-The primary function of a security doorbell is to reliably detect and record activity at your entryway, providing both real-time alerts and recorded evidence. Inconsistencies in motion detection and recording directly undermine this core purpose, potentially leaving critical events unmonitored or unrecorded. For buyers seeking to enhance their home security, an unreliable doorbell can create a false sense of security, failing to deliver on its most essential promise.
+The primary function of a security doorbell is to reliably detect and record activity at your entryway, providing both real-time alerts and recorded evidence. Inconsistencies in [motion detection](https://quvii.com/blog/eufy-p2p-motion-detection-failing-fix) and recording directly undermine this core purpose, potentially leaving critical events unmonitored or unrecorded. For buyers seeking to enhance their home security, an unreliable doorbell can create a false sense of security, failing to deliver on its most essential promise.
 
 ### Hidden Costs of Ownership
 
