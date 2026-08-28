@@ -158,7 +158,7 @@ Don't just check if the app opens; test the notification pipeline.
 3.  **Latency Check:** Have a friend press the button while you are on cellular data (not your home Wi-Fi). If it takes longer than 5 seconds to receive the alert, you have a "Double NAT" issue or a routing bottleneck.
 
 ### Value vs. Alternatives
-The Ring ecosystem is highly polished but comes with a "feature paywall." As of 2026, nearly all essential features—including cloud storage and even some basic person-detection alerts—require a <a href="https://www.amazon.com/s?k=Ring+Protect+subscription&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Ring Protect subscription</a>, which typically costs around $50/year per device or $100/year for the household.
+The Ring ecosystem is highly polished but comes with a "feature paywall." As of 2026, nearly all essential features—including cloud storage and even some basic person-[detection alerts](https://quvii.com/blog/arlo-doorbell-missing-motion-detection-alerts)—require a <a href="https://www.amazon.com/s?k=Ring+Protect+subscription&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Ring Protect subscription</a>, which typically costs around $50/year per device or $100/year for the household.
 
 **Total Cost of Ownership (3-Year Estimate):**
 *   **Ring Battery Doorbell Pro:** ~$230 (Hardware) + $150 (3 years of Basic Plan) = **$380 Total**.

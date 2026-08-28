@@ -30,7 +30,7 @@ The reliability of a security system hinges on its ability to record when it mat
 
 # Eufy P2P Cameras Motion Detection Events Failing? How to Fix Missing Recordings
 
-Eufy motion detection failures are usually caused by strict AI 'Human Only' filters, PIR sensor positioning, or P2P handshake timeouts. Resetting the HomeBase and switching to 'All Motion' mode often restores reliable recording.
+Eufy [motion detection](https://quvii.com/blog/arlo-doorbell-missing-motion-detection-alerts) failures are usually caused by strict AI 'Human Only' filters, PIR sensor positioning, or P2P handshake timeouts. Resetting the HomeBase and switching to 'All Motion' mode often restores reliable recording.
 
 ## The symptom
 

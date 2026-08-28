@@ -22,7 +22,7 @@ inline_image_sections:
   - "What to do now"
 ---
 
-The reliability of your home [security system](https://quvii.com/blog/arlo-motion-detection-issues-july-2026) hinges on consistent performance, and when a critical component like a [video doorbell](https://quvii.com/blog/tuya-wifi-video-doorbell-setup-integration-guide-2026) falters, it can leave homeowners feeling vulnerable. In early to mid-2026, Arlo doorbell users have increasingly reported significant issues with [motion detection](https://quvii.com/blog/eufy-p2p-motion-detection-failing-fix) and recording, raising concerns about the effectiveness of these devices.
+The reliability of your home [security system](https://quvii.com/blog/arlo-motion-detection-issues-july-2026) hinges on consistent performance, and when a critical component like a [video doorbell](https://quvii.com/blog/tuya-wifi-video-doorbell-setup-integration-guide-2026) falters, it can leave homeowners feeling vulnerable. In early to mid-2026, [Arlo doorbell](https://quvii.com/blog/arlo-doorbell-missing-motion-detection-alerts) users have increasingly reported significant issues with [motion detection](https://quvii.com/blog/eufy-p2p-motion-detection-failing-fix) and recording, raising concerns about the effectiveness of these devices.
 
 # Arlo Doorbell Motion Detection and Recording Issues: July 2026 Update
 
@@ -130,7 +130,7 @@ For ongoing reliability, ensure your Wi-Fi network is robust and capable of supp
 | **Power Type**          | Battery or Wired (via existing doorbell wiring) | Wired (existing doorbell wiring)    | Wired (existing doorbell wiring) |
 | **[Local Storage](https://quvii.com/learn/best-4k-security-cameras-local-storage)**       | Requires Arlo SmartHub or Base Station  | Requires Arlo SmartHub or Base Station | Requires Arlo SmartHub or Base Station |
 | **Subscription Cost/Yr (Arlo Secure Single Camera)** | Around $50-60/year                      | Around $50-60/year                  | Around $50-60/year            |
-| **Motion Detection**    | Advanced PIR & Video Analysis           | Advanced PIR & Video Analysis       | Advanced PIR & Video Analysis  |
+| **[Motion Detection](https://quvii.com/blog/arlo-doorbell-missing-motion-detection-alerts)**    | Advanced PIR & Video Analysis           | Advanced PIR & Video Analysis       | Advanced PIR & Video Analysis  |
 | **Smart AI Features**   | Person, Package, Vehicle, Animal Detection (with Arlo Secure) | Person, Package, Vehicle, Animal Detection (with Arlo Secure) | Person, Package, Vehicle, Animal Detection (with Arlo Secure) |
 
 ### Decision Framework: Choosing an Arlo Doorbell
