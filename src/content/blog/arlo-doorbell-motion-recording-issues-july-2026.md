@@ -26,7 +26,7 @@ The reliability of your home [security system](https://quvii.com/blog/arlo-motio
 
 # Arlo Doorbell Motion Detection and Recording Issues: July 2026 Update
 
-Arlo doorbell users, particularly in early to mid-2026, have reported ongoing issues with [motion detection](https://quvii.com/blog/eufy-p2p-motion-detection-failing-fix) and recording, including missed events, delayed notifications, and inconsistent performance. These problems are often linked to recent firmware updates, subscription status, and incorrect app settings.
+[Arlo doorbell](https://quvii.com/blog/arlo-doorbell-missing-motion-detection-alerts) users, particularly in early to mid-2026, have reported ongoing issues with [motion detection](https://quvii.com/blog/eufy-p2p-motion-detection-failing-fix) and recording, including missed events, delayed notifications, and inconsistent performance. These problems are often linked to recent firmware updates, subscription status, and incorrect app settings.
 
 ## What happened
 
@@ -168,7 +168,7 @@ Yes, you can typically view live video from your Arlo doorbell at any time throu
 If your Arlo Secure subscription lapses, you will lose access to cloud recordings, smart notifications, and advanced AI detection features. Any existing cloud recordings may be deleted after a grace period, and new recordings will not be saved to the cloud.
 
 ### How do I improve motion detection accuracy on my Arlo doorbell?
-To improve motion detection accuracy, ensure your activity zones are precisely drawn to cover only areas of interest, adjust the motion sensitivity settings in the Arlo app, and ensure your doorbell has a strong, stable Wi-Fi connection. Reducing sources of false triggers (e.g., moving foliage) within the detection area can also help.
+To improve [motion detection](https://quvii.com/blog/arlo-doorbell-missing-motion-detection-alerts) accuracy, ensure your activity zones are precisely drawn to cover only areas of interest, adjust the motion sensitivity settings in the Arlo app, and ensure your doorbell has a strong, stable Wi-Fi connection. Reducing sources of false triggers (e.g., moving foliage) within the detection area can also help.
 
 ### Are older Arlo doorbell models still supported with firmware updates?
 Arlo generally provides firmware updates for its devices, but as seen in recent reports, some updates may introduce compatibility issues or even render older devices "unsupported" by new features or app versions. It is advisable to check Arlo's official support pages for specific product lifecycle information.
