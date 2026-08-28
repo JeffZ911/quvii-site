@@ -40,7 +40,7 @@ Integrating a Ring-MQTT bridge with Reolink hardware offers a powerful way to un
 *Related: [Fix Eufy E340 (T8214) Livestream Unknown Error: 2026 Guide](/blog/eufy-e340-t8214-livestream-unknown-error-fix) · [Wyze App 3.18.0.918 Update Issues: Fix Offline & Notification Bugs](/blog/wyze-app-3-18-0-918-update-issues-fix) · [Tapo C200 Firmware Update Boot Loop: Fixes & Recovery Guide](/blog/tapo-c200-firmware-update-boot-loop-fix)*
 
 
-In a high-functioning smart home, a Reolink camera’s AI person detection should trigger a Ring Chime or a Home Assistant automation instantly. However, users often find that while the video stream works, the "binary_sensor" entities for motion detection fail to respond.
+In a high-functioning smart home, a Reolink camera’s AI person detection should trigger a Ring Chime or a Home Assistant automation instantly. However, users often find that while the video stream works, the "binary_sensor" entities for [motion detection](https://quvii.com/blog/arlo-doorbell-missing-motion-detection-alerts) fail to respond.
 
 The most common symptoms reported by the community in 2026 include:
 

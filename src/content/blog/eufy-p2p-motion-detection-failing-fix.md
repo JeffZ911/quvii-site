@@ -73,7 +73,7 @@ In the first half of 2026, a specific technical hurdle emerged regarding the Hom
 ![Quick fixes (in order of likelihood)](/img/eufy-p2p-motion-detection-failing-fix/inline-3.webp)
 
 
-Before dismantling your mounting brackets, these software-level adjustments solve approximately 70% of reported motion detection failures.
+Before dismantling your mounting brackets, these software-level adjustments solve approximately 70% of reported [motion detection](https://quvii.com/blog/arlo-doorbell-missing-motion-detection-alerts) failures.
 
 ### Testing with 'All Motion' Mode
 The most common culprit is the BionicMind AI being "too smart" for its own good. If you have your camera set to "Human Only," the system will discard any motion that doesn't clearly match a human silhouette or a recognized face. To diagnose if your sensor is failing or if the AI is simply filtering too aggressively, switch the camera to **"All Motion"** mode.

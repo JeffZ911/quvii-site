@@ -63,7 +63,7 @@ The primary function of a security doorbell is to reliably detect and record act
 
 ### Hidden Costs of Ownership
 
-Prospective buyers need to understand that the full suite of Arlo doorbell functionalities, including cloud storage for recordings and intelligent alerts (such as person, vehicle, or package detection), is typically gated behind an Arlo Secure subscription. While the initial hardware purchase might seem appealing, these ongoing subscription costs represent a significant long-term investment. Without an active subscription, many advanced features and the ability to review past events in the cloud are unavailable, limiting the device's utility.
+Prospective buyers need to understand that the full suite of [Arlo doorbell](https://quvii.com/blog/arlo-doorbell-missing-motion-detection-alerts) functionalities, including cloud storage for recordings and intelligent alerts (such as person, vehicle, or package detection), is typically gated behind an Arlo Secure subscription. While the initial hardware purchase might seem appealing, these ongoing subscription costs represent a significant long-term investment. Without an active subscription, many advanced features and the ability to review past events in the cloud are unavailable, limiting the device's utility.
 
 ### Long-Term Reliability Concerns
 
