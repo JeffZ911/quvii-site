@@ -74,7 +74,7 @@ Reports of unreliable performance, coupled with challenges in customer support a
 ![Impact on existing owners](/img/arlo-doorbell-motion-recording-issues-july-2026/inline-3.webp)
 
 
-Existing Arlo doorbell owners experiencing these issues face a direct impact on their home security and the value derived from their investment.
+Existing [Arlo doorbell](https://quvii.com/blog/arlo-doorbell-missing-motion-detection-alerts) owners experiencing these issues face a direct impact on their home security and the value derived from their investment.
 
 ### Loss of Functionality
 

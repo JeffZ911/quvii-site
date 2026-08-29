@@ -78,7 +78,7 @@ Before dismantling your mounting brackets, these software-level adjustments solv
 ### Testing with 'All Motion' Mode
 The most common culprit is the BionicMind AI being "too smart" for its own good. If you have your camera set to "Human Only," the system will discard any motion that doesn't clearly match a human silhouette or a recognized face. To diagnose if your sensor is failing or if the AI is simply filtering too aggressively, switch the camera to **"All Motion"** mode.
 1. Open the Eufy Security App.
-2. Go to **Settings > Motion Detection**.
+2. Go to **Settings > [Motion Detection](https://quvii.com/blog/arlo-doorbell-missing-motion-detection-alerts)**.
 3. Change **Detection Type** to "All Motion."
 4. Set **Sensitivity** to Level 7 (Maximum).
 If the camera begins recording every passing car or swaying branch, your PIR sensor is fine, and the issue lies in the AI's ability to identify humans at that specific distance or angle.

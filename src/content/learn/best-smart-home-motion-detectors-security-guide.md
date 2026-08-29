@@ -27,7 +27,7 @@ inline_image_sections:
   - "Further reading"
 ---
 
-Effective motion detection in 2026 has transitioned from simple "on/off" triggers to sophisticated spatial awareness, utilizing radar and edge-based artificial intelligence to eliminate the nuisance of false alarms.
+Effective [motion detection](https://quvii.com/blog/arlo-doorbell-missing-motion-detection-alerts) in 2026 has transitioned from simple "on/off" triggers to sophisticated spatial awareness, utilizing radar and edge-based artificial intelligence to eliminate the nuisance of false alarms.
 
 # The Best Smart Home Motion Detectors for Security: Technology and Selection Guide
 
