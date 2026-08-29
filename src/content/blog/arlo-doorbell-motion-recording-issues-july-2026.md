@@ -86,7 +86,7 @@ Addressing these issues often requires a multi-step troubleshooting process. Own
 
 ### Firmware Update Risks
 
-While firmware updates are essential for security patches and new features, they have unfortunately been a source of new problems for some Arlo doorbell owners. Reports indicate that certain updates have caused devices to become unresponsive, experience reduced functionality, or even be rendered "unsupported," necessitating extensive troubleshooting or even replacement. This creates a dilemma for owners: update for potential improvements and security, or risk new bugs.
+While firmware updates are essential for security patches and new features, they have unfortunately been a source of new problems for some [Arlo doorbell](https://quvii.com/blog/arlo-doorbell-missing-motion-detection-alerts) owners. Reports indicate that certain updates have caused devices to become unresponsive, experience reduced functionality, or even be rendered "unsupported," necessitating extensive troubleshooting or even replacement. This creates a dilemma for owners: update for potential improvements and security, or risk new bugs.
 
 ### Subscription Dependency
 

@@ -159,7 +159,7 @@ Battery-powered cameras remain in a low-power "sleep" state until the PIR sensor
 Yes, the -13 error is often a network timeout. You can often resolve it by assigning a "Static IP" to your HomeBase 3 in your router's settings and ensuring the HomeBase is connected via Ethernet rather than Wi-Fi. This reduces the latency during the P2P handshake.
 
 ## Sources
-- Eufy Support: Troubleshooting Motion Detection
+- Eufy Support: Troubleshooting [Motion Detection](https://quvii.com/blog/arlo-doorbell-missing-motion-detection-alerts)
 - GitHub: eufy_security Issue Tracker — https://github.com/fuatakgun/eufy_security/issues
 - Eufy Privacy & Trust Center
 - Reolink Product Specs: Altas PT Ultra — https://reolink.com/product/altas-pt-ultra/
