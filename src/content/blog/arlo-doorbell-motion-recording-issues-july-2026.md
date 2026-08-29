@@ -90,7 +90,7 @@ While firmware updates are essential for security patches and new features, they
 
 ### Subscription Dependency
 
-A critical aspect for existing owners is the heavy reliance on an active Arlo Secure subscription. On many Arlo doorbell models, [local storage](https://quvii.com/learn/best-4k-security-cameras-local-storage) options are limited or nonexistent, meaning that without an active subscription, recordings are not saved to the cloud, and advanced AI features are disabled. This leaves a significant gap in security coverage, transforming the doorbell into little more than a smart intercom without the ability to capture and review critical events.
+A critical aspect for existing owners is the heavy reliance on an active Arlo Secure subscription. On many [Arlo doorbell](https://quvii.com/blog/arlo-doorbell-missing-motion-detection-alerts) models, [local storage](https://quvii.com/learn/best-4k-security-cameras-local-storage) options are limited or nonexistent, meaning that without an active subscription, recordings are not saved to the cloud, and advanced AI features are disabled. This leaves a significant gap in security coverage, transforming the doorbell into little more than a smart intercom without the ability to capture and review critical events.
 
 ## What to do now
 

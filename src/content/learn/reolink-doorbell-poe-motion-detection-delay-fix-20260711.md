@@ -27,7 +27,7 @@ inline_image_sections:
   - "Further reading"
 ---
 
-A doorbell camera that only records the back of a visitor’s head is a security liability. For Reolink PoE Doorbell owners, eliminating this motion detection lag is the difference between capturing a face and seeing an empty porch.
+A doorbell camera that only records the back of a visitor’s head is a security liability. For Reolink PoE Doorbell owners, eliminating this [motion detection](https://quvii.com/blog/arlo-doorbell-missing-motion-detection-alerts) lag is the difference between capturing a face and seeing an empty porch.
 
 # How to Fix Reolink PoE Doorbell Motion Detection Delay
 

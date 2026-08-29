@@ -114,7 +114,7 @@ Cameras from brands like <a href="https://www.amazon.com/s?k=Reolink&tag=jeffzen
 The "sticker price" of a motion detector is rarely the total cost of ownership. In 2026, the industry has shifted heavily toward feature-locking, where the hardware you buy only performs at 50% capacity unless you pay a monthly fee.
 
 ### The Subscription Trap
-Brands like Ring, Arlo, and Nest often lock "Advanced Motion Detection" (such as person vs. animal filtering) behind a subscription. If you stop paying, your "smart" sensor reverts to a "dumb" PIR sensor that pings you every time a moth flies past.
+Brands like Ring, Arlo, and Nest often lock "Advanced [Motion Detection](https://quvii.com/blog/arlo-doorbell-missing-motion-detection-alerts)" (such as person vs. animal filtering) behind a subscription. If you stop paying, your "smart" sensor reverts to a "dumb" PIR sensor that pings you every time a moth flies past.
 
 **3-Year Total Cost of Ownership (TCO) Comparison:**
 
