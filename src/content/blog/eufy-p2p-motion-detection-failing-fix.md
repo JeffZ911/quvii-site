@@ -142,7 +142,7 @@ If you are using Eufy Indoor Cams or SoloCams that rely on microSD cards rather 
 PIR sensors detect the movement of heat across their field of view. To maximize detection:
 1.  **Angle Matters:** Install cameras so that people walk *across* the field of view rather than directly toward the lens. PIR sensors are much more sensitive to lateral movement.
 2.  **Height:** The sweet spot is **7 to 10 feet**. Mounting a camera too high (e.g., on a second-story soffit) increases the distance the heat signature must travel, often falling outside the PIR's effective 25-foot range.
-3.  **Avoid Glass:** Never point a PIR camera through a window. The glass blocks the infrared heat signatures entirely, making motion detection impossible even if the "Live View" looks clear.
+3.  **Avoid Glass:** Never point a PIR camera through a window. The glass blocks the infrared heat signatures entirely, making [motion detection](https://quvii.com/blog/arlo-doorbell-missing-motion-detection-alerts) impossible even if the "Live View" looks clear.
 
 ## Frequently Asked Questions
 

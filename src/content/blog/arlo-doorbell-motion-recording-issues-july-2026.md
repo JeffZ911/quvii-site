@@ -78,7 +78,7 @@ Existing [Arlo doorbell](https://quvii.com/blog/arlo-doorbell-missing-motion-det
 
 ### Loss of Functionality
 
-Many existing Arlo doorbell owners have reported a sudden and unexpected loss of critical [security features](https://quvii.com/blog/apple-intelligence-home-app-security-features-20260711). Devices that previously functioned reliably may now fail to record, send timely notifications, or even appear offline, despite seeming to be physically operational. This can lead to a significant gap in security coverage, as events at the doorstep may go unnoticed and unrecorded.
+Many existing [Arlo doorbell](https://quvii.com/blog/arlo-doorbell-missing-motion-detection-alerts) owners have reported a sudden and unexpected loss of critical [security features](https://quvii.com/blog/apple-intelligence-home-app-security-features-20260711). Devices that previously functioned reliably may now fail to record, send timely notifications, or even appear offline, despite seeming to be physically operational. This can lead to a significant gap in security coverage, as events at the doorstep may go unnoticed and unrecorded.
 
 ### Troubleshooting Burden
 
