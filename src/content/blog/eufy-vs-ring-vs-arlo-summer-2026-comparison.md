@@ -23,7 +23,7 @@ inline_image_sections:
   - "What to do now"
 ---
 
-The landscape of home security has shifted significantly over the last two years, moving away from simple motion alerts toward sophisticated AI-driven ecosystems. As we enter the summer of 2026, the "big three"—Eufy, Ring, and Arlo—have reached a point of total divergence in their business models, forcing consumers to choose between local autonomy and cloud-integrated convenience.
+The landscape of home security has shifted significantly over the last two years, moving away from simple [motion alerts](https://quvii.com/blog/eufy-p2p-motion-alerts-broken-fix) toward sophisticated AI-driven ecosystems. As we enter the summer of 2026, the "big three"—Eufy, Ring, and Arlo—have reached a point of total divergence in their business models, forcing consumers to choose between local autonomy and cloud-integrated convenience.
 
 # Eufy vs. Ring vs. Arlo: Which Ecosystem Wins in Summer 2026?
 

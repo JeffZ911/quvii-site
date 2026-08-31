@@ -138,7 +138,7 @@ While Eufy remains significantly cheaper than Ring over a three-year period, the
 This happens because the Eufy app uses a direct, encrypted connection to Eufy’s servers, while the Home Assistant integration uses a community-made bridge. If Eufy changes their server-side API or authentication tokens, the bridge can no longer "see" the devices, even though the official app remains functional.
 
 ### Do I need a subscription to get motion alerts in Home Assistant?
-No, Eufy does not require a subscription for motion alerts. However, you must have "Push Notifications" enabled in the Eufy Security app's Security Mode settings. The Home Assistant integration "intercepts" these notifications to trigger automations.
+No, Eufy does not require a subscription for [motion alerts](https://quvii.com/blog/eufy-p2p-motion-alerts-broken-fix). However, you must have "Push Notifications" enabled in the Eufy Security app's Security Mode settings. The Home Assistant integration "intercepts" these notifications to trigger automations.
 
 ### Can Eufy cameras work with Home Assistant without the cloud?
 Most Eufy cameras cannot work entirely without the cloud for [motion detection](https://quvii.com/blog/eufy-p2p-motion-detection-failing-fix). While some models support RTSP for the video stream, the "trigger" that tells Home Assistant to look at that stream almost always comes through Eufy’s cloud servers. For a truly 100% local experience, cameras with native ONVIF or Matter support are required.
