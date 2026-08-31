@@ -23,7 +23,7 @@ inline_image_sections:
   - "What to do now"
 ---
 
-A security camera that fails to notify you of an intruder is effectively a high-tech paperweight. In July 2026, a growing number of Ring users are reporting that their devices are doing exactly that—failing to send motion alerts despite showing as "Online" in the app.
+A security camera that fails to notify you of an intruder is effectively a high-tech paperweight. In July 2026, a growing number of Ring users are reporting that their devices are doing exactly that—failing to send [motion alerts](https://quvii.com/blog/eufy-p2p-motion-alerts-broken-fix) despite showing as "Online" in the app.
 
 # Ring Camera Motion Alerts Not Working: July 2026 Outage & Troubleshooting Guide
 
