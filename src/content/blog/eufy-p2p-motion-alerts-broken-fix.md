@@ -30,7 +30,7 @@ If you are currently receiving "Motion Detected" notifications but find yourself
 
 # How to Fix Eufy Security P2P Motion Alerts Broken August 2026 (Update)
 
-**Quick Answer:** Eufy P2P alert failures in August 2026 are primarily caused by HomeBase 3 firmware v4.2.3.5; the fastest fix is switching 'Working Mode' from Performance to Standard and clearing your smartphone's app cache.
+**Quick Answer:** [Eufy P2P](https://quvii.com/blog/eufy-doorbell-p2p-motion-events-failing-fix) alert failures in August 2026 are primarily caused by HomeBase 3 firmware v4.2.3.5; the fastest fix is switching 'Working Mode' from Performance to Standard and clearing your smartphone's app cache.
 
 ## The symptom
 

@@ -150,7 +150,7 @@ Quvii tracks these trade-offs across the category to help consumers navigate the
 ## Frequently Asked Questions
 
 ### Can I still use my Ring doorbell without any subscription in 2026?
-Yes, but its functionality is severely limited. You will receive real-time motion alerts and can access a "Live View" to see through the camera in real-time. However, you will not have any saved video history, and you cannot review events that happened even a few minutes ago.
+Yes, but its functionality is severely limited. You will receive real-time [motion alerts](https://quvii.com/blog/eufy-p2p-motion-alerts-broken-fix) and can access a "Live View" to see through the camera in real-time. However, you will not have any saved video history, and you cannot review events that happened even a few minutes ago.
 
 ### Does Reolink offer a battery-powered doorbell for renters?
 Yes, Reolink offers a battery-powered version of their video doorbell. While it lacks the 24/7 continuous recording capability of the wired version (to preserve battery life), it still supports local storage on a microSD card with no monthly fees for motion-based recording.
