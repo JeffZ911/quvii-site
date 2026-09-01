@@ -78,7 +78,7 @@ For those paying for <a href="https://www.amazon.com/s?k=Ring+Home+%28formerly+R
 
 If you are experiencing issues, follow this logic to determine if the fault is your network or the current systemic glitch:
 
-1.  **Check Live View:** If Live View works but motion alerts do not, the issue is likely software/firmware related or a "Motion Zone" configuration error.
+1.  **Check Live View:** If Live View works but [motion alerts](https://quvii.com/blog/eufy-p2p-motion-alerts-broken-fix) do not, the issue is likely software/firmware related or a "Motion Zone" configuration error.
 2.  **Check RSSI:** Navigate to **Device Health** in the Ring app. If the RSSI is higher than -65, your camera is struggling to maintain a connection. If it was fine last month and is bad now, it points to the recent firmware update.
 3.  **Check Event History:** If the event shows up in the timeline but never sent a notification, check your phone’s "Do Not Disturb" settings and the app’s "Motion Alerts" toggle.
 4.  **Check Other Devices:** If only one camera is failing, it may be a hardware or local Wi-Fi issue. If all cameras are failing simultaneously, it is a systemic Ring service issue.
