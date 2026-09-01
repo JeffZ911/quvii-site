@@ -224,7 +224,7 @@ Understanding the total cost over several years, not just the initial purchase p
 Yes, Arlo cameras can function without a subscription, especially if paired with an Arlo SmartHub that supports local storage via a USB drive. This allows for motion-triggered recordings to be saved locally, though advanced AI detection features and cloud storage typically require an Arlo Secure plan.
 
 ### Can Ring cameras record video without a Ring Protect plan?
-No, Ring cameras generally require a Ring Protect subscription to access and review any recorded video history. Without a plan, users can view live video feeds and receive motion alerts, but they cannot save, download, or review past events.
+No, Ring cameras generally require a Ring Protect subscription to access and review any recorded video history. Without a plan, users can view live video feeds and receive [motion alerts](https://quvii.com/blog/eufy-p2p-motion-alerts-broken-fix), but they cannot save, download, or review past events.
 
 ### What is the typical battery life for outdoor security cameras like Arlo and Ring?
 Battery life varies significantly based on usage, activity levels, and environmental factors. Arlo cameras like the Essential Outdoor 2K typically last 3-6 months, while Ring Stick Up Cams are often rated for 6-12 months, though real-world performance can be much shorter with frequent activity. Solar panels can extend these durations considerably.
