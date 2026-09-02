@@ -76,7 +76,7 @@ In 2024, the Eufy Security app was approximately 300MB. By 2026, the installatio
 Eufy uses Android System WebView to render several parts of the app, including the "Explore" tab, the "Shop" tab, and help documentation. If your WebView component is outdated or if a beta version of Chrome is installed, it can prevent the app's dashboard from rendering. This results in a white or black screen immediately after the splash screen.
 
 ### Cache Corruption and SQLCipher
-Eufy stores event thumbnails and device metadata in a local database encrypted via SQLCipher. If the app is force-closed during a write operation (such as during a firmware update or a rapid series of motion alerts), this database can become "malformed." Because the app cannot read its own encrypted data, it hangs indefinitely at the "Decrypting" stage.
+Eufy stores event thumbnails and device metadata in a local database encrypted via SQLCipher. If the app is force-closed during a write operation (such as during a firmware update or a rapid series of [motion alerts](https://quvii.com/blog/eufy-p2p-motion-alerts-broken-fix)), this database can become "malformed." Because the app cannot read its own encrypted data, it hangs indefinitely at the "Decrypting" stage.
 
 ### Server-Side Handshake Failures
 Eufy utilizes a Peer-to-Peer (P2P) connection method to stream video. When you open the app, your phone must perform a "handshake" with Eufy’s servers to locate your HomeBase 3 or individual Wi-Fi cameras. During peak hours—such as early evening when many users are checking their homes—the P2P lookup servers can experience latency, causing the app to hang while waiting for a response.

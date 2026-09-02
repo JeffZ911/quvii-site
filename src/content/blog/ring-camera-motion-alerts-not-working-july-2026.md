@@ -141,7 +141,7 @@ The subscription-free model not only saves roughly $100 over three years but als
 This is often caused by "Motion Schedules" or "Smart Alerts" settings in the Ring app. If "Smart Alerts" is set to "Record" but not "Notify" for people or other motion, you will have footage in your timeline without receiving a push alert. Additionally, check your phone’s system settings to ensure the Ring app has "Critical Alerts" or "High Priority" notification permissions.
 
 ### Does Ring work without a subscription in 2026?
-Technically, yes, but the functionality is severely limited. Without a Ring Home (formerly Protect) plan, you can receive motion alerts and view Live View, but you will not have any recorded footage to review after the event has passed. In July 2026, most users find a subscription mandatory for the camera to be useful as a security tool.
+Technically, yes, but the functionality is severely limited. Without a Ring Home (formerly Protect) plan, you can receive [motion alerts](https://quvii.com/blog/eufy-p2p-motion-alerts-broken-fix) and view Live View, but you will not have any recorded footage to review after the event has passed. In July 2026, most users find a subscription mandatory for the camera to be useful as a security tool.
 
 ### How do I fix a "Footage Unavailable" error?
 This error typically indicates a break in the data stream between the camera and the cloud. It can be caused by a sudden drop in Wi-Fi upload speed or a server-side timeout. To fix it, try lowering the "Video Quality" settings in the app or moving your Wi-Fi router closer to the camera. If the issue persists across all clips, it is likely a Ring service outage.
