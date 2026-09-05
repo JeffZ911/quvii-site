@@ -40,7 +40,7 @@ The [Wyze app 3](https://quvii.com/blog/wyze-app-3-21-device-groups-not-opening-
 *Related: [Tapo C200 Firmware Update Boot Loop: Fixes & Recovery Guide](/blog/tapo-c200-firmware-update-boot-loop-fix) · [Ring Camera Alexa Live View Not Working? 2026 Fix Guide](/blog/ring-camera-alexa-live-view-not-working-2026) · [Ring Doorbell Alexa Live View Integration Failure 2026: Fix Guide](/blog/ring-doorbell-alexa-live-view-failure-2026)*
 
 
-Following the deployment of Wyze app version 3.18.0.918 on July 23, 2026, the Wyze user community has documented a consistent set of performance regressions. These issues appear most prevalent on the Wyze Cam v4 and the Wyze Video Doorbell v2, though older hardware like the Cam v3 is also affected by specific authentication failures.
+Following the deployment of [Wyze app](https://quvii.com/blog/wyze-app-3-21-device-groups-not-opening-fix) version 3.18.0.918 on July 23, 2026, the Wyze user community has documented a consistent set of performance regressions. These issues appear most prevalent on the Wyze Cam v4 and the Wyze Video Doorbell v2, though older hardware like the Cam v3 is also affected by specific authentication failures.
 
 The most common report involves cameras appearing with a "cloud-with-a-slash" icon in the device list, indicating an offline status, even when the camera's physical LED indicates a successful Wi-Fi connection. When users attempt to open these streams, they are often met with "Error 1000," a generic timeout code that suggests the app cannot establish a secure handshake with the Wyze cloud servers.
 

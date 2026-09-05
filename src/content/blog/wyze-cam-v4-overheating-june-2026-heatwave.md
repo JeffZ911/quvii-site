@@ -140,7 +140,7 @@ If your camera has developed a persistent purple tint, the IR-cut filter may be 
 Use only the original 5V/1A power adapter provided by Wyze. While it may be tempting to use a high-wattage "fast charger" from a smartphone, these can sometimes deliver slightly higher voltages or different amperages that increase the thermal load on the camera's internal voltage regulator.
 
 ### How to Check Thermal Status in Wyze App 3.16
-1.  Open the Wyze App and select your [Cam v4](https://quvii.com/learn/is-wyze-cam-v4-safe-security-privacy-2026).
+1.  Open the [Wyze App](https://quvii.com/blog/wyze-app-3-21-device-groups-not-opening-fix) and select your [Cam v4](https://quvii.com/learn/is-wyze-cam-v4-safe-security-privacy-2026).
 2.  Tap the **Settings (gear icon)** in the top right.
 3.  Navigate to **Device Info**.
 4.  Look for the **Signal Strength** and (if available in your region's firmware) the **Thermal Status** indicator.
