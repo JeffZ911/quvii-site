@@ -26,11 +26,11 @@ inline_image_sections:
   - "How to prevent it"
 ---
 
-The July 23, 2026 release of the Wyze app version 3.18.0.918 has introduced a series of connectivity and notification stability issues across several camera models. Users report that cameras which functioned perfectly on version 3.17.0.904 are now frequently showing as "offline" or failing to deliver time-sensitive push alerts.
+The July 23, 2026 release of the [Wyze app](https://quvii.com/blog/wyze-app-3-21-device-groups-not-opening-fix) version 3.18.0.918 has introduced a series of connectivity and notification stability issues across several camera models. Users report that cameras which functioned perfectly on version 3.17.0.904 are now frequently showing as "offline" or failing to deliver time-sensitive push alerts.
 
 # Wyze App 3.18.0.918 July 2026 Update Issues: Fix Offline & Notification Bugs
 
-The Wyze app 3.18.0.918 update (July 2026) is causing 'Device Offline' errors and notification lag. Fix it by power cycling your camera, clearing the app cache, or verifying your phone supports 64-bit Android.
+The [Wyze app 3](https://quvii.com/blog/wyze-app-3-21-device-groups-not-opening-fix).18.0.918 update (July 2026) is causing 'Device Offline' errors and notification lag. Fix it by power cycling your camera, clearing the app cache, or verifying your phone supports 64-bit Android.
 
 ## The symptom
 
