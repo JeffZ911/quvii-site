@@ -80,7 +80,7 @@ The 3.18 update introduced a new backend synchronization protocol designed to re
 The app version 3.18.0.918 is designed to work in tandem with firmware version **v4.52.9.3415** for the Wyze Cam v4. This firmware introduces "SightSafe," a new security signature that encrypts the metadata sent between the camera and the app. If the app is updated to 3.18 but the camera remains on an older firmware version (such as v4.52.8.xxxx), the "SightSafe" handshake will fail. This mismatch is a primary driver for the current wave of "Offline" reports, as the app rejects the unencrypted metadata from the older firmware.
 
 ### Cache Corruption
-When upgrading from the 3.17.x branch to 3.18.x, the Wyze app attempts to migrate existing user data and cached device thumbnails. In many documented cases, residual data from version 3.17.0.904 conflicts with the new UI elements in 3.18. This corruption can cause the app to crash when opening specific camera folders or when trying to access the "Account" tab to manage notifications.
+When upgrading from the 3.17.x branch to 3.18.x, the [Wyze app](https://quvii.com/blog/wyze-app-3-21-device-groups-not-opening-fix) attempts to migrate existing user data and cached device thumbnails. In many documented cases, residual data from version 3.17.0.904 conflicts with the new UI elements in 3.18. This corruption can cause the app to crash when opening specific camera folders or when trying to access the "Account" tab to manage notifications.
 
 ## Quick fixes (in order of likelihood)
 
