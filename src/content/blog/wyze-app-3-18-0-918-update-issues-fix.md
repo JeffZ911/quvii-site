@@ -176,7 +176,7 @@ To avoid future downtime, you must take control of how and when your security sy
 
 ### Managing Auto-Update Settings
 You should disable automatic updates at both the app and firmware levels. This allows you to wait for community feedback before committing to a new version.
-1. **In the Wyze App:** Go to **Account > Firmware Update**. Ensure that "Automatic Updates" is toggled **OFF**.
+1. **In the [Wyze App](https://quvii.com/blog/wyze-app-3-21-device-groups-not-opening-fix):** Go to **Account > Firmware Update**. Ensure that "Automatic Updates" is toggled **OFF**.
 2. **In the Google Play Store / Apple App Store:** Locate the Wyze app page, tap the three dots (top right), and uncheck **Enable auto update**.
 
 ### The '7-Day Rule'
