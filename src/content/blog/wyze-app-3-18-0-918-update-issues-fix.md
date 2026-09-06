@@ -108,7 +108,7 @@ On Android 15 and 16 devices, the app cache can become bloated, leading to UI la
 
 ### Step 3: Refreshing the Notification Token
 If you are experiencing notification blackouts, the "token" that identifies your phone to Wyze’s alert server may be stale.
-1. In the Wyze app, go to the **Account** tab.
+1. In the [Wyze app](https://quvii.com/blog/wyze-app-3-21-device-groups-not-opening-fix), go to the **Account** tab.
 2. Tap **Notifications**.
 3. Toggle the **Push Notifications** switch to **OFF**.
 4. Wait 10 seconds, then toggle it back to **ON**.

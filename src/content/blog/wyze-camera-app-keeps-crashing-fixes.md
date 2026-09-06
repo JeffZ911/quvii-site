@@ -111,7 +111,7 @@ If your app is currently unusable, follow this hierarchical troubleshooting path
 ### Step 1: The Deep Cache Clean
 
 A standard "Clear Cache" within the app is often insufficient for the v3.14 update. You must perform a "Double Cache" clear:
-1.  Open the Wyze App > Account > Storage > **Clear Cache**.
+1.  Open the [Wyze App](https://quvii.com/blog/wyze-app-3-21-device-groups-not-opening-fix) > Account > Storage > **Clear Cache**.
 2.  Go to your phone's **System Settings** > Apps > Wyze > Storage.
 3.  Select **Clear Cache** and then **Clear Data** (Note: You will need to log back in).
 4.  Restart your phone before opening the app again.
