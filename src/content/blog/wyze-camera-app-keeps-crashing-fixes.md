@@ -88,7 +88,7 @@ A significant number of [Cam v3](https://quvii.com/learn/wyze-cam-v3-firmware-4-
 
 ### Android 16 and iOS 19 Compatibility Reports
 
-As early builds of Android 16 and iOS 19 circulate in mid-2026, Wyze users on flagship hardware like the Pixel 9 Pro or iPhone 17 have reported "clean crashes." These are crashes where the app simply disappears without an "App has stopped" notification. Community consensus on r/Wyze suggests this is due to new background execution limits in the latest mobile operating systems, which flag the Wyze app's persistent notification (used for faster alerts) as a battery-drain risk and terminate it.
+As early builds of Android 16 and iOS 19 circulate in mid-2026, Wyze users on flagship hardware like the Pixel 9 Pro or iPhone 17 have reported "clean crashes." These are crashes where the app simply disappears without an "App has stopped" notification. Community consensus on r/Wyze suggests this is due to new background execution limits in the latest mobile operating systems, which flag the [Wyze app](https://quvii.com/blog/wyze-app-3-21-device-groups-not-opening-fix)'s persistent notification (used for faster alerts) as a battery-drain risk and terminate it.
 
 ### What Happens to Legacy (32-bit) Users?
 

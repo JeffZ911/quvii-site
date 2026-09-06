@@ -94,7 +94,7 @@ The most effective way to resolve "Error 1000" is to force the camera to request
 1. Physically unplug the camera from its power source.
 2. Wait at least 30 seconds to allow the internal capacitors to discharge fully.
 3. Plug the camera back in and wait for the status LED to turn solid blue (or the equivalent "Connected" state for your model).
-4. Force-close the Wyze app on your phone and relaunch it.
+4. Force-close the [Wyze app](https://quvii.com/blog/wyze-app-3-21-device-groups-not-opening-fix) on your phone and relaunch it.
 
 ### Step 2: App Cache and Data Management
 On Android 15 and 16 devices, the app cache can become bloated, leading to UI lag and notification failures. 
