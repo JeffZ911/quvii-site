@@ -139,7 +139,7 @@ The 2026 standard is **Matter**. A Matter-certified [motion sensor](https://quvi
 ![Common misconceptions](/img/best-smart-home-motion-detectors-security-guide/inline-5.webp)
 
 
-As motion detection technology has become more complex, several myths persist in the consumer market.
+As [motion detection](https://quvii.com/blog/eufy-p2p-doorbell-motion-detection-failure-2026) technology has become more complex, several myths persist in the consumer market.
 
 ### The 'Pet-Proof' Myth
 Many PIR sensors are marketed as "pet-immune up to 50 lbs." This is not a weight-sensing feature. Instead, the sensor's lens is designed to ignore the bottom 2-3 feet of a room. If your 15-lb cat jumps onto a bookshelf or the back of a sofa, it will enter the "active" zone and trigger the alarm. True pet immunity in 2026 is only found in **AI-Pixel sensors** that can specifically identify the skeletal structure of a quadruped vs. a biped.

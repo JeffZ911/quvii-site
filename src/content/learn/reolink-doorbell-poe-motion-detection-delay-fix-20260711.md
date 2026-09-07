@@ -41,7 +41,7 @@ A doorbell camera that only records the back of a visitor’s head is a security
 *Related: [Ring Doorbell Privacy Settings for Summer Guests: 2026 Guide](/learn/ring-doorbell-privacy-settings-summer-guests) · [Arlo Pro 5S 2K Night Vision Stuck On: Causes & 2026 Fixes](/learn/arlo-pro-5s-2k-night-vision-stuck-on) · [Fix Your Overheating Security Camera: Summer Solutions & Prevention](/learn/fix-security-camera-overheating-summer-20260710)*
 
 
-Motion detection delay in the Reolink ecosystem manifests in two distinct ways: notification latency and recording lag. While they both feel like "delay" to the user, they stem from different technical bottlenecks within the camera's hardware and software stack.
+[Motion detection](https://quvii.com/blog/eufy-p2p-doorbell-motion-detection-failure-2026) delay in the Reolink ecosystem manifests in two distinct ways: notification latency and recording lag. While they both feel like "delay" to the user, they stem from different technical bottlenecks within the camera's hardware and software stack.
 
 ### Trigger Latency vs. Push Latency
 Trigger latency refers to the time elapsed between an object entering the camera's field of view and the camera's processor (SoC) identifying it as a valid event. Push latency is the subsequent time it takes for that alert to travel from the camera, through the Reolink servers, and onto your mobile device. For the Reolink PoE Doorbell, which handles AI processing "at the edge" (locally on the camera), trigger latency is typically under 1 second, but software configurations can artificially inflate this.

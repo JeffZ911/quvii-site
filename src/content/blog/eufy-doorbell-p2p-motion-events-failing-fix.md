@@ -101,7 +101,7 @@ If the quick fixes only provide temporary relief, the issue may lie in how your 
 
 ### Firewall and Port Prediction Settings
 Eufy's P2P system relies on UDP hole punching. Some advanced routers (like those from ASUS, Ubiquiti, or Netgear) have "Symmetric NAT" or aggressive firewalls that block these unsolicited incoming packets. 
-To resolve this, you can attempt to allowlist known Eufy P2P server IPs in your router's firewall settings. While these IPs can change, the following have been identified as primary P2P coordination points as of 2026:
+To resolve this, you can attempt to allowlist known [Eufy P2P](https://quvii.com/blog/eufy-p2p-doorbell-motion-detection-failure-2026) server IPs in your router's firewall settings. While these IPs can change, the following have been identified as primary P2P coordination points as of 2026:
 *   `34.235.4.153`
 *   `18.223.127.200`
 *   `54.153.101.7`
