@@ -224,7 +224,7 @@ Choosing and configuring a Ring [Battery Doorbell Plus](https://quvii.com/learn/
 
 
 *   How to optimize Ring [Battery Doorbell Plus](https://quvii.com/learn/ring-battery-doorbell-plus-firmware-update-june-2026) settings for maximum battery life.
-*   Best practices for mounting your Ring doorbell to improve motion detection.
+*   Best practices for mounting your Ring doorbell to improve [motion detection](https://quvii.com/blog/eufy-p2p-doorbell-motion-detection-failure-2026).
 *   Understanding Ring's privacy policy and data sharing practices.
 *   Subscription-free security camera alternatives for home and small business.
 

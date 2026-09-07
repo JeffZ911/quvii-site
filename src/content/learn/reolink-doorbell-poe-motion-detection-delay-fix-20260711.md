@@ -186,7 +186,7 @@ Yes. Unlike battery-powered doorbells, the PoE model can record continuously to 
 No. The Reolink PoE Doorbell operates on a 10/100 Mbps interface. Even a 2K stream only uses about 6-8 Mbps. A Cat5e cable is more than sufficient; the delay is processed in the camera's software, not the cable's bandwidth.
 
 ### Can I use the Reolink Doorbell without the cloud?
-Absolutely. One of the primary advantages of the PoE version is that it is fully functional without a cloud subscription. All motion detection, AI analysis, and storage happen locally on your property.
+Absolutely. One of the primary advantages of the PoE version is that it is fully functional without a cloud subscription. All [motion detection](https://quvii.com/blog/eufy-p2p-doorbell-motion-detection-failure-2026), AI analysis, and storage happen locally on your property.
 
 ## Sources
 - Reolink Official Support — [Optimizing Motion Detection for Doorbell Cameras](https://support.reolink.com/hc/en-us/articles/900000605223-How-to-Set-up-Smart-Person-Vehicle-Detection-for-Reolink-Cameras/)
