@@ -30,7 +30,7 @@ Eufy doorbell owners are currently facing a disruptive "P2P Connection Failed" e
 
 # Eufy Doorbell P2P Connection Failed: Why Motion Events Are Failing (August 2026 Fix)
 
-The August 2026 Eufy P2P failure is often caused by a firmware handshake bug related to how the doorbell authenticates with the Eufy "Edge Security" cloud during mobile data transitions. To fix it immediately, toggle the 'HDR' setting in your doorbell's Video Settings or update to the latest 'push' firmware (such as v3.0.7.7 for HomeBase 3) via Eufy support.
+The August 2026 [Eufy P2P](https://quvii.com/blog/eufy-p2p-doorbell-motion-detection-failure-2026) failure is often caused by a firmware handshake bug related to how the doorbell authenticates with the Eufy "Edge Security" cloud during mobile data transitions. To fix it immediately, toggle the 'HDR' setting in your doorbell's Video Settings or update to the latest 'push' firmware (such as v3.0.7.7 for HomeBase 3) via Eufy support.
 
 ## The symptom
 

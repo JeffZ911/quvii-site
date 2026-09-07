@@ -105,7 +105,7 @@ If the app is stuck on "Decrypting from local storage," the local session databa
 Unplug the power adapter from the back of your HomeBase 3 for exactly **60 seconds**. This does more than just reboot the OS; it clears the volatile memory where P2P session tokens are stored, forcing the device to negotiate a fresh handshake with Eufy’s servers upon restart.
 
 ### 4. Notification Refresh
-Sometimes the trigger logic within the camera itself becomes desynced from the HomeBase. Navigate to the individual camera settings, toggle **Motion Detection** to **OFF**, wait 10 seconds, and toggle it back to **ON**. This re-registers the camera’s intent to send P2P alerts to the HomeBase.
+Sometimes the trigger logic within the camera itself becomes desynced from the HomeBase. Navigate to the individual camera settings, toggle **[Motion Detection](https://quvii.com/blog/eufy-p2p-doorbell-motion-detection-failure-2026)** to **OFF**, wait 10 seconds, and toggle it back to **ON**. This re-registers the camera’s intent to send P2P alerts to the HomeBase.
 
 ## Deeper diagnostics
 

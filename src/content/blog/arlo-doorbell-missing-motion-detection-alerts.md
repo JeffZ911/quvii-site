@@ -33,7 +33,7 @@ An Arlo doorbell that fails to notify you of a visitor defeats the primary purpo
 > 📝 **Editorial Note:** This guide is AI-assisted and game data evolves rapidly. Please cross-reference with in-game information. _Updated: 2026-08-28._
 
 
-**Quick Answer:** Arlo doorbell alert failures are usually caused by an expired Arlo Secure subscription, low motion sensitivity (check Default Mode Settings), or restrictive Activity Zones. Recalibrate using the Motion Detection Test in the Arlo app and ensure your motion sensitivity slider is set to at least 80%.
+**Quick Answer:** Arlo doorbell alert failures are usually caused by an expired Arlo Secure subscription, low motion sensitivity (check Default Mode Settings), or restrictive Activity Zones. Recalibrate using the [Motion Detection](https://quvii.com/blog/eufy-p2p-doorbell-motion-detection-failure-2026) Test in the Arlo app and ensure your motion sensitivity slider is set to at least 80%.
 
 ## The symptom
 
