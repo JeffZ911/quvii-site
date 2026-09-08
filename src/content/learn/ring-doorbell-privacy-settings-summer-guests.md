@@ -159,7 +159,7 @@ If you are using a battery-powered model like the Battery Doorbell Pro, high gue
 ## Frequently Asked Questions
 
 ### Can I set my Ring doorbell to stop recording when my guests are home?
-Yes, by using "Modes." In the Ring app, you can configure "Home Mode" to disable motion detection and Live View for specific cameras. When your guests arrive, you can manually switch the system to Home Mode, or if you have a Ring Alarm, it can happen automatically when the system is disarmed.
+Yes, by using "Modes." In the Ring app, you can configure "Home Mode" to disable [motion detection](https://quvii.com/blog/eufy-p2p-doorbell-motion-detection-failure-2026) and Live View for specific cameras. When your guests arrive, you can manually switch the system to Home Mode, or if you have a Ring Alarm, it can happen automatically when the system is disarmed.
 
 ### Do my guests need to download the Ring app?
 Only if you want them to be able to answer the door or view the Live View. If you just want them to be able to use the doorbell as a traditional ringer, they do not need the app. If you do grant them access, they must create their own Ring account; you should never share your primary login credentials.
