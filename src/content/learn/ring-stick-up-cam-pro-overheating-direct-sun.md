@@ -59,7 +59,7 @@ To protect its circuitry, the [Ring Stick Up](https://quvii.com/learn/ring-stick
 ![Why it exists](/img/ring-stick-up-cam-pro-overheating-direct-sun/inline-2.webp)
 
 
-The Ring [Stick Up](https://quvii.com/learn/ring-stick-up-cam-solar-charging-issues-2026) Cam Pro is a "Pro" model because it includes 3D Motion Detection and Bird’s Eye View—features that require more processing power than standard PIR-based cameras. This increased capability comes with a higher thermal baseline.
+The Ring [Stick Up](https://quvii.com/learn/ring-stick-up-cam-solar-charging-issues-2026) Cam Pro is a "Pro" model because it includes 3D [Motion Detection](https://quvii.com/blog/eufy-p2p-doorbell-motion-detection-failure-2026) and Bird’s Eye View—features that require more processing power than standard PIR-based cameras. This increased capability comes with a higher thermal baseline.
 
 ### The Impact of Direct Sunlight
 Solar radiation is the most common cause of overheating for outdoor cameras. The sun emits ultraviolet (UV) and infrared (IR) radiation that vibrates the molecules in the camera's plastic housing, generating heat. This is known as "solar loading." Because the [Stick Up Cam](https://quvii.com/learn/ring-stick-up-cam-solar-charging-issues-2026) Pro is a sealed unit to maintain its [IPX5 weather-resistance rating](https://ring.com/products/stick-up-cam-pro), there are no vents for hot air to escape. If the camera is mounted on a south-facing wall with no shade, it acts as a heat trap.
