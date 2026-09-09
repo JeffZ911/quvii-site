@@ -183,7 +183,7 @@ This is usually a calibration issue. In the Tapo app, there is an option for "Pa
 *   TP-Link Tapo Privacy Policy and Data Handling
 *   Optimizing Motion Detection Activity Zones
 *   Guide to High-Endurance MicroSD Cards for Security Cameras
-*   Troubleshooting Tapo Camera Connectivity Issues
+*   Troubleshooting [Tapo Camera](https://quvii.com/blog/tp-link-tapo-camera-integration-not-working) Connectivity Issues
 
 ## Sources
 
