@@ -46,7 +46,7 @@ Finally, the industry-wide shift to **Wi-Fi 6 (802.11ax)** has solved the primar
 
 ### 2026 4K Value Comparison Table
 
-| Feature | Reolink [Argus 4 Pro](https://quvii.com/blog/reolink-argus-4-pro-firmware-update-issues) | TP-Link Tapo C465 | Lorex 4K Spotlight (W482CAD) |
+| Feature | Reolink [Argus 4 Pro](https://quvii.com/blog/reolink-argus-4-pro-firmware-update-issues) | TP-[Link Tapo](https://quvii.com/blog/tp-link-tapo-camera-integration-not-working) C465 | Lorex 4K Spotlight (W482CAD) |
 | :--- | :--- | :--- | :--- |
 | **Resolution** | 4K (Dual-Lens) | 4K (Single-Lens) | 4K (Single-Lens) |
 | **Field of View** | 180° Horizontal | 110° Horizontal | 140° Diagonal |
