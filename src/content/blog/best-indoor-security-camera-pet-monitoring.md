@@ -99,7 +99,7 @@ The S350 remains the benchmark for 2026 due to its dual-lens system. One lens pr
 2. **For Privacy-Conscious Renters: TP-[Link Tapo](https://quvii.com/blog/tp-link-tapo-camera-integration-not-working) C225 (Around $50-70)**
 For those who want a camera that "disappears" when they are home, the Tapo C225 is the top pick. It features a physical privacy shutter that rotates the lens into the housing when set to "Privacy Mode." In 2026, this model remains popular for its reliable pet tracking and affordable entry point into the Tapo ecosystem.
 
-3. **For High-Detail Health Monitoring: TP-Link Tapo C260 (Around $100-120)**
+3. **For High-Detail Health Monitoring: TP-[Link Tapo](https://quvii.com/blog/tp-link-tapo-camera-integration-not-working) C260 (Around $100-120)**
 If you need to monitor a sick or elderly pet, the 4K resolution of the C260 provides the necessary clarity. Its specialized AI for monitoring food and water intake is a standout feature for 2026, providing data-driven insights into a pet's daily routine.
 
 ### Privacy Checklist for Indoor Monitoring
