@@ -123,7 +123,7 @@ To minimize streaming failures, match your hardware to your environment using th
 
 ## Total Cost of Ownership (TCO) Analysis
 
-When buying a Tapo camera, the sticker price is only the first component. To ensure a failure-free experience over three years, consider these costs:
+When buying a [Tapo camera](https://quvii.com/blog/tp-link-tapo-camera-integration-not-working), the sticker price is only the first component. To ensure a failure-free experience over three years, consider these costs:
 
 1.  **Hardware (Initial):** $35 - $120 depending on the model.
 2.  **Storage (One-time):** A high-quality 256GB "High Endurance" microSD card costs around $25-35. This is essential for local recording when the [live stream fails](https://quvii.com/blog/ezviz-hp7-home-assistant-live-stream-fails).

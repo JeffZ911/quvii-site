@@ -123,7 +123,7 @@ Quvii tracks these trade-offs across the category to help owners navigate the in
 
 - Eufy — Indoor Cam S350 Product Specs — https://www.eufy.com
 - Reolink — E1 Pro 5MP PTZ Camera Support — https://reolink.com
-- TP-Link Tapo — C260 4K AI Features — https://www.tp-link.com
+- TP-[Link Tapo](https://quvii.com/blog/tp-link-tapo-camera-integration-not-working) — C260 4K AI Features — https://www.tp-link.com
 - The Verge — Ring Privacy Controversy Report — https://www.theverge.com
 - RTINGS — Security Camera Testing & Reviews — https://www.rtings.com
 - FCC ID Search — Wireless Frequency Filings — https://www.fcc.gov/oet/ea/fccid

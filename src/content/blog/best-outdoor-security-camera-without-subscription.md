@@ -54,7 +54,7 @@ Perhaps the most significant breakthrough of 2025-2026 is the "Continuous Batter
 | **Nest** | ~$80 | ~$150 | No (Cloud only for history) |
 | **Eufy** | $0 | $0 | Yes ([HomeBase 3](https://quvii.com/learn/eufycam-s330-homebase-3-firmware-sync-error) / [SD Card](https://quvii.com/learn/wyze-cam-v3-firmware-4-36-14-3497-sd-card-playback-fix)) |
 | **Reolink** | $0 | $0 | Yes (microSD / NVR / Home Hub) |
-| **TP-Link Tapo** | $0 | $0 | Yes (microSD / Hub) |
+| **TP-[Link Tapo](https://quvii.com/blog/tp-link-tapo-camera-integration-not-working)** | $0 | $0 | Yes (microSD / Hub) |
 
 ## Why it matters for buyers
 
