@@ -103,7 +103,7 @@ If your goal is a stable, locally-controlled smart home, consider brands that of
 | :--- | :--- | :--- | :--- | :--- |
 | **Reolink** | RLC-811A / [Argus 4](https://quvii.com/learn/reolink-argus-4-pro-vs-eufy-solocam-s340) | PoE / Wi-Fi | Yes (Official) | No |
 | **Amcrest** | IP8M-2496EB | PoE / Wi-Fi | Yes (Official) | No |
-| **TP-Link Tapo** | C425 / C325WB | Wi-Fi | Yes (Official) | No |
+| **TP-[Link Tapo](https://quvii.com/blog/tp-link-tapo-camera-integration-not-working)** | C425 / C325WB | Wi-Fi | Yes (Official) | No |
 | **Ubiquiti** | G5 Bullet | PoE | Yes (Protect) | No |
 | **Eufy** | S330 (eufyCam 3) | Wi-Fi | No (Custom) | No |
 
