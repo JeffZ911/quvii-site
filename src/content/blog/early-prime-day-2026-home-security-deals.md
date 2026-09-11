@@ -165,4 +165,4 @@ Yes, but primarily for "digital zoom." While a 2K image looks sharp on a phone s
 - Reolink Altas PT Ultra Product Page — https://reolink.com/product/altas-pt-ultra/
 - Connectivity Standards Alliance Matter 1.4 Release — https://csa-iot.org/all-solutions/matter/
 - RTINGS Security Camera Reviews and Testing — https://www.rtings.com/camera
-- TP-Link Tapo C425 Spec Sheet — https://www.tp-link.com/us/home-networking/cloud-camera/tapo-c425/
+- TP-[Link Tapo](https://quvii.com/blog/tp-link-tapo-camera-integration-not-working) C425 Spec Sheet — https://www.tp-link.com/us/home-networking/cloud-camera/tapo-c425/

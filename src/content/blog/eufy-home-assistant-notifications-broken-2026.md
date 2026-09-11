@@ -89,7 +89,7 @@ Eufy uses two paths for data: the **Cloud API** (for settings, battery levels, a
 ![Quick fixes (in order of likelihood)](/img/eufy-home-assistant-notifications-broken-2026/inline-3.webp)
 
 
-Before diving into complex logs, follow these steps in order. Approximately 80% of notification issues in 2026 are resolved by Step 2.
+Before diving into complex logs, follow these steps in order. Approximately 80% of [notification issues](https://quvii.com/blog/reolink-doorbell-notification-issues-fix-20260911) in 2026 are resolved by Step 2.
 
 ### Step 1: The Add-on Power Cycle
 Restarting Home Assistant itself often isn't enough because the `eufy-security-ws` add-on (the piece that actually talks to Eufy) runs in its own container.

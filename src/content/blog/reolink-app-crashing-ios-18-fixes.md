@@ -27,7 +27,7 @@ A sudden loss of access to your security feed can transform a high-tech safety n
 
 # Reolink App Crashing on iOS 18? Solutions for Connectivity & Stability Issues
 
-**Quick Answer:** While widespread reports of Reolink app version 4.42.0 specifically crashing on iOS 18 are not prominent in current discussions, users of Reolink's app on iOS 18 (and newer versions like iOS 26) may experience general crashes or connectivity problems. These issues often stem from compatibility challenges with major iOS updates. Common fixes include updating the Reolink app to its latest version (currently 4.60.2.9), reinstalling it, or restarting your iPhone.
+**Quick Answer:** While widespread reports of [Reolink app](https://quvii.com/blog/reolink-doorbell-notification-issues-fix-20260911) version 4.42.0 specifically crashing on iOS 18 are not prominent in current discussions, users of Reolink's app on iOS 18 (and newer versions like iOS 26) may experience general crashes or connectivity problems. These issues often stem from compatibility challenges with major iOS updates. Common fixes include updating the Reolink app to its latest version (currently 4.60.2.9), reinstalling it, or restarting your iPhone.
 
 ## What happened
 
