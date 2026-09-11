@@ -189,7 +189,7 @@ Eufy emphasizes local storage and on-device AI processing to enhance privacy. Ho
 *   [eufy.com] - Eufy Official Website
 *   [eufy.com] - Eufy Privacy Policy
 *   [reddit.com] - r/EufyCam - HomeBase 3 Firmware 3.8.2.0 and 3.8.2.8 Issues
-*   [reddit.com] - r/EufyCam - Notification Issues April 2026
+*   [reddit.com] - r/EufyCam - [Notification Issues](https://quvii.com/blog/reolink-doorbell-notification-issues-fix-20260911) April 2026
 *   [reddit.com] - r/EufyCam - Battery Drain after Firmware Update
 *   [tomsguide.com] - Eufy security [camera privacy](https://quvii.com/learn/doorbell-camera-privacy-federal-agents-porch-visit) concerns
 *   [bgr.com] - Eufy Security [Camera Privacy](https://quvii.com/learn/doorbell-camera-privacy-federal-agents-porch-visit) Issues

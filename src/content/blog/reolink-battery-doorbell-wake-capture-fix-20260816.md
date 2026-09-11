@@ -95,7 +95,7 @@ Before dismantling your mounting hardware, software optimizations can often shav
 
 ### Optimizing PIR Sensitivity
 The default sensitivity for Reolink battery devices is often set to 60 or 70 to prevent false alarms from swaying trees. However, for a doorbell, this is often too low. 
-1.  Open the **Reolink App**.
+1.  Open the **[Reolink App](https://quvii.com/blog/reolink-doorbell-notification-issues-fix-20260911)**.
 2.  Go to **Settings > Alarm Settings > PIR Sensor**.
 3.  Increase the sensitivity to **80-100**.
 4.  Use the **Detection Zone** feature to mask out the street or sidewalk, ensuring the sensor only looks at your actual porch area. This allows you to run high sensitivity without constant false alerts from passing cars.

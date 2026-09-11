@@ -94,7 +94,7 @@ While Eufy states these thumbnails are automatically deleted after the notificat
 ![Impact on existing owners](/img/eufy-security-push-channel-silent-july-2026/inline-3.webp)
 
 
-For those who already own Eufy hardware, the July 2026 notification issues range from a minor annoyance to a total system failure.
+For those who already own Eufy hardware, the July 2026 [notification issues](https://quvii.com/blog/reolink-doorbell-notification-issues-fix-20260911) range from a minor annoyance to a total system failure.
 
 ### Loss of Real-Time Alerts
 
