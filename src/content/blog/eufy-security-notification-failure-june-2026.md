@@ -27,7 +27,7 @@ Reliability is the silent baseline of any [security system](https://quvii.com/bl
 
 # Eufy Security Motion Push Notification Failure: What Went Wrong in June 2026
 
-**Quick Answer:** Eufy's June 2026 notification issues stem from firmware v.3.8.2.8 and a media restructuring update. Fix it by clearing your app cache and performing a hard reboot of the HomeBase 3.
+**Quick Answer:** Eufy's June 2026 [notification issues](https://quvii.com/blog/reolink-doorbell-notification-issues-fix-20260911) stem from firmware v.3.8.2.8 and a media restructuring update. Fix it by clearing your app cache and performing a hard reboot of the HomeBase 3.
 
 ## What happened
 

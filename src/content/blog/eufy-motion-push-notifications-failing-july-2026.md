@@ -97,7 +97,7 @@ The primary impact is the risk of missed security events, such as package delive
 
 ### Troubleshooting Burden and Time Investment
 
-Owners of Eufy devices grappling with notification issues often face a considerable troubleshooting burden. This can involve meticulously checking phone settings (like ensuring the [Eufy app](https://quvii.com/learn/eufy-app-performance-issues-june-2026-20260630) is exempt from battery optimization), verifying in-app notification preferences for each security mode and camera, and performing multiple device reboots. The need to constantly monitor community forums and support channels for solutions to new bugs adds an unexpected burden to the ownership experience. Some users may even resort to drastic measures like removing and re-adding devices or performing factory resets, which can be time-consuming and disruptive to their home security setup.
+Owners of Eufy devices grappling with [notification issues](https://quvii.com/blog/reolink-doorbell-notification-issues-fix-20260911) often face a considerable troubleshooting burden. This can involve meticulously checking phone settings (like ensuring the [Eufy app](https://quvii.com/learn/eufy-app-performance-issues-june-2026-20260630) is exempt from battery optimization), verifying in-app notification preferences for each security mode and camera, and performing multiple device reboots. The need to constantly monitor community forums and support channels for solutions to new bugs adds an unexpected burden to the ownership experience. Some users may even resort to drastic measures like removing and re-adding devices or performing factory resets, which can be time-consuming and disruptive to their home security setup.
 
 ### System Instability and Battery Concerns
 

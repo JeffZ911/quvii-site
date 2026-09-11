@@ -51,7 +51,7 @@ The most common symptoms include:
 *   **'Tail-end' Capture:** The recording begins only after the visitor has finished ringing the bell or is already walking away from the door. You see the back of a head rather than a face.
 *   **Total Misses:** Fast-moving delivery drivers who drop a package and leave within 3 to 5 seconds often fail to trigger a recording at all, even with "Person Detection" enabled.
 *   **Notification Latency:** You receive a push notification on your smartphone 5 to 10 seconds after the event. By the time you open the "Live View," the porch is empty.
-*   **Thumbnail Discrepancies:** The "Event History" in the Reolink App may show a rich thumbnail of a person, but when you click to play the video, the clip is missing, corrupted, or starts several seconds after the thumbnail image was captured.
+*   **Thumbnail Discrepancies:** The "Event History" in the [Reolink App](https://quvii.com/blog/reolink-doorbell-notification-issues-fix-20260911) may show a rich thumbnail of a person, but when you click to play the video, the clip is missing, corrupted, or starts several seconds after the thumbnail image was captured.
 
 ### The 'Back of the Head' Problem
 This is a classic symptom of PIR (Passive Infrared) latency. According to [Reolink’s technical documentation](https://support.reolink.com/hc/en-us/articles/360006379253-Introduction-to-PIR-Detection/), the sensor requires a specific amount of heat-signature movement to trigger the "wake" command to the camera's processor. If the subject is moving quickly or the camera is poorly positioned, the 0.8-second internal wake-up time, combined with network handshake delays, results in the camera recording only the final moments of the encounter.

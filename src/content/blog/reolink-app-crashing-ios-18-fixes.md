@@ -49,7 +49,7 @@ App version 4.42.0 was a transitional release for Reolink. While it introduced s
 
 Since that release, Reolink has moved through several major version increments. As of June 2026, the current stable release is version 4.60.2.9. This modern version incorporates fixes for the specific crashes seen in the 4.42 era, including better support for the HEVC (H.265) video codec used in Reolink's 4K lineup and improved synchronization with Apple's latest notification delivery system.
 
-| Reolink App Version | Era/Context | Primary Known Issue on New iOS | Status |
+| [Reolink App](https://quvii.com/blog/reolink-doorbell-notification-issues-fix-20260911) Version | Era/Context | Primary Known Issue on New iOS | Status |
 | :--- | :--- | :--- | :--- |
 | 4.42.0 | Early iOS 18 Release | Splash screen crashes; Local Network permission loops | Deprecated |
 | 4.55.0.18 | Mid-Cycle Update | Slow loading times for battery-powered models | Legacy |
