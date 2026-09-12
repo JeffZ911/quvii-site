@@ -176,7 +176,7 @@ This is usually not the pan/tilt motor, but the **IR Cut Filter**. When the came
 It is good practice to run the "Pan & Tilt Correction" in the app settings once every few months or immediately after a power outage or firmware update to ensure the motor's "zero point" is correctly aligned.
 
 ## Sources
-- TP-Link Tapo C210 Official Product Page
+- TP-[Link Tapo](https://quvii.com/blog/tp-link-tapo-keepeek-integration-troubleshoot) C210 Official Product Page
 - TP-Link Community: C210 Motor Noise Discussion
 - Reddit r/Tapo: Firmware Update Issues Thread
 - <a href="https://www.amazon.com/s?k=Tapo+Care+Subscription+Tiers+and+Pricing&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Tapo Care Subscription Tiers and Pricing</a>

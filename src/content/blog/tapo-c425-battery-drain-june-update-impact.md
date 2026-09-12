@@ -86,7 +86,7 @@ For current Tapo C425 owners experiencing rapid battery drain, several troublesh
 
 ### When to Contact Tapo Support
 
-If, after attempting the above troubleshooting steps, the battery drain issues persist, contacting TP-Link Tapo customer support is the next crucial step. Be prepared to provide detailed information, including:
+If, after attempting the above troubleshooting steps, the battery drain issues persist, contacting TP-[Link Tapo](https://quvii.com/blog/tp-link-tapo-keepeek-integration-troubleshoot) customer support is the next crucial step. Be prepared to provide detailed information, including:
 
 *   Your camera's exact model (Tapo C425).
 *   The current firmware version installed on your device.

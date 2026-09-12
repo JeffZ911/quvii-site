@@ -137,7 +137,7 @@ If app stability continues to be an issue despite troubleshooting, consider thes
 This is typically a "launch crash" caused by a conflict between the app's saved state and the iOS memory manager. Deleting the app and reinstalling it is the most reliable fix, as it clears the "Container" folder where corrupted settings might be stored.
 
 ### Does Reolink charge for the app updates that fix these crashes?
-No. Reolink app updates are provided free of charge through the Apple App Store. Firmware updates for the cameras themselves are also free and can be downloaded from the Reolink website or updated via the app.
+No. [Reolink app](https://quvii.com/blog/reolink-doorbell-notification-issues-fix-20260911) updates are provided free of charge through the Apple App Store. Firmware updates for the cameras themselves are also free and can be downloaded from the Reolink website or updated via the app.
 
 ### Can I view my Reolink cameras without the mobile app if it keeps crashing?
 Yes. You can use the Reolink Client for Windows or macOS, which is often more stable than the mobile version. Additionally, if your cameras are connected to a Reolink NVR, you can view them directly on a monitor or TV connected to the NVR via HDMI.

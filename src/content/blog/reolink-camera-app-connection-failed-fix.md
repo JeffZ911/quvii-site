@@ -49,7 +49,7 @@ The "Connection Failed" message typically appears after the app attempts to "buf
 In 2026, users frequently report a "Device Disconnected" status in the device list. This usually signifies a total loss of power or a local network disconnect. However, if the camera appears "Online" in the list but triggers the "Connection Failed" error only when you tap to view the live stream, the issue is almost certainly a handshake failure between the Reolink P2P (UID) server and your mobile device.
 
 ### The 0 KBPS Freeze
-A specific behavior noted in the Reolink App (v4.60 and later) is the "0 KBPS" freeze. When you initiate a stream, the data throughput counter in the bottom-left corner of the player may climb to 10–20 KBPS and then abruptly drop to 0. This indicates that the initial P2P connection was successful, but the video packets (typically sent via UDP) are being dropped by a firewall or a congested network node. If the counter stays at 0 for more than 5 seconds, the app will time out and display the "Connection Failed" error.
+A specific behavior noted in the [Reolink App](https://quvii.com/blog/reolink-doorbell-notification-issues-fix-20260911) (v4.60 and later) is the "0 KBPS" freeze. When you initiate a stream, the data throughput counter in the bottom-left corner of the player may climb to 10–20 KBPS and then abruptly drop to 0. This indicates that the initial P2P connection was successful, but the video packets (typically sent via UDP) are being dropped by a firewall or a congested network node. If the counter stays at 0 for more than 5 seconds, the app will time out and display the "Connection Failed" error.
 
 | Error Message | Technical Meaning | App/Firmware Context | Primary Resolution |
 | :--- | :--- | :--- | :--- |
