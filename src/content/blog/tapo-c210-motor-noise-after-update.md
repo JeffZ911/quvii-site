@@ -23,7 +23,7 @@ inline_image_sections:
   - "What to do now"
 ---
 
-For owners of the TP-Link Tapo C210, the quiet operation of its pan-and-tilt mechanism is a primary selling point, but recent reports of mechanical noise following firmware updates have raised questions about software-driven hardware fatigue.
+For owners of the TP-[Link Tapo](https://quvii.com/blog/tp-link-tapo-keepeek-integration-troubleshoot) C210, the quiet operation of its pan-and-tilt mechanism is a primary selling point, but recent reports of mechanical noise following firmware updates have raised questions about software-driven hardware fatigue.
 
 # Tapo C210 Pan/Tilt Motor Noise After Firmware Update: A Deep Dive
 

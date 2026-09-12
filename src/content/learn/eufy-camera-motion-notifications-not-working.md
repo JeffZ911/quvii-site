@@ -142,7 +142,7 @@ If your HomeBase 3 stopped sending alerts after the v.3.8.2.8 update, follow the
 ![Common misconceptions](/img/eufy-camera-motion-notifications-not-working/inline-5.webp)
 
 
-Many users look in the wrong place when troubleshooting notification issues, leading to wasted time and unnecessary hardware returns.
+Many users look in the wrong place when troubleshooting [notification issues](https://quvii.com/blog/reolink-doorbell-notification-issues-fix-20260911), leading to wasted time and unnecessary hardware returns.
 
 ### The Wi-Fi Signal Myth
 A common belief is that "low Wi-Fi bars" are the primary cause of missing notifications. However, if the camera is successfully recording clips to the HomeBase 3 or internal eMMC, the Wi-Fi signal between the camera and the hub is sufficient. The bottleneck for notifications is usually the connection between the *HomeBase and the Router*, or the *Router and the Cloud*. In 2026, even a 10Mbps upload speed is enough for text-based push alerts; the issue is almost always software-based latency or OS-level app killing.
