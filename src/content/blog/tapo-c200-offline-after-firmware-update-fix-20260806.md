@@ -181,7 +181,7 @@ No, a factory reset only wipes the local settings and the MicroSD card data (if 
 A "bricked" camera will typically show a Solid Red LED that does not change even after a 30-second power cycle and a 10-second Reset button press. If the camera does not pan/tilt (calibrate) when plugged in, the internal hardware-level software has likely failed.
 
 ## Sources
-- TP-Link Tapo Support — LED Status Definitions
+- TP-[Link Tapo](https://quvii.com/blog/tp-link-tapo-keepeek-integration-troubleshoot) Support — LED Status Definitions
 - TP-Link US — Product Warranty Terms 2026
 - TP-Link Community — Firmware Update Troubleshooting
 - <a href="https://www.amazon.com/s?k=TP-Link+%E2%80%94+How+to+configure+Static+IP+for+Tapo+Cam&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">TP-Link — How to configure Static IP for Tapo Cam</a>

@@ -121,7 +121,7 @@ If sensitivity and firmware updates don't resolve the lag, the issue is likely e
 
 ### Network Latency & RSSI
 A battery camera requires a robust Wi-Fi connection to "talk" to the network quickly upon waking. 
-*   Check your **RSSI (Received Signal Strength Indicator)** in the Reolink App under **Network Information**.
+*   Check your **RSSI (Received Signal Strength Indicator)** in the [Reolink App](https://quvii.com/blog/reolink-doorbell-notification-issues-fix-20260911) under **Network Information**.
 *   **-30dBm to -50dBm:** Excellent.
 *   **-60dBm to -70dBm:** Marginal; this will cause wake-up lag.
 *   **Below -70dBm:** Unusable for reliable capture.

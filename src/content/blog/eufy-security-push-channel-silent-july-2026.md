@@ -144,7 +144,7 @@ If these steps do not resolve the issue, the problem is likely server-side.
 *   **Monitor Community Forums:** Keep an eye on the [Eufy Security GitHub](https://github.com/bropat/eufy-security-client) for updates on the third-party [push channel](https://quvii.com/blog/eufy-push-channel-silent-registration-succeeds-explained) fix.
 *   **Contact Support:** Reach out to Eufy Customer Support directly. Provide them with your HomeBase serial number and specific examples of delay times. The more users report this, the higher it is prioritized in their engineering backlog.
 
-Quvii tracks these trade-offs across the security category, and the July 2026 notification issues serve as a reminder that "no monthly fee" systems still rely on a complex, cloud-dependent infrastructure that requires constant manufacturer maintenance.
+Quvii tracks these trade-offs across the security category, and the July 2026 [notification issues](https://quvii.com/blog/reolink-doorbell-notification-issues-fix-20260911) serve as a reminder that "no monthly fee" systems still rely on a complex, cloud-dependent infrastructure that requires constant manufacturer maintenance.
 
 ## Frequently Asked Questions
 

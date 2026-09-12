@@ -108,7 +108,7 @@ As cameras move toward 4K and even 8K resolutions to improve [facial recognition
 *   **Does the camera have a Thread radio?** (Required for low-power battery cameras).
 *   **Is there a "Matter Code" QR on the back?** (Usually located near the serial number).
 *   **Does your hub support Matter 1.4?** (Apple TV 4K, HomePod Gen 2, and latest Echo Hubs).
-*   **Is the firmware updated?** (Many 2024/2025 models from brands like TP-Link Tapo are receiving "Matter Bridge" updates).
+*   **Is the firmware updated?** (Many 2024/2025 models from brands like TP-[Link Tapo](https://quvii.com/blog/tp-link-tapo-keepeek-integration-troubleshoot) are receiving "Matter Bridge" updates).
 
 ## What to do now
 

@@ -119,7 +119,7 @@ Once you have this information, compare your firmware version against known issu
 
 If you are affected by the v3.0.0.6460 chime bug, a firmware downgrade to v3.0.0.4662_2508071283 has been reported as a successful fix by some users. Older firmware files can sometimes be found on Reolink's Download Center or in community archives (though official sources are always preferred).
 
-If you are on a very old or problematic firmware version (such as the reported v3.0.0.2033 with notification issues or v3.0.0.4662 with HDR problems), check the Reolink Download Center for a newer, stable release that specifically addresses these bugs.
+If you are on a very old or problematic firmware version (such as the reported v3.0.0.2033 with [notification issues](https://quvii.com/blog/reolink-doorbell-notification-issues-fix-20260911) or v3.0.0.4662 with HDR problems), check the Reolink Download Center for a newer, stable release that specifically addresses these bugs.
 
 Firmware updates or downgrades are typically performed manually. You will need to download the correct `.pak` file for your specific doorbell model and hardware version from the Reolink Download Center. Then, upload it via the Reolink Client software or the doorbell's web interface. Always ensure you select the correct firmware file; flashing an incorrect firmware can render your device inoperable.
 

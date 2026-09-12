@@ -101,7 +101,7 @@ There is a growing concern in the community regarding "forced obsolescence." Old
 If you are experiencing crashes on iOS 18 or newer, follow this hierarchical troubleshooting guide to restore your system's stability.
 
 ### Immediate Troubleshooting Steps
-1.  **Update the Reolink App:** This is the most effective fix. Navigate to the Apple App Store and ensure you are on version 4.60.2.9 or higher. Reolink's developers frequently release "hotfixes" that do not appear in major version notes but resolve specific OS-level crashes.
+1.  **Update the [Reolink App](https://quvii.com/blog/reolink-doorbell-notification-issues-fix-20260911):** This is the most effective fix. Navigate to the Apple App Store and ensure you are on version 4.60.2.9 or higher. Reolink's developers frequently release "hotfixes" that do not appear in major version notes but resolve specific OS-level crashes.
 2.  **Toggle Local Network Permissions:** iOS 18 is aggressive about privacy. Go to *Settings > Reolink* and ensure the "Local Network" toggle is ON. If it is already on, toggle it off and back on again.
 3.  **Clear App Cache:** Open the Reolink app (if it stays open long enough), go to *Settings > App Settings*, and select "Clear Cache." This removes corrupted temporary files that often cause crashes during video rendering.
 4.  **Force Restart the iPhone:** On an iPhone with Face ID, quickly press and release Volume Up, then Volume Down, then hold the Side Button until the Apple logo appears. This clears the system RAM and can resolve conflicts between the OS and the app.
