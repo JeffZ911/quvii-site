@@ -127,7 +127,7 @@ The most effective way to test a [Tapo camera](https://quvii.com/blog/tapo-camer
 *   If VLC also fails, the issue is the camera's settings, credentials, or a local network block on port 554.
 
 ### Analyzing Network Traffic
-Using a tool like *Fing* or a basic port scanner, verify that the camera is listening on the required ports. A standard Tapo camera should show port 554 (RTSP) and port 2020 (ONVIF) as "Open." If these ports appear "Closed" or "Filtered," the camera's internal service has likely crashed or is being blocked by a router-level firewall.
+Using a tool like *Fing* or a basic port scanner, verify that the camera is listening on the required ports. A standard [Tapo camera](https://quvii.com/blog/tapo-camera-home-assistant-integration-broken-fix) should show port 554 (RTSP) and port 2020 (ONVIF) as "Open." If these ports appear "Closed" or "Filtered," the camera's internal service has likely crashed or is being blocked by a router-level firewall.
 
 ### KeePeek Ingestion Log Interpretation
 Review the logs within your DAM. Look for specific RTSP return codes:

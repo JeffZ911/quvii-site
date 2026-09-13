@@ -172,7 +172,7 @@ Tapo states that its cameras use encryption to protect user data, including vide
 ## Sources
 
 *   TP-Link — Tapo C425 Product Page:
-*   B&H Photo Video — TP-Link Tapo C425 Battery-Powered Outdoor 2K QHD Wi-Fi Security Camera: https://www.bhphotovideo.com/c/product/1792985-REG/tp_link_tapo_c425_tapo_c425_2k_qhd_wire_free.html
+*   B&H Photo Video — TP-[Link Tapo](https://quvii.com/blog/tp-link-tapo-keepeek-integration-troubleshoot) C425 Battery-Powered Outdoor 2K QHD Wi-Fi Security Camera: https://www.bhphotovideo.com/c/product/1792985-REG/tp_link_tapo_c425_tapo_c425_2k_qhd_wire_free.html
 *   Walmart — TP-Link Tapo C425 2K QHD Wire-Free Smart Security Camera: https://www.walmart.com/ip/TP-Link-Tapo-C425-2K-QHD-Wire-Free-Smart-Security-Camera-9050mAh-Battery-Color-Night-Vision-IP66-AI-Detection-Local-Cloud-Storage-Works-with-Alexa-Google-Home/2567958564
 *   Basic-Tutorials.com — TP-Link Tapo C425 review: The battery cam with a huge battery:
 *   TP-Link — Tapo Care Subscription Plans:
