@@ -103,7 +103,7 @@ As of the 2026 firmware updates (notably v1.3.x and higher), some users have rep
 Security cameras frequently reboot after firmware updates or power flickers. If your camera is on a dynamic IP (DHCP), its address may change from `192.168.1.50` to `192.168.1.55`, immediately breaking the URL Keepeek uses for ingestion.
 1. Access your router's web interface.
 2. Locate the **DHCP Reservation** or **Static IP** section.
-3. Map the Tapo camera's MAC address to a permanent IP address.
+3. Map the [Tapo camera](https://quvii.com/blog/tapo-camera-home-assistant-integration-broken-fix)'s MAC address to a permanent IP address.
 4. Update the Keepeek source URL to reflect this static IP.
 
 ### Step 4: Lowering Stream Quality for Testing

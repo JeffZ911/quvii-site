@@ -190,7 +190,7 @@ No. While TP-Link offers the "Tapo Care" subscription for cloud storage and AI f
 Generally, no. TP-Link does not provide a public tool for downgrading firmware once an update is applied. This is why disabling "Auto-Update" in the Tapo app is a critical step for Home Assistant users who value system stability over having the latest firmware features.
 
 ## Sources
-- TP-Link Tapo Official Support — https://www.tapo.com/en/support/
+- TP-[Link Tapo](https://quvii.com/blog/tp-link-tapo-keepeek-integration-troubleshoot) Official Support — https://www.tapo.com/en/support/
 - Home Assistant Release Notes (2026.7.2)
 - JurajNyiri Tapo Control GitHub — https://github.com/JurajNyiri/HomeAssistant-Tapo-Control
 - TP-Link Community Forums: Tapo Camera Local API Changes — https://community.tp-link.com/en/smart-home/forum/584
