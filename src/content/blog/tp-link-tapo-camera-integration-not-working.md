@@ -92,7 +92,7 @@ Before diving into network logs, try these three high-probability fixes. Accordi
 If Alexa or Google Home is the problem, the link between the two clouds has likely "stale-dated."
 1.  Open your Alexa or Google Home app.
 2.  Navigate to **Skills & Games** (Alexa) or **Works with Google** (Google).
-3.  Find the **TP-Link Tapo** skill and select **Disable** or **Unlink**.
+3.  Find the **TP-[Link Tapo](https://quvii.com/blog/tp-link-tapo-keepeek-integration-troubleshoot)** skill and select **Disable** or **Unlink**.
 4.  Wait 30 seconds, then **Re-enable** it. You will be prompted to log in with your TP-Link ID.
 5.  Run a discovery command: "Alexa, discover my devices."
 

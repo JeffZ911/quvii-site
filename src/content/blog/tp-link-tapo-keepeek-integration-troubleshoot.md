@@ -120,7 +120,7 @@ If you are experiencing timeouts, the 2K or 4K stream might be too heavy for the
 When quick fixes fail, you must isolate whether the fault lies with the Tapo hardware, the local network, or the Keepeek ingestion configuration.
 
 ### Using VLC as a Control Variable
-The most effective way to test a Tapo camera's RTSP output is via VLC Media Player. This bypasses the DAM entirely to see if the camera is actually broadcasting.
+The most effective way to test a [Tapo camera](https://quvii.com/blog/tapo-camera-home-assistant-integration-broken-fix)'s RTSP output is via VLC Media Player. This bypasses the DAM entirely to see if the camera is actually broadcasting.
 *   Open VLC and go to **Media > Open Network Stream**.
 *   Enter the URL: `rtsp://username:password@IPAddress:554/stream1` (Replace `username` and `password` with your **Camera Account** details).
 *   If the stream opens in VLC but not in Keepeek, the issue is strictly within the Keepeek configuration or the network path between the camera and the DAM server.

@@ -114,7 +114,7 @@ First, check your Tapo app for any newer firmware updates that might address the
 
 ### Monitoring for Official Solutions
 
-Keep an eye on official TP-Link Tapo announcements, support pages, and community forums for any statements or further firmware releases addressing the battery drain. Manufacturers often release patches to resolve unexpected issues arising from updates. Engaging with the community can also provide valuable insights and shared solutions from other affected users.
+Keep an eye on official TP-[Link Tapo](https://quvii.com/blog/tp-link-tapo-keepeek-integration-troubleshoot) announcements, support pages, and community forums for any statements or further firmware releases addressing the battery drain. Manufacturers often release patches to resolve unexpected issues arising from updates. Engaging with the community can also provide valuable insights and shared solutions from other affected users.
 
 ### Decision Framework: Choosing a Battery Security Camera
 
