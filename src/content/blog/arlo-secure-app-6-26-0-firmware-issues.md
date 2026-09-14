@@ -95,7 +95,7 @@ The [Pro 5S](https://quvii.com/learn/arlo-pro-5s-2k-night-vision-stuck-on) and U
 ### The Breakdown of Geofencing and Automations
 Geofencing—the feature that arms the system when you leave home and disarms it when you return—was severely impacted. The 6.26.[0 update](https://quvii.com/blog/eufy-security-app-4-8-0-login-issues-fix) changed how the app requests location permissions from iOS and Android. Users who did not manually re-verify their location settings found that their cameras remained "Armed Home" (and thus not recording) even while they were miles away at work.
 
-**Total Cost of Ownership (TCO) Analysis: Arlo Ultra 2 (3-Year Outlook)**
+**Total Cost of Ownership (TCO) Analysis: [Arlo Ultra](https://quvii.com/blog/arlo-ultra-camera-not-detecting-motion-reliably) 2 (3-Year Outlook)**
 
 | Expense Item | Estimated Cost Band | Notes |
 | :--- | :--- | :--- |

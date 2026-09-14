@@ -77,7 +77,7 @@ When evaluating the total cost of ownership (TCO) over three years, Eufy remains
 ### Total Cost of Ownership (3-Year Projection)
 *   **Eufy S3 Pro (2-Cam Kit):** Hardware (around $500) + $0 subscription + $0 cloud storage = **Total ~$500**.
 *   **Ring Spotlight Cam Pro:** Hardware (around $400) + $10/mo Ring Protect Plus ($360) = **Total ~$760**.
-*   **Arlo Ultra 2:** Hardware (around $450) + $15/mo Arlo Secure ($540) = **Total ~$990**.
+*   **[Arlo Ultra](https://quvii.com/blog/arlo-ultra-camera-not-detecting-motion-reliably) 2:** Hardware (around $450) + $15/mo Arlo Secure ($540) = **Total ~$990**.
 
 While Eufy saves the consumer between $260 and $490 over three years, incidents like the June 2026 push channel bug represent a "stability risk" that subscription-heavy brands like Ring or Nest often avoid through more conservative (and expensive) backend management.
 

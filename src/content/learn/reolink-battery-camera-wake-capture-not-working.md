@@ -167,7 +167,7 @@ For those struggling with battery drain while trying to fix latency, optimizing 
 ## Frequently Asked Questions
 
 ### Why does my Reolink camera only record the back of people?
-This is caused by PIR latency and SoC boot time. The camera is "sleeping" to save battery and takes about a second to wake up after detecting motion. By the time it starts recording, the person has already moved across the frame. To fix this, angle the camera so people walk across the field of view rather than directly toward it.
+This is caused by PIR latency and SoC boot time. The camera is "sleeping" to save battery and takes about a second to wake up after [detecting motion](https://quvii.com/blog/arlo-ultra-camera-not-detecting-motion-reliably). By the time it starts recording, the person has already moved across the frame. To fix this, angle the camera so people walk across the field of view rather than directly toward it.
 
 ### Does the Reolink Altas PT Ultra really record before the motion starts?
 Yes. The Altas PT Ultra is part of a new generation of battery cameras that utilize a continuous pre-record buffer. It keeps a rolling 10-second cache of video in its RAM, and when motion is detected, it prepends that cache to the recording, ensuring you see the lead-up to the event.
