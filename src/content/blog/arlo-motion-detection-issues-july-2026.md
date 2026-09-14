@@ -109,7 +109,7 @@ If your Arlo system is currently suffering from missed events or the "grayed-out
 ### The Local-AI Alternative: Reolink Altas PT Ultra
 For users who find the Arlo subscription model and cloud lag untenable, the **Reolink Altas PT Ultra** has emerged in 2026 as a formidable competitor. Unlike Arlo, Reolink processes its AI detection locally on the camera's hardware. This eliminates the "handshake lag" because the camera knows it has spotted a person before it even begins recording or sending a notification.
 
-| Feature | Arlo Ultra 2 (July 2026) | Reolink Altas PT Ultra |
+| Feature | [Arlo Ultra](https://quvii.com/blog/arlo-ultra-camera-not-detecting-motion-reliably) 2 (July 2026) | Reolink Altas PT Ultra |
 | :--- | :--- | :--- |
 | **AI Location** | Cloud-Based (Requires Sub) | On-Device (Subscription-Free) |
 | **Storage** | Cloud Primary / Local Backup | Local microSD / Home Hub |

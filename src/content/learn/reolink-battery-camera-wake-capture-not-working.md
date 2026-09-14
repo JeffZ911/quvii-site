@@ -75,7 +75,7 @@ If a security camera's image sensor and processor remained active 24/7, even a l
 The only component that stays "awake" is the PIR sensor. This is a low-power vacuum-sealed component that looks for changes in infrared radiation (heat). When a human or vehicle moves across its field of view, the PIR sensor sends a small electrical pulse to "wake up" the rest of the camera. 
 
 ### Thermal Detection Limits
-PIR sensors have a specific weakness: they are significantly better at detecting motion that moves **across** the lens (side-to-side) than motion moving **directly toward** the lens. When someone walks straight at a camera, the change in infrared heat is gradual, often delaying the "wake" trigger until the person is inches away from the device.
+PIR sensors have a specific weakness: they are significantly better at [detecting motion](https://quvii.com/blog/arlo-ultra-camera-not-detecting-motion-reliably) that moves **across** the lens (side-to-side) than motion moving **directly toward** the lens. When someone walks straight at a camera, the change in infrared heat is gradual, often delaying the "wake" trigger until the person is inches away from the device.
 
 ## How it works under the hood
 

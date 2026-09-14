@@ -79,7 +79,7 @@ To enhance the precision of [motion detection](https://quvii.com/blog/eufy-doorb
 
 ### PIR Sensor Technology and Battery Life
 
-PIR sensors work by detecting infrared energy. When a warm body moves into the sensor's field of view, it causes a rapid change in the detected infrared levels, triggering an alert. This technology is energy-efficient because the sensor is always "listening" for heat changes but only fully activates the camera when a significant change occurs. However, PIR sensors are generally less effective at detecting motion directly towards or away from the camera, and their performance can be impacted by extreme temperatures or reflective surfaces. The need to conserve battery power also dictates "Motion Frequency" settings, which determine how often the device checks for motion after an initial event.
+PIR sensors work by detecting infrared energy. When a warm body moves into the sensor's field of view, it causes a rapid change in the detected infrared levels, triggering an alert. This technology is energy-efficient because the sensor is always "listening" for heat changes but only fully activates the camera when a significant change occurs. However, PIR sensors are generally less effective at [detecting motion](https://quvii.com/blog/arlo-ultra-camera-not-detecting-motion-reliably) directly towards or away from the camera, and their performance can be impacted by extreme temperatures or reflective surfaces. The need to conserve battery power also dictates "Motion Frequency" settings, which determine how often the device checks for motion after an initial event.
 
 ### Advanced Motion Detection and Customizable Zones
 
@@ -251,7 +251,7 @@ As of 2026, Ring's subscription plans have been renamed from "Ring Protect" to "
 *   [Battery Doorbell Plus](https://quvii.com/learn/ring-battery-doorbell-plus-firmware-update-june-2026) (Newest Model) 2nd Gen - Ring
 *   Battery [Doorbell Plus](https://quvii.com/learn/ring-battery-doorbell-plus-firmware-update-june-2026) - Ring
 *   Using [Motion Detection](https://quvii.com/blog/eufy-p2p-doorbell-motion-detection-failure-2026) - Ring — https://support.ring.com/hc/en-us/articles/360042735771-Using-Motion-Detection
-*   Fix Ring Battery Doorbell Plus Not Detecting Motion - fixringdoorbell.com — https://fixringdoorbell.com/ring-battery-doorbell-plus-not-detecting-motion/
+*   Fix Ring Battery Doorbell Plus [Not Detecting Motion](https://quvii.com/blog/arlo-ultra-camera-not-detecting-motion-reliably) - fixringdoorbell.com — https://fixringdoorbell.com/ring-battery-doorbell-plus-not-detecting-motion/
 *   With the second-gen Ring Battery Video Doorbell Plus, the head-to-toe doorbell finally goes 2K | TechRadar
 *   Ring Battery Draining Too Fast? Here's Why [Fixed] - Whizz-Experts
 *   Ring Battery Doorbell Plus (2nd Gen) Review: Smarter Alerts, Sharper Video | PCMag — https://www.pcmag.com/reviews/ring-battery-doorbell-plus-2nd-gen
