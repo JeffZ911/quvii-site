@@ -43,7 +43,7 @@ This "late wake-up" issue is compounded by a persistent bug where the integrated
 ### The v6.26.0 Firmware Regression
 The v6.26.0 update was intended to optimize battery life by refining the "low-power wake" state. However, independent community testing suggests the update introduced a logic error in how the camera handshakes with the Arlo SmartHub (VMB4540 and VMB5000). Instead of an instantaneous trigger, the PIR sensor now waits for a secondary confirmation from the cloud-based "Arlo Intelligence" engine before committed recording begins. This creates a "3-5 second recording gap" that makes the system ineffective for capturing fast-moving events, such as porch piracy.
 
-| Feature / Model | [Arlo Pro 5S](https://quvii.com/learn/arlo-pro-5s-2k-night-vision-stuck-on) | Arlo Ultra 2 | Arlo Essential Gen 2 |
+| Feature / Model | [Arlo Pro 5S](https://quvii.com/learn/arlo-pro-5s-2k-night-vision-stuck-on) | [Arlo Ultra](https://quvii.com/blog/arlo-ultra-camera-not-detecting-motion-reliably) 2 | Arlo Essential Gen 2 |
 | :--- | :--- | :--- | :--- |
 | **Firmware Version** | v6.26.0.x | v6.26.0.x | v1.0.26.x |
 | **PIR Wake Time** | 2.5 - 4.0 seconds | 3.0 - 5.0 seconds | 1.5 - 2.0 seconds |

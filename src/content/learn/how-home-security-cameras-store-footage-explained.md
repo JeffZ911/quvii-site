@@ -115,7 +115,7 @@ Not all SD cards are created equal. Security cameras perform "loop recording," m
 
 *Note: Calculations assume 15fps and medium bitrate. Actual results vary by motion frequency.*
 
-[Image Specification: Close-up of a hand inserting a Samsung Pro Endurance 256GB microSD card into the weather-sealed slot of a Reolink Altas PT Ultra camera. Aspect Ratio: 16:9]
+[Image Specification: Close-up of a hand inserting a Samsung Pro Endurance 256GB microSD card into the weather-sealed slot of a Reolink Altas PT [Ultra camera](https://quvii.com/blog/arlo-ultra-camera-not-detecting-motion-reliably). Aspect Ratio: 16:9]
 
 ## Real-world implications
 
