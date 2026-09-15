@@ -132,7 +132,7 @@ The distance between your SmartHub and the camera is the most common cause of "m
 *   **Thermal Noise:** If the camera is mounted near an HVAC vent or a dryer exhaust, the sudden rush of hot air will "blind" the PIR sensor, making it unable to distinguish a human heat signature from the background noise.
 
 ### Hardware Comparison: The Local-AI Alternative
-For users frustrated by the "subscription tax" and cloud-processing delays of the Arlo system, the industry has shifted toward local-AI processing. The **eufyCam S330 (eufyCam 3)** is a primary competitor that addresses the Arlo Ultra's main weakness: it processes motion detection on the local HomeBase 3. This eliminates the "upload-to-cloud-to-verify" lag, often resulting in faster notifications. Furthermore, the eufyCam S330 provides 4K recording with no monthly fees, whereas the Arlo Ultra requires a Secure Plus plan (typically around $15-20 per month in 2026) to maintain Activity Zones and 4K cloud storage.
+For users frustrated by the "subscription tax" and cloud-processing delays of the Arlo system, the industry has shifted toward local-AI processing. The **eufyCam S330 (eufyCam 3)** is a primary competitor that addresses the Arlo Ultra's main weakness: it processes motion detection on the local HomeBase 3. This eliminates the "upload-to-cloud-to-verify" lag, often resulting in faster notifications. Furthermore, the eufyCam S330 provides 4K recording with no monthly fees, whereas the Arlo Ultra requires a Secure Plus plan (typically around $15-20 per month in 2026) to maintain Activity Zones and 4K [cloud storage](https://quvii.com/blog/arlo-pro-2-cloud-storage-recording-issues).
 
 ## When to contact support
 

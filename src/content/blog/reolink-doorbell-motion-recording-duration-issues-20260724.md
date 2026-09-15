@@ -166,7 +166,7 @@ If you have adjusted the Post-Record settings and updated the firmware but the i
 ![How to prevent it](/img/reolink-doorbell-motion-recording-duration-issues-20260724/inline-6.webp)
 
 
-Preventing recording issues starts with installation. The way the camera "sees" the world dictates how well the AI can maintain a recording lock.
+Preventing [recording issues](https://quvii.com/blog/arlo-pro-2-cloud-storage-recording-issues) starts with installation. The way the camera "sees" the world dictates how well the AI can maintain a recording lock.
 
 ### The Importance of the 15-Degree Wedge
 Reolink includes a 15-degree mounting wedge in the box. **Use it.** 

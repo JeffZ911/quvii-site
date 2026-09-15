@@ -84,7 +84,7 @@ According to [Amazon’s own Transparency Reports](https://www.amazon.com/gp/hel
 The "Feature Paywall" has become the standard business model in 2026. Brands like Arlo and Nest sell hardware at a relatively low entry price but lock essential AI features—such as person detection or package alerts—behind monthly subscriptions.
 
 **3-Year Total Cost of Ownership (TCO) Example:**
-*   **Cloud-Dependent Camera (e.g., Arlo Ultra 2):** Hardware ($250-300) + Subscription ($15/mo for 36 months) = **~$790-840**.
+*   **Cloud-Dependent Camera (e.g., [Arlo Ultra](https://quvii.com/blog/arlo-ultra-camera-not-detecting-motion-reliably) 2):** Hardware ($250-300) + Subscription ($15/mo for 36 months) = **~$790-840**.
 *   **Local Edge AI Camera (e.g., [Reolink Argus 4 Pro](/blog/reolink-argus-4-pro-new-release-features-20260613)):** Hardware ($180-220) + High-End SD Card ($30) = **~$210-250**.
 
 The "privacy-first" option is not only more secure; it is significantly cheaper over the long term because you are not paying for the vendor to store and analyze your data.

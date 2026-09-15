@@ -143,7 +143,7 @@ One reason owners persist in troubleshooting Reolink is the low TCO. Unlike comp
 *   **Cloud Fees:** $0 (Optional cloud is available but not required for two-way talk).
 *   **3-Year Total:** **~$100.**
 
-Compare this to a Ring Video Doorbell Pro 2 (around $250) + a Ring Protect subscription ($50/year), which totals **~$400** over three years. The "technical tax" of troubleshooting Reolink's two-way talk is often seen as a fair trade-off for the $300 in savings.
+Compare this to a Ring Video Doorbell [Pro 2](https://quvii.com/blog/arlo-pro-2-cloud-storage-recording-issues) (around $250) + a Ring Protect subscription ($50/year), which totals **~$400** over three years. The "technical tax" of troubleshooting Reolink's two-way talk is often seen as a fair trade-off for the $300 in savings.
 
 ## Frequently Asked Questions
 

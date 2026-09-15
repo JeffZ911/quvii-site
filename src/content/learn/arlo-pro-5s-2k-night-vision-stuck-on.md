@@ -26,7 +26,7 @@ inline_image_sections:
   - "Further reading"
 ---
 
-When your Arlo Pro 5S 2K fails to transition out of night vision, it transforms from a high-definition security tool into a source of visual frustration, often rendering daytime footage nearly useless with a persistent pink haze or monochrome filter. This guide examines why the mechanical IR cut filter fails and provides the technical steps required to restore your 2K image quality in 2026.
+When your [Arlo Pro](https://quvii.com/blog/arlo-pro-2-cloud-storage-recording-issues) 5S 2K fails to transition out of night vision, it transforms from a high-definition security tool into a source of visual frustration, often rendering daytime footage nearly useless with a persistent pink haze or monochrome filter. This guide examines why the mechanical IR cut filter fails and provides the technical steps required to restore your 2K image quality in 2026.
 
 # Arlo Pro 5S 2K Night Vision Stuck On: Troubleshooting the IR Cut Filter
 
