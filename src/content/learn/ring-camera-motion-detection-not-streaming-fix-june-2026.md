@@ -185,7 +185,7 @@ This breakdown illustrates that the subscription cost quickly surpasses the init
 
 ### Why is my Ring camera detecting motion but not recording?
 
-Your Ring camera is likely detecting motion but not recording because you do not have an active Ring Protect subscription. Video recording and cloud storage are features exclusive to Ring Protect plans. Without a subscription, Ring cameras typically only offer live view functionality.
+Your Ring camera is likely [detecting motion](https://quvii.com/blog/arlo-ultra-camera-not-detecting-motion-reliably) but not recording because you do not have an active Ring Protect subscription. Video recording and cloud storage are features exclusive to Ring Protect plans. Without a subscription, Ring cameras typically only offer live view functionality.
 
 ### How do I check my Ring camera's Wi-Fi signal strength (RSSI)?
 

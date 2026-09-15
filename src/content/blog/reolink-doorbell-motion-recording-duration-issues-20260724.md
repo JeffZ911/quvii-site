@@ -114,7 +114,7 @@ If the camera is cutting off because it "loses" the person:
 Reolink frequently pushes "silent" updates to their AI models. As of July 2026, the Reolink Video Doorbell (WiFi/PoE) typically operates on the `v3.0.0.x` firmware branch. 
 *   **Check your version:** Settings > Device Info > Firmware Version.
 *   **Update:** Visit the <a href="https://www.amazon.com/s?k=Reolink+Download+Center&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Reolink Download Center</a>. As of this writing, firmware versions such as `v3.0.0.3308` (released late 2024) and subsequent 2025 patches have significantly improved the "Person" detection lock-on stability.
-*   *Note:* If your version number is not listed on the public site, contact Reolink support; they often provide "beta" firmware (like the `v3.0.0.2033` branch fixes) to users reporting recording issues.
+*   *Note:* If your version number is not listed on the public site, contact Reolink support; they often provide "beta" firmware (like the `v3.0.0.2033` branch fixes) to users reporting [recording issues](https://quvii.com/blog/arlo-pro-2-cloud-storage-recording-issues).
 
 ### The 30-Second Sweet Spot
 For most residential users, a **30-second Post-Record** combined with a **6-second Pre-Record** creates a 36-second minimum clip. This is generally enough to bridge the gap if a person stands still at the door, ensuring the AI has time to re-trigger before the file closes.

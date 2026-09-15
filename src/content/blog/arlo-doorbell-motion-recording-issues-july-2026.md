@@ -55,7 +55,7 @@ The Arlo Secure subscription plays a critical role in the full functionality of 
 ![Why it matters for buyers](/img/arlo-doorbell-motion-recording-issues-july-2026/inline-2.webp)
 
 
-The current reports of [motion detection](https://quvii.com/blog/eufy-p2p-motion-detection-failing-fix) and recording issues with Arlo doorbells are highly significant for prospective buyers, as they touch upon the fundamental expectations of a security device.
+The current reports of [motion detection](https://quvii.com/blog/eufy-p2p-motion-detection-failing-fix) and [recording issues](https://quvii.com/blog/arlo-pro-2-cloud-storage-recording-issues) with Arlo doorbells are highly significant for prospective buyers, as they touch upon the fundamental expectations of a security device.
 
 ### Security Implications
 
@@ -63,7 +63,7 @@ The primary function of a security doorbell is to reliably detect and record act
 
 ### Hidden Costs of Ownership
 
-Prospective buyers need to understand that the full suite of [Arlo doorbell](https://quvii.com/blog/arlo-doorbell-missing-motion-detection-alerts) functionalities, including cloud storage for recordings and intelligent alerts (such as person, vehicle, or package detection), is typically gated behind an Arlo Secure subscription. While the initial hardware purchase might seem appealing, these ongoing subscription costs represent a significant long-term investment. Without an active subscription, many advanced features and the ability to review past events in the cloud are unavailable, limiting the device's utility.
+Prospective buyers need to understand that the full suite of [Arlo doorbell](https://quvii.com/blog/arlo-doorbell-missing-motion-detection-alerts) functionalities, including [cloud storage](https://quvii.com/blog/arlo-pro-2-cloud-storage-recording-issues) for recordings and intelligent alerts (such as person, vehicle, or package detection), is typically gated behind an Arlo Secure subscription. While the initial hardware purchase might seem appealing, these ongoing subscription costs represent a significant long-term investment. Without an active subscription, many advanced features and the ability to review past events in the cloud are unavailable, limiting the device's utility.
 
 ### Long-Term Reliability Concerns
 

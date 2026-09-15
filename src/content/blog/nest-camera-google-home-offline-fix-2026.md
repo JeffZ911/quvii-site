@@ -155,7 +155,7 @@ Be aware of the **May 26, 2026 Privacy Policy update**. Google recently updated 
 The best way to fix an offline camera is to ensure it never loses its connection in the first place.
 
 ### Optimizing your Wi-Fi mesh
-For outdoor Nest Cams, the 2K HDR stream requires a consistent 4-5 Mbps upload speed *per camera*. If your mesh nodes are more than 20 feet away from an outdoor camera, the signal must penetrate exterior siding and insulation, which kills the 5GHz frequency. In 2026, we recommend placing a dedicated mesh node (like a Nest Wifi Pro 2) within 15 feet of any outdoor 2K camera to ensure stability.
+For outdoor Nest Cams, the 2K HDR stream requires a consistent 4-5 Mbps upload speed *per camera*. If your mesh nodes are more than 20 feet away from an outdoor camera, the signal must penetrate exterior siding and insulation, which kills the 5GHz frequency. In 2026, we recommend placing a dedicated mesh node (like a Nest Wifi [Pro 2](https://quvii.com/blog/arlo-pro-2-cloud-storage-recording-issues)) within 15 feet of any outdoor 2K camera to ensure stability.
 
 ### Value vs. alternatives: Moving away from the cloud
 If you find that the $200/year "Google Home Premium" subscription and frequent cloud-sync outages are no longer worth the hassle, many users are pivoting to local-storage alternatives.

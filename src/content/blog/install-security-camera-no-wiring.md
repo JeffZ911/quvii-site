@@ -97,7 +97,7 @@ If you live in an apartment or a managed community, you likely cannot drill hole
 
 **Vinyl Siding Clips:** These stainless steel hooks require no adhesive or screws. They slide under the overlap of your siding panels and provide a standard mounting screw. They are virtually invisible and leave no marks when removed.
 
-**Magnetic Bases:** Some cameras, like the <a href="https://www.amazon.com/s?k=Arlo+Ultra+series&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Arlo Ultra series</a>, come with powerful magnetic mounts. These are perfect for metal door frames or steel railings. However, if using a magnetic mount, always use a <a href="https://www.amazon.com/s?k=security+tether&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">security tether</a> (a small wire cable) to prevent someone from simply grabbing the camera.
+**Magnetic Bases:** Some cameras, like the <a href="https://www.amazon.com/s?k=Arlo+Ultra+series&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">[Arlo Ultra](https://quvii.com/blog/arlo-ultra-camera-not-detecting-motion-reliably) series</a>, come with powerful magnetic mounts. These are perfect for metal door frames or steel railings. However, if using a magnetic mount, always use a <a href="https://www.amazon.com/s?k=security+tether&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">security tether</a> (a small wire cable) to prevent someone from simply grabbing the camera.
 
 **Tension Poles:** For balcony installations, a floor-to-ceiling tension bar (similar to a shower curtain rod but heavy-duty) can be used. You can then clamp the camera to the pole, allowing for a high-vantage mount without touching the apartment walls.
 

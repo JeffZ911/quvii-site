@@ -66,7 +66,7 @@ As of July 2026, Arlo has fully integrated its "Arlo Intelligence" (AI) features
 
 **Arlo Secure Tier Comparison (July 2026 Estimates):**
 *   **Arlo Secure (Single Camera):** Around $5/mo. Includes 2K/4K cloud recording and basic AI.
-*   **Arlo Secure Plus (Unlimited):** Around $15/mo. Adds 4K cloud storage and Emergency Response.
+*   **Arlo Secure Plus (Unlimited):** Around $15/mo. Adds 4K [cloud storage](https://quvii.com/blog/arlo-pro-2-cloud-storage-recording-issues) and Emergency Response.
 *   **Arlo Secure Premium:** Around $20/mo. Adds 24/7 Professional Monitoring and advanced Arlo Intelligence (Package/Animal/Vehicle).
 
 ### Privacy and the Cloud-AI Tradeoff
