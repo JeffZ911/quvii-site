@@ -30,7 +30,7 @@ When your [Arlo Pro](https://quvii.com/blog/arlo-pro-2-cloud-storage-recording-i
 
 # Arlo Pro 5S 2K Night Vision Stuck On: Troubleshooting the IR Cut Filter
 
-If your Arlo Pro 5S 2K is stuck in night vision, it is likely a mechanical IR cut filter failure or a light sensor glitch. Try a power cycle or a "calibrated thump" to the housing; if hardware fails, consider the [Reolink Argus 4 Pro](/learn/reolink-argus-4-pro-vs-eufy-solocam-s340).
+If your [Arlo Pro](https://quvii.com/blog/arlo-pro-2-cloud-storage-recording-issues) 5S 2K is stuck in night vision, it is likely a mechanical IR cut filter failure or a light sensor glitch. Try a power cycle or a "calibrated thump" to the housing; if hardware fails, consider the [Reolink Argus 4 Pro](/learn/reolink-argus-4-pro-vs-eufy-solocam-s340).
 
 ## What it means
 

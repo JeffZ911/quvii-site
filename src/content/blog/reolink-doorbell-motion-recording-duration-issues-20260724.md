@@ -195,5 +195,5 @@ Yes, but only if you are using a MicroSD card or a Reolink NVR. In the **Surveil
 ## Sources
 - Reolink Support — <a href="https://www.amazon.com/s?k=How+to+Set+Up+Record+Schedule+for+Reolink+Devices&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">How to Set Up Record Schedule for Reolink Devices</a>
 - Reolink Firmware Archive — Doorbell WiFi/PoE Firmware Changelogs
-- r/Reolink Community — Official Subreddit Discussion on Doorbell Recording Issues
+- r/Reolink Community — Official Subreddit Discussion on Doorbell [Recording Issues](https://quvii.com/blog/arlo-pro-2-cloud-storage-recording-issues)
 - SD Association — Understanding Speed Classes (U3 vs V30) for 4K/2K Video

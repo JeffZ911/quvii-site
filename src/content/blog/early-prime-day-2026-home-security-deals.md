@@ -68,7 +68,7 @@ The 2026 shopping season highlights a fundamental change in consumer sentiment. 
 2026 has seen another round of subscription price hikes from major cloud providers. With standard plans for single cameras now often exceeding $50 per year, and multi-device plans reaching $120–$180 per year, the "Cloud Tax" has become a significant portion of the Total Cost of Ownership (TCO). This makes "one-time cost" hardware more attractive than ever, as the hardware often pays for itself within 12 to 18 months of avoided fees.
 
 ### The Death of the "Cloud Tax"
-The financial argument for local storage has reached a tipping point. In previous years, cloud storage was seen as a necessary evil for off-site backup. However, the 2026 generation of HomeBases and NVRs (Network Video Recorders) now support automatic encrypted backups to personal cloud drives (like Google Drive or Dropbox) or private NAS (Network Attached Storage) systems, effectively duplicating the benefits of a paid subscription for free.
+The financial argument for local storage has reached a tipping point. In previous years, [cloud storage](https://quvii.com/blog/arlo-pro-2-cloud-storage-recording-issues) was seen as a necessary evil for off-site backup. However, the 2026 generation of HomeBases and NVRs (Network Video Recorders) now support automatic encrypted backups to personal cloud drives (like Google Drive or Dropbox) or private NAS (Network Attached Storage) systems, effectively duplicating the benefits of a paid subscription for free.
 
 #### 5-Year Total Cost of Ownership (TCO) Comparison
 *Calculated for a 3-camera outdoor setup.*

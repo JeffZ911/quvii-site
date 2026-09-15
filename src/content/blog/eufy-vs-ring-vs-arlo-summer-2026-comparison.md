@@ -113,7 +113,7 @@ If you already own a system from one of these brands, Summer 2026 brings a mix o
 
 ### The 'Bricking' Risk: Arlo's EOL Policy in 2026
 
-Arlo’s End-of-Life (EOL) policy has become a cautionary tale for the industry. Having sunset support for the original Arlo, Pro, and Pro 2, the company has now moved to limit the functionality of the Pro 3 and Ultra (Gen 1) series. While these cameras still work, they no longer receive security updates, and their ability to store video to the cloud without a subscription has been effectively eliminated.
+Arlo’s End-of-Life (EOL) policy has become a cautionary tale for the industry. Having sunset support for the original Arlo, Pro, and [Pro 2](https://quvii.com/blog/arlo-pro-2-cloud-storage-recording-issues), the company has now moved to limit the functionality of the Pro 3 and Ultra (Gen 1) series. While these cameras still work, they no longer receive security updates, and their ability to store video to the cloud without a subscription has been effectively eliminated.
 
 Existing Arlo owners with older VMB4000 or VMB4500 hubs are also reporting significant latency issues. As Arlo’s 2026 firmware updates prioritize the higher processing requirements of the Ultra 3 and Pro 5S, older hubs struggle to keep up, often resulting in "Request Timed Out" errors when trying to view a [live stream](https://quvii.com/blog/ezviz-hp7-home-assistant-live-stream-fails).
 
@@ -160,7 +160,7 @@ Note that write speeds are a factor here. A high-quality microSD card (V30 ratin
 Yes, but they will not be "integrated." You can use the Ring app for your alarm and the Eufy app for your cameras. Matter 2.0 allows you to see both in a third-party app like Google Home, but they will never share the same proprietary features (like Ring's "Alarm Linked Devices") across brands.
 
 ### Does Arlo still offer free cloud storage?
-No. Arlo officially phased out its 7-day free cloud storage for all new models several years ago. To get any cloud recording on an Arlo Ultra 3 or Pro 5S, an Arlo Secure subscription is mandatory. Local backup is possible via a USB drive in a Smarthub, but the app experience is significantly degraded without a subscription.
+No. Arlo officially phased out its 7-day free cloud storage for all new models several years ago. To get any cloud recording on an [Arlo Ultra](https://quvii.com/blog/arlo-ultra-camera-not-detecting-motion-reliably) 3 or Pro 5S, an Arlo Secure subscription is mandatory. Local backup is possible via a USB drive in a Smarthub, but the app experience is significantly degraded without a subscription.
 
 ### Is 4K really necessary for home security?
 In 2026, 4K is the standard for outdoor cameras. The primary benefit isn't just a prettier picture; it’s the ability to use "Digital Zoom" to identify a person's face or a vehicle's license plate from 20-30 feet away. 1080p cameras generally pixelate too quickly to be useful for forensic evidence at those distances.
