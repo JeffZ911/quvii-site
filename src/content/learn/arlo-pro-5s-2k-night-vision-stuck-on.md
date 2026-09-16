@@ -40,7 +40,7 @@ If your [Arlo Pro](https://quvii.com/blog/arlo-pro-2-cloud-storage-recording-iss
 *Related: [Fix Your Overheating Security Camera: Summer Solutions & Prevention](/learn/fix-security-camera-overheating-summer-20260710) · [Outdoor Security Cameras: Protecting Summer Guest Privacy](/learn/outdoor-camera-guest-privacy-risks) · [Arlo vs. Ring for Summer Cabin Security: Off-Grid & Subscription-Free ](/learn/arlo-vs-ring-summer-cabin-security-off-grid-no-subscription)*
 
 
-When an Arlo Pro 5S 2K is "stuck" in night vision, the camera is failing to physically or logically transition between its low-light and daylight operating modes. In a healthy unit, the camera uses an internal sensor to detect ambient light levels; once a specific lux threshold is crossed, the camera should retract its Infrared (IR) cut filter and disable the 850nm IR LEDs.
+When an [Arlo Pro](https://quvii.com/blog/arlo-pro-2-cloud-storage-recording-issues) 5S 2K is "stuck" in night vision, the camera is failing to physically or logically transition between its low-light and daylight operating modes. In a healthy unit, the camera uses an internal sensor to detect ambient light levels; once a specific lux threshold is crossed, the camera should retract its Infrared (IR) cut filter and disable the 850nm IR LEDs.
 
 ### Identifying the 'Pink Tint' vs. 'B&W' Glitch
 The visual symptoms usually fall into two distinct categories, each pointing toward a slightly different failure state of the internal hardware:

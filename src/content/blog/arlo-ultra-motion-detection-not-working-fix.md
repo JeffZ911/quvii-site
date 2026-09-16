@@ -26,7 +26,7 @@ inline_image_sections:
   - "How to prevent it"
 ---
 
-Reliable home security relies on a camera’s ability to act as a proactive sentry; when an Arlo Ultra fails to trigger during a critical event, your perimeter is effectively blind. 
+Reliable home security relies on a camera’s ability to act as a proactive sentry; when an [Arlo Ultra](https://quvii.com/blog/arlo-ultra-camera-not-detecting-motion-reliably) fails to trigger during a critical event, your perimeter is effectively blind. 
 
 # Arlo Ultra Motion Detection Not Working: Troubleshooting the September 2026 Update
 > 📝 **Editorial Note:** This guide is AI-assisted and game data evolves rapidly. Please cross-reference with in-game information. _Updated: 2026-09-16._
@@ -132,7 +132,7 @@ The Arlo Ultra uses a 5GHz Wi-Fi 5 or Wi-Fi 6 (on Ultra 2) backhaul. While 5GHz 
 - **Below -70 dBm:** Critical failure; the camera will likely drop the motion trigger packet before it reaches the hub.
 
 ### Local Storage vs. Cloud Verification
-Insert a Class 10, UHS-1 microSD card or USB drive into your SmartHub. In the app settings, enable **Local Storage Recording**. 
+Insert a Class 10, UHS-1 microSD card or USB drive into your SmartHub. In the app settings, enable **Local [Storage Recording](https://quvii.com/blog/arlo-pro-2-cloud-storage-recording-issues)**. 
 If clips appear on the local storage but NOT in the cloud Library, the issue is 100% related to your Arlo Secure subscription or Arlo's cloud servers. If clips are missing from *both* locations, the camera is not triggering at the hardware level.
 
 ## When to contact support

@@ -43,7 +43,7 @@ Digital privacy refers to the protection of your video feed from unauthorized ey
 
 In 2026, the distinction between "wireless" and "wire-free" is often blurred. 
 *   **Wireless cameras** (like the Nest Cam Wired) use a power cable but transmit data over Wi-Fi.
-*   **Wire-free cameras** (like the Arlo Ultra 2) are battery-powered and transmit data over Wi-Fi.
+*   **Wire-free cameras** (like the [Arlo Ultra](https://quvii.com/blog/arlo-ultra-camera-not-detecting-motion-reliably) 2) are battery-powered and transmit data over Wi-Fi.
 
 Both share the same Radio Frequency (RF) vulnerabilities. While a wired Power-over-Ethernet (PoE) system is physically harder to intercept or jam, wireless systems rely on the invisible 2.4GHz, 5GHz, or the newer 6GHz (Wi-Fi 7) spectrums.
 

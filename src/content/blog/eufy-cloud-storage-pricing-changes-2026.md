@@ -27,7 +27,7 @@ Eufy’s long-standing promise of "zero monthly fees" is facing its most signifi
 
 # Eufy Security Cloud Storage Pricing Changes 2026: New Plans and Privacy Realities
 
-**Quick Answer:** In 2026, Eufy cloud storage remains around $3/mo per camera, but a new 'Basic Plan' for the HomeBase Professional S1 introduces paid AI and cellular backup features. Local storage on HomeBase 3 remains subscription-free.
+**Quick Answer:** In 2026, Eufy [cloud storage](https://quvii.com/blog/arlo-pro-2-cloud-storage-recording-issues) remains around $3/mo per camera, but a new 'Basic Plan' for the HomeBase Professional S1 introduces paid AI and cellular backup features. Local storage on HomeBase 3 remains subscription-free.
 
 ## What happened
 

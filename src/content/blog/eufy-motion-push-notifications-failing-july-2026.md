@@ -77,7 +77,7 @@ Here’s a comparison of Eufy and some popular subscription-free alternatives fo
 | Feature/Brand | Eufy (HomeBase required) | Reolink (many models) | Tapo (e.g., C220) | Wyze (e.g., [Cam v3](https://quvii.com/learn/wyze-cam-v3-firmware-4-36-14-3497-sd-card-playback-fix) Pro) |
 | :------------------------------- | :----------------------- | :-------------------- | :---------------- | :---------------------- |
 | **Local Storage** | Yes (HomeBase, microSD) | Yes (microSD, NVR) | Yes (microSD) | Yes (microSD) |
-| **Cloud Storage** | Optional subscription | Optional subscription | Optional subscription | Optional subscription (Cam Plus) |
+| **[Cloud Storage](https://quvii.com/blog/arlo-pro-2-cloud-storage-recording-issues)** | Optional subscription | Optional subscription | Optional subscription | Optional subscription (Cam Plus) |
 | **Notification Reliability (Community reports)** | Mixed, recent issues | Generally good | Generally good | Mixed, occasional delays |
 | **Resolution (Typical)** | 2K, 4K | 2K, 4K | 2K | 2K |
 | **IR [Night Vision](https://quvii.com/learn/arlo-pro-5s-2k-night-vision-stuck-on) Range** | Up to 25-30 ft | Up to 33-100 ft (model dependent) | Up to 30 ft | Up to 30 ft |

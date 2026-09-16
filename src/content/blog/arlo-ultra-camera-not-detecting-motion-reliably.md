@@ -26,13 +26,13 @@ inline_image_sections:
   - "How to prevent it"
 ---
 
-Missing a critical security event is more than a technical glitch; it is a failure of the primary promise made by high-end 4K surveillance. For owners of the Arlo Ultra and Ultra 2, motion detection reliability often fluctuates between surgical precision and frustrating dormancy.
+Missing a critical security event is more than a technical glitch; it is a failure of the primary promise made by high-end 4K surveillance. For owners of the Arlo Ultra and Ultra 2, [motion detection](https://quvii.com/blog/arlo-ultra-motion-detection-not-working-fix) reliability often fluctuates between surgical precision and frustrating dormancy.
 
 # Arlo Ultra Motion Detection Not Working? Troubleshooting Guide for Reliable Alerts
 > 📝 **Editorial Note:** This guide is AI-assisted and game data evolves rapidly. Please cross-reference with in-game information. _Updated: 2026-09-14._
 
 
-**Quick Answer:** Most Arlo Ultra motion issues are caused by PIR positioning or "Activity Zone" conflicts. Ensure the camera is mounted 7-10ft high, angled so traffic moves across the field of view, and set motion sensitivity to at least 80% in the Arlo Secure app.
+**Quick Answer:** Most [Arlo Ultra motion](https://quvii.com/blog/arlo-ultra-motion-detection-not-working-fix) issues are caused by PIR positioning or "Activity Zone" conflicts. Ensure the camera is mounted 7-10ft high, angled so traffic moves across the field of view, and set motion sensitivity to at least 80% in the Arlo Secure app.
 
 ## The symptom
 
@@ -188,5 +188,5 @@ This delay is typically caused by the "handshake" between the camera and the Sma
 *   Arlo Support: Motion Detection Troubleshooting — [https://kb.arlo.com/1002780/How-do-I-troubleshoot-Arlo-motion-detection-issues](https://kb.arlo.com/1002780/How-do-I-troubleshoot-Arlo-motion-detection-issues)
 *   Arlo Release Notes (Firmware and App Updates) — [https://kb.arlo.com/000039100/Arlo-Release-Notes](https://kb.arlo.com/000039100/Arlo-Release-Notes)
 *   FCC ID 2APLE18300399 (Arlo Ultra Technical Specifications) — https://fccid.io/2APLE18300399
-*   Arlo Community: Ultra Motion Detection Lag Discussion — [https://community.arlo.com/t5/Arlo-Ultra/Ultra-2-Motion-Detection-Lag/m-p/1815124](https://community.arlo.com/t5/Arlo-Ultra/Ultra-2-Motion-Detection-Lag/m-p/1815124)
+*   Arlo Community: [Ultra Motion Detection](https://quvii.com/blog/arlo-ultra-motion-detection-not-working-fix) Lag Discussion — [https://community.arlo.com/t5/Arlo-Ultra/Ultra-2-Motion-Detection-Lag/m-p/1815124](https://community.arlo.com/t5/Arlo-Ultra/Ultra-2-Motion-Detection-Lag/m-p/1815124)
 *   Arlo Secure Subscription Tier Details (2026) — [https://www.arlo.com/en-us/arlosecure.html](https://www.arlo.com/en-us/arlosecure.html)
