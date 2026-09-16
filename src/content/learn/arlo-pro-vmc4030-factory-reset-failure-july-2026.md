@@ -204,7 +204,7 @@ This is usually caused by the May 2026 serial number glitch. You must contact Ar
 
 ## Sources
 - Arlo End-of-Life Policy — https://kb.arlo.com/000063018/Arlo-End-of-Life-Policy
-- Arlo Pro (VMC4030) Official Support Page — https://www.arlo.com/en-us/support/product/VMC4030
+- [Arlo Pro](https://quvii.com/blog/arlo-pro-2-cloud-storage-recording-issues) (VMC4030) Official Support Page — https://www.arlo.com/en-us/support/product/VMC4030
 - How to Reset Arlo Devices — https://kb.arlo.com/1051525/How-do-I-reset-my-Arlo-Base-Station-to-factory-settings
 - Arlo Community: Legacy Camera Sync Issues
 - FCC ID Filing for VMC4030 (RF Specs) — https://apps.fcc.gov/oetcf/eas/reports/ViewExhibitReport.cfm?mode=Exhibits&RequestTimeout=500&calledFromFrame=N&application_id=u%2FmU6pY8N%2Bv09R7Xp%2BvU6A%3D%3D&fcc_id=2APLE18300388

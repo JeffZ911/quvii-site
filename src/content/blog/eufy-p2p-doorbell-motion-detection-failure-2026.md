@@ -149,7 +149,7 @@ Assign a fixed (Static) IP to both your HomeBase 3 and your Doorbell in your rou
 In regions experiencing high September temperatures (above 104°F/40°C), the E340's PIR sensor can become desensitized, leading to missed motion events. Using a small weather-shade or "doorbell roof" can keep the unit out of direct sunlight, preventing the thermal throttling that sometimes mimics a firmware-driven motion failure.
 
 ### Regular Database Maintenance
-The HomeBase 3 uses an internal database to index BionicMind AI events. Over time, especially with a 1TB or 2TB hard drive expansion, this database can become fragmented. Periodically clearing the HomeBase 3 storage cache or performing a "Format" on the drive (after backing up critical clips) can prevent the AI processing bottlenecks that contribute to motion detection lag.
+The HomeBase 3 uses an internal database to index BionicMind AI events. Over time, especially with a 1TB or 2TB hard drive expansion, this database can become fragmented. Periodically clearing the HomeBase 3 storage cache or performing a "Format" on the drive (after backing up critical clips) can prevent the AI processing bottlenecks that contribute to [motion detection](https://quvii.com/blog/arlo-ultra-motion-detection-not-working-fix) lag.
 
 Quvii tracks these trade-offs across the category, and while Eufy’s local-storage model offers significant savings, the September 2026 firmware issues highlight the vulnerability of proprietary P2P systems.
 

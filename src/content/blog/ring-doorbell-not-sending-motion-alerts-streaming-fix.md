@@ -45,7 +45,7 @@ Reliable doorbell performance in 2026 requires more than just a Wi-Fi connection
 
 ### Tools for a Permanent Fix
 To move beyond basic "restart the app" advice, you need objective data from your installation site.
-*   **The Ring App (v5.70+):** Ensure you are running the latest version from the iOS App Store or Google Play. Version 5.70 and higher includes enhanced "Device Health" diagnostics specifically for the 2026 Battery Doorbell Pro and Wired Pro 2 models.
+*   **The Ring App (v5.70+):** Ensure you are running the latest version from the iOS App Store or Google Play. Version 5.70 and higher includes enhanced "Device Health" diagnostics specifically for the 2026 Battery Doorbell Pro and Wired [Pro 2](https://quvii.com/blog/arlo-pro-2-cloud-storage-recording-issues) models.
 *   **Digital Multimeter:** Essential for testing the voltage at your doorbell wires. Low voltage is the primary cause of "ghosting" where the device appears online but cannot initiate a high-bitrate video stream.
 *   **Security Screwdriver (T15 Torx):** Most Ring models use a proprietary star-shaped security screw to prevent tampering. If you’ve lost the one included in the box, a standard T15 bit is the compatible size.
 *   **High-Speed Internet:** Verify you have at least 2Mbps of dedicated *upload* bandwidth per camera. Use the "Speed Test" feature within the Ring App’s Device Health section to measure the speed at the door, not at your router.

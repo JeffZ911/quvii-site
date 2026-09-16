@@ -42,7 +42,7 @@ Missing a critical security event is more than a technical glitch; it is a failu
 *Related: [Fix Tapo Camera Integration Broken in Home Assistant (2026 Guide)](/blog/tapo-camera-home-assistant-integration-broken-fix) · [Fixing TP-Link Tapo Camera Integration Issues with KeePeek](/blog/tp-link-tapo-keepeek-integration-troubleshoot) · [SimpliSafe App Down? Fix August 2026 Connection Errors](/blog/simplisafe-app-down-august-2026-fix-20260912)*
 
 
-When the Arlo Ultra fails to detect motion, it rarely manifests as a "broken" camera. Instead, the system suffers from "False Negatives"—instances where the hardware should have triggered but remained idle. In many cases, the camera is technically "working" (the 4K live feed is accessible), yet the automated surveillance logic has stalled.
+When the [Arlo Ultra](https://quvii.com/blog/arlo-ultra-motion-detection-not-working-fix) fails to detect motion, it rarely manifests as a "broken" camera. Instead, the system suffers from "False Negatives"—instances where the hardware should have triggered but remained idle. In many cases, the camera is technically "working" (the 4K live feed is accessible), yet the automated surveillance logic has stalled.
 
 Common symptoms reported by users in the first half of 2026 include:
 
@@ -96,7 +96,7 @@ The Arlo Ultra captures video in 4K resolution, which requires significantly mor
 Before assuming the hardware is defective, follow these steps to recalibrate the software-hardware link.
 
 ### Step 1: Use the 'Motion Detection Test'
-Navigate to **Settings > Devices > [Your Camera] > Device Utilities > Motion Detection Test**.
+Navigate to **Settings > Devices > [Your Camera] > Device Utilities > [Motion Detection](https://quvii.com/blog/arlo-ultra-motion-detection-not-working-fix) Test**.
 Walk in front of the camera. The LED on the front of the Ultra will blink amber when it detects motion. If it blinks consistently at the distances you require, your hardware is fine, and the issue lies in your sensitivity settings or Activity Zones.
 
 ### Step 2: Increase Motion Sensitivity

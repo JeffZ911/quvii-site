@@ -65,7 +65,7 @@ In 2026, the Arlo Secure App (v4.x) provides a "Device Power" and "Video Setting
 ![Why it exists](/img/arlo-pro-5s-2k-night-vision-stuck-on/inline-2.webp)
 
 
-The Arlo Pro 5S 2K is a sophisticated piece of optoelectronics, but it relies on a surprisingly old-school mechanical component: a tiny piece of treated glass moved by a magnet.
+The [Arlo Pro](https://quvii.com/blog/arlo-pro-2-cloud-storage-recording-issues) 5S 2K is a sophisticated piece of optoelectronics, but it relies on a surprisingly old-school mechanical component: a tiny piece of treated glass moved by a magnet.
 
 ### The Solenoid and Mechanical Wear
 The primary culprit is the **IR Cut Filter (ICR)** assembly. Inside the lens housing, a small solenoid (an electromagnetic coil) moves the filter back and forth. Over time, or due to extreme temperature fluctuations—common for [outdoor cameras](https://quvii.com/learn/outdoor-camera-guest-privacy-risks)—the lubricant on the sliding track can gum up, or the plastic housing can slightly warp. This causes the filter to "stick" halfway or fail to move at all when the voltage pulse is sent. According to community consensus on r/Arlo, units exposed to direct afternoon sun are more prone to this mechanical fatigue.
@@ -129,7 +129,7 @@ If basic troubleshooting—rebooting via the app and a full charge—fails, you 
 | **A Renter** | Stick with Arlo; the ease of the magnetic mount is worth the occasional hardware swap. |
 | **A Homeowner (Low Maintenance)** | Switch to the **Reolink Argus 4 Pro**. It uses a "ColorX" F/1.0 aperture sensor that provides full color at night *without* an IR filter or spotlight, eliminating this mechanical failure point entirely. |
 | **Already in the Arlo Ecosystem** | If you have 5+ cameras and a Smarthub, buy a single replacement Pro 5S during a sale (typically in the $150-200 range). |
-| **Security Focused** | Upgrade to the **Arlo Ultra 2 (4K)**. While it also uses an IR filter, the higher resolution offsets some of the B&W identification issues. |
+| **Security Focused** | Upgrade to the **[Arlo Ultra](https://quvii.com/blog/arlo-ultra-motion-detection-not-working-fix) 2 (4K)**. While it also uses an IR filter, the higher resolution offsets some of the B&W identification issues. |
 
 ## Common misconceptions
 
