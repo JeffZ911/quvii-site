@@ -152,7 +152,7 @@ In 2026, you can find used VMC4030 units for **under $50** on platforms like eBa
 As the VMC4030 ages, "troubleshooting folklore" has spread through forums, often leading to more harm than good.
 
 ### The 15-Second Reset Myth
-A common piece of advice on Reddit is to "hold the sync button for 15 seconds to factory reset." **This is false for the VMC4030.** This maneuver works for the Arlo Pro 3, Pro 4, and Essential series. On a VMC4030, holding the sync button for more than 5 seconds does nothing more than a 2-second press, and in some cases, it can trigger a "stuck button" error that puts the camera into a boot loop.
+A common piece of advice on Reddit is to "hold the sync button for 15 seconds to factory reset." **This is false for the VMC4030.** This maneuver works for the [Arlo Pro](https://quvii.com/blog/arlo-pro-2-cloud-storage-recording-issues) 3, Pro 4, and Essential series. On a VMC4030, holding the sync button for more than 5 seconds does nothing more than a 2-second press, and in some cases, it can trigger a "stuck button" error that puts the camera into a boot loop.
 
 ### Wi-Fi vs. Base Station Confusion
 Many users attempt to fix reset failures by moving their Wi-Fi router closer to the camera. This is a misunderstanding of the hardware. The VMC4030 does not connect to your Wi-Fi. It connects to the **Arlo Base Station**. If you are having sync issues, the distance between the camera and the Base Station is what matters. In fact, placing the camera *too close* to a high-powered Wi-Fi 7 router (common in 2026) can cause RF interference that prevents the sync handshake.

@@ -86,7 +86,7 @@ Before diving into complex router configurations, follow these steps to bypass t
 4.  **Re-sync the Doorbell:** If the P2P error persists, press the **SYNC button** on the back of the doorbell 5 times in rapid succession. This forces a hardware-level reboot and initiates a fresh pairing sequence with the HomeBase, which can sometimes clear corrupted handshake tokens.
 
 ### Resetting Activity Zones
-If motion detection is failing but live view works, your Activity Zones may have been corrupted during the update. Delete all existing zones, save the settings, and then redraw them. The v3.2.6.0 update changed how the coordinate system for the Dual-Camera E340 is mapped, which can cause old zones to "drift" into areas where no motion occurs.
+If [motion detection](https://quvii.com/blog/arlo-ultra-motion-detection-not-working-fix) is failing but live view works, your Activity Zones may have been corrupted during the update. Delete all existing zones, save the settings, and then redraw them. The v3.2.6.0 update changed how the coordinate system for the Dual-Camera E340 is mapped, which can cause old zones to "drift" into areas where no motion occurs.
 
 ## Deeper diagnostics
 

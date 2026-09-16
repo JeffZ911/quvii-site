@@ -57,7 +57,7 @@ The visual symptoms usually fall into two distinct categories, each pointing tow
 
 ### How to Check IR LED Status in 2026
 In 2026, the Arlo Secure App (v4.x) provides a "Device Power" and "Video Settings" menu where users can manually toggle Night Vision. To verify if your hardware is responsive:
-*   **The Phone Camera Trick:** Open your smartphone's camera and point it at the Arlo Pro 5S lens in a dark room. Most smartphone cameras can see the faint purple glow of the 850nm IR LEDs. If you see the glow during the day while the camera is supposedly in "Day Mode," the logic board is not cutting power to the IR array.
+*   **The Phone Camera Trick:** Open your smartphone's camera and point it at the [Arlo Pro](https://quvii.com/blog/arlo-pro-2-cloud-storage-recording-issues) 5S lens in a dark room. Most smartphone cameras can see the faint purple glow of the 850nm IR LEDs. If you see the glow during the day while the camera is supposedly in "Day Mode," the logic board is not cutting power to the IR array.
 *   **The Click Test:** Listen closely to the camera when you toggle Night Vision on and off in the app. You should hear a faint, audible "click." This is the sound of the magnetic solenoid physically sliding the glass filter into place. No click usually indicates a mechanical seizure.
 
 ## Why it exists

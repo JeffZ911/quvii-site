@@ -26,7 +26,7 @@ inline_image_sections:
   - "How to prevent it"
 ---
 
-Missing a critical security event is more than a technical glitch; it is a failure of the primary promise made by high-end 4K surveillance. For owners of the Arlo Ultra and Ultra 2, [motion detection](https://quvii.com/blog/arlo-ultra-motion-detection-not-working-fix) reliability often fluctuates between surgical precision and frustrating dormancy.
+Missing a critical security event is more than a technical glitch; it is a failure of the primary promise made by high-end 4K surveillance. For owners of the [Arlo Ultra](https://quvii.com/blog/arlo-ultra-motion-detection-not-working-fix) and Ultra 2, [motion detection](https://quvii.com/blog/arlo-ultra-motion-detection-not-working-fix) reliability often fluctuates between surgical precision and frustrating dormancy.
 
 # Arlo Ultra Motion Detection Not Working? Troubleshooting Guide for Reliable Alerts
 > 📝 **Editorial Note:** This guide is AI-assisted and game data evolves rapidly. Please cross-reference with in-game information. _Updated: 2026-09-14._
@@ -52,7 +52,7 @@ Common symptoms reported by users in the first half of 2026 include:
 *   **The "Other Motion" Filter:** The Arlo Secure app shows "No Motion Detected" while the camera is active, often because the AI has classified the movement as "unimportant" and discarded the clip before notifying the user.
 
 ### Identifying the 'Lag' vs. 'No Detection'
-It is crucial to distinguish between a hardware failure and a software delay. If the camera’s amber LED (visible during the "Motion Detection Test") blinks when you walk past, the hardware PIR (Passive Infrared) sensor is functional. If the LED blinks but no video is recorded, the bottleneck exists in the communication between the camera, the SmartHub, and the Arlo Secure cloud.
+It is crucial to distinguish between a hardware failure and a software delay. If the camera’s amber LED (visible during the "[Motion Detection](https://quvii.com/blog/arlo-ultra-motion-detection-not-working-fix) Test") blinks when you walk past, the hardware PIR (Passive Infrared) sensor is functional. If the LED blinks but no video is recorded, the bottleneck exists in the communication between the camera, the SmartHub, and the Arlo Secure cloud.
 
 ### The Role of the Arlo SmartHub (VMB5000) in Signal Latency
 The Arlo Ultra series typically requires a SmartHub (VMB5000 or VMB4540) to facilitate its 4K stream and local storage backup. This hub acts as a dedicated Wi-Fi access point for the cameras. If the hub is tucked behind a television or near a high-powered router, signal interference can increase the "wake-up" time—the milliseconds it takes for the camera to transition from a low-power state to a recording state. As of mid-2026, Arlo's firmware [1.070.52.1_35_1bdb65f] remains the baseline for many Ultra units, focusing on stabilizing this hub-to-camera handshake to reduce this specific lag.

@@ -166,5 +166,5 @@ Delayed notifications are usually a result of "Signal Interference" or "Battery 
 - Ring Official Support: Troubleshooting [Motion Detection](https://quvii.com/blog/arlo-doorbell-motion-recording-issues-july-2026) — https://support.ring.com/hc/en-us/articles/115003077286-Troubleshooting-Motion-Detection
 - Ring Home Subscription Plans and Features — https://ring.com/protect-plans
 - Reddit r/Ring Community Discussion on Motion Issues — https://www.reddit.com/r/Ring/
-- RTINGS: Ring Video Doorbell Pro 2 Review and Test Data
+- RTINGS: Ring Video Doorbell [Pro 2](https://quvii.com/blog/arlo-pro-2-cloud-storage-recording-issues) Review and Test Data
 - FCC ID Filing: Ring Doorbell RF and Wi-Fi Specifications — https://fccid.io/2AEUP-5AT3S3

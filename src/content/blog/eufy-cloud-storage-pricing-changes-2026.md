@@ -39,7 +39,7 @@ Eufy’s long-standing promise of "zero monthly fees" is facing its most signifi
 
 The landscape of the Eufy ecosystem has shifted significantly with the introduction of the 2026 Subscription Agreement. For nearly a decade, Eufy marketed itself as the primary alternative to Ring and Arlo by emphasizing a "no monthly fees" philosophy. However, the release of the HomeBase Professional S1 hardware in late 2025 marked the beginning of a "Local-First, Cloud-Enhanced" strategy. This shift acknowledges that while video can be stored locally, the compute-heavy AI features and redundant connectivity many modern users demand require recurring revenue to maintain.
 
-Eufy has stabilized its cloud storage tiers for 2026 into two primary buckets: the Basic Plan (around $3/mo per camera) and the Premier Plan (around $10/mo for up to 10 cameras). Both provide a 30-day rolling history of event-based clips. Crucially, the new "Basic Plan" for the HomeBase S1 is not just about storage; it is a service-level agreement that unlocks specific hardware capabilities that are physically present in the device but dormant without an active subscription.
+Eufy has stabilized its [cloud storage](https://quvii.com/blog/arlo-pro-2-cloud-storage-recording-issues) tiers for 2026 into two primary buckets: the Basic Plan (around $3/mo per camera) and the Premier Plan (around $10/mo for up to 10 cameras). Both provide a 30-day rolling history of event-based clips. Crucially, the new "Basic Plan" for the HomeBase S1 is not just about storage; it is a service-level agreement that unlocks specific hardware capabilities that are physically present in the device but dormant without an active subscription.
 
 ### The HomeBase Professional S1 Requirement
 

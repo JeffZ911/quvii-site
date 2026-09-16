@@ -133,7 +133,7 @@ If recurring notification failures significantly impact your security needs and 
 
 ## Total Cost of Ownership (TCO) for Home Security Cameras
 
-When purchasing a home security camera, the initial sticker price is only one part of the total cost of ownership. The 3-year real cost includes hardware, potential subscription tiers, cloud storage fees, and the "feature paywall" trap where essential functionalities are locked behind monthly plans.
+When purchasing a home security camera, the initial sticker price is only one part of the total cost of ownership. The 3-year real cost includes hardware, potential subscription tiers, [cloud storage](https://quvii.com/blog/arlo-pro-2-cloud-storage-recording-issues) fees, and the "feature paywall" trap where essential functionalities are locked behind monthly plans.
 
 **Cost Breakdown Example (3-Year Estimate):**
 

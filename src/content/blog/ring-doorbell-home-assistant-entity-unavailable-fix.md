@@ -142,7 +142,7 @@ Wi-Fi interference is a silent killer of Ring entities. Ring doorbells are notor
 Check the `sensor.[device_name]_wifi_signal_strength` (if available) or check the "Device Health" section in the official Ring app to verify the RSSI.
 
 ### Firmware Verification
-As of September 2026, Ring does not publicly publish a dated changelog for specific doorbell firmware versions (e.g., for the Video Doorbell Pro 2). However, ensuring your device is updated via the Ring app is essential, as older firmware may not support the updated OAuth scopes required by the 2026 Home Assistant Ring integration.
+As of September 2026, Ring does not publicly publish a dated changelog for specific doorbell firmware versions (e.g., for the Video Doorbell [Pro 2](https://quvii.com/blog/arlo-pro-2-cloud-storage-recording-issues)). However, ensuring your device is updated via the Ring app is essential, as older firmware may not support the updated OAuth scopes required by the 2026 Home Assistant Ring integration.
 
 ## When to contact support
 
