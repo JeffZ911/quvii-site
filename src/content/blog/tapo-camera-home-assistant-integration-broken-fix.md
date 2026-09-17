@@ -129,7 +129,7 @@ If you see `-40211`, it is a confirmed firmware-level handshake issue. If you se
 
 ### Switching Integration Methods (HACS vs. Official)
 There are currently two primary ways to integrate Tapo cameras: the **Official TP-Link Smart Home** integration and the **HACS Tapo: Cameras Control** custom component. 
-*   **The Official Integration** is more stable for basic sensors and motion detection but can be slower to update when TP-Link changes their API.
+*   **The Official Integration** is more stable for basic sensors and [motion detection](https://quvii.com/blog/arlo-ultra-motion-detection-not-working-fix) but can be slower to update when TP-Link changes their API.
 *   **The HACS Version (by Juraj Nyiri)** often includes "bleeding edge" fixes for new firmware versions weeks before the official integration. If one is broken, it is often worth disabling it and trying the other to see if the library version in that specific integration handles the new firmware better.
 
 > **Quvii Pro Tip:** If your camera's firmware has permanently restricted local access or you find the "cloud handshake" requirement too intrusive, consider a hardware switch. The **Reolink E1 Pro** (typically in the $50 range) offers native, stable ONVIF support that does not require a cloud account for local integration, making it a favorite for "local-only" Home Assistant users.

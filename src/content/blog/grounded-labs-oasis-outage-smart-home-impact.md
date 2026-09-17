@@ -36,7 +36,7 @@ The recent server failure at Grounded Labs highlights a growing concern for smar
 *Related: [Tapo C210 Pan/Tilt Motor Noise After Firmware Update: What to Know](/blog/tapo-c210-motor-noise-after-update) · [Ring Camera Not Notifying or Streaming in July 2026: What to Know](/blog/ring-camera-notifying-streaming-issues-july-2026) · [Arlo Doorbell Motion & Recording Issues: What to Know in July 2026](/blog/arlo-doorbell-motion-recording-issues-july-2026)*
 
 
-On July 3, 2026, Grounded Labs experienced a significant server outage that disrupted its entire Oasis product line. This includes the Oasis Mini, the Coffee Table, the Side Table, and the newer Aura models. For several hours, users reported that their kinetic sand art displays—which rely on a mobile app and cloud connectivity to download "paths" (patterns) and receive commands—became unresponsive or failed to initialize.
+On July 3, 2026, Grounded Labs experienced a significant [server outage](https://quvii.com/blog/ring-doorbell-server-outage-september-2026) that disrupted its entire Oasis product line. This includes the Oasis Mini, the Coffee Table, the Side Table, and the newer Aura models. For several hours, users reported that their kinetic sand art displays—which rely on a mobile app and cloud connectivity to download "paths" (patterns) and receive commands—became unresponsive or failed to initialize.
 
 This incident was particularly frustrating for the community as it marked the third connectivity-related disruption in approximately a month. According to technical updates shared via the official Grounded Labs support portal, the root cause was identified as a failure in the automated security certificate renewal process. 
 

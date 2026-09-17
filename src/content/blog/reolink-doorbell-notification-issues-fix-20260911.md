@@ -154,7 +154,7 @@ If you have performed a manual firmware flash and a factory reset (using the phy
 *   **Cloud Sync Issues:** If you have a paid subscription but Rich Notifications refuse to activate after 24 hours, contact support to manually sync your account.
 
 **Checklist for Support:**
-When contacting Reolink, provide your **UID**, **Hardware Version**, **App Version**, and your **ISP (Internet Service Provider)**. This helps them determine if there is a regional server outage or a known conflict with your router.
+When contacting Reolink, provide your **UID**, **Hardware Version**, **App Version**, and your **ISP (Internet Service Provider)**. This helps them determine if there is a regional [server outage](https://quvii.com/blog/ring-doorbell-server-outage-september-2026) or a known conflict with your router.
 
 ## How to prevent it
 
