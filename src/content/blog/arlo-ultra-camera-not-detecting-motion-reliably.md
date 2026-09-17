@@ -73,7 +73,7 @@ The [Arlo Ultra](https://quvii.com/blog/arlo-ultra-motion-detection-not-working-
 Understanding why an [Arlo Ultra](https://quvii.com/blog/arlo-ultra-motion-detection-not-working-fix) misses motion requires a look at the physics of Passive Infrared (PIR) sensors and the logic of cloud-based filtering.
 
 ### The 'Heat Signature' Limitation
-The Arlo Ultra does not "see" motion in the way a human eye does; it senses changes in infrared radiation (heat). The PIR sensor is most sensitive to objects moving **across** its field of vision rather than objects moving **directly toward** the lens. When a person walks straight toward a camera mounted above a front door, the change in the heat signature is gradual and small, often failing to cross the trigger threshold until the person is inches from the lens.
+The [Arlo Ultra](https://quvii.com/blog/arlo-ultra-motion-detection-not-working-fix) does not "see" motion in the way a human eye does; it senses changes in infrared radiation (heat). The PIR sensor is most sensitive to objects moving **across** its field of vision rather than objects moving **directly toward** the lens. When a person walks straight toward a camera mounted above a front door, the change in the heat signature is gradual and small, often failing to cross the trigger threshold until the person is inches from the lens.
 
 ### Activity Zone Clipping and "Pixel-Drift"
 If you have an active Arlo Secure subscription, you likely use Activity Zones to prevent false alerts from swaying trees or street traffic. However, these zones are processed in the cloud, not on the camera hardware. 
@@ -161,7 +161,7 @@ Reliability is built during the installation phase, not just the configuration p
 To maximize the PIR sensor's effectiveness, mount the camera 7 to 9 feet high and angle it downward at approximately 30 degrees. This ensures that a person walking toward your door is actually moving *across* the sensor's zones of sensitivity. 
 
 ### The 'Rule of Thirds' for Placement
-Divide your camera’s view into a 3x3 grid. The most reliable motion detection occurs in the bottom two-thirds of the frame. Avoid placing the horizon or the street in the top third of the frame, as this can cause the AI to over-filter "background" motion, leading to missed events in the foreground.
+Divide your camera’s view into a 3x3 grid. The most reliable [motion detection](https://quvii.com/blog/arlo-ultra-motion-detection-not-working-fix) occurs in the bottom two-thirds of the frame. Avoid placing the horizon or the street in the top third of the frame, as this can cause the AI to over-filter "background" motion, leading to missed events in the foreground.
 
 ### Battery Maintenance and Solar Panels
 A camera at 100% power is more responsive than one at 20%. Using an **Arlo Solar Panel** keeps the battery topped off, allowing the camera to stay in a "ready" state without entering aggressive power-saving modes. This is particularly important for the Ultra, as its 4K sensor and spotlight are significant power draws.

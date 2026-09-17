@@ -142,7 +142,7 @@ A camera is likely cloud-dependent if it lacks a microSD card slot and does not 
 Digital certificates are like ID cards that devices use to prove they are talking to the correct, secure server. These cards have expiration dates. If a manufacturer forgets to "renew" these cards or the update fails, the device will refuse to connect to the server for security reasons, often resulting in an outage.
 
 ### Should I avoid all cloud-based smart home devices?
-Not necessarily. Cloud devices offer convenience, easy remote access, and advanced AI features that are difficult to run locally. The key is to choose "hybrid" devices that offer local backup (like an SD card) so that the core function of the device—such as recording security footage—continues even during a server outage.
+Not necessarily. Cloud devices offer convenience, easy remote access, and advanced AI features that are difficult to run locally. The key is to choose "hybrid" devices that offer local backup (like an SD card) so that the core function of the device—such as recording security footage—continues even during a [server outage](https://quvii.com/blog/ring-doorbell-server-outage-september-2026).
 
 ## Sources
 - Grounded Labs Official Support — https://support.grounded.so

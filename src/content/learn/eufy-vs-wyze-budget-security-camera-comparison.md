@@ -104,7 +104,7 @@ Choosing between these brands has long-term consequences for your wallet and you
 ### The Privacy Factor: Trusting the Brand
 Privacy is the most contentious area for both brands. Eufy faced significant scrutiny in late 2022 when it was discovered that some "local" thumbnails were being uploaded to the cloud unencrypted. Since then, Eufy has undergone third-party audits and implemented more transparent privacy toggles within their app. 
 
-Wyze, however, has struggled with more recent "incidents." In February 2024, a security glitch allowed roughly 13,000 users to see thumbnails from cameras that weren't theirs, and some were even able to view live feeds. While Wyze attributed this to a caching issue during a server outage, it highlighted the inherent risks of a cloud-centralized system. For users who prioritize privacy above all else, Eufy's local-only storage (when configured correctly) offers a smaller attack surface.
+Wyze, however, has struggled with more recent "incidents." In February 2024, a security glitch allowed roughly 13,000 users to see thumbnails from cameras that weren't theirs, and some were even able to view live feeds. While Wyze attributed this to a caching issue during a [server outage](https://quvii.com/blog/ring-doorbell-server-outage-september-2026), it highlighted the inherent risks of a cloud-centralized system. For users who prioritize privacy above all else, Eufy's local-only storage (when configured correctly) offers a smaller attack surface.
 
 ### Performance When the Internet Fails
 A common failure mode for budget cameras is the loss of internet connectivity. 
