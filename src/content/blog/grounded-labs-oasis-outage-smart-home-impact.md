@@ -87,7 +87,7 @@ When choosing a security camera, the Grounded Labs incident reminds us to look b
 ![Impact on existing owners](/img/grounded-labs-oasis-outage-smart-home-impact/inline-3.webp)
 
 
-Owners of Grounded Labs Oasis devices experienced a near-total loss of essential functionalities during the July 3 window. Because the Oasis app acts as a bridge between the user's pattern library and the device, the server outage rendered the app useless. Users could not transfer new patterns, change the lighting "moods," or adjust the speed of the kinetic ball.
+Owners of Grounded Labs Oasis devices experienced a near-total loss of essential functionalities during the July 3 window. Because the Oasis app acts as a bridge between the user's pattern library and the device, the [server outage](https://quvii.com/blog/ring-doorbell-server-outage-september-2026) rendered the app useless. Users could not transfer new patterns, change the lighting "moods," or adjust the speed of the kinetic ball.
 
 ### Loss of Core Functionality
 For many, the frustration stemmed from the "brick" factor. Unlike a traditional mechanical clock or a piece of static art, the Oasis requires an active handshake with Grounded Labs to perform its primary function. Community discussions on r/OasisMini highlighted a growing concern: what happens to these expensive furniture pieces if the company ever ceases operations?

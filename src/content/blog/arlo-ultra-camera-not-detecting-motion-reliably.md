@@ -70,7 +70,7 @@ The [Arlo Ultra](https://quvii.com/blog/arlo-ultra-motion-detection-not-working-
 ![What's likely happening](/img/arlo-ultra-camera-not-detecting-motion-reliably/inline-2.webp)
 
 
-Understanding why an Arlo Ultra misses motion requires a look at the physics of Passive Infrared (PIR) sensors and the logic of cloud-based filtering.
+Understanding why an [Arlo Ultra](https://quvii.com/blog/arlo-ultra-motion-detection-not-working-fix) misses motion requires a look at the physics of Passive Infrared (PIR) sensors and the logic of cloud-based filtering.
 
 ### The 'Heat Signature' Limitation
 The Arlo Ultra does not "see" motion in the way a human eye does; it senses changes in infrared radiation (heat). The PIR sensor is most sensitive to objects moving **across** its field of vision rather than objects moving **directly toward** the lens. When a person walks straight toward a camera mounted above a front door, the change in the heat signature is gradual and small, often failing to cross the trigger threshold until the person is inches from the lens.
@@ -139,7 +139,7 @@ For users frustrated by the "subscription tax" and cloud-processing delays of th
 ![When to contact support](/img/arlo-ultra-camera-not-detecting-motion-reliably/inline-5.webp)
 
 
-If you have performed a factory reset and the "Motion Detection Test" LED never blinks, the PIR sensor may have suffered hardware degradation.
+If you have performed a factory reset and the "[Motion Detection](https://quvii.com/blog/arlo-ultra-motion-detection-not-working-fix) Test" LED never blinks, the PIR sensor may have suffered hardware degradation.
 
 ### Arlo's 2026 Support Policy
 As of 2026, Arlo has transitioned to a tiered support model. Priority phone and chat support are generally reserved for "Secure Plus" and "Safe & Secure Pro" subscribers. If you are on a legacy plan or the "Basic" (no subscription) tier, you may be directed to the Arlo Community forums.
