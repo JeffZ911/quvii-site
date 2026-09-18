@@ -90,7 +90,7 @@ This is why mounting a camera in a "dead air" space, such as a tight corner or u
 When the firmware detects rising heat, it follows a "stepped" reduction in power consumption:
 *   **Step 1: Feature Throttling.** The camera may disable HDR (High Dynamic Range) or reduce the frame rate from 30fps to 15fps to lower the processor load.
 *   **Step 2: Charging Suspension.** If the camera is connected to a solar panel or plug-in power, it will stop charging the battery. Charging a lithium-ion battery generates significant internal heat, which could push a warm camera into a critical state.
-*   **Step 3: Feature Lockout.** The Ring app will disable "Live View" and high-intensity settings like 3D Motion Detection.
+*   **Step 3: Feature Lockout.** The Ring app will disable "Live View" and high-intensity settings like 3D [Motion Detection](https://quvii.com/blog/arlo-ultra-motion-detection-not-working-fix).
 *   **Step 4: Automatic Shutdown.** The camera cuts power to the sensor and radio to prevent the silicon from melting or the battery from entering thermal runaway.
 
 ## Real-world implications

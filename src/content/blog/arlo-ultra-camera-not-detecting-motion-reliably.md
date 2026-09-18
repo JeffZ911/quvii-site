@@ -83,7 +83,7 @@ If you have an active Arlo Secure subscription, you likely use Activity Zones to
 4. If the AI determines the motion was 1 pixel outside the zone due to "pixel-drift" (slight camera movement caused by wind), it deletes the clip.
 
 ### Power Management Throttling
-To preserve battery life, the Arlo Ultra enters a deep sleep state. When the battery level drops below 15%, the camera may prioritize power conservation, leading to a "lazy" PIR response. In 2026, updated power management profiles in the Arlo Secure App (v6.x) have been observed to increase the interval between allowed triggers to prevent total battery exhaustion, which users often interpret as a malfunctioning sensor.
+To preserve battery life, the [Arlo Ultra](https://quvii.com/blog/arlo-ultra-motion-detection-not-working-fix) enters a deep sleep state. When the battery level drops below 15%, the camera may prioritize power conservation, leading to a "lazy" PIR response. In 2026, updated power management profiles in the Arlo Secure App (v6.x) have been observed to increase the interval between allowed triggers to prevent total battery exhaustion, which users often interpret as a malfunctioning sensor.
 
 ### Bandwidth Bottlenecks and 4K Uploads
 The Arlo Ultra captures video in 4K resolution, which requires significantly more upload bandwidth than standard 1080p cameras. Arlo recommends a minimum of 3Mbps upload speed per camera. If your home network is congested, the camera may struggle to "handshake" with the SmartHub, causing the motion event to timeout before it is ever recorded.
@@ -185,7 +185,7 @@ This delay is typically caused by the "handshake" between the camera and the Sma
 
 ## Sources
 
-*   Arlo Support: Motion Detection Troubleshooting — [https://kb.arlo.com/1002780/How-do-I-troubleshoot-Arlo-motion-detection-issues](https://kb.arlo.com/1002780/How-do-I-troubleshoot-Arlo-motion-detection-issues)
+*   Arlo Support: [Motion Detection](https://quvii.com/blog/arlo-ultra-motion-detection-not-working-fix) Troubleshooting — [https://kb.arlo.com/1002780/How-do-I-troubleshoot-Arlo-motion-detection-issues](https://kb.arlo.com/1002780/How-do-I-troubleshoot-Arlo-motion-detection-issues)
 *   Arlo Release Notes (Firmware and App Updates) — [https://kb.arlo.com/000039100/Arlo-Release-Notes](https://kb.arlo.com/000039100/Arlo-Release-Notes)
 *   FCC ID 2APLE18300399 (Arlo Ultra Technical Specifications) — https://fccid.io/2APLE18300399
 *   Arlo Community: [Ultra Motion Detection](https://quvii.com/blog/arlo-ultra-motion-detection-not-working-fix) Lag Discussion — [https://community.arlo.com/t5/Arlo-Ultra/Ultra-2-Motion-Detection-Lag/m-p/1815124](https://community.arlo.com/t5/Arlo-Ultra/Ultra-2-Motion-Detection-Lag/m-p/1815124)
