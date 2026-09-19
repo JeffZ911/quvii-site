@@ -26,7 +26,7 @@ inline_image_sections:
   - "Further reading"
 ---
 
-When a Blink camera drops its connection, it often happens at the least opportune moment, leaving gaps in your home security timeline. In June 2026, troubleshooting these devices requires understanding the interplay between the newer Sync Module XR and the high-voltage requirements of the 2K-generation hardware.
+When a [Blink camera](https://quvii.com/blog/is-blink-camera-down-september-2026) drops its connection, it often happens at the least opportune moment, leaving gaps in your home security timeline. In June 2026, troubleshooting these devices requires understanding the interplay between the newer Sync Module XR and the high-voltage requirements of the 2K-generation hardware.
 
 # Blink Camera Offline? June 2026 Troubleshooting & Fixes
 > 📝 **Editorial Note:** This guide is AI-assisted and game data evolves rapidly. Please cross-reference with in-game information. _Updated: 2026-06-25._
