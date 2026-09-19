@@ -86,7 +86,7 @@ Amazon frequently pushes "silent" security patches to Blink devices. In June 202
 ![How it works under the hood](/img/blink-camera-offline-troubleshooting-june-2026/inline-3.webp)
 
 
-To troubleshoot effectively, you must understand that a Blink camera is actually a dual-radio device. It does not just use Wi-Fi; it uses a proprietary low-frequency link to stay "alive."
+To troubleshoot effectively, you must understand that a [Blink camera](https://quvii.com/blog/is-blink-camera-down-september-2026) is actually a dual-radio device. It does not just use Wi-Fi; it uses a proprietary low-frequency link to stay "alive."
 
 ### LFR vs. Wi-Fi: The Proprietary Link
 Blink utilizes a 900MHz Low Frequency Radio (LFR) signal to communicate between the camera and the Sync Module. This is the "heartbeat." 
