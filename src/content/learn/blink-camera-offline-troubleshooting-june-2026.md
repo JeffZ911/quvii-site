@@ -110,7 +110,7 @@ Every time a [Blink camera](https://quvii.com/blog/is-blink-camera-down-septembe
 An offline camera is more than just a nuisance; it creates significant secondary issues that can damage the hardware or compromise security.
 
 ### Missed Events and Security Risks
-The most obvious risk is the loss of coverage. Unlike some competitors that offer local "failover" recording to an internal SD card, a Blink camera that is offline cannot bridge the gap. If the Wi-Fi is down, the motion is not captured. There is no internal buffer to store the clip and upload it later once the connection is restored.
+The most obvious risk is the loss of coverage. Unlike some competitors that offer local "failover" recording to an internal SD card, a [Blink camera](https://quvii.com/blog/is-blink-camera-down-september-2026) that is offline cannot bridge the gap. If the Wi-Fi is down, the motion is not captured. There is no internal buffer to store the clip and upload it later once the connection is restored.
 
 ### Impact on Local Storage (USB/MicroSD)
 For users utilizing the Sync Module XR for local storage (to avoid subscription fees), an offline state is catastrophic. The Sync Module acts as the "gatekeeper" for the USB drive or MicroSD card. If the module is offline, the cameras have no destination for their video files. Furthermore, a slow or corrupted MicroSD card in the Sync Module can actually *cause* the system to go offline, as the module's processor hangs while trying to write data to a faulty sector.
