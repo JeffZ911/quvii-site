@@ -100,7 +100,7 @@ If the LFR signal is strong but the Wi-Fi is weak, the camera will "wake up" but
 The Sync Module XR (3rd Generation) introduced in late 2025/early 2026 features an amplified LFR antenna. While the older Sync Module 2 was rated for approximately 100 feet of range, the XR claims up to 400 feet in open air. However, this only applies to the *command* signal. The camera still needs a robust Wi-Fi connection to the router to actually function. This "asymmetric range" is a common source of confusion for users who place cameras 200 feet away; the camera "hears" the hub but cannot talk to the internet.
 
 ### The Authentication Token Process
-Every time a Blink camera connects, it must present a digital token to the Blink Cloud. If your Amazon account has a billing issue or if you have recently changed your password, the Sync Module may fail to refresh these tokens. This results in the system appearing "Online" in the app but failing every attempt to actually view or record footage.
+Every time a [Blink camera](https://quvii.com/blog/is-blink-camera-down-september-2026) connects, it must present a digital token to the Blink Cloud. If your Amazon account has a billing issue or if you have recently changed your password, the Sync Module may fail to refresh these tokens. This results in the system appearing "Online" in the app but failing every attempt to actually view or record footage.
 
 ## Real-world implications
 
