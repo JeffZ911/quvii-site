@@ -116,7 +116,7 @@ The most obvious risk is the loss of coverage. Unlike some competitors that offe
 For users utilizing the Sync Module XR for local storage (to avoid subscription fees), an offline state is catastrophic. The Sync Module acts as the "gatekeeper" for the USB drive or MicroSD card. If the module is offline, the cameras have no destination for their video files. Furthermore, a slow or corrupted MicroSD card in the Sync Module can actually *cause* the system to go offline, as the module's processor hangs while trying to write data to a faulty sector.
 
 ### Accelerated Battery Depletion
-When a Blink camera loses its connection, it doesn't just sit idle. It enters a "Search" mode, aggressively scanning for both the LFR heartbeat and a Wi-Fi SSID. This process consumes significantly more power than standard standby mode.
+When a [Blink camera](https://quvii.com/blog/is-blink-camera-down-september-2026) loses its connection, it doesn't just sit idle. It enters a "Search" mode, aggressively scanning for both the LFR heartbeat and a Wi-Fi SSID. This process consumes significantly more power than standard standby mode.
 
 | Mode | Estimated Battery Draw | Projected Lifespan |
 | :--- | :--- | :--- |
