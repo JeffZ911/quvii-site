@@ -155,7 +155,7 @@ By following these steps, you can maintain a high level of security without risk
 
 ## Sources
 - Matter 1.4 Specification Update — https://csa-iot.org/all-solutions/matter/
-- Ring Battery Doorbell Pro Product Page — https://ring.com/products/battery-doorbell-pro
+- Ring [Battery Doorbell](https://quvii.com/blog/eufy-t8210-authorization-failed-fix) Pro Product Page — https://ring.com/products/battery-doorbell-pro
 - Eufy [Video Doorbell](https://quvii.com/learn/renter-friendly-wireless-video-doorbell-options-20260613) E340 Official Specs
 - [Reolink Battery Doorbell](https://quvii.com/blog/reolink-battery-doorbell-wake-capture-fix-20260816) & Home Hub Data — https://reolink.com/product/reolink-video-doorbell-battery/
 - Ring Peephole Cam Installation Guide
