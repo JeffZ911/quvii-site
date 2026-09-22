@@ -52,7 +52,7 @@ For example, a modern 4K sensor produces roughly 30% more heat during active pro
 | Camera Model | Resolution | Power Type | Max Operating Temp | Notable Thermal Feature |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Google Nest](https://quvii.com/blog/google-nest-community-migration-outage-fixes-2026-20260625) Cam (Battery)** | 1080p | Battery | 104°F (40°C) | Automatic charging halt at 113°F |
-| **Ring Battery Doorbell Pro** | 1536p | Battery | 120°F (48.5°C) | High-heat performance mode |
+| **Ring [Battery Doorbell](https://quvii.com/blog/eufy-t8210-authorization-failed-fix) Pro** | 1536p | Battery | 120°F (48.5°C) | High-heat performance mode |
 | **[Eufy SoloCam S340](https://quvii.com/learn/reolink-argus-4-pro-vs-eufy-solocam-s340)** | 3K (Dual) | Battery/Solar | 122°F (50°C) | Integrated solar thermal management |
 | **[Arlo Pro](https://quvii.com/learn/arlo-pro-vmc4030-factory-reset-failure-july-2026) [5S 2K](https://quvii.com/learn/arlo-pro-5s-2k-night-vision-stuck-on)** | 2K | Battery | 113°F (45°C) | Low-power thermal state |
 | **[Reolink Argus 4 Pro](/blog/reolink-argus-4-pro-new-release-features-20260613)** | 4K | Battery | 131°F (55°C) | Advanced heat dissipation housing |
