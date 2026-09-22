@@ -31,7 +31,7 @@ A missed visitor or a delivery driver’s departing back is more than an inconve
 
 # Reolink Battery Doorbell Wake Capture Not Working? How to Fix It (2026 Update)
 
-**Quick Answer:** Reolink battery doorbell wake issues are usually caused by PIR sensitivity settings (set to 80+), outdated firmware (ensure v3.0.0.6xxx or later), or a 'head-on' mounting angle. For instant capture, adjust the camera to face side-to-side traffic.
+**Quick Answer:** Reolink [battery doorbell](https://quvii.com/blog/eufy-t8210-authorization-failed-fix) wake issues are usually caused by PIR sensitivity settings (set to 80+), outdated firmware (ensure v3.0.0.6xxx or later), or a 'head-on' mounting angle. For instant capture, adjust the camera to face side-to-side traffic.
 
 **Camera Category:** Doorbell
 **Search Intent:** Informational
