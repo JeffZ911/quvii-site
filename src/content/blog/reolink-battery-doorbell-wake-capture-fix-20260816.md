@@ -103,7 +103,7 @@ The default sensitivity for Reolink battery devices is often set to 60 or 70 to 
 ### Firmware v3.0.0.6xxx Updates
 Reolink released a critical update in April 2026 specifically targeting wake-up latency for Gen 2 battery doorbells. Ensure your device is updated to the following versions or later:
 
-*   **Gen 2 Battery Doorbell:** v3.0.0.6304_26041428 (Released 2026-04-14)
+*   **Gen 2 [Battery Doorbell](https://quvii.com/blog/eufy-t8210-authorization-failed-fix):** v3.0.0.6304_26041428 (Released 2026-04-14)
 *   **Reolink Home Hub (if using):** v3.3.0.466_26040850 (Released 2026-04-08)
 *   **Gen 1 Battery Doorbell:** v3.0.0.3215_2401262240 (Verified stable build)
 
