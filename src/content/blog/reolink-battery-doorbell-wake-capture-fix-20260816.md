@@ -69,7 +69,7 @@ It is important to distinguish between the time it takes the camera to *start re
 To understand why your Reolink doorbell is missing the action, you must understand the trade-offs of battery-powered security. Unlike wired doorbells that are "always on," battery models exist in a state of "Deep Sleep" to preserve power.
 
 ### PIR Sensor Physics
-The Reolink Battery Doorbell uses a PIR sensor to detect motion. This sensor does not "see" pixels; it detects changes in infrared radiation (heat). PIR sensors are most effective when a heat source moves **across** their field of view (side-to-side). 
+The Reolink [Battery Doorbell](https://quvii.com/blog/eufy-t8210-authorization-failed-fix) uses a PIR sensor to detect motion. This sensor does not "see" pixels; it detects changes in infrared radiation (heat). PIR sensors are most effective when a heat source moves **across** their field of view (side-to-side). 
 
 When a visitor walks directly toward the camera (head-on), the change in infrared energy across the sensor’s "zones" is minimal. The sensor may not realize there is a person present until they are within 3 to 5 feet of the lens. By the time the PIR sensor triggers the CPU to wake up, the person may already be turning to leave.
 
