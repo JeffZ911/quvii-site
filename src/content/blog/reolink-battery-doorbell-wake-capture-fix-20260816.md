@@ -59,7 +59,7 @@ This is a classic symptom of PIR (Passive Infrared) latency. According to [Reoli
 ### Notification vs. Recording Lag
 It is important to distinguish between the time it takes the camera to *start recording* and the time it takes to *notify your phone*. Recording is a local process (to the SD card or Home Hub), while notifications must travel through Reolink’s cloud servers. If the recording itself is starting late, the issue is hardware or firmware-based; if only the notification is late, the issue is likely network or server-related.
 
-[Image Description: A Reolink Battery Doorbell Gen 2 mounted on a brick wall at a 15-degree angle, overlooking a porch walkway where a delivery person is approaching from the side.]
+[Image Description: A Reolink [Battery Doorbell](https://quvii.com/blog/eufy-t8210-authorization-failed-fix) Gen 2 mounted on a brick wall at a 15-degree angle, overlooking a porch walkway where a delivery person is approaching from the side.]
 
 ## What's likely happening
 
