@@ -105,7 +105,7 @@ Reolink released a critical update in April 2026 specifically targeting wake-up 
 
 *   **Gen 2 [Battery Doorbell](https://quvii.com/blog/eufy-t8210-authorization-failed-fix):** v3.0.0.6304_26041428 (Released 2026-04-14)
 *   **Reolink Home Hub (if using):** v3.3.0.466_26040850 (Released 2026-04-08)
-*   **Gen 1 Battery Doorbell:** v3.0.0.3215_2401262240 (Verified stable build)
+*   **Gen 1 [Battery Doorbell](https://quvii.com/blog/eufy-t8210-authorization-failed-fix):** v3.0.0.3215_2401262240 (Verified stable build)
 
 If your app says "Already the latest version," double-check the <a href="https://www.amazon.com/s?k=Reolink+Download+Center&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Reolink Download Center</a> manually, as the auto-update feature in the app often lags behind official releases by several weeks.
 
