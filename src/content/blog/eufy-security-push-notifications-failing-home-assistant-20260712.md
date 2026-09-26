@@ -61,7 +61,7 @@ Following the July 2026 patch intended to fix the authentication issues, a secon
 For a prospective buyer in 2026, the Eufy ecosystem presents a complex value proposition. Eufy heavily markets its products as "local storage" and "no monthly fees," which appeals to privacy-conscious users and those weary of the subscription fatigue caused by Ring or Arlo. However, as this recent outage demonstrates, "local storage" does not necessarily mean "local control."
 
 ### The Illusion of Local-Only Control
-A common misconception among new buyers is that because Eufy cameras store footage on a HomeBase or an internal SD card, they are immune to cloud outages. In reality, the integration with Home Assistant is almost entirely dependent on Eufy’s cloud for the "event trigger." 
+A common misconception among new buyers is that because Eufy cameras store footage on a HomeBase or an internal [SD card](https://quvii.com/blog/wyze-cam-sd-card-playback-retrieval-issues), they are immune to cloud outages. In reality, the integration with Home Assistant is almost entirely dependent on Eufy’s cloud for the "event trigger." 
 
 When a EufyCam detects motion, it sends a signal to Eufy’s servers, which then sends a push notification back to your phone—and to the Home Assistant integration. If Eufy’s servers are down, or if they change their API (as they did in June 2026), Home Assistant never receives the "motion detected" signal. For buyers seeking a 100% local-only setup that functions without an internet connection, Eufy’s reliance on this cloud-based notification round-trip is a significant architectural hurdle.
 

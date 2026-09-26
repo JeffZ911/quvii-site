@@ -72,7 +72,7 @@ Wyze can be reached toll-free at 888-832-7226, via email at recall@wyze.com, or 
 
 **For owners of other Wyze cameras experiencing offline issues:**
 
-If you own a different Wyze camera model and are experiencing offline issues, unrelated to the Solar Cam Pan recall, you should attempt basic troubleshooting steps. These include power cycling the camera by unplugging it and plugging it back in, and restarting your home router. It's important to note that remote troubleshooting for devices that appear offline is often not possible.
+If you own a different [Wyze camera](https://quvii.com/blog/wyze-cam-sd-card-playback-retrieval-issues) model and are experiencing offline issues, unrelated to the Solar Cam Pan recall, you should attempt basic troubleshooting steps. These include power cycling the camera by unplugging it and plugging it back in, and restarting your home router. It's important to note that remote troubleshooting for devices that appear offline is often not possible.
 
 Always check the official Wyze service status page (support.wyze.com/servicestatus) for any ongoing widespread outages or known issues affecting the Wyze app or services. Ensuring your camera's firmware is up to date is also a critical step, as updates frequently include stability and connectivity improvements.
 

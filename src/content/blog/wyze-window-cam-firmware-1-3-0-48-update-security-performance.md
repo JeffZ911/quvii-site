@@ -79,7 +79,7 @@ When choosing a camera to pair with the window mount, buyers must balance resolu
 ![Impact on existing owners](/img/wyze-window-cam-firmware-1-3-0-48-update-security-performance/inline-3.webp)
 
 
-For those already utilizing a Wyze camera in a window-mount configuration, the 1.3.0.48 update is not optional—it is a critical security patch.
+For those already utilizing a [Wyze camera](https://quvii.com/blog/wyze-cam-sd-card-playback-retrieval-issues) in a window-mount configuration, the 1.3.0.48 update is not optional—it is a critical security patch.
 
 ### Remediation of Missed Events
 The "event uploading error" was more than a technical nuisance; it was a security gap. Owners who relied on these cameras for "porch pirate" detection or driveway monitoring reported instances where the camera triggered an alert, but the footage was lost to the upload error. By resolving the timing issues in the camera’s transmission buffer, version 1.3.0.48 ensures that once a motion event is captured, it successfully reaches the Wyze AWS (Amazon Web Services) buckets for user retrieval.
