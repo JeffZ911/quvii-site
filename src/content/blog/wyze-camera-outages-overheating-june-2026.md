@@ -153,7 +153,7 @@ This estimate demonstrates that while the initial hardware cost of Wyze cameras 
 
 ### What should I do if my Wyze camera is offline but not the recalled Solar Cam Pan?
 
-If your Wyze camera, other than the Solar Cam Pan (WYZESCPWH), is offline, first try basic troubleshooting like power cycling the camera and restarting your Wi-Fi router. Then, check the official Wyze service status page (support.wyze.com/servicestatus) for any reported outages or known issues. Ensure your camera's firmware is up to date, as this can often resolve connectivity problems.
+If your [Wyze camera](https://quvii.com/blog/wyze-cam-sd-card-playback-retrieval-issues), other than the Solar Cam Pan (WYZESCPWH), is offline, first try basic troubleshooting like power cycling the camera and restarting your Wi-Fi router. Then, check the official Wyze service status page (support.wyze.com/servicestatus) for any reported outages or known issues. Ensure your camera's firmware is up to date, as this can often resolve connectivity problems.
 
 ### Can extreme heat cause my Wyze camera to stop working or go offline?
 

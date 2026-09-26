@@ -102,7 +102,7 @@ Compared to competitors like Ring or Arlo, where the 3-year TCO often exceeds $3
 ![What to do now](/img/wyze-window-cam-firmware-1-3-0-48-update-security-performance/inline-4.webp)
 
 
-If you own a Wyze camera currently serving as a window cam, follow these steps to ensure your system is protected by the latest fixes.
+If you own a [Wyze camera](https://quvii.com/blog/wyze-cam-sd-card-playback-retrieval-issues) currently serving as a window cam, follow these steps to ensure your system is protected by the latest fixes.
 
 ### How to Update Your Wyze Window Cam Firmware
 1.  **Open the Wyze App:** Ensure your app is updated to the latest version via the Apple App Store or Google Play Store.

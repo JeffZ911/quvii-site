@@ -154,7 +154,7 @@ When evaluating the HP7, the sticker price is only one part of the equation. Bec
 *   **3-Year Total (Local):** **$325**
 *   **3-Year Total (Cloud):** **$510**
 
-By comparison, a Reolink system has a 3-year TCO of approximately **$150** (including hardware and SD card), as there are no "paywalled" features like AI detection or rich notifications.
+By comparison, a Reolink system has a 3-year TCO of approximately **$150** (including hardware and [SD card](https://quvii.com/blog/wyze-cam-sd-card-playback-retrieval-issues)), as there are no "paywalled" features like AI detection or rich notifications.
 
 ## Frequently Asked Questions
 

@@ -127,7 +127,7 @@ Review the release notes for the June 2026 Google Home update. If you are experi
 If the recent outages and the forum shutdown have shaken your confidence in cloud-only systems, consider the following decision framework for your next purchase:
 
 *   **If you are a Renter:** Stick with the Nest Cam (Battery) for its ease of installation, but be prepared for occasional cloud-related downtime.
-*   **If you are a Homeowner (High Security):** Prioritize cameras that offer **Local Storage** (via SD card or a dedicated NVR). Brands like Reolink or Eufy allow you to record and view footage even if the manufacturer's servers go offline.
+*   **If you are a Homeowner (High Security):** Prioritize cameras that offer **Local Storage** (via [SD card](https://quvii.com/blog/wyze-cam-sd-card-playback-retrieval-issues) or a dedicated NVR). Brands like Reolink or Eufy allow you to record and view footage even if the manufacturer's servers go offline.
 *   **If you are Privacy-Focused:** Look for systems that support **End-to-End Encryption** or "Local-Only" modes where no data ever leaves your home network (e.g., [Ubiquiti UniFi](https://quvii.com/blog/ring-vs-ubiquiti-unifi-comparison-2026) Protect).
 
 **Decision Framework: Subscription vs. Local Storage**
